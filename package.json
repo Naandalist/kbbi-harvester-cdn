@@ -1,0 +1,16 @@
+{
+  "name": "kbbi_harvester",
+  "version": "1.0.0",
+  "description": "A batch harvester for KBBI entries—fetches words from a list, looks them up via @doedja/kbbi-js, and saves the results as JSON files.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "clean-result": "rm -rf result/*"
+  },
+  "author": "Listiananda Apriliawan",
+  "license": "ISC",
+  "dependencies": {
+    "@doedja/kbbi-js": "^1.0.3"
+  }
+}
