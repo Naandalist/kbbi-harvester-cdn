@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "node src/index.js",
-    "clean-result": "rm -rf result/*"
+    "clean-result": "rm -rf result/*",
+    "login": "npx @doedja/kbbi-js --login"
   },
   "author": "Listiananda Apriliawan",
   "license": "ISC",
