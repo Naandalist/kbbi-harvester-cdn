@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "node src/index.js",
     "clean-result": "rm -rf result/*",
+    "reset": "rm -rf node_modules && rm package-lock.json && npm install",
     "login": "npx @doedja/kbbi-js --login"
   },
   "author": "Listiananda Apriliawan",
