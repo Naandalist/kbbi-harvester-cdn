@@ -74,7 +74,6 @@ function randomDelay(min = 100, max = 2500) {
       if (!entry || !entry.result) {
         progress.emit("progress", { word, index: i, total, flag: "❓" });
         // await randomDelay();
-        i--;
         continue;
       }
       if (entry.result.authenticated === false) {
@@ -85,7 +84,6 @@ function randomDelay(min = 100, max = 2500) {
           appendFileSync(FAILED_FILE, `${word}\n`, "utf-8");
         }
         progress.emit("authFailure", word);
-        i--;
         continue;
       }
 
