@@ -1,4 +1,4 @@
-# 📚✨ KBBI Harvester CDN 🚀
+# 📚✨ KBBI Harvester CDN 
 
 Welcome to the **KBBI Harvester CDN** – lightning-fast, open-source Content Delivery Network for Kamus Besar Bahasa Indonesia (KBBI) word data!  
 
