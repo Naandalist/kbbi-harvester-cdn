@@ -1,0 +1,2436 @@
+{
+  "meta": {
+    "description": "KBBI Word Categories and Classifications",
+    "total_files_processed": 84929,
+    "total_files_found": 112596,
+    "total_unique_categories": 443,
+    "total_category_combinations": 744,
+    "extraction_date": "2025-08-06"
+  },
+  "individual_categories": [
+    {
+      "kode": "--",
+      "nama": "--"
+    },
+    {
+      "kode": "Ab",
+      "nama": "Abui"
+    },
+    {
+      "kode": "Abn",
+      "nama": "Abun"
+    },
+    {
+      "kode": "Abr",
+      "nama": "Abrap"
+    },
+    {
+      "kode": "Ach",
+      "nama": "Aceh"
+    },
+    {
+      "kode": "Adm",
+      "nama": "Administrasi dan Kepegawaian"
+    },
+    {
+      "kode": "Aln",
+      "nama": "Alune"
+    },
+    {
+      "kode": "Alr",
+      "nama": "Alor"
+    },
+    {
+      "kode": "Als",
+      "nama": "Alas"
+    },
+    {
+      "kode": "Amk",
+      "nama": "Amungkal"
+    },
+    {
+      "kode": "Anat",
+      "nama": "Anatomi"
+    },
+    {
+      "kode": "Antr",
+      "nama": "Antropologi"
+    },
+    {
+      "kode": "Ar",
+      "nama": "Arab"
+    },
+    {
+      "kode": "ArS",
+      "nama": "Armati Sarma"
+    },
+    {
+      "kode": "Ark",
+      "nama": "Arkeologi"
+    },
+    {
+      "kode": "Ars",
+      "nama": "Arsitektur"
+    },
+    {
+      "kode": "Asm",
+      "nama": "Asmat"
+    },
+    {
+      "kode": "Ast",
+      "nama": "Astronomi"
+    },
+    {
+      "kode": "Astro",
+      "nama": "Astronomi"
+    },
+    {
+      "kode": "Astrol",
+      "nama": "Astrologi"
+    },
+    {
+      "kode": "Astron",
+      "nama": "Astronomi"
+    },
+    {
+      "kode": "Awy",
+      "nama": "Awyu"
+    },
+    {
+      "kode": "Ba",
+      "nama": "Baun"
+    },
+    {
+      "kode": "Bakt",
+      "nama": "-"
+    },
+    {
+      "kode": "Bc",
+      "nama": "Bacan"
+    },
+    {
+      "kode": "Beng",
+      "nama": "Bengkulu"
+    },
+    {
+      "kode": "Bg",
+      "nama": "Bugis"
+    },
+    {
+      "kode": "BgM",
+      "nama": "Bugis-Makassar"
+    },
+    {
+      "kode": "Bgi",
+      "nama": "Banggai"
+    },
+    {
+      "kode": "Bgk",
+      "nama": "Bungku"
+    },
+    {
+      "kode": "BhDI",
+      "nama": "-"
+    },
+    {
+      "kode": "BhDi",
+      "nama": "Bahau Diaq Lay"
+    },
+    {
+      "kode": "BhUj",
+      "nama": "Bahau Ujoh Bilang"
+    },
+    {
+      "kode": "Bio",
+      "nama": "Biologi"
+    },
+    {
+      "kode": "BjPd",
+      "nama": "Bajau Pondong"
+    },
+    {
+      "kode": "Bjr",
+      "nama": "Banjar"
+    },
+    {
+      "kode": "Bk",
+      "nama": "Biak"
+    },
+    {
+      "kode": "Bkp",
+      "nama": "Bakumpai"
+    },
+    {
+      "kode": "Bkt",
+      "nama": "Bakatik"
+    },
+    {
+      "kode": "Bl",
+      "nama": "Bali"
+    },
+    {
+      "kode": "BlM",
+      "nama": "Bolaang Mongondow"
+    },
+    {
+      "kode": "Bla",
+      "nama": "Blagar"
+    },
+    {
+      "kode": "Bld",
+      "nama": "Belanda"
+    },
+    {
+      "kode": "Blg",
+      "nama": "Bulungan"
+    },
+    {
+      "kode": "Bm",
+      "nama": "Bima"
+    },
+    {
+      "kode": "Bn",
+      "nama": "Benuaq"
+    },
+    {
+      "kode": "Bnd",
+      "nama": "Banda"
+    },
+    {
+      "kode": "Bo",
+      "nama": "Boing"
+    },
+    {
+      "kode": "Bot",
+      "nama": "Botani"
+    },
+    {
+      "kode": "Brk",
+      "nama": "Berik"
+    },
+    {
+      "kode": "Bsm",
+      "nama": "Basemah"
+    },
+    {
+      "kode": "Bt",
+      "nama": "Batak"
+    },
+    {
+      "kode": "Bt",
+      "nama": "Betawi"
+    },
+    {
+      "kode": "Btk",
+      "nama": "Bantik"
+    },
+    {
+      "kode": "Btl",
+      "nama": "Batuley"
+    },
+    {
+      "kode": "Bu",
+      "nama": "Budaya"
+    },
+    {
+      "kode": "Bud",
+      "nama": "Agama Buddha"
+    },
+    {
+      "kode": "Buli",
+      "nama": "Buli"
+    },
+    {
+      "kode": "Bun",
+      "nama": "Bunak"
+    },
+    {
+      "kode": "Buo",
+      "nama": "Buol"
+    },
+    {
+      "kode": "Bz",
+      "nama": "Bauzi"
+    },
+    {
+      "kode": "C",
+      "nama": "Cina"
+    },
+    {
+      "kode": "Ca",
+      "nama": "Cia-Cia"
+    },
+    {
+      "kode": "Cl",
+      "nama": "Culambacu"
+    },
+    {
+      "kode": "Cn",
+      "nama": "Cina"
+    },
+    {
+      "kode": "Dag",
+      "nama": "Perdagangan"
+    },
+    {
+      "kode": "Dam",
+      "nama": "Damal"
+    },
+    {
+      "kode": "Dem",
+      "nama": "Demografi"
+    },
+    {
+      "kode": "Dey",
+      "nama": "Dusun Deyah"
+    },
+    {
+      "kode": "Dik",
+      "nama": "Pendidikan"
+    },
+    {
+      "kode": "Dirg",
+      "nama": "Kedirgantaraan"
+    },
+    {
+      "kode": "Dm",
+      "nama": "Denmark"
+    },
+    {
+      "kode": "Dn",
+      "nama": "Dani"
+    },
+    {
+      "kode": "Dok",
+      "nama": "Kedokteran dan Fisiologi"
+    },
+    {
+      "kode": "Dwn",
+      "nama": "Dawan"
+    },
+    {
+      "kode": "Dy",
+      "nama": "Dayak"
+    },
+    {
+      "kode": "DyNg",
+      "nama": "Dayak Ngaju"
+    },
+    {
+      "kode": "Econ",
+      "nama": "Ekonomi"
+    },
+    {
+      "kode": "Ek",
+      "nama": "Ekonomi dan Keuangan"
+    },
+    {
+      "kode": "Ekol",
+      "nama": "Ekologi"
+    },
+    {
+      "kode": "Ekr",
+      "nama": "Ekari"
+    },
+    {
+      "kode": "El",
+      "nama": "Elektronika"
+    },
+    {
+      "kode": "Eln",
+      "nama": "Elnama"
+    },
+    {
+      "kode": "Ent",
+      "nama": "Entomologi"
+    },
+    {
+      "kode": "Far",
+      "nama": "Farmasi dan Farmakologi"
+    },
+    {
+      "kode": "Ff",
+      "nama": "Fakfak"
+    },
+    {
+      "kode": "Fil",
+      "nama": "Filsafat"
+    },
+    {
+      "kode": "Film",
+      "nama": "Perfilman"
+    },
+    {
+      "kode": "Filol",
+      "nama": "Filologi"
+    },
+    {
+      "kode": "Fin",
+      "nama": "Keuangan"
+    },
+    {
+      "kode": "Fis",
+      "nama": "Fisika"
+    },
+    {
+      "kode": "Ft",
+      "nama": "Fotografi"
+    },
+    {
+      "kode": "Gal",
+      "nama": "Galela"
+    },
+    {
+      "kode": "Geo",
+      "nama": "Geografi"
+    },
+    {
+      "kode": "Geo",
+      "nama": "Geografi dan Geologi"
+    },
+    {
+      "kode": "Geof",
+      "nama": "Geofisika"
+    },
+    {
+      "kode": "Gn",
+      "nama": "Gane"
+    },
+    {
+      "kode": "Gor",
+      "nama": "Gorontalo"
+    },
+    {
+      "kode": "Graf",
+      "nama": "Grafika"
+    },
+    {
+      "kode": "Gy",
+      "nama": "Gayo"
+    },
+    {
+      "kode": "Gz",
+      "nama": "Ilmu Gizi"
+    },
+    {
+      "kode": "Hat",
+      "nama": "Hatam"
+    },
+    {
+      "kode": "He",
+      "nama": "Helong"
+    },
+    {
+      "kode": "Hid",
+      "nama": "Hidrologi"
+    },
+    {
+      "kode": "Hidm",
+      "nama": "Hidrometeorologi"
+    },
+    {
+      "kode": "Hin",
+      "nama": "Agama Hindu"
+    },
+    {
+      "kode": "Hot",
+      "nama": "Perhotelan"
+    },
+    {
+      "kode": "Ht",
+      "nama": "Hitu"
+    },
+    {
+      "kode": "Hub",
+      "nama": "Perhubungan"
+    },
+    {
+      "kode": "Huk",
+      "nama": "Hukum"
+    },
+    {
+      "kode": "Hut",
+      "nama": "Kehutanan"
+    },
+    {
+      "kode": "Hw",
+      "nama": "Hawaii"
+    },
+    {
+      "kode": "Ib",
+      "nama": "Ibrani"
+    },
+    {
+      "kode": "Ibo",
+      "nama": "Ibo"
+    },
+    {
+      "kode": "Idt",
+      "nama": "Perindustrian dan Kerajinan"
+    },
+    {
+      "kode": "If",
+      "nama": "Teknologi Informasi"
+    },
+    {
+      "kode": "Ikn",
+      "nama": "Perikanan"
+    },
+    {
+      "kode": "In",
+      "nama": "India"
+    },
+    {
+      "kode": "Ing",
+      "nama": "Inggris"
+    },
+    {
+      "kode": "Ins",
+      "nama": "Asuransi"
+    },
+    {
+      "kode": "Ira",
+      "nama": "Irarutu"
+    },
+    {
+      "kode": "Isl",
+      "nama": "Agama Islam"
+    },
+    {
+      "kode": "Isl",
+      "nama": "Islam"
+    },
+    {
+      "kode": "Islam",
+      "nama": "Islam"
+    },
+    {
+      "kode": "It",
+      "nama": "Italia"
+    },
+    {
+      "kode": "Jb",
+      "nama": "Melayu Jambi"
+    },
+    {
+      "kode": "Jk",
+      "nama": "Melayu Jakarta"
+    },
+    {
+      "kode": "Jm",
+      "nama": "Jerman"
+    },
+    {
+      "kode": "Jp",
+      "nama": "Jepang"
+    },
+    {
+      "kode": "Jw",
+      "nama": "Jawa"
+    },
+    {
+      "kode": "KAg",
+      "nama": "Kayu Agung"
+    },
+    {
+      "kode": "Ka",
+      "nama": "Kamang"
+    },
+    {
+      "kode": "Kae",
+      "nama": "Kaera"
+    },
+    {
+      "kode": "Kai",
+      "nama": "Kaiely"
+    },
+    {
+      "kode": "Kal",
+      "nama": "Kaili"
+    },
+    {
+      "kode": "Kap",
+      "nama": "Perkapalan"
+    },
+    {
+      "kode": "Kat",
+      "nama": "Agama Katolik"
+    },
+    {
+      "kode": "Kb",
+      "nama": "Kambera"
+    },
+    {
+      "kode": "Kbai",
+      "nama": "Kombai"
+    },
+    {
+      "kode": "Ke",
+      "nama": "Kenyah"
+    },
+    {
+      "kode": "Kei",
+      "nama": "Kei"
+    },
+    {
+      "kode": "Kes",
+      "nama": "Kesehatan"
+    },
+    {
+      "kode": "Keu",
+      "nama": "Keuangan"
+    },
+    {
+      "kode": "Kh",
+      "nama": "Kapuas Hulu"
+    },
+    {
+      "kode": "Khm",
+      "nama": "Kaham"
+    },
+    {
+      "kode": "Kim",
+      "nama": "Kimia"
+    },
+    {
+      "kode": "Kj",
+      "nama": "Konjo"
+    },
+    {
+      "kode": "Kkd",
+      "nama": "kokoda"
+    },
+    {
+      "kode": "Klb",
+      "nama": "Kalabra"
+    },
+    {
+      "kode": "Klm",
+      "nama": "Melayu Kalimantan"
+    },
+    {
+      "kode": "Kls",
+      "nama": "Kulisusu"
+    },
+    {
+      "kode": "Km",
+      "nama": "Kimaam"
+    },
+    {
+      "kode": "Kmr",
+      "nama": "Kamoro"
+    },
+    {
+      "kode": "Ko",
+      "nama": "Komering"
+    },
+    {
+      "kode": "Kol",
+      "nama": "Kola"
+    },
+    {
+      "kode": "Kom",
+      "nama": "Ilmu Komunikasi"
+    },
+    {
+      "kode": "Komp",
+      "nama": "Komputer"
+    },
+    {
+      "kode": "Kon",
+      "nama": "Kone-konee"
+    },
+    {
+      "kode": "Kor",
+      "nama": "Korea"
+    },
+    {
+      "kode": "Kos",
+      "nama": "-"
+    },
+    {
+      "kode": "Kpr",
+      "nama": "Melayu Kep. Riau"
+    },
+    {
+      "kode": "Kr",
+      "nama": "Kaureh"
+    },
+    {
+      "kode": "Krc",
+      "nama": "Kerinci"
+    },
+    {
+      "kode": "Kris",
+      "nama": "Agama Kristen"
+    },
+    {
+      "kode": "Kul",
+      "nama": "Kulawi"
+    },
+    {
+      "kode": "Kur",
+      "nama": "Kur"
+    },
+    {
+      "kode": "Kw",
+      "nama": "Kawi"
+    },
+    {
+      "kode": "Ky",
+      "nama": "Karey"
+    },
+    {
+      "kode": "Kyn",
+      "nama": "Kayaan"
+    },
+    {
+      "kode": "Lay",
+      "nama": "Pelayaran"
+    },
+    {
+      "kode": "Ldy",
+      "nama": "Lundayeh"
+    },
+    {
+      "kode": "Let",
+      "nama": "Letti"
+    },
+    {
+      "kode": "Lgk",
+      "nama": "Lingkungan"
+    },
+    {
+      "kode": "Lh",
+      "nama": "Luhu"
+    },
+    {
+      "kode": "Ling",
+      "nama": "Linguistik"
+    },
+    {
+      "kode": "Lj",
+      "nama": "Lauje"
+    },
+    {
+      "kode": "Lkp",
+      "nama": "Lengkayap"
+    },
+    {
+      "kode": "Lmg",
+      "nama": "Lemolang"
+    },
+    {
+      "kode": "Lmh",
+      "nama": "Lamaholot"
+    },
+    {
+      "kode": "Lmt",
+      "nama": "Lematang"
+    },
+    {
+      "kode": "Lp",
+      "nama": "Lampung"
+    },
+    {
+      "kode": "Lt",
+      "nama": "Latin"
+    },
+    {
+      "kode": "M",
+      "nama": "-"
+    },
+    {
+      "kode": "MAb",
+      "nama": "Melayu Ambon"
+    },
+    {
+      "kode": "MBa",
+      "nama": "Melayu Bangka"
+    },
+    {
+      "kode": "MBl",
+      "nama": "Melayu Belitung"
+    },
+    {
+      "kode": "MKp",
+      "nama": "Melayu Kupang"
+    },
+    {
+      "kode": "MSg",
+      "nama": "Moi Sigin"
+    },
+    {
+      "kode": "Maa",
+      "nama": "Maanyan"
+    },
+    {
+      "kode": "Mal",
+      "nama": "Melayu Malaysia"
+    },
+    {
+      "kode": "Man",
+      "nama": "Manajemen"
+    },
+    {
+      "kode": "Mar",
+      "nama": "Marlasi"
+    },
+    {
+      "kode": "Mat",
+      "nama": "Matematika"
+    },
+    {
+      "kode": "Md",
+      "nama": "Melayu Medan"
+    },
+    {
+      "kode": "Mdl",
+      "nama": "Modole"
+    },
+    {
+      "kode": "Mdr",
+      "nama": "Madura"
+    },
+    {
+      "kode": "Me",
+      "nama": "Moronene"
+    },
+    {
+      "kode": "Med",
+      "nama": "Medis"
+    },
+    {
+      "kode": "Mee",
+      "nama": "Mee"
+    },
+    {
+      "kode": "Mek",
+      "nama": "Mekanika"
+    },
+    {
+      "kode": "Met",
+      "nama": "Meteorologi"
+    },
+    {
+      "kode": "Metal",
+      "nama": "Metalurgi"
+    },
+    {
+      "kode": "Mg",
+      "nama": "Manggarai"
+    },
+    {
+      "kode": "Mik",
+      "nama": "Mikologi"
+    },
+    {
+      "kode": "Mil",
+      "nama": "Kemiliteran"
+    },
+    {
+      "kode": "Min",
+      "nama": "Mineralogi"
+    },
+    {
+      "kode": "Mk",
+      "nama": "Minangkabau"
+    },
+    {
+      "kode": "MkD",
+      "nama": "Makian Dalam"
+    },
+    {
+      "kode": "MkT",
+      "nama": "-"
+    },
+    {
+      "kode": "Mks",
+      "nama": "Makassar"
+    },
+    {
+      "kode": "Mmk",
+      "nama": "Mimika"
+    },
+    {
+      "kode": "Mn",
+      "nama": "Minahasa"
+    },
+    {
+      "kode": "Mnd",
+      "nama": "Melayu Manado"
+    },
+    {
+      "kode": "Moa",
+      "nama": "Moa"
+    },
+    {
+      "kode": "Mooi",
+      "nama": "Mooi"
+    },
+    {
+      "kode": "Mp",
+      "nama": "Massenrengpulu"
+    },
+    {
+      "kode": "Mr",
+      "nama": "Mandar"
+    },
+    {
+      "kode": "Mrd",
+      "nama": "Moraid"
+    },
+    {
+      "kode": "Mt",
+      "nama": "Mentawai"
+    },
+    {
+      "kode": "Mtm",
+      "nama": "Melayu Tamiang"
+    },
+    {
+      "kode": "Mtr",
+      "nama": "-"
+    },
+    {
+      "kode": "Mu",
+      "nama": "Muna"
+    },
+    {
+      "kode": "Mus",
+      "nama": "Musik"
+    },
+    {
+      "kode": "My",
+      "nama": "Muyu"
+    },
+    {
+      "kode": "Nam",
+      "nama": "-"
+    },
+    {
+      "kode": "Nanotek",
+      "nama": "Nanoteknologi"
+    },
+    {
+      "kode": "Nbg",
+      "nama": "Namblong"
+    },
+    {
+      "kode": "Ng",
+      "nama": "Ngada"
+    },
+    {
+      "kode": "Ngl",
+      "nama": "Ngalum"
+    },
+    {
+      "kode": "Ni",
+      "nama": "Nias"
+    },
+    {
+      "kode": "Nom",
+      "nama": "Nama"
+    },
+    {
+      "kode": "Nom",
+      "nama": "Nomina"
+    },
+    {
+      "kode": "Nr",
+      "nama": "Norwegia"
+    },
+    {
+      "kode": "Og",
+      "nama": "Ogan"
+    },
+    {
+      "kode": "Oi",
+      "nama": "Oirata"
+    },
+    {
+      "kode": "Olahraga",
+      "nama": "O"
+    },
+    {
+      "kode": "Olr",
+      "nama": "Olahraga"
+    },
+    {
+      "kode": "Or",
+      "nama": "Ormu"
+    },
+    {
+      "kode": "Osn",
+      "nama": "Oseanografi"
+    },
+    {
+      "kode": "Oto",
+      "nama": "Otomotif"
+    },
+    {
+      "kode": "Oy",
+      "nama": "Orya"
+    },
+    {
+      "kode": "Pang",
+      "nama": "Ilmu Pangan"
+    },
+    {
+      "kode": "Par",
+      "nama": "Parsi"
+    },
+    {
+      "kode": "Pat",
+      "nama": "Patologi"
+    },
+    {
+      "kode": "Pet",
+      "nama": "Petrologi dan Migas"
+    },
+    {
+      "kode": "Pi",
+      "nama": "Piliana"
+    },
+    {
+      "kode": "Pl",
+      "nama": "Pulo"
+    },
+    {
+      "kode": "Plb",
+      "nama": "Palembang"
+    },
+    {
+      "kode": "Pm",
+      "nama": "Pamona"
+    },
+    {
+      "kode": "Pol",
+      "nama": "Politik dan Pemerintahan"
+    },
+    {
+      "kode": "Pp",
+      "nama": "Papua"
+    },
+    {
+      "kode": "Pr",
+      "nama": "Prancis"
+    },
+    {
+      "kode": "Prm",
+      "nama": "Pramuka"
+    },
+    {
+      "kode": "Prt",
+      "nama": "Portugis"
+    },
+    {
+      "kode": "Prw",
+      "nama": "Pariwisata"
+    },
+    {
+      "kode": "Psi",
+      "nama": "Psikologi"
+    },
+    {
+      "kode": "Psr",
+      "nama": "Pasir (Paser)"
+    },
+    {
+      "kode": "Pt",
+      "nama": "Petapa"
+    },
+    {
+      "kode": "Ptk",
+      "nama": "Putuk"
+    },
+    {
+      "kode": "Pust",
+      "nama": "Ilmu Perpustakaan dan Dokumentasi"
+    },
+    {
+      "kode": "Ram",
+      "nama": "Rampi"
+    },
+    {
+      "kode": "Ri",
+      "nama": "Melayu Riau"
+    },
+    {
+      "kode": "Rj",
+      "nama": "-"
+    },
+    {
+      "kode": "Rjg",
+      "nama": "Rejang"
+    },
+    {
+      "kode": "Rpb",
+      "nama": "Rupabumi"
+    },
+    {
+      "kode": "Rs",
+      "nama": "Rusia"
+    },
+    {
+      "kode": "Rt",
+      "nama": "Rote"
+    },
+    {
+      "kode": "SLa",
+      "nama": "Serui Laut"
+    },
+    {
+      "kode": "Sa",
+      "nama": "Serua"
+    },
+    {
+      "kode": "Sas",
+      "nama": "Sastra"
+    },
+    {
+      "kode": "Sb",
+      "nama": "Sabu"
+    },
+    {
+      "kode": "Sbw",
+      "nama": "Sumbawa"
+    },
+    {
+      "kode": "Sd",
+      "nama": "Sunda"
+    },
+    {
+      "kode": "Sen",
+      "nama": "Kesenian"
+    },
+    {
+      "kode": "Sg",
+      "nama": "Sigulai"
+    },
+    {
+      "kode": "Sh",
+      "nama": "Sahu"
+    },
+    {
+      "kode": "Si",
+      "nama": "Sikka"
+    },
+    {
+      "kode": "Skt",
+      "nama": "Sanskerta"
+    },
+    {
+      "kode": "Sky",
+      "nama": "Sekayu"
+    },
+    {
+      "kode": "Sln",
+      "nama": "Saluan"
+    },
+    {
+      "kode": "Sls",
+      "nama": "Salas"
+    },
+    {
+      "kode": "Slw",
+      "nama": "Seluwarsa"
+    },
+    {
+      "kode": "Smb",
+      "nama": "Sumba"
+    },
+    {
+      "kode": "Sng",
+      "nama": "Sangir"
+    },
+    {
+      "kode": "Sos",
+      "nama": "Sosiologi"
+    },
+    {
+      "kode": "Sp",
+      "nama": "Spanyol"
+    },
+    {
+      "kode": "Sr",
+      "nama": "Sorong"
+    },
+    {
+      "kode": "Srm",
+      "nama": "Seram"
+    },
+    {
+      "kode": "Ss",
+      "nama": "Sasak"
+    },
+    {
+      "kode": "Stat",
+      "nama": "Statistik"
+    },
+    {
+      "kode": "Stn",
+      "nama": "Sentani"
+    },
+    {
+      "kode": "Su",
+      "nama": "Sula"
+    },
+    {
+      "kode": "Sw",
+      "nama": "Sawai"
+    },
+    {
+      "kode": "Swe",
+      "nama": "-"
+    },
+    {
+      "kode": "TI",
+      "nama": "-"
+    },
+    {
+      "kode": "TI",
+      "nama": "Teknologi Informasi"
+    },
+    {
+      "kode": "Taa",
+      "nama": "Taa"
+    },
+    {
+      "kode": "Tamb",
+      "nama": "Teknik Pertambangan"
+    },
+    {
+      "kode": "Tan",
+      "nama": "Pertanian"
+    },
+    {
+      "kode": "Tas",
+      "nama": "Tasawuf"
+    },
+    {
+      "kode": "Tb",
+      "nama": "Tobelo"
+    },
+    {
+      "kode": "Tbg",
+      "nama": "Tata Boga"
+    },
+    {
+      "kode": "Tbl",
+      "nama": "Tombulu"
+    },
+    {
+      "kode": "Tbs",
+      "nama": "Tata Busana"
+    },
+    {
+      "kode": "Tbt",
+      "nama": "Tobati"
+    },
+    {
+      "kode": "Te",
+      "nama": "Tetun"
+    },
+    {
+      "kode": "Tek",
+      "nama": "Teknik"
+    },
+    {
+      "kode": "Telekom",
+      "nama": "Telekomunikasi"
+    },
+    {
+      "kode": "Teng",
+      "nama": "Tenggalan"
+    },
+    {
+      "kode": "Terb",
+      "nama": "Penerbangan"
+    },
+    {
+      "kode": "Tern",
+      "nama": "Peternakan"
+    },
+    {
+      "kode": "Th",
+      "nama": "Thai"
+    },
+    {
+      "kode": "Tht",
+      "nama": "Tehit"
+    },
+    {
+      "kode": "Tj",
+      "nama": "Tunjung"
+    },
+    {
+      "kode": "Tl",
+      "nama": "Toulour"
+    },
+    {
+      "kode": "Tld",
+      "nama": "Talaud"
+    },
+    {
+      "kode": "Tlk",
+      "nama": "Tolaki"
+    },
+    {
+      "kode": "Tn",
+      "nama": "Ilmu Tanah"
+    },
+    {
+      "kode": "Tns",
+      "nama": "Minahasa Tonsea"
+    },
+    {
+      "kode": "Tot",
+      "nama": "Totoli"
+    },
+    {
+      "kode": "Tr",
+      "nama": "Ternate"
+    },
+    {
+      "kode": "Trf",
+      "nama": "Tarfia"
+    },
+    {
+      "kode": "Trj",
+      "nama": "Toraja"
+    },
+    {
+      "kode": "Trp",
+      "nama": "Transportasi"
+    },
+    {
+      "kode": "Trs",
+      "nama": "Tata Rias"
+    },
+    {
+      "kode": "Trtim",
+      "nama": "Tarangan Timur"
+    },
+    {
+      "kode": "Tsg",
+      "nama": "Minahasa Tonsawang"
+    },
+    {
+      "kode": "Tsw",
+      "nama": "Tswana"
+    },
+    {
+      "kode": "Tur",
+      "nama": "Turki"
+    },
+    {
+      "kode": "Us",
+      "nama": "Using"
+    },
+    {
+      "kode": "Wdm",
+      "nama": "Wandamen"
+    },
+    {
+      "kode": "We",
+      "nama": "Wemale"
+    },
+    {
+      "kode": "Wl",
+      "nama": "Wolio"
+    },
+    {
+      "kode": "Wmn",
+      "nama": "Wamena"
+    },
+    {
+      "kode": "Wr",
+      "nama": "Warry"
+    },
+    {
+      "kode": "Wrp",
+      "nama": "Waropen"
+    },
+    {
+      "kode": "Wtb",
+      "nama": "Wakatobi"
+    },
+    {
+      "kode": "Ylh",
+      "nama": "Yalahatan"
+    },
+    {
+      "kode": "Yn",
+      "nama": "Yunani"
+    },
+    {
+      "kode": "Zoo",
+      "nama": "Zoologi"
+    },
+    {
+      "kode": "Zool",
+      "nama": "Zoologi"
+    },
+    {
+      "kode": "a",
+      "nama": "Adjektiva"
+    },
+    {
+      "kode": "a",
+      "nama": "Anatomi"
+    },
+    {
+      "kode": "adj",
+      "nama": "Adjektiva"
+    },
+    {
+      "kode": "adm",
+      "nama": "Administratif"
+    },
+    {
+      "kode": "adv",
+      "nama": "Adverbia"
+    },
+    {
+      "kode": "ak",
+      "nama": "Akademis"
+    },
+    {
+      "kode": "ak",
+      "nama": "Akronim"
+    },
+    {
+      "kode": "akr",
+      "nama": "Akronim"
+    },
+    {
+      "kode": "akr",
+      "nama": "akronim"
+    },
+    {
+      "kode": "ark",
+      "nama": "Arkais"
+    },
+    {
+      "kode": "ark",
+      "nama": "Arkeologi"
+    },
+    {
+      "kode": "bahasa",
+      "nama": "Bahasa"
+    },
+    {
+      "kode": "bentuk",
+      "nama": "-"
+    },
+    {
+      "kode": "bentuk terikat",
+      "nama": "-"
+    },
+    {
+      "kode": "budaya",
+      "nama": "Istilah Budaya"
+    },
+    {
+      "kode": "cak",
+      "nama": "Cakapan"
+    },
+    {
+      "kode": "cak",
+      "nama": "cakap"
+    },
+    {
+      "kode": "dipl",
+      "nama": "Diplomatik"
+    },
+    {
+      "kode": "eko",
+      "nama": "Ekologi"
+    },
+    {
+      "kode": "el",
+      "nama": "Elektronik"
+    },
+    {
+      "kode": "etnik",
+      "nama": "Etnik"
+    },
+    {
+      "kode": "etno",
+      "nama": "Etno"
+    },
+    {
+      "kode": "fr",
+      "nama": "Frase"
+    },
+    {
+      "kode": "frase",
+      "nama": "Frase"
+    },
+    {
+      "kode": "geo",
+      "nama": "Geografis"
+    },
+    {
+      "kode": "geo",
+      "nama": "Geologi"
+    },
+    {
+      "kode": "geografi",
+      "nama": "Istilah Geografi"
+    },
+    {
+      "kode": "hon",
+      "nama": "Formal"
+    },
+    {
+      "kode": "hor",
+      "nama": "Hormat"
+    },
+    {
+      "kode": "infiks",
+      "nama": "-"
+    },
+    {
+      "kode": "infiks pembentuk adjektiva",
+      "nama": "-"
+    },
+    {
+      "kode": "infiks pembentuk nomina",
+      "nama": "-"
+    },
+    {
+      "kode": "infiks pembentuk numeralia",
+      "nama": "-"
+    },
+    {
+      "kode": "infiks pembentuk verba",
+      "nama": "-"
+    },
+    {
+      "kode": "ist",
+      "nama": "Istilah"
+    },
+    {
+      "kode": "k",
+      "nama": "Kata"
+    },
+    {
+      "kode": "kas",
+      "nama": "Kasar"
+    },
+    {
+      "kode": "kb",
+      "nama": "Komputer"
+    },
+    {
+      "kode": "kb",
+      "nama": "kata benda"
+    },
+    {
+      "kode": "ki",
+      "nama": "Kata Invasi"
+    },
+    {
+      "kode": "ki",
+      "nama": "Kata Istilah"
+    },
+    {
+      "kode": "ki",
+      "nama": "Kiasan"
+    },
+    {
+      "kode": "ki",
+      "nama": "Klasik"
+    },
+    {
+      "kode": "ki",
+      "nama": "kata inggris"
+    },
+    {
+      "kode": "ki",
+      "nama": "kiasan"
+    },
+    {
+      "kode": "ki",
+      "nama": "konotatif"
+    },
+    {
+      "kode": "kiasan",
+      "nama": "Kiasan"
+    },
+    {
+      "kode": "kj",
+      "nama": "Konjungsi"
+    },
+    {
+      "kode": "kl",
+      "nama": "Klasik"
+    },
+    {
+      "kode": "klitik",
+      "nama": "-"
+    },
+    {
+      "kode": "komp",
+      "nama": "Komputer"
+    },
+    {
+      "kode": "konfiks pembentuk adjektiva",
+      "nama": "-"
+    },
+    {
+      "kode": "konfiks pembentuk nomina",
+      "nama": "-"
+    },
+    {
+      "kode": "konfiks pembentuk verba",
+      "nama": "-"
+    },
+    {
+      "kode": "konfiks verba",
+      "nama": "-"
+    },
+    {
+      "kode": "kp",
+      "nama": "kependekan"
+    },
+    {
+      "kode": "kt",
+      "nama": "Kata Tugas"
+    },
+    {
+      "kode": "kt",
+      "nama": "Keterampilan"
+    },
+    {
+      "kode": "kt",
+      "nama": "kata benda"
+    },
+    {
+      "kode": "med",
+      "nama": "Medis"
+    },
+    {
+      "kode": "n",
+      "nama": "Nomina"
+    },
+    {
+      "kode": "nom",
+      "nama": "Nama"
+    },
+    {
+      "kode": "num",
+      "nama": "Numeralia"
+    },
+    {
+      "kode": "obat",
+      "nama": "Obat"
+    },
+    {
+      "kode": "of",
+      "nama": "Ofensif"
+    },
+    {
+      "kode": "p",
+      "nama": "Partikel"
+    },
+    {
+      "kode": "p",
+      "nama": "Preposisi"
+    },
+    {
+      "kode": "pas",
+      "nama": "Pasif"
+    },
+    {
+      "kode": "pasif",
+      "nama": "Pasif"
+    },
+    {
+      "kode": "pb",
+      "nama": "Peribahasa"
+    },
+    {
+      "kode": "pol",
+      "nama": "Politik"
+    },
+    {
+      "kode": "prefiks",
+      "nama": "-"
+    },
+    {
+      "kode": "prefiks pembentuk adverbia",
+      "nama": "-"
+    },
+    {
+      "kode": "prefiks pembentuk nomina",
+      "nama": "-"
+    },
+    {
+      "kode": "prefiks pembentuk numeralia",
+      "nama": "-"
+    },
+    {
+      "kode": "prefiks pembentuk verba",
+      "nama": "-"
+    },
+    {
+      "kode": "pro",
+      "nama": "Pronomina"
+    },
+    {
+      "kode": "pron",
+      "nama": "Pronomina"
+    },
+    {
+      "kode": "prop",
+      "nama": "Nama"
+    },
+    {
+      "kode": "prop",
+      "nama": "Nama Khusus"
+    },
+    {
+      "kode": "prop",
+      "nama": "Nama Proprietatif"
+    },
+    {
+      "kode": "prop",
+      "nama": "Nama diri"
+    },
+    {
+      "kode": "prop",
+      "nama": "Propinsi"
+    },
+    {
+      "kode": "sas",
+      "nama": "Sasakala"
+    },
+    {
+      "kode": "sing",
+      "nama": "Singkatan"
+    },
+    {
+      "kode": "sing",
+      "nama": "singkatan"
+    },
+    {
+      "kode": "sufiks pembentuk adjektiva",
+      "nama": "-"
+    },
+    {
+      "kode": "sufiks pembentuk nomina",
+      "nama": "-"
+    },
+    {
+      "kode": "sufiks pembentuk verba",
+      "nama": "-"
+    },
+    {
+      "kode": "teknik",
+      "nama": "Teknik"
+    },
+    {
+      "kode": "tem",
+      "nama": "Tempat"
+    },
+    {
+      "kode": "tempat",
+      "nama": "Nama Tempat"
+    },
+    {
+      "kode": "tur",
+      "nama": "Pariwisata"
+    },
+    {
+      "kode": "uk",
+      "nama": "Ucapan"
+    },
+    {
+      "kode": "uk",
+      "nama": "Ucapan Klasik"
+    },
+    {
+      "kode": "ukp",
+      "nama": "Ungkapan"
+    },
+    {
+      "kode": "v",
+      "nama": "Verba"
+    },
+    {
+      "kode": "vul",
+      "nama": "Vulgar"
+    },
+    {
+      "kode": "vulg",
+      "nama": "Vulgar"
+    },
+    {
+      "kode": "wis",
+      "nama": "Wisata"
+    },
+    {
+      "kode": "wisata",
+      "nama": "Nama Wisata"
+    },
+    {
+      "kode": "wtb",
+      "nama": "-"
+    }
+  ],
+  "popular_combinations": [
+    {
+      "combination": [
+        {
+          "kode": "Jw",
+          "nama": "Jawa"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 1797
+    },
+    {
+      "combination": [
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        },
+        {
+          "kode": "sing",
+          "nama": "singkatan"
+        }
+      ],
+      "frequency": 1415
+    },
+    {
+      "combination": [
+        {
+          "kode": "akr",
+          "nama": "akronim"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 1368
+    },
+    {
+      "combination": [
+        {
+          "kode": "Kim",
+          "nama": "Kimia"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 1359
+    },
+    {
+      "combination": [
+        {
+          "kode": "ki",
+          "nama": "kiasan"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 1200
+    },
+    {
+      "combination": [
+        {
+          "kode": "Dok",
+          "nama": "Kedokteran dan Fisiologi"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 1024
+    },
+    {
+      "combination": [
+        {
+          "kode": "Bio",
+          "nama": "Biologi"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 1019
+    },
+    {
+      "combination": [
+        {
+          "kode": "Psi",
+          "nama": "Psikologi"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 849
+    },
+    {
+      "combination": [
+        {
+          "kode": "Sd",
+          "nama": "Sunda"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 785
+    },
+    {
+      "combination": [
+        {
+          "kode": "kl",
+          "nama": "Klasik"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 727
+    },
+    {
+      "combination": [
+        {
+          "kode": "ark",
+          "nama": "Arkais"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 692
+    },
+    {
+      "combination": [
+        {
+          "kode": "cak",
+          "nama": "Cakapan"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 678
+    },
+    {
+      "combination": [
+        {
+          "kode": "Ar",
+          "nama": "Arab"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 675
+    },
+    {
+      "combination": [
+        {
+          "kode": "Ling",
+          "nama": "Linguistik"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 668
+    },
+    {
+      "combination": [
+        {
+          "kode": "cak",
+          "nama": "Cakapan"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 556
+    },
+    {
+      "combination": [
+        {
+          "kode": "ki",
+          "nama": "kiasan"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 548
+    },
+    {
+      "combination": [
+        {
+          "kode": "Fis",
+          "nama": "Fisika"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 512
+    },
+    {
+      "combination": [
+        {
+          "kode": "Mk",
+          "nama": "Minangkabau"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 500
+    },
+    {
+      "combination": [
+        {
+          "kode": "Bot",
+          "nama": "Botani"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 474
+    },
+    {
+      "combination": [
+        {
+          "kode": "Bt",
+          "nama": "Batak"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 451
+    },
+    {
+      "combination": [
+        {
+          "kode": "Jw",
+          "nama": "Jawa"
+        },
+        {
+          "kode": "a",
+          "nama": "Adjektiva"
+        }
+      ],
+      "frequency": 369
+    },
+    {
+      "combination": [
+        {
+          "kode": "a",
+          "nama": "Adjektiva"
+        },
+        {
+          "kode": "ki",
+          "nama": "kiasan"
+        }
+      ],
+      "frequency": 361
+    },
+    {
+      "combination": [
+        {
+          "kode": "a",
+          "nama": "Adjektiva"
+        },
+        {
+          "kode": "cak",
+          "nama": "Cakapan"
+        }
+      ],
+      "frequency": 358
+    },
+    {
+      "combination": [
+        {
+          "kode": "Jw",
+          "nama": "Jawa"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 351
+    },
+    {
+      "combination": [
+        {
+          "kode": "Isl",
+          "nama": "Agama Islam"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 334
+    },
+    {
+      "combination": [
+        {
+          "kode": "Mdr",
+          "nama": "Madura"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 320
+    },
+    {
+      "combination": [
+        {
+          "kode": "Dy",
+          "nama": "Dayak"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 309
+    },
+    {
+      "combination": [
+        {
+          "kode": "Mk",
+          "nama": "Minangkabau"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 305
+    },
+    {
+      "combination": [
+        {
+          "kode": "Lt",
+          "nama": "Latin"
+        },
+        {
+          "kode": "ukp",
+          "nama": "Ungkapan"
+        }
+      ],
+      "frequency": 299
+    },
+    {
+      "combination": [
+        {
+          "kode": "ark",
+          "nama": "Arkais"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 295
+    },
+    {
+      "combination": [
+        {
+          "kode": "Bl",
+          "nama": "Bali"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 290
+    },
+    {
+      "combination": [
+        {
+          "kode": "Geo",
+          "nama": "Geografi dan Geologi"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 284
+    },
+    {
+      "combination": [
+        {
+          "kode": "Mus",
+          "nama": "Musik"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 269
+    },
+    {
+      "combination": [
+        {
+          "kode": "Komp",
+          "nama": "Komputer"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 251
+    },
+    {
+      "combination": [
+        {
+          "kode": "Ri",
+          "nama": "Melayu Riau"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 232
+    },
+    {
+      "combination": [
+        {
+          "kode": "Olr",
+          "nama": "Olahraga"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 232
+    },
+    {
+      "combination": [
+        {
+          "kode": "Jk",
+          "nama": "Melayu Jakarta"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 226
+    },
+    {
+      "combination": [
+        {
+          "kode": "Sen",
+          "nama": "Kesenian"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 223
+    },
+    {
+      "combination": [
+        {
+          "kode": "Sas",
+          "nama": "Sastra"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 216
+    },
+    {
+      "combination": [
+        {
+          "kode": "a",
+          "nama": "Adjektiva"
+        },
+        {
+          "kode": "ark",
+          "nama": "Arkais"
+        }
+      ],
+      "frequency": 216
+    },
+    {
+      "combination": [
+        {
+          "kode": "Ing",
+          "nama": "Inggris"
+        },
+        {
+          "kode": "ukp",
+          "nama": "Ungkapan"
+        }
+      ],
+      "frequency": 214
+    },
+    {
+      "combination": [
+        {
+          "kode": "Mk",
+          "nama": "Minangkabau"
+        },
+        {
+          "kode": "a",
+          "nama": "Adjektiva"
+        }
+      ],
+      "frequency": 213
+    },
+    {
+      "combination": [
+        {
+          "kode": "Huk",
+          "nama": "Hukum"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 203
+    },
+    {
+      "combination": [
+        {
+          "kode": "Jk",
+          "nama": "Melayu Jakarta"
+        },
+        {
+          "kode": "v",
+          "nama": "Verba"
+        }
+      ],
+      "frequency": 178
+    },
+    {
+      "combination": [
+        {
+          "kode": "Pr",
+          "nama": "Prancis"
+        },
+        {
+          "kode": "ukp",
+          "nama": "Ungkapan"
+        }
+      ],
+      "frequency": 174
+    },
+    {
+      "combination": [
+        {
+          "kode": "Astron",
+          "nama": "Astronomi"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 165
+    },
+    {
+      "combination": [
+        {
+          "kode": "kp",
+          "nama": "kependekan"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 158
+    },
+    {
+      "combination": [
+        {
+          "kode": "Gor",
+          "nama": "Gorontalo"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 157
+    },
+    {
+      "combination": [
+        {
+          "kode": "Lay",
+          "nama": "Pelayaran"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 154
+    },
+    {
+      "combination": [
+        {
+          "kode": "Ach",
+          "nama": "Aceh"
+        },
+        {
+          "kode": "n",
+          "nama": "Nomina"
+        }
+      ],
+      "frequency": 153
+    }
+  ]
+}

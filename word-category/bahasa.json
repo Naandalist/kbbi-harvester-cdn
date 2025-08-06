@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "description": "KBBI Language and Regional Classifications",
+    "extracted_from": "KBBI Harvester Database",
+    "total_languages": 150,
+    "last_updated": "2025-08-06"
+  },
+  "languages": [
+    {
+      "kode": "Arab",
+      "nama": "Arab",
+      "type": "foreign_language",
+      "description": "Bahasa Arab"
+    },
+    {
+      "kode": "Ing",
+      "nama": "Inggris",
+      "type": "foreign_language",
+      "description": "Bahasa Inggris"
+    },
+    {
+      "kode": "It",
+      "nama": "Italia",
+      "type": "foreign_language",
+      "description": "Bahasa Italia"
+    },
+    {
+      "kode": "Pt",
+      "nama": "Portugis",
+      "type": "foreign_language",
+      "description": "Bahasa Portugis"
+    },
+    {
+      "kode": "Bld",
+      "nama": "Belanda",
+      "type": "foreign_language",
+      "description": "Bahasa Belanda"
+    },
+    {
+      "kode": "Prn",
+      "nama": "Perancis",
+      "type": "foreign_language",
+      "description": "Bahasa Perancis"
+    },
+    {
+      "kode": "Skr",
+      "nama": "Sanskerta",
+      "type": "classical_language",
+      "description": "Bahasa Sanskerta"
+    },
+    {
+      "kode": "Lt",
+      "nama": "Latin",
+      "type": "classical_language",
+      "description": "Bahasa Latin"
+    },
+    {
+      "kode": "Jw",
+      "nama": "Jawa",
+      "type": "regional_language",
+      "description": "Bahasa Jawa"
+    },
+    {
+      "kode": "Sd",
+      "nama": "Sunda",
+      "type": "regional_language",
+      "description": "Bahasa Sunda"
+    },
+    {
+      "kode": "Bt",
+      "nama": "Betawi",
+      "type": "regional_language",
+      "description": "Bahasa Betawi"
+    },
+    {
+      "kode": "Bl",
+      "nama": "Bali",
+      "type": "regional_language",
+      "description": "Bahasa Bali"
+    },
+    {
+      "kode": "Mk",
+      "nama": "Makassar",
+      "type": "regional_language",
+      "description": "Bahasa Makassar"
+    },
+    {
+      "kode": "Bg",
+      "nama": "Bugis",
+      "type": "regional_language",
+      "description": "Bahasa Bugis"
+    },
+    {
+      "kode": "Ach",
+      "nama": "Aceh",
+      "type": "regional_language",
+      "description": "Bahasa Aceh"
+    },
+    {
+      "kode": "Mn",
+      "nama": "Minangkabau",
+      "type": "regional_language",
+      "description": "Bahasa Minangkabau"
+    },
+    {
+      "kode": "Bjr",
+      "nama": "Banjar",
+      "type": "regional_language",
+      "description": "Bahasa Banjar"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "description": "KBBI Subject Domain Classifications",
+    "extracted_from": "KBBI Harvester Database",
+    "total_domains": 80,
+    "last_updated": "2025-08-06"
+  },
+  "subject_domains": [
+    {
+      "kode": "Kim",
+      "nama": "Kimia",
+      "category": "science",
+      "description": "Ilmu kimia"
+    },
+    {
+      "kode": "Fis",
+      "nama": "Fisika",
+      "category": "science",
+      "description": "Ilmu fisika"
+    },
+    {
+      "kode": "Bio",
+      "nama": "Biologi",
+      "category": "science",
+      "description": "Ilmu biologi"
+    },
+    {
+      "kode": "Mat",
+      "nama": "Matematika",
+      "category": "science",
+      "description": "Ilmu matematika"
+    },
+    {
+      "kode": "Geo",
+      "nama": "Geografi",
+      "category": "science",
+      "description": "Ilmu geografi"
+    },
+    {
+      "kode": "Dok",
+      "nama": "Kedokteran",
+      "category": "medical",
+      "description": "Bidang kedokteran"
+    },
+    {
+      "kode": "Far",
+      "nama": "Farmasi",
+      "category": "medical",
+      "description": "Bidang farmasi"
+    },
+    {
+      "kode": "Psi",
+      "nama": "Psikologi",
+      "category": "social_science",
+      "description": "Ilmu psikologi"
+    },
+    {
+      "kode": "Sos",
+      "nama": "Sosiologi",
+      "category": "social_science",
+      "description": "Ilmu sosiologi"
+    },
+    {
+      "kode": "Ant",
+      "nama": "Antropologi",
+      "category": "social_science",
+      "description": "Ilmu antropologi"
+    },
+    {
+      "kode": "Huk",
+      "nama": "Hukum",
+      "category": "legal",
+      "description": "Bidang hukum"
+    },
+    {
+      "kode": "Pol",
+      "nama": "Politik",
+      "category": "political",
+      "description": "Ilmu politik"
+    },
+    {
+      "kode": "Ek",
+      "nama": "Ekonomi",
+      "category": "economics",
+      "description": "Ilmu ekonomi"
+    },
+    {
+      "kode": "Dag",
+      "nama": "Perdagangan",
+      "category": "economics",
+      "description": "Bidang perdagangan"
+    },
+    {
+      "kode": "Akn",
+      "nama": "Akuntansi",
+      "category": "economics",
+      "description": "Bidang akuntansi"
+    },
+    {
+      "kode": "Sas",
+      "nama": "Sastra",
+      "category": "humanities",
+      "description": "Bidang sastra"
+    },
+    {
+      "kode": "Ling",
+      "nama": "Linguistik",
+      "category": "humanities",
+      "description": "Ilmu linguistik"
+    },
+    {
+      "kode": "Sej",
+      "nama": "Sejarah",
+      "category": "humanities",
+      "description": "Ilmu sejarah"
+    },
+    {
+      "kode": "Sn",
+      "nama": "Seni",
+      "category": "arts",
+      "description": "Bidang seni"
+    },
+    {
+      "kode": "Mus",
+      "nama": "Musik",
+      "category": "arts",
+      "description": "Bidang musik"
+    },
+    {
+      "kode": "Or",
+      "nama": "Olahraga",
+      "category": "sports",
+      "description": "Bidang olahraga"
+    },
+    {
+      "kode": "Tern",
+      "nama": "Peternakan",
+      "category": "agriculture",
+      "description": "Bidang peternakan"
+    },
+    {
+      "kode": "Tan",
+      "nama": "Pertanian",
+      "category": "agriculture",
+      "description": "Bidang pertanian"
+    },
+    {
+      "kode": "Ikn",
+      "nama": "Perikanan",
+      "category": "agriculture",
+      "description": "Bidang perikanan"
+    },
+    {
+      "kode": "Tek",
+      "nama": "Teknik",
+      "category": "engineering",
+      "description": "Bidang teknik"
+    },
+    {
+      "kode": "If",
+      "nama": "Teknologi Informasi",
+      "category": "technology",
+      "description": "Bidang teknologi informasi"
+    },
+    {
+      "kode": "Kom",
+      "nama": "Komputer",
+      "category": "technology",
+      "description": "Bidang komputer"
+    },
+    {
+      "kode": "Isl",
+      "nama": "Agama Islam",
+      "category": "religion",
+      "description": "Bidang agama Islam"
+    },
+    {
+      "kode": "Kr",
+      "nama": "Agama Kristen",
+      "category": "religion",
+      "description": "Bidang agama Kristen"
+    },
+    {
+      "kode": "Kat",
+      "nama": "Katolik",
+      "category": "religion",
+      "description": "Bidang agama Katolik"
+    }
+  ]
+}

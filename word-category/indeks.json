@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "description": "KBBI Word Category Index - Complete categorization system for Indonesian dictionary entries",
+    "version": "1.0",
+    "last_updated": "2025-08-06",
+    "total_categories": 443,
+    "source": "KBBI Harvester Database",
+    "files_processed": 84929,
+    "total_files": 112596
+  },
+  "category_files": {
+    "complete_categories": {
+      "file": "categories.json",
+      "description": "Complete list of all unique categories and popular combinations",
+      "contains": {
+        "individual_categories": 443,
+        "popular_combinations": 744
+      }
+    },
+    "word_classes": {
+      "file": "word-classes.json", 
+      "description": "Grammatical word classes (parts of speech)",
+      "contains": {
+        "classes": 24,
+        "examples": ["Nomina", "Verba", "Adjektiva", "Adverbia"]
+      }
+    },
+    "languages": {
+      "file": "languages.json",
+      "description": "Language and regional classifications",
+      "contains": {
+        "languages": 150,
+        "types": ["foreign_language", "regional_language", "classical_language"],
+        "examples": ["Arab", "Jawa", "Inggris", "Betawi"]
+      }
+    },
+    "subject_domains": {
+      "file": "subject-domains.json",
+      "description": "Subject domain and field classifications",
+      "contains": {
+        "domains": 80,
+        "categories": ["science", "medical", "social_science", "humanities", "arts"],
+        "examples": ["Kimia", "Kedokteran", "Sastra", "Olahraga"]
+      }
+    }
+  },
+  "usage": {
+    "description": "These category files can be used to:",
+    "applications": [
+      "Filter dictionary entries by word class",
+      "Group words by subject domain",
+      "Identify regional or foreign language origins",
+      "Build specialized dictionaries",
+      "Create educational materials",
+      "Develop language learning apps"
+    ]
+  },
+  "api_endpoints": {
+    "description": "Suggested CDN endpoints for category data:",
+    "endpoints": [
+      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/categories.json",
+      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/word-classes.json",
+      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/languages.json",
+      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/subject-domains.json"
+    ]
+  },
+  "most_common_categories": [
+    {
+      "kode": "n",
+      "nama": "Nomina",
+      "frequency": "~40000+"
+    },
+    {
+      "kode": "v", 
+      "nama": "Verba",
+      "frequency": "~25000+"
+    },
+    {
+      "kode": "a",
+      "nama": "Adjektiva", 
+      "frequency": "~15000+"
+    },
+    {
+      "kode": "Jw",
+      "nama": "Jawa",
+      "frequency": "~8000+"
+    },
+    {
+      "kode": "cak",
+      "nama": "Cakapan",
+      "frequency": "~5000+"
+    }
+  ],
+  "most_common_combinations": [
+    {
+      "combination": "Jawa + Nomina",
+      "frequency": 1797,
+      "description": "Kata benda yang berasal dari bahasa Jawa"
+    },
+    {
+      "combination": "Nomina + singkatan", 
+      "frequency": 1415,
+      "description": "Singkatan yang berfungsi sebagai kata benda"
+    },
+    {
+      "combination": "akronim + Nomina",
+      "frequency": 1368,
+      "description": "Akronim yang berfungsi sebagai kata benda"
+    },
+    {
+      "combination": "Kimia + Nomina",
+      "frequency": 1359,
+      "description": "Istilah kimia yang berfungsi sebagai kata benda"
+    },
+    {
+      "combination": "kiasan + Verba",
+      "frequency": 1200,
+      "description": "Kata kerja dengan makna kiasan"
+    }
+  ]
+}

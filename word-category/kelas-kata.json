@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "description": "KBBI Word Classes (Part of Speech)",
+    "extracted_from": "KBBI Harvester Database",
+    "total_unique_classes": 25,
+    "last_updated": "2025-08-06"
+  },
+  "word_classes": [
+    {
+      "kode": "a",
+      "nama": "Adjektiva",
+      "description": "Kata sifat"
+    },
+    {
+      "kode": "adv",
+      "nama": "Adverbia",
+      "description": "Kata keterangan"
+    },
+    {
+      "kode": "akr",
+      "nama": "akronim",
+      "description": "Akronim"
+    },
+    {
+      "kode": "ark",
+      "nama": "arkais",
+      "description": "Kata yang sudah tidak digunakan lagi"
+    },
+    {
+      "kode": "bentuk terikat",
+      "nama": "-",
+      "description": "Bentuk terikat yang tidak dapat berdiri sendiri"
+    },
+    {
+      "kode": "cak",
+      "nama": "Cakapan",
+      "description": "Bahasa percakapan sehari-hari"
+    },
+    {
+      "kode": "dl",
+      "nama": "dan lain-lain",
+      "description": "Dan lain-lain"
+    },
+    {
+      "kode": "dsb",
+      "nama": "dan sebagainya",
+      "description": "Dan sebagainya"
+    },
+    {
+      "kode": "hormat",
+      "nama": "hormat",
+      "description": "Kata yang menunjukkan penghormatan"
+    },
+    {
+      "kode": "int",
+      "nama": "Interjeksi",
+      "description": "Kata seru"
+    },
+    {
+      "kode": "kaus",
+      "nama": "Kausatif",
+      "description": "Kata yang menyebabkan sesuatu terjadi"
+    },
+    {
+      "kode": "ki",
+      "nama": "kiasan",
+      "description": "Makna kiasan atau metaforis"
+    },
+    {
+      "kode": "kl",
+      "nama": "Klasik",
+      "description": "Bahasa klasik atau kuno"
+    },
+    {
+      "kode": "komp",
+      "nama": "Komparatif",
+      "description": "Tingkat perbandingan"
+    },
+    {
+      "kode": "kp",
+      "nama": "kependekan",
+      "description": "Bentuk pendek dari kata atau frasa"
+    },
+    {
+      "kode": "n",
+      "nama": "Nomina",
+      "description": "Kata benda"
+    },
+    {
+      "kode": "num",
+      "nama": "Numeralia",
+      "description": "Kata bilangan"
+    },
+    {
+      "kode": "p",
+      "nama": "Partikel",
+      "description": "Kata partikel"
+    },
+    {
+      "kode": "pref",
+      "nama": "Prefiks",
+      "description": "Awalan"
+    },
+    {
+      "kode": "pron",
+      "nama": "Pronomina",
+      "description": "Kata ganti"
+    },
+    {
+      "kode": "semisal",
+      "nama": "semisal",
+      "description": "Contoh atau seumpama"
+    },
+    {
+      "kode": "sing",
+      "nama": "singkatan",
+      "description": "Singkatan"
+    },
+    {
+      "kode": "suf",
+      "nama": "Sufiks",
+      "description": "Akhiran"
+    },
+    {
+      "kode": "ukp",
+      "nama": "Ungkapan",
+      "description": "Ungkapan atau idiom"
+    },
+    {
+      "kode": "v",
+      "nama": "Verba",
+      "description": "Kata kerja"
+    }
+  ]
+}

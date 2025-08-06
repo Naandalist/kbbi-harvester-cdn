@@ -1,0 +1,1446 @@
+{
+  "meta": {
+    "description": "KBBI Miscellaneous Categories (Kategori Lainnya)",
+    "extracted_from": "KBBI Harvester Database - Folder A Analysis",
+    "total_categories": 205,
+    "total_usage": 1935,
+    "last_updated": "2025-08-06"
+  },
+  "categories": [
+    {
+      "kode": "Ar",
+      "nama": "Arab",
+      "usage_count": 118,
+      "type": "miscellaneous",
+      "description": "Kategori 'Arab' dengan kode 'Ar'"
+    },
+    {
+      "kode": "Met",
+      "nama": "Meteorologi",
+      "usage_count": 78,
+      "type": "miscellaneous",
+      "description": "Kategori 'Meteorologi' dengan kode 'Met'"
+    },
+    {
+      "kode": "Bot",
+      "nama": "Botani",
+      "usage_count": 76,
+      "type": "miscellaneous",
+      "description": "Kategori 'Botani' dengan kode 'Bot'"
+    },
+    {
+      "kode": "Ri",
+      "nama": "Melayu Riau",
+      "usage_count": 76,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Riau' dengan kode 'Ri'"
+    },
+    {
+      "kode": "Komp",
+      "nama": "Komputer",
+      "usage_count": 70,
+      "type": "miscellaneous",
+      "description": "Kategori 'Komputer' dengan kode 'Komp'"
+    },
+    {
+      "kode": "Sen",
+      "nama": "Kesenian",
+      "usage_count": 54,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kesenian' dengan kode 'Sen'"
+    },
+    {
+      "kode": "Keu",
+      "nama": "Keuangan",
+      "usage_count": 49,
+      "type": "miscellaneous",
+      "description": "Kategori 'Keuangan' dengan kode 'Keu'"
+    },
+    {
+      "kode": "Astron",
+      "nama": "Astronomi",
+      "usage_count": 46,
+      "type": "miscellaneous",
+      "description": "Kategori 'Astronomi' dengan kode 'Astron'"
+    },
+    {
+      "kode": "Olr",
+      "nama": "Olahraga",
+      "usage_count": 43,
+      "type": "miscellaneous",
+      "description": "Kategori 'Olahraga' dengan kode 'Olr'"
+    },
+    {
+      "kode": "Lay",
+      "nama": "Pelayaran",
+      "usage_count": 37,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pelayaran' dengan kode 'Lay'"
+    },
+    {
+      "kode": "Hidm",
+      "nama": "Hidrometeorologi",
+      "usage_count": 35,
+      "type": "miscellaneous",
+      "description": "Kategori 'Hidrometeorologi' dengan kode 'Hidm'"
+    },
+    {
+      "kode": "Mdr",
+      "nama": "Madura",
+      "usage_count": 35,
+      "type": "miscellaneous",
+      "description": "Kategori 'Madura' dengan kode 'Mdr'"
+    },
+    {
+      "kode": "Dy",
+      "nama": "Dayak",
+      "usage_count": 33,
+      "type": "miscellaneous",
+      "description": "Kategori 'Dayak' dengan kode 'Dy'"
+    },
+    {
+      "kode": "Gz",
+      "nama": "Ilmu Gizi",
+      "usage_count": 32,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ilmu Gizi' dengan kode 'Gz'"
+    },
+    {
+      "kode": "Anat",
+      "nama": "Anatomi",
+      "usage_count": 29,
+      "type": "miscellaneous",
+      "description": "Kategori 'Anatomi' dengan kode 'Anat'"
+    },
+    {
+      "kode": "Jk",
+      "nama": "Melayu Jakarta",
+      "usage_count": 27,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Jakarta' dengan kode 'Jk'"
+    },
+    {
+      "kode": "Gor",
+      "nama": "Gorontalo",
+      "usage_count": 26,
+      "type": "miscellaneous",
+      "description": "Kategori 'Gorontalo' dengan kode 'Gor'"
+    },
+    {
+      "kode": "Kur",
+      "nama": "Kur",
+      "usage_count": 26,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kur' dengan kode 'Kur'"
+    },
+    {
+      "kode": "Hin",
+      "nama": "Agama Hindu",
+      "usage_count": 26,
+      "type": "miscellaneous",
+      "description": "Kategori 'Agama Hindu' dengan kode 'Hin'"
+    },
+    {
+      "kode": "Ark",
+      "nama": "Arkeologi",
+      "usage_count": 25,
+      "type": "miscellaneous",
+      "description": "Kategori 'Arkeologi' dengan kode 'Ark'"
+    },
+    {
+      "kode": "Zool",
+      "nama": "Zoologi",
+      "usage_count": 24,
+      "type": "miscellaneous",
+      "description": "Kategori 'Zoologi' dengan kode 'Zool'"
+    },
+    {
+      "kode": "Skt",
+      "nama": "Sanskerta",
+      "usage_count": 24,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sanskerta' dengan kode 'Skt'"
+    },
+    {
+      "kode": "Kris",
+      "nama": "Agama Kristen",
+      "usage_count": 23,
+      "type": "miscellaneous",
+      "description": "Kategori 'Agama Kristen' dengan kode 'Kris'"
+    },
+    {
+      "kode": "Ht",
+      "nama": "Hitu",
+      "usage_count": 21,
+      "type": "miscellaneous",
+      "description": "Kategori 'Hitu' dengan kode 'Ht'"
+    },
+    {
+      "kode": "Gy",
+      "nama": "Gayo",
+      "usage_count": 20,
+      "type": "miscellaneous",
+      "description": "Kategori 'Gayo' dengan kode 'Gy'"
+    },
+    {
+      "kode": "Jb",
+      "nama": "Melayu Jambi",
+      "usage_count": 20,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Jambi' dengan kode 'Jb'"
+    },
+    {
+      "kode": "Sbw",
+      "nama": "Sumbawa",
+      "usage_count": 20,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sumbawa' dengan kode 'Sbw'"
+    },
+    {
+      "kode": "Antr",
+      "nama": "Antropologi",
+      "usage_count": 19,
+      "type": "miscellaneous",
+      "description": "Kategori 'Antropologi' dengan kode 'Antr'"
+    },
+    {
+      "kode": "Pr",
+      "nama": "Prancis",
+      "usage_count": 19,
+      "type": "miscellaneous",
+      "description": "Kategori 'Prancis' dengan kode 'Pr'"
+    },
+    {
+      "kode": "Md",
+      "nama": "Melayu Medan",
+      "usage_count": 18,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Medan' dengan kode 'Md'"
+    },
+    {
+      "kode": "Hid",
+      "nama": "Hidrologi",
+      "usage_count": 18,
+      "type": "miscellaneous",
+      "description": "Kategori 'Hidrologi' dengan kode 'Hid'"
+    },
+    {
+      "kode": "Man",
+      "nama": "Manajemen",
+      "usage_count": 18,
+      "type": "miscellaneous",
+      "description": "Kategori 'Manajemen' dengan kode 'Man'"
+    },
+    {
+      "kode": "Ni",
+      "nama": "Nias",
+      "usage_count": 18,
+      "type": "miscellaneous",
+      "description": "Kategori 'Nias' dengan kode 'Ni'"
+    },
+    {
+      "kode": "Mu",
+      "nama": "Muna",
+      "usage_count": 16,
+      "type": "miscellaneous",
+      "description": "Kategori 'Muna' dengan kode 'Mu'"
+    },
+    {
+      "kode": "Kpr",
+      "nama": "Melayu Kep. Riau",
+      "usage_count": 16,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Kep. Riau' dengan kode 'Kpr'"
+    },
+    {
+      "kode": "Ss",
+      "nama": "Sasak",
+      "usage_count": 16,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sasak' dengan kode 'Ss'"
+    },
+    {
+      "kode": "Klm",
+      "nama": "Melayu Kalimantan",
+      "usage_count": 14,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Kalimantan' dengan kode 'Klm'"
+    },
+    {
+      "kode": "Dik",
+      "nama": "Pendidikan",
+      "usage_count": 14,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pendidikan' dengan kode 'Dik'"
+    },
+    {
+      "kode": "My",
+      "nama": "Muyu",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Muyu' dengan kode 'My'"
+    },
+    {
+      "kode": "Tbg",
+      "nama": "Tata Boga",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tata Boga' dengan kode 'Tbg'"
+    },
+    {
+      "kode": "Bud",
+      "nama": "Agama Buddha",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Agama Buddha' dengan kode 'Bud'"
+    },
+    {
+      "kode": "Bn",
+      "nama": "Benuaq",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Benuaq' dengan kode 'Bn'"
+    },
+    {
+      "kode": "Us",
+      "nama": "Using",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Using' dengan kode 'Us'"
+    },
+    {
+      "kode": "Dem",
+      "nama": "Demografi",
+      "usage_count": 13,
+      "type": "miscellaneous",
+      "description": "Kategori 'Demografi' dengan kode 'Dem'"
+    },
+    {
+      "kode": "Ldy",
+      "nama": "Lundayeh",
+      "usage_count": 12,
+      "type": "miscellaneous",
+      "description": "Kategori 'Lundayeh' dengan kode 'Ldy'"
+    },
+    {
+      "kode": "sufiks pembentuk nomina",
+      "nama": "-",
+      "usage_count": 12,
+      "type": "miscellaneous",
+      "description": "Kategori '-' dengan kode 'sufiks pembentuk nomina'"
+    },
+    {
+      "kode": "Bsm",
+      "nama": "Basemah",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Basemah' dengan kode 'Bsm'"
+    },
+    {
+      "kode": "Filol",
+      "nama": "Filologi",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Filologi' dengan kode 'Filol'"
+    },
+    {
+      "kode": "Film",
+      "nama": "Perfilman",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Perfilman' dengan kode 'Film'"
+    },
+    {
+      "kode": "Sa",
+      "nama": "Serua",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Serua' dengan kode 'Sa'"
+    },
+    {
+      "kode": "Mil",
+      "nama": "Kemiliteran",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kemiliteran' dengan kode 'Mil'"
+    },
+    {
+      "kode": "MAb",
+      "nama": "Melayu Ambon",
+      "usage_count": 11,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Ambon' dengan kode 'MAb'"
+    },
+    {
+      "kode": "Tn",
+      "nama": "Ilmu Tanah",
+      "usage_count": 10,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ilmu Tanah' dengan kode 'Tn'"
+    },
+    {
+      "kode": "hor",
+      "nama": "Hormat",
+      "usage_count": 10,
+      "type": "miscellaneous",
+      "description": "Kategori 'Hormat' dengan kode 'hor'"
+    },
+    {
+      "kode": "Min",
+      "nama": "Mineralogi",
+      "usage_count": 9,
+      "type": "miscellaneous",
+      "description": "Kategori 'Mineralogi' dengan kode 'Min'"
+    },
+    {
+      "kode": "Aln",
+      "nama": "Alune",
+      "usage_count": 9,
+      "type": "miscellaneous",
+      "description": "Kategori 'Alune' dengan kode 'Aln'"
+    },
+    {
+      "kode": "Hot",
+      "nama": "Perhotelan",
+      "usage_count": 9,
+      "type": "miscellaneous",
+      "description": "Kategori 'Perhotelan' dengan kode 'Hot'"
+    },
+    {
+      "kode": "Lh",
+      "nama": "Luhu",
+      "usage_count": 8,
+      "type": "miscellaneous",
+      "description": "Kategori 'Luhu' dengan kode 'Lh'"
+    },
+    {
+      "kode": "Cn",
+      "nama": "Cina",
+      "usage_count": 8,
+      "type": "miscellaneous",
+      "description": "Kategori 'Cina' dengan kode 'Cn'"
+    },
+    {
+      "kode": "Fil",
+      "nama": "Filsafat",
+      "usage_count": 8,
+      "type": "miscellaneous",
+      "description": "Kategori 'Filsafat' dengan kode 'Fil'"
+    },
+    {
+      "kode": "Btl",
+      "nama": "Batuley",
+      "usage_count": 8,
+      "type": "miscellaneous",
+      "description": "Kategori 'Batuley' dengan kode 'Btl'"
+    },
+    {
+      "kode": "Stat",
+      "nama": "Statistik",
+      "usage_count": 8,
+      "type": "miscellaneous",
+      "description": "Kategori 'Statistik' dengan kode 'Stat'"
+    },
+    {
+      "kode": "Cl",
+      "nama": "Culambacu",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Culambacu' dengan kode 'Cl'"
+    },
+    {
+      "kode": "Osn",
+      "nama": "Oseanografi",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Oseanografi' dengan kode 'Osn'"
+    },
+    {
+      "kode": "Bo",
+      "nama": "Boing",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Boing' dengan kode 'Bo'"
+    },
+    {
+      "kode": "Eln",
+      "nama": "Elnama",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Elnama' dengan kode 'Eln'"
+    },
+    {
+      "kode": "Beng",
+      "nama": "Bengkulu",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bengkulu' dengan kode 'Beng'"
+    },
+    {
+      "kode": "Dirg",
+      "nama": "Kedirgantaraan",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kedirgantaraan' dengan kode 'Dirg'"
+    },
+    {
+      "kode": "Wl",
+      "nama": "Wolio",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Wolio' dengan kode 'Wl'"
+    },
+    {
+      "kode": "El",
+      "nama": "Elektronika",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Elektronika' dengan kode 'El'"
+    },
+    {
+      "kode": "MBl",
+      "nama": "Melayu Belitung",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Belitung' dengan kode 'MBl'"
+    },
+    {
+      "kode": "kas",
+      "nama": "Kasar",
+      "usage_count": 7,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kasar' dengan kode 'kas'"
+    },
+    {
+      "kode": "MBa",
+      "nama": "Melayu Bangka",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Bangka' dengan kode 'MBa'"
+    },
+    {
+      "kode": "Tlk",
+      "nama": "Tolaki",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tolaki' dengan kode 'Tlk'"
+    },
+    {
+      "kode": "Sb",
+      "nama": "Sabu",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sabu' dengan kode 'Sb'"
+    },
+    {
+      "kode": "Adm",
+      "nama": "Administrasi dan Kepegawaian",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Administrasi dan Kepegawaian' dengan kode 'Adm'"
+    },
+    {
+      "kode": "BhUj",
+      "nama": "Bahau Ujoh Bilang",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bahau Ujoh Bilang' dengan kode 'BhUj'"
+    },
+    {
+      "kode": "Bkt",
+      "nama": "Bakatik",
+      "usage_count": 6,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bakatik' dengan kode 'Bkt'"
+    },
+    {
+      "kode": "Dn",
+      "nama": "Dani",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Dani' dengan kode 'Dn'"
+    },
+    {
+      "kode": "Tbs",
+      "nama": "Tata Busana",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tata Busana' dengan kode 'Tbs'"
+    },
+    {
+      "kode": "Krc",
+      "nama": "Kerinci",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kerinci' dengan kode 'Krc'"
+    },
+    {
+      "kode": "Mg",
+      "nama": "Manggarai",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Manggarai' dengan kode 'Mg'"
+    },
+    {
+      "kode": "Bun",
+      "nama": "Bunak",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bunak' dengan kode 'Bun'"
+    },
+    {
+      "kode": "Jm",
+      "nama": "Jerman",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Jerman' dengan kode 'Jm'"
+    },
+    {
+      "kode": "Trj",
+      "nama": "Toraja",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Toraja' dengan kode 'Trj'"
+    },
+    {
+      "kode": "Stn",
+      "nama": "Sentani",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sentani' dengan kode 'Stn'"
+    },
+    {
+      "kode": "Slw",
+      "nama": "Seluwarsa",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Seluwarsa' dengan kode 'Slw'"
+    },
+    {
+      "kode": "Kls",
+      "nama": "Kulisusu",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kulisusu' dengan kode 'Kls'"
+    },
+    {
+      "kode": "Graf",
+      "nama": "Grafika",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Grafika' dengan kode 'Graf'"
+    },
+    {
+      "kode": "Ars",
+      "nama": "Arsitektur",
+      "usage_count": 5,
+      "type": "miscellaneous",
+      "description": "Kategori 'Arsitektur' dengan kode 'Ars'"
+    },
+    {
+      "kode": "Ky",
+      "nama": "Karey",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Karey' dengan kode 'Ky'"
+    },
+    {
+      "kode": "Bc",
+      "nama": "Bacan",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bacan' dengan kode 'Bc'"
+    },
+    {
+      "kode": "Pust",
+      "nama": "Ilmu Perpustakaan dan Dokumentasi",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ilmu Perpustakaan dan Dokumentasi' dengan kode 'Pust'"
+    },
+    {
+      "kode": "Prm",
+      "nama": "Pramuka",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pramuka' dengan kode 'Prm'"
+    },
+    {
+      "kode": "of",
+      "nama": "Ofensif",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ofensif' dengan kode 'of'"
+    },
+    {
+      "kode": "Tot",
+      "nama": "Totoli",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Totoli' dengan kode 'Tot'"
+    },
+    {
+      "kode": "Ke",
+      "nama": "Kenyah",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kenyah' dengan kode 'Ke'"
+    },
+    {
+      "kode": "Mik",
+      "nama": "Mikologi",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Mikologi' dengan kode 'Mik'"
+    },
+    {
+      "kode": "Ylh",
+      "nama": "Yalahatan",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Yalahatan' dengan kode 'Ylh'"
+    },
+    {
+      "kode": "Mks",
+      "nama": "Makassar",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Makassar' dengan kode 'Mks'"
+    },
+    {
+      "kode": "Kei",
+      "nama": "Kei",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kei' dengan kode 'Kei'"
+    },
+    {
+      "kode": "Ptk",
+      "nama": "Putuk",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Putuk' dengan kode 'Ptk'"
+    },
+    {
+      "kode": "Ab",
+      "nama": "Abui",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Abui' dengan kode 'Ab'"
+    },
+    {
+      "kode": "Bla",
+      "nama": "Blagar",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Blagar' dengan kode 'Bla'"
+    },
+    {
+      "kode": "Astro",
+      "nama": "Astronomi",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Astronomi' dengan kode 'Astro'"
+    },
+    {
+      "kode": "uk",
+      "nama": "Ucapan Klasik",
+      "usage_count": 4,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ucapan Klasik' dengan kode 'uk'"
+    },
+    {
+      "kode": "Kw",
+      "nama": "Kawi",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kawi' dengan kode 'Kw'"
+    },
+    {
+      "kode": "Ka",
+      "nama": "Kamang",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kamang' dengan kode 'Ka'"
+    },
+    {
+      "kode": "Tb",
+      "nama": "Tobelo",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tobelo' dengan kode 'Tb'"
+    },
+    {
+      "kode": "Teng",
+      "nama": "Tenggalan",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tenggalan' dengan kode 'Teng'"
+    },
+    {
+      "kode": "Mal",
+      "nama": "Melayu Malaysia",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Malaysia' dengan kode 'Mal'"
+    },
+    {
+      "kode": "Lp",
+      "nama": "Lampung",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Lampung' dengan kode 'Lp'"
+    },
+    {
+      "kode": "Mp",
+      "nama": "Massenrengpulu",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Massenrengpulu' dengan kode 'Mp'"
+    },
+    {
+      "kode": "Mar",
+      "nama": "Marlasi",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Marlasi' dengan kode 'Mar'"
+    },
+    {
+      "kode": "Me",
+      "nama": "Moronene",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Moronene' dengan kode 'Me'"
+    },
+    {
+      "kode": "Mdl",
+      "nama": "Modole",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Modole' dengan kode 'Mdl'"
+    },
+    {
+      "kode": "Trf",
+      "nama": "Tarfia",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tarfia' dengan kode 'Trf'"
+    },
+    {
+      "kode": "Pet",
+      "nama": "Petrologi dan Migas",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Petrologi dan Migas' dengan kode 'Pet'"
+    },
+    {
+      "kode": "Kos",
+      "nama": "-",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori '-' dengan kode 'Kos'"
+    },
+    {
+      "kode": "Oi",
+      "nama": "Oirata",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Oirata' dengan kode 'Oi'"
+    },
+    {
+      "kode": "Sng",
+      "nama": "Sangir",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sangir' dengan kode 'Sng'"
+    },
+    {
+      "kode": "Mnd",
+      "nama": "Melayu Manado",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Melayu Manado' dengan kode 'Mnd'"
+    },
+    {
+      "kode": "Rjg",
+      "nama": "Rejang",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Rejang' dengan kode 'Rjg'"
+    },
+    {
+      "kode": "Srm",
+      "nama": "Seram",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Seram' dengan kode 'Srm'"
+    },
+    {
+      "kode": "pro",
+      "nama": "Pronomina",
+      "usage_count": 3,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pronomina' dengan kode 'pro'"
+    },
+    {
+      "kode": "Tas",
+      "nama": "Tasawuf",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tasawuf' dengan kode 'Tas'"
+    },
+    {
+      "kode": "Sp",
+      "nama": "Spanyol",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Spanyol' dengan kode 'Sp'"
+    },
+    {
+      "kode": "Hut",
+      "nama": "Kehutanan",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kehutanan' dengan kode 'Hut'"
+    },
+    {
+      "kode": "Lmt",
+      "nama": "Lematang",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Lematang' dengan kode 'Lmt'"
+    },
+    {
+      "kode": "Ng",
+      "nama": "Ngada",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ngada' dengan kode 'Ng'"
+    },
+    {
+      "kode": "Als",
+      "nama": "Alas",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Alas' dengan kode 'Als'"
+    },
+    {
+      "kode": "Sky",
+      "nama": "Sekayu",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sekayu' dengan kode 'Sky'"
+    },
+    {
+      "kode": "Btk",
+      "nama": "Bantik",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bantik' dengan kode 'Btk'"
+    },
+    {
+      "kode": "Lj",
+      "nama": "Lauje",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Lauje' dengan kode 'Lj'"
+    },
+    {
+      "kode": "Tsg",
+      "nama": "Minahasa Tonsawang",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Minahasa Tonsawang' dengan kode 'Tsg'"
+    },
+    {
+      "kode": "Kap",
+      "nama": "Perkapalan",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Perkapalan' dengan kode 'Kap'"
+    },
+    {
+      "kode": "Kol",
+      "nama": "Kola",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kola' dengan kode 'Kol'"
+    },
+    {
+      "kode": "Pm",
+      "nama": "Pamona",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pamona' dengan kode 'Pm'"
+    },
+    {
+      "kode": "Kal",
+      "nama": "Kaili",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kaili' dengan kode 'Kal'"
+    },
+    {
+      "kode": "Sg",
+      "nama": "Sigulai",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sigulai' dengan kode 'Sg'"
+    },
+    {
+      "kode": "Pi",
+      "nama": "Piliana",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Piliana' dengan kode 'Pi'"
+    },
+    {
+      "kode": "Bgi",
+      "nama": "Banggai",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Banggai' dengan kode 'Bgi'"
+    },
+    {
+      "kode": "Kae",
+      "nama": "Kaera",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kaera' dengan kode 'Kae'"
+    },
+    {
+      "kode": "Pp",
+      "nama": "Papua",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Papua' dengan kode 'Pp'"
+    },
+    {
+      "kode": "Par",
+      "nama": "Parsi",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Parsi' dengan kode 'Par'"
+    },
+    {
+      "kode": "Km",
+      "nama": "Kimaam",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kimaam' dengan kode 'Km'"
+    },
+    {
+      "kode": "Yn",
+      "nama": "Yunani",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Yunani' dengan kode 'Yn'"
+    },
+    {
+      "kode": "Mt",
+      "nama": "Mentawai",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Mentawai' dengan kode 'Mt'"
+    },
+    {
+      "kode": "Tj",
+      "nama": "Tunjung",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tunjung' dengan kode 'Tj'"
+    },
+    {
+      "kode": "Astrol",
+      "nama": "Astrologi",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Astrologi' dengan kode 'Astrol'"
+    },
+    {
+      "kode": "Og",
+      "nama": "Ogan",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ogan' dengan kode 'Og'"
+    },
+    {
+      "kode": "Jp",
+      "nama": "Jepang",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Jepang' dengan kode 'Jp'"
+    },
+    {
+      "kode": "Sln",
+      "nama": "Saluan",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Saluan' dengan kode 'Sln'"
+    },
+    {
+      "kode": "Terb",
+      "nama": "Penerbangan",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Penerbangan' dengan kode 'Terb'"
+    },
+    {
+      "kode": "Bkp",
+      "nama": "Bakumpai",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bakumpai' dengan kode 'Bkp'"
+    },
+    {
+      "kode": "Kh",
+      "nama": "Kapuas Hulu",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kapuas Hulu' dengan kode 'Kh'"
+    },
+    {
+      "kode": "sufiks pembentuk adjektiva",
+      "nama": "-",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori '-' dengan kode 'sufiks pembentuk adjektiva'"
+    },
+    {
+      "kode": "Awy",
+      "nama": "Awyu",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Awyu' dengan kode 'Awy'"
+    },
+    {
+      "kode": "Buo",
+      "nama": "Buol",
+      "usage_count": 2,
+      "type": "miscellaneous",
+      "description": "Kategori 'Buol' dengan kode 'Buo'"
+    },
+    {
+      "kode": "Sh",
+      "nama": "Sahu",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sahu' dengan kode 'Sh'"
+    },
+    {
+      "kode": "Abr",
+      "nama": "Abrap",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Abrap' dengan kode 'Abr'"
+    },
+    {
+      "kode": "med",
+      "nama": "Medis",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Medis' dengan kode 'med'"
+    },
+    {
+      "kode": "Smb",
+      "nama": "Sumba",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sumba' dengan kode 'Smb'"
+    },
+    {
+      "kode": "Metal",
+      "nama": "Metalurgi",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Metalurgi' dengan kode 'Metal'"
+    },
+    {
+      "kode": "MkD",
+      "nama": "Makian Dalam",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Makian Dalam' dengan kode 'MkD'"
+    },
+    {
+      "kode": "Nbg",
+      "nama": "Namblong",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Namblong' dengan kode 'Nbg'"
+    },
+    {
+      "kode": "Lmg",
+      "nama": "Lemolang",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Lemolang' dengan kode 'Lmg'"
+    },
+    {
+      "kode": "Prw",
+      "nama": "Pariwisata",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pariwisata' dengan kode 'Prw'"
+    },
+    {
+      "kode": "Kj",
+      "nama": "Konjo",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Konjo' dengan kode 'Kj'"
+    },
+    {
+      "kode": "Ko",
+      "nama": "Komering",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Komering' dengan kode 'Ko'"
+    },
+    {
+      "kode": "Mr",
+      "nama": "Mandar",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Mandar' dengan kode 'Mr'"
+    },
+    {
+      "kode": "Moa",
+      "nama": "Moa",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Moa' dengan kode 'Moa'"
+    },
+    {
+      "kode": "Ram",
+      "nama": "Rampi",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Rampi' dengan kode 'Ram'"
+    },
+    {
+      "kode": "Hub",
+      "nama": "Perhubungan",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Perhubungan' dengan kode 'Hub'"
+    },
+    {
+      "kode": "Psr",
+      "nama": "Pasir (Paser)",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Pasir (Paser)' dengan kode 'Psr'"
+    },
+    {
+      "kode": "Hw",
+      "nama": "Hawaii",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Hawaii' dengan kode 'Hw'"
+    },
+    {
+      "kode": "Ast",
+      "nama": "Astronomi",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Astronomi' dengan kode 'Ast'"
+    },
+    {
+      "kode": "Tns",
+      "nama": "Minahasa Tonsea",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Minahasa Tonsea' dengan kode 'Tns'"
+    },
+    {
+      "kode": "Ibo",
+      "nama": "Ibo",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ibo' dengan kode 'Ibo'"
+    },
+    {
+      "kode": "Rt",
+      "nama": "Rote",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Rote' dengan kode 'Rt'"
+    },
+    {
+      "kode": "Plb",
+      "nama": "Palembang",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Palembang' dengan kode 'Plb'"
+    },
+    {
+      "kode": "Tr",
+      "nama": "Ternate",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ternate' dengan kode 'Tr'"
+    },
+    {
+      "kode": "BgM",
+      "nama": "Bugis-Makassar",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Bugis-Makassar' dengan kode 'BgM'"
+    },
+    {
+      "kode": "Maa",
+      "nama": "Maanyan",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Maanyan' dengan kode 'Maa'"
+    },
+    {
+      "kode": "Kon",
+      "nama": "Kone-konee",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kone-konee' dengan kode 'Kon'"
+    },
+    {
+      "kode": "Kes",
+      "nama": "Kesehatan",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kesehatan' dengan kode 'Kes'"
+    },
+    {
+      "kode": "Kb",
+      "nama": "Kambera",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Kambera' dengan kode 'Kb'"
+    },
+    {
+      "kode": "Te",
+      "nama": "Tetun",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Tetun' dengan kode 'Te'"
+    },
+    {
+      "kode": "Wdm",
+      "nama": "Wandamen",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Wandamen' dengan kode 'Wdm'"
+    },
+    {
+      "kode": "Ba",
+      "nama": "Baun",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Baun' dengan kode 'Ba'"
+    },
+    {
+      "kode": "vulg",
+      "nama": "Vulgar",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Vulgar' dengan kode 'vulg'"
+    },
+    {
+      "kode": "Taa",
+      "nama": "Taa",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Taa' dengan kode 'Taa'"
+    },
+    {
+      "kode": "Wr",
+      "nama": "Warry",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Warry' dengan kode 'Wr'"
+    },
+    {
+      "kode": "Ft",
+      "nama": "Fotografi",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Fotografi' dengan kode 'Ft'"
+    },
+    {
+      "kode": "Ib",
+      "nama": "Ibrani",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Ibrani' dengan kode 'Ib'"
+    },
+    {
+      "kode": "Mee",
+      "nama": "Mee",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Mee' dengan kode 'Mee'"
+    },
+    {
+      "kode": "sufiks pembentuk verba",
+      "nama": "-",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori '-' dengan kode 'sufiks pembentuk verba'"
+    },
+    {
+      "kode": "bentuk",
+      "nama": "-",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori '-' dengan kode 'bentuk'"
+    },
+    {
+      "kode": "SLa",
+      "nama": "Serui Laut",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Serui Laut' dengan kode 'SLa'"
+    },
+    {
+      "kode": "Brk",
+      "nama": "Berik",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Berik' dengan kode 'Brk'"
+    },
+    {
+      "kode": "Geof",
+      "nama": "Geofisika",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Geofisika' dengan kode 'Geof'"
+    },
+    {
+      "kode": "Ca",
+      "nama": "Cia-Cia",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Cia-Cia' dengan kode 'Ca'"
+    },
+    {
+      "kode": "Dwn",
+      "nama": "Dawan",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Dawan' dengan kode 'Dwn'"
+    },
+    {
+      "kode": "Si",
+      "nama": "Sikka",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Sikka' dengan kode 'Si'"
+    },
+    {
+      "kode": "Gn",
+      "nama": "Gane",
+      "usage_count": 1,
+      "type": "miscellaneous",
+      "description": "Kategori 'Gane' dengan kode 'Gn'"
+    }
+  ]
+}
