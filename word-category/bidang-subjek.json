@@ -10,181 +10,211 @@
       "kode": "Kim",
       "nama": "Kimia",
       "category": "science",
-      "description": "Ilmu kimia"
+      "description": "Ilmu kimia",
+      "full_description": "Kimia adalah ilmu yang mempelajari struktur, sifat, komposisi, dan transformasi materi pada tingkat molekuler dan atomik. Bidang ini mencakup berbagai subdisiplin seperti kimia organik, anorganik, fisik, dan analitik yang memberikan kontribusi penting dalam pengembangan teknologi, farmasi, dan industri."
     },
     {
       "kode": "Fis",
       "nama": "Fisika",
       "category": "science",
-      "description": "Ilmu fisika"
+      "description": "Ilmu fisika",
+      "full_description": "Fisika adalah ilmu fundamental yang mempelajari sifat dan perilaku materi, energi, ruang, dan waktu, serta interaksi di antara komponen-komponen tersebut. Bidang ini mencakup mekanika, termodinamika, elektromagnetisme, optik, fisika modern, dan fisika kuantum yang menjadi dasar bagi perkembangan teknologi dan rekayasa."
     },
     {
       "kode": "Bio",
       "nama": "Biologi",
       "category": "science",
-      "description": "Ilmu biologi"
+      "description": "Ilmu biologi",
+      "full_description": "Biologi adalah ilmu yang mempelajari kehidupan dan organisme hidup, termasuk struktur, fungsi, pertumbuhan, evolusi, distribusi, dan taksonomi. Bidang ini meliputi berbagai subdisiplin seperti botani, zoologi, mikrobiologi, genetika, ekologi, dan biokimia yang berkontribusi pada pemahaman kompleksitas kehidupan di Bumi."
     },
     {
       "kode": "Mat",
       "nama": "Matematika",
       "category": "science",
-      "description": "Ilmu matematika"
+      "description": "Ilmu matematika",
+      "full_description": "Matematika adalah ilmu yang mempelajari pola, struktur, ruang, dan perubahan melalui pendekatan logis dan sistematis. Bidang ini mencakup aljabar, geometri, kalkulus, statistika, dan matematika diskrit yang menjadi bahasa universal untuk mendeskripsikan fenomena alam dan menjadi fondasi bagi berbagai disiplin ilmu lainnya."
     },
     {
       "kode": "Geo",
       "nama": "Geografi",
       "category": "science",
-      "description": "Ilmu geografi"
+      "description": "Ilmu geografi",
+      "full_description": "Geografi adalah ilmu yang mempelajari permukaan Bumi, fenomena fisik dan manusia, serta interaksi antara manusia dengan lingkungannya dalam konteks spasial. Bidang ini meliputi geografi fisik, geografi manusia, kartografi, dan sistem informasi geografis yang penting untuk perencanaan wilayah dan pengelolaan sumber daya."
     },
     {
       "kode": "Dok",
       "nama": "Kedokteran",
       "category": "medical",
-      "description": "Bidang kedokteran"
+      "description": "Bidang kedokteran",
+      "full_description": "Kedokteran adalah ilmu dan praktik yang berkaitan dengan diagnosis, pengobatan, dan pencegahan penyakit pada manusia. Bidang ini mencakup berbagai spesialisasi seperti bedah, penyakit dalam, pediatri, dan kesehatan masyarakat yang bertujuan memelihara dan memulihkan kesehatan serta meningkatkan kualitas hidup manusia."
     },
     {
       "kode": "Far",
       "nama": "Farmasi",
       "category": "medical",
-      "description": "Bidang farmasi"
+      "description": "Bidang farmasi",
+      "full_description": "Farmasi adalah ilmu yang mempelajari penemuan, pengembangan, produksi, dan distribusi obat-obatan serta zat-zat yang digunakan untuk pengobatan. Bidang ini mencakup farmakologi, farmakognosi, kimia farmasi, dan farmasi klinik yang berperan penting dalam sistem pelayanan kesehatan dan keamanan penggunaan obat."
     },
     {
       "kode": "Psi",
       "nama": "Psikologi",
       "category": "social_science",
-      "description": "Ilmu psikologi"
+      "description": "Ilmu psikologi",
+      "full_description": "Psikologi adalah ilmu yang mempelajari perilaku dan proses mental manusia, termasuk kognisi, emosi, persepsi, dan interaksi sosial. Bidang ini meliputi psikologi klinis, sosial, perkembangan, dan eksperimental yang berkontribusi pada pemahaman kompleksitas jiwa manusia dan aplikasinya dalam berbagai aspek kehidupan."
     },
     {
       "kode": "Sos",
       "nama": "Sosiologi",
       "category": "social_science",
-      "description": "Ilmu sosiologi"
+      "description": "Ilmu sosiologi",
+      "full_description": "Sosiologi adalah ilmu yang mempelajari masyarakat, pola-pola hubungan sosial, interaksi sosial, dan budaya dalam kehidupan bermasyarakat. Bidang ini mengkaji struktur sosial, perubahan sosial, stratifikasi, dan institusi sosial yang membantu memahami dinamika kehidupan kolektif dan pembangunan masyarakat."
     },
     {
       "kode": "Ant",
       "nama": "Antropologi",
       "category": "social_science",
-      "description": "Ilmu antropologi"
+      "description": "Ilmu antropologi",
+      "full_description": "Antropologi adalah ilmu yang mempelajari manusia secara holistik, meliputi aspek biologis, sosial, budaya, dan evolusi manusia dari masa lampau hingga masa kini. Bidang ini mencakup antropologi fisik, budaya, linguistik, dan arkeologi yang memberikan pemahaman mendalam tentang keragaman dan universalitas pengalaman manusia."
     },
     {
       "kode": "Huk",
       "nama": "Hukum",
       "category": "legal",
-      "description": "Bidang hukum"
+      "description": "Bidang hukum",
+      "full_description": "Hukum adalah sistem peraturan dan norma yang mengatur tingkah laku manusia dalam masyarakat, termasuk mekanisme penegakan dan sanksi. Bidang ini meliputi hukum perdata, pidana, tata negara, dan internasional yang berfungsi menciptakan ketertiban, keadilan, dan kepastian hukum dalam kehidupan bermasyarakat dan bernegara."
     },
     {
       "kode": "Pol",
       "nama": "Politik",
       "category": "political",
-      "description": "Ilmu politik"
+      "description": "Ilmu politik",
+      "full_description": "Politik adalah ilmu yang mempelajari kekuasaan, pemerintahan, kebijakan publik, dan proses pengambilan keputusan dalam masyarakat. Bidang ini mencakup teori politik, sistem pemerintahan, hubungan internasional, dan perilaku politik yang penting untuk memahami dinamika kekuasaan dan governance dalam konteks lokal maupun global."
     },
     {
       "kode": "Ek",
       "nama": "Ekonomi",
       "category": "economics",
-      "description": "Ilmu ekonomi"
+      "description": "Ilmu ekonomi",
+      "full_description": "Ekonomi adalah ilmu yang mempelajari produksi, distribusi, dan konsumsi barang dan jasa, serta perilaku pelaku ekonomi dalam mengalokasikan sumber daya yang terbatas. Bidang ini meliputi mikroekonomi, makroekonomi, dan ekonomi pembangunan yang berperan penting dalam memahami mekanisme pasar dan kebijakan ekonomi."
     },
     {
       "kode": "Dag",
       "nama": "Perdagangan",
       "category": "economics",
-      "description": "Bidang perdagangan"
+      "description": "Bidang perdagangan",
+      "full_description": "Perdagangan adalah kegiatan jual beli barang dan jasa yang melibatkan pertukaran nilai ekonomi antara pihak-pihak yang berkepentingan. Bidang ini mencakup perdagangan domestik dan internasional, e-commerce, dan manajemen rantai pasok yang menjadi motor penggerak perekonomian dan globalisasi."
     },
     {
       "kode": "Akn",
       "nama": "Akuntansi",
       "category": "economics",
-      "description": "Bidang akuntansi"
+      "description": "Bidang akuntansi",
+      "full_description": "Akuntansi adalah sistem pencatatan, pengukuran, dan pelaporan informasi keuangan yang digunakan untuk pengambilan keputusan ekonomi. Bidang ini meliputi akuntansi keuangan, manajemen, pajak, dan audit yang berperan penting dalam transparansi finansial dan pertanggungjawaban organisasi."
     },
     {
       "kode": "Sas",
       "nama": "Sastra",
       "category": "humanities",
-      "description": "Bidang sastra"
+      "description": "Bidang sastra",
+      "full_description": "Sastra adalah seni berbahasa yang mengekspresikan pikiran, perasaan, dan pengalaman manusia melalui karya tulis seperti puisi, novel, drama, dan esai. Bidang ini mempelajari karya sastra dari berbagai periode dan budaya, serta teori-teori kritik sastra yang berkontribusi pada pengembangan budaya dan peradaban manusia."
     },
     {
       "kode": "Ling",
       "nama": "Linguistik",
       "category": "humanities",
-      "description": "Ilmu linguistik"
+      "description": "Ilmu linguistik",
+      "full_description": "Linguistik adalah ilmu yang mempelajari bahasa secara ilmiah, meliputi struktur, sejarah, dan penggunaan bahasa dalam berbagai konteks sosial dan budaya. Bidang ini mencakup fonologi, morfologi, sintaksis, semantik, dan sosiolinguistik yang penting untuk memahami fenomena kebahasaan dan komunikasi manusia."
     },
     {
       "kode": "Sej",
       "nama": "Sejarah",
       "category": "humanities",
-      "description": "Ilmu sejarah"
+      "description": "Ilmu sejarah",
+      "full_description": "Sejarah adalah ilmu yang mempelajari peristiwa masa lampau manusia berdasarkan sumber-sumber tertulis dan bukti arkeologis. Bidang ini mengkaji perkembangan peradaban, perubahan sosial politik, dan kontinuitas budaya yang memberikan pemahaman tentang asal-usul dan perkembangan masyarakat modern."
     },
     {
       "kode": "Sn",
       "nama": "Seni",
       "category": "arts",
-      "description": "Bidang seni"
+      "description": "Bidang seni",
+      "full_description": "Seni adalah bentuk ekspresi kreatif manusia yang menghasilkan karya estetis melalui berbagai medium seperti lukisan, patung, musik, tari, dan teater. Bidang ini mencakup seni rupa, seni pertunjukan, dan seni terapan yang berperan dalam pengembangan budaya, pendidikan estetika, dan industri kreatif."
     },
     {
       "kode": "Mus",
       "nama": "Musik",
       "category": "arts",
-      "description": "Bidang musik"
+      "description": "Bidang musik",
+      "full_description": "Musik adalah seni yang mengorganisasikan suara dalam waktu untuk menciptakan karya yang memiliki nilai estetis dan emosional. Bidang ini meliputi komposisi, teori musik, musikologi, dan berbagai genre musik yang berperan dalam ekspresi budaya, hiburan, pendidikan, dan terapi."
     },
     {
       "kode": "Or",
       "nama": "Olahraga",
       "category": "sports",
-      "description": "Bidang olahraga"
+      "description": "Bidang olahraga",
+      "full_description": "Olahraga adalah aktivitas fisik yang dilakukan secara terorganisir dengan aturan tertentu untuk meningkatkan kebugaran, keterampilan, dan prestasi kompetitif. Bidang ini mencakup berbagai cabang olahraga, ilmu keolahragaan, dan manajemen olahraga yang berperan dalam pembangunan karakter, kesehatan masyarakat, dan prestasi nasional."
     },
     {
       "kode": "Tern",
       "nama": "Peternakan",
       "category": "agriculture",
-      "description": "Bidang peternakan"
+      "description": "Bidang peternakan",
+      "full_description": "Peternakan adalah kegiatan pemeliharaan dan pengembangbiakan hewan untuk dimanfaatkan produknya seperti daging, susu, telur, dan kulit. Bidang ini meliputi nutrisi ternak, reproduksi, genetika, dan manajemen peternakan yang berkontribusi pada ketahanan pangan, ekonomi pedesaan, dan industri pangan."
     },
     {
       "kode": "Tan",
       "nama": "Pertanian",
       "category": "agriculture",
-      "description": "Bidang pertanian"
+      "description": "Bidang pertanian",
+      "full_description": "Pertanian adalah kegiatan bercocok tanam dan budidaya tanaman untuk menghasilkan bahan pangan, pakan, serat, dan bahan baku industri. Bidang ini mencakup agronomi, hortikultura, ilmu tanah, dan teknologi pertanian yang fundamental bagi ketahanan pangan, pembangunan ekonomi, dan keberlanjutan lingkungan."
     },
     {
       "kode": "Ikn",
       "nama": "Perikanan",
       "category": "agriculture",
-      "description": "Bidang perikanan"
+      "description": "Bidang perikanan",
+      "full_description": "Perikanan adalah kegiatan penangkapan, budidaya, pengolahan, dan pemasaran ikan serta organisme air lainnya. Bidang ini meliputi akuakultur, teknologi penangkapan, dan manajemen sumber daya perikanan yang berperan penting dalam ketahanan pangan protein, ekonomi maritim, dan pelestarian ekosistem perairan."
     },
     {
       "kode": "Tek",
       "nama": "Teknik",
       "category": "engineering",
-      "description": "Bidang teknik"
+      "description": "Bidang teknik",
+      "full_description": "Teknik adalah penerapan prinsip-prinsip ilmiah dan matematika untuk merancang, membangun, dan memelihara struktur, mesin, sistem, dan proses yang bermanfaat bagi manusia. Bidang ini mencakup teknik sipil, mesin, elektro, dan kimia yang menjadi tulang punggung pembangunan infrastruktur dan kemajuan teknologi."
     },
     {
       "kode": "If",
       "nama": "Teknologi Informasi",
       "category": "technology",
-      "description": "Bidang teknologi informasi"
+      "description": "Bidang teknologi informasi",
+      "full_description": "Teknologi Informasi adalah bidang yang menggabungkan komputasi dan komunikasi untuk memproses, menyimpan, dan mentransmisikan informasi secara digital. Bidang ini mencakup pengembangan perangkat lunak, jaringan komputer, keamanan siber, dan sistem informasi yang menjadi fondasi era digital dan transformasi masyarakat modern."
     },
     {
       "kode": "Kom",
       "nama": "Komputer",
       "category": "technology",
-      "description": "Bidang komputer"
+      "description": "Bidang komputer",
+      "full_description": "Komputer adalah bidang yang mempelajari desain, pengembangan, dan aplikasi sistem komputer serta algoritma untuk memecahkan masalah komputasional. Bidang ini meliputi pemrograman, struktur data, kecerdasan buatan, dan arsitektur komputer yang menjadi dasar revolusi digital dan otomasi di berbagai sektor kehidupan."
     },
     {
       "kode": "Isl",
       "nama": "Agama Islam",
       "category": "religion",
-      "description": "Bidang agama Islam"
+      "description": "Bidang agama Islam",
+      "full_description": "Agama Islam adalah sistem kepercayaan monoteistik yang diturunkan melalui Nabi Muhammad SAW dengan Al-Quran sebagai kitab suci dan Hadits sebagai panduan. Bidang ini mencakup teologi, fiqih, tasawuf, dan sejarah Islam yang memberikan panduan spiritual, moral, dan hukum bagi umat Muslim dalam kehidupan individual dan sosial."
     },
     {
       "kode": "Kr",
       "nama": "Agama Kristen",
       "category": "religion",
-      "description": "Bidang agama Kristen"
+      "description": "Bidang agama Kristen",
+      "full_description": "Agama Kristen adalah kepercayaan monoteistik yang berdasarkan pada ajaran dan kehidupan Yesus Kristus dengan Alkitab sebagai kitab suci. Bidang ini mencakup teologi, eksegesis, sejarah gereja, dan etika Kristen yang memberikan panduan spiritual dan moral bagi umat Kristen dalam menjalani kehidupan beriman dan bermasyarakat."
     },
     {
       "kode": "Kat",
       "nama": "Katolik",
       "category": "religion",
-      "description": "Bidang agama Katolik"
+      "description": "Bidang agama Katolik",
+      "full_description": "Katolik adalah denominasi terbesar dalam agama Kristen yang dipimpin oleh Paus dengan tradisi apostolik yang berlanjut dari Rasul Petrus. Bidang ini mencakup doktrin, liturgi, hukum kanonik, dan tradisi Katolik yang memberikan bimbingan spiritual, sakramen, dan ajaran moral bagi umat Katolik di seluruh dunia."
     }
   ]
 }

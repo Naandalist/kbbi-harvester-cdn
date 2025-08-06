@@ -16,9 +16,10 @@ This folder contains comprehensive categorization data extracted from the KBBI (
 Master index file containing overview and metadata about all category files.
 
 ### 📋 `kategori.json` (Complete Database)
-- **Size**: ~2,400 lines
-- **Contains**: All 443 unique categories + 744 popular combinations
+- **Size**: 2,436 lines
+- **Contains**: All 443 unique categories + 744 popular combinations  
 - **Use Case**: Comprehensive category reference
+- **Format**: Streamlined (optimized without detailed descriptions)
 
 ### 📝 `kelas-kata.json` (Grammatical Categories)
 Word classes and parts of speech:
@@ -150,7 +151,26 @@ All 84,929 dictionary entries (A-Z) now include `tipe` fields in their `kelasKat
 
 ## 📝 Data Format
 
-All files follow a consistent JSON structure:
+All files follow a consistent JSON structure with minor variations:
+
+### `kategori.json` (Streamlined Format)
+```json
+{
+  "meta": {
+    "description": "...",
+    "total_items": 123,
+    "last_updated": "2025-08-06"
+  },
+  "individual_categories": [
+    {
+      "kode": "n",
+      "nama": "Nomina"
+    }
+  ]
+}
+```
+
+### Other Files (Detailed Format)
 ```json
 {
   "meta": {
@@ -161,12 +181,15 @@ All files follow a consistent JSON structure:
   "word_classes": [  // or "languages", "subject_domains", "categories"
     {
       "kode": "n",
-      "nama": "Nomina", 
-      "description": "Kata benda"
+      "nama": "Nomina",
+      "description": "Kata benda",
+      "full_description": "Detailed explanation..."
     }
   ]
 }
 ```
+
+**Note**: `kategori.json` has been optimized by removing `full_description` fields for better performance, while other specialized files retain detailed descriptions for comprehensive reference.
 
 ### Word Entry Integration
 Each dictionary entry's `kelasKata` now includes Indonesian type classifications:
