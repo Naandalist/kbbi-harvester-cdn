@@ -1,1 +1,48 @@
-{"word":"casis","authenticated":true,"entries":[{"id":"14846","nama":"ca.sis","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sasis","contoh":[]}]},{"id":"238987","nama":"ca.sis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"calon siswa","contoh":[{"nomor":2,"teks":"-- bintara akan menjalani pendidikan militer"}]}]}]}
+{
+  "word": "casis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14846",
+      "nama": "ca.sis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sasis",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "238987",
+      "nama": "ca.sis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon siswa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bintara akan menjalani pendidikan militer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

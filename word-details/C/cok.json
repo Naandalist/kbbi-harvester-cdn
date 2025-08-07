@@ -1,1 +1,103 @@
-{"word":"cok","authenticated":true,"entries":[{"id":"16408","nama":"cok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"alat tambat yang dibuat dari baja tuang, biasanya berbentuk tanduk, digunakan untuk melewatkan tali atau tros kapal; sisir","contoh":[]}]},{"id":"16409","nama":"cok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"My","nama":"Muyu","tipe":"lainnya"}],"definisi":"kue sagu, dimakan dengan sayuran atau daging","contoh":[]}]},{"id":"194993","nama":"cok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pembatasan lubang penggilingan yang menghasilkan partikel yang cukup kecil","contoh":[]},{"nomor":"2","kelasKata":[],"definisi":"pembatasan lubang dalam ekstruder","contoh":[]}]},{"id":"190246","nama":"cok","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"menumbuk sirih dalam lesung","contoh":[]}]}]}
+{
+  "word": "cok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16408",
+      "nama": "cok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat tambat yang dibuat dari baja tuang, biasanya berbentuk tanduk, digunakan untuk melewatkan tali atau tros kapal; sisir",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "16409",
+      "nama": "cok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "My",
+              "nama": "Muyu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kue sagu, dimakan dengan sayuran atau daging",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "194993",
+      "nama": "cok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pembatasan lubang penggilingan yang menghasilkan partikel yang cukup kecil",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [],
+          "definisi": "pembatasan lubang dalam ekstruder",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "190246",
+      "nama": "cok",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menumbuk sirih dalam lesung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,96 @@
-{"word":"ceng","authenticated":true,"entries":[{"id":"187722","nama":"ceng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"berhenti dari permainan","contoh":[{"nomor":2,"teks":"anak-anak yang sedang bermain itu -- saat mendengar azan magrib"}]}],"etimologi":{"text":"[Hokkien dialek Xiamen 精 cheng 'air tebu']","languages":["Hokkien dialek Xiamen"]}},{"id":"236020","nama":"ceng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"alat pengukur berat ikan; timbangan ikan","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 精 cheng 'air tebu']","languages":["Hokkien dialek Xiamen"]}},{"id":"15558","nama":"ceng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"air tebu; melase","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 精 cheng 'air tebu']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "ceng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "187722",
+      "nama": "ceng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berhenti dari permainan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak yang sedang bermain itu -- saat mendengar azan magrib"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 精 cheng 'air tebu']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "236020",
+      "nama": "ceng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat pengukur berat ikan; timbangan ikan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 精 cheng 'air tebu']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "15558",
+      "nama": "ceng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "air tebu; melase",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 精 cheng 'air tebu']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

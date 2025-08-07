@@ -1,1 +1,87 @@
-{"word":"calon","authenticated":true,"entries":[{"id":"14342","nama":"ca.lon","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang akan menjadi","contoh":[{"nomor":2,"teks":"-- menantu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang dididik dan dipersiapkan untuk menduduki jabatan atau profesi tertentu","contoh":[{"nomor":2,"teks":"-- guru"},{"nomor":4,"teks":"-- perwira angkatan darat"},{"nomor":6,"teks":"banyak adat istiadat istana yang harus dipelajari oleh -- raja"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang diusulkan atau dicadangkan untuk dipilih atau diangkat menjadi sesuatu","contoh":[{"nomor":2,"teks":"nama -- anggota Dewan Perwakilan Rakyat sudah disampaikan kepada panitia pemilihan"}]}],"terkait":{"kataTurunan":["mencalonkan","pencalon","pencalonan"],"gabunganKata":["calon independen","calon legislatif","calon pembeli utama","calon perwira"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "calon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14342",
+      "nama": "ca.lon",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang akan menjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- menantu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang dididik dan dipersiapkan untuk menduduki jabatan atau profesi tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- guru"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- perwira angkatan darat"
+            },
+            {
+              "nomor": 6,
+              "teks": "banyak adat istiadat istana yang harus dipelajari oleh -- raja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang diusulkan atau dicadangkan untuk dipilih atau diangkat menjadi sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nama -- anggota Dewan Perwakilan Rakyat sudah disampaikan kepada panitia pemilihan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencalonkan",
+          "pencalon",
+          "pencalonan"
+        ],
+        "gabunganKata": [
+          "calon independen",
+          "calon legislatif",
+          "calon pembeli utama",
+          "calon perwira"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"cengis","authenticated":true,"entries":[{"id":"15584","nama":"ce.ngis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bau sangat sangit (seperti kerak terbakar)","contoh":[]}]},{"id":"142437","nama":"ce.ngis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tersenyum malu-malu","contoh":[{"nomor":2,"teks":"ia terlihat -- saat mendapat pujian"}]}]}]}
+{
+  "word": "cengis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15584",
+      "nama": "ce.ngis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bau sangat sangit (seperti kerak terbakar)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "142437",
+      "nama": "ce.ngis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tersenyum malu-malu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia terlihat -- saat mendapat pujian"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

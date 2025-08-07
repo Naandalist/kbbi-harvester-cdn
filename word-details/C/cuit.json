@@ -1,1 +1,64 @@
-{"word":"cuit","authenticated":true,"entries":[{"id":"16791","nama":"cu.it","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gamit","contoh":[]}],"terkait":{"kataTurunan":["bercuit-cuit","mencuit","pencuit","secuit","cuitan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"163484","nama":"cu.it","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi kicau burung","contoh":[]}],"terkait":{"kataTurunan":["cuitan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "cuit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16791",
+      "nama": "cu.it",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gamit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bercuit-cuit",
+          "mencuit",
+          "pencuit",
+          "secuit",
+          "cuitan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "163484",
+      "nama": "cu.it",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi kicau burung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "cuitan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

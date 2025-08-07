@@ -1,1 +1,88 @@
-{"word":"cengkeram","authenticated":true,"entries":[{"id":"15605","nama":"ceng.ke.ram","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang erat-erat dengan tangan dan cakar (kuku)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menguasai (menggenggam)","contoh":[]}],"terkait":{"kataTurunan":["cengkeraman","mencengkeram","mencengkeramkan","pencengkeram","pencengkeraman","tercengkeram"],"gabunganKata":["cengkeram oligarki"],"peribahasa":[],"idiom":[]}},{"id":"15609","nama":"ceng.ke.ram","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang muka (sebelum pesanan dan sebagainya dikerjakan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang panjar; sesuatu yang dipakai sebagai tanggungan utang","contoh":[]}]}]}
+{
+  "word": "cengkeram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15605",
+      "nama": "ceng.ke.ram",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang erat-erat dengan tangan dan cakar (kuku)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguasai (menggenggam)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "cengkeraman",
+          "mencengkeram",
+          "mencengkeramkan",
+          "pencengkeram",
+          "pencengkeraman",
+          "tercengkeram"
+        ],
+        "gabunganKata": [
+          "cengkeram oligarki"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15609",
+      "nama": "ceng.ke.ram",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang muka (sebelum pesanan dan sebagainya dikerjakan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang panjar; sesuatu yang dipakai sebagai tanggungan utang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"cewek","authenticated":true,"entries":[{"id":"16043","nama":"ce.wek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sebutan untuk wanita atau perempuan yang masih muda (gadis)","contoh":[{"nomor":2,"teks":"dia -- yang manis dan rupawan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pacar (perempuan)","contoh":[{"nomor":2,"teks":"dia sudah punya --"}]}],"terkait":{"kataTurunan":["kecewek-cewekan"],"gabunganKata":["cewek bumi","cewek kue"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "cewek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16043",
+      "nama": "ce.wek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan untuk wanita atau perempuan yang masih muda (gadis)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- yang manis dan rupawan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pacar (perempuan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sudah punya --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kecewek-cewekan"
+        ],
+        "gabunganKata": [
+          "cewek bumi",
+          "cewek kue"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

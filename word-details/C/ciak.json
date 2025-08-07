@@ -1,1 +1,142 @@
-{"word":"ciak","authenticated":true,"entries":[{"id":"16049","nama":"ci.ak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi seperti bunyi anak burung","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 食 chia̍h 'makan']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":["menciak","menciak-ciak"],"gabunganKata":["ciak ciap","ciak miak","ciak gajah","ciak padi","ciak raya","ciak reban"],"peribahasa":["kicang-kecoh ciak"],"idiom":[]}},{"id":"16054","nama":"ci.ak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"burung kecil sebangsa pipit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"anak ayam","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 食 chia̍h 'makan']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":[],"gabunganKata":["ciak gajah","ciak padi","ciak raya","ciak reban"],"peribahasa":["kicang-kecoh ciak"],"idiom":[]}},{"id":"16059","nama":"ci.ak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"makan","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 食 chia̍h 'makan']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kicang-kecoh ciak"],"idiom":[]}}]}
+{
+  "word": "ciak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16049",
+      "nama": "ci.ak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi seperti bunyi anak burung",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 食 chia̍h 'makan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menciak",
+          "menciak-ciak"
+        ],
+        "gabunganKata": [
+          "ciak ciap",
+          "ciak miak",
+          "ciak gajah",
+          "ciak padi",
+          "ciak raya",
+          "ciak reban"
+        ],
+        "peribahasa": [
+          "kicang-kecoh ciak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16054",
+      "nama": "ci.ak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "burung kecil sebangsa pipit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak ayam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 食 chia̍h 'makan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ciak gajah",
+          "ciak padi",
+          "ciak raya",
+          "ciak reban"
+        ],
+        "peribahasa": [
+          "kicang-kecoh ciak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16059",
+      "nama": "ci.ak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 食 chia̍h 'makan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kicang-kecoh ciak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

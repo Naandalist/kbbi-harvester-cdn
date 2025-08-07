@@ -1,1 +1,69 @@
-{"word":"ceper","authenticated":true,"entries":[{"id":"15697","nama":"ce.per","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berjeluk (tentang piring dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pendek, rendah (tentang mobil dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["menceperkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"15698","nama":"ce.per","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"talam (piring) dari logam","contoh":[]}]}]}
+{
+  "word": "ceper",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15697",
+      "nama": "ce.per",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berjeluk (tentang piring dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendek, rendah (tentang mobil dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menceperkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15698",
+      "nama": "ce.per",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "talam (piring) dari logam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

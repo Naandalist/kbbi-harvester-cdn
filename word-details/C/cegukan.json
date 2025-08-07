@@ -1,1 +1,58 @@
-{"word":"cegukan","authenticated":true,"entries":[{"id":"15069","nama":"ce.guk.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mengeluarkan bunyi “ceguk” dari kerongkongan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mudah tersinggung dan merajuk","contoh":[{"nomor":2,"teks":"dia orangnya ~, dimarahi sedikit saja langsung mengurung diri di kamar"}]}],"rootWord":"ceguk¹"}]}
+{
+  "word": "cegukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15069",
+      "nama": "ce.guk.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengeluarkan bunyi “ceguk” dari kerongkongan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mudah tersinggung dan merajuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia orangnya ~, dimarahi sedikit saja langsung mengurung diri di kamar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ceguk¹"
+    }
+  ]
+}

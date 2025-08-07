@@ -1,1 +1,51 @@
-{"word":"curhat","authenticated":true,"entries":[{"id":"109458","nama":"cur.hat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"menceritakan sesuatu yang bersifat pribadi pada orang terdekat seperti orang tua, teman, dan sebagainya; curahan hati","contoh":[{"nomor":2,"teks":"setiap hari pasti ada saja teman yang -- tentang pangerannya"}]}],"terkait":{"kataTurunan":["curhatan","mencurhati","mencurhatkan","pencurhat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "curhat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109458",
+      "nama": "cur.hat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menceritakan sesuatu yang bersifat pribadi pada orang terdekat seperti orang tua, teman, dan sebagainya; curahan hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap hari pasti ada saja teman yang -- tentang pangerannya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "curhatan",
+          "mencurhati",
+          "mencurhatkan",
+          "pencurhat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

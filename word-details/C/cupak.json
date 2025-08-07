@@ -1,1 +1,249 @@
-{"word":"cupak","authenticated":true,"entries":[{"id":"16928","nama":"cu.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"takaran beras (biasanya 1 cupak = ¼ gantang)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tempurung kelapa besar yang dipergunakan sebagai takaran padi","contoh":[{"nomor":2,"teks":"jangan kau jadikan mainan -- di dapur itu"}]}],"terkait":{"kataTurunan":["mencupak","secupak"],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}},{"id":"16932","nama":"cu.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepala pengudut (tempat candu dibakar)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}},{"id":"16933","nama":"cu.pak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"struktur berbentuk gelembung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"dasar bunga yang berkembang menggelembung berfungsi untuk melindungi buah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}},{"id":"16934","nama":"cu.pak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"alat dari kain atau semacamnya berbentuk lipatan-lipatan yang kedap cahaya dan/atau kedap udara, dipakai pada kamera atau alat untuk mengembus udara","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}},{"id":"223238","nama":"cu.pak","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"wadah dari anyaman bambu berbentuk empat persegi untuk tempat benih padi yang akan disemai","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}},{"id":"269227","nama":"cu.pak","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mr","nama":"Mandar","tipe":"lainnya"}],"definisi":"alat yang terbuat dari tempurung kelapa, bagian tengahnya berlubang dengan diameter 4—6 cm, digunakan untuk menyaring rowang sebelum diolah menjadi minyak kelapa khas Mandar","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat sepanjang jalan, cupak sepanjang betung","habis cupak oleh (dari) pelelehan","jalan dialih orang lalu, cupak dipapak orang penggalas","mandi dalam cupak","membawakan cupak ke negeri orang"],"idiom":[]}}]}
+{
+  "word": "cupak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16928",
+      "nama": "cu.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "takaran beras (biasanya 1 cupak = ¼ gantang)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempurung kelapa besar yang dipergunakan sebagai takaran padi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan kau jadikan mainan -- di dapur itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencupak",
+          "secupak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16932",
+      "nama": "cu.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala pengudut (tempat candu dibakar)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16933",
+      "nama": "cu.pak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "struktur berbentuk gelembung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dasar bunga yang berkembang menggelembung berfungsi untuk melindungi buah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16934",
+      "nama": "cu.pak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat dari kain atau semacamnya berbentuk lipatan-lipatan yang kedap cahaya dan/atau kedap udara, dipakai pada kamera atau alat untuk mengembus udara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "223238",
+      "nama": "cu.pak",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah dari anyaman bambu berbentuk empat persegi untuk tempat benih padi yang akan disemai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "269227",
+      "nama": "cu.pak",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mr",
+              "nama": "Mandar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat yang terbuat dari tempurung kelapa, bagian tengahnya berlubang dengan diameter 4—6 cm, digunakan untuk menyaring rowang sebelum diolah menjadi minyak kelapa khas Mandar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat sepanjang jalan, cupak sepanjang betung",
+          "habis cupak oleh (dari) pelelehan",
+          "jalan dialih orang lalu, cupak dipapak orang penggalas",
+          "mandi dalam cupak",
+          "membawakan cupak ke negeri orang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

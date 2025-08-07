@@ -1,1 +1,52 @@
-{"word":"cerat","authenticated":true,"entries":[{"id":"15791","nama":"ce.rat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian pada cerek (kendi, teko, karaf, dan sebagainya) yang berbentuk corong kecil untuk menuang air","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"talang yang berbentuk sedemikian rupa sehingga meningkatkan kecepatan air yang melaluinya","contoh":[]}],"terkait":{"kataTurunan":["bercerat","ceratan","mencerat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "cerat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15791",
+      "nama": "ce.rat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian pada cerek (kendi, teko, karaf, dan sebagainya) yang berbentuk corong kecil untuk menuang air",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "talang yang berbentuk sedemikian rupa sehingga meningkatkan kecepatan air yang melaluinya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bercerat",
+          "ceratan",
+          "mencerat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

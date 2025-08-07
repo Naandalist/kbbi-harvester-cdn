@@ -1,1 +1,79 @@
-{"word":"cerukan","authenticated":true,"entries":[{"id":"218663","nama":"ce.ruk.an (2)","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil menceruk","contoh":[{"nomor":2,"teks":"di sisi kiri curug terdapat sebuah ~ yang menyerupai gua"}]}],"rootWord":"ceruk"},{"id":"193144","nama":"ce.ruk.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"jumlah penarikan yang melebihi dana yang tersedia pada akun giro","contoh":[]}]},{"id":"283727","nama":"ce.ru.kan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bentukan sungai yang terjadi akibat gerusan arus deras","contoh":[]}]}]}
+{
+  "word": "cerukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "218663",
+      "nama": "ce.ruk.an (2)",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil menceruk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di sisi kiri curug terdapat sebuah ~ yang menyerupai gua"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ceruk"
+    },
+    {
+      "id": "193144",
+      "nama": "ce.ruk.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "jumlah penarikan yang melebihi dana yang tersedia pada akun giro",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "283727",
+      "nama": "ce.ru.kan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bentukan sungai yang terjadi akibat gerusan arus deras",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

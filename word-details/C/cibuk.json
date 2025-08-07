@@ -1,1 +1,83 @@
-{"word":"cibuk","authenticated":true,"entries":[{"id":"16078","nama":"ci.buk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bumbung tempat air untuk pencuci kaki","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"cebok","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"gayung yang terbuat dari pangkal pelepah pinang bertangkai kayu","contoh":[]}]},{"id":"223190","nama":"ci.buk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"memasukkan ubi, jagung, pisang, dan sebagainya ke dalam bara api","contoh":[{"nomor":2,"teks":"kami -- ubi yang sudah dipanen agar dapat dimakan"}]}]}]}
+{
+  "word": "cibuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16078",
+      "nama": "ci.buk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bumbung tempat air untuk pencuci kaki",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cebok",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gayung yang terbuat dari pangkal pelepah pinang bertangkai kayu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "223190",
+      "nama": "ci.buk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memasukkan ubi, jagung, pisang, dan sebagainya ke dalam bara api",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami -- ubi yang sudah dipanen agar dapat dimakan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

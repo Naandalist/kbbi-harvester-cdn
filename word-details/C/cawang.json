@@ -1,1 +1,54 @@
-{"word":"cawang","authenticated":true,"entries":[{"id":"14938","nama":"ca.wang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tanda, catatan","contoh":[]}]},{"id":"211583","nama":"ca.wang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"cabang","contoh":[]}]}]}
+{
+  "word": "cawang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14938",
+      "nama": "ca.wang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tanda, catatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "211583",
+      "nama": "ca.wang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cabang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

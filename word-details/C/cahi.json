@@ -1,1 +1,73 @@
-{"word":"cahi","authenticated":true,"entries":[{"id":"14192","nama":"ca.hi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"adik laki-laki","contoh":[]}]},{"id":"178782","nama":"ca.hi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"tambahan uraian dalam didong yang bertujuan untuk lebih menghibur dan memperindah cerita","contoh":[]}]},{"id":"236624","nama":"ca.hi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"ceh pada kesenian bersyair","contoh":[]}]}]}
+{
+  "word": "cahi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14192",
+      "nama": "ca.hi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "adik laki-laki",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "178782",
+      "nama": "ca.hi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tambahan uraian dalam didong yang bertujuan untuk lebih menghibur dan memperindah cerita",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "236624",
+      "nama": "ca.hi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ceh pada kesenian bersyair",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

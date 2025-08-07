@@ -1,1 +1,67 @@
-{"word":"cekap","authenticated":true,"entries":[{"id":"147532","nama":"ce.kap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"suara babi pada saat makan","contoh":[]}]},{"id":"15137","nama":"ce.kap","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ cekak1","contoh":[]}]},{"id":"148188","nama":"ce.kap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"cakap1","contoh":[]}]}]}
+{
+  "word": "cekap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "147532",
+      "nama": "ce.kap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "suara babi pada saat makan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "15137",
+      "nama": "ce.kap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ cekak1",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "148188",
+      "nama": "ce.kap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cakap1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

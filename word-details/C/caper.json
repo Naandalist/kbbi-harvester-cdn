@@ -1,1 +1,64 @@
-{"word":"caper","authenticated":true,"entries":[{"id":"113056","nama":"ca.per","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"koyak (tentang pakaian)","contoh":[{"nomor":2,"teks":"orang gila itu memakai celana yang sudah --"}]}]},{"id":"111093","nama":"ca.per","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"cari perhatian","contoh":[]}]}]}
+{
+  "word": "caper",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "113056",
+      "nama": "ca.per",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "koyak (tentang pakaian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang gila itu memakai celana yang sudah --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "111093",
+      "nama": "ca.per",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cari perhatian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

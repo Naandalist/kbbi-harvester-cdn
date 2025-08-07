@@ -1,1 +1,87 @@
-{"word":"campung","authenticated":true,"entries":[{"id":"14402","nama":"cam.pung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"(ter)penggal atau putus (tentang puncak atau ujung sesuatu)","contoh":[]}],"terkait":{"kataTurunan":["mencampung","tercampung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"14405","nama":"cam.pung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"jatuh ke dalam air","contoh":[]}]},{"id":"119319","nama":"cam.pung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"serong atau miring (tentang potongan sayur, buah, dan sebagainya)","contoh":[]}]}]}
+{
+  "word": "campung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14402",
+      "nama": "cam.pung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ter)penggal atau putus (tentang puncak atau ujung sesuatu)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencampung",
+          "tercampung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "14405",
+      "nama": "cam.pung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "jatuh ke dalam air",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "119319",
+      "nama": "cam.pung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "serong atau miring (tentang potongan sayur, buah, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

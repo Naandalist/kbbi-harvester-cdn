@@ -1,1 +1,59 @@
-{"word":"cob","authenticated":true,"entries":[{"id":"16344","nama":"cob","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"menggerak-gerakkan badan ke atas dan ke bawah (pada waktu berjalan cepat)","contoh":[]}]},{"id":"235583","nama":"COB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kes","nama":"Kesehatan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"mekanisme yang membuat seseorang dapat menerima manfaat dari dua atau lebih asuransi; coordination of benefit","contoh":[]}]}]}
+{
+  "word": "cob",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16344",
+      "nama": "cob",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menggerak-gerakkan badan ke atas dan ke bawah (pada waktu berjalan cepat)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "235583",
+      "nama": "COB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kes",
+              "nama": "Kesehatan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mekanisme yang membuat seseorang dapat menerima manfaat dari dua atau lebih asuransi; coordination of benefit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

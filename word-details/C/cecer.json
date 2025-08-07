@@ -1,1 +1,98 @@
-{"word":"cecer","authenticated":true,"entries":[{"id":"15012","nama":"ce.cer","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jatuh atau tumpah sedikit-sedikit","contoh":[]}],"terkait":{"kataTurunan":["berceceran","ceceran","kececeran","mencecerkan","tercecer"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"15011","nama":"ce.cer","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ cecar","contoh":[]}]},{"id":"161389","nama":"ce.cer","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"wadah besar untuk menyimpan hasil panen, dibuat dari anyaman pering","contoh":[]}]},{"id":"246525","nama":"ce.cer","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"gerakan kaki ke samping dengan membuka dan menutup kaki sedikit demi sedikit secara berulang saat menari tor-tor","contoh":[]}]}]}
+{
+  "word": "cecer",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15012",
+      "nama": "ce.cer",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jatuh atau tumpah sedikit-sedikit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berceceran",
+          "ceceran",
+          "kececeran",
+          "mencecerkan",
+          "tercecer"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15011",
+      "nama": "ce.cer",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ cecar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "161389",
+      "nama": "ce.cer",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah besar untuk menyimpan hasil panen, dibuat dari anyaman pering",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "246525",
+      "nama": "ce.cer",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gerakan kaki ke samping dengan membuka dan menutup kaki sedikit demi sedikit secara berulang saat menari tor-tor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

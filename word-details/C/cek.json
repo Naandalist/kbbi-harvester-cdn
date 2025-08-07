@@ -1,1 +1,255 @@
-{"word":"cek","authenticated":true,"entries":[{"id":"15070","nama":"cek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada kakak perempuan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"encek","contoh":[]}],"terkait":{"kataTurunan":["mengecek","mengecek-ngecek","pengecek","pengecekan"],"gabunganKata":["cek plot","cek atas bawa","cek bank","cek berjaminan","cek bersandi","cek blangko","cek cacat","cek fisik kendaraan bermotor","cek gantung","cek intern","cek jalan","cek karis","cek kasir","cek kedaluwarsa","cek kliring","cek kosong","cek luar kota","cek lunas","cek luwes","cek memo","cek mundur","cek musafir","cek nonpari","cek order","cek paritas","cek pelanggan","cek pelawat","cek perjalanan","cek perseorangan","cek pihak ketiga","cek putih","cek rusak","cek silang","cek terbuka","cek terdaftar","cek terjamin","cek tertolak","cek darah","cek kamar pagi","cek meja","cek ombak","cek suara","cek-ricek"],"peribahasa":[],"idiom":[]}},{"id":"15071","nama":"cek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"perintah tertulis dari pemegang rekening kepada bank dan sebagainya yang ditunjuknya untuk membayar sejumlah uang","contoh":[{"nomor":2,"teks":"pembelian barang itu dibayar dengan --"},{"nomor":4,"teks":"selembar -- bernilai Rp10.000.000.000,00 ditukar di bank"}]}],"terkait":{"kataTurunan":["mengecek","mengecek-ngecek","pengecek","pengecekan"],"gabunganKata":["cek atas bawa","cek bank","cek berjaminan","cek bersandi","cek blangko","cek cacat","cek fisik kendaraan bermotor","cek gantung","cek intern","cek jalan","cek karis","cek kasir","cek kedaluwarsa","cek kliring","cek kosong","cek luar kota","cek lunas","cek luwes","cek memo","cek mundur","cek musafir","cek nonpari","cek order","cek paritas","cek pelanggan","cek pelawat","cek perjalanan","cek perseorangan","cek pihak ketiga","cek putih","cek rusak","cek silang","cek terbuka","cek terdaftar","cek terjamin","cek tertolak","cek darah","cek kamar pagi","cek meja","cek ombak","cek suara","cek-ricek"],"peribahasa":[],"idiom":[]}},{"id":"15095","nama":"cek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"periksa","contoh":[]}],"terkait":{"kataTurunan":["mengecek","mengecek-ngecek","pengecek","pengecekan"],"gabunganKata":["cek darah","cek kamar pagi","cek meja","cek ombak","cek suara","cek-ricek"],"peribahasa":[],"idiom":[]}},{"id":"247583","nama":"cek","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"sapaan kepada adik ayah atau ibu","contoh":[]}]}]}
+{
+  "word": "cek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15070",
+      "nama": "cek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada kakak perempuan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "encek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengecek",
+          "mengecek-ngecek",
+          "pengecek",
+          "pengecekan"
+        ],
+        "gabunganKata": [
+          "cek plot",
+          "cek atas bawa",
+          "cek bank",
+          "cek berjaminan",
+          "cek bersandi",
+          "cek blangko",
+          "cek cacat",
+          "cek fisik kendaraan bermotor",
+          "cek gantung",
+          "cek intern",
+          "cek jalan",
+          "cek karis",
+          "cek kasir",
+          "cek kedaluwarsa",
+          "cek kliring",
+          "cek kosong",
+          "cek luar kota",
+          "cek lunas",
+          "cek luwes",
+          "cek memo",
+          "cek mundur",
+          "cek musafir",
+          "cek nonpari",
+          "cek order",
+          "cek paritas",
+          "cek pelanggan",
+          "cek pelawat",
+          "cek perjalanan",
+          "cek perseorangan",
+          "cek pihak ketiga",
+          "cek putih",
+          "cek rusak",
+          "cek silang",
+          "cek terbuka",
+          "cek terdaftar",
+          "cek terjamin",
+          "cek tertolak",
+          "cek darah",
+          "cek kamar pagi",
+          "cek meja",
+          "cek ombak",
+          "cek suara",
+          "cek-ricek"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15071",
+      "nama": "cek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perintah tertulis dari pemegang rekening kepada bank dan sebagainya yang ditunjuknya untuk membayar sejumlah uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pembelian barang itu dibayar dengan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "selembar -- bernilai Rp10.000.000.000,00 ditukar di bank"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengecek",
+          "mengecek-ngecek",
+          "pengecek",
+          "pengecekan"
+        ],
+        "gabunganKata": [
+          "cek atas bawa",
+          "cek bank",
+          "cek berjaminan",
+          "cek bersandi",
+          "cek blangko",
+          "cek cacat",
+          "cek fisik kendaraan bermotor",
+          "cek gantung",
+          "cek intern",
+          "cek jalan",
+          "cek karis",
+          "cek kasir",
+          "cek kedaluwarsa",
+          "cek kliring",
+          "cek kosong",
+          "cek luar kota",
+          "cek lunas",
+          "cek luwes",
+          "cek memo",
+          "cek mundur",
+          "cek musafir",
+          "cek nonpari",
+          "cek order",
+          "cek paritas",
+          "cek pelanggan",
+          "cek pelawat",
+          "cek perjalanan",
+          "cek perseorangan",
+          "cek pihak ketiga",
+          "cek putih",
+          "cek rusak",
+          "cek silang",
+          "cek terbuka",
+          "cek terdaftar",
+          "cek terjamin",
+          "cek tertolak",
+          "cek darah",
+          "cek kamar pagi",
+          "cek meja",
+          "cek ombak",
+          "cek suara",
+          "cek-ricek"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15095",
+      "nama": "cek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "periksa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengecek",
+          "mengecek-ngecek",
+          "pengecek",
+          "pengecekan"
+        ],
+        "gabunganKata": [
+          "cek darah",
+          "cek kamar pagi",
+          "cek meja",
+          "cek ombak",
+          "cek suara",
+          "cek-ricek"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "247583",
+      "nama": "cek",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sapaan kepada adik ayah atau ibu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

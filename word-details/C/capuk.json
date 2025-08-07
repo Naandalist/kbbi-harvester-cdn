@@ -1,1 +1,47 @@
-{"word":"capuk","authenticated":true,"entries":[{"id":"14719","nama":"ca.puk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bopeng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"kulit luka yang mengelupas","contoh":[{"nomor":2,"teks":"tangannya tidak sabar ingin membuka -- pada lukanya"}]}]}]}
+{
+  "word": "capuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14719",
+      "nama": "ca.puk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bopeng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kulit luka yang mengelupas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tangannya tidak sabar ingin membuka -- pada lukanya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

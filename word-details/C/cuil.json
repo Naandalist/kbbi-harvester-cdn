@@ -1,1 +1,69 @@
-{"word":"cuil","authenticated":true,"entries":[{"id":"16786","nama":"cu.il","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gamit","contoh":[]}],"terkait":{"kataTurunan":["mencuil","cuilan","secuil"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"16788","nama":"cu.il","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"rompal sedikit pada bagian pinggir atau luarnya","contoh":[]}],"terkait":{"kataTurunan":["cuilan","mencuil","secuil"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "cuil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16786",
+      "nama": "cu.il",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gamit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencuil",
+          "cuilan",
+          "secuil"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16788",
+      "nama": "cu.il",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rompal sedikit pada bagian pinggir atau luarnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "cuilan",
+          "mencuil",
+          "secuil"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

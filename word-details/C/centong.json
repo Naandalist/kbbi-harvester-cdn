@@ -1,1 +1,61 @@
-{"word":"centong","authenticated":true,"entries":[{"id":"15660","nama":"cen.tong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cedok yang bertangkai (seperti gayung, sibur)","contoh":[]}],"terkait":{"kataTurunan":["mencentong","secentong"],"gabunganKata":["centong es krim","centong nasi"],"peribahasa":[],"idiom":[]}},{"id":"243283","nama":"cen.tong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tulang yang menonjol di bagian punggung kanan dan kiri","contoh":[]}]}]}
+{
+  "word": "centong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15660",
+      "nama": "cen.tong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cedok yang bertangkai (seperti gayung, sibur)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencentong",
+          "secentong"
+        ],
+        "gabunganKata": [
+          "centong es krim",
+          "centong nasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "243283",
+      "nama": "cen.tong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tulang yang menonjol di bagian punggung kanan dan kiri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

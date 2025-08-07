@@ -1,1 +1,59 @@
-{"word":"celong","authenticated":true,"entries":[{"id":"133033","nama":"ce.long","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"pucat karena sakit","contoh":[{"nomor":2,"teks":"wajahnya -- sehingga sulit dikenali"}]}]},{"id":"209409","nama":"ce.long","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"cekung (tentang mata)","contoh":[]}]}]}
+{
+  "word": "celong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "133033",
+      "nama": "ce.long",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pucat karena sakit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wajahnya -- sehingga sulit dikenali"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "209409",
+      "nama": "ce.long",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "cekung (tentang mata)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

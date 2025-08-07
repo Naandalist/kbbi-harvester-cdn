@@ -1,1 +1,135 @@
-{"word":"cekak","authenticated":true,"entries":[{"id":"15103","nama":"ce.kak","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran lingkar, sebesar lingkaran yang terbentuk dengan merapatkan ujung ibu jari dan ujung jari tengah atau telunjuk","contoh":[{"nomor":2,"teks":"satu -- rambut cukup untuk memperbesar sebuah sanggul"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlalu kecil (tentang ukuran pakaian, jumlah uang); tidak cukup","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran untuk narkotika seberat 4 miligram","contoh":[]}],"terkait":{"kataTurunan":["bercekak","mencekak","secekak","mempercekakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"15108","nama":"ce.kak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial bercekak, mempercekakkan","contoh":[]}],"terkait":{"kataTurunan":["bercekak","mempercekakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"250947","nama":"ce.kak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"gelang yang terbuat dari kuningan, dipakai pada lengan sebagai hiasan pengantin perempuan","contoh":[]}]},{"id":"292979","nama":"ce.kak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBl","nama":"Melayu Belitung","tipe":"lainnya"}],"definisi":"bagian bawah manggis, berbentuk bunga, menunjukkan jumlah isi buah","contoh":[]}]}]}
+{
+  "word": "cekak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15103",
+      "nama": "ce.kak",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran lingkar, sebesar lingkaran yang terbentuk dengan merapatkan ujung ibu jari dan ujung jari tengah atau telunjuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "satu -- rambut cukup untuk memperbesar sebuah sanggul"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu kecil (tentang ukuran pakaian, jumlah uang); tidak cukup",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran untuk narkotika seberat 4 miligram",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bercekak",
+          "mencekak",
+          "secekak",
+          "mempercekakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15108",
+      "nama": "ce.kak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial bercekak, mempercekakkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bercekak",
+          "mempercekakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "250947",
+      "nama": "ce.kak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gelang yang terbuat dari kuningan, dipakai pada lengan sebagai hiasan pengantin perempuan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "292979",
+      "nama": "ce.kak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBl",
+              "nama": "Melayu Belitung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian bawah manggis, berbentuk bunga, menunjukkan jumlah isi buah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

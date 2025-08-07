@@ -1,1 +1,62 @@
-{"word":"capek","authenticated":true,"entries":[{"id":"14698","nama":"ca.pek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"capai2","contoh":[]}],"terkait":{"kataTurunan":["kecapekan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"218935","nama":"ca.pek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"tahi mata; kotoran pada mata","contoh":[]}]}]}
+{
+  "word": "capek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14698",
+      "nama": "ca.pek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "capai2",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kecapekan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "218935",
+      "nama": "ca.pek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tahi mata; kotoran pada mata",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

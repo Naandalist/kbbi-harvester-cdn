@@ -1,1 +1,67 @@
-{"word":"ceduk","authenticated":true,"entries":[{"id":"15048","nama":"ce.duk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"cekung; caung (tentang pipi, mata)","contoh":[]}],"terkait":{"kataTurunan":["seceduk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"15049","nama":"ce.duk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"timbul","contoh":[{"nomor":2,"teks":"-- seleraku melihat makanan yang masam-masam itu"}]}]}]}
+{
+  "word": "ceduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15048",
+      "nama": "ce.duk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cekung; caung (tentang pipi, mata)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "seceduk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15049",
+      "nama": "ce.duk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "timbul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- seleraku melihat makanan yang masam-masam itu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

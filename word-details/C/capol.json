@@ -1,1 +1,59 @@
-{"word":"capol","authenticated":true,"entries":[{"id":"141584","nama":"ca.pol","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"lepas dari ikatan (tentang binatang dan sebagainya)","contoh":[{"nomor":2,"teks":"sapinya --, tangkap kembali"}]}]},{"id":"183974","nama":"ca.pol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"calon polisi","contoh":[]}]}]}
+{
+  "word": "capol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "141584",
+      "nama": "ca.pol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lepas dari ikatan (tentang binatang dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sapinya --, tangkap kembali"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "183974",
+      "nama": "ca.pol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon polisi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

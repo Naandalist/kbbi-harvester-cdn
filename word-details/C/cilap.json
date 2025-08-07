@@ -1,1 +1,51 @@
-{"word":"cilap","authenticated":true,"entries":[{"id":"16142","nama":"ci.lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"kelip; kedip","contoh":[]}],"terkait":{"kataTurunan":["tercilap-cilap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"16144","nama":"ci.lap","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ cilok1","contoh":[]}]}]}
+{
+  "word": "cilap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16142",
+      "nama": "ci.lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelip; kedip",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tercilap-cilap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "16144",
+      "nama": "ci.lap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ cilok1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

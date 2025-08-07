@@ -1,1 +1,57 @@
-{"word":"ceker","authenticated":true,"entries":[{"id":"15159","nama":"ce.ker","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cakar (1) (tentang unggas)","contoh":[]}],"terkait":{"kataTurunan":["menceker"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"15161","nama":"ce.ker","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"kikir; pelit","contoh":[]}]}]}
+{
+  "word": "ceker",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15159",
+      "nama": "ce.ker",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cakar (1) (tentang unggas)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menceker"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "15161",
+      "nama": "ce.ker",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kikir; pelit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
