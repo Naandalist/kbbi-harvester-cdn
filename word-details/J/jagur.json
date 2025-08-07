@@ -1,1 +1,54 @@
-{"word":"jagur","authenticated":true,"entries":[{"id":"32863","nama":"ja.gur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"besar tubuhnya (tidak sebanding dengan umurnya); bagur","contoh":[{"nomor":2,"teks":"dia termasuk anak yang --, cepat sekali pertumbuhannya"}]}]},{"id":"191704","nama":"ja.gur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kepalan tangan","contoh":[]}]}]}
+{
+  "word": "jagur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32863",
+      "nama": "ja.gur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar tubuhnya (tidak sebanding dengan umurnya); bagur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia termasuk anak yang --, cepat sekali pertumbuhannya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "191704",
+      "nama": "ja.gur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kepalan tangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

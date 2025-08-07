@@ -1,1 +1,54 @@
-{"word":"jami","authenticated":true,"entries":[{"id":"111785","nama":"ja.mi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"huma yang dibiarkan tanpa digarap selama semusim","contoh":[]}]},{"id":"312514","nama":"ja.mi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"maha mengumpulkan (tentang sifat Allah Swt.)","contoh":[]}]}]}
+{
+  "word": "jami",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "111785",
+      "nama": "ja.mi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "huma yang dibiarkan tanpa digarap selama semusim",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "312514",
+      "nama": "ja.mi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "maha mengumpulkan (tentang sifat Allah Swt.)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

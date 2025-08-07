@@ -1,1 +1,74 @@
-{"word":"jenak","authenticated":true,"entries":[{"id":"34124","nama":"je.nak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sejenak","contoh":[]}],"terkait":{"kataTurunan":["sejenak","menjenaki"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"34126","nama":"je.nak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menjenaki","contoh":[]}],"terkait":{"kataTurunan":["menjenaki"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"34128","nama":"je.nak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"nyenyak; pulas (tentang tidur)","contoh":[]}]}]}
+{
+  "word": "jenak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34124",
+      "nama": "je.nak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sejenak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sejenak",
+          "menjenaki"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34126",
+      "nama": "je.nak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menjenaki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjenaki"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34128",
+      "nama": "je.nak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyenyak; pulas (tentang tidur)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

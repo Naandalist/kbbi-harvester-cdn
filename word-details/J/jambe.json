@@ -1,1 +1,54 @@
-{"word":"jambe","authenticated":true,"entries":[{"id":"33196","nama":"jam.be","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pinang sirih","contoh":[]}]},{"id":"126789","nama":"jam.be","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"ayam jantan yang tua dan tidak berbulu","contoh":[]}]}]}
+{
+  "word": "jambe",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33196",
+      "nama": "jam.be",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pinang sirih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "126789",
+      "nama": "jam.be",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ayam jantan yang tua dan tidak berbulu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

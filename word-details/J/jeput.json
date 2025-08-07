@@ -1,1 +1,67 @@
-{"word":"jeput","authenticated":true,"entries":[{"id":"34323","nama":"je.put","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"penuh","contoh":[{"nomor":2,"teks":"ia harus menjaga ibunya semalam --"}]}],"terkait":{"kataTurunan":["menjeput","sejeput"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"34324","nama":"je.put","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pungut","contoh":[]}],"terkait":{"kataTurunan":["menjeput","sejeput"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jeput",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34323",
+      "nama": "je.put",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia harus menjaga ibunya semalam --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjeput",
+          "sejeput"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34324",
+      "nama": "je.put",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pungut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjeput",
+          "sejeput"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

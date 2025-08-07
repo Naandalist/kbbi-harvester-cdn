@@ -1,1 +1,67 @@
-{"word":"jaman","authenticated":true,"entries":[{"id":"33174","nama":"ja.man","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ zaman","contoh":[]}]},{"id":"120006","nama":"ja.man","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"rakit dari kayu untuk tempat mandi di sungai","contoh":[]}]},{"id":"228326","nama":"ja.man","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bangku panjang yang terbuat dari kayu jati","contoh":[]}]}]}
+{
+  "word": "jaman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33174",
+      "nama": "ja.man",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ zaman",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "120006",
+      "nama": "ja.man",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rakit dari kayu untuk tempat mandi di sungai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "228326",
+      "nama": "ja.man",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bangku panjang yang terbuat dari kayu jati",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

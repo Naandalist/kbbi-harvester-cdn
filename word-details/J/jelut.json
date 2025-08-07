@@ -1,1 +1,56 @@
-{"word":"jelut","authenticated":true,"entries":[{"id":"34034","nama":"je.lut","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menjelut","contoh":[]}],"terkait":{"kataTurunan":["menjelut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"278867","nama":"je.lut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"menyentuh dengan telunjuk","contoh":[{"nomor":2,"teks":"ibu -- adonan untuk mengecek kekenyalannya"}]}]}]}
+{
+  "word": "jelut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34034",
+      "nama": "je.lut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menjelut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjelut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278867",
+      "nama": "je.lut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyentuh dengan telunjuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- adonan untuk mengecek kekenyalannya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

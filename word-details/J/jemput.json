@@ -1,1 +1,69 @@
-{"word":"jemput","authenticated":true,"entries":[{"id":"34100","nama":"jem.put","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sambut, undang","contoh":[]}],"terkait":{"kataTurunan":["berjemput","jemputan","menjemput","penjemput","penjemputan","sejemput"],"gabunganKata":["jemput antar","jemput paksa"],"peribahasa":[],"idiom":[]}},{"id":"34106","nama":"jem.put","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pungut; kutip","contoh":[]}],"terkait":{"kataTurunan":["menjemput","sejemput"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jemput",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34100",
+      "nama": "jem.put",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sambut, undang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjemput",
+          "jemputan",
+          "menjemput",
+          "penjemput",
+          "penjemputan",
+          "sejemput"
+        ],
+        "gabunganKata": [
+          "jemput antar",
+          "jemput paksa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34106",
+      "nama": "jem.put",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pungut; kutip",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjemput",
+          "sejemput"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

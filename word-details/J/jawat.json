@@ -1,1 +1,92 @@
-{"word":"jawat","authenticated":true,"entries":[{"id":"33751","nama":"ja.wat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pegang (tentang tangan); ulur","contoh":[]}],"terkait":{"kataTurunan":["berjawat","jawatan","kesejawatan","menjawat","penjawat","penjawatan","sejawat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"120131","nama":"ja.wat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"mengambil atau memungut benda yang hanyut atau mengambang di atas air","contoh":[{"nomor":2,"teks":"tolong -- dahan pohon yang hanyut itu"}]}]},{"id":"228365","nama":"ja.wat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"usuk yang terbuat dari kayu jati","contoh":[]}]}]}
+{
+  "word": "jawat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33751",
+      "nama": "ja.wat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pegang (tentang tangan); ulur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjawat",
+          "jawatan",
+          "kesejawatan",
+          "menjawat",
+          "penjawat",
+          "penjawatan",
+          "sejawat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120131",
+      "nama": "ja.wat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengambil atau memungut benda yang hanyut atau mengambang di atas air",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tolong -- dahan pohon yang hanyut itu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "228365",
+      "nama": "ja.wat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "usuk yang terbuat dari kayu jati",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

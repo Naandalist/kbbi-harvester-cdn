@@ -1,1 +1,123 @@
-{"word":"jurnal","authenticated":true,"entries":[{"id":"35261","nama":"jur.nal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(buku) catatan harian","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"surat kabar harian","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dag","nama":"Perdagangan","tipe":"bidang_subjek"}],"definisi":"buku yang dipakai sebagai buku perantara antara buku harian dan buku besar","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dag","nama":"Perdagangan","tipe":"bidang_subjek"}],"definisi":"buku yang dipakai untuk mencatat transaksi berdasarkan urutan waktu","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"majalah yang khusus memuat artikel dalam bidang ilmu tertentu","contoh":[]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"log atau catatan transaksi berbasis komputer yang terjadi di komputer atau di dalam jaringan","contoh":[]}],"terkait":{"kataTurunan":["penjurnalan"],"gabunganKata":["jurnal akuntansi","jurnal balik","jurnal bereputasi","jurnal berpasangan","jurnal bulanan","jurnal cetak","jurnal elektronik","jurnal ilmiah","jurnal internasional","jurnal kas","jurnal olahraga","jurnal penyesuaian","jurnal predator","jurnal tunggal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jurnal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35261",
+      "nama": "jur.nal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(buku) catatan harian",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat kabar harian",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dag",
+              "nama": "Perdagangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "buku yang dipakai sebagai buku perantara antara buku harian dan buku besar",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dag",
+              "nama": "Perdagangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "buku yang dipakai untuk mencatat transaksi berdasarkan urutan waktu",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "majalah yang khusus memuat artikel dalam bidang ilmu tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "log atau catatan transaksi berbasis komputer yang terjadi di komputer atau di dalam jaringan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "penjurnalan"
+        ],
+        "gabunganKata": [
+          "jurnal akuntansi",
+          "jurnal balik",
+          "jurnal bereputasi",
+          "jurnal berpasangan",
+          "jurnal bulanan",
+          "jurnal cetak",
+          "jurnal elektronik",
+          "jurnal ilmiah",
+          "jurnal internasional",
+          "jurnal kas",
+          "jurnal olahraga",
+          "jurnal penyesuaian",
+          "jurnal predator",
+          "jurnal tunggal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

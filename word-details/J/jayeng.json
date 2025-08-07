@@ -1,1 +1,86 @@
-{"word":"jayeng","authenticated":true,"entries":[{"id":"33784","nama":"ja.yeng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"menang atas; menang di","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["jayeng seteru"],"peribahasa":[],"idiom":[]}},{"id":"236219","nama":"ja.yeng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bulu ketiak","contoh":[]}]},{"id":"228245","nama":"ja.yeng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"batang kayu jati yang tumbuh miring","contoh":[]}]}]}
+{
+  "word": "jayeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33784",
+      "nama": "ja.yeng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menang atas; menang di",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jayeng seteru"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "236219",
+      "nama": "ja.yeng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bulu ketiak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "228245",
+      "nama": "ja.yeng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "batang kayu jati yang tumbuh miring",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

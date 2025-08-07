@@ -1,1 +1,102 @@
-{"word":"jenjang","authenticated":true,"entries":[{"id":"34271","nama":"jen.jang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tingkat-tingkat yang beraturan dari bawah ke atas; tangga; tingkat; tahap","contoh":[{"nomor":2,"teks":"sekarang banyak sekali -- kepangkatan yang dulu tidak ada"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"palang bertingkat (dalam cabang senam) terbuat dari kayu yang dibulatkan, dipasang ke atas, berjejer dengan jarak antara 30–40 cm, untuk latihan bergantung (dalam latihan otot perut, punggung, dan sebagainya)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno jaṅjaṅ 'tinggi dan langsing']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berjenjang","berjenjang-jenjang","jenjangan","menjenjangkan","penjenjangan","perjenjangan"],"gabunganKata":["jenjang jabatan","jenjang karier","jenjang kepangkatan","jenjang menengah","jenjang pendidikan"],"peribahasa":[],"idiom":[]}},{"id":"34275","nama":"jen.jang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"panjang dan langsing (tentang leher)","contoh":[{"nomor":2,"teks":"rambut gadis itu bersanggul rapi sehingga lehernya yang -- tampak indah"}]}],"etimologi":{"text":"[Jawa Kuno jaṅjaṅ 'tinggi dan langsing']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "jenjang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34271",
+      "nama": "jen.jang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tingkat-tingkat yang beraturan dari bawah ke atas; tangga; tingkat; tahap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekarang banyak sekali -- kepangkatan yang dulu tidak ada"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "palang bertingkat (dalam cabang senam) terbuat dari kayu yang dibulatkan, dipasang ke atas, berjejer dengan jarak antara 30–40 cm, untuk latihan bergantung (dalam latihan otot perut, punggung, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jaṅjaṅ 'tinggi dan langsing']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berjenjang",
+          "berjenjang-jenjang",
+          "jenjangan",
+          "menjenjangkan",
+          "penjenjangan",
+          "perjenjangan"
+        ],
+        "gabunganKata": [
+          "jenjang jabatan",
+          "jenjang karier",
+          "jenjang kepangkatan",
+          "jenjang menengah",
+          "jenjang pendidikan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34275",
+      "nama": "jen.jang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panjang dan langsing (tentang leher)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambut gadis itu bersanggul rapi sehingga lehernya yang -- tampak indah"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jaṅjaṅ 'tinggi dan langsing']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

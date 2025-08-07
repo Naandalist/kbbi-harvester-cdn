@@ -1,1 +1,43 @@
-{"word":"jukir","authenticated":true,"entries":[{"id":"192053","nama":"ju.kir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"juru parkir","contoh":[{"nomor":2,"teks":"-- sedang mengarahkan pengendara mobil yang hendak parkir"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["jukir liar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jukir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "192053",
+      "nama": "ju.kir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "juru parkir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sedang mengarahkan pengendara mobil yang hendak parkir"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jukir liar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

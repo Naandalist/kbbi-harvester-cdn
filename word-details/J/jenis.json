@@ -1,1 +1,103 @@
-{"word":"jenis","authenticated":true,"entries":[{"id":"34260","nama":"je.nis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang mempunyai ciri (sifat, keturunan, dan sebagainya) yang khusus; macam","contoh":[{"nomor":2,"teks":"padi yang biasa ditanam di sini -- padi unggul"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mutu","contoh":[{"nomor":2,"teks":"harga barang-barang banyak ditentukan oleh macam dan --nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"satuan dasar klasifikasi biologi, terdiri atas gabungan populasi yang diperkirakan dapat saling mengawini dengan bebas dan dapat dikenal cirinya secara morfologi, misalnya jenis sekerabat digabungkan dalam satu marga, setiap jenis tumbuhan mewakili nama yang terdiri atas dua kata, yakni nama marga dan penunjuk jenisnya, seperti Artocarpus altissima, Artocarpus communis; spesies","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"klasifikasi kata yang kadang-kadang bersangkutan dengan kelamin, kadang-kadang tidak; gender","contoh":[]}],"etimologi":{"text":"[Arab جِنْسٌ jins n sg m 'jenis']","languages":["Arab"]},"terkait":{"kataTurunan":["berjenis","berjenis-jenis","berjeniskan","menjenis","penjenisan","sejenis"],"gabunganKata":["jenis kata","jenis kelamin"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jenis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34260",
+      "nama": "je.nis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang mempunyai ciri (sifat, keturunan, dan sebagainya) yang khusus; macam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "padi yang biasa ditanam di sini -- padi unggul"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mutu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harga barang-barang banyak ditentukan oleh macam dan --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "satuan dasar klasifikasi biologi, terdiri atas gabungan populasi yang diperkirakan dapat saling mengawini dengan bebas dan dapat dikenal cirinya secara morfologi, misalnya jenis sekerabat digabungkan dalam satu marga, setiap jenis tumbuhan mewakili nama yang terdiri atas dua kata, yakni nama marga dan penunjuk jenisnya, seperti Artocarpus altissima, Artocarpus communis; spesies",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "klasifikasi kata yang kadang-kadang bersangkutan dengan kelamin, kadang-kadang tidak; gender",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab جِنْسٌ jins n sg m 'jenis']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berjenis",
+          "berjenis-jenis",
+          "berjeniskan",
+          "menjenis",
+          "penjenisan",
+          "sejenis"
+        ],
+        "gabunganKata": [
+          "jenis kata",
+          "jenis kelamin"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

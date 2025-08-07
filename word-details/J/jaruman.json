@@ -1,1 +1,62 @@
-{"word":"jaruman","authenticated":true,"entries":[{"id":"33630","nama":"ja.rum.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jahitan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tipu muslihat halus","contoh":[]}],"rootWord":"jarum¹"},{"id":"109302","nama":"ja.ru.man","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"muncikari","contoh":[]}]}]}
+{
+  "word": "jaruman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33630",
+      "nama": "ja.rum.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jahitan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tipu muslihat halus",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jarum¹"
+    },
+    {
+      "id": "109302",
+      "nama": "ja.ru.man",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "muncikari",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

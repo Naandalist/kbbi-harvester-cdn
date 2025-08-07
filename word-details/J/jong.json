@@ -1,1 +1,83 @@
-{"word":"jong","authenticated":true,"entries":[{"id":"110092","nama":"jong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"rumbia yang dagingnya belum berisi penuh","contoh":[]}]},{"id":"202638","nama":"jong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBl","nama":"Melayu Belitung","tipe":"lainnya"}],"definisi":"tiruan perahu sebagai sarana upacara selamatan laut masyarakat Bangka Belitung","contoh":[{"nomor":2,"teks":"Suku Sawang sedang membuat -- untuk upacara Muang Jong"}]}]},{"id":"215439","nama":"jong","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"penutup kepala dari kain tenun, biasanya digunakan oleh perempuan di Desa Bayan","contoh":[]}]}]}
+{
+  "word": "jong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "110092",
+      "nama": "jong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rumbia yang dagingnya belum berisi penuh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "202638",
+      "nama": "jong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBl",
+              "nama": "Melayu Belitung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tiruan perahu sebagai sarana upacara selamatan laut masyarakat Bangka Belitung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Suku Sawang sedang membuat -- untuk upacara Muang Jong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "215439",
+      "nama": "jong",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penutup kepala dari kain tenun, biasanya digunakan oleh perempuan di Desa Bayan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

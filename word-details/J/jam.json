@@ -1,1 +1,180 @@
-{"word":"jam","authenticated":true,"entries":[{"id":"33126","nama":"jam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk mengukur waktu (seperti arloji, lonceng dinding)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu yang lamanya 1/24 hari (dari sehari semalam) sama dengan 60 menit atau 3.600 detik","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pukul2","contoh":[{"nomor":2,"teks":"ia bangun -- lima pagi"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"waktu; saat","contoh":[{"nomor":2,"teks":"-- berangkat kereta api senja ke Yogyakarta ialah pukul enam sore"}]}],"etimologi":{"text":"[Arab زَامٌ zām n sg m 'seperempat']","languages":["Arab"]},"terkait":{"kataTurunan":["berjam-jam","sejam"],"gabunganKata":["jam air","jam atom","jam ayun","jam bencet","jam berkunjung","jam besuk","jam bicara","jam biologis","jam buka","jam bursa","jam cahaya","jam D","jam digital","jam dinding","jam gembira","jam istirahat","jam karet","jam karier","jam kembar","jam kerja","jam koma","jam komandan","jam kosong","jam kritis","jam lembur","jam makan","jam malam","jam matahari","jam menunggu","jam nol","jam operasional","jam pasir","jam pelajaran","jam perbaikan","jam pertandingan","jam pocong","jam praktik","jam pulang","jam puncak","jam randek","jam saku","jam sibuk","jam sinoptik","jam sukat","jam tangan","jam tangan pintar","jam tayang","jam tembok","jam terakhir","jam terbang","jam tidur","jam tubuh","jam tutup"],"peribahasa":[],"idiom":[]}},{"id":"95997","nama":"JAM","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"jaringan area metropolitan","contoh":[]}],"etimologi":{"text":"[Arab زَامٌ zām n sg m 'seperempat']","languages":["Arab"]}}]}
+{
+  "word": "jam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33126",
+      "nama": "jam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk mengukur waktu (seperti arloji, lonceng dinding)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu yang lamanya 1/24 hari (dari sehari semalam) sama dengan 60 menit atau 3.600 detik",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukul2",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bangun -- lima pagi"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu; saat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- berangkat kereta api senja ke Yogyakarta ialah pukul enam sore"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab زَامٌ zām n sg m 'seperempat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berjam-jam",
+          "sejam"
+        ],
+        "gabunganKata": [
+          "jam air",
+          "jam atom",
+          "jam ayun",
+          "jam bencet",
+          "jam berkunjung",
+          "jam besuk",
+          "jam bicara",
+          "jam biologis",
+          "jam buka",
+          "jam bursa",
+          "jam cahaya",
+          "jam D",
+          "jam digital",
+          "jam dinding",
+          "jam gembira",
+          "jam istirahat",
+          "jam karet",
+          "jam karier",
+          "jam kembar",
+          "jam kerja",
+          "jam koma",
+          "jam komandan",
+          "jam kosong",
+          "jam kritis",
+          "jam lembur",
+          "jam makan",
+          "jam malam",
+          "jam matahari",
+          "jam menunggu",
+          "jam nol",
+          "jam operasional",
+          "jam pasir",
+          "jam pelajaran",
+          "jam perbaikan",
+          "jam pertandingan",
+          "jam pocong",
+          "jam praktik",
+          "jam pulang",
+          "jam puncak",
+          "jam randek",
+          "jam saku",
+          "jam sibuk",
+          "jam sinoptik",
+          "jam sukat",
+          "jam tangan",
+          "jam tangan pintar",
+          "jam tayang",
+          "jam tembok",
+          "jam terakhir",
+          "jam terbang",
+          "jam tidur",
+          "jam tubuh",
+          "jam tutup"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "95997",
+      "nama": "JAM",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jaringan area metropolitan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab زَامٌ zām n sg m 'seperempat']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

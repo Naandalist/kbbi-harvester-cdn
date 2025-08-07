@@ -1,1 +1,52 @@
-{"word":"jersei","authenticated":true,"entries":[{"id":"135282","nama":"jer.sei","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"kain rajut kombinasi antara bahan sintetis dan bahan katun, berdaya regang, pertama kali diproduksi di pulau Jersey Inggris","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"seragam resmi tim olahraga","contoh":[{"nomor":2,"teks":"-- sepak bola"}]}]}]}
+{
+  "word": "jersei",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "135282",
+      "nama": "jer.sei",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kain rajut kombinasi antara bahan sintetis dan bahan katun, berdaya regang, pertama kali diproduksi di pulau Jersey Inggris",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "seragam resmi tim olahraga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sepak bola"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

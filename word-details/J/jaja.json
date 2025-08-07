@@ -1,1 +1,92 @@
-{"word":"jaja","authenticated":true,"entries":[{"id":"32908","nama":"ja.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jual (dengan berkeliling)","contoh":[]}],"terkait":{"kataTurunan":["berjaja","jaja-jajaan","jajaan","menjaja","menjajakan","penjaja","penjajaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"228183","nama":"ja.ja","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pohon jati yang berkembang biak","contoh":[]}]},{"id":"283902","nama":"ja.ja","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bm","nama":"Bima","tipe":"lainnya"}],"definisi":"menumbuk biji kopi untuk melepas kulitnya","contoh":[{"nomor":2,"teks":"bapak sedang -- di belakang kebun"}]}]}]}
+{
+  "word": "jaja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32908",
+      "nama": "ja.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jual (dengan berkeliling)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjaja",
+          "jaja-jajaan",
+          "jajaan",
+          "menjaja",
+          "menjajakan",
+          "penjaja",
+          "penjajaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228183",
+      "nama": "ja.ja",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pohon jati yang berkembang biak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "283902",
+      "nama": "ja.ja",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bm",
+              "nama": "Bima",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menumbuk biji kopi untuk melepas kulitnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak sedang -- di belakang kebun"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

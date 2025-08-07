@@ -1,1 +1,92 @@
-{"word":"jalang","authenticated":true,"entries":[{"id":"33067","nama":"ja.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak dipelihara orang (tentang binatang); liar","contoh":[{"nomor":2,"teks":"di daerah itu masih terdapat kerbau --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"nakal (tentang perbuatan yang melanggar susila): pelacur","contoh":[{"nomor":2,"teks":"perempuan --"}]}],"terkait":{"kataTurunan":["kejalangan","menjalang"],"gabunganKata":[],"peribahasa":["padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"],"idiom":[]}},{"id":"33070","nama":"ja.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"pergi ke","contoh":[]}],"terkait":{"kataTurunan":["menjalang"],"gabunganKata":[],"peribahasa":["padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"],"idiom":[]}}]}
+{
+  "word": "jalang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33067",
+      "nama": "ja.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dipelihara orang (tentang binatang); liar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di daerah itu masih terdapat kerbau --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nakal (tentang perbuatan yang melanggar susila): pelacur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perempuan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kejalangan",
+          "menjalang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33070",
+      "nama": "ja.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pergi ke",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjalang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

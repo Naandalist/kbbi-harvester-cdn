@@ -1,1 +1,85 @@
-{"word":"jebak","authenticated":true,"entries":[{"id":"33797","nama":"je.bak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sangkar untuk memikat (menangkap) binatang; perangkap","contoh":[{"nomor":2,"teks":"merak itu kena --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat (rayuan dan sebagainya) yang digunakan untuk memikat atau melemahkan musuh dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["jebakan","keterjebakan","menjebak","menjebakkan","penjebak","penjebakan","terjebak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"204478","nama":"je.bak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menikah dalam usia yang sudah renta","contoh":[{"nomor":2,"teks":"meski --, jika Tuhan berkehendak dapat juga memiliki keturunan"}]}]}]}
+{
+  "word": "jebak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33797",
+      "nama": "je.bak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangkar untuk memikat (menangkap) binatang; perangkap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "merak itu kena --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat (rayuan dan sebagainya) yang digunakan untuk memikat atau melemahkan musuh dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "jebakan",
+          "keterjebakan",
+          "menjebak",
+          "menjebakkan",
+          "penjebak",
+          "penjebakan",
+          "terjebak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "204478",
+      "nama": "je.bak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menikah dalam usia yang sudah renta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meski --, jika Tuhan berkehendak dapat juga memiliki keturunan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

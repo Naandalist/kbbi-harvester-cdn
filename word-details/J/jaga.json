@@ -1,1 +1,132 @@
-{"word":"jaga","authenticated":true,"entries":[{"id":"32799","nama":"ja.ga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bangun; tidak tidur: terbangun","contoh":[{"nomor":2,"teks":"-- atau tidurkah orang itu?"},{"nomor":4,"teks":"-- dari tidur"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkawal atau bertugas menjaga keselamatan dan keamanan; piket","contoh":[]}],"etimologi":{"text":"[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berjaga","berjaga-jaga","berpenjaga","jagaan","kejaga-jagaan","keterjagaan","menjaga","menjagakan","penjaga","penjagaan","terjaga"],"gabunganKata":["jaga ketat"],"peribahasa":[],"idiom":[]}},{"id":"231003","nama":"ja.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mp","nama":"Massenrengpulu","tipe":"lainnya"}],"definisi":"tari tradisional khas Kaluppini, dibawakan oleh laki-laki, memakai sarung bertelanjang dada, berpenutup kepala, sambil memainkan selembar kain, diiringi lantunan syair dan doa","contoh":[]}],"etimologi":{"text":"[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']","languages":["Jawa Kuno"]}},{"id":"243224","nama":"ja.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tb","nama":"Tobelo","tipe":"lainnya"}],"definisi":"tempat gulungan layar pada perahu tradisional, dibuat dari kayu yang bercabang","contoh":[]}],"etimologi":{"text":"[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "jaga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32799",
+      "nama": "ja.ga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangun; tidak tidur: terbangun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- atau tidurkah orang itu?"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- dari tidur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkawal atau bertugas menjaga keselamatan dan keamanan; piket",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berjaga",
+          "berjaga-jaga",
+          "berpenjaga",
+          "jagaan",
+          "kejaga-jagaan",
+          "keterjagaan",
+          "menjaga",
+          "menjagakan",
+          "penjaga",
+          "penjagaan",
+          "terjaga"
+        ],
+        "gabunganKata": [
+          "jaga ketat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "231003",
+      "nama": "ja.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mp",
+              "nama": "Massenrengpulu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tari tradisional khas Kaluppini, dibawakan oleh laki-laki, memakai sarung bertelanjang dada, berpenutup kepala, sambil memainkan selembar kain, diiringi lantunan syair dan doa",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "243224",
+      "nama": "ja.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tb",
+              "nama": "Tobelo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat gulungan layar pada perahu tradisional, dibuat dari kayu yang bercabang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jaga 'waspada, berhati-hati; apa atau siapa yang datang, yang diharapkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

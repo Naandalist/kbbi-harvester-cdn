@@ -1,1 +1,93 @@
-{"word":"jukut","authenticated":true,"entries":[{"id":"35055","nama":"ju.kut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"rumput","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"ulam","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["jukut cangkore","jukut kamanilan","jukut krincing","jukut meurit","jukut piyik","jukut siraru","jukut harsyan"],"peribahasa":[],"idiom":[]}},{"id":"35057","nama":"ju.kut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kh","nama":"Kapuas Hulu","tipe":"lainnya"}],"definisi":"ikan yang diolah untuk diawetkan; pindang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["jukut harsyan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jukut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35055",
+      "nama": "ju.kut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rumput",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ulam",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jukut cangkore",
+          "jukut kamanilan",
+          "jukut krincing",
+          "jukut meurit",
+          "jukut piyik",
+          "jukut siraru",
+          "jukut harsyan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "35057",
+      "nama": "ju.kut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kh",
+              "nama": "Kapuas Hulu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ikan yang diolah untuk diawetkan; pindang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jukut harsyan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

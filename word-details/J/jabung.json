@@ -1,1 +1,101 @@
-{"word":"jabung","authenticated":true,"entries":[{"id":"32768","nama":"ja.bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gala-gala dibuat dari gambir dan damar (dipakai sebagai alat perekat)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["jabung kemalo","jabung semut"],"peribahasa":[],"idiom":[]}},{"id":"216087","nama":"ja.bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"seikat padi yang dihias dengan bunga sebagai simbol Dewi Sri saat mengadakan upacara di lumbung","contoh":[]}]},{"id":"227776","nama":"ja.bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lubang pada kayu jati yang sudah tua, biasanya digunakan burung atau serangga bersarang","contoh":[]}]},{"id":"281499","nama":"Ja.bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"candi yang terletak di Jabung, Paiton, Probolinggo, dibangun pada tahun 1354 M, memiliki relief Sri Tanjung","contoh":[]}]}]}
+{
+  "word": "jabung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32768",
+      "nama": "ja.bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gala-gala dibuat dari gambir dan damar (dipakai sebagai alat perekat)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jabung kemalo",
+          "jabung semut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216087",
+      "nama": "ja.bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "seikat padi yang dihias dengan bunga sebagai simbol Dewi Sri saat mengadakan upacara di lumbung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "227776",
+      "nama": "ja.bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lubang pada kayu jati yang sudah tua, biasanya digunakan burung atau serangga bersarang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "281499",
+      "nama": "Ja.bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "candi yang terletak di Jabung, Paiton, Probolinggo, dibangun pada tahun 1354 M, memiliki relief Sri Tanjung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,126 @@
-{"word":"jrambah","authenticated":true,"entries":[{"id":"1","nama":"jram.bah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"dahan atau ranting yang sudah dipotong atau diacakkan","contoh":[{"nomor":1,"teks":"kayu -- itu digunakan untuk membuat pagar"}]}],"rootWord":"jrambahjrambah"},{"id":"2","nama":"jram.bah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menggarap sawah atau ladang yang bukan milik sendiri","contoh":[{"nomor":1,"teks":"dia -- sawah orang lain selama beberapa tahun"}]}],"rootWord":"jrambahjrambah"},{"id":"3","nama":"jrambah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sisa tanaman yang sudah dipanen","contoh":[{"nomor":1,"teks":"-- padi di sawah itu masih banyak"}]}],"rootWord":"jrambahjrambah"},{"id":"4","nama":"jrambah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mengerjakan sawah orang lain dengan mendapat bagian hasil","contoh":[{"nomor":1,"teks":"dia -- sawah Pak Lurah selama beberapa musim"}]}],"rootWord":"jrambahjrambah"}]}
+{
+  "word": "jrambah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "jram.bah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dahan atau ranting yang sudah dipotong atau diacakkan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "kayu -- itu digunakan untuk membuat pagar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jrambahjrambah"
+    },
+    {
+      "id": "2",
+      "nama": "jram.bah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menggarap sawah atau ladang yang bukan milik sendiri",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia -- sawah orang lain selama beberapa tahun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jrambahjrambah"
+    },
+    {
+      "id": "3",
+      "nama": "jrambah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sisa tanaman yang sudah dipanen",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "-- padi di sawah itu masih banyak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jrambahjrambah"
+    },
+    {
+      "id": "4",
+      "nama": "jrambah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengerjakan sawah orang lain dengan mendapat bagian hasil",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia -- sawah Pak Lurah selama beberapa musim"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jrambahjrambah"
+    }
+  ]
+}

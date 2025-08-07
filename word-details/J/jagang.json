@@ -1,1 +1,49 @@
-{"word":"jagang","authenticated":true,"entries":[{"id":"32829","nama":"ja.gang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiang penopang","contoh":[]}]},{"id":"32830","nama":"ja.gang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"parit yang dalam (di sekeliling benteng dan sebagainya)","contoh":[{"nomor":2,"teks":"rumah Adipati Jipang diperkuat dengan -- di sekelilingnya"}]}]}]}
+{
+  "word": "jagang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32829",
+      "nama": "ja.gang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiang penopang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "32830",
+      "nama": "ja.gang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "parit yang dalam (di sekeliling benteng dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah Adipati Jipang diperkuat dengan -- di sekelilingnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

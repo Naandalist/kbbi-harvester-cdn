@@ -1,1 +1,137 @@
-{"word":"jangkang","authenticated":true,"entries":[{"id":"33363","nama":"jang.kang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lebar antara dua belah kaki","contoh":[]}],"terkait":{"kataTurunan":["menjangkang","terjangkang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"33366","nama":"jang.kang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepuh2","contoh":[]}]},{"id":"33367","nama":"jang.kang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kas","nama":"Kasar","tipe":"lainnya"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mati; meninggal","contoh":[]}]},{"id":"33368","nama":"jang.kang","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"kepiting pantai, bertubuh kecil, berkulit lunak, sering dimasak sebagai lauk","contoh":[]}]},{"id":"99304","nama":"Jang.kang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku Dayak Jongkang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Dayak Jongkang","contoh":[]}]}]}
+{
+  "word": "jangkang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33363",
+      "nama": "jang.kang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lebar antara dua belah kaki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjangkang",
+          "terjangkang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33366",
+      "nama": "jang.kang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepuh2",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "33367",
+      "nama": "jang.kang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kas",
+              "nama": "Kasar",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mati; meninggal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "33368",
+      "nama": "jang.kang",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kepiting pantai, bertubuh kecil, berkulit lunak, sering dimasak sebagai lauk",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "99304",
+      "nama": "Jang.kang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku Dayak Jongkang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Dayak Jongkang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

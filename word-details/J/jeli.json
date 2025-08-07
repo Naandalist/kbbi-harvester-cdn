@@ -1,1 +1,85 @@
-{"word":"jeli","authenticated":true,"entries":[{"id":"33986","nama":"je.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penganan berstruktur kenyal dan elastis, dibuat dari sari buah, gula, dan biasanya gelatin atau pektin, dapat dimakan langsung, dioleskan pada roti, atau diolah menjadi makanan lain, seperti puding dan kue","contoh":[]}],"terkait":{"kataTurunan":["kejelian"],"gabunganKata":["jeli aspik","jeli kelapa"],"peribahasa":[],"idiom":[]}},{"id":"33984","nama":"je.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"elok dan bercahaya (tentang mata)","contoh":[{"nomor":2,"teks":"gadis itu bermata --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"awas; tajam (tentang penglihatan)","contoh":[{"nomor":2,"teks":"pihak yang berwajib tentunya perlu lebih --"}]}],"terkait":{"kataTurunan":["kejelian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jeli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33986",
+      "nama": "je.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penganan berstruktur kenyal dan elastis, dibuat dari sari buah, gula, dan biasanya gelatin atau pektin, dapat dimakan langsung, dioleskan pada roti, atau diolah menjadi makanan lain, seperti puding dan kue",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kejelian"
+        ],
+        "gabunganKata": [
+          "jeli aspik",
+          "jeli kelapa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33984",
+      "nama": "je.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "elok dan bercahaya (tentang mata)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu bermata --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "awas; tajam (tentang penglihatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pihak yang berwajib tentunya perlu lebih --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kejelian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

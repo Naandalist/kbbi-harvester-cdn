@@ -1,1 +1,86 @@
-{"word":"jiran","authenticated":true,"entries":[{"id":"34722","nama":"ji.ran","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang tinggal sebelah-menyebelah atau dekat (sekitar) rumah; tetangga","contoh":[{"nomor":2,"teks":"-- adalah saudara terdekat kita"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"negara tetangga, misalnya Malaysia atau Brunei Darussalam","contoh":[]}],"etimologi":{"text":"[Arab جِيْرَانٌ jīrān n pl f 'tetangga']","languages":["Arab"]},"terkait":{"kataTurunan":["berjiran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"34724","nama":"ji.ran","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"segala yang terjadi di luar pembawaan keturunan atau genotipe organisme","contoh":[]}],"etimologi":{"text":"[Arab جِيْرَانٌ jīrān n pl f 'tetangga']","languages":["Arab"]}}]}
+{
+  "word": "jiran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34722",
+      "nama": "ji.ran",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tinggal sebelah-menyebelah atau dekat (sekitar) rumah; tetangga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- adalah saudara terdekat kita"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "negara tetangga, misalnya Malaysia atau Brunei Darussalam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab جِيْرَانٌ jīrān n pl f 'tetangga']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berjiran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34724",
+      "nama": "ji.ran",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "segala yang terjadi di luar pembawaan keturunan atau genotipe organisme",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab جِيْرَانٌ jīrān n pl f 'tetangga']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

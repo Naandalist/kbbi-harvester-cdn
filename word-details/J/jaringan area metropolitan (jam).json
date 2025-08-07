@@ -1,1 +1,100 @@
-{"word":"jaringan area metropolitan","authenticated":true,"entries":[{"id":"1","nama":"ja.ring.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susunan yang terdiri atas beberapa bagian yang saling bergantung dan berfungsi secara keseluruhan; jejaring","contoh":[]}],"rootWord":"jaringjaringan"},{"id":"2","nama":"ar.e.a","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang atau wilayah tertentu","contoh":[]}],"rootWord":"jaringjaringan"},{"id":"3","nama":"me.tro.po.li.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kota besar yang merupakan pusat kegiatan (perdagangan, pemerintahan, dan sebagainya)","contoh":[{"nomor":"1","teks":"Jakarta sudah menjadi -- bagi kawasan Asia Tenggara"}]}],"rootWord":"jaringjaringan"},{"id":"4","nama":"jaringan area metropolitan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"Jaringan Area Metropolitan (JAM) adalah jaringan komputer yang menghubungkan beberapa jaringan lokal dalam area metropolitan","contoh":[{"teks":"Jaringan Area Metropolitan (JAM) memungkinkan pengguna untuk berbagi sumber daya dan berkomunikasi dalam area yang luas"}]}],"rootWord":"jaringjaringan"}]}
+{
+  "word": "jaringan area metropolitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ja.ring.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susunan yang terdiri atas beberapa bagian yang saling bergantung dan berfungsi secara keseluruhan; jejaring",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jaringjaringan"
+    },
+    {
+      "id": "2",
+      "nama": "ar.e.a",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang atau wilayah tertentu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jaringjaringan"
+    },
+    {
+      "id": "3",
+      "nama": "me.tro.po.li.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kota besar yang merupakan pusat kegiatan (perdagangan, pemerintahan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": "1",
+              "teks": "Jakarta sudah menjadi -- bagi kawasan Asia Tenggara"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jaringjaringan"
+    },
+    {
+      "id": "4",
+      "nama": "jaringan area metropolitan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Jaringan Area Metropolitan (JAM) adalah jaringan komputer yang menghubungkan beberapa jaringan lokal dalam area metropolitan",
+          "contoh": [
+            {
+              "teks": "Jaringan Area Metropolitan (JAM) memungkinkan pengguna untuk berbagi sumber daya dan berkomunikasi dalam area yang luas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jaringjaringan"
+    }
+  ]
+}

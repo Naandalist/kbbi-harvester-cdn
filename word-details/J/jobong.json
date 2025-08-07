@@ -1,1 +1,88 @@
-{"word":"jobong","authenticated":true,"entries":[{"id":"109612","nama":"jo.bong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"wanita tunasusila; pelacur; sundal","contoh":[]}]},{"id":"194086","nama":"jo.bong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"keranjang besar yang terbuat dari bilah bambu, biasanya digunakan sebagai wadah rumput untuk pakan ternak","contoh":[{"nomor":2,"teks":"apabila -- belum penuh, pantang pulang bagi penggembala"}]}]},{"id":"229056","nama":"jo.bong","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lorong kecil di dalam kamar, biasanya digunakan untuk menyepi","contoh":[]}]}]}
+{
+  "word": "jobong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109612",
+      "nama": "jo.bong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wanita tunasusila; pelacur; sundal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "194086",
+      "nama": "jo.bong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keranjang besar yang terbuat dari bilah bambu, biasanya digunakan sebagai wadah rumput untuk pakan ternak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apabila -- belum penuh, pantang pulang bagi penggembala"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "229056",
+      "nama": "jo.bong",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lorong kecil di dalam kamar, biasanya digunakan untuk menyepi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

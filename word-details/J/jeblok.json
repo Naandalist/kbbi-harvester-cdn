@@ -1,1 +1,123 @@
-{"word":"jeblok","authenticated":true,"entries":[{"id":"33809","nama":"jeb.lok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"becek; berlumpur","contoh":[]}],"terkait":{"kataTurunan":["terjeblok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"33811","nama":"jeb.lok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jatuh","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"turun (tentang harga, nilai); anjlok","contoh":[{"nomor":2,"teks":"harga gabah --, menyebabkan kehidupan petani bertambah sulit"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"rugi; bangkrut","contoh":[{"nomor":2,"teks":"bank itu -- karena bermain valuta asing"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"turun dari posisi semula","contoh":[{"nomor":2,"teks":"tiba-tiba daerah itu -- menjadi kantong kemiskinan"}]}]}]}
+{
+  "word": "jeblok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33809",
+      "nama": "jeb.lok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "becek; berlumpur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terjeblok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33811",
+      "nama": "jeb.lok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jatuh",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun (tentang harga, nilai); anjlok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harga gabah --, menyebabkan kehidupan petani bertambah sulit"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rugi; bangkrut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bank itu -- karena bermain valuta asing"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun dari posisi semula",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba-tiba daerah itu -- menjadi kantong kemiskinan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

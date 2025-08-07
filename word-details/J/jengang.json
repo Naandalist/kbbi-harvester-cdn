@@ -1,1 +1,88 @@
-{"word":"jengang","authenticated":true,"entries":[{"id":"139429","nama":"je.ngang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"kail yang rusak akibat tarikan ikan","contoh":[{"nomor":2,"teks":"-- yang dipasang ayah rusak"}]}]},{"id":"34180","nama":"je.ngang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mengiang-ngiang (telinga)","contoh":[]}]},{"id":"157182","nama":"je.ngang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MBl","nama":"Melayu Belitung","tipe":"lainnya"}],"definisi":"meluangkan waktu untuk mampir atau melihat tanpa direncanakan","contoh":[{"nomor":2,"teks":"dia mendadak -- ke rumah kami"}]}]}]}
+{
+  "word": "jengang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "139429",
+      "nama": "je.ngang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kail yang rusak akibat tarikan ikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang dipasang ayah rusak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34180",
+      "nama": "je.ngang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengiang-ngiang (telinga)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "157182",
+      "nama": "je.ngang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBl",
+              "nama": "Melayu Belitung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meluangkan waktu untuk mampir atau melihat tanpa direncanakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia mendadak -- ke rumah kami"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

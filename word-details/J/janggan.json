@@ -1,1 +1,59 @@
-{"word":"janggan","authenticated":true,"entries":[{"id":"198386","nama":"jang.gan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"},{"kode":"Skt","nama":"Sanskerta","tipe":"lainnya"}],"definisi":"tabib desa","contoh":[]}]},{"id":"216091","nama":"jang.gan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"layangan tradisional Bali yang menyerupai seekor naga","contoh":[]}]}]}
+{
+  "word": "janggan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198386",
+      "nama": "jang.gan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Skt",
+              "nama": "Sanskerta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tabib desa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "216091",
+      "nama": "jang.gan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "layangan tradisional Bali yang menyerupai seekor naga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

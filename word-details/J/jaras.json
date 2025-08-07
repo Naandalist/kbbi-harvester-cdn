@@ -1,1 +1,98 @@
-{"word":"jaras","authenticated":true,"entries":[{"id":"203264","nama":"ja.ras","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tj","nama":"Tunjung","tipe":"lainnya"}],"definisi":"hutan yang gersang","contoh":[]}],"terkait":{"kataTurunan":["menjaras","sejaras"],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang"],"idiom":[]}},{"id":"33535","nama":"ja.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sejaras","contoh":[]}],"terkait":{"kataTurunan":["menjaras","sejaras"],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang"],"idiom":[]}},{"id":"33538","nama":"ja.ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keranjang yang terbuat dari tali bambu yang jarang anyamannya, digunakan untuk menjinjing","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang"],"idiom":[]}}]}
+{
+  "word": "jaras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "203264",
+      "nama": "ja.ras",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tj",
+              "nama": "Tunjung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hutan yang gersang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjaras",
+          "sejaras"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33535",
+      "nama": "ja.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sejaras",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjaras",
+          "sejaras"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33538",
+      "nama": "ja.ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keranjang yang terbuat dari tali bambu yang jarang anyamannya, digunakan untuk menjinjing",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

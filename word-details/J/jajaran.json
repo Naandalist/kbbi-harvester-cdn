@@ -1,1 +1,97 @@
-{"word":"jajaran","authenticated":true,"entries":[{"id":"32935","nama":"ja.jar.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baris; deret(an)","contoh":[{"nomor":2,"teks":"ia duduk di ~ paling muka"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susunan unsur dalam bentuk baris dan kolom digunakan dalam determinan dan matriks","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"barisan; susunan kelompok dengan tugas yang sama","contoh":[{"nomor":2,"teks":"~ TNI"},{"nomor":4,"teks":"~ Kementerian Kesehatan"}]}],"rootWord":"jajar¹","terkait":{"kataTurunan":[],"gabunganKata":["jajaran genjang"],"peribahasa":[],"idiom":[]}},{"id":"32945","nama":"ja.jar.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jajar","contoh":[]}],"rootWord":"jajar²"}]}
+{
+  "word": "jajaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32935",
+      "nama": "ja.jar.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baris; deret(an)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia duduk di ~ paling muka"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susunan unsur dalam bentuk baris dan kolom digunakan dalam determinan dan matriks",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barisan; susunan kelompok dengan tugas yang sama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ TNI"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ Kementerian Kesehatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jajar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "jajaran genjang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "32945",
+      "nama": "ja.jar.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jajar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jajar²"
+    }
+  ]
+}

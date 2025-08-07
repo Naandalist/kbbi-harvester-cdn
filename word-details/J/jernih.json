@@ -1,1 +1,92 @@
-{"word":"jernih","authenticated":true,"entries":[{"id":"34466","nama":"jer.nih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlihat terang (tentang air); bening; bersih; tidak keruh","contoh":[{"nomor":2,"teks":"air itu --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berseri (tentang muka); tidak muram","contoh":[{"nomor":2,"teks":"mukanya -- pertanda hatinya bersih"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak kacau; runtut (tentang jalan pikiran dan sebagainya)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno jarnih 'jernih, murni']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["jernihan","kejernihan","menjernihkan","penjernih","penjernihan","terjernih"],"gabunganKata":[],"peribahasa":["air jernih, ikannya jinak","dari telaga yang jernih tak akan mengalir air yang keruh","puyu di air jernih"],"idiom":[]}}]}
+{
+  "word": "jernih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34466",
+      "nama": "jer.nih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlihat terang (tentang air); bening; bersih; tidak keruh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air itu --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berseri (tentang muka); tidak muram",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mukanya -- pertanda hatinya bersih"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak kacau; runtut (tentang jalan pikiran dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno jarnih 'jernih, murni']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "jernihan",
+          "kejernihan",
+          "menjernihkan",
+          "penjernih",
+          "penjernihan",
+          "terjernih"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air jernih, ikannya jinak",
+          "dari telaga yang jernih tak akan mengalir air yang keruh",
+          "puyu di air jernih"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

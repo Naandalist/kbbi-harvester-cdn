@@ -1,1 +1,55 @@
-{"word":"jonggolan","authenticated":true,"entries":[{"id":"34835","nama":"jong.gol.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanggungan; jaminan","contoh":[]}],"rootWord":"jonggol"},{"id":"135036","nama":"jong.go.lan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"prosesi mendaftarkan calon pengantin ke KUA","contoh":[{"nomor":2,"teks":"setelah sepakat dengan tanggal pernikahan, dua pihak keluarga melakukan tahap -- sembari menyiapkan rangkaian acara"}]}]}]}
+{
+  "word": "jonggolan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34835",
+      "nama": "jong.gol.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanggungan; jaminan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jonggol"
+    },
+    {
+      "id": "135036",
+      "nama": "jong.go.lan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "prosesi mendaftarkan calon pengantin ke KUA",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah sepakat dengan tanggal pernikahan, dua pihak keluarga melakukan tahap -- sembari menyiapkan rangkaian acara"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,77 @@
-{"word":"jentik","authenticated":true,"entries":[{"id":"34284","nama":"jen.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jepit; cubit","contoh":[]}],"terkait":{"kataTurunan":["jentikan","menjentik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"34287","nama":"jen.tik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kelingking","contoh":[]}]},{"id":"98196","nama":"jen.tik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon sekerabat dengan kapul, buahnya kecil (seujung kelingking), beralur dua dan mudah terbuka apabila mendapat tekanan〔Baccaurea pyriformis〕","contoh":[]}]}]}
+{
+  "word": "jentik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34284",
+      "nama": "jen.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jepit; cubit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "jentikan",
+          "menjentik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "34287",
+      "nama": "jen.tik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kelingking",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "98196",
+      "nama": "jen.tik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon sekerabat dengan kapul, buahnya kecil (seujung kelingking), beralur dua dan mudah terbuka apabila mendapat tekanan〔Baccaurea pyriformis〕",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

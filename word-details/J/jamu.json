@@ -1,1 +1,91 @@
-{"word":"jamu","authenticated":true,"entries":[{"id":"33267","nama":"ja.mu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"obat tradisional yang dibuat dari akar-akaran, daun-daunan, dan sebagainya yang digunakan dengan cara diminum","contoh":[]}],"terkait":{"kataTurunan":["jejamu","berjamu","jamuan","memperjamu","menjamu","menjamukan","penjamuan","perjamuan"],"gabunganKata":["jamu bersalin","jamu gendong","jamu gepyokan","jamu godok","jamu godokan","jamu Jawa","jamu pembasuh negeri","jamu rebusan","jamu uyup-uyup","jamu wejah","jamu sukut"],"peribahasa":["makan sudah terhidang, jamu belum jua datang"],"idiom":[]}},{"id":"33273","nama":"ja.mu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang datang berkunjung (bertandang, melawat, dan sebagainya); (te)tamu","contoh":[]}],"terkait":{"kataTurunan":["berjamu","jamuan","memperjamu","menjamu","menjamukan","penjamuan","perjamuan"],"gabunganKata":["jamu sukut"],"peribahasa":["makan sudah terhidang, jamu belum jua datang"],"idiom":[]}}]}
+{
+  "word": "jamu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33267",
+      "nama": "ja.mu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "obat tradisional yang dibuat dari akar-akaran, daun-daunan, dan sebagainya yang digunakan dengan cara diminum",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "jejamu",
+          "berjamu",
+          "jamuan",
+          "memperjamu",
+          "menjamu",
+          "menjamukan",
+          "penjamuan",
+          "perjamuan"
+        ],
+        "gabunganKata": [
+          "jamu bersalin",
+          "jamu gendong",
+          "jamu gepyokan",
+          "jamu godok",
+          "jamu godokan",
+          "jamu Jawa",
+          "jamu pembasuh negeri",
+          "jamu rebusan",
+          "jamu uyup-uyup",
+          "jamu wejah",
+          "jamu sukut"
+        ],
+        "peribahasa": [
+          "makan sudah terhidang, jamu belum jua datang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33273",
+      "nama": "ja.mu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang datang berkunjung (bertandang, melawat, dan sebagainya); (te)tamu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjamu",
+          "jamuan",
+          "memperjamu",
+          "menjamu",
+          "menjamukan",
+          "penjamuan",
+          "perjamuan"
+        ],
+        "gabunganKata": [
+          "jamu sukut"
+        ],
+        "peribahasa": [
+          "makan sudah terhidang, jamu belum jua datang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

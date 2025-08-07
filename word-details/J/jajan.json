@@ -1,1 +1,72 @@
-{"word":"jajan","authenticated":true,"entries":[{"id":"32928","nama":"ja.jan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kue; penganan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"membeli makanan (nasi, kue, dan sebagainya) di warung; berjajan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bermain perempuan; pergi ke tempat wanita lacur","contoh":[]}],"terkait":{"kataTurunan":["berjajan","jajanan","penjajan"],"gabunganKata":["jajan campur","jajan pasar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jajan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32928",
+      "nama": "ja.jan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kue; penganan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membeli makanan (nasi, kue, dan sebagainya) di warung; berjajan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bermain perempuan; pergi ke tempat wanita lacur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjajan",
+          "jajanan",
+          "penjajan"
+        ],
+        "gabunganKata": [
+          "jajan campur",
+          "jajan pasar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

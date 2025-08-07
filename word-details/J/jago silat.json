@@ -1,1 +1,106 @@
-{"word":"jago silat","authenticated":true,"entries":[{"id":"1","nama":"ja.go si.lat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"orang yang pandai silat","contoh":[{"nomor":1,"teks":"dia terkenal sebagai -- di kampungnya"}]}],"rootWord":"jagojago"},{"id":"2","nama":"ja.go si.lat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pahlawan atau orang yang gagah berani","contoh":[{"nomor":1,"teks":"dia menjadi -- di desanya"}]}],"rootWord":"jagojago"},{"id":"3","nama":"ja.go","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang terampil dan mahir","contoh":[]}],"rootWord":"jagojago"},{"id":"4","nama":"silat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seni bela diri tradisional Indonesia","contoh":[{"nomor":1,"teks":"silat dipertunjukkan pada acara festival"}]}],"rootWord":"jagojago"}]}
+{
+  "word": "jago silat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ja.go si.lat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang pandai silat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia terkenal sebagai -- di kampungnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jagojago"
+    },
+    {
+      "id": "2",
+      "nama": "ja.go si.lat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pahlawan atau orang yang gagah berani",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia menjadi -- di desanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jagojago"
+    },
+    {
+      "id": "3",
+      "nama": "ja.go",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang terampil dan mahir",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jagojago"
+    },
+    {
+      "id": "4",
+      "nama": "silat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seni bela diri tradisional Indonesia",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "silat dipertunjukkan pada acara festival"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jagojago"
+    }
+  ]
+}

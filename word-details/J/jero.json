@@ -1,1 +1,54 @@
-{"word":"jero","authenticated":true,"entries":[{"id":"246562","nama":"je.ro","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"ruangan khusus putri raja Pakpak","contoh":[]}]},{"id":"34471","nama":"je.ro","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tempat tinggal untuk kasta kesatria yang tidak memegang pemerintahan secara langsung","contoh":[]}]}]}
+{
+  "word": "jero",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "246562",
+      "nama": "je.ro",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ruangan khusus putri raja Pakpak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "34471",
+      "nama": "je.ro",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tempat tinggal untuk kasta kesatria yang tidak memegang pemerintahan secara langsung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

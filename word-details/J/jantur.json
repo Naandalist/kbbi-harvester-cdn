@@ -1,1 +1,58 @@
-{"word":"jantur","authenticated":true,"entries":[{"id":"33470","nama":"jan.tur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ilmu sulap; ilmu sihir","contoh":[]}],"terkait":{"kataTurunan":["menjantur","terjantur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"199503","nama":"jan.tur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gantung dengan posisi kaki diikat di atas, kepala di bawah","contoh":[]}]}]}
+{
+  "word": "jantur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33470",
+      "nama": "jan.tur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ilmu sulap; ilmu sihir",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjantur",
+          "terjantur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "199503",
+      "nama": "jan.tur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gantung dengan posisi kaki diikat di atas, kepala di bawah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

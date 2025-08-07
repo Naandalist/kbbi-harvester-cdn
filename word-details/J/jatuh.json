@@ -1,1 +1,251 @@
-{"word":"jatuh","authenticated":true,"entries":[{"id":"33683","nama":"ja.tuh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(terlepas dan) turun atau meluncur ke bawah dengan cepat karena gravitasi bumi (baik ketika masih dalam gerakan turun maupun sesudah sampai ke tanah dan sebagainya)","contoh":[{"nomor":2,"teks":"tabung kaca itu -- dan hancur"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turun banyak (harga, nilai, dan sebagainya); merosot","contoh":[{"nomor":2,"teks":"harga mobil di pasar bebas --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sampai ke ...; tiba di ...; kena pada ...; tembus ke ...; ditujukan ke","contoh":[{"nomor":2,"teks":"jalan kecil ini -- ke Kampung Ambon"},{"nomor":4,"teks":"sindiran itu --nya kepada saya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertepatan dengan; berbetulan dengan; tepat pada","contoh":[{"nomor":2,"teks":"proklamasi kemerdekaan Republik Indonesia -- pada hari Jumat, tanggal 17 Agustus 1945"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berhenti memegang kekuasaan (tentang pemerintah, kabinet, dan sebagainya)","contoh":[]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bangkrut (tentang toko, kongsi, dan sebagainya)","contoh":[]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kalah atau dirampas musuh (kota, benteng, dan sebagainya)","contoh":[]},{"nomor":"8","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak lulus (dalam ujian); gagal (dalam usaha); sangat menderita (rugi, sengsara, dan sebagainya)","contoh":[]},{"nomor":"9","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak tahan lagi (oleh godaan, penderitaan, cobaan, dan sebagainya)","contoh":[]},{"nomor":"10","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi (sakit, miskin, cinta, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- miskin"}]}],"terkait":{"kataTurunan":["berjatuh","berjatuhan","jatuhan","kejatuhan","keterjatuhan","menjatuhi","menjatuhkan","penjatuh","penjatuhan","terjatuh"],"gabunganKata":["jatuh bangkrut","jatuh bangun","jatuh bebas","jatuh berkait","jatuh bertindih","jatuh cinta","jatuh coloknya","jatuh hati (kepada, akan)","jatuh iman","jatuh ke atas","jatuh ke bawah","jatuh merek","jatuh miskin","jatuh nama","jatuh pingsan","jatuh sakit","jatuh semangat","jatuh tapai","jatuh tekanan","jatuh tempo"],"peribahasa":["acap melempar, akan jatuh jua","air cucuran atap jatuh ke pelimbahan juga","air mata jatuh ke perut","bagai batu jatuh ke lubuk","bagai bunyi cempedak jatuh","bagai garam jatuh ke air","barang tergenggam jatuh terlepas","biar jatuh terletak, jangan jatuh terempas","buah jatuh tak jauh dari pohonnya","bulu mata bagai seraut jatuh","busuk kerbau, jatuh berdebuk","daun dapat dilayangkan, getah jatuh ke perdu juga","daunnya jatuh melayang, buahnya jatuh ke pangkal juga","di mana kapak jatuh, di situ baji makan","hujan jatuh ke pasir","hujan tak sekali jatuh, simpai tak sekali erat","jatuh di atas tilam","jatuh diimpit tangga","jika benih yang baik jatuh ke laut, menjadi pulau","kalau pucuk sudah jatuh, baru bersua akarnya","kemiri jatuh ke pangkalnya","laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi","lepas dari mulut harimau, jatuh ke mulut buaya","mempertinggi tempat jatuh, memperdalam tempat kena","mumbang jatuh, kelapa jatuh","orang penggamang mati jatuh","seperti tikus jatuh di beras","sudah dijolok, baru jatuh","sudah jatuh, ditimpa tangga"],"idiom":["bulan jatuh dalam ribaan","jatuh bangun (2)","jatuh di kasur","jatuh dari langit","jatuh hati"]}}]}
+{
+  "word": "jatuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33683",
+      "nama": "ja.tuh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(terlepas dan) turun atau meluncur ke bawah dengan cepat karena gravitasi bumi (baik ketika masih dalam gerakan turun maupun sesudah sampai ke tanah dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tabung kaca itu -- dan hancur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun banyak (harga, nilai, dan sebagainya); merosot",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harga mobil di pasar bebas --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampai ke ...; tiba di ...; kena pada ...; tembus ke ...; ditujukan ke",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jalan kecil ini -- ke Kampung Ambon"
+            },
+            {
+              "nomor": 4,
+              "teks": "sindiran itu --nya kepada saya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertepatan dengan; berbetulan dengan; tepat pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "proklamasi kemerdekaan Republik Indonesia -- pada hari Jumat, tanggal 17 Agustus 1945"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti memegang kekuasaan (tentang pemerintah, kabinet, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangkrut (tentang toko, kongsi, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kalah atau dirampas musuh (kota, benteng, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak lulus (dalam ujian); gagal (dalam usaha); sangat menderita (rugi, sengsara, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "9",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak tahan lagi (oleh godaan, penderitaan, cobaan, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "10",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi (sakit, miskin, cinta, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- miskin"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjatuh",
+          "berjatuhan",
+          "jatuhan",
+          "kejatuhan",
+          "keterjatuhan",
+          "menjatuhi",
+          "menjatuhkan",
+          "penjatuh",
+          "penjatuhan",
+          "terjatuh"
+        ],
+        "gabunganKata": [
+          "jatuh bangkrut",
+          "jatuh bangun",
+          "jatuh bebas",
+          "jatuh berkait",
+          "jatuh bertindih",
+          "jatuh cinta",
+          "jatuh coloknya",
+          "jatuh hati (kepada, akan)",
+          "jatuh iman",
+          "jatuh ke atas",
+          "jatuh ke bawah",
+          "jatuh merek",
+          "jatuh miskin",
+          "jatuh nama",
+          "jatuh pingsan",
+          "jatuh sakit",
+          "jatuh semangat",
+          "jatuh tapai",
+          "jatuh tekanan",
+          "jatuh tempo"
+        ],
+        "peribahasa": [
+          "acap melempar, akan jatuh jua",
+          "air cucuran atap jatuh ke pelimbahan juga",
+          "air mata jatuh ke perut",
+          "bagai batu jatuh ke lubuk",
+          "bagai bunyi cempedak jatuh",
+          "bagai garam jatuh ke air",
+          "barang tergenggam jatuh terlepas",
+          "biar jatuh terletak, jangan jatuh terempas",
+          "buah jatuh tak jauh dari pohonnya",
+          "bulu mata bagai seraut jatuh",
+          "busuk kerbau, jatuh berdebuk",
+          "daun dapat dilayangkan, getah jatuh ke perdu juga",
+          "daunnya jatuh melayang, buahnya jatuh ke pangkal juga",
+          "di mana kapak jatuh, di situ baji makan",
+          "hujan jatuh ke pasir",
+          "hujan tak sekali jatuh, simpai tak sekali erat",
+          "jatuh di atas tilam",
+          "jatuh diimpit tangga",
+          "jika benih yang baik jatuh ke laut, menjadi pulau",
+          "kalau pucuk sudah jatuh, baru bersua akarnya",
+          "kemiri jatuh ke pangkalnya",
+          "laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi",
+          "lepas dari mulut harimau, jatuh ke mulut buaya",
+          "mempertinggi tempat jatuh, memperdalam tempat kena",
+          "mumbang jatuh, kelapa jatuh",
+          "orang penggamang mati jatuh",
+          "seperti tikus jatuh di beras",
+          "sudah dijolok, baru jatuh",
+          "sudah jatuh, ditimpa tangga"
+        ],
+        "idiom": [
+          "bulan jatuh dalam ribaan",
+          "jatuh bangun (2)",
+          "jatuh di kasur",
+          "jatuh dari langit",
+          "jatuh hati"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"word":"jerang","authenticated":true,"entries":[{"id":"34361","nama":"je.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tanak; masak (air)","contoh":[]}],"terkait":{"kataTurunan":["jerangan","menjerang","menjerangkan","terjerang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"216126","nama":"je.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tegak (tentang tangkai padi), biasanya karena bulir padi yang kosong","contoh":[]}]}]}
+{
+  "word": "jerang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34361",
+      "nama": "je.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanak; masak (air)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "jerangan",
+          "menjerang",
+          "menjerangkan",
+          "terjerang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216126",
+      "nama": "je.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tegak (tentang tangkai padi), biasanya karena bulir padi yang kosong",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"word":"jual beli","authenticated":true,"entries":[{"id":"34966","nama":"ju.al be.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"persetujuan saling mengikat antara penjual, yakni pihak yang menyerahkan barang, dan pembeli sebagai pihak yang membayar harga barang yang dijual","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjual dan membeli","contoh":[{"nomor":2,"teks":"pekerjaannya -- valuta asing"}]}],"terkait":{"kataTurunan":["berjual beli","memperjualbelikan","menjualbelikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "jual beli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34966",
+      "nama": "ju.al be.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "persetujuan saling mengikat antara penjual, yakni pihak yang menyerahkan barang, dan pembeli sebagai pihak yang membayar harga barang yang dijual",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjual dan membeli",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pekerjaannya -- valuta asing"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjual beli",
+          "memperjualbelikan",
+          "menjualbelikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

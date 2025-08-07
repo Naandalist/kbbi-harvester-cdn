@@ -1,1 +1,31 @@
-{"word":"jamik","authenticated":true,"entries":[{"id":"33232","nama":"ja.mik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"masjid","contoh":[]}],"etimologi":{"text":"[Arab جَامِعٌ jāmi‘ n sg m 'pengumpul; masjid tempat diselenggarakannya salat Jumat']","languages":["Arab"]}}]}
+{
+  "word": "jamik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33232",
+      "nama": "ja.mik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masjid",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab جَامِعٌ jāmi‘ n sg m 'pengumpul; masjid tempat diselenggarakannya salat Jumat']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

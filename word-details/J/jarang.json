@@ -1,1 +1,133 @@
-{"word":"jarang","authenticated":true,"entries":[{"id":"33527","nama":"ja.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"renggang atau lebar jaraknya; tidak rapat (tentang tulisan, tumbuhan, tanaman, gigi, dan sebagainya); bersela-sela; tidak kerap (tentang tenunan, anyaman, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak merata (hanya di sana sini)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak padat (tentang penduduk di suatu daerah)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"tidak sering","contoh":[]}],"terkait":{"kataTurunan":["berjarang","jarang-jarang","memperjarang","menjarang","menjarangkan","penjarang","penjarangan"],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang","kawan gelak banyak, kawan menangis jarang bersua"],"idiom":[]}},{"id":"33534","nama":"ja.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ jerang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang","kawan gelak banyak, kawan menangis jarang bersua"],"idiom":[]}},{"id":"222872","nama":"ja.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"air panas","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["jaras dikatakan raga jarang","kawan gelak banyak, kawan menangis jarang bersua"],"idiom":[]}}]}
+{
+  "word": "jarang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33527",
+      "nama": "ja.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "renggang atau lebar jaraknya; tidak rapat (tentang tulisan, tumbuhan, tanaman, gigi, dan sebagainya); bersela-sela; tidak kerap (tentang tenunan, anyaman, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak merata (hanya di sana sini)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak padat (tentang penduduk di suatu daerah)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sering",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berjarang",
+          "jarang-jarang",
+          "memperjarang",
+          "menjarang",
+          "menjarangkan",
+          "penjarang",
+          "penjarangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang",
+          "kawan gelak banyak, kawan menangis jarang bersua"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33534",
+      "nama": "ja.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ jerang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang",
+          "kawan gelak banyak, kawan menangis jarang bersua"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "222872",
+      "nama": "ja.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "air panas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jaras dikatakan raga jarang",
+          "kawan gelak banyak, kawan menangis jarang bersua"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

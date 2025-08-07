@@ -1,1 +1,60 @@
-{"word":"janggi","authenticated":true,"entries":[{"id":"33339","nama":"jang.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang Habsi; orang hitam","contoh":[{"nomor":2,"teks":"dilihat dari cara berpakaian dia, tampaknya seperti wanita --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"segala sesuatu yang ajaib","contoh":[]}]},{"id":"33340","nama":"jang.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat pauh1","contoh":[]}]}]}
+{
+  "word": "janggi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33339",
+      "nama": "jang.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang Habsi; orang hitam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dilihat dari cara berpakaian dia, tampaknya seperti wanita --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segala sesuatu yang ajaib",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "33340",
+      "nama": "jang.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat pauh1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

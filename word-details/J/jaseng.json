@@ -1,1 +1,35 @@
-{"word":"jaseng","authenticated":true,"entries":[{"id":"201507","nama":"ja.seng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Jawa Serang","contoh":[{"nomor":2,"teks":"bahasa --"}]}]}]}
+{
+  "word": "jaseng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "201507",
+      "nama": "ja.seng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Jawa Serang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bahasa --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

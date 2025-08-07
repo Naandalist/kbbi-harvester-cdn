@@ -1,1 +1,70 @@
-{"word":"jaran","authenticated":true,"entries":[{"id":"33522","nama":"ja.ran","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kuda","contoh":[]}],"terkait":{"kataTurunan":["jaranan"],"gabunganKata":["jaran bodag","jaran goyang","jaran joget","jaran kencak","jaran kepang","jaran manten","jaran slining"],"peribahasa":[],"idiom":[]}},{"id":"228162","nama":"ja.ran","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pohon jati yang berbau tajam","contoh":[]}]}]}
+{
+  "word": "jaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33522",
+      "nama": "ja.ran",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kuda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "jaranan"
+        ],
+        "gabunganKata": [
+          "jaran bodag",
+          "jaran goyang",
+          "jaran joget",
+          "jaran kencak",
+          "jaran kepang",
+          "jaran manten",
+          "jaran slining"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228162",
+      "nama": "ja.ran",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pohon jati yang berbau tajam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

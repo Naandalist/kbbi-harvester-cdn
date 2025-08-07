@@ -1,1 +1,149 @@
-{"word":"jamak","authenticated":true,"entries":[{"id":"33161","nama":"ja.mak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak aneh; lazim; lumrah; wajar","contoh":[{"nomor":2,"teks":"sudah -- bahwa setiap perjuangan meminta pengorbanan"}]}],"terkait":{"kataTurunan":["kejamakan","menjamakkan","sejamaknya","penjamakan","menjamak"],"gabunganKata":["jamak qasar","jamak takdim","jamak takhir"],"peribahasa":[],"idiom":[]}},{"id":"33165","nama":"ja.mak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"bentuk kata yang menyatakan lebih dari satu atau banyak","contoh":[{"nomor":2,"teks":"siswa-siswa atau para siswa adalah bentuk -- dari kata siswa"}]}],"terkait":{"kataTurunan":["menjamakkan","penjamakan","menjamak"],"gabunganKata":["jamak qasar","jamak takdim","jamak takhir"],"peribahasa":[],"idiom":[]}},{"id":"33168","nama":"ja.mak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"penggabungan antara salat Zuhur dan salat Asar atau salat Magrib dan salat Isya","contoh":[]}],"terkait":{"kataTurunan":["menjamak"],"gabunganKata":["jamak qasar","jamak takdim","jamak takhir"],"peribahasa":[],"idiom":[]}},{"id":"228004","nama":"ja.mak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"akar jati yang runcing","contoh":[]}]}]}
+{
+  "word": "jamak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33161",
+      "nama": "ja.mak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak aneh; lazim; lumrah; wajar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah -- bahwa setiap perjuangan meminta pengorbanan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kejamakan",
+          "menjamakkan",
+          "sejamaknya",
+          "penjamakan",
+          "menjamak"
+        ],
+        "gabunganKata": [
+          "jamak qasar",
+          "jamak takdim",
+          "jamak takhir"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33165",
+      "nama": "ja.mak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bentuk kata yang menyatakan lebih dari satu atau banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siswa-siswa atau para siswa adalah bentuk -- dari kata siswa"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjamakkan",
+          "penjamakan",
+          "menjamak"
+        ],
+        "gabunganKata": [
+          "jamak qasar",
+          "jamak takdim",
+          "jamak takhir"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "33168",
+      "nama": "ja.mak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penggabungan antara salat Zuhur dan salat Asar atau salat Magrib dan salat Isya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menjamak"
+        ],
+        "gabunganKata": [
+          "jamak qasar",
+          "jamak takdim",
+          "jamak takhir"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228004",
+      "nama": "ja.mak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "akar jati yang runcing",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
