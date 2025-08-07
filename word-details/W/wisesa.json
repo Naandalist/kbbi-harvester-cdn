@@ -1,1 +1,81 @@
-{"word":"wisesa","authenticated":true,"entries":[{"id":"91463","nama":"wi.se.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penguasa utama","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kekuasaan yang tertinggi","contoh":[]}],"etimologi":{"text":"[Sanskerta विशेष viśeṣa n m 'keunggulan, kekhasan; superioritas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kewisesaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"191394","nama":"wi.se.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"semua jenis tanaman atau tumbuh-tumbuhan yang buahnya dapat dimakan manusia","contoh":[]}],"etimologi":{"text":"[Sanskerta विशेष viśeṣa n m 'keunggulan, kekhasan; superioritas']","languages":["Sanskerta"]}}]}
+{
+  "word": "wisesa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91463",
+      "nama": "wi.se.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penguasa utama",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekuasaan yang tertinggi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta विशेष viśeṣa n m 'keunggulan, kekhasan; superioritas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kewisesaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "191394",
+      "nama": "wi.se.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "semua jenis tanaman atau tumbuh-tumbuhan yang buahnya dapat dimakan manusia",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta विशेष viśeṣa n m 'keunggulan, kekhasan; superioritas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

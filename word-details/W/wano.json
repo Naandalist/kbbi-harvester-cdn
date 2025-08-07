@@ -1,1 +1,66 @@
-{"word":"wano","authenticated":true,"entries":[{"id":"117002","nama":"wa.no","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ht","nama":"Hitu","tipe":"lainnya"}],"definisi":"bagian yang keras pada batang sagu","contoh":[{"nomor":2,"teks":"petani tidak mengambil -- untuk diperas"}]}]},{"id":"101465","nama":"Wa.no","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami wilayah Kabupaten Paniai, Provinsi Papua","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Wano","contoh":[]}]}]}
+{
+  "word": "wano",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "117002",
+      "nama": "wa.no",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ht",
+              "nama": "Hitu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian yang keras pada batang sagu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petani tidak mengambil -- untuk diperas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "101465",
+      "nama": "Wa.no",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami wilayah Kabupaten Paniai, Provinsi Papua",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Wano",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

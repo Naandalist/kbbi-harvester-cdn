@@ -1,1 +1,276 @@
-{"word":"wali","authenticated":true,"entries":[{"id":"90952","nama":"wa.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menurut hukum (agama, adat) diserahi kewajiban mengurus anak yatim serta hartanya, sebelum anak itu dewasa","contoh":[{"nomor":2,"teks":"penjualan tanah itu tidak dapat disahkan karena pemiliknya belum dewasa dan --nya tidak menyetujuinya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menjadi penjamin dalam pengurusan dan pengasuhan anak","contoh":[{"nomor":2,"teks":"yang menjadi -- anak tersebut adalah pamannya karena anak itu tinggal bersama pamannya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memiliki wewenang untuk menikahkan seorang perempuan, baik gadis maupun janda","contoh":[{"nomor":2,"teks":"yang menjadi -- dalam pernikahan anak  perempuan itu adalah ayahnya sendiri; karena ayahnya telah meninggal, maka saudara laki-lakinya yang menjadi -- dalam pernikahan anak perempuan itu"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang saleh (suci); penyebar agama","contoh":[{"nomor":2,"teks":"-- sanga"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepala pemerintah dan sebagainya","contoh":[{"nomor":2,"teks":"-- negeri"}]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]},"terkait":{"kataTurunan":["kewalian","memperwalikan","mewalikan","perwalian"],"gabunganKata":["perwalian anak","perwalian fisik","perwalian gabungan","perwalian hukum gabungan","perwalian terbagi","perwalian terpecah","perwalian tunggal","wali abdal","wali Allah","wali amanat","wali gereja","wali hakim","wali jorong","wali kelas","wali kota","wali kutub","wali mujbir","wali murid","wali nagari","wali nasab","wali negara","wali negeri","wali nikah","wali rumah","wali sanga","wali santri"],"peribahasa":[],"idiom":[]}},{"id":"90965","nama":"wa.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kain kuning yang dilekatkan pada bahu pejabat istana yang melaksanakan upacara kerajaan","contoh":[]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]}},{"id":"90966","nama":"wa.li","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pisau kecil untuk mengukir kayu dan sebagainya","contoh":[]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]}},{"id":"90967","nama":"wa.li","nomor":"4","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ rajawali","contoh":[]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]}},{"id":"235524","nama":"wa.li","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tarian tradisional yang bersifat sakral, biasanya ditarikan di halaman bagian dalam pura, seperti rejang, baris, pendet","contoh":[]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]}},{"id":"166591","nama":"wa.li","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sb","nama":"Sabu","tipe":"lainnya"}],"definisi":"berkurang kemampuan fisik karena bertambahnya usia","contoh":[{"nomor":2,"teks":"ayah menjadi sangat -- sejak pensiun tahun lalu"}]}],"etimologi":{"text":"[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']","languages":["Arab"]}}]}
+{
+  "word": "wali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90952",
+      "nama": "wa.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menurut hukum (agama, adat) diserahi kewajiban mengurus anak yatim serta hartanya, sebelum anak itu dewasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjualan tanah itu tidak dapat disahkan karena pemiliknya belum dewasa dan --nya tidak menyetujuinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menjadi penjamin dalam pengurusan dan pengasuhan anak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "yang menjadi -- anak tersebut adalah pamannya karena anak itu tinggal bersama pamannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memiliki wewenang untuk menikahkan seorang perempuan, baik gadis maupun janda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "yang menjadi -- dalam pernikahan anak  perempuan itu adalah ayahnya sendiri; karena ayahnya telah meninggal, maka saudara laki-lakinya yang menjadi -- dalam pernikahan anak perempuan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang saleh (suci); penyebar agama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sanga"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala pemerintah dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- negeri"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kewalian",
+          "memperwalikan",
+          "mewalikan",
+          "perwalian"
+        ],
+        "gabunganKata": [
+          "perwalian anak",
+          "perwalian fisik",
+          "perwalian gabungan",
+          "perwalian hukum gabungan",
+          "perwalian terbagi",
+          "perwalian terpecah",
+          "perwalian tunggal",
+          "wali abdal",
+          "wali Allah",
+          "wali amanat",
+          "wali gereja",
+          "wali hakim",
+          "wali jorong",
+          "wali kelas",
+          "wali kota",
+          "wali kutub",
+          "wali mujbir",
+          "wali murid",
+          "wali nagari",
+          "wali nasab",
+          "wali negara",
+          "wali negeri",
+          "wali nikah",
+          "wali rumah",
+          "wali sanga",
+          "wali santri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "90965",
+      "nama": "wa.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kain kuning yang dilekatkan pada bahu pejabat istana yang melaksanakan upacara kerajaan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90966",
+      "nama": "wa.li",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pisau kecil untuk mengukir kayu dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90967",
+      "nama": "wa.li",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ rajawali",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "235524",
+      "nama": "wa.li",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tarian tradisional yang bersifat sakral, biasanya ditarikan di halaman bagian dalam pura, seperti rejang, baris, pendet",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "166591",
+      "nama": "wa.li",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sb",
+              "nama": "Sabu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkurang kemampuan fisik karena bertambahnya usia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah menjadi sangat -- sejak pensiun tahun lalu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَلِيٌ walī n sg m 'teman; orang dekat; kekasih Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

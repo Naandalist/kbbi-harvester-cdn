@@ -1,1 +1,110 @@
-{"word":"wedang","authenticated":true,"entries":[{"id":"91276","nama":"we.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"minuman dari bahan gula dan kopi (teh, jahe, dan sebagainya) yang biasanya diseduh dengan air panas, biasanya dapat menghangatkan tubuh","contoh":[{"nomor":2,"teks":"karena daerah ini sangat dingin, kita minum -- jahe"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["wedang asle","wedang belung","wedang cemuai","wedang cemue","wedang cor","wedang dongo","wedang goyang","wedang jahe","wedang jakel","wedang kacang","wedang pekak","wedang prentul","wedang ronde","wedang secang","wedang serai","wedang tahu","wedang tapai","wedang teh cengkih","wedang ubek","wedang uwuh"],"peribahasa":[],"idiom":[]}},{"id":"220410","nama":"we.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"nira yang sudah mendidih","contoh":[]}]},{"id":"227819","nama":"we.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"didihan nira yang pertama dalam pembuatan gula aren","contoh":[]}]}]}
+{
+  "word": "wedang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91276",
+      "nama": "we.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "minuman dari bahan gula dan kopi (teh, jahe, dan sebagainya) yang biasanya diseduh dengan air panas, biasanya dapat menghangatkan tubuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena daerah ini sangat dingin, kita minum -- jahe"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "wedang asle",
+          "wedang belung",
+          "wedang cemuai",
+          "wedang cemue",
+          "wedang cor",
+          "wedang dongo",
+          "wedang goyang",
+          "wedang jahe",
+          "wedang jakel",
+          "wedang kacang",
+          "wedang pekak",
+          "wedang prentul",
+          "wedang ronde",
+          "wedang secang",
+          "wedang serai",
+          "wedang tahu",
+          "wedang tapai",
+          "wedang teh cengkih",
+          "wedang ubek",
+          "wedang uwuh"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "220410",
+      "nama": "we.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "nira yang sudah mendidih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "227819",
+      "nama": "we.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "didihan nira yang pertama dalam pembuatan gula aren",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

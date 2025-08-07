@@ -1,1 +1,68 @@
-{"word":"weda","authenticated":true,"entries":[{"id":"91272","nama":"We.da","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kitab suci agama Hindu","contoh":[]}],"etimologi":{"text":"[Sanskerta वेद veda n m 'pengetahuan, pengetahuan kudus, temuan']","languages":["Sanskerta"]}},{"id":"101482","nama":"We.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami wilayah Provinsi Maluku Utara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan suku Weda","contoh":[]}],"etimologi":{"text":"[Sanskerta वेद veda n m 'pengetahuan, pengetahuan kudus, temuan']","languages":["Sanskerta"]}}]}
+{
+  "word": "weda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91272",
+      "nama": "We.da",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kitab suci agama Hindu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेद veda n m 'pengetahuan, pengetahuan kudus, temuan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    },
+    {
+      "id": "101482",
+      "nama": "We.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami wilayah Provinsi Maluku Utara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan suku Weda",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेद veda n m 'pengetahuan, pengetahuan kudus, temuan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

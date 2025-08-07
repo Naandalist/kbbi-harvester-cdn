@@ -1,1 +1,73 @@
-{"word":"wawasan","authenticated":true,"entries":[{"id":"91234","nama":"wa.was.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil mewawas; tinjauan; pandangan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"konsepsi; cara pandang","contoh":[]}],"rootWord":"wawas","terkait":{"kataTurunan":[],"gabunganKata":["wawasan catur tunggal","wawasan nasional","wawasan Nusantara","wawasan sosial"],"peribahasa":[],"idiom":[]}},{"id":"279188","nama":"wa.wa.san","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mn","nama":"Minahasa","tipe":"bahasa"}],"definisi":"umpan hidup seperti ayam hutan, burung","contoh":[]}]}]}
+{
+  "word": "wawasan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91234",
+      "nama": "wa.was.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil mewawas; tinjauan; pandangan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "konsepsi; cara pandang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "wawas",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "wawasan catur tunggal",
+          "wawasan nasional",
+          "wawasan Nusantara",
+          "wawasan sosial"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "279188",
+      "nama": "wa.wa.san",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mn",
+              "nama": "Minahasa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "umpan hidup seperti ayam hutan, burung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

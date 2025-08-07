@@ -1,1 +1,151 @@
-{"word":"wadi","authenticated":true,"entries":[{"id":"125782","nama":"wa.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klm","nama":"Melayu Kalimantan","tipe":"lainnya"}],"definisi":"makanan yang terbuat dari fermentasi ikan, direndam dalam air garam, didiamkan selama beberapa hari sampai dagingnya menjadi lembek, memiliki rasa asam dan bau yang menyengat, digoreng sebelum dimakan","contoh":[]}],"etimologi":{"text":"[Arab وَادٍي wādī n sg m 'jurang']","languages":["Arab"]}},{"id":"90815","nama":"wa.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sungai kering di padang pasir (berisi air jika hujan turun)","contoh":[]}],"etimologi":{"text":"[Arab وَادٍي wādī n sg m 'jurang']","languages":["Arab"]}},{"id":"90816","nama":"wa.di","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bersifat rahasia","contoh":[]}],"etimologi":{"text":"[Arab وَادٍي wādī n sg m 'jurang']","languages":["Arab"]}},{"id":"90817","nama":"wa.di","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"tetesan terakhir dari mani atau air kencing","contoh":[]}],"etimologi":{"text":"[Arab وَادٍي wādī n sg m 'jurang']","languages":["Arab"]}},{"id":"256397","nama":"wa.di","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"pekasam ikan atau daging, difermentasi dengan nasi atau beras tumbuk yang disangrai","contoh":[]}],"etimologi":{"text":"[Arab وَادٍي wādī n sg m 'jurang']","languages":["Arab"]}}]}
+{
+  "word": "wadi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "125782",
+      "nama": "wa.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klm",
+              "nama": "Melayu Kalimantan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan yang terbuat dari fermentasi ikan, direndam dalam air garam, didiamkan selama beberapa hari sampai dagingnya menjadi lembek, memiliki rasa asam dan bau yang menyengat, digoreng sebelum dimakan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَادٍي wādī n sg m 'jurang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90815",
+      "nama": "wa.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sungai kering di padang pasir (berisi air jika hujan turun)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَادٍي wādī n sg m 'jurang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90816",
+      "nama": "wa.di",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bersifat rahasia",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَادٍي wādī n sg m 'jurang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90817",
+      "nama": "wa.di",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tetesan terakhir dari mani atau air kencing",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَادٍي wādī n sg m 'jurang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "256397",
+      "nama": "wa.di",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pekasam ikan atau daging, difermentasi dengan nasi atau beras tumbuk yang disangrai",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَادٍي wādī n sg m 'jurang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

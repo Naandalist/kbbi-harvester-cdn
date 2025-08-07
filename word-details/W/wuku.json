@@ -1,1 +1,91 @@
-{"word":"wuku","authenticated":true,"entries":[{"id":"91535","nama":"wu.ku","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pekan dalam penanggalan Jawa atau Bali","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["wuku bala","wuku dukut","wuku galungan","wuku gumbreg","wuku julungpujut","wuku kuningan","wuku kurantil","wuku landep","wuku langkir","wuku maktal","wuku manahil"],"peribahasa":[],"idiom":[]}},{"id":"118598","nama":"wu.ku","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"biji kapas","contoh":[]}]},{"id":"238708","nama":"wu.ku","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"waktu dalam primbon Samawa","contoh":[]}]}]}
+{
+  "word": "wuku",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91535",
+      "nama": "wu.ku",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekan dalam penanggalan Jawa atau Bali",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "wuku bala",
+          "wuku dukut",
+          "wuku galungan",
+          "wuku gumbreg",
+          "wuku julungpujut",
+          "wuku kuningan",
+          "wuku kurantil",
+          "wuku landep",
+          "wuku langkir",
+          "wuku maktal",
+          "wuku manahil"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "118598",
+      "nama": "wu.ku",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "biji kapas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "238708",
+      "nama": "wu.ku",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "waktu dalam primbon Samawa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

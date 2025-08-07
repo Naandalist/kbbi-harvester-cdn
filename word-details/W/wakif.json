@@ -1,1 +1,41 @@
-{"word":"wakif","authenticated":true,"entries":[{"id":"140473","nama":"wa.kif","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"orang yang memberikan benda bergerak atau tidak bergerak miliknya untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas","contoh":[{"nomor":2,"teks":"-- itu akan memberikan tanah miliknya untuk lahan masjid"}]}],"etimologi":{"text":"[Arab وَاقِفٌ wāqif n sg m 'orang yang berhenti; orang yang memberikan hartanya untuk kepentingan umum']","languages":["Arab"]}}]}
+{
+  "word": "wakif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "140473",
+      "nama": "wa.kif",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang memberikan benda bergerak atau tidak bergerak miliknya untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- itu akan memberikan tanah miliknya untuk lahan masjid"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَاقِفٌ wāqif n sg m 'orang yang berhenti; orang yang memberikan hartanya untuk kepentingan umum']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

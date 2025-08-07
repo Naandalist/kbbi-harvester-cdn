@@ -1,1 +1,42 @@
-{"word":"wagyu","authenticated":true,"entries":[{"id":"101446","nama":"wag.yu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jp","nama":"Jepang","tipe":"lainnya"}],"definisi":"sapi khas Jepang, diternak khusus dengan pakan gandum berkualitas, rumput pilihan, dan vitamin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daging sapi khas Jepang, persebaran lemaknya merata, dan biasa diolah untuk steik","contoh":[]}]}]}
+{
+  "word": "wagyu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101446",
+      "nama": "wag.yu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jp",
+              "nama": "Jepang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sapi khas Jepang, diternak khusus dengan pakan gandum berkualitas, rumput pilihan, dan vitamin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daging sapi khas Jepang, persebaran lemaknya merata, dan biasa diolah untuk steik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

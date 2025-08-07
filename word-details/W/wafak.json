@@ -1,1 +1,66 @@
-{"word":"wafak","authenticated":true,"entries":[{"id":"90824","nama":"wa.fak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"waktu yang telah ditetapkan (tentang suatu kejadian)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"setuju (dengan); menurut","contoh":[]}]},{"id":"210784","nama":"wa.fak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda bertuliskan aksara Arab yang dijadikan jimat; rajah beraksara Arab","contoh":[]}]}]}
+{
+  "word": "wafak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90824",
+      "nama": "wa.fak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "waktu yang telah ditetapkan (tentang suatu kejadian)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "setuju (dengan); menurut",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "210784",
+      "nama": "wa.fak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda bertuliskan aksara Arab yang dijadikan jimat; rajah beraksara Arab",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"wadak","authenticated":true,"entries":[{"id":"90807","nama":"wa.dak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersifat jasmani; ragawi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"nyata","contoh":[{"nomor":2,"teks":"kuasa gaib Yang Maha Besar akan turun ke dunia yang -- ini"}]}],"etimologi":{"text":"[Arab وَدَاعٌ wadā‘ n sg m 'perpisahan']","languages":["Arab"]}},{"id":"90808","nama":"wa.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"perpisahan","contoh":[{"nomor":2,"teks":"haji --"}]}],"etimologi":{"text":"[Arab وَدَاعٌ wadā‘ n sg m 'perpisahan']","languages":["Arab"]}}]}
+{
+  "word": "wadak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90807",
+      "nama": "wa.dak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersifat jasmani; ragawi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kuasa gaib Yang Maha Besar akan turun ke dunia yang -- ini"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَدَاعٌ wadā‘ n sg m 'perpisahan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90808",
+      "nama": "wa.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perpisahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "haji --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab وَدَاعٌ wadā‘ n sg m 'perpisahan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}
