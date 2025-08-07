@@ -1,1 +1,96 @@
-{"word":"virus","authenticated":true,"entries":[{"id":"90634","nama":"vi.rus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mikroorganisme yang tidak dapat dilihat dengan menggunakan mikroskop biasa, hanya dapat dilihat dengan menggunakan mikroskop elektron, penyebab dan penular penyakit, seperti cacar, influenza, dan rabies","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"program ilegal yang dimasukkan ke dalam sistem komputer melalui jaringan atau perangkat keras sehingga menyebar dan dapat merusak program yang ada","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"pengaruh yang buruk, jahat, atau merusakkan","contoh":[{"nomor":2,"teks":"masyarakat Indonesia telah bersepakat bahwa korupsi adalah -- akut yang harus dibasmi bersama"}]}],"terkait":{"kataTurunan":["bervirus","pervirusan"],"gabunganKata":["virus bakteri","virus bangkas","virus calici","virus defektif","virus DNA","virus flu burung","virus herpes","virus ikosahedral","virus korona","virus Marburg","virus mosaik","virus nipah","virus parpo","virus penolong","virus persisten","virus satelit","virus sirkulatif","virus temperat","virus trojan","virus utuh","virus virulen","virus Zika"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "virus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90634",
+      "nama": "vi.rus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mikroorganisme yang tidak dapat dilihat dengan menggunakan mikroskop biasa, hanya dapat dilihat dengan menggunakan mikroskop elektron, penyebab dan penular penyakit, seperti cacar, influenza, dan rabies",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "program ilegal yang dimasukkan ke dalam sistem komputer melalui jaringan atau perangkat keras sehingga menyebar dan dapat merusak program yang ada",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengaruh yang buruk, jahat, atau merusakkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masyarakat Indonesia telah bersepakat bahwa korupsi adalah -- akut yang harus dibasmi bersama"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bervirus",
+          "pervirusan"
+        ],
+        "gabunganKata": [
+          "virus bakteri",
+          "virus bangkas",
+          "virus calici",
+          "virus defektif",
+          "virus DNA",
+          "virus flu burung",
+          "virus herpes",
+          "virus ikosahedral",
+          "virus korona",
+          "virus Marburg",
+          "virus mosaik",
+          "virus nipah",
+          "virus parpo",
+          "virus penolong",
+          "virus persisten",
+          "virus satelit",
+          "virus sirkulatif",
+          "virus temperat",
+          "virus trojan",
+          "virus utuh",
+          "virus virulen",
+          "virus Zika"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

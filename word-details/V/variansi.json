@@ -1,1 +1,47 @@
-{"word":"variansi","authenticated":true,"entries":[{"id":"90430","nama":"va.ri.an.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Stat","nama":"Statistik","tipe":"lainnya"}],"definisi":"besaran yang menunjukkan besarnya penyebaran data pada suatu kelompok data","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"kuadrat simpangan baku dalam statistika","contoh":[]}]}]}
+{
+  "word": "variansi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90430",
+      "nama": "va.ri.an.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Stat",
+              "nama": "Statistik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "besaran yang menunjukkan besarnya penyebaran data pada suatu kelompok data",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kuadrat simpangan baku dalam statistika",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

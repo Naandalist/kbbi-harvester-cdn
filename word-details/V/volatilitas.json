@@ -1,1 +1,57 @@
-{"word":"volatilitas","authenticated":true,"entries":[{"id":"90741","nama":"vo.la.ti.li.tas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kecenderungan mudah berubah menjadi gas atau uap dari suatu cairan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["volatilitas tersirat"],"peribahasa":[],"idiom":[]}},{"id":"223867","nama":"vo.la.ti.li.tas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"besaran jarak naik turunnya atau fluktuasi harga saham, valas, dan lain-lain","contoh":[]}]}]}
+{
+  "word": "volatilitas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90741",
+      "nama": "vo.la.ti.li.tas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecenderungan mudah berubah menjadi gas atau uap dari suatu cairan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "volatilitas tersirat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "223867",
+      "nama": "vo.la.ti.li.tas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "besaran jarak naik turunnya atau fluktuasi harga saham, valas, dan lain-lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

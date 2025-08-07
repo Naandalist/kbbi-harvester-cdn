@@ -1,1 +1,71 @@
-{"word":"verteks","authenticated":true,"entries":[{"id":"90554","nama":"ver.teks","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"titik tempat permukaan kanta berpotongan dengan sumbu optis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"titik tembus sumbu optik dengan permukaan lensa dalam optika geometri","contoh":[]}]},{"id":"291561","nama":"ver.teks","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"bagian atas pada kerangka kepala serangga","contoh":[]}]}]}
+{
+  "word": "verteks",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90554",
+      "nama": "ver.teks",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "titik tempat permukaan kanta berpotongan dengan sumbu optis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "titik tembus sumbu optik dengan permukaan lensa dalam optika geometri",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "291561",
+      "nama": "ver.teks",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bagian atas pada kerangka kepala serangga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

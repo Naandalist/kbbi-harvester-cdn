@@ -1,1 +1,47 @@
-{"word":"varia","authenticated":true,"entries":[{"id":"90419","nama":"va.ri.a","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"berbagai jenis","contoh":[{"nomor":2,"teks":"-- olahraga"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"serba-serbi","contoh":[{"nomor":2,"teks":"-- kebudayaan Sulawesi Selatan"}]}]}]}
+{
+  "word": "varia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90419",
+      "nama": "va.ri.a",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbagai jenis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- olahraga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serba-serbi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kebudayaan Sulawesi Selatan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

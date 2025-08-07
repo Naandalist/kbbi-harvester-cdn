@@ -1,1 +1,49 @@
-{"word":"vonis","authenticated":true,"entries":[{"id":"90758","nama":"vo.nis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"putusan hakim (pada sidang pengadilan) yang berkaitan dengan persengketaan di antara pihak yang maju ke pengadilan; hukuman (pada perkara pidana)","contoh":[{"nomor":2,"teks":"ia dijatuhi -- enam bulan penjara"}]}],"terkait":{"kataTurunan":["memvonis","pemvonis"],"gabunganKata":["vonis bebas","vonis mati","vonis penjara","vonis ringan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "vonis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90758",
+      "nama": "vo.nis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "putusan hakim (pada sidang pengadilan) yang berkaitan dengan persengketaan di antara pihak yang maju ke pengadilan; hukuman (pada perkara pidana)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dijatuhi -- enam bulan penjara"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memvonis",
+          "pemvonis"
+        ],
+        "gabunganKata": [
+          "vonis bebas",
+          "vonis mati",
+          "vonis penjara",
+          "vonis ringan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

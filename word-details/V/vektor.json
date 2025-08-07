@@ -1,1 +1,101 @@
-{"word":"vektor","authenticated":true,"entries":[{"id":"90467","nama":"vek.tor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hewan (serangga dan sebagainya) yang menjadi perantara menularnya (pembawa dan penyebar) penyakit","contoh":[{"nomor":2,"teks":"nyamuk dapat menjadi -- dari berbagai penyakit"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["vektor eigen","vektor penular","vektor angin","vektor basis","vektor nol","vektor posisi","vektor satuan","vektor sejajar"],"peribahasa":[],"idiom":[]}},{"id":"90468","nama":"vek.tor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"besaran yang memiliki ukuran dan arah, misalnya gaya kecepatan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["vektor angin","vektor basis","vektor nol","vektor posisi","vektor satuan","vektor sejajar"],"peribahasa":[],"idiom":[]}},{"id":"227509","nama":"vek.tor","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"gambar yang terdiri atas titik, garis, kurva, dan bentuk yang pembuatannya didasarkan pada rumus matematika","contoh":[]}]}]}
+{
+  "word": "vektor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90467",
+      "nama": "vek.tor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hewan (serangga dan sebagainya) yang menjadi perantara menularnya (pembawa dan penyebar) penyakit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nyamuk dapat menjadi -- dari berbagai penyakit"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "vektor eigen",
+          "vektor penular",
+          "vektor angin",
+          "vektor basis",
+          "vektor nol",
+          "vektor posisi",
+          "vektor satuan",
+          "vektor sejajar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "90468",
+      "nama": "vek.tor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besaran yang memiliki ukuran dan arah, misalnya gaya kecepatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "vektor angin",
+          "vektor basis",
+          "vektor nol",
+          "vektor posisi",
+          "vektor satuan",
+          "vektor sejajar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227509",
+      "nama": "vek.tor",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gambar yang terdiri atas titik, garis, kurva, dan bentuk yang pembuatannya didasarkan pada rumus matematika",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
