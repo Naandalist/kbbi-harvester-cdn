@@ -1,1 +1,58 @@
-{"word":"penumbuk","authenticated":true,"entries":[{"id":"87969","nama":"pe.num.buk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menumbuk","contoh":[{"nomor":2,"teks":"~ gabah itu sangat kuat"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menumbuk","contoh":[{"nomor":2,"teks":"di kota orang sudah mengenal mesin ~ padi"}]}],"rootWord":"tumbuk¹","terkait":{"kataTurunan":[],"gabunganKata":["penumbuk kincir"],"peribahasa":["seperti lonjak alu penumbuk padi"],"idiom":[]}}]}
+{
+  "word": "penumbuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87969",
+      "nama": "pe.num.buk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menumbuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ gabah itu sangat kuat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menumbuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di kota orang sudah mengenal mesin ~ padi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tumbuk¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penumbuk kincir"
+        ],
+        "peribahasa": [
+          "seperti lonjak alu penumbuk padi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

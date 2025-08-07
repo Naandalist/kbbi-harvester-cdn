@@ -1,1 +1,86 @@
-{"word":"peti","authenticated":true,"entries":[{"id":"63192","nama":"pe.ti","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kotak bertutup (dibuat dari kayu, logam, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["berpeti-peti","memetikan"],"gabunganKata":["peti besi","peti bicara","peti jenazah","peti kemas","peti lompat","peti mati","peti mayat","peti menyanyi","peti ngomong","peti pendingin","peti uang"],"peribahasa":["anak kunci jahat, peti durhaka","jadi dinding tasak peti permainan"],"idiom":["masuk peti es"]}},{"id":"238605","nama":"pe.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"penambangan tanpa izin","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anak kunci jahat, peti durhaka","jadi dinding tasak peti permainan"],"idiom":["masuk peti es"]}}]}
+{
+  "word": "peti",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63192",
+      "nama": "pe.ti",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotak bertutup (dibuat dari kayu, logam, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpeti-peti",
+          "memetikan"
+        ],
+        "gabunganKata": [
+          "peti besi",
+          "peti bicara",
+          "peti jenazah",
+          "peti kemas",
+          "peti lompat",
+          "peti mati",
+          "peti mayat",
+          "peti menyanyi",
+          "peti ngomong",
+          "peti pendingin",
+          "peti uang"
+        ],
+        "peribahasa": [
+          "anak kunci jahat, peti durhaka",
+          "jadi dinding tasak peti permainan"
+        ],
+        "idiom": [
+          "masuk peti es"
+        ]
+      }
+    },
+    {
+      "id": "238605",
+      "nama": "pe.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penambangan tanpa izin",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anak kunci jahat, peti durhaka",
+          "jadi dinding tasak peti permainan"
+        ],
+        "idiom": [
+          "masuk peti es"
+        ]
+      }
+    }
+  ]
+}

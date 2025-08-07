@@ -1,1 +1,61 @@
-{"word":"pengukur","authenticated":true,"entries":[{"id":"89154","nama":"peng.u.kur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang mengukur","contoh":[{"nomor":2,"teks":"pegawai ~ tanah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk mengukur","contoh":[{"nomor":2,"teks":"perkakas ~ panas"}]}],"rootWord":"ukur¹","terkait":{"kataTurunan":[],"gabunganKata":["pengukur cahaya","pengukur jaring","pengukur kadar air","pengukur pasut otomatis","pengukur radiasi","pengukur suhu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pengukur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89154",
+      "nama": "peng.u.kur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang mengukur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pegawai ~ tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk mengukur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkakas ~ panas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ukur¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pengukur cahaya",
+          "pengukur jaring",
+          "pengukur kadar air",
+          "pengukur pasut otomatis",
+          "pengukur radiasi",
+          "pengukur suhu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"word":"parah","authenticated":true,"entries":[{"id":"60324","nama":"pa.rah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berat (tentang luka)","contoh":[{"nomor":2,"teks":"lukanya cukup --, ia harus segera dibawa ke rumah sakit"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"payah (tentang penyakit)","contoh":[{"nomor":2,"teks":"sakitnya sudah --, sudah tidak ada harapan lagi"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dalam keadaan kesulitan yang sangat","contoh":[{"nomor":2,"teks":"akibat kehilangan pekerjaan, kehidupannya sangat --"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sukar diatasi","contoh":[{"nomor":2,"teks":"masalah kenakalan remaja akhir-akhir ini makin --"}]}],"terkait":{"kataTurunan":["keparahan","memperparah","terparah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "parah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60324",
+      "nama": "pa.rah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berat (tentang luka)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lukanya cukup --, ia harus segera dibawa ke rumah sakit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "payah (tentang penyakit)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sakitnya sudah --, sudah tidak ada harapan lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam keadaan kesulitan yang sangat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akibat kehilangan pekerjaan, kehidupannya sangat --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sukar diatasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masalah kenakalan remaja akhir-akhir ini makin --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keparahan",
+          "memperparah",
+          "terparah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

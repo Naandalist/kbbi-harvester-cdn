@@ -1,1 +1,90 @@
-{"word":"pd","authenticated":true,"entries":[{"id":"1","nama":"P.D.","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perusahaan dagang","contoh":[]}],"rootWord":"pdpd"},{"id":"2","nama":"pd","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perdagangan","contoh":[]}],"rootWord":"pdpd"},{"id":"3","nama":"Pd","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"Ponda","contoh":[]}],"rootWord":"pdpd"},{"id":"4","nama":"pd.","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perdagangan","contoh":[{"teks":"PT PD"}]}],"rootWord":"pdpd"}]}
+{
+  "word": "pd",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "P.D.",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perusahaan dagang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pdpd"
+    },
+    {
+      "id": "2",
+      "nama": "pd",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perdagangan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pdpd"
+    },
+    {
+      "id": "3",
+      "nama": "Pd",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Ponda",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pdpd"
+    },
+    {
+      "id": "4",
+      "nama": "pd.",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perdagangan",
+          "contoh": [
+            {
+              "teks": "PT PD"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pdpd"
+    }
+  ]
+}

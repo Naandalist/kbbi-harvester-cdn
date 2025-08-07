@@ -1,1 +1,88 @@
-{"word":"pangkur","authenticated":true,"entries":[{"id":"59932","nama":"pang.kur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cangkul; pacul","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kapak untuk membelah sagu","contoh":[]}],"etimologi":{"text":"[Jawa Kuno paṅkur 'nama metrum']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["memangkur"],"gabunganKata":[],"peribahasa":["meraih pangkur ke dada","permata lekat di pangkur"],"idiom":[]}},{"id":"59935","nama":"pang.kur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk komposisi tembang macapat, mempunyai bait lagu yang terdiri atas tujuh baris, biasanya dipakai untuk mengungkapkan hal-hal yang bersifat keras, seperti kemarahan, perkelahian, dan perang","contoh":[]}],"etimologi":{"text":"[Jawa Kuno paṅkur 'nama metrum']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["meraih pangkur ke dada","permata lekat di pangkur"],"idiom":[]}}]}
+{
+  "word": "pangkur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59932",
+      "nama": "pang.kur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cangkul; pacul",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kapak untuk membelah sagu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno paṅkur 'nama metrum']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "memangkur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "meraih pangkur ke dada",
+          "permata lekat di pangkur"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "59935",
+      "nama": "pang.kur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk komposisi tembang macapat, mempunyai bait lagu yang terdiri atas tujuh baris, biasanya dipakai untuk mengungkapkan hal-hal yang bersifat keras, seperti kemarahan, perkelahian, dan perang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno paṅkur 'nama metrum']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "meraih pangkur ke dada",
+          "permata lekat di pangkur"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

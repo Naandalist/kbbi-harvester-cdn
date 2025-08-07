@@ -1,1 +1,106 @@
-{"word":"pros","authenticated":true,"entries":[{"id":"1","nama":"pro.ses","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"serangkaian tindakan atau kejadian yang dilakukan untuk mencapai suatu tujuan","contoh":[{"nomor":1,"teks":"proses pembuatan mobil baru"}]}],"rootWord":"prospros"},{"id":"2","nama":"pro.fe.si.o.nal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memiliki keahlian dan kompetensi dalam bidang tertentu","contoh":[{"nomor":1,"teks":"dia seorang profesional di bidang hukum"}]}],"rootWord":"prospros"},{"id":"3","nama":"pro.ses","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan serangkaian tindakan untuk mencapai suatu tujuan","contoh":[{"nomor":1,"teks":"perusahaan sedang memproses permintaan pelanggan"}]}],"rootWord":"prospros"},{"id":"4","nama":"pro","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keuntungan atau kelebihan","contoh":[{"nomor":1,"teks":"ada pros dan cons dalam setiap keputusan"}]}],"rootWord":"prospros"}]}
+{
+  "word": "pros",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "pro.ses",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serangkaian tindakan atau kejadian yang dilakukan untuk mencapai suatu tujuan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "proses pembuatan mobil baru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "prospros"
+    },
+    {
+      "id": "2",
+      "nama": "pro.fe.si.o.nal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memiliki keahlian dan kompetensi dalam bidang tertentu",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia seorang profesional di bidang hukum"
+            }
+          ]
+        }
+      ],
+      "rootWord": "prospros"
+    },
+    {
+      "id": "3",
+      "nama": "pro.ses",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan serangkaian tindakan untuk mencapai suatu tujuan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "perusahaan sedang memproses permintaan pelanggan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "prospros"
+    },
+    {
+      "id": "4",
+      "nama": "pro",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keuntungan atau kelebihan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "ada pros dan cons dalam setiap keputusan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "prospros"
+    }
+  ]
+}

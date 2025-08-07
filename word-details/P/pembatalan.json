@@ -1,1 +1,52 @@
-{"word":"pembatalan","authenticated":true,"entries":[{"id":"8656","nama":"pem.ba.tal.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan membatalkan","contoh":[{"nomor":2,"teks":"~ persetujuan perdamaian diumumkan kepada para wartawan kemarin"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pernyataan batal","contoh":[]}],"rootWord":"batal","terkait":{"kataTurunan":[],"gabunganKata":["pembatalan kepailitan","pembatalan naskah dinas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pembatalan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8656",
+      "nama": "pem.ba.tal.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan membatalkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ persetujuan perdamaian diumumkan kepada para wartawan kemarin"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pernyataan batal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "batal",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pembatalan kepailitan",
+          "pembatalan naskah dinas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"word":"pesak","authenticated":true,"entries":[{"id":"62949","nama":"pe.sak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"secarik kain yang bentuknya seperti baji yang dijahitkan pada selangkangan celana atau depan celana (tempat kancing) atau di bawah ketiak baju","contoh":[]}]},{"id":"278252","nama":"pe.sak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"baju laki-laki khas Madura, berwarna hitam tanpa kancing, biasanya dipadukan dengan kaos belang berwarna merah putih","contoh":[]}]}]}
+{
+  "word": "pesak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62949",
+      "nama": "pe.sak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "secarik kain yang bentuknya seperti baji yang dijahitkan pada selangkangan celana atau depan celana (tempat kancing) atau di bawah ketiak baju",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "278252",
+      "nama": "pe.sak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "baju laki-laki khas Madura, berwarna hitam tanpa kancing, biasanya dipadukan dengan kaos belang berwarna merah putih",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

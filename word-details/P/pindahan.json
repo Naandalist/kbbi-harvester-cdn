@@ -1,1 +1,70 @@
-{"word":"pindahan","authenticated":true,"entries":[{"id":"63675","nama":"pin.dah.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil memindah(kan)","contoh":[{"nomor":2,"teks":"barang-barang di gudang itu adalah barang ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang dipindahkan","contoh":[{"nomor":2,"teks":"kita belum mengenal watak pegawai ~ dari pusat itu"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pindah tempat","contoh":[{"nomor":2,"teks":"menjelang pelantikan menteri banyak orang yang justru sibuk ~"}]}],"rootWord":"pindah¹"}]}
+{
+  "word": "pindahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63675",
+      "nama": "pin.dah.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil memindah(kan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang-barang di gudang itu adalah barang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang dipindahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita belum mengenal watak pegawai ~ dari pusat itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pindah tempat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menjelang pelantikan menteri banyak orang yang justru sibuk ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pindah¹"
+    }
+  ]
+}

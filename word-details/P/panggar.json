@@ -1,1 +1,81 @@
-{"word":"panggar","authenticated":true,"entries":[{"id":"59834","nama":"pang.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"para-para untuk tempat menjemur ikan dan sebagainya; panggau","contoh":[]}]},{"id":"113668","nama":"pang.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"kayu melintang yang dipaku atau diikat untuk menyatukan rakit","contoh":[{"nomor":2,"teks":"akibat menabrak batu, -- rakit itu patah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"kayu berbentuk bulat memanjang yang dipasang melintang pada jongkong","contoh":[{"nomor":2,"teks":"hati-hati engkau melangkah di dekat -- itu"}]}]}]}
+{
+  "word": "panggar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59834",
+      "nama": "pang.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "para-para untuk tempat menjemur ikan dan sebagainya; panggau",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "113668",
+      "nama": "pang.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu melintang yang dipaku atau diikat untuk menyatukan rakit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akibat menabrak batu, -- rakit itu patah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu berbentuk bulat memanjang yang dipasang melintang pada jongkong",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati-hati engkau melangkah di dekat -- itu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

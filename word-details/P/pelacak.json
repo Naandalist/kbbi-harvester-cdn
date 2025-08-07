@@ -1,1 +1,71 @@
-{"word":"pelacak","authenticated":true,"entries":[{"id":"45670","nama":"pe.la.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang (anjing dan sebagainya) yang melacak (mencari jejak)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"dokumen yang dikirim ke pelabuhan yang disinggahi kapal untuk mencari muatan yang tertinggal","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"pewarta yang melibatkan diri menjadi anggota khusus pemberitaan yang memerlukan penyelidikan","contoh":[]}],"rootWord":"lacak²","terkait":{"kataTurunan":[],"gabunganKata":["pelacak inframerah","pelacak kebugaran","pelacak radioaktif","pelacak wajah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pelacak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45670",
+      "nama": "pe.la.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang (anjing dan sebagainya) yang melacak (mencari jejak)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dokumen yang dikirim ke pelabuhan yang disinggahi kapal untuk mencari muatan yang tertinggal",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pewarta yang melibatkan diri menjadi anggota khusus pemberitaan yang memerlukan penyelidikan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lacak²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pelacak inframerah",
+          "pelacak kebugaran",
+          "pelacak radioaktif",
+          "pelacak wajah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

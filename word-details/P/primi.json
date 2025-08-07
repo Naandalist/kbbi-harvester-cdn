@@ -1,1 +1,44 @@
-{"word":"primi","authenticated":true,"entries":[{"id":"112351","nama":"pri.mi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"primigravida","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["primi muda","primi tua"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "primi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112351",
+      "nama": "pri.mi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "primigravida",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "primi muda",
+          "primi tua"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

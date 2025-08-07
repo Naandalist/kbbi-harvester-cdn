@@ -1,1 +1,87 @@
-{"word":"patahan","authenticated":true,"entries":[{"id":"60867","nama":"pa.tah.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang patah (putus); potongan; barang yang patah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"bidang rekahan yang disertai adanya pergeseran relatif dari satu blok batuan terhadap blok batuan lainnya","contoh":[]}],"rootWord":"patah¹","terkait":{"kataTurunan":[],"gabunganKata":["patahan Baribis","patahan batuan","patahan Cimandiri","patahan geologi","patahan geologis","patahan komposit","patahan Lembang","patahan lempeng","patahan lempengan","patahan Mentawai","patahan Semangko","patahan sesar","patahan tektonik"],"peribahasa":[],"idiom":[]}},{"id":"245626","nama":"pa.ta.han","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"menggonggong dan mengepung buruannya sampai menyerah (tentang anjing pemburu)","contoh":[]}]}]}
+{
+  "word": "patahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60867",
+      "nama": "pa.tah.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang patah (putus); potongan; barang yang patah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bidang rekahan yang disertai adanya pergeseran relatif dari satu blok batuan terhadap blok batuan lainnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "patah¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "patahan Baribis",
+          "patahan batuan",
+          "patahan Cimandiri",
+          "patahan geologi",
+          "patahan geologis",
+          "patahan komposit",
+          "patahan Lembang",
+          "patahan lempeng",
+          "patahan lempengan",
+          "patahan Mentawai",
+          "patahan Semangko",
+          "patahan sesar",
+          "patahan tektonik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "245626",
+      "nama": "pa.ta.han",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggonggong dan mengepung buruannya sampai menyerah (tentang anjing pemburu)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

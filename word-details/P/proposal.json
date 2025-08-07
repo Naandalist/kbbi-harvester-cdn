@@ -1,1 +1,42 @@
-{"word":"proposal","authenticated":true,"entries":[{"id":"65337","nama":"pro.po.sal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rencana yang dituangkan dalam bentuk rancangan kerja","contoh":[{"nomor":2,"teks":"-- proyek itu belum disetujui oleh pemimpin proyek"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["proposal akademik","proposal bisnis","proposal kenegaraan","proposal penelitian","proposal riset"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "proposal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65337",
+      "nama": "pro.po.sal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rencana yang dituangkan dalam bentuk rancangan kerja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- proyek itu belum disetujui oleh pemimpin proyek"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "proposal akademik",
+          "proposal bisnis",
+          "proposal kenegaraan",
+          "proposal penelitian",
+          "proposal riset"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

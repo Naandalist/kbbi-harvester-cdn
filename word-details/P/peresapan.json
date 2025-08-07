@@ -1,1 +1,60 @@
-{"word":"peresapan","authenticated":true,"entries":[{"id":"68985","nama":"pe.re.sap.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, perbuatan meresap(kan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat untuk meresapkan air buangan (saluran) di dalam tanah","contoh":[{"nomor":2,"teks":"dibuat ~ dekat kamar mandi"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"proses meresapnya tinta pada lembar kertas ke sisi sebaliknya pada lembar yang sama karena pengempaan serat kertas yang kurang padat","contoh":[]}],"rootWord":"resap"}]}
+{
+  "word": "peresapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68985",
+      "nama": "pe.re.sap.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, perbuatan meresap(kan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat untuk meresapkan air buangan (saluran) di dalam tanah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dibuat ~ dekat kamar mandi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "proses meresapnya tinta pada lembar kertas ke sisi sebaliknya pada lembar yang sama karena pengempaan serat kertas yang kurang padat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "resap"
+    }
+  ]
+}

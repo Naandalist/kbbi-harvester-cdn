@@ -1,1 +1,69 @@
-{"word":"pesat","authenticated":true,"entries":[{"id":"62974","nama":"pe.sat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"cepat sekali","contoh":[{"nomor":2,"teks":"meluncur dengan --"},{"nomor":4,"teks":"maju dengan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"maju (berkembang) dengan cepat","contoh":[{"nomor":2,"teks":"perusahaan yang dipimpinnya bertambah --"}]}],"etimologi":{"text":"[Jawa Kuno pěsat 'terbang (kabur); melesat ke udara']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kepesatan","memesat","memesatkan","pemesatan","terpesat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pesat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62974",
+      "nama": "pe.sat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cepat sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meluncur dengan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "maju dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maju (berkembang) dengan cepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perusahaan yang dipimpinnya bertambah --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěsat 'terbang (kabur); melesat ke udara']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kepesatan",
+          "memesat",
+          "memesatkan",
+          "pemesatan",
+          "terpesat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"word":"penentu","authenticated":true,"entries":[{"id":"84967","nama":"pe.nen.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang (sesuatu) yang menentukan","contoh":[{"nomor":2,"teks":"guru merupakan faktor ~ dalam mencapai tujuan pendidikan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"bentuk yang membatasi atau menentukan acuan nomina, misalnya kata ini, itu","contoh":[]}],"rootWord":"tentu","terkait":{"kataTurunan":[],"gabunganKata":["penentu harga","penentu keberhasilan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penentu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84967",
+      "nama": "pe.nen.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang (sesuatu) yang menentukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru merupakan faktor ~ dalam mencapai tujuan pendidikan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bentuk yang membatasi atau menentukan acuan nomina, misalnya kata ini, itu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tentu",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penentu harga",
+          "penentu keberhasilan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

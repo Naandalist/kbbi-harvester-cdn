@@ -1,1 +1,209 @@
-{"word":"pelet","authenticated":true,"entries":[{"id":"61553","nama":"pe.let","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"belang-belang pada kayu","contoh":[]}],"terkait":{"kataTurunan":["berpelet","memelet","peletan","terpelet"],"gabunganKata":["pelet pucuk tebu","pelet fekal"],"peribahasa":[],"idiom":[]}},{"id":"61554","nama":"pe.let","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"getah untuk menangkap burung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"minyak (dari ikan duyung) untuk memikat hati orang","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kata-kata manis untuk mengambil hati dan sebagainya; bujukan","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pesona","contoh":[{"nomor":2,"teks":"mereka telah terkena --"},{"nomor":4,"teks":"kena -- keindahan kota itu"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"guna-guna untuk memikat hati seseorang","contoh":[]}],"terkait":{"kataTurunan":["memelet","peletan","terpelet"],"gabunganKata":["pelet fekal"],"peribahasa":[],"idiom":[]}},{"id":"205375","nama":"pe.let","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pakan ikan yang biasanya terbuat dari tepung ikan, tepung bekicot, bungkil kelapa, dan sebagainya","contoh":[]}]},{"id":"208676","nama":"pe.let","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pakan yang dipadatkan (biasanya berbentuk silinder kecil dan berbutir-butir)","contoh":[]}]},{"id":"242172","nama":"pe.let","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"alat pembersih seperti pisau, dibuat dari logam, digunakan untuk membersihkan sisa kejai di mangkok","contoh":[]}]}]}
+{
+  "word": "pelet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61553",
+      "nama": "pe.let",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belang-belang pada kayu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpelet",
+          "memelet",
+          "peletan",
+          "terpelet"
+        ],
+        "gabunganKata": [
+          "pelet pucuk tebu",
+          "pelet fekal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61554",
+      "nama": "pe.let",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "getah untuk menangkap burung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "minyak (dari ikan duyung) untuk memikat hati orang",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata-kata manis untuk mengambil hati dan sebagainya; bujukan",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pesona",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka telah terkena --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kena -- keindahan kota itu"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "guna-guna untuk memikat hati seseorang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memelet",
+          "peletan",
+          "terpelet"
+        ],
+        "gabunganKata": [
+          "pelet fekal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "205375",
+      "nama": "pe.let",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pakan ikan yang biasanya terbuat dari tepung ikan, tepung bekicot, bungkil kelapa, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "208676",
+      "nama": "pe.let",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pakan yang dipadatkan (biasanya berbentuk silinder kecil dan berbutir-butir)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "242172",
+      "nama": "pe.let",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat pembersih seperti pisau, dibuat dari logam, digunakan untuk membersihkan sisa kejai di mangkok",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,67 @@
-{"word":"piting","authenticated":true,"entries":[{"id":"64071","nama":"pi.ting","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"apit atau jepit (dengan kaki atau lengan)","contoh":[]}],"terkait":{"kataTurunan":["memiting","piting-memiting","pitingan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"64075","nama":"pi.ting","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tampuk lampu listrik","contoh":[]}]},{"id":"64076","nama":"pi.ting","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ kepiting","contoh":[]}]}]}
+{
+  "word": "piting",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64071",
+      "nama": "pi.ting",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "apit atau jepit (dengan kaki atau lengan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memiting",
+          "piting-memiting",
+          "pitingan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "64075",
+      "nama": "pi.ting",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tampuk lampu listrik",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "64076",
+      "nama": "pi.ting",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ kepiting",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

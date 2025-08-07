@@ -1,1 +1,72 @@
-{"word":"pedar","authenticated":true,"entries":[{"id":"61194","nama":"pe.dar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"getir","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tengik (tentang rasa dan bau)","contoh":[{"nomor":2,"teks":"minyak kelapa itu sudah --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kesal hati","contoh":[{"nomor":2,"teks":"-- hati"}]}],"terkait":{"kataTurunan":["kepedaran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pedar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61194",
+      "nama": "pe.dar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "getir",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tengik (tentang rasa dan bau)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "minyak kelapa itu sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesal hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- hati"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepedaran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"pastur","authenticated":true,"entries":[{"id":"60816","nama":"pas.tur","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ pasteur","contoh":[]}]},{"id":"187949","nama":"pas.tur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"pastor","contoh":[]}]}]}
+{
+  "word": "pastur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60816",
+      "nama": "pas.tur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ pasteur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "187949",
+      "nama": "pas.tur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pastor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

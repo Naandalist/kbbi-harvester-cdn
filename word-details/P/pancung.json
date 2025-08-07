@@ -1,1 +1,97 @@
-{"word":"pancung","authenticated":true,"entries":[{"id":"59702","nama":"pan.cung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"punca (ujung, penjuru) kain dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersegi runcing","contoh":[]}],"terkait":{"kataTurunan":["memancung","pancungan","pemancung","pemancungan","terpancung"],"gabunganKata":["pancung soah","pancung alur","pancung putuih","pancung talutuak","pancung telang"],"peribahasa":["cencang air tidak putus, pancung abu tidak berbekas","pepat di luar, pancung di dalam"],"idiom":[]}},{"id":"59703","nama":"pan.cung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"penggal, potong","contoh":[]}],"terkait":{"kataTurunan":["memancung","pancungan","pemancung","pemancungan","terpancung"],"gabunganKata":["pancung alur","pancung putuih","pancung talutuak","pancung telang"],"peribahasa":["cencang air tidak putus, pancung abu tidak berbekas","pepat di luar, pancung di dalam"],"idiom":[]}}]}
+{
+  "word": "pancung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59702",
+      "nama": "pan.cung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "punca (ujung, penjuru) kain dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersegi runcing",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memancung",
+          "pancungan",
+          "pemancung",
+          "pemancungan",
+          "terpancung"
+        ],
+        "gabunganKata": [
+          "pancung soah",
+          "pancung alur",
+          "pancung putuih",
+          "pancung talutuak",
+          "pancung telang"
+        ],
+        "peribahasa": [
+          "cencang air tidak putus, pancung abu tidak berbekas",
+          "pepat di luar, pancung di dalam"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "59703",
+      "nama": "pan.cung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penggal, potong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memancung",
+          "pancungan",
+          "pemancung",
+          "pemancungan",
+          "terpancung"
+        ],
+        "gabunganKata": [
+          "pancung alur",
+          "pancung putuih",
+          "pancung talutuak",
+          "pancung telang"
+        ],
+        "peribahasa": [
+          "cencang air tidak putus, pancung abu tidak berbekas",
+          "pepat di luar, pancung di dalam"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

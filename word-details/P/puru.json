@@ -1,1 +1,84 @@
-{"word":"puru","authenticated":true,"entries":[{"id":"66109","nama":"pu.ru","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"frambusia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama bermacam-macam penyakit kulit sejenis bisul (seperti -- koci, -- jahat, -- sembilik)","contoh":[]}],"terkait":{"kataTurunan":["berpuru"],"gabunganKata":["puru ayal","puru bubuk","puru bubul","puru lembik"],"peribahasa":[],"idiom":["lalat mencari puru"]}},{"id":"152832","nama":"pu.ru","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"celana pendek","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["lalat mencari puru"]}}]}
+{
+  "word": "puru",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66109",
+      "nama": "pu.ru",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "frambusia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama bermacam-macam penyakit kulit sejenis bisul (seperti -- koci, -- jahat, -- sembilik)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpuru"
+        ],
+        "gabunganKata": [
+          "puru ayal",
+          "puru bubuk",
+          "puru bubul",
+          "puru lembik"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "lalat mencari puru"
+        ]
+      }
+    },
+    {
+      "id": "152832",
+      "nama": "pu.ru",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "celana pendek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "lalat mencari puru"
+        ]
+      }
+    }
+  ]
+}

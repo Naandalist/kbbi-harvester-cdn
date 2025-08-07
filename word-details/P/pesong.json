@@ -1,1 +1,53 @@
-{"word":"pesong","authenticated":true,"entries":[{"id":"63047","nama":"pe.song","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"serong; mencong","contoh":[{"nomor":2,"teks":"kantong kosong akibat otak --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"putar (ke kanan atau ke kiri)","contoh":[]}],"terkait":{"kataTurunan":["memesong","memesongkan","pemesong","terpesong"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pesong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63047",
+      "nama": "pe.song",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serong; mencong",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kantong kosong akibat otak --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putar (ke kanan atau ke kiri)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memesong",
+          "memesongkan",
+          "pemesong",
+          "terpesong"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

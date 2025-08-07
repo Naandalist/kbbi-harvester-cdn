@@ -1,1 +1,261 @@
-{"word":"pecah","authenticated":true,"entries":[{"id":"61108","nama":"pe.cah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbelah menjadi beberapa bagian","contoh":[{"nomor":2,"teks":"piring yang dipegangnya jatuh dan -- berkeping-keping"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"retak atau rekah (tentang kulit, tanah, dan sebagainya)","contoh":[{"nomor":2,"teks":"karena musim kemarau yang panjang, tanah persawahan banyak yang --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"rusak atau belah kulitnya (dindingnya) hingga isinya keluar (tentang telur, ban, bisul, dan sebagainya)","contoh":[{"nomor":2,"teks":"ban mobil itu -- ketika dipompa"},{"nomor":4,"teks":"bisulnya sudah -- dan nanahnya keluar"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi cair atau bergumpal-gumpal (tentang air susu, santan, dan sebagainya)","contoh":[{"nomor":2,"teks":"air susu yang -- tidak baik untuk diminum"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercerai-cerai (tidak bersatu atau tidak kompak lagi); hilang (tentang kepercayaan)","contoh":[{"nomor":2,"teks":"partai buruh -- menjadi beberapa partai"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersiar (tentang kabar, rahasia)","contoh":[{"nomor":2,"teks":"-- kabar bahwa raja akan turun takhta"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai (tentang perang, kerusuhan, dan sebagainya)","contoh":[{"nomor":2,"teks":"--lah perang antara dua negara yang bertetangga itu"},{"nomor":4,"teks":"demonstrasi yang tidak tertib itu akhirnya -- menjadi kerusuhan"}]},{"nomor":"8","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kalah (tentang perang)","contoh":[{"nomor":2,"teks":"rakyat kalang kabut sebagai negeri -- perangnya"}]},{"nomor":"9","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sember (tentang bunyi suara)","contoh":[{"nomor":2,"teks":"suaranya tidak baik didengar karena --"}]},{"nomor":"10","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bubar; usai","contoh":[{"nomor":2,"teks":"kemudian --lah segala orang yang di dalam majelis raja"}]},{"nomor":"11","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkalahkan (tentang lawan); tercipta (tentang rekor baru)","contoh":[{"nomor":2,"teks":"rekor lari 100 m --"}]}],"terkait":{"kataTurunan":["berpecah","berpecahan","kepecahan","keterpecahan","memecah","memecahkan","pecahan","pemecah","pemecahan","perpecahan","terpecah","terpecah-pecah","terpecahkan"],"gabunganKata":["pecah baunya","pecah bintang","pecah bulu","pecah degong","pecah hati","pecah kendali","pecah ketuban","pecah kongsi","pecah minyak","pecah pamor","pecah pola","pecah seribu","pecah sudut bibir","pecah telur"],"peribahasa":["bagai perian pecah","biar pecah perut, bumi merekah","di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal","di mana pinggan pecah, di sana tembikar tinggal","jika tidak pecah ruyung, di mana boleh mendapat sagu","jung pecah, yu yang kenyang","pecah anak buyung, tempayan ada","pecah buyung, tempayan ada","pecah kapi, putus suai","pecah menanti sebab, retak menanti belah","silap mata, pecah kepala","telur sesangkak, pecah satu pecah semua"],"idiom":[]}}]}
+{
+  "word": "pecah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61108",
+      "nama": "pe.cah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbelah menjadi beberapa bagian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "piring yang dipegangnya jatuh dan -- berkeping-keping"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "retak atau rekah (tentang kulit, tanah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena musim kemarau yang panjang, tanah persawahan banyak yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rusak atau belah kulitnya (dindingnya) hingga isinya keluar (tentang telur, ban, bisul, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ban mobil itu -- ketika dipompa"
+            },
+            {
+              "nomor": 4,
+              "teks": "bisulnya sudah -- dan nanahnya keluar"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi cair atau bergumpal-gumpal (tentang air susu, santan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air susu yang -- tidak baik untuk diminum"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercerai-cerai (tidak bersatu atau tidak kompak lagi); hilang (tentang kepercayaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "partai buruh -- menjadi beberapa partai"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersiar (tentang kabar, rahasia)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kabar bahwa raja akan turun takhta"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai (tentang perang, kerusuhan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--lah perang antara dua negara yang bertetangga itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "demonstrasi yang tidak tertib itu akhirnya -- menjadi kerusuhan"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kalah (tentang perang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rakyat kalang kabut sebagai negeri -- perangnya"
+            }
+          ]
+        },
+        {
+          "nomor": "9",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sember (tentang bunyi suara)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "suaranya tidak baik didengar karena --"
+            }
+          ]
+        },
+        {
+          "nomor": "10",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bubar; usai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemudian --lah segala orang yang di dalam majelis raja"
+            }
+          ]
+        },
+        {
+          "nomor": "11",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkalahkan (tentang lawan); tercipta (tentang rekor baru)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rekor lari 100 m --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpecah",
+          "berpecahan",
+          "kepecahan",
+          "keterpecahan",
+          "memecah",
+          "memecahkan",
+          "pecahan",
+          "pemecah",
+          "pemecahan",
+          "perpecahan",
+          "terpecah",
+          "terpecah-pecah",
+          "terpecahkan"
+        ],
+        "gabunganKata": [
+          "pecah baunya",
+          "pecah bintang",
+          "pecah bulu",
+          "pecah degong",
+          "pecah hati",
+          "pecah kendali",
+          "pecah ketuban",
+          "pecah kongsi",
+          "pecah minyak",
+          "pecah pamor",
+          "pecah pola",
+          "pecah seribu",
+          "pecah sudut bibir",
+          "pecah telur"
+        ],
+        "peribahasa": [
+          "bagai perian pecah",
+          "biar pecah perut, bumi merekah",
+          "di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal",
+          "di mana pinggan pecah, di sana tembikar tinggal",
+          "jika tidak pecah ruyung, di mana boleh mendapat sagu",
+          "jung pecah, yu yang kenyang",
+          "pecah anak buyung, tempayan ada",
+          "pecah buyung, tempayan ada",
+          "pecah kapi, putus suai",
+          "pecah menanti sebab, retak menanti belah",
+          "silap mata, pecah kepala",
+          "telur sesangkak, pecah satu pecah semua"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

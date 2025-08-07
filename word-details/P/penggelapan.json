@@ -1,1 +1,63 @@
-{"word":"penggelapan","authenticated":true,"entries":[{"id":"25252","nama":"peng.ge.lap.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan menggelapkan","contoh":[{"nomor":2,"teks":"~ di kota itu terpaksa dilakukan untuk menjaga keamanan kota"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"penyelewengan; korupsi","contoh":[{"nomor":2,"teks":"kasus ~ uang di instansi itu sedang diteliti"}]}],"rootWord":"gelap","terkait":{"kataTurunan":[],"gabunganKata":["penggelapan asuransi","penggelapan pajak","penggelapan pajak perusahaan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penggelapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25252",
+      "nama": "peng.ge.lap.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan menggelapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ di kota itu terpaksa dilakukan untuk menjaga keamanan kota"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyelewengan; korupsi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kasus ~ uang di instansi itu sedang diteliti"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gelap",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penggelapan asuransi",
+          "penggelapan pajak",
+          "penggelapan pajak perusahaan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

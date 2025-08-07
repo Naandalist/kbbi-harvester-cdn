@@ -1,1 +1,76 @@
-{"word":"pair","authenticated":true,"entries":[{"id":"59099","nama":"pa.ir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perahu peronda","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kapal penjelajah","contoh":[]}],"terkait":{"kataTurunan":["berpair-pair","memairi","pemair"],"gabunganKata":["pair jantung"],"peribahasa":[],"idiom":[]}},{"id":"59103","nama":"pa.ir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal tidak berfungsi sebagaimana harusnya; payah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pair jantung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pair",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59099",
+      "nama": "pa.ir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perahu peronda",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kapal penjelajah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpair-pair",
+          "memairi",
+          "pemair"
+        ],
+        "gabunganKata": [
+          "pair jantung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "59103",
+      "nama": "pa.ir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal tidak berfungsi sebagaimana harusnya; payah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pair jantung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

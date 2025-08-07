@@ -1,1 +1,139 @@
-{"word":"padam","authenticated":true,"entries":[{"id":"58809","nama":"pa.dam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mati (tentang api); tidak menyala atau tidak berkobar lagi","contoh":[{"nomor":2,"teks":"api kebakaran itu sudah --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"reda (tentang kemarahan); tenang kembali (tentang hawa nafsu, berahi, dan sebagainya)","contoh":[{"nomor":2,"teks":"seketika itu juga --lah murka baginda"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"aman kembali (tentang huru-hara, kerusuhan, dan sebagainya)","contoh":[{"nomor":2,"teks":"pergolakan di negara itu belum juga --"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menjadi lemah (tentang semangat)","contoh":[{"nomor":2,"teks":"semangat juang mereka tidak pernah --"}]}],"etimologi":{"text":"[Sanskerta पद्म padma n mnet 'warna atau corak bunga teratai']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kepadaman","memadami","memadamkan","mempadamkan","pemadam","pemadaman"],"gabunganKata":["padam puntung"],"peribahasa":["api kecil baik padam","api padam, puntung berasap","api padam, puntung hanyut","di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal","di mana lalang habis, di situ api padam"],"idiom":[]}},{"id":"58817","nama":"pa.dam","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat merah1","contoh":[]}],"etimologi":{"text":"[Sanskerta पद्म padma n mnet 'warna atau corak bunga teratai']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["api kecil baik padam","api padam, puntung berasap","api padam, puntung hanyut","di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal","di mana lalang habis, di situ api padam"],"idiom":[]}}]}
+{
+  "word": "padam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58809",
+      "nama": "pa.dam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mati (tentang api); tidak menyala atau tidak berkobar lagi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "api kebakaran itu sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "reda (tentang kemarahan); tenang kembali (tentang hawa nafsu, berahi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seketika itu juga --lah murka baginda"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "aman kembali (tentang huru-hara, kerusuhan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pergolakan di negara itu belum juga --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi lemah (tentang semangat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semangat juang mereka tidak pernah --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पद्म padma n mnet 'warna atau corak bunga teratai']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kepadaman",
+          "memadami",
+          "memadamkan",
+          "mempadamkan",
+          "pemadam",
+          "pemadaman"
+        ],
+        "gabunganKata": [
+          "padam puntung"
+        ],
+        "peribahasa": [
+          "api kecil baik padam",
+          "api padam, puntung berasap",
+          "api padam, puntung hanyut",
+          "di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal",
+          "di mana lalang habis, di situ api padam"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "58817",
+      "nama": "pa.dam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat merah1",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पद्म padma n mnet 'warna atau corak bunga teratai']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "api kecil baik padam",
+          "api padam, puntung berasap",
+          "api padam, puntung hanyut",
+          "di mana api padam, di situlah puntung tercampakkan, di mana periuk pecah, di situlah tembikar tinggal",
+          "di mana lalang habis, di situ api padam"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

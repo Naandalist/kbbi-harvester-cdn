@@ -1,1 +1,85 @@
-{"word":"pahat","authenticated":true,"entries":[{"id":"59052","nama":"pa.hat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat (perkakas) bertukang berupa bilah besi yang tajam pada ujungnya untuk melubangi atau mengukir kayu (ada bermacam-macam, seperti -- bulat, -- jantan, -- ketam, -- kuku)","contoh":[]}],"terkait":{"kataTurunan":["berpahat","berpahatkan","memahat","memahatkan","pahatan","pemahat","pemahatan"],"gabunganKata":["pahat jantan","pahat lubang","pahat makaroni","pahat pating","pahat serong","pahat siku-siku","pahat jet"],"peribahasa":["bagai pahat, tidak ditukul, tidak makan","hilang tukul, hilanglah pahat"],"idiom":[]}},{"id":"59067","nama":"pa.hat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pet","nama":"Petrologi dan Migas","tipe":"lainnya"}],"definisi":"bagian alat bor, biasanya terbuat dari baja paling keras dengan dua atau tiga pancang tirus dan gerigi tajam untuk memotong batuan atau membuat lubang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pahat jet"],"peribahasa":["bagai pahat, tidak ditukul, tidak makan","hilang tukul, hilanglah pahat"],"idiom":[]}}]}
+{
+  "word": "pahat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59052",
+      "nama": "pa.hat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat (perkakas) bertukang berupa bilah besi yang tajam pada ujungnya untuk melubangi atau mengukir kayu (ada bermacam-macam, seperti -- bulat, -- jantan, -- ketam, -- kuku)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpahat",
+          "berpahatkan",
+          "memahat",
+          "memahatkan",
+          "pahatan",
+          "pemahat",
+          "pemahatan"
+        ],
+        "gabunganKata": [
+          "pahat jantan",
+          "pahat lubang",
+          "pahat makaroni",
+          "pahat pating",
+          "pahat serong",
+          "pahat siku-siku",
+          "pahat jet"
+        ],
+        "peribahasa": [
+          "bagai pahat, tidak ditukul, tidak makan",
+          "hilang tukul, hilanglah pahat"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "59067",
+      "nama": "pa.hat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pet",
+              "nama": "Petrologi dan Migas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian alat bor, biasanya terbuat dari baja paling keras dengan dua atau tiga pancang tirus dan gerigi tajam untuk memotong batuan atau membuat lubang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pahat jet"
+        ],
+        "peribahasa": [
+          "bagai pahat, tidak ditukul, tidak makan",
+          "hilang tukul, hilanglah pahat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

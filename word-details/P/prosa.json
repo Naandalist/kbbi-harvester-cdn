@@ -1,1 +1,48 @@
-{"word":"prosa","authenticated":true,"entries":[{"id":"65342","nama":"pro.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"karangan bebas (tidak terikat oleh kaidah yang terdapat dalam puisi)","contoh":[]}],"terkait":{"kataTurunan":["memprosakan"],"gabunganKata":["prosa berirama","prosa didaktis","prosa eksposisi","prosa fiksi","prosa lirik","prosa liris","prosa naratif","prosa nonfiksi","prosa puitik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "prosa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65342",
+      "nama": "pro.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "karangan bebas (tidak terikat oleh kaidah yang terdapat dalam puisi)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memprosakan"
+        ],
+        "gabunganKata": [
+          "prosa berirama",
+          "prosa didaktis",
+          "prosa eksposisi",
+          "prosa fiksi",
+          "prosa lirik",
+          "prosa liris",
+          "prosa naratif",
+          "prosa nonfiksi",
+          "prosa puitik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

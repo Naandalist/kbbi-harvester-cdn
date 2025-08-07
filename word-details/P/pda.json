@@ -1,1 +1,64 @@
-{"word":"pda","authenticated":true,"entries":[{"id":"96183","nama":"PDA","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mil","nama":"Kemiliteran","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"perpanjangan dinas aktif","contoh":[]}]},{"id":"287432","nama":"PDA","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ars","nama":"Arsitektur","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Pusat Dokumentasi Arsitektur","contoh":[]}]}]}
+{
+  "word": "pda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96183",
+      "nama": "PDA",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mil",
+              "nama": "Kemiliteran",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perpanjangan dinas aktif",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "287432",
+      "nama": "PDA",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ars",
+              "nama": "Arsitektur",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Pusat Dokumentasi Arsitektur",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

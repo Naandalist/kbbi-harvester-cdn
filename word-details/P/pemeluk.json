@@ -1,1 +1,57 @@
-{"word":"pemeluk","authenticated":true,"entries":[{"id":"61661","nama":"pe.me.luk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memeluk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"penganut ajaran","contoh":[{"nomor":2,"teks":"~ agama"}]}],"rootWord":"peluk¹","terkait":{"kataTurunan":[],"gabunganKata":["pemeluk dunia","pemeluk lutut"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pemeluk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61661",
+      "nama": "pe.me.luk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memeluk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penganut ajaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ agama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "peluk¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pemeluk dunia",
+          "pemeluk lutut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

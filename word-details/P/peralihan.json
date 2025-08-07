@@ -1,1 +1,60 @@
-{"word":"peralihan","authenticated":true,"entries":[{"id":"2376","nama":"per.a.lih.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pergantian; perlintasan (dari keadaan yang satu pada keadaan yang lain)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pertukaran","contoh":[{"nomor":2,"teks":"pada saat itu di negara kita terjadi ~ pemerintahan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"perubahan bentuk atau raut luar","contoh":[]}],"rootWord":"alih¹"}]}
+{
+  "word": "peralihan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2376",
+      "nama": "per.a.lih.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pergantian; perlintasan (dari keadaan yang satu pada keadaan yang lain)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertukaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada saat itu di negara kita terjadi ~ pemerintahan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perubahan bentuk atau raut luar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "alih¹"
+    }
+  ]
+}

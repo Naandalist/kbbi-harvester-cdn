@@ -1,1 +1,53 @@
-{"word":"peruncing","authenticated":true,"entries":[{"id":"149949","nama":"pe.run.cing","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk meruncingkan pensil; rautan","contoh":[{"nomor":2,"teks":"ia menajamkan pensilnya dengan ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu yang menjadikan lebih gawat, genting, atau rumit (tentang keadaan, perselisihan, dan sebagainya)","contoh":[{"nomor":2,"teks":"perkataanmu itu hanya akan menjadi ~ konflik"}]}],"rootWord":"runcing"}]}
+{
+  "word": "peruncing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "149949",
+      "nama": "pe.run.cing",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk meruncingkan pensil; rautan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menajamkan pensilnya dengan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang menjadikan lebih gawat, genting, atau rumit (tentang keadaan, perselisihan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkataanmu itu hanya akan menjadi ~ konflik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "runcing"
+    }
+  ]
+}

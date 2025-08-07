@@ -1,1 +1,98 @@
-{"word":"pergi","authenticated":true,"entries":[{"id":"62462","nama":"per.gi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berjalan (bergerak) maju","contoh":[{"nomor":2,"teks":"ia -- ke kamar mandi"},{"nomor":4,"teks":"ia -- ke pasar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meninggalkan (suatu tempat)","contoh":[{"nomor":2,"teks":"ia sudah -- dari sini"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berangkat","contoh":[{"nomor":2,"teks":"setelah mengunci pintu rumah, dia -- ke tempat kerjanya"},{"nomor":4,"teks":"pukul lima pagi ia -- ke stasiun"}]}],"terkait":{"kataTurunan":["bepergian","kepergian","memergikan","sepergi"],"gabunganKata":["pergi datang","pergi haji"],"peribahasa":["anjing walau dirantai emas pergi juga ke tempat najis","bagai belacan dikerat dua yang pergi bau busuk yang tinggal anyir","bagai si kudung pergi berbelut","datang seperti ribut, pergi seperti angin","datang seperti ribut, pergi seperti semut","kucing pergi, tikus menari","kundur tidak melata pergi, labu tidak melata mari","pergi berempap, pulang eban","pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai)"],"idiom":["pergi ke alam baka"]}}]}
+{
+  "word": "pergi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62462",
+      "nama": "per.gi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjalan (bergerak) maju",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- ke kamar mandi"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia -- ke pasar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meninggalkan (suatu tempat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah -- dari sini"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berangkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah mengunci pintu rumah, dia -- ke tempat kerjanya"
+            },
+            {
+              "nomor": 4,
+              "teks": "pukul lima pagi ia -- ke stasiun"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bepergian",
+          "kepergian",
+          "memergikan",
+          "sepergi"
+        ],
+        "gabunganKata": [
+          "pergi datang",
+          "pergi haji"
+        ],
+        "peribahasa": [
+          "anjing walau dirantai emas pergi juga ke tempat najis",
+          "bagai belacan dikerat dua yang pergi bau busuk yang tinggal anyir",
+          "bagai si kudung pergi berbelut",
+          "datang seperti ribut, pergi seperti angin",
+          "datang seperti ribut, pergi seperti semut",
+          "kucing pergi, tikus menari",
+          "kundur tidak melata pergi, labu tidak melata mari",
+          "pergi berempap, pulang eban",
+          "pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai)"
+        ],
+        "idiom": [
+          "pergi ke alam baka"
+        ]
+      }
+    }
+  ]
+}

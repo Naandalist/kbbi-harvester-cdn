@@ -1,1 +1,65 @@
-{"word":"persegi","authenticated":true,"entries":[{"id":"73237","nama":"per.se.gi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"segi empat sama sisi; bujur sangkar; kuadratus","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersegi","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kuadrat","contoh":[{"nomor":2,"teks":"enam meter ~ (6 m²)"}]}],"rootWord":"segi","terkait":{"kataTurunan":[],"gabunganKata":["persegi panjang"],"peribahasa":["betung bulat tak persegi pipit jantan tak bersarang"],"idiom":[]}}]}
+{
+  "word": "persegi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73237",
+      "nama": "per.se.gi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segi empat sama sisi; bujur sangkar; kuadratus",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersegi",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kuadrat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "enam meter ~ (6 m²)"
+            }
+          ]
+        }
+      ],
+      "rootWord": "segi",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "persegi panjang"
+        ],
+        "peribahasa": [
+          "betung bulat tak persegi pipit jantan tak bersarang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

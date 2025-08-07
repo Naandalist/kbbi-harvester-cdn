@@ -1,1 +1,98 @@
-{"word":"pautan","authenticated":true,"entries":[{"id":"61024","nama":"pa.ut.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil memaut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiang dan sebagainya tempat menambatkan lembu dan sebagainya; tempat mengikat ayam dan sebagainya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tempat asal","contoh":[]}],"rootWord":"paut¹","terkait":{"kataTurunan":[],"gabunganKata":["pautan hati"],"peribahasa":["seperti ayam pulang ke pautan"],"idiom":[]}},{"id":"61035","nama":"pa.ut.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"beda; selisih","contoh":[{"nomor":2,"teks":"barang impor dan barang buatan dalam negeri ~ harganya tidak seberapa"}]}],"rootWord":"paut²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti ayam pulang ke pautan"],"idiom":[]}}]}
+{
+  "word": "pautan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61024",
+      "nama": "pa.ut.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil memaut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiang dan sebagainya tempat menambatkan lembu dan sebagainya; tempat mengikat ayam dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat asal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "paut¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pautan hati"
+        ],
+        "peribahasa": [
+          "seperti ayam pulang ke pautan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61035",
+      "nama": "pa.ut.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beda; selisih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang impor dan barang buatan dalam negeri ~ harganya tidak seberapa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "paut²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti ayam pulang ke pautan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

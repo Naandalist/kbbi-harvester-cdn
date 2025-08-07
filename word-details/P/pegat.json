@@ -1,1 +1,75 @@
-{"word":"pegat","authenticated":true,"entries":[{"id":"61293","nama":"pe.gat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"putus","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pěgat 'putus, (ter)potong; selesai, tamat, sempurna']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["memegat","pemegatan"],"gabunganKata":["pegat waja"],"peribahasa":[],"idiom":[]}},{"id":"61296","nama":"pe.gat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tahan; adang","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pěgat 'putus, (ter)potong; selesai, tamat, sempurna']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["memegat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pegat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61293",
+      "nama": "pe.gat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putus",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěgat 'putus, (ter)potong; selesai, tamat, sempurna']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "memegat",
+          "pemegatan"
+        ],
+        "gabunganKata": [
+          "pegat waja"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61296",
+      "nama": "pe.gat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tahan; adang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěgat 'putus, (ter)potong; selesai, tamat, sempurna']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "memegat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

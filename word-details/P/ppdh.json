@@ -1,1 +1,35 @@
-{"word":"ppdh","authenticated":true,"entries":[{"id":"169569","nama":"PPDH","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"perkiraan pencairan dana harian","contoh":[]}]}]}
+{
+  "word": "ppdh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "169569",
+      "nama": "PPDH",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkiraan pencairan dana harian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

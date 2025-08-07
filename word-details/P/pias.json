@@ -1,1 +1,94 @@
-{"word":"pias","authenticated":true,"entries":[{"id":"63317","nama":"pi.as","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lajur tikar pandan yang mendatar dijahit menjadi layar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lajur; jalur","contoh":[{"nomor":2,"teks":"permukaan bumi terbagi atas 24 -- membujur dari utara ke selatan, besar setiap -- 15 derajat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"bagian di keempat pinggiran halaman yang kosong tidak dicetak (atas, muka, bawah, dan belakang)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pias atas","pias tekanan tinggi subtropik","pias tengah","pias termal"],"peribahasa":[],"idiom":[]}},{"id":"162195","nama":"pi.as","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pucat (tentang raut muka)","contoh":[{"nomor":2,"teks":"wajahnya -- tatkala mendengar kabar kematian ayahnya"}]}]}]}
+{
+  "word": "pias",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63317",
+      "nama": "pi.as",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lajur tikar pandan yang mendatar dijahit menjadi layar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lajur; jalur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "permukaan bumi terbagi atas 24 -- membujur dari utara ke selatan, besar setiap -- 15 derajat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian di keempat pinggiran halaman yang kosong tidak dicetak (atas, muka, bawah, dan belakang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pias atas",
+          "pias tekanan tinggi subtropik",
+          "pias tengah",
+          "pias termal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "162195",
+      "nama": "pi.as",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pucat (tentang raut muka)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wajahnya -- tatkala mendengar kabar kematian ayahnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

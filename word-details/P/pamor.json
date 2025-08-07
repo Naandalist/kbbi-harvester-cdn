@@ -1,1 +1,99 @@
-{"word":"pamor","authenticated":true,"entries":[{"id":"59540","nama":"pa.mor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baja putih yang disepuhkan pada bilah keris","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lukisan pada bilah keris, yang dibuat dari baja putih","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"seri; semarak (keindahan, kemuliaan, dan sebagainya); perbawa","contoh":[{"nomor":2,"teks":"sekalipun tidak berkuasa lagi, ia belum kehilangan --"}]}],"terkait":{"kataTurunan":["berpamor","kepamoran"],"gabunganKata":["pamor adeg","pamor mlumah","pamor tiban","pamor titipan","pamor wengkon","pamor wos wutah"],"peribahasa":[],"idiom":[]}},{"id":"278000","nama":"pa.mor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kapur yang dipakai untuk menandai penduduk dan bangunan rumah pada upacara praswalagara","contoh":[]}]}]}
+{
+  "word": "pamor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59540",
+      "nama": "pa.mor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baja putih yang disepuhkan pada bilah keris",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lukisan pada bilah keris, yang dibuat dari baja putih",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seri; semarak (keindahan, kemuliaan, dan sebagainya); perbawa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekalipun tidak berkuasa lagi, ia belum kehilangan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpamor",
+          "kepamoran"
+        ],
+        "gabunganKata": [
+          "pamor adeg",
+          "pamor mlumah",
+          "pamor tiban",
+          "pamor titipan",
+          "pamor wengkon",
+          "pamor wos wutah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278000",
+      "nama": "pa.mor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kapur yang dipakai untuk menandai penduduk dan bangunan rumah pada upacara praswalagara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"pensi","authenticated":true,"entries":[{"id":"61968","nama":"pen.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"lokan kecil yang hidup di danau-danau dan dagingnya dapat dimakan","contoh":[]}]},{"id":"109898","nama":"pen.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"pentas seni","contoh":[]}]}]}
+{
+  "word": "pensi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61968",
+      "nama": "pen.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lokan kecil yang hidup di danau-danau dan dagingnya dapat dimakan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "109898",
+      "nama": "pen.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pentas seni",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

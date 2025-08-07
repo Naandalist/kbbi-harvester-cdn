@@ -1,1 +1,43 @@
-{"word":"peruraian","authenticated":true,"entries":[{"id":"89981","nama":"per.u.rai.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal berurai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"perceraian unsur-unsur persenyawaan","contoh":[]}],"rootWord":"urai"}]}
+{
+  "word": "peruraian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89981",
+      "nama": "per.u.rai.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal berurai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perceraian unsur-unsur persenyawaan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "urai"
+    }
+  ]
+}

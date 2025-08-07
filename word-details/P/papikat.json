@@ -1,1 +1,64 @@
-{"word":"papikat","authenticated":true,"entries":[{"id":"60262","nama":"pa.pi.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"uang pemikat yang disimpan dalam pundi-pundi atau tempat uang lainnya","contoh":[]}]},{"id":"210652","nama":"pa.pi.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"orang tua yang selalu ada di rumah dan tidak dapat bekerja apa-apa lagi","contoh":[{"nomor":2,"teks":"beliau itulah -- kami di rumah ini"}]}]}]}
+{
+  "word": "papikat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60262",
+      "nama": "pa.pi.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "uang pemikat yang disimpan dalam pundi-pundi atau tempat uang lainnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "210652",
+      "nama": "pa.pi.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang tua yang selalu ada di rumah dan tidak dapat bekerja apa-apa lagi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beliau itulah -- kami di rumah ini"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

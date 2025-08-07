@@ -1,1 +1,65 @@
-{"word":"pemasaran","authenticated":true,"entries":[{"id":"60701","nama":"pe.ma.sar.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan memasarkan suatu barang dagangan","contoh":[{"nomor":2,"teks":"jika transportasi kurang lancar, ~ hasil bumi penduduk akan sulit"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal menyebarluaskan ke tengah-tengah masyarakat","contoh":[{"nomor":2,"teks":"~ olahraga sehat ke tengah-tengah masyarakat mendapat dukungan sepenuhnya dari pemerintah"}]}],"rootWord":"pasar¹","terkait":{"kataTurunan":[],"gabunganKata":["pemasaran berbasis data","pemasaran berjejaring","pemasaran digital","pemasaran gerilya","pemasaran halus","pemasaran hijau","pemasaran jarak jauh","pemasaran media sosial","pemasaran otomatis","pemasaran viral"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pemasaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60701",
+      "nama": "pe.ma.sar.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan memasarkan suatu barang dagangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika transportasi kurang lancar, ~ hasil bumi penduduk akan sulit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal menyebarluaskan ke tengah-tengah masyarakat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ olahraga sehat ke tengah-tengah masyarakat mendapat dukungan sepenuhnya dari pemerintah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pasar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pemasaran berbasis data",
+          "pemasaran berjejaring",
+          "pemasaran digital",
+          "pemasaran gerilya",
+          "pemasaran halus",
+          "pemasaran hijau",
+          "pemasaran jarak jauh",
+          "pemasaran media sosial",
+          "pemasaran otomatis",
+          "pemasaran viral"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

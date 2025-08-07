@@ -1,1 +1,36 @@
-{"word":"pengurang","authenticated":true,"entries":[{"id":"45224","nama":"pe.ngu.rang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"bilangan yang digunakan untuk mengurangi","contoh":[{"nomor":2,"teks":"kalau angka ~nya lebih besar, hasilnya negatif"}]}],"rootWord":"kurang"}]}
+{
+  "word": "pengurang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45224",
+      "nama": "pe.ngu.rang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bilangan yang digunakan untuk mengurangi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau angka ~nya lebih besar, hasilnya negatif"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kurang"
+    }
+  ]
+}

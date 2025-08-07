@@ -1,1 +1,81 @@
-{"word":"pilus","authenticated":true,"entries":[{"id":"63591","nama":"pi.lus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penganan yang digoreng, dibuat dari tepung beras dan gula, berbentuk bulat panjang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pilus seks"],"peribahasa":[],"idiom":[]}},{"id":"63592","nama":"pi.lus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Met","nama":"Meteorologi","tipe":"lainnya"}],"definisi":"awan tambahan berbentuk tudung, biasanya terdapat di puncak awan kumulus atau kumulonimbus","contoh":[]}]},{"id":"292799","nama":"pi.lus","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bakt","nama":"-","tipe":"lainnya"}],"definisi":"struktur seperti rambut yang terdapat pada permukaan sel bakteri, terutama bakteri gram negatif","contoh":[]}]}]}
+{
+  "word": "pilus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63591",
+      "nama": "pi.lus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penganan yang digoreng, dibuat dari tepung beras dan gula, berbentuk bulat panjang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pilus seks"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "63592",
+      "nama": "pi.lus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Met",
+              "nama": "Meteorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "awan tambahan berbentuk tudung, biasanya terdapat di puncak awan kumulus atau kumulonimbus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "292799",
+      "nama": "pi.lus",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bakt",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "struktur seperti rambut yang terdapat pada permukaan sel bakteri, terutama bakteri gram negatif",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

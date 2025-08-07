@@ -1,1 +1,43 @@
-{"word":"penghemat","authenticated":true,"entries":[{"id":"29158","nama":"peng.he.mat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menghemat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang hemat","contoh":[{"nomor":2,"teks":"adiknya lebih boros jika dibandingkan dengan kakaknya yang ~"}]}],"rootWord":"hemat¹"}]}
+{
+  "word": "penghemat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29158",
+      "nama": "peng.he.mat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menghemat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang hemat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adiknya lebih boros jika dibandingkan dengan kakaknya yang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hemat¹"
+    }
+  ]
+}

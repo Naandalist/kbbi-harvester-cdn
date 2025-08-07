@@ -1,1 +1,57 @@
-{"word":"pembersihan","authenticated":true,"entries":[{"id":"10816","nama":"pem.ber.sih.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan membersihkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"penangkapan; penghancuran","contoh":[{"nomor":2,"teks":"tentara sedang melakukan gerakan ~"}]}],"rootWord":"bersih","terkait":{"kataTurunan":[],"gabunganKata":["pembersihan etnik","pembersihan etnis"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pembersihan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10816",
+      "nama": "pem.ber.sih.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan membersihkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penangkapan; penghancuran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tentara sedang melakukan gerakan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bersih",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pembersihan etnik",
+          "pembersihan etnis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

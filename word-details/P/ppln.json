@@ -1,1 +1,59 @@
-{"word":"ppln","authenticated":true,"entries":[{"id":"199595","nama":"PPLN","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pelaku perjalanan luar negeri","contoh":[]}]},{"id":"222819","nama":"PPLN","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pol","nama":"Politik dan Pemerintahan","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"panitia pemilihan luar negeri","contoh":[]}]}]}
+{
+  "word": "ppln",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "199595",
+      "nama": "PPLN",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pelaku perjalanan luar negeri",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "222819",
+      "nama": "PPLN",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pol",
+              "nama": "Politik dan Pemerintahan",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panitia pemilihan luar negeri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

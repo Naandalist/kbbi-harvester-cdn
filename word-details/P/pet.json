@@ -1,1 +1,42 @@
-{"word":"pet","authenticated":true,"entries":[{"id":"63074","nama":"pet","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"topi (songkok) yang bagian depannya memakai tutup","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"busa agak tebal yang dijahit di bagian depan kerudung agar terlihat tegak","contoh":[{"nomor":2,"teks":"kini marak model kerudung dengan --"}]}]}]}
+{
+  "word": "pet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63074",
+      "nama": "pet",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "topi (songkok) yang bagian depannya memakai tutup",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "busa agak tebal yang dijahit di bagian depan kerudung agar terlihat tegak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kini marak model kerudung dengan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

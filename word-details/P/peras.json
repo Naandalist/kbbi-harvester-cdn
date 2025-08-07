@@ -1,1 +1,97 @@
-{"word":"peras","authenticated":true,"entries":[{"id":"62326","nama":"pe.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memeras","contoh":[]}],"terkait":{"kataTurunan":["memeras","pemeras","pemerasan","perasan","terperas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"62334","nama":"pe.ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"licin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"rata; paras","contoh":[]}]},{"id":"62335","nama":"pe.ras","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesajian dari pertunjukan tari seblang, berupa anyaman daun kelapa atau bambu, berisi kelapa yang dikupas sampai batoknya, dihiasi dengan benang lawe dan gula jawa","contoh":[]}]}]}
+{
+  "word": "peras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62326",
+      "nama": "pe.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeras",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memeras",
+          "pemeras",
+          "pemerasan",
+          "perasan",
+          "terperas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "62334",
+      "nama": "pe.ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "licin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rata; paras",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "62335",
+      "nama": "pe.ras",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesajian dari pertunjukan tari seblang, berupa anyaman daun kelapa atau bambu, berisi kelapa yang dikupas sampai batoknya, dihiasi dengan benang lawe dan gula jawa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

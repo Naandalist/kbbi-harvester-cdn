@@ -1,1 +1,57 @@
-{"word":"peluit","authenticated":true,"entries":[{"id":"61655","nama":"pe.lu.it","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat yang dapat menghasilkan bunyi apabila ditiup; sempritan","contoh":[{"nomor":2,"teks":"wasit meniup -- panjang sebagai tanda pertandingan telah usai"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sirene","contoh":[]}],"terkait":{"kataTurunan":["berpeluit"],"gabunganKata":["peluit bahaya","peluit uap","peluit ultrasonik"],"peribahasa":[],"idiom":["meniup peluit panjang","peluit akhir"]}}]}
+{
+  "word": "peluit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61655",
+      "nama": "pe.lu.it",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat yang dapat menghasilkan bunyi apabila ditiup; sempritan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wasit meniup -- panjang sebagai tanda pertandingan telah usai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sirene",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpeluit"
+        ],
+        "gabunganKata": [
+          "peluit bahaya",
+          "peluit uap",
+          "peluit ultrasonik"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "meniup peluit panjang",
+          "peluit akhir"
+        ]
+      }
+    }
+  ]
+}

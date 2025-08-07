@@ -1,1 +1,43 @@
-{"word":"pemutakhir","authenticated":true,"entries":[{"id":"56007","nama":"pe.mu.ta.khir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memutakhirkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"program komputer yang secara otomatis memutakhirkan program","contoh":[]}],"rootWord":"mutakhir"}]}
+{
+  "word": "pemutakhir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56007",
+      "nama": "pe.mu.ta.khir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memutakhirkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "program komputer yang secara otomatis memutakhirkan program",
+          "contoh": []
+        }
+      ],
+      "rootWord": "mutakhir"
+    }
+  ]
+}

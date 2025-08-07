@@ -1,1 +1,131 @@
-{"word":"pancer","authenticated":true,"entries":[{"id":"179564","nama":"pan.cer","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tanda atau ciri batas tanah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"bambu panjang yang dimasukkan ke dalam bambu-bambu lain supaya kuat","contoh":[]}]},{"id":"216455","nama":"pan.cer","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada tertentu untuk mengisi sabetan dalam gatra yang kosong tidak berisi nada","contoh":[]}]},{"id":"228618","nama":"pan.cer","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pusat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"orang yang berada di tengah lingkaran dalam permainan jamuran, bertugas menyebutkan nama jamur yang bentuknya akan ditiru oleh pemain lain","contoh":[]}]},{"id":"233184","nama":"pan.cer","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"alat kemudi kapal","contoh":[]}]}]}
+{
+  "word": "pancer",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "179564",
+      "nama": "pan.cer",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tanda atau ciri batas tanah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bambu panjang yang dimasukkan ke dalam bambu-bambu lain supaya kuat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "216455",
+      "nama": "pan.cer",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada tertentu untuk mengisi sabetan dalam gatra yang kosong tidak berisi nada",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "228618",
+      "nama": "pan.cer",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pusat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "orang yang berada di tengah lingkaran dalam permainan jamuran, bertugas menyebutkan nama jamur yang bentuknya akan ditiru oleh pemain lain",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "233184",
+      "nama": "pan.cer",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat kemudi kapal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

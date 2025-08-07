@@ -1,1 +1,54 @@
-{"word":"pisit","authenticated":true,"entries":[{"id":"64021","nama":"pi.sit","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ pisik","contoh":[]}],"terkait":{"kataTurunan":["memisit"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"64022","nama":"pi.sit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pijit; tekan","contoh":[]}],"terkait":{"kataTurunan":["memisit"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pisit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64021",
+      "nama": "pi.sit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ pisik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memisit"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "64022",
+      "nama": "pi.sit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pijit; tekan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memisit"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"word":"pengatur","authenticated":true,"entries":[{"id":"5901","nama":"peng.a.tur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang (badan dan sebagainya) yang mengatur; alat untuk mengatur","contoh":[{"nomor":2,"teks":"persimpangan jalan yang ramai dilengkapi dengan lampu ~ lalu lintas"}]}],"rootWord":"atur¹","terkait":{"kataTurunan":[],"gabunganKata":["pengatur balas","pengatur iklim","pengatur serangan","pengatur muda","pengatur muda tingkat satu","pengatur tingkat satu"],"peribahasa":[],"idiom":[]}},{"id":"5916","nama":"peng.a.tur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pangkat struktural pegawai negeri sipil golongan II/c, satu tingkat di bawah pengatur tingkat satu, satu tingkat di atas pengatur muda tingkat satu","contoh":[]}],"rootWord":"atur²","terkait":{"kataTurunan":[],"gabunganKata":["pengatur muda","pengatur muda tingkat satu","pengatur tingkat satu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pengatur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5901",
+      "nama": "peng.a.tur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang (badan dan sebagainya) yang mengatur; alat untuk mengatur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persimpangan jalan yang ramai dilengkapi dengan lampu ~ lalu lintas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "atur¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pengatur balas",
+          "pengatur iklim",
+          "pengatur serangan",
+          "pengatur muda",
+          "pengatur muda tingkat satu",
+          "pengatur tingkat satu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "5916",
+      "nama": "peng.a.tur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pangkat struktural pegawai negeri sipil golongan II/c, satu tingkat di bawah pengatur tingkat satu, satu tingkat di atas pengatur muda tingkat satu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "atur²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pengatur muda",
+          "pengatur muda tingkat satu",
+          "pengatur tingkat satu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

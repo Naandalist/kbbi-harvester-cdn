@@ -1,1 +1,67 @@
-{"word":"predikat","authenticated":true,"entries":[{"id":"65024","nama":"pre.di.kat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"bagian kalimat yang menandai apa yang dikatakan oleh pembicara tentang subjek; sebutan (dalam kalimat)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama, gelar kehormatan, dan sebagainya (yang dikenakan pada)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jenjang penilaian (dalam ujian dan sebagainya) yang dinyatakan secara kualitatif","contoh":[{"nomor":2,"teks":"dia lulus dengan -- sangat memuaskan"}]}],"terkait":{"kataTurunan":["berpredikat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "predikat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65024",
+      "nama": "pre.di.kat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bagian kalimat yang menandai apa yang dikatakan oleh pembicara tentang subjek; sebutan (dalam kalimat)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama, gelar kehormatan, dan sebagainya (yang dikenakan pada)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jenjang penilaian (dalam ujian dan sebagainya) yang dinyatakan secara kualitatif",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia lulus dengan -- sangat memuaskan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpredikat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

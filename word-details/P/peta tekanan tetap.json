@@ -1,1 +1,50 @@
-{"word":"peta tekanan tetap","authenticated":true,"entries":[{"id":"63113","nama":"peta tekanan tetap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"Met","nama":"Meteorologi","tipe":"lainnya"}],"definisi":"peta cuaca yang memuat gambar kontur dari permukaan isobar tertentu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Met","nama":"Meteorologi","tipe":"lainnya"}],"definisi":"peta yang memuat penyebaran nilai unsur cuaca pada permukaan tekanan yang sama","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"Hidm","nama":"Hidrometeorologi","tipe":"lainnya"}],"definisi":"peta sinoptik pada suatu permukaan tekanan tetap, biasanya memuat data rajahan dan analisis sebaran data, termasuk ketinggian permukaan, angin, suhu, dan kelembapan","contoh":[]}],"rootWord":"peta¹"}]}
+{
+  "word": "peta tekanan tetap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63113",
+      "nama": "peta tekanan tetap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Met",
+              "nama": "Meteorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peta cuaca yang memuat gambar kontur dari permukaan isobar tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Met",
+              "nama": "Meteorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peta yang memuat penyebaran nilai unsur cuaca pada permukaan tekanan yang sama",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "Hidm",
+              "nama": "Hidrometeorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peta sinoptik pada suatu permukaan tekanan tetap, biasanya memuat data rajahan dan analisis sebaran data, termasuk ketinggian permukaan, angin, suhu, dan kelembapan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "peta¹"
+    }
+  ]
+}

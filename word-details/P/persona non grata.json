@@ -1,1 +1,134 @@
-{"word":"persona non grata","authenticated":true,"entries":[{"id":"1","nama":"per.so.na non gra.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"fr","nama":"Frase","tipe":"lainnya"},{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"orang yang tidak受欢迎 (tidak disenangi)","contoh":[{"nomor":1,"teks":"Pemerintah memutuskan untuk menyatakan Duta Besar itu sebagai --"},{"nomor":2,"teks":"Dia menjadi -- setelah terbukti melakukan tindak korupsi"}]}],"rootWord":"sonapersona"},{"id":"2","nama":"per.so.na non gra.ta","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"orang yang tidak diinginkan kehadirannya","contoh":[{"nomor":1,"teks":"Mantan napi teroris itu dicap sebagai -- di kampung halamannya"},{"nomor":3,"teks":"Koruptor yang sudah divonis penjara itu menjadi -- di lingkungan masyarakat"}]}],"rootWord":"sonapersona"},{"id":"3","nama":"per.so.na non gra.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"fr","nama":"Frase","tipe":"lainnya"},{"kode":"dipl","nama":"Diplomatik","tipe":"lainnya"}],"definisi":"orang yang tidak diterima (ditolak) oleh suatu negara sebagai perwakilan dari negara lain","contoh":[{"nomor":1,"teks":"Negara tersebut menyatakan duta besar negara lain sebagai --"}]}],"rootWord":"sonapersona"},{"id":"4","nama":"per.so.na non gra.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"fr","nama":"Frase","tipe":"lainnya"},{"kode":"pol","nama":"Politik","tipe":"lainnya"}],"definisi":"orang yang tidak disukai atau tidak diinginkan oleh suatu kelompok atau masyarakat","contoh":[{"nomor":1,"teks":"Aktivis lingkungan itu menjadi -- di kalangan industri besar"}]}],"rootWord":"sonapersona"}]}
+{
+  "word": "persona non grata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "per.so.na non gra.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "fr",
+              "nama": "Frase",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak受欢迎 (tidak disenangi)",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Pemerintah memutuskan untuk menyatakan Duta Besar itu sebagai --"
+            },
+            {
+              "nomor": 2,
+              "teks": "Dia menjadi -- setelah terbukti melakukan tindak korupsi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "2",
+      "nama": "per.so.na non gra.ta",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak diinginkan kehadirannya",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Mantan napi teroris itu dicap sebagai -- di kampung halamannya"
+            },
+            {
+              "nomor": 3,
+              "teks": "Koruptor yang sudah divonis penjara itu menjadi -- di lingkungan masyarakat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "3",
+      "nama": "per.so.na non gra.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "fr",
+              "nama": "Frase",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "dipl",
+              "nama": "Diplomatik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang tidak diterima (ditolak) oleh suatu negara sebagai perwakilan dari negara lain",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Negara tersebut menyatakan duta besar negara lain sebagai --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "4",
+      "nama": "per.so.na non gra.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "fr",
+              "nama": "Frase",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "pol",
+              "nama": "Politik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang tidak disukai atau tidak diinginkan oleh suatu kelompok atau masyarakat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Aktivis lingkungan itu menjadi -- di kalangan industri besar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    }
+  ]
+}

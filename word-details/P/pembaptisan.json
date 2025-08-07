@@ -1,1 +1,43 @@
-{"word":"pembaptisan","authenticated":true,"entries":[{"id":"8277","nama":"pem.bap.tis.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan membaptis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peresmian menjadi Kristen di gereja","contoh":[{"nomor":2,"teks":"orang tua itu hadir pada ~ anaknya"}]}],"rootWord":"baptis"}]}
+{
+  "word": "pembaptisan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8277",
+      "nama": "pem.bap.tis.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan membaptis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peresmian menjadi Kristen di gereja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang tua itu hadir pada ~ anaknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "baptis"
+    }
+  ]
+}

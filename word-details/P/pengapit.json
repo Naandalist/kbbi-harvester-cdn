@@ -1,1 +1,117 @@
-{"word":"pengapit","authenticated":true,"entries":[{"id":"4821","nama":"peng.a.pit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"apitan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang di kiri kanan pengantin","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barang yang diletakkan di kiri kanan sesuatu","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ajudan","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"bagian yang terdapat di antara sentung dan penjaring","contoh":[]}],"rootWord":"apit¹","terkait":{"kataTurunan":[],"gabunganKata":["pengapit lempang"],"peribahasa":[],"idiom":[]}},{"id":"36982","nama":"pe.nga.pit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pembantu; pendamping kawan; ajudan","contoh":[{"nomor":2,"teks":"siapa akan menjadi ~ patik jikalau dia tiada?"}]}],"rootWord":"kapit¹"}]}
+{
+  "word": "pengapit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4821",
+      "nama": "peng.a.pit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "apitan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang di kiri kanan pengantin",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang yang diletakkan di kiri kanan sesuatu",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ajudan",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian yang terdapat di antara sentung dan penjaring",
+          "contoh": []
+        }
+      ],
+      "rootWord": "apit¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pengapit lempang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "36982",
+      "nama": "pe.nga.pit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pembantu; pendamping kawan; ajudan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa akan menjadi ~ patik jikalau dia tiada?"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kapit¹"
+    }
+  ]
+}

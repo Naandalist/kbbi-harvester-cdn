@@ -1,1 +1,78 @@
-{"word":"piawai","authenticated":true,"entries":[{"id":"63326","nama":"pi.a.wai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pandai; cakap; mampu","contoh":[{"nomor":2,"teks":"yang menjadi juru bicara kedua belah pihak benar-benar orang yang --"},{"nomor":4,"teks":"dia adalah ahli ekonomi yang --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"betul (tentang anak timbangan): anak timbangan yang betul","contoh":[{"nomor":2,"teks":"bungkal yang --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"adil (tentang pertimbangan, putusan, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["kepiawaian"],"gabunganKata":[],"peribahasa":["neraca yang palingan, bungkal yang piawai"],"idiom":[]}}]}
+{
+  "word": "piawai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63326",
+      "nama": "pi.a.wai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pandai; cakap; mampu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "yang menjadi juru bicara kedua belah pihak benar-benar orang yang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "dia adalah ahli ekonomi yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "betul (tentang anak timbangan): anak timbangan yang betul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bungkal yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "adil (tentang pertimbangan, putusan, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepiawaian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "neraca yang palingan, bungkal yang piawai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

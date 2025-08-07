@@ -1,1 +1,57 @@
-{"word":"pencarian","authenticated":true,"entries":[{"id":"14793","nama":"pen.ca.ri.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan mencari","contoh":[{"nomor":2,"teks":"~ buron yang dilakukan polisi mengalami kegagalan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pekerjaan dan sebagainya yang menjadi pokok penghidupan","contoh":[{"nomor":2,"teks":"~nya berdagang"}]}],"rootWord":"cari","terkait":{"kataTurunan":[],"gabunganKata":["pencarian berbasis konten","pencarian visual"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pencarian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14793",
+      "nama": "pen.ca.ri.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan mencari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ buron yang dilakukan polisi mengalami kegagalan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekerjaan dan sebagainya yang menjadi pokok penghidupan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~nya berdagang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cari",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pencarian berbasis konten",
+          "pencarian visual"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

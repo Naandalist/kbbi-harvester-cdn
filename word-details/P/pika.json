@@ -1,1 +1,49 @@
-{"word":"pika","authenticated":true,"entries":[{"id":"63454","nama":"pi.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kebiasaan memakan benda-benda yang tidak lazim dimakan, seperti makan tanah atau serpihan tembok","contoh":[]}]},{"id":"63455","nama":"pi.ka","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"ukuran huruf dari alat cetak yang besarnya 1/6 inci","contoh":[]}]}]}
+{
+  "word": "pika",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63454",
+      "nama": "pi.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kebiasaan memakan benda-benda yang tidak lazim dimakan, seperti makan tanah atau serpihan tembok",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "63455",
+      "nama": "pi.ka",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ukuran huruf dari alat cetak yang besarnya 1/6 inci",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

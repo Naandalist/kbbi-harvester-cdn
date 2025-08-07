@@ -1,1 +1,54 @@
-{"word":"pln","authenticated":true,"entries":[{"id":"111966","nama":"PLN","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Perusahaan Listrik Negara (perusahaan umum milik negara yang bergerak di bidang ketenagalistrikan di indonesia)","contoh":[]}]},{"id":"231101","nama":"PLN","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pinjaman luar negeri","contoh":[]}]}]}
+{
+  "word": "pln",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "111966",
+      "nama": "PLN",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Perusahaan Listrik Negara (perusahaan umum milik negara yang bergerak di bidang ketenagalistrikan di indonesia)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "231101",
+      "nama": "PLN",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pinjaman luar negeri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

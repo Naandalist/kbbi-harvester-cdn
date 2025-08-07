@@ -1,1 +1,51 @@
-{"word":"peradaban","authenticated":true,"entries":[{"id":"399","nama":"per.a.dab.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemajuan (kecerdasan, kebudayaan) lahir batin","contoh":[{"nomor":2,"teks":"bangsa-bangsa di dunia ini tidak sama tingkat ~nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal yang menyangkut sopan santun, budi bahasa, dan kebudayaan suatu bangsa","contoh":[]}],"rootWord":"adab","terkait":{"kataTurunan":[],"gabunganKata":["peradaban maju"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "peradaban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "399",
+      "nama": "per.a.dab.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemajuan (kecerdasan, kebudayaan) lahir batin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bangsa-bangsa di dunia ini tidak sama tingkat ~nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal yang menyangkut sopan santun, budi bahasa, dan kebudayaan suatu bangsa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "adab",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "peradaban maju"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

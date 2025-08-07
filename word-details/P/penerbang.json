@@ -1,1 +1,39 @@
-{"word":"penerbang","authenticated":true,"entries":[{"id":"85302","nama":"pe.ner.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengemudi pesawat terbang; juru terbang","contoh":[{"nomor":2,"teks":"tamat dari akademi penerbangan itu, ia dilantik menjadi ~"}]}],"rootWord":"terbang¹","terkait":{"kataTurunan":[],"gabunganKata":["penerbang aerobatik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penerbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85302",
+      "nama": "pe.ner.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengemudi pesawat terbang; juru terbang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tamat dari akademi penerbangan itu, ia dilantik menjadi ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "terbang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penerbang aerobatik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"word":"pengabar","authenticated":true,"entries":[{"id":"35400","nama":"pe.nga.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang mengabarkan","contoh":[{"nomor":2,"teks":"selama saya menjadi ~ Injil, saya merasa menjadi lebih dekat dengan Tuhan"},{"nomor":4,"teks":"~ desas-desus itu kini sudah ditangkap"}]}],"rootWord":"kabar"}]}
+{
+  "word": "pengabar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35400",
+      "nama": "pe.nga.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang mengabarkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama saya menjadi ~ Injil, saya merasa menjadi lebih dekat dengan Tuhan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ desas-desus itu kini sudah ditangkap"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kabar"
+    }
+  ]
+}

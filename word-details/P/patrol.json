@@ -1,1 +1,54 @@
-{"word":"patrol","authenticated":true,"entries":[{"id":"60963","nama":"pat.rol","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"orkes gamelan khas Madura berintikan tongtong, rebana, seruling serta instrumen lain, biasanya dilantunkan sambil berkeliling untuk membangunkan orang agar makan sahur pada malam bulan puasa","contoh":[]}]},{"id":"185263","nama":"pat.rol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"daerah yang terletak di pinggir sungai tempat penyeberangan","contoh":[]}]}]}
+{
+  "word": "patrol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60963",
+      "nama": "pat.rol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orkes gamelan khas Madura berintikan tongtong, rebana, seruling serta instrumen lain, biasanya dilantunkan sambil berkeliling untuk membangunkan orang agar makan sahur pada malam bulan puasa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "185263",
+      "nama": "pat.rol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "daerah yang terletak di pinggir sungai tempat penyeberangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

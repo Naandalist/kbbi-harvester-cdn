@@ -1,1 +1,31 @@
-{"word":"penerjunan","authenticated":true,"entries":[{"id":"85401","nama":"pe.ner.jun.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan menerjuni atau menerjunkan","contoh":[{"nomor":2,"teks":"~ anggota penerbangan itu menggunakan pesawat khusus"}]}],"rootWord":"terjun"}]}
+{
+  "word": "penerjunan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85401",
+      "nama": "pe.ner.jun.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan menerjuni atau menerjunkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ anggota penerbangan itu menggunakan pesawat khusus"
+            }
+          ]
+        }
+      ],
+      "rootWord": "terjun"
+    }
+  ]
+}

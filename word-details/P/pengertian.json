@@ -1,1 +1,48 @@
-{"word":"pengertian","authenticated":true,"entries":[{"id":"22602","nama":"peng.er.ti.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gambaran atau pengetahuan tentang sesuatu di dalam pikiran; pemahaman","contoh":[{"nomor":2,"teks":"ia memberi ~ tentang susunan masyarakat Indonesia kepada orang asing dalam ~ luas"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"kesanggupan inteligensi untuk menangkap makna suatu situasi atau perbuatan","contoh":[]}],"rootWord":"erti"}]}
+{
+  "word": "pengertian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22602",
+      "nama": "peng.er.ti.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gambaran atau pengetahuan tentang sesuatu di dalam pikiran; pemahaman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memberi ~ tentang susunan masyarakat Indonesia kepada orang asing dalam ~ luas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kesanggupan inteligensi untuk menangkap makna suatu situasi atau perbuatan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "erti"
+    }
+  ]
+}

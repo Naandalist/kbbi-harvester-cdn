@@ -1,1 +1,73 @@
-{"word":"pipi","authenticated":true,"entries":[{"id":"63868","nama":"pi.pi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sisi muka (di bawah pelipis)","contoh":[{"nomor":2,"teks":"ekor --"},{"nomor":4,"teks":"lesung --"},{"nomor":6,"teks":"tulang --"}]}],"terkait":{"kataTurunan":["berpipi"],"gabunganKata":[],"peribahasa":["dikerkah dia menampar pipi, dibakar dia melilit puntung","hidung dicium, pipi digigit","hidung tak mancung, pipi tersorong-sorong"],"idiom":[]}},{"id":"278953","nama":"PIPI","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"Persatuan Insinyur Profesional Indonesia","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["dikerkah dia menampar pipi, dibakar dia melilit puntung","hidung dicium, pipi digigit","hidung tak mancung, pipi tersorong-sorong"],"idiom":[]}}]}
+{
+  "word": "pipi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63868",
+      "nama": "pi.pi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sisi muka (di bawah pelipis)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ekor --"
+            },
+            {
+              "nomor": 4,
+              "teks": "lesung --"
+            },
+            {
+              "nomor": 6,
+              "teks": "tulang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpipi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "dikerkah dia menampar pipi, dibakar dia melilit puntung",
+          "hidung dicium, pipi digigit",
+          "hidung tak mancung, pipi tersorong-sorong"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278953",
+      "nama": "PIPI",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "Persatuan Insinyur Profesional Indonesia",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "dikerkah dia menampar pipi, dibakar dia melilit puntung",
+          "hidung dicium, pipi digigit",
+          "hidung tak mancung, pipi tersorong-sorong"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

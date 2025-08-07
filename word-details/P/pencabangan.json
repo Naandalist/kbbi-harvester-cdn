@@ -1,1 +1,48 @@
-{"word":"pencabangan","authenticated":true,"entries":[{"id":"13933","nama":"pen.ca.bang.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan mencabangkan","contoh":[{"nomor":2,"teks":"~ bank ke daerah juga salah satu faktor yang mendorong naiknya konsumsi di daerah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"instruksi dalam program komputer untuk menghentikan serangkaian instruksi yang berbeda","contoh":[]}],"rootWord":"cabang"}]}
+{
+  "word": "pencabangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13933",
+      "nama": "pen.ca.bang.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan mencabangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bank ke daerah juga salah satu faktor yang mendorong naiknya konsumsi di daerah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "instruksi dalam program komputer untuk menghentikan serangkaian instruksi yang berbeda",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cabang"
+    }
+  ]
+}

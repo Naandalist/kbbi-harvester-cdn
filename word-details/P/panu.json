@@ -1,1 +1,83 @@
-{"word":"panu","authenticated":true,"entries":[{"id":"121623","nama":"pa.nu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"membawa nasi atau makanan ke sawah","contoh":[]}],"terkait":{"kataTurunan":["panuan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"60176","nama":"pa.nu","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ panau","contoh":[]}],"terkait":{"kataTurunan":["panuan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"181258","nama":"pa.nu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"tangguk besar yang dipakai kaum wanita untuk menangkap ikan di laut atau di muara sungai","contoh":[]}]}]}
+{
+  "word": "panu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "121623",
+      "nama": "pa.nu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membawa nasi atau makanan ke sawah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "panuan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "60176",
+      "nama": "pa.nu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ panau",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "panuan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "181258",
+      "nama": "pa.nu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tangguk besar yang dipakai kaum wanita untuk menangkap ikan di laut atau di muara sungai",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

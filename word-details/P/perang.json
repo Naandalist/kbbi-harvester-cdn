@@ -1,1 +1,268 @@
-{"word":"perang","authenticated":true,"entries":[{"id":"62287","nama":"pe.rang","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ pirang","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pěraṅ 'peperangan, perkelahian, pertengkaran, pertarungan, pertempuran']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berperang","berperang-perangan","memerangi","peperangan","perang-perangan","terperangi"],"gabunganKata":["perang ampyak","perang brubuh","perang kembang","perang proksi","perang agama","perang alu","perang Ambarawa","perang amuk-amukan","perang asabat","perang asap","perang asimetris","perang atrisi","perang batin","perang batu","perang besar","perang bintang","perang biologis","perang budaya","perang Candu","perang dagang","perang dingin","perang Diponegoro","perang dunia","perang Dunia Kedua","perang Dunia Pertama","perang ekonomi","perang elektronik","perang enam hari","perang gerilya","perang harga","perang ideologi","perang Jagaraga","perang kemerdekaan","perang kilat","perang kimia","perang kolonial","perang mendada","perang mulut","perang narasi","perang nuklir","perang nuklir penuh","perang nuklir terbatas","perang obor","perang Padri","perang pandan","perang pena","perang psikologis","perang Puputan Margarana","perang sabil","perang Salib","perang saraf","perang sarung","perang saudara","perang siber","perang sipil","perang tanding","perang tarif","perang teknologi","perang terbatas","perang terbuka","perang tiket","perang Tondano","perang total","perang urat saraf"],"peribahasa":["hendak ucok dilawan damai, hendak perang giling peluru","perang bermalaikat, sabung berjuara"],"idiom":["menabuh genderang perang"]}},{"id":"62243","nama":"pe.rang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"permusuhan antara dua negara (bangsa, agama, suku, dan sebagainya)","contoh":[{"nomor":2,"teks":"kedua negara itu dalam keadaan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pertempuran besar bersenjata antara dua pasukan (tentara, laskar, pemberontak, dan sebagainya) atau lebih","contoh":[{"nomor":2,"teks":"tidak lama kemudian kedua pasukan itu sudah terlibat dalam -- sengit"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkelahian; konflik","contoh":[{"nomor":2,"teks":"-- batu"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cara mengungkapkan permusuhan","contoh":[{"nomor":2,"teks":"-- ideologi"}]}],"etimologi":{"text":"[Jawa Kuno pěraṅ 'peperangan, perkelahian, pertengkaran, pertarungan, pertempuran']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berperang","berperang-perangan","memerangi","peperangan","perang-perangan","terperangi"],"gabunganKata":["perang agama","perang alu","perang Ambarawa","perang amuk-amukan","perang asabat","perang asap","perang asimetris","perang atrisi","perang batin","perang batu","perang besar","perang bintang","perang biologis","perang budaya","perang Candu","perang dagang","perang dingin","perang Diponegoro","perang dunia","perang Dunia Kedua","perang Dunia Pertama","perang ekonomi","perang elektronik","perang enam hari","perang gerilya","perang harga","perang ideologi","perang Jagaraga","perang kemerdekaan","perang kilat","perang kimia","perang kolonial","perang mendada","perang mulut","perang narasi","perang nuklir","perang nuklir penuh","perang nuklir terbatas","perang obor","perang Padri","perang pandan","perang pena","perang psikologis","perang Puputan Margarana","perang sabil","perang Salib","perang saraf","perang sarung","perang saudara","perang siber","perang sipil","perang tanding","perang tarif","perang teknologi","perang terbatas","perang terbuka","perang tiket","perang Tondano","perang total","perang urat saraf"],"peribahasa":["hendak ucok dilawan damai, hendak perang giling peluru","perang bermalaikat, sabung berjuara"],"idiom":["menabuh genderang perang"]}}]}
+{
+  "word": "perang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62287",
+      "nama": "pe.rang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ pirang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěraṅ 'peperangan, perkelahian, pertengkaran, pertarungan, pertempuran']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berperang",
+          "berperang-perangan",
+          "memerangi",
+          "peperangan",
+          "perang-perangan",
+          "terperangi"
+        ],
+        "gabunganKata": [
+          "perang ampyak",
+          "perang brubuh",
+          "perang kembang",
+          "perang proksi",
+          "perang agama",
+          "perang alu",
+          "perang Ambarawa",
+          "perang amuk-amukan",
+          "perang asabat",
+          "perang asap",
+          "perang asimetris",
+          "perang atrisi",
+          "perang batin",
+          "perang batu",
+          "perang besar",
+          "perang bintang",
+          "perang biologis",
+          "perang budaya",
+          "perang Candu",
+          "perang dagang",
+          "perang dingin",
+          "perang Diponegoro",
+          "perang dunia",
+          "perang Dunia Kedua",
+          "perang Dunia Pertama",
+          "perang ekonomi",
+          "perang elektronik",
+          "perang enam hari",
+          "perang gerilya",
+          "perang harga",
+          "perang ideologi",
+          "perang Jagaraga",
+          "perang kemerdekaan",
+          "perang kilat",
+          "perang kimia",
+          "perang kolonial",
+          "perang mendada",
+          "perang mulut",
+          "perang narasi",
+          "perang nuklir",
+          "perang nuklir penuh",
+          "perang nuklir terbatas",
+          "perang obor",
+          "perang Padri",
+          "perang pandan",
+          "perang pena",
+          "perang psikologis",
+          "perang Puputan Margarana",
+          "perang sabil",
+          "perang Salib",
+          "perang saraf",
+          "perang sarung",
+          "perang saudara",
+          "perang siber",
+          "perang sipil",
+          "perang tanding",
+          "perang tarif",
+          "perang teknologi",
+          "perang terbatas",
+          "perang terbuka",
+          "perang tiket",
+          "perang Tondano",
+          "perang total",
+          "perang urat saraf"
+        ],
+        "peribahasa": [
+          "hendak ucok dilawan damai, hendak perang giling peluru",
+          "perang bermalaikat, sabung berjuara"
+        ],
+        "idiom": [
+          "menabuh genderang perang"
+        ]
+      }
+    },
+    {
+      "id": "62243",
+      "nama": "pe.rang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permusuhan antara dua negara (bangsa, agama, suku, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua negara itu dalam keadaan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertempuran besar bersenjata antara dua pasukan (tentara, laskar, pemberontak, dan sebagainya) atau lebih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak lama kemudian kedua pasukan itu sudah terlibat dalam -- sengit"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkelahian; konflik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- batu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cara mengungkapkan permusuhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ideologi"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěraṅ 'peperangan, perkelahian, pertengkaran, pertarungan, pertempuran']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berperang",
+          "berperang-perangan",
+          "memerangi",
+          "peperangan",
+          "perang-perangan",
+          "terperangi"
+        ],
+        "gabunganKata": [
+          "perang agama",
+          "perang alu",
+          "perang Ambarawa",
+          "perang amuk-amukan",
+          "perang asabat",
+          "perang asap",
+          "perang asimetris",
+          "perang atrisi",
+          "perang batin",
+          "perang batu",
+          "perang besar",
+          "perang bintang",
+          "perang biologis",
+          "perang budaya",
+          "perang Candu",
+          "perang dagang",
+          "perang dingin",
+          "perang Diponegoro",
+          "perang dunia",
+          "perang Dunia Kedua",
+          "perang Dunia Pertama",
+          "perang ekonomi",
+          "perang elektronik",
+          "perang enam hari",
+          "perang gerilya",
+          "perang harga",
+          "perang ideologi",
+          "perang Jagaraga",
+          "perang kemerdekaan",
+          "perang kilat",
+          "perang kimia",
+          "perang kolonial",
+          "perang mendada",
+          "perang mulut",
+          "perang narasi",
+          "perang nuklir",
+          "perang nuklir penuh",
+          "perang nuklir terbatas",
+          "perang obor",
+          "perang Padri",
+          "perang pandan",
+          "perang pena",
+          "perang psikologis",
+          "perang Puputan Margarana",
+          "perang sabil",
+          "perang Salib",
+          "perang saraf",
+          "perang sarung",
+          "perang saudara",
+          "perang siber",
+          "perang sipil",
+          "perang tanding",
+          "perang tarif",
+          "perang teknologi",
+          "perang terbatas",
+          "perang terbuka",
+          "perang tiket",
+          "perang Tondano",
+          "perang total",
+          "perang urat saraf"
+        ],
+        "peribahasa": [
+          "hendak ucok dilawan damai, hendak perang giling peluru",
+          "perang bermalaikat, sabung berjuara"
+        ],
+        "idiom": [
+          "menabuh genderang perang"
+        ]
+      }
+    }
+  ]
+}

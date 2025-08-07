@@ -1,1 +1,54 @@
-{"word":"pmi","authenticated":true,"entries":[{"id":"93039","nama":"PMI","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Palang Merah Indonesia (organisasi nasional yang bergerak dalam bidang sosial kemanusiaan)","contoh":[]}]},{"id":"213140","nama":"PMI","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Pekerja Migran Indonesia (WNI yang bekerja di luar negeri dengan jangka waktu tertentu berdasarkan perjanjian kerja melalui prosedur penempatan)","contoh":[]}]}]}
+{
+  "word": "pmi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93039",
+      "nama": "PMI",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Palang Merah Indonesia (organisasi nasional yang bergerak dalam bidang sosial kemanusiaan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "213140",
+      "nama": "PMI",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Pekerja Migran Indonesia (WNI yang bekerja di luar negeri dengan jangka waktu tertentu berdasarkan perjanjian kerja melalui prosedur penempatan)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"percakapan","authenticated":true,"entries":[{"id":"14244","nama":"per.ca.kap.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pembicaraan; perbincangan; perundingan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal bercakap-cakap (dipertentangkan dengan apa yang ditulis)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"satuan interaksi bahasa antara dua pembicara atau lebih","contoh":[]}],"rootWord":"cakap²","terkait":{"kataTurunan":[],"gabunganKata":["percakapan informal","percakapan mesum","percakapan telpon"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "percakapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14244",
+      "nama": "per.ca.kap.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pembicaraan; perbincangan; perundingan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal bercakap-cakap (dipertentangkan dengan apa yang ditulis)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "satuan interaksi bahasa antara dua pembicara atau lebih",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cakap²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "percakapan informal",
+          "percakapan mesum",
+          "percakapan telpon"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

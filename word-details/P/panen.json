@@ -1,1 +1,59 @@
-{"word":"panen","authenticated":true,"entries":[{"id":"59803","nama":"pa.nen","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pemungutan (pemetikan) hasil sawah atau ladang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beroleh keuntungan atau rezeki (dengan mudah)","contoh":[{"nomor":2,"teks":"penjual es -- duit pada musim kemarau ini"}]}],"terkait":{"kataTurunan":["berpanen","memanen","memaneni","panenan","pemanen","pemanenan"],"gabunganKata":["panen kritikan","panen perdana","panen raya"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "panen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59803",
+      "nama": "pa.nen",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemungutan (pemetikan) hasil sawah atau ladang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beroleh keuntungan atau rezeki (dengan mudah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjual es -- duit pada musim kemarau ini"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpanen",
+          "memanen",
+          "memaneni",
+          "panenan",
+          "pemanen",
+          "pemanenan"
+        ],
+        "gabunganKata": [
+          "panen kritikan",
+          "panen perdana",
+          "panen raya"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"papakerma","authenticated":true,"entries":[{"id":"60199","nama":"pa.pa.ker.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"jahat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"malang atau sengsara hidupnya","contoh":[]}],"etimologi":{"text":"[Sanskerta पाप pāpa 'buruk, rendah' dan परम parama 'sangat, paling, titik tertinggi']","languages":["Sanskerta"]}}]}
+{
+  "word": "papakerma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60199",
+      "nama": "pa.pa.ker.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jahat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "malang atau sengsara hidupnya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पाप pāpa 'buruk, rendah' dan परम parama 'sangat, paling, titik tertinggi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

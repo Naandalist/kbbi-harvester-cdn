@@ -1,1 +1,244 @@
-{"word":"parak","authenticated":true,"entries":[{"id":"60328","nama":"pa.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perpisahan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"beda","contoh":[{"nomor":2,"teks":"kelakuanmu tidak berapa --nya dengan kelakuan ayahmu"}]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]},"terkait":{"kataTurunan":["berparak","memarakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"60331","nama":"pa.rak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kebun; ladang","contoh":[]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}},{"id":"60332","nama":"pa.rak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dekat; hampir: pagi hampir terang","contoh":[{"nomor":2,"teks":"-- siang"}]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}},{"id":"60333","nama":"pa.rak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"antara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sela-sela antara tempat duduk perempuan dan laki-laki","contoh":[]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}},{"id":"185311","nama":"pa.rak","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"hukuman adat berupa pengasingan diri","contoh":[]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}},{"id":"250686","nama":"pa.rak","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"bambu yang dibelah dan diratakan untuk menjadi bahan dinding atau balai-balai","contoh":[]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}},{"id":"266510","nama":"pa.rak","nomor":"7","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"tambak alami untuk budidaya garam berukuran 30 x 30 m","contoh":[]}],"etimologi":{"text":"[Arab فَرْقٌ farq n sg m 'perbedaan']","languages":["Arab"]}}]}
+{
+  "word": "parak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60328",
+      "nama": "pa.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perpisahan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelakuanmu tidak berapa --nya dengan kelakuan ayahmu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berparak",
+          "memarakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "60331",
+      "nama": "pa.rak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kebun; ladang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "60332",
+      "nama": "pa.rak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dekat; hampir: pagi hampir terang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- siang"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "60333",
+      "nama": "pa.rak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "antara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sela-sela antara tempat duduk perempuan dan laki-laki",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "185311",
+      "nama": "pa.rak",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hukuman adat berupa pengasingan diri",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "250686",
+      "nama": "pa.rak",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bambu yang dibelah dan diratakan untuk menjadi bahan dinding atau balai-balai",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "266510",
+      "nama": "pa.rak",
+      "nomor": "7",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tambak alami untuk budidaya garam berukuran 30 x 30 m",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَرْقٌ farq n sg m 'perbedaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

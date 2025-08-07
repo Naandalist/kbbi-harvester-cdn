@@ -1,1 +1,70 @@
-{"word":"papila","authenticated":true,"entries":[{"id":"60263","nama":"pa.pi.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian menonjol pada selaput yang berlendir di bagian atas lidah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"struktur berbentuk puting susu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["papila kater","papila lidah"],"peribahasa":[],"idiom":[]}},{"id":"231378","nama":"pa.pi.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"gelang yang dibuat dari kulit kerang","contoh":[]}]}]}
+{
+  "word": "papila",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60263",
+      "nama": "pa.pi.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian menonjol pada selaput yang berlendir di bagian atas lidah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "struktur berbentuk puting susu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "papila kater",
+          "papila lidah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "231378",
+      "nama": "pa.pi.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gelang yang dibuat dari kulit kerang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

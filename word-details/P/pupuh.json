@@ -1,1 +1,96 @@
-{"word":"pupuh","authenticated":true,"entries":[{"id":"66011","nama":"pu.puh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memupuh","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berpupuh","memperpupuhkan","memupuh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"66015","nama":"pu.puh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lagu yang terikat oleh banyaknya suku kata dalam satu bait, jumlah larik, dan permainan lagu (bentuk lagu tradisional Sunda)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']","languages":["Jawa Kuno"]}},{"id":"234687","nama":"pu.puh","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"tanda larangan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "pupuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66011",
+      "nama": "pu.puh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memupuh",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berpupuh",
+          "memperpupuhkan",
+          "memupuh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66015",
+      "nama": "pu.puh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lagu yang terikat oleh banyaknya suku kata dalam satu bait, jumlah larik, dan permainan lagu (bentuk lagu tradisional Sunda)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "234687",
+      "nama": "pu.puh",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tanda larangan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pupuh 'pukulan, tamparan; perkelahian pada umumnya, peperangan, pertempuran']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

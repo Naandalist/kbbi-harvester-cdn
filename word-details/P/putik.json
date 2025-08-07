@@ -1,1 +1,70 @@
-{"word":"putik","authenticated":true,"entries":[{"id":"66323","nama":"pu.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan ginesium yang terdiri atas bakal buah, tangkai putik, dan kepala putik; bakal buah","contoh":[]}],"terkait":{"kataTurunan":["berputik"],"gabunganKata":["putik majemuk","putik sederhana"],"peribahasa":["bunga gugur, putik pun gugur"],"idiom":[]}},{"id":"259017","nama":"pu.tik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"penyakit mata berupa titik putih yang menutupi tepian pupil, biasanya muncul karena sudah lanjut usia","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bunga gugur, putik pun gugur"],"idiom":[]}}]}
+{
+  "word": "putik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66323",
+      "nama": "pu.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan ginesium yang terdiri atas bakal buah, tangkai putik, dan kepala putik; bakal buah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berputik"
+        ],
+        "gabunganKata": [
+          "putik majemuk",
+          "putik sederhana"
+        ],
+        "peribahasa": [
+          "bunga gugur, putik pun gugur"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "259017",
+      "nama": "pu.tik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penyakit mata berupa titik putih yang menutupi tepian pupil, biasanya muncul karena sudah lanjut usia",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bunga gugur, putik pun gugur"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

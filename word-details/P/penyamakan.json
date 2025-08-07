@@ -1,1 +1,73 @@
-{"word":"penyamakan","authenticated":true,"entries":[{"id":"71563","nama":"pe.nya.mak.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan menyamak","contoh":[{"nomor":2,"teks":"~ kulit pada masa lalu masih dikerjakan dengan tangan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat (perusahaan) menyamak","contoh":[{"nomor":2,"teks":"ia bekerja di pabrik ~ kulit"}]}],"rootWord":"samak¹"},{"id":"71566","nama":"pe.nya.mak.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan menyamak","contoh":[{"nomor":2,"teks":"~ benang layang-layang ini sangat baik dan halus sehingga membuat benangnya menjadi kaku"}]}],"rootWord":"samak²"}]}
+{
+  "word": "penyamakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71563",
+      "nama": "pe.nya.mak.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan menyamak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kulit pada masa lalu masih dikerjakan dengan tangan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat (perusahaan) menyamak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bekerja di pabrik ~ kulit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "samak¹"
+    },
+    {
+      "id": "71566",
+      "nama": "pe.nya.mak.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan menyamak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ benang layang-layang ini sangat baik dan halus sehingga membuat benangnya menjadi kaku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "samak²"
+    }
+  ]
+}

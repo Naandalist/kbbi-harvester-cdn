@@ -1,1 +1,100 @@
-{"word":"pandak","authenticated":true,"entries":[{"id":"59728","nama":"pan.dak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pendek","contoh":[]}],"terkait":{"kataTurunan":["memandakkan","memperpandak"],"gabunganKata":[],"peribahasa":["tiang pandak hendak menyamai tiang panjang"],"idiom":[]}},{"id":"147543","nama":"pan.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"tiang penahan lantai rumah adat Karo yang berjumlah enam buah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tiang pandak hendak menyamai tiang panjang"],"idiom":[]}},{"id":"264902","nama":"pan.dak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"dipan yang dapat dibongkar pasang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tiang pandak hendak menyamai tiang panjang"],"idiom":[]}}]}
+{
+  "word": "pandak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59728",
+      "nama": "pan.dak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memandakkan",
+          "memperpandak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tiang pandak hendak menyamai tiang panjang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "147543",
+      "nama": "pan.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tiang penahan lantai rumah adat Karo yang berjumlah enam buah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tiang pandak hendak menyamai tiang panjang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "264902",
+      "nama": "pan.dak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dipan yang dapat dibongkar pasang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tiang pandak hendak menyamai tiang panjang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

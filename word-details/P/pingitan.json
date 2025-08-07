@@ -1,1 +1,64 @@
-{"word":"pingitan","authenticated":true,"entries":[{"id":"63727","nama":"pi.ngit.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang dipingit","contoh":[{"nomor":2,"teks":"gadis ~"},{"nomor":4,"teks":"ayam ~"},{"nomor":6,"teks":"kuda ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat memingit (mengurung)","contoh":[{"nomor":2,"teks":"gadis itu berhasil melepaskan diri dari ~"}]}],"rootWord":"pingit","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti kuda lepas dari pingitan"],"idiom":[]}}]}
+{
+  "word": "pingitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63727",
+      "nama": "pi.ngit.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang dipingit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "ayam ~"
+            },
+            {
+              "nomor": 6,
+              "teks": "kuda ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat memingit (mengurung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu berhasil melepaskan diri dari ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pingit",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti kuda lepas dari pingitan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

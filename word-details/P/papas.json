@@ -1,1 +1,71 @@
-{"word":"papas","authenticated":true,"entries":[{"id":"60249","nama":"pa.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial memapas, pemapasan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno papas 'menghadap, menantang, berlawanan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["memapas","pemapasan","berpapasan","papasan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"60252","nama":"pa.pas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jumpa","contoh":[]}],"etimologi":{"text":"[Jawa Kuno papas 'menghadap, menantang, berlawanan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berpapasan","memapas","papasan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "papas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60249",
+      "nama": "pa.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial memapas, pemapasan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno papas 'menghadap, menantang, berlawanan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "memapas",
+          "pemapasan",
+          "berpapasan",
+          "papasan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "60252",
+      "nama": "pa.pas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jumpa",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno papas 'menghadap, menantang, berlawanan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berpapasan",
+          "memapas",
+          "papasan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"word":"pembiasan","authenticated":true,"entries":[{"id":"11133","nama":"pem.bi.as.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan membiaskan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyimpangan (pembelokan)","contoh":[{"nomor":2,"teks":"berkas cahaya yang keluar dari prisma mengalami ~"}]}],"rootWord":"bias¹","terkait":{"kataTurunan":[],"gabunganKata":["pembiasan cahaya"],"peribahasa":[],"idiom":[]}},{"id":"203961","nama":"pem.bi.as.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"tempat menyimpan beras yang terbuat dari tembikar","contoh":[]}]}]}
+{
+  "word": "pembiasan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11133",
+      "nama": "pem.bi.as.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan membiaskan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyimpangan (pembelokan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berkas cahaya yang keluar dari prisma mengalami ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bias¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pembiasan cahaya"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "203961",
+      "nama": "pem.bi.as.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat menyimpan beras yang terbuat dari tembikar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

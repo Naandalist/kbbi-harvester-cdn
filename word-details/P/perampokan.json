@@ -1,1 +1,51 @@
-{"word":"perampokan","authenticated":true,"entries":[{"id":"67166","nama":"pe.ram.pok.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan merampok","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkara merampok","contoh":[{"nomor":2,"teks":"~ itu telah ditangani oleh polisi"}]}],"rootWord":"rampok¹","terkait":{"kataTurunan":[],"gabunganKata":["perampokan bersenjata api"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "perampokan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67166",
+      "nama": "pe.ram.pok.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan merampok",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkara merampok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ itu telah ditangani oleh polisi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rampok¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "perampokan bersenjata api"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

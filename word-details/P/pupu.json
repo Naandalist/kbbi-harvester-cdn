@@ -1,1 +1,82 @@
-{"word":"pupu","authenticated":true,"entries":[{"id":"66006","nama":"pu.pu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nenek moyang","contoh":[]}],"terkait":{"kataTurunan":["bersepupu","sepupu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"66009","nama":"pu.pu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Abr","nama":"Abrap","tipe":"lainnya"}],"definisi":"peralihan dari alam tak sadar ke alam sadar","contoh":[]}]},{"id":"152820","nama":"pu.pu","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"payung dari kain atau daun pisang","contoh":[]}]}]}
+{
+  "word": "pupu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66006",
+      "nama": "pu.pu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nenek moyang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersepupu",
+          "sepupu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66009",
+      "nama": "pu.pu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Abr",
+              "nama": "Abrap",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peralihan dari alam tak sadar ke alam sadar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "152820",
+      "nama": "pu.pu",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "payung dari kain atau daun pisang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"word":"pagi","authenticated":true,"entries":[{"id":"58995","nama":"pa.gi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian awal dari hari","contoh":[{"nomor":2,"teks":"ia bangun pukul 05.00 --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu setelah matahari terbit hingga menjelang siang hari","contoh":[{"nomor":2,"teks":"ia bekerja keras dari -- hingga petang"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"awal; cepat","contoh":[{"nomor":2,"teks":"engkau terlalu -- memberi komentar tentang hal itu"}]}],"terkait":{"kataTurunan":["berpagi-pagi","kepagian","pagi-pagi","sepagian"],"gabunganKata":["pagi buta","pagi hari","pagi hitam"],"peribahasa":["hari pagi dibuang-buang, hari petang dikejar-kejar","kais pagi makan pagi kais petang makan petang","masak malam, mentah pagi (siang)"],"idiom":["sebentar pagi, sebentar malam"]}}]}
+{
+  "word": "pagi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58995",
+      "nama": "pa.gi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian awal dari hari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bangun pukul 05.00 --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu setelah matahari terbit hingga menjelang siang hari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bekerja keras dari -- hingga petang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "awal; cepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "engkau terlalu -- memberi komentar tentang hal itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpagi-pagi",
+          "kepagian",
+          "pagi-pagi",
+          "sepagian"
+        ],
+        "gabunganKata": [
+          "pagi buta",
+          "pagi hari",
+          "pagi hitam"
+        ],
+        "peribahasa": [
+          "hari pagi dibuang-buang, hari petang dikejar-kejar",
+          "kais pagi makan pagi kais petang makan petang",
+          "masak malam, mentah pagi (siang)"
+        ],
+        "idiom": [
+          "sebentar pagi, sebentar malam"
+        ]
+      }
+    }
+  ]
+}

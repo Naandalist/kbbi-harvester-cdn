@@ -1,1 +1,66 @@
-{"word":"panjak","authenticated":true,"entries":[{"id":"59997","nama":"pan.jak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pemain gamelan (kadang-kadang menjadi penyanyi atau penari juga)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pañjak 'pemain gamelan']","languages":["Jawa Kuno"]}},{"id":"246938","nama":"pan.jak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pembantu empu dalam membuat keris","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pañjak 'pemain gamelan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "panjak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59997",
+      "nama": "pan.jak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pemain gamelan (kadang-kadang menjadi penyanyi atau penari juga)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pañjak 'pemain gamelan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "246938",
+      "nama": "pan.jak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pembantu empu dalam membuat keris",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pañjak 'pemain gamelan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

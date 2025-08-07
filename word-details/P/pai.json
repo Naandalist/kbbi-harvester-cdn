@@ -1,1 +1,85 @@
-{"word":"pai","authenticated":true,"entries":[{"id":"59091","nama":"pai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kue berisi krim, agar-agar, dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pai apel","pai buah","pai daging","pai Lorraine","pai susu"],"peribahasa":[],"idiom":[]}},{"id":"152805","nama":"pai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"orang yang sedang beradu mulut","contoh":[]}]},{"id":"96176","nama":"PAI","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Persatuan Aktuaris Indonesia","contoh":[]}]}]}
+{
+  "word": "pai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59091",
+      "nama": "pai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kue berisi krim, agar-agar, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pai apel",
+          "pai buah",
+          "pai daging",
+          "pai Lorraine",
+          "pai susu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "152805",
+      "nama": "pai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang sedang beradu mulut",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96176",
+      "nama": "PAI",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Persatuan Aktuaris Indonesia",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

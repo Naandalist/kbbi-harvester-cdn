@@ -1,1 +1,74 @@
-{"word":"penganalisis","authenticated":true,"entries":[{"id":"3510","nama":"peng.a.na.li.sis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang melakukan analisis","contoh":[{"nomor":2,"teks":"sebagai ~ Saudara harus objektif"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"peralatan tes elektronik yang menampilkan berbagai fitur sinyal","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"alat untuk menentukan bidang polarisasi dari cahaya","contoh":[]}],"rootWord":"analisis","terkait":{"kataTurunan":[],"gabunganKata":["penganalisis kinerja","penganalisis saluran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penganalisis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3510",
+      "nama": "peng.a.na.li.sis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang melakukan analisis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebagai ~ Saudara harus objektif"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peralatan tes elektronik yang menampilkan berbagai fitur sinyal",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "alat untuk menentukan bidang polarisasi dari cahaya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "analisis",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penganalisis kinerja",
+          "penganalisis saluran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

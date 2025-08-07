@@ -1,1 +1,54 @@
-{"word":"pbm","authenticated":true,"entries":[{"id":"92953","nama":"PBM","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"proses belajar mengajar","contoh":[]}]},{"id":"236315","nama":"PBM","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pemahaman bacaan dan menulis (tes untuk menguji kemampuan berbahasa Indonesia dalam UTBK, mencakup pemahaman kaidah bahasa Indonesia yang baik dan benar)","contoh":[]}]}]}
+{
+  "word": "pbm",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92953",
+      "nama": "PBM",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses belajar mengajar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "236315",
+      "nama": "PBM",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemahaman bacaan dan menulis (tes untuk menguji kemampuan berbahasa Indonesia dalam UTBK, mencakup pemahaman kaidah bahasa Indonesia yang baik dan benar)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

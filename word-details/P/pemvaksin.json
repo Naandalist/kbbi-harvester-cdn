@@ -1,1 +1,31 @@
-{"word":"pemvaksin","authenticated":true,"entries":[{"id":"195571","nama":"pem.vak.sin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memvaksin","contoh":[{"nomor":2,"teks":"~ tersebut melayani suntikan vaksin dosis pertama bagi nelayan dan penduduk sekitar"}]}],"rootWord":"vaksin"}]}
+{
+  "word": "pemvaksin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "195571",
+      "nama": "pem.vak.sin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memvaksin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tersebut melayani suntikan vaksin dosis pertama bagi nelayan dan penduduk sekitar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "vaksin"
+    }
+  ]
+}

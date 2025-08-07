@@ -1,1 +1,53 @@
-{"word":"piaraan","authenticated":true,"entries":[{"id":"63314","nama":"pi.a.ra.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dipiara; hasil memiara","contoh":[{"nomor":2,"teks":"ular kini juga menjadi ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"di luar nikah; tidak resmi","contoh":[{"nomor":2,"teks":"istri ~"}]}],"rootWord":"piara"}]}
+{
+  "word": "piaraan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63314",
+      "nama": "pi.a.ra.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dipiara; hasil memiara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular kini juga menjadi ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "di luar nikah; tidak resmi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "istri ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "piara"
+    }
+  ]
+}

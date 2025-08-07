@@ -1,1 +1,54 @@
-{"word":"pn","authenticated":true,"entries":[{"id":"93041","nama":"PN","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"perusahaan negara","contoh":[]}]},{"id":"239721","nama":"PN","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pengadilan negeri","contoh":[]}]}]}
+{
+  "word": "pn",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93041",
+      "nama": "PN",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perusahaan negara",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "239721",
+      "nama": "PN",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengadilan negeri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,170 @@
-{"word":"positif","authenticated":true,"entries":[{"id":"64791","nama":"po.si.tif","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pasti; tegas; tentu","contoh":[{"nomor":2,"teks":"hal itu diketahuinya secara --"},{"nomor":4,"teks":"ia memberi jawaban yang --"},{"nomor":6,"teks":"ia mempunyai bukti -- akan keterlibatan orang itu"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"yakin","contoh":[{"nomor":2,"teks":"ia sangat -- akan kebenaran pendapatnya"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersifat nyata dan membangun","contoh":[{"nomor":2,"teks":"keadaannya menunjukkan perkembangan yang --"},{"nomor":4,"teks":"hasilnya sangat --"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menunjukkan adanya penyakit, kondisi tertentu, dan sebagainya (tentang hasil pemeriksaan)","contoh":[{"nomor":2,"teks":"hasil tes menyatakan bahwa ia -- hamil"}]},{"nomor":"5","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"lebih besar daripada nol","contoh":[{"nomor":2,"teks":"bilangan --"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"potret yang sudah jadi (bukan klise atau film)","contoh":[]},{"nomor":"7","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"bermuatan listrik lebih tinggi daripada yang lain (tentang kutub), yang merupakan sumber arus listrik","contoh":[]},{"nomor":"8","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak menyangkal (membantah, dan sebagainya); mengiakan (tentang kalimat, pernyataan, ucapan, dan sebagainya): kalimat yang tidak mengandung kata sangkalan (seperti tidak, bukan)","contoh":[{"nomor":2,"teks":"kalimat --"}]}],"terkait":{"kataTurunan":["kepositifan","memositifkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "positif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64791",
+      "nama": "po.si.tif",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pasti; tegas; tentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hal itu diketahuinya secara --"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia memberi jawaban yang --"
+            },
+            {
+              "nomor": 6,
+              "teks": "ia mempunyai bukti -- akan keterlibatan orang itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yakin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sangat -- akan kebenaran pendapatnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersifat nyata dan membangun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keadaannya menunjukkan perkembangan yang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "hasilnya sangat --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menunjukkan adanya penyakit, kondisi tertentu, dan sebagainya (tentang hasil pemeriksaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil tes menyatakan bahwa ia -- hamil"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "lebih besar daripada nol",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bilangan --"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "potret yang sudah jadi (bukan klise atau film)",
+          "contoh": []
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bermuatan listrik lebih tinggi daripada yang lain (tentang kutub), yang merupakan sumber arus listrik",
+          "contoh": []
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menyangkal (membantah, dan sebagainya); mengiakan (tentang kalimat, pernyataan, ucapan, dan sebagainya): kalimat yang tidak mengandung kata sangkalan (seperti tidak, bukan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalimat --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepositifan",
+          "memositifkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

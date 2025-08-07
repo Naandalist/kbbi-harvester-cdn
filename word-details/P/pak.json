@@ -1,1 +1,174 @@
-{"word":"pak","authenticated":true,"entries":[{"id":"59154","nama":"pak","nomor":"12","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"bapak","contoh":[]}],"terkait":{"kataTurunan":["mengepak","mengepakkan","pengepak","pengepakan"],"gabunganKata":["Pak Belalang","pak itam","pak lung","pak ngah","Pak Ogah","pak su","pak turut","pak temurun"],"peribahasa":["mujur Pak Belang"],"idiom":["pak si bendul","tenung-tenung pak belalang"]}},{"id":"59156","nama":"pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bungkusan dari pabrik berisi barang dalam jumlah tertentu (tentang rokok, teh, garam, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peti berisi barang-barang; kemasan barang; bendela","contoh":[]}],"terkait":{"kataTurunan":["mengepak","mengepakkan","pengepak","pengepakan"],"gabunganKata":["pak temurun"],"peribahasa":["mujur Pak Belang"],"idiom":["pak si bendul","tenung-tenung pak belalang"]}},{"id":"59161","nama":"pak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hak mengusahakan milik (tanah dan sebagainya) orang atau memborong sesuatu yang mendatangkan hasil dengan membayar sewa (pajak) setiap tahun","contoh":[]}],"terkait":{"kataTurunan":["mengepak","mengepakkan"],"gabunganKata":["pak temurun"],"peribahasa":["mujur Pak Belang"],"idiom":["pak si bendul","tenung-tenung pak belalang"]}},{"id":"251761","nama":"PAK","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"penetapan angka kredit (penetapan jumlah dan komposisi angka kredit suatu jabatan yang diperoleh dalam periode penilaian tertentu)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mujur Pak Belang"],"idiom":["pak si bendul","tenung-tenung pak belalang"]}}]}
+{
+  "word": "pak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59154",
+      "nama": "pak",
+      "nomor": "12",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bapak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengepak",
+          "mengepakkan",
+          "pengepak",
+          "pengepakan"
+        ],
+        "gabunganKata": [
+          "Pak Belalang",
+          "pak itam",
+          "pak lung",
+          "pak ngah",
+          "Pak Ogah",
+          "pak su",
+          "pak turut",
+          "pak temurun"
+        ],
+        "peribahasa": [
+          "mujur Pak Belang"
+        ],
+        "idiom": [
+          "pak si bendul",
+          "tenung-tenung pak belalang"
+        ]
+      }
+    },
+    {
+      "id": "59156",
+      "nama": "pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bungkusan dari pabrik berisi barang dalam jumlah tertentu (tentang rokok, teh, garam, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peti berisi barang-barang; kemasan barang; bendela",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengepak",
+          "mengepakkan",
+          "pengepak",
+          "pengepakan"
+        ],
+        "gabunganKata": [
+          "pak temurun"
+        ],
+        "peribahasa": [
+          "mujur Pak Belang"
+        ],
+        "idiom": [
+          "pak si bendul",
+          "tenung-tenung pak belalang"
+        ]
+      }
+    },
+    {
+      "id": "59161",
+      "nama": "pak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hak mengusahakan milik (tanah dan sebagainya) orang atau memborong sesuatu yang mendatangkan hasil dengan membayar sewa (pajak) setiap tahun",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengepak",
+          "mengepakkan"
+        ],
+        "gabunganKata": [
+          "pak temurun"
+        ],
+        "peribahasa": [
+          "mujur Pak Belang"
+        ],
+        "idiom": [
+          "pak si bendul",
+          "tenung-tenung pak belalang"
+        ]
+      }
+    },
+    {
+      "id": "251761",
+      "nama": "PAK",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penetapan angka kredit (penetapan jumlah dan komposisi angka kredit suatu jabatan yang diperoleh dalam periode penilaian tertentu)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mujur Pak Belang"
+        ],
+        "idiom": [
+          "pak si bendul",
+          "tenung-tenung pak belalang"
+        ]
+      }
+    }
+  ]
+}

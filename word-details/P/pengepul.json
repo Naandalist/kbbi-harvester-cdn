@@ -1,1 +1,51 @@
-{"word":"pengepul","authenticated":true,"entries":[{"id":"40092","nama":"pe.nge.pul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tengkulak","contoh":[]}],"rootWord":"kepul²"},{"id":"65754","nama":"pe.nge.pul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang mengepul","contoh":[{"nomor":2,"teks":"tugasnya adalah sebagai ~ cengkih"}]}],"rootWord":"pul¹"}]}
+{
+  "word": "pengepul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40092",
+      "nama": "pe.nge.pul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tengkulak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kepul²"
+    },
+    {
+      "id": "65754",
+      "nama": "pe.nge.pul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang mengepul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tugasnya adalah sebagai ~ cengkih"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pul¹"
+    }
+  ]
+}

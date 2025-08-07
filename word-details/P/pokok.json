@@ -1,1 +1,225 @@
-{"word":"pokok","authenticated":true,"entries":[{"id":"64344","nama":"po.kok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"segala tumbuhan yang berbatang keras dan besar; pokok kayu","contoh":[{"nomor":2,"teks":"-- beringin"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batang kayu dari pangkal ke atas; pokok kayu","contoh":[{"nomor":2,"teks":"pada -- pohon karet itu terdapat banyak torehan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang yang dipakai sebagai induk dalam berniaga; modal","contoh":[{"nomor":2,"teks":"-- perusahaan itu lima juta"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"harga pembelian","contoh":[{"nomor":2,"teks":"kain ini dijual di bawah harga --"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lantaran; sebab","contoh":[{"nomor":2,"teks":"itulah yang menjadi -- perselisihan"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"asas; dasar; inti sari: pada dasarnya","contoh":[{"nomor":2,"teks":"-- pikiran"},{"nomor":4,"teks":"pada --nya"}]},{"nomor":"7","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pusat (yang menjadi titik perhatian dan sebagainya)","contoh":[{"nomor":2,"teks":"-- pembicaraannya ialah masalah remaja"}]},{"nomor":"8","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tergantung; terserah","contoh":[{"nomor":2,"teks":"jadi atau tidak, --nya kepada tuan"}]},{"nomor":"9","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"yang terutama; yang sangat penting","contoh":[{"nomor":2,"teks":"makanan --"},{"nomor":4,"teks":"pelaku --"},{"nomor":6,"teks":"perkara --"},{"nomor":8,"teks":"soal --"},{"nomor":10,"teks":"syarat --"},{"nomor":12,"teks":"--nya asal menang"}]}],"terkait":{"kataTurunan":["berpokok","memokoki","memokokkan"],"gabunganKata":["pokok akar","pokok angin","pokok hujan","pokok hukum","pokok kalimat","pokok kayu","pokok lelang","pokok masalah","pokok pangkal","pokok pekerjaan","pokok pencarian","pokok penghidupan","pokok pikiran","pokok ribut","pokok sialang","pokok tentara"],"peribahasa":["dilihat galas berlaba, dihitung pokok termakan","kalau tak ada angin, takkan pokok bergoyang"],"idiom":[]}}]}
+{
+  "word": "pokok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64344",
+      "nama": "po.kok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segala tumbuhan yang berbatang keras dan besar; pokok kayu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- beringin"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batang kayu dari pangkal ke atas; pokok kayu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada -- pohon karet itu terdapat banyak torehan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang yang dipakai sebagai induk dalam berniaga; modal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- perusahaan itu lima juta"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "harga pembelian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kain ini dijual di bawah harga --"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lantaran; sebab",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "itulah yang menjadi -- perselisihan"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asas; dasar; inti sari: pada dasarnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pikiran"
+            },
+            {
+              "nomor": 4,
+              "teks": "pada --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pusat (yang menjadi titik perhatian dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pembicaraannya ialah masalah remaja"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tergantung; terserah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jadi atau tidak, --nya kepada tuan"
+            }
+          ]
+        },
+        {
+          "nomor": "9",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang terutama; yang sangat penting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makanan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pelaku --"
+            },
+            {
+              "nomor": 6,
+              "teks": "perkara --"
+            },
+            {
+              "nomor": 8,
+              "teks": "soal --"
+            },
+            {
+              "nomor": 10,
+              "teks": "syarat --"
+            },
+            {
+              "nomor": 12,
+              "teks": "--nya asal menang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpokok",
+          "memokoki",
+          "memokokkan"
+        ],
+        "gabunganKata": [
+          "pokok akar",
+          "pokok angin",
+          "pokok hujan",
+          "pokok hukum",
+          "pokok kalimat",
+          "pokok kayu",
+          "pokok lelang",
+          "pokok masalah",
+          "pokok pangkal",
+          "pokok pekerjaan",
+          "pokok pencarian",
+          "pokok penghidupan",
+          "pokok pikiran",
+          "pokok ribut",
+          "pokok sialang",
+          "pokok tentara"
+        ],
+        "peribahasa": [
+          "dilihat galas berlaba, dihitung pokok termakan",
+          "kalau tak ada angin, takkan pokok bergoyang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

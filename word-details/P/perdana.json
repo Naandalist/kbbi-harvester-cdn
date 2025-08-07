@@ -1,1 +1,84 @@
-{"word":"perdana","authenticated":true,"entries":[{"id":"62391","nama":"per.da.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bendahara","contoh":[]}],"etimologi":{"text":"[Sanskerta प्रधान pradhāna n net 'ketua, pemimpin, bangsawan, orang terkemuka']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["diperdanakan"],"gabunganKata":["perdana menteri"],"peribahasa":[],"idiom":[]}},{"id":"62392","nama":"per.da.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"pertama (kali)","contoh":[{"nomor":2,"teks":"penerbangan --"}]}],"etimologi":{"text":"[Sanskerta प्रधान pradhāna n net 'ketua, pemimpin, bangsawan, orang terkemuka']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["diperdanakan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "perdana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62391",
+      "nama": "per.da.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bendahara",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta प्रधान pradhāna n net 'ketua, pemimpin, bangsawan, orang terkemuka']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "diperdanakan"
+        ],
+        "gabunganKata": [
+          "perdana menteri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "62392",
+      "nama": "per.da.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertama (kali)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penerbangan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta प्रधान pradhāna n net 'ketua, pemimpin, bangsawan, orang terkemuka']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "diperdanakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

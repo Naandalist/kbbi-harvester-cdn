@@ -1,1 +1,215 @@
-{"word":"perut","authenticated":true,"entries":[{"id":"62900","nama":"pe.rut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian tubuh di bawah rongga dada","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat pencernaan makanan di dalam rongga, di bawah rongga dada (terutama yang berupa kantung tempat mencernakan makanan dan usus)","contoh":[{"nomor":2,"teks":"--nya mulas"},{"nomor":4,"teks":"--nya sudah kosong"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"makanan (rezeki, nafkah)","contoh":[{"nomor":2,"teks":"sebenarnya bukan urusan politik lagi, melainkan urusan --"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang terdapat di tengah atau di dalam suatu benda","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kandungan (rahim)","contoh":[{"nomor":2,"teks":"pada waktu itu engkau masih di dalam -- ibumu"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"barang apa yang rupanya atau bentuknya menyerupai perut 1 atau 2","contoh":[]}],"terkait":{"kataTurunan":["berperut","memeruti","seperut"],"gabunganKata":["perut berangkap","perut besar","perut betis","perut buku","perut bumi","perut buntu","perut buta","perut jala","perut kaki","perut kapal","perut karet","perut kosong","perut laut","perut masam","perut muda","perut padi","perut panjang","perut perahu","perut rotan"],"peribahasa":["air mata jatuh ke perut","biar pecah perut, bumi merekah","empat susu, dua perut","hempas tulang berisi perut","majelis di tepi air, merdesa di perut kenyang","malu makan, perut lapar","mandi berlenggang perut","merdesa (di) perut kenyang","perut panjang sejengkal","ringan tulang, berat perut","salah cotok, berkerudung paruh, salah telan, belah perut","tepuk perut, tanya selera","tiba di perut dikempiskan, tiba di mata dipicingkan, tiba di dada dibusungkan"],"idiom":["betis bagai perut padi (padi bunting)","mencarikan perut (yang tidak berisi)","merajut perut"]}},{"id":"62923","nama":"pe.rut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gulungan kecil","contoh":[{"nomor":2,"teks":"benang yang diurai itu digulung se---se--"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["air mata jatuh ke perut","biar pecah perut, bumi merekah","empat susu, dua perut","hempas tulang berisi perut","majelis di tepi air, merdesa di perut kenyang","malu makan, perut lapar","mandi berlenggang perut","merdesa (di) perut kenyang","perut panjang sejengkal","ringan tulang, berat perut","salah cotok, berkerudung paruh, salah telan, belah perut","tepuk perut, tanya selera","tiba di perut dikempiskan, tiba di mata dipicingkan, tiba di dada dibusungkan"],"idiom":["betis bagai perut padi (padi bunting)","mencarikan perut (yang tidak berisi)","merajut perut"]}}]}
+{
+  "word": "perut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62900",
+      "nama": "pe.rut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian tubuh di bawah rongga dada",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat pencernaan makanan di dalam rongga, di bawah rongga dada (terutama yang berupa kantung tempat mencernakan makanan dan usus)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya mulas"
+            },
+            {
+              "nomor": 4,
+              "teks": "--nya sudah kosong"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makanan (rezeki, nafkah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebenarnya bukan urusan politik lagi, melainkan urusan --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang terdapat di tengah atau di dalam suatu benda",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kandungan (rahim)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada waktu itu engkau masih di dalam -- ibumu"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang apa yang rupanya atau bentuknya menyerupai perut 1 atau 2",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berperut",
+          "memeruti",
+          "seperut"
+        ],
+        "gabunganKata": [
+          "perut berangkap",
+          "perut besar",
+          "perut betis",
+          "perut buku",
+          "perut bumi",
+          "perut buntu",
+          "perut buta",
+          "perut jala",
+          "perut kaki",
+          "perut kapal",
+          "perut karet",
+          "perut kosong",
+          "perut laut",
+          "perut masam",
+          "perut muda",
+          "perut padi",
+          "perut panjang",
+          "perut perahu",
+          "perut rotan"
+        ],
+        "peribahasa": [
+          "air mata jatuh ke perut",
+          "biar pecah perut, bumi merekah",
+          "empat susu, dua perut",
+          "hempas tulang berisi perut",
+          "majelis di tepi air, merdesa di perut kenyang",
+          "malu makan, perut lapar",
+          "mandi berlenggang perut",
+          "merdesa (di) perut kenyang",
+          "perut panjang sejengkal",
+          "ringan tulang, berat perut",
+          "salah cotok, berkerudung paruh, salah telan, belah perut",
+          "tepuk perut, tanya selera",
+          "tiba di perut dikempiskan, tiba di mata dipicingkan, tiba di dada dibusungkan"
+        ],
+        "idiom": [
+          "betis bagai perut padi (padi bunting)",
+          "mencarikan perut (yang tidak berisi)",
+          "merajut perut"
+        ]
+      }
+    },
+    {
+      "id": "62923",
+      "nama": "pe.rut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gulungan kecil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "benang yang diurai itu digulung se---se--"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air mata jatuh ke perut",
+          "biar pecah perut, bumi merekah",
+          "empat susu, dua perut",
+          "hempas tulang berisi perut",
+          "majelis di tepi air, merdesa di perut kenyang",
+          "malu makan, perut lapar",
+          "mandi berlenggang perut",
+          "merdesa (di) perut kenyang",
+          "perut panjang sejengkal",
+          "ringan tulang, berat perut",
+          "salah cotok, berkerudung paruh, salah telan, belah perut",
+          "tepuk perut, tanya selera",
+          "tiba di perut dikempiskan, tiba di mata dipicingkan, tiba di dada dibusungkan"
+        ],
+        "idiom": [
+          "betis bagai perut padi (padi bunting)",
+          "mencarikan perut (yang tidak berisi)",
+          "merajut perut"
+        ]
+      }
+    }
+  ]
+}

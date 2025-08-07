@@ -1,1 +1,61 @@
-{"word":"pabrikan","authenticated":true,"entries":[{"id":"58730","nama":"pab.rik.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang, perusahaan, dan sebagainya yang memproduksi sesuatu, biasanya dalam skala besar","contoh":[{"nomor":2,"teks":"ratusan ~ otomotif dan komponen pendukungnya turut meramaikan pameran itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"produk yang dihasilkan oleh pabrik","contoh":[{"nomor":2,"teks":"mobil ~ Jepang kini sudah mendominasi hampir seluruh negara di belahan dunia"}]}],"rootWord":"pabrik","terkait":{"kataTurunan":[],"gabunganKata":["pabrikan ban","pabrikan mobil","pabrikan motor","pabrikan ponsel","pabrikan rokok","pabrikan sepeda"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pabrikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58730",
+      "nama": "pab.rik.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang, perusahaan, dan sebagainya yang memproduksi sesuatu, biasanya dalam skala besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ratusan ~ otomotif dan komponen pendukungnya turut meramaikan pameran itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "produk yang dihasilkan oleh pabrik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mobil ~ Jepang kini sudah mendominasi hampir seluruh negara di belahan dunia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pabrik",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pabrikan ban",
+          "pabrikan mobil",
+          "pabrikan motor",
+          "pabrikan ponsel",
+          "pabrikan rokok",
+          "pabrikan sepeda"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

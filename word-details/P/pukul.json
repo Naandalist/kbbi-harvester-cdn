@@ -1,1 +1,136 @@
-{"word":"pukul","authenticated":true,"entries":[{"id":"65722","nama":"pu.kul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ketuk (dengan sesuatu yang keras atau berat)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul (mengetuk dan sebagainya)","contoh":[{"nomor":2,"teks":"pakailah taktik dan cari kelemahan lawan jangan asal --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"ambil: barang diambil dulu, soal membayar urusan belakang","contoh":[{"nomor":2,"teks":"-- dulu, bayar belakang"}]}],"terkait":{"kataTurunan":["berpukul-pukulan","berpukulan","memperpukuli","memperpukulkan","memukul","memukul-mukul","memukul-mukulkan","memukuli","memukulkan","pemukul","pemukulan","pukul-memukul","pukul-pukulan","pukulan","terpukul"],"gabunganKata":["pukul besar","pukul kilas balik","pukul menyapu","pukul merambang","pukul mundur","terpukul mundur"],"peribahasa":["pukul anak, sindir menantu","pukul curi","seperti ular kena bedal (palu, pukul)"],"idiom":[]}},{"id":"65747","nama":"pu.kul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"saat yang menyatakan satuan waktu tertentu","contoh":[{"nomor":2,"teks":"hari sudah -- lima sore"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["pukul anak, sindir menantu","pukul curi","seperti ular kena bedal (palu, pukul)"],"idiom":[]}}]}
+{
+  "word": "pukul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65722",
+      "nama": "pu.kul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketuk (dengan sesuatu yang keras atau berat)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul (mengetuk dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pakailah taktik dan cari kelemahan lawan jangan asal --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ambil: barang diambil dulu, soal membayar urusan belakang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dulu, bayar belakang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpukul-pukulan",
+          "berpukulan",
+          "memperpukuli",
+          "memperpukulkan",
+          "memukul",
+          "memukul-mukul",
+          "memukul-mukulkan",
+          "memukuli",
+          "memukulkan",
+          "pemukul",
+          "pemukulan",
+          "pukul-memukul",
+          "pukul-pukulan",
+          "pukulan",
+          "terpukul"
+        ],
+        "gabunganKata": [
+          "pukul besar",
+          "pukul kilas balik",
+          "pukul menyapu",
+          "pukul merambang",
+          "pukul mundur",
+          "terpukul mundur"
+        ],
+        "peribahasa": [
+          "pukul anak, sindir menantu",
+          "pukul curi",
+          "seperti ular kena bedal (palu, pukul)"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "65747",
+      "nama": "pu.kul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saat yang menyatakan satuan waktu tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari sudah -- lima sore"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "pukul anak, sindir menantu",
+          "pukul curi",
+          "seperti ular kena bedal (palu, pukul)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

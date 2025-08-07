@@ -1,1 +1,85 @@
-{"word":"pagon","authenticated":true,"entries":[{"id":"59008","nama":"pa.gon","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tanpa perubahan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"abadi; tahan lama","contoh":[]}]},{"id":"121569","nama":"pa.gon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"alas perunggu tempat menempa alat musik tradisional","contoh":[]}]},{"id":"279511","nama":"pa.gon","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bambu yang digunakan pada proses pembuatan gonjo, berfungsi agar bakal gonjo tidak mudah bergerak","contoh":[]}]}]}
+{
+  "word": "pagon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59008",
+      "nama": "pa.gon",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanpa perubahan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "abadi; tahan lama",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "121569",
+      "nama": "pa.gon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alas perunggu tempat menempa alat musik tradisional",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "279511",
+      "nama": "pa.gon",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bambu yang digunakan pada proses pembuatan gonjo, berfungsi agar bakal gonjo tidak mudah bergerak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

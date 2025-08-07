@@ -1,1 +1,54 @@
-{"word":"prona","authenticated":true,"entries":[{"id":"93100","nama":"pro.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"program nasional agraria","contoh":[]}]},{"id":"247704","nama":"pro.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"protein nabati","contoh":[]}]}]}
+{
+  "word": "prona",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93100",
+      "nama": "pro.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "program nasional agraria",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "247704",
+      "nama": "pro.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "protein nabati",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

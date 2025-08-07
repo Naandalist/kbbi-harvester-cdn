@@ -1,1 +1,69 @@
-{"word":"pengajaran","authenticated":true,"entries":[{"id":"1372","nama":"peng.a.jar.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan mengajar atau mengajarkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal mengajar; segala sesuatu mengenai mengajar","contoh":[{"nomor":2,"teks":"~ sejarah nasional sangat diutamakan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peringatan (tentang pengalaman, peristiwa yang dialami atau dilihatnya)","contoh":[{"nomor":2,"teks":"musibah yang kalian alami itu menjadi ~ bagi kalian"}]}],"rootWord":"ajar¹","terkait":{"kataTurunan":[],"gabunganKata":["pengajaran mikro","pengajaran remedial"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pengajaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1372",
+      "nama": "peng.a.jar.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan mengajar atau mengajarkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal mengajar; segala sesuatu mengenai mengajar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sejarah nasional sangat diutamakan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peringatan (tentang pengalaman, peristiwa yang dialami atau dilihatnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "musibah yang kalian alami itu menjadi ~ bagi kalian"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ajar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pengajaran mikro",
+          "pengajaran remedial"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

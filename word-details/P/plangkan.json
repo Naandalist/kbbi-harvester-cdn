@@ -1,1 +1,54 @@
-{"word":"plangkan","authenticated":true,"entries":[{"id":"64129","nama":"plang.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wadah alat-alat gamelan, dibuat dari kayu","contoh":[]}]},{"id":"198806","nama":"plang.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bingkai atau pinggiran peralatan tradisional berbahan bambu atau rotan","contoh":[{"nomor":2,"teks":"cara menampi yang baik adalah dengan memegang -- menggunakan kedua tangan"}]}]}]}
+{
+  "word": "plangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64129",
+      "nama": "plang.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wadah alat-alat gamelan, dibuat dari kayu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "198806",
+      "nama": "plang.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bingkai atau pinggiran peralatan tradisional berbahan bambu atau rotan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cara menampi yang baik adalah dengan memegang -- menggunakan kedua tangan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"persen","authenticated":true,"entries":[{"id":"62804","nama":"per.sen","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hadiah; pemberian; uang sirih; uang rokok","contoh":[]}],"terkait":{"kataTurunan":["memerseni","memersenkan","persenan","sepersen"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"62808","nama":"per.sen","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seperseratus","contoh":[]}],"terkait":{"kataTurunan":["sepersen"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "persen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62804",
+      "nama": "per.sen",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hadiah; pemberian; uang sirih; uang rokok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memerseni",
+          "memersenkan",
+          "persenan",
+          "sepersen"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "62808",
+      "nama": "per.sen",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seperseratus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sepersen"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,117 @@
-{"word":"pk","authenticated":true,"entries":[{"id":"96192","nama":"PK","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mil","nama":"Kemiliteran","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"prajurit karier","contoh":[]}]},{"id":"111296","nama":"PK","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"peninjauan kembali","contoh":[]}]},{"id":"267825","nama":"PK","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"perjanjian kinerja","contoh":[]}]},{"id":"307231","nama":"PK","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"permanganas kalium","contoh":[]}]}]}
+{
+  "word": "pk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96192",
+      "nama": "PK",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mil",
+              "nama": "Kemiliteran",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "prajurit karier",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "111296",
+      "nama": "PK",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peninjauan kembali",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "267825",
+      "nama": "PK",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perjanjian kinerja",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "307231",
+      "nama": "PK",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permanganas kalium",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

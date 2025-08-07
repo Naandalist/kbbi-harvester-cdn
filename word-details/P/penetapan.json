@@ -1,1 +1,57 @@
-{"word":"penetapan","authenticated":true,"entries":[{"id":"85664","nama":"pe.ne.tap.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan menetapkan; penentuan; pengangkatan (jabatan dan sebagainya); pelaksanaan (janji, kewajiban, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ bahasa Indonesia menjadi bahasa persatuan terjadi pada tahun 1928"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tindakan sepihak menentukan kaidah hukum konkret yang berlaku khusus","contoh":[]}],"rootWord":"tetap¹","terkait":{"kataTurunan":[],"gabunganKata":["penetapan perwalian","penetapan tersangka"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penetapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85664",
+      "nama": "pe.ne.tap.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan menetapkan; penentuan; pengangkatan (jabatan dan sebagainya); pelaksanaan (janji, kewajiban, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bahasa Indonesia menjadi bahasa persatuan terjadi pada tahun 1928"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tindakan sepihak menentukan kaidah hukum konkret yang berlaku khusus",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tetap¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penetapan perwalian",
+          "penetapan tersangka"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

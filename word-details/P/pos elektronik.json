@@ -1,1 +1,32 @@
-{"word":"pos elektronik","authenticated":true,"entries":[{"id":"64754","nama":"pos elektronik","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"penggunaan jejaring komputer untuk mengirim dan menerima pesan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"untai yang mengidentifikasikan pengguna sehingga pengguna dapat menerima surat elektronik melalui internet, biasanya terdiri atas nama yang mengidentifikasi pengguna di dalam server surat, diikuti dengan tanda @ dan nama hos dan nama domain dari server surat, misalnya bunga@anggrek.com","contoh":[]}],"rootWord":"pos¹"}]}
+{
+  "word": "pos elektronik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64754",
+      "nama": "pos elektronik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "penggunaan jejaring komputer untuk mengirim dan menerima pesan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "untai yang mengidentifikasikan pengguna sehingga pengguna dapat menerima surat elektronik melalui internet, biasanya terdiri atas nama yang mengidentifikasi pengguna di dalam server surat, diikuti dengan tanda @ dan nama hos dan nama domain dari server surat, misalnya bunga@anggrek.com",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pos¹"
+    }
+  ]
+}

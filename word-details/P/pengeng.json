@@ -1,1 +1,58 @@
-{"word":"pengeng","authenticated":true,"entries":[{"id":"61890","nama":"pe.ngeng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"sangat pening kepala","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"terasa berdengung di telinga","contoh":[]}],"etimologi":{"text":"[Jawa Kuno pěṅěṅ 'bingung, kagum, linglung, pusing, tak sadar']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "pengeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61890",
+      "nama": "pe.ngeng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat pening kepala",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terasa berdengung di telinga",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno pěṅěṅ 'bingung, kagum, linglung, pusing, tak sadar']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

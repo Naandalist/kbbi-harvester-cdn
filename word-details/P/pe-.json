@@ -1,1 +1,289 @@
-{"word":"pe-","authenticated":true,"entries":[{"id":"61103","nama":"pe-","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat per-7","contoh":[]}]},{"id":"61104","nama":"pe-","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat peng-","contoh":[]}]},{"id":"61852","nama":"peng-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"prefiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang melakukan perbuatan","contoh":[{"nomor":2,"teks":"pembeli"},{"nomor":4,"teks":"pengirim"}]},{"nomor":"2","kelasKata":[{"kode":"prefiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang berprofesi sebagai","contoh":[{"nomor":2,"teks":"pengarang"},{"nomor":4,"teks":"penyiar"},{"nomor":6,"teks":"penulis"}]},{"nomor":"3","kelasKata":[{"kode":"prefiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang memiliki sifat","contoh":[{"nomor":2,"teks":"pemarah"},{"nomor":4,"teks":"pemalas"},{"nomor":6,"teks":"penakut"}]},{"nomor":"4","kelasKata":[{"kode":"prefiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"alat yang dipakai untuk","contoh":[{"nomor":2,"teks":"penggali"},{"nomor":4,"teks":"pengetes"},{"nomor":6,"teks":"penopang"}]}]},{"id":"62147","nama":"per-","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"yang memiliki","contoh":[{"nomor":2,"teks":"persegi"},{"nomor":4,"teks":"pemalu"}]},{"nomor":"2","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"yang menghasilkan","contoh":[{"nomor":2,"teks":"pedaging"},{"nomor":4,"teks":"petelur"}]},{"nomor":"3","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"yang biasa melakukan (sebagai profesi, kegemaran, kebiasaan)","contoh":[{"nomor":2,"teks":"pertapa"},{"nomor":4,"teks":"petinju"},{"nomor":6,"teks":"pelajar"}]},{"nomor":"4","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"yang melakukan pekerjaan mengenai diri","contoh":[{"nomor":2,"teks":"peubah"}]},{"nomor":"5","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"yang dikenai tindakan","contoh":[{"nomor":2,"teks":"pesuruh"},{"nomor":4,"teks":"petatar"}]},{"nomor":"6","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"orang yang biasa bekerja di","contoh":[{"nomor":2,"teks":"pelaut"},{"nomor":4,"teks":"peladang"}]},{"nomor":"7","kelasKata":[{"kode":"prefiks","nama":"-","tipe":"lainnya"}],"definisi":"orang yang gemar","contoh":[{"nomor":2,"teks":"perokok"},{"nomor":4,"teks":"pendaki gunung"}]}]}]}
+{
+  "word": "pe-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61103",
+      "nama": "pe-",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat per-7",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "61104",
+      "nama": "pe-",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat peng-",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "61852",
+      "nama": "peng-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "prefiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang melakukan perbuatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pembeli"
+            },
+            {
+              "nomor": 4,
+              "teks": "pengirim"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "prefiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang berprofesi sebagai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengarang"
+            },
+            {
+              "nomor": 4,
+              "teks": "penyiar"
+            },
+            {
+              "nomor": 6,
+              "teks": "penulis"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "prefiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang memiliki sifat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemarah"
+            },
+            {
+              "nomor": 4,
+              "teks": "pemalas"
+            },
+            {
+              "nomor": 6,
+              "teks": "penakut"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "prefiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat yang dipakai untuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penggali"
+            },
+            {
+              "nomor": 4,
+              "teks": "pengetes"
+            },
+            {
+              "nomor": 6,
+              "teks": "penopang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62147",
+      "nama": "per-",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang memiliki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persegi"
+            },
+            {
+              "nomor": 4,
+              "teks": "pemalu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang menghasilkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedaging"
+            },
+            {
+              "nomor": 4,
+              "teks": "petelur"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang biasa melakukan (sebagai profesi, kegemaran, kebiasaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertapa"
+            },
+            {
+              "nomor": 4,
+              "teks": "petinju"
+            },
+            {
+              "nomor": 6,
+              "teks": "pelajar"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang melakukan pekerjaan mengenai diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peubah"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang dikenai tindakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pesuruh"
+            },
+            {
+              "nomor": 4,
+              "teks": "petatar"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang biasa bekerja di",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pelaut"
+            },
+            {
+              "nomor": 4,
+              "teks": "peladang"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "prefiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang gemar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perokok"
+            },
+            {
+              "nomor": 4,
+              "teks": "pendaki gunung"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

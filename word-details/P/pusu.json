@@ -1,1 +1,162 @@
-{"word":"pusu","authenticated":true,"entries":[{"id":"66244","nama":"pu.su","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"timbunan (longgok); busut","contoh":[]}],"terkait":{"kataTurunan":["berpusu","berpusu-pusu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"66245","nama":"pu.su","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kelompok","contoh":[]}],"terkait":{"kataTurunan":["berpusu","berpusu-pusu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"66248","nama":"pu.su","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kusut atau beterbangan tidak teratur (tentang kapuk, rambut, dan sebagainya)","contoh":[{"nomor":2,"teks":"menyapu-nyapu rambut anaknya yang -- karena angin"}]}],"terkait":{"kataTurunan":["berpusu-pusu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"231698","nama":"pu.su","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"saling mendorong dengan telapak tangan","contoh":[{"nomor":2,"teks":"mereka -- untuk menentukan yang paling kuat"}]}]},{"id":"280841","nama":"pu.su","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kls","nama":"Kulisusu","tipe":"lainnya"}],"definisi":"pucuk buah","contoh":[]}]}]}
+{
+  "word": "pusu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66244",
+      "nama": "pu.su",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "timbunan (longgok); busut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpusu",
+          "berpusu-pusu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66245",
+      "nama": "pu.su",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kelompok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpusu",
+          "berpusu-pusu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66248",
+      "nama": "pu.su",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kusut atau beterbangan tidak teratur (tentang kapuk, rambut, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menyapu-nyapu rambut anaknya yang -- karena angin"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpusu-pusu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "231698",
+      "nama": "pu.su",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "saling mendorong dengan telapak tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka -- untuk menentukan yang paling kuat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "280841",
+      "nama": "pu.su",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kls",
+              "nama": "Kulisusu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pucuk buah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

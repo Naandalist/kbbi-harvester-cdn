@@ -1,1 +1,76 @@
-{"word":"pulsa","authenticated":true,"entries":[{"id":"65838","nama":"pul.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"denyut nadi yang terjadi karena detak jantung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tegangan atau arus yang berlangsung beberapa lama berbentuk segi empat atau gelombang sinus","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan dalam perhitungan biaya telepon","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"rangkaian denyutan berulang secara teratur yang terasa dalam musik, jika pulsa itu terdengar disebut ketukan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pulsa listrik","pulsa prabayar","pulsa reguler"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pulsa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65838",
+      "nama": "pul.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "denyut nadi yang terjadi karena detak jantung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tegangan atau arus yang berlangsung beberapa lama berbentuk segi empat atau gelombang sinus",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan dalam perhitungan biaya telepon",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "rangkaian denyutan berulang secara teratur yang terasa dalam musik, jika pulsa itu terdengar disebut ketukan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pulsa listrik",
+          "pulsa prabayar",
+          "pulsa reguler"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

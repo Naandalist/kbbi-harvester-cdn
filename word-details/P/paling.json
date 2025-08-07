@@ -1,1 +1,74 @@
-{"word":"paling","authenticated":true,"entries":[{"id":"59422","nama":"pa.ling","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"putar","contoh":[]}],"terkait":{"kataTurunan":["berpaling","berpalingan","keberpalingan","memalingkan","mempalingkan","palingan","perpalingan","paling-paling","sepaling"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"59431","nama":"pa.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"ter-; teramat","contoh":[{"nomor":2,"teks":"anaknya yang -- besar duduk di kelas 3 SMU"}]}],"terkait":{"kataTurunan":["paling-paling","sepaling"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "paling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59422",
+      "nama": "pa.ling",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpaling",
+          "berpalingan",
+          "keberpalingan",
+          "memalingkan",
+          "mempalingkan",
+          "palingan",
+          "perpalingan",
+          "paling-paling",
+          "sepaling"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "59431",
+      "nama": "pa.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ter-; teramat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anaknya yang -- besar duduk di kelas 3 SMU"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "paling-paling",
+          "sepaling"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

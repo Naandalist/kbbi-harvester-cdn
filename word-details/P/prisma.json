@@ -1,1 +1,70 @@
-{"word":"prisma","authenticated":true,"entries":[{"id":"65156","nama":"pris.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"zat padat yang mempunyai bentuk geometris dengan dua bidang sejajar yang identik","contoh":[{"nomor":2,"teks":"berkas cahaya yang keluar dari -- mengalami pembiasan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"bidang banyak yang memiliki sepasang sisi sejajar dan sebangun yang disebut alas dan sisi-sisi lain yang disebut tinggi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["prisma Abbe","prisma akresi","prisma beraturan","prisma es","prisma heksagonal","prisma penta","prisma refraktometer","prisma segi empat","prisma segi enam","prisma segi lima","prisma segitiga"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "prisma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65156",
+      "nama": "pris.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "zat padat yang mempunyai bentuk geometris dengan dua bidang sejajar yang identik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berkas cahaya yang keluar dari -- mengalami pembiasan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bidang banyak yang memiliki sepasang sisi sejajar dan sebangun yang disebut alas dan sisi-sisi lain yang disebut tinggi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "prisma Abbe",
+          "prisma akresi",
+          "prisma beraturan",
+          "prisma es",
+          "prisma heksagonal",
+          "prisma penta",
+          "prisma refraktometer",
+          "prisma segi empat",
+          "prisma segi enam",
+          "prisma segi lima",
+          "prisma segitiga"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

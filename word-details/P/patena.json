@@ -1,1 +1,54 @@
-{"word":"patena","authenticated":true,"entries":[{"id":"206369","nama":"pa.te.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"perlengkapan misa berupa piring kecil, digunakan sebagai wadah hosti besar","contoh":[]}]},{"id":"186602","nama":"pa.te.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"persyaratan yang harus dipenuhi dalam hal menerima ilmu atau untuk kesembuhan dari penyakit","contoh":[]}]}]}
+{
+  "word": "patena",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "206369",
+      "nama": "pa.te.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perlengkapan misa berupa piring kecil, digunakan sebagai wadah hosti besar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "186602",
+      "nama": "pa.te.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "persyaratan yang harus dipenuhi dalam hal menerima ilmu atau untuk kesembuhan dari penyakit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

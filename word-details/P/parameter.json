@@ -1,1 +1,69 @@
-{"word":"parameter","authenticated":true,"entries":[{"id":"60359","nama":"pa.ra.me.ter","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Stat","nama":"Statistik","tipe":"lainnya"}],"definisi":"ukuran seluruh populasi dalam penelitian yang harus diperkirakan dari yang terdapat di dalam percontoh","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan yang membatasi bagaimana sesuatu dilakukan atau apa yang dapat dilakukan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kuantitas terukur (misalnya temperatur) yang menentukan hasil eksperimen ilmiah dan dapat diubah untuk memperoleh hasil yang berbeda","contoh":[]}],"terkait":{"kataTurunan":["berparameter"],"gabunganKata":["parameter antena","parameter bisnis","parameter Coriolis","parameter kekasapan","parameter kontrol","parameter meteorologi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "parameter",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60359",
+      "nama": "pa.ra.me.ter",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Stat",
+              "nama": "Statistik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ukuran seluruh populasi dalam penelitian yang harus diperkirakan dari yang terdapat di dalam percontoh",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan yang membatasi bagaimana sesuatu dilakukan atau apa yang dapat dilakukan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kuantitas terukur (misalnya temperatur) yang menentukan hasil eksperimen ilmiah dan dapat diubah untuk memperoleh hasil yang berbeda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berparameter"
+        ],
+        "gabunganKata": [
+          "parameter antena",
+          "parameter bisnis",
+          "parameter Coriolis",
+          "parameter kekasapan",
+          "parameter kontrol",
+          "parameter meteorologi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"word":"pina","authenticated":true,"entries":[{"id":"100269","nama":"pi.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"serat nanas","contoh":[]}]},{"id":"148911","nama":"pi.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Let","nama":"Letti","tipe":"lainnya"}],"definisi":"selendang yang terbuat dari kain tenun berwarna merah, biasa dipakai sebagai pelengkap pakaian adat raja","contoh":[]}]}]}
+{
+  "word": "pina",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "100269",
+      "nama": "pi.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serat nanas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "148911",
+      "nama": "pi.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Let",
+              "nama": "Letti",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "selendang yang terbuat dari kain tenun berwarna merah, biasa dipakai sebagai pelengkap pakaian adat raja",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

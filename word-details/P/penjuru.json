@@ -1,1 +1,68 @@
-{"word":"penjuru","authenticated":true,"entries":[{"id":"35334","nama":"pen.ju.ru","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"arah","contoh":[]}],"rootWord":"juru³","terkait":{"kataTurunan":["memenjuru"],"gabunganKata":["penjuru angin"],"peribahasa":[],"idiom":[]}},{"id":"61963","nama":"pen.ju.ru","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pojok; sudut","contoh":[{"nomor":2,"teks":"empat -- alam adalah timur, barat, utara, dan selatan"}]}],"terkait":{"kataTurunan":["memenjuru"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penjuru",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35334",
+      "nama": "pen.ju.ru",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "arah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "juru³",
+      "terkait": {
+        "kataTurunan": [
+          "memenjuru"
+        ],
+        "gabunganKata": [
+          "penjuru angin"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61963",
+      "nama": "pen.ju.ru",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pojok; sudut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "empat -- alam adalah timur, barat, utara, dan selatan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memenjuru"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

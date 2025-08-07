@@ -1,1 +1,43 @@
-{"word":"permakanan","authenticated":true,"entries":[{"id":"109564","nama":"per.ma.kan.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal yang berkaitan dengan makan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perilaku makan untuk mendapatkan nutrisi","contoh":[{"nomor":2,"teks":"~ yang tidak sehat dan seimbang dapat memicu timbulnya berbagai penyakit"}]}],"rootWord":"makan¹"}]}
+{
+  "word": "permakanan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109564",
+      "nama": "per.ma.kan.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal yang berkaitan dengan makan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perilaku makan untuk mendapatkan nutrisi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ yang tidak sehat dan seimbang dapat memicu timbulnya berbagai penyakit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "makan¹"
+    }
+  ]
+}

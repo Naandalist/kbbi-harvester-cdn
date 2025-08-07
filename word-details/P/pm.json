@@ -1,1 +1,54 @@
-{"word":"pm","authenticated":true,"entries":[{"id":"93034","nama":"PM","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"polisi militer","contoh":[]}]},{"id":"210396","nama":"PM","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Perdana Menteri; Prime Minister","contoh":[]}]}]}
+{
+  "word": "pm",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93034",
+      "nama": "PM",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "polisi militer",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "210396",
+      "nama": "PM",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Perdana Menteri; Prime Minister",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"premi","authenticated":true,"entries":[{"id":"65045","nama":"pre.mi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hadiah (uang dan sebagainya) yang diberikan sebagai perangsang untuk meningkatkan prestasi kerja","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hadiah (dalam undian, perlombaan, pembelian)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jumlah uang yang harus dibayarkan pada waktu tertentu kepada asuransi sosial","contoh":[{"nomor":2,"teks":"-- asuransi"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["premi asuransi","premi obligasi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "premi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65045",
+      "nama": "pre.mi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hadiah (uang dan sebagainya) yang diberikan sebagai perangsang untuk meningkatkan prestasi kerja",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hadiah (dalam undian, perlombaan, pembelian)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jumlah uang yang harus dibayarkan pada waktu tertentu kepada asuransi sosial",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- asuransi"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "premi asuransi",
+          "premi obligasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

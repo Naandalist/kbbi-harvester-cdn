@@ -1,1 +1,74 @@
-{"word":"permohonan","authenticated":true,"entries":[{"id":"54935","nama":"per.mo.hon.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"permintaan kepada orang yang lebih tinggi kedudukannya dan sebagainya","contoh":[{"nomor":2,"teks":"~ sudah diajukan kepada Bapak Gubernur"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lamaran (pekerjaan dan sebagainya)","contoh":[{"nomor":2,"teks":"ia mengajukan ~ kepada kepala bagian personalia kantor itu"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tuntutan hak perdata oleh satu pihak yang berkepentingan kepada pihak lain atas suatu hak yang tidak mengandung sengketa","contoh":[]}],"rootWord":"mohon","terkait":{"kataTurunan":[],"gabunganKata":["permohonan kasasi","permohonan praperadilan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "permohonan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54935",
+      "nama": "per.mo.hon.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permintaan kepada orang yang lebih tinggi kedudukannya dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sudah diajukan kepada Bapak Gubernur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lamaran (pekerjaan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mengajukan ~ kepada kepala bagian personalia kantor itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tuntutan hak perdata oleh satu pihak yang berkepentingan kepada pihak lain atas suatu hak yang tidak mengandung sengketa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "mohon",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "permohonan kasasi",
+          "permohonan praperadilan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

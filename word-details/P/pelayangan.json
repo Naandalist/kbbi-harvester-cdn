@@ -1,1 +1,131 @@
-{"word":"pelayangan","authenticated":true,"entries":[{"id":"47502","nama":"pe.la.yang.an","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perahu tambang yang digunakan di sungai untuk menyeberangkan orang atau barang","contoh":[{"nomor":2,"teks":"satu-satunya alat penyeberangan di daerah itu ialah ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat menyeberangkan orang atau barang dengan perahu tambang","contoh":[]}],"rootWord":"layang³","terkait":{"kataTurunan":[],"gabunganKata":["pelayangan magnetik"],"peribahasa":[],"idiom":[]}},{"id":"108284","nama":"pe.la.yang.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan melayang(kan)","contoh":[{"nomor":2,"teks":"~ dilakukan dengan cara melengkungkan sirip-siripnya ke atas"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan mengirim(kan) sesuatu","contoh":[{"nomor":2,"teks":"~ surat peringatan telah dilakukan oleh pihak manajemen"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"proses penghentian objek oleh kekuatan fisik terhadap gaya gravitasi dalam posisi stabil tanpa kontak fisik yang keras","contoh":[]}],"rootWord":"layang¹","terkait":{"kataTurunan":[],"gabunganKata":["pelayangan magnetik"],"peribahasa":[],"idiom":[]}},{"id":"61497","nama":"pe.la.yang.an","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat layang3","contoh":[]}]}]}
+{
+  "word": "pelayangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47502",
+      "nama": "pe.la.yang.an",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perahu tambang yang digunakan di sungai untuk menyeberangkan orang atau barang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "satu-satunya alat penyeberangan di daerah itu ialah ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat menyeberangkan orang atau barang dengan perahu tambang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layang³",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pelayangan magnetik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "108284",
+      "nama": "pe.la.yang.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan melayang(kan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ dilakukan dengan cara melengkungkan sirip-siripnya ke atas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan mengirim(kan) sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ surat peringatan telah dilakukan oleh pihak manajemen"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "proses penghentian objek oleh kekuatan fisik terhadap gaya gravitasi dalam posisi stabil tanpa kontak fisik yang keras",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pelayangan magnetik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61497",
+      "nama": "pe.la.yang.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat layang3",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

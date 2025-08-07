@@ -1,1 +1,81 @@
-{"word":"pemberian","authenticated":true,"entries":[{"id":"10681","nama":"pem.be.ri.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang diberikan","contoh":[{"nomor":2,"teks":"anak itu menolak ~ orang asing itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang didapat dari orang lain (karena diberi)","contoh":[{"nomor":2,"teks":"barang ini bukannya kami beli, melainkan ~ Paman"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan memberi atau memberikan","contoh":[{"nomor":2,"teks":"~ ampun"}]}],"rootWord":"beri","terkait":{"kataTurunan":[],"gabunganKata":["pemberian ASI eksklusif","pemberian donasi","pemberian fasilitas","pemberian gelar","pemberian keringanan","pemberian pakan terbatas","pemberian stimulus","pemberian susu formula","pemberian vaksinasi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pemberian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10681",
+      "nama": "pem.be.ri.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang diberikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu menolak ~ orang asing itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang didapat dari orang lain (karena diberi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang ini bukannya kami beli, melainkan ~ Paman"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan memberi atau memberikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ampun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "beri",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pemberian ASI eksklusif",
+          "pemberian donasi",
+          "pemberian fasilitas",
+          "pemberian gelar",
+          "pemberian keringanan",
+          "pemberian pakan terbatas",
+          "pemberian stimulus",
+          "pemberian susu formula",
+          "pemberian vaksinasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

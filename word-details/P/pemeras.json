@@ -1,1 +1,51 @@
-{"word":"pemeras","authenticated":true,"entries":[{"id":"62331","nama":"pe.me.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memeras","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkakas untuk memeras","contoh":[{"nomor":2,"teks":"mesin ~"}]}],"rootWord":"peras¹","terkait":{"kataTurunan":[],"gabunganKata":["pemeras santan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pemeras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62331",
+      "nama": "pe.me.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memeras",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkakas untuk memeras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mesin ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "peras¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pemeras santan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

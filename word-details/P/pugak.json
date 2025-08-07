@@ -1,1 +1,56 @@
-{"word":"pugak","authenticated":true,"entries":[{"id":"65626","nama":"pu.gak","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial berpugak-pugak","contoh":[]}],"terkait":{"kataTurunan":["berpugak-pugak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"228136","nama":"pu.gak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"dahan pohon jati yang dipangkas (agar pertumbuhannya maksimal)","contoh":[{"nomor":2,"teks":"dalam beberapa hari akan muncul daun pada --"}]}]}]}
+{
+  "word": "pugak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65626",
+      "nama": "pu.gak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial berpugak-pugak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpugak-pugak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228136",
+      "nama": "pu.gak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dahan pohon jati yang dipangkas (agar pertumbuhannya maksimal)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam beberapa hari akan muncul daun pada --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

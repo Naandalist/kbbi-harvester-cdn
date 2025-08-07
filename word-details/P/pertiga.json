@@ -1,1 +1,35 @@
-{"word":"pertiga","authenticated":true,"entries":[{"id":"85846","nama":"per.ti.ga","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"bagian dari sesuatu yang dibagi tiga: dua bagian dari sesuatu yang dibagi tiga (⅔)","contoh":[{"nomor":2,"teks":"dua ~"},{"nomor":4,"teks":"dua ~ dari jualannya sudah habis"}]}],"rootWord":"tiga"}]}
+{
+  "word": "pertiga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85846",
+      "nama": "per.ti.ga",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian dari sesuatu yang dibagi tiga: dua bagian dari sesuatu yang dibagi tiga (⅔)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "dua ~ dari jualannya sudah habis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tiga"
+    }
+  ]
+}

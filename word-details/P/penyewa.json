@@ -1,1 +1,48 @@
-{"word":"penyewa","authenticated":true,"entries":[{"id":"76573","nama":"pe.nye.wa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menyewa","contoh":[{"nomor":2,"teks":"~ rumah ini sedang ke luar kota"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang dan sebagainya untuk menyewa","contoh":[{"nomor":2,"teks":"uang yang disediakan untuk ~ kios di pasar telah habis"}]}],"rootWord":"sewa¹"}]}
+{
+  "word": "penyewa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76573",
+      "nama": "pe.nye.wa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menyewa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ rumah ini sedang ke luar kota"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang dan sebagainya untuk menyewa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang yang disediakan untuk ~ kios di pasar telah habis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sewa¹"
+    }
+  ]
+}

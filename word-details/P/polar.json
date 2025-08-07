@@ -1,1 +1,65 @@
-{"word":"polar","authenticated":true,"entries":[{"id":"64402","nama":"po.lar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kutub","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkutub","contoh":[]}],"terkait":{"kataTurunan":["kepolaran","keterpolaran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"100299","nama":"po.lar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian dalam kulit gandum yang mengandung pati dan protein","contoh":[]}]}]}
+{
+  "word": "polar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64402",
+      "nama": "po.lar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kutub",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkutub",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepolaran",
+          "keterpolaran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100299",
+      "nama": "po.lar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian dalam kulit gandum yang mengandung pati dan protein",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

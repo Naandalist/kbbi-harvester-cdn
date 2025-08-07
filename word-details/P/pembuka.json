@@ -1,1 +1,70 @@
-{"word":"pembuka","authenticated":true,"entries":[{"id":"12982","nama":"pem.bu.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk membuka","contoh":[{"nomor":2,"teks":"~ kaleng"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang membuka","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pendahuluan","contoh":[{"nomor":2,"teks":"~ kata"}]}],"rootWord":"buka¹","terkait":{"kataTurunan":[],"gabunganKata":["pembuka jalan","pembuka kaleng","pembuka tutup gabus"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pembuka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12982",
+      "nama": "pem.bu.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk membuka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kaleng"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang membuka",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendahuluan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kata"
+            }
+          ]
+        }
+      ],
+      "rootWord": "buka¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pembuka jalan",
+          "pembuka kaleng",
+          "pembuka tutup gabus"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

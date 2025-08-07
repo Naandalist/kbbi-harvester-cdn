@@ -1,1 +1,85 @@
-{"word":"peraduan","authenticated":true,"entries":[{"id":"660","nama":"per.a.du.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal beradu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat beradu","contoh":[{"nomor":2,"teks":"mereka beramai-ramai pergi ke ~ ayam"}]}],"rootWord":"adu¹"},{"id":"66714","nama":"pe.ra.du.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat beristirahat; peristirahatan","contoh":[{"nomor":2,"teks":"tempat ~ raja"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"hor","nama":"Hormat","tipe":"lainnya"}],"definisi":"tempat tidur","contoh":[]}],"rootWord":"radu"}]}
+{
+  "word": "peraduan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "660",
+      "nama": "per.a.du.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal beradu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat beradu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka beramai-ramai pergi ke ~ ayam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "adu¹"
+    },
+    {
+      "id": "66714",
+      "nama": "pe.ra.du.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat beristirahat; peristirahatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tempat ~ raja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "hor",
+              "nama": "Hormat",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat tidur",
+          "contoh": []
+        }
+      ],
+      "rootWord": "radu"
+    }
+  ]
+}

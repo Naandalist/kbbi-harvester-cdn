@@ -1,1 +1,142 @@
-{"word":"persona non-grata","authenticated":true,"entries":[{"id":"1","nama":"per.so.na non-gra.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"frase","nama":"Frase","tipe":"lainnya"},{"kode":"ki","nama":"Kata Invasi","tipe":"kelas_kata"}],"definisi":"orang yang tidak dikehendaki atau tidak disenangi (kehadirannya) oleh suatu negara","contoh":[{"nomor":1,"teks":"kedutaan besar AS di Ankara mengatakan bahwa Washington telah menyatakan dua anggota staf konsulat Rusia di San Fransisco sebagai --"},{"nomor":2,"teks":"sikap pemerintah AS itu juga menyatakan tiga anggota staf kedutaan Rusia di Washington sebagai --"}]}],"rootWord":"sonapersona"},{"id":"2","nama":"per.so.na non-gra.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"Kata Invasi","tipe":"kelas_kata"}],"definisi":"orang yang tidak disukai (karena telah membuat kesalahan atau berbuat tidak menyenangkan)","contoh":[{"nomor":1,"teks":"karena melanggar peraturan, ia dinyatakan sebagai -- di lingkungan perusahaan"},{"nomor":2,"teks":"pemerintah telah menetapkan beberapa nama sebagai -- di kalangan diplomatik"}]}],"rootWord":"sonapersona"},{"id":"3","nama":"per.so.na non-gra.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"Kata Invasi","tipe":"kelas_kata"}],"definisi":"orang yang tidak diinginkan hadir atau berpartisipasi dalam suatu kegiatan atau acara","contoh":[{"nomor":1,"teks":"dia dianggap sebagai -- dalam pertemuan itu karena telah membuat keributan"},{"nomor":2,"teks":"organisasi itu telah menyatakan beberapa orang sebagai -- karena telah melanggar kode etik"}]}],"rootWord":"sonapersona"},{"id":"4","nama":"per.so.na non-gra.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"Kata Invasi","tipe":"kelas_kata"}],"definisi":"orang yang tidak memiliki reputasi baik atau tidak dipercaya dalam suatu komunitas atau masyarakat","contoh":[{"nomor":1,"teks":"dia telah menjadi -- di masyarakat karena telah melakukan penipuan"},{"nomor":2,"teks":"perusahaan itu telah menyatakan bahwa beberapa mantan karyawan adalah -- karena telah melakukan korupsi"}]}],"rootWord":"sonapersona"}]}
+{
+  "word": "persona non-grata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "per.so.na non-gra.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "frase",
+              "nama": "Frase",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kata Invasi",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak dikehendaki atau tidak disenangi (kehadirannya) oleh suatu negara",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "kedutaan besar AS di Ankara mengatakan bahwa Washington telah menyatakan dua anggota staf konsulat Rusia di San Fransisco sebagai --"
+            },
+            {
+              "nomor": 2,
+              "teks": "sikap pemerintah AS itu juga menyatakan tiga anggota staf kedutaan Rusia di Washington sebagai --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "2",
+      "nama": "per.so.na non-gra.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kata Invasi",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak disukai (karena telah membuat kesalahan atau berbuat tidak menyenangkan)",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "karena melanggar peraturan, ia dinyatakan sebagai -- di lingkungan perusahaan"
+            },
+            {
+              "nomor": 2,
+              "teks": "pemerintah telah menetapkan beberapa nama sebagai -- di kalangan diplomatik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "3",
+      "nama": "per.so.na non-gra.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kata Invasi",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak diinginkan hadir atau berpartisipasi dalam suatu kegiatan atau acara",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia dianggap sebagai -- dalam pertemuan itu karena telah membuat keributan"
+            },
+            {
+              "nomor": 2,
+              "teks": "organisasi itu telah menyatakan beberapa orang sebagai -- karena telah melanggar kode etik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    },
+    {
+      "id": "4",
+      "nama": "per.so.na non-gra.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "Kata Invasi",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak memiliki reputasi baik atau tidak dipercaya dalam suatu komunitas atau masyarakat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia telah menjadi -- di masyarakat karena telah melakukan penipuan"
+            },
+            {
+              "nomor": 2,
+              "teks": "perusahaan itu telah menyatakan bahwa beberapa mantan karyawan adalah -- karena telah melakukan korupsi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sonapersona"
+    }
+  ]
+}

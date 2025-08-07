@@ -1,1 +1,56 @@
-{"word":"perisa","authenticated":true,"entries":[{"id":"62619","nama":"pe.ri.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"enak; sedap","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penambah rasa","contoh":[{"nomor":2,"teks":"puding ini diberi -- coklat"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["perisa identik","perisa sintetik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "perisa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62619",
+      "nama": "pe.ri.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "enak; sedap",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penambah rasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "puding ini diberi -- coklat"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "perisa identik",
+          "perisa sintetik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

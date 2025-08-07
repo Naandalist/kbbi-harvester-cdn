@@ -1,1 +1,54 @@
-{"word":"parako","authenticated":true,"entries":[{"id":"92942","nama":"pa.ra.ko","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"para komando","contoh":[]}]},{"id":"115648","nama":"pa.ra.ko","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tempat perapian berupa bidang persegi empat yang dibatasi kayu dan diisi tanah supaya api tidak mencapai lantai kayu","contoh":[]}]}]}
+{
+  "word": "parako",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92942",
+      "nama": "pa.ra.ko",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "para komando",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "115648",
+      "nama": "pa.ra.ko",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tempat perapian berupa bidang persegi empat yang dibatasi kayu dan diisi tanah supaya api tidak mencapai lantai kayu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

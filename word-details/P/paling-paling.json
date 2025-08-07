@@ -1,1 +1,48 @@
-{"word":"paling-paling","authenticated":true,"entries":[{"id":"59432","nama":"pa.ling-pa.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlampau amat; terlalu","contoh":[{"nomor":2,"teks":"anak ini ~ (nakalnya dan sebagainya)"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"sebanyak-banyaknya; setinggi-tingginya","contoh":[{"nomor":2,"teks":"gaji pegawai itu tidak besar, ~ hanya cukup untuk hidup sederhana"}]}],"rootWord":"paling²"}]}
+{
+  "word": "paling-paling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59432",
+      "nama": "pa.ling-pa.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlampau amat; terlalu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak ini ~ (nakalnya dan sebagainya)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebanyak-banyaknya; setinggi-tingginya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gaji pegawai itu tidak besar, ~ hanya cukup untuk hidup sederhana"
+            }
+          ]
+        }
+      ],
+      "rootWord": "paling²"
+    }
+  ]
+}

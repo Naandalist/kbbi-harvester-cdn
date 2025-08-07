@@ -1,1 +1,65 @@
-{"word":"puar","authenticated":true,"entries":[{"id":"163979","nama":"pu.ar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tumbuhan yang memiliki rizom","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tercincang puar bergerak andilau"],"idiom":[]}},{"id":"120885","nama":"pu.ar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ht","nama":"Hitu","tipe":"lainnya"}],"definisi":"gerombolan ikan yang muncul di permukaan air laut","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tercincang puar bergerak andilau"],"idiom":[]}}]}
+{
+  "word": "puar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "163979",
+      "nama": "pu.ar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tumbuhan yang memiliki rizom",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tercincang puar bergerak andilau"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120885",
+      "nama": "pu.ar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ht",
+              "nama": "Hitu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gerombolan ikan yang muncul di permukaan air laut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tercincang puar bergerak andilau"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

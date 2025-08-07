@@ -1,1 +1,48 @@
-{"word":"perladangan","authenticated":true,"entries":[{"id":"45722","nama":"per.la.dang.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat orang berladang","contoh":[{"nomor":2,"teks":"ia dilahirkan dan dibesarkan di ~ bapaknya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal berladang","contoh":[{"nomor":2,"teks":"urusan perkebunan dan ~"}]}],"rootWord":"ladang¹"}]}
+{
+  "word": "perladangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45722",
+      "nama": "per.la.dang.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat orang berladang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dilahirkan dan dibesarkan di ~ bapaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal berladang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "urusan perkebunan dan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ladang¹"
+    }
+  ]
+}

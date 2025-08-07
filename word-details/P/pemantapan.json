@@ -1,1 +1,48 @@
-{"word":"pemantapan","authenticated":true,"entries":[{"id":"52183","nama":"pe.man.tap.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan memantapkan (meneguhkan, menjadikan stabil)","contoh":[{"nomor":2,"teks":"mereka telah melakukan ~ administrasi untuk menjamin penyaluran bahan pangan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"penambahan beban pada larutan untuk menguatkan emulsi film","contoh":[]}],"rootWord":"mantap"}]}
+{
+  "word": "pemantapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52183",
+      "nama": "pe.man.tap.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan memantapkan (meneguhkan, menjadikan stabil)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka telah melakukan ~ administrasi untuk menjamin penyaluran bahan pangan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penambahan beban pada larutan untuk menguatkan emulsi film",
+          "contoh": []
+        }
+      ],
+      "rootWord": "mantap"
+    }
+  ]
+}

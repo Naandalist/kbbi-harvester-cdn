@@ -1,1 +1,185 @@
-{"word":"pun","authenticated":true,"entries":[{"id":"65875","nama":"pun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"juga atau demikian juga","contoh":[{"nomor":2,"teks":"jika Anda pergi, saya -- hendak pergi"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"meski; biar; kendati","contoh":[{"nomor":2,"teks":"mahal -- dibelinya juga"}]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"saja ...","contoh":[{"nomor":2,"teks":"berdiri -- tidak dapat, apalagi berjalan"},{"nomor":4,"teks":"apa -- dimakannya (jua)"}]},{"nomor":"4","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"(...pun ...lah) untuk menyatakan aspek bahwa perbuatan mulai terjadi","contoh":[{"nomor":2,"teks":"hari -- malamlah"}]},{"nomor":"5","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"untuk menguatkan dan menyatakan pokok kalimat","contoh":[{"nomor":2,"teks":"maka baginda -- bertanya pula"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["air laut pun ada pasang surutnya","air pun ada pasang surutnya","akar tidak kuat, digoyang beruk pun tumbang","apa yang kurang pada belida, sisik ada tulang pun ada","asal ada, kecil pun pada","ayam bertelur sebutir, ribut seluruh negeri, penyu bertelur beribu-ribu, tiada seorang pun (yang) tahu","ayam dapat, musang pun dapat","badai reda, hujan pun teduh","bak mandi di air kiambang, pelak lepas gatal pun datang","betapa pun lurus paku, ujungnya berkelok juga","bunga gugur, putik pun gugur","kalau pandai menggulai badar pun menjadi tenggiri","kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang","madu satu tong, jika rembes, rembesnya pun madu jua","sepuluh kapal datang, anjing pun bercawat ekor","siapa pun jadi raja, tanganku ke dahi juga","tercubit paha kiri, paha kanan pun berasa sakit","tiada rotan, akar pun berguna (jadi)","ular bukan, ikan pun bukan"],"idiom":[]}},{"id":"212458","nama":"pun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan ukuran senilai 0,01 inci","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan ukuran tipe huruf sebesar 0,01 inci","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["air laut pun ada pasang surutnya","air pun ada pasang surutnya","akar tidak kuat, digoyang beruk pun tumbang","apa yang kurang pada belida, sisik ada tulang pun ada","asal ada, kecil pun pada","ayam bertelur sebutir, ribut seluruh negeri, penyu bertelur beribu-ribu, tiada seorang pun (yang) tahu","ayam dapat, musang pun dapat","badai reda, hujan pun teduh","bak mandi di air kiambang, pelak lepas gatal pun datang","betapa pun lurus paku, ujungnya berkelok juga","bunga gugur, putik pun gugur","kalau pandai menggulai badar pun menjadi tenggiri","kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang","madu satu tong, jika rembes, rembesnya pun madu jua","sepuluh kapal datang, anjing pun bercawat ekor","siapa pun jadi raja, tanganku ke dahi juga","tercubit paha kiri, paha kanan pun berasa sakit","tiada rotan, akar pun berguna (jadi)","ular bukan, ikan pun bukan"],"idiom":[]}}]}
+{
+  "word": "pun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65875",
+      "nama": "pun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "juga atau demikian juga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika Anda pergi, saya -- hendak pergi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meski; biar; kendati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mahal -- dibelinya juga"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saja ...",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdiri -- tidak dapat, apalagi berjalan"
+            },
+            {
+              "nomor": 4,
+              "teks": "apa -- dimakannya (jua)"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(...pun ...lah) untuk menyatakan aspek bahwa perbuatan mulai terjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari -- malamlah"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "untuk menguatkan dan menyatakan pokok kalimat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maka baginda -- bertanya pula"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air laut pun ada pasang surutnya",
+          "air pun ada pasang surutnya",
+          "akar tidak kuat, digoyang beruk pun tumbang",
+          "apa yang kurang pada belida, sisik ada tulang pun ada",
+          "asal ada, kecil pun pada",
+          "ayam bertelur sebutir, ribut seluruh negeri, penyu bertelur beribu-ribu, tiada seorang pun (yang) tahu",
+          "ayam dapat, musang pun dapat",
+          "badai reda, hujan pun teduh",
+          "bak mandi di air kiambang, pelak lepas gatal pun datang",
+          "betapa pun lurus paku, ujungnya berkelok juga",
+          "bunga gugur, putik pun gugur",
+          "kalau pandai menggulai badar pun menjadi tenggiri",
+          "kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang",
+          "madu satu tong, jika rembes, rembesnya pun madu jua",
+          "sepuluh kapal datang, anjing pun bercawat ekor",
+          "siapa pun jadi raja, tanganku ke dahi juga",
+          "tercubit paha kiri, paha kanan pun berasa sakit",
+          "tiada rotan, akar pun berguna (jadi)",
+          "ular bukan, ikan pun bukan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212458",
+      "nama": "pun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan ukuran senilai 0,01 inci",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan ukuran tipe huruf sebesar 0,01 inci",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air laut pun ada pasang surutnya",
+          "air pun ada pasang surutnya",
+          "akar tidak kuat, digoyang beruk pun tumbang",
+          "apa yang kurang pada belida, sisik ada tulang pun ada",
+          "asal ada, kecil pun pada",
+          "ayam bertelur sebutir, ribut seluruh negeri, penyu bertelur beribu-ribu, tiada seorang pun (yang) tahu",
+          "ayam dapat, musang pun dapat",
+          "badai reda, hujan pun teduh",
+          "bak mandi di air kiambang, pelak lepas gatal pun datang",
+          "betapa pun lurus paku, ujungnya berkelok juga",
+          "bunga gugur, putik pun gugur",
+          "kalau pandai menggulai badar pun menjadi tenggiri",
+          "kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang",
+          "madu satu tong, jika rembes, rembesnya pun madu jua",
+          "sepuluh kapal datang, anjing pun bercawat ekor",
+          "siapa pun jadi raja, tanganku ke dahi juga",
+          "tercubit paha kiri, paha kanan pun berasa sakit",
+          "tiada rotan, akar pun berguna (jadi)",
+          "ular bukan, ikan pun bukan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

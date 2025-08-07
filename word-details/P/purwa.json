@@ -1,1 +1,77 @@
-{"word":"purwa","authenticated":true,"entries":[{"id":"100468","nama":"pur.wa-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk","nama":"-","tipe":"lainnya"}],"definisi":"permulaan; dahulu","contoh":[{"nomor":2,"teks":"purwakanti; purwarupa; purwapada"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["purwa kala"],"peribahasa":[],"idiom":[]}},{"id":"66125","nama":"pur.wa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mula-mula; permulaan; dahulu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang mengisahkan cerita Mahabarata dan Ramayana (tentang wayang)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["purwa kala"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "purwa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "100468",
+      "nama": "pur.wa-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "permulaan; dahulu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "purwakanti; purwarupa; purwapada"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "purwa kala"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66125",
+      "nama": "pur.wa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mula-mula; permulaan; dahulu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang mengisahkan cerita Mahabarata dan Ramayana (tentang wayang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "purwa kala"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

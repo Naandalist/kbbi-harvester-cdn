@@ -1,1 +1,71 @@
-{"word":"pesona","authenticated":true,"entries":[{"id":"63042","nama":"pe.so.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"guna-guna; jampi; mantra (sihir)","contoh":[{"nomor":2,"teks":"dukun itu membuat (mengenakan) -- kepada gadis itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daya tarik; daya pikat","contoh":[{"nomor":2,"teks":"senyum gadis itu penuh --"}]}],"etimologi":{"text":"[Persia افسون afsūn n 'sihir']","languages":["Persia"]},"terkait":{"kataTurunan":["keterpesonaan","memesona","memesonai","memesonakan","mempesona","terpesona"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pesona",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63042",
+      "nama": "pe.so.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "guna-guna; jampi; mantra (sihir)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dukun itu membuat (mengenakan) -- kepada gadis itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daya tarik; daya pikat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "senyum gadis itu penuh --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia افسون afsūn n 'sihir']",
+        "languages": [
+          "Persia"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "keterpesonaan",
+          "memesona",
+          "memesonai",
+          "memesonakan",
+          "mempesona",
+          "terpesona"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

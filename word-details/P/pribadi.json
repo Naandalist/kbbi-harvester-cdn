@@ -1,1 +1,64 @@
-{"word":"pribadi","authenticated":true,"entries":[{"id":"65113","nama":"pri.ba.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"manusia sebagai perseorangan (diri manusia atau diri sendiri): pendapat sendiri, bukan pendapat orang lain pengawal untuk diri sendiri","contoh":[{"nomor":2,"teks":"kritik itu ditujukan kepada orang itu sebagai ketua, bukannya sebagai --"},{"nomor":4,"teks":"pendapat --"},{"nomor":6,"teks":"pengawal --"},{"nomor":8,"teks":"sekretaris --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan manusia sebagai perseorangan; keseluruhan sifat-sifat yang merupakan watak orang","contoh":[]}],"terkait":{"kataTurunan":["berkepribadian","kepribadian","mempribadikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pribadi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65113",
+      "nama": "pri.ba.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "manusia sebagai perseorangan (diri manusia atau diri sendiri): pendapat sendiri, bukan pendapat orang lain pengawal untuk diri sendiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kritik itu ditujukan kepada orang itu sebagai ketua, bukannya sebagai --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pendapat --"
+            },
+            {
+              "nomor": 6,
+              "teks": "pengawal --"
+            },
+            {
+              "nomor": 8,
+              "teks": "sekretaris --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan manusia sebagai perseorangan; keseluruhan sifat-sifat yang merupakan watak orang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkepribadian",
+          "kepribadian",
+          "mempribadikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

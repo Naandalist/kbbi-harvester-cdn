@@ -1,1 +1,43 @@
-{"word":"pengauditan","authenticated":true,"entries":[{"id":"5952","nama":"peng.au.dit.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan mengaudit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"evaluasi bukti-bukti yang diperoleh untuk menentukan kemampuan sistem informasi yang diaudit dalam melindungi aset, menjaga integritas data, dan beroperasi secara efektif untuk mencapai sasaran atau tujuan organisasi","contoh":[]}],"rootWord":"audit"}]}
+{
+  "word": "pengauditan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5952",
+      "nama": "peng.au.dit.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan mengaudit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "evaluasi bukti-bukti yang diperoleh untuk menentukan kemampuan sistem informasi yang diaudit dalam melindungi aset, menjaga integritas data, dan beroperasi secara efektif untuk mencapai sasaran atau tujuan organisasi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "audit"
+    }
+  ]
+}

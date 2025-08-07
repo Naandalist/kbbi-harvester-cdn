@@ -1,1 +1,35 @@
-{"word":"p.p.","authenticated":true,"entries":[{"id":"200564","nama":"p.p.","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pulang pergi","contoh":[{"nomor":2,"teks":"dia membeli tiket --"}]}]}]}
+{
+  "word": "p.p.",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200564",
+      "nama": "p.p.",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pulang pergi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia membeli tiket --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

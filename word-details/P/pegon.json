@@ -1,1 +1,98 @@
-{"word":"pegon","authenticated":true,"entries":[{"id":"61309","nama":"pe.gon","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"aksara Arab yang digunakan untuk menuliskan bahasa Jawa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tulisan Arab yang tidak diberi tanda-tanda bunyi (diakritik); tulisan Arab gundul","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["pegon gundul"],"peribahasa":[],"idiom":[]}},{"id":"61310","nama":"pe.gon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"versi sampan kelelaan yang diberi kokop dan diperbesar menjadi perahu bercantek yang mampu mengangkut hingga 100 ton muatan","contoh":[]}]},{"id":"94571","nama":"pe.gon","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"godek nongkek","contoh":[]}]}]}
+{
+  "word": "pegon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61309",
+      "nama": "pe.gon",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "aksara Arab yang digunakan untuk menuliskan bahasa Jawa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tulisan Arab yang tidak diberi tanda-tanda bunyi (diakritik); tulisan Arab gundul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pegon gundul"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "61310",
+      "nama": "pe.gon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "versi sampan kelelaan yang diberi kokop dan diperbesar menjadi perahu bercantek yang mampu mengangkut hingga 100 ton muatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "94571",
+      "nama": "pe.gon",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "godek nongkek",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

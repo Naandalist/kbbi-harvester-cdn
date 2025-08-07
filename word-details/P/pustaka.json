@@ -1,1 +1,74 @@
-{"word":"pustaka","authenticated":true,"entries":[{"id":"66228","nama":"pus.ta.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kitab; buku","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku primbon","contoh":[]}],"terkait":{"kataTurunan":["kepustakaan","pemustaka","perpustakaan"],"gabunganKata":["pustaka acuan","pustaka pelajar"],"peribahasa":[],"idiom":[]}},{"id":"100471","nama":"pus.ta.ka","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"kumpulan bahan-bahan rujukan dan perkakas perangkat lunak","contoh":[]}]}]}
+{
+  "word": "pustaka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66228",
+      "nama": "pus.ta.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kitab; buku",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku primbon",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepustakaan",
+          "pemustaka",
+          "perpustakaan"
+        ],
+        "gabunganKata": [
+          "pustaka acuan",
+          "pustaka pelajar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100471",
+      "nama": "pus.ta.ka",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kumpulan bahan-bahan rujukan dan perkakas perangkat lunak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

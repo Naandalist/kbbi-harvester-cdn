@@ -1,1 +1,56 @@
-{"word":"polang","authenticated":true,"entries":[{"id":"64400","nama":"po.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial polang-paling","contoh":[]}],"terkait":{"kataTurunan":["polang-paling"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"196441","nama":"po.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"kurang kental (tentang santan)","contoh":[{"nomor":2,"teks":"gulai ini --"}]}]}]}
+{
+  "word": "polang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64400",
+      "nama": "po.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial polang-paling",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "polang-paling"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "196441",
+      "nama": "po.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kurang kental (tentang santan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gulai ini --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"penggugat","authenticated":true,"entries":[{"id":"27572","nama":"peng.gu.gat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menggugat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"orang atau lembaga yang mengajukan gugatan ke pengadilan karena haknya dilanggar","contoh":[]}],"rootWord":"gugat¹"}]}
+{
+  "word": "penggugat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27572",
+      "nama": "peng.gu.gat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menggugat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang atau lembaga yang mengajukan gugatan ke pengadilan karena haknya dilanggar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gugat¹"
+    }
+  ]
+}

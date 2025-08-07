@@ -1,1 +1,114 @@
-{"word":"pelang","authenticated":true,"entries":[{"id":"61452","nama":"pe.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"perahu dagang","contoh":[{"nomor":2,"teks":"hanyut Puan dari hulu, berisi ambar kasturi, -- Jawa memuat kelapa"}]}]},{"id":"61450","nama":"pe.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalur berwarna (seperti pada bendera, bulu harimau); loreng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buluh yang kulitnya belang-belang hitam","contoh":[]}]},{"id":"61451","nama":"pe.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"papan (nama dan sebagainya)","contoh":[]}]},{"id":"237037","nama":"pe.lang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"tanah yang menggunduk menyerupai galangan","contoh":[]}]}]}
+{
+  "word": "pelang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61452",
+      "nama": "pe.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perahu dagang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hanyut Puan dari hulu, berisi ambar kasturi, -- Jawa memuat kelapa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61450",
+      "nama": "pe.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalur berwarna (seperti pada bendera, bulu harimau); loreng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buluh yang kulitnya belang-belang hitam",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "61451",
+      "nama": "pe.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "papan (nama dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "237037",
+      "nama": "pe.lang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tanah yang menggunduk menyerupai galangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

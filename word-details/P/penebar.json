@@ -1,1 +1,72 @@
-{"word":"penebar","authenticated":true,"entries":[{"id":"83412","nama":"pe.ne.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menebar(kan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menebar(kan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"penyiar","contoh":[{"nomor":2,"teks":"seorang juru dakwah adalah seorang ~ agama Islam"}]}],"rootWord":"tebar","terkait":{"kataTurunan":[],"gabunganKata":["penebar fitnah","penebar hoaks","penebar kebencian","penebar rahmat","penebar teror"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "penebar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83412",
+      "nama": "pe.ne.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menebar(kan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menebar(kan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyiar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seorang juru dakwah adalah seorang ~ agama Islam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebar",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "penebar fitnah",
+          "penebar hoaks",
+          "penebar kebencian",
+          "penebar rahmat",
+          "penebar teror"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

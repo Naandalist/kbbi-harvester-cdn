@@ -1,1 +1,56 @@
-{"word":"pemanggungan","authenticated":true,"entries":[{"id":"59862","nama":"pe.mang.gung.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses, cara, perbuatan memanggungkan","contoh":[{"nomor":2,"teks":"~ lakon itu harus mendapat izin dari yang berwajib"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"keterlibatan aktor, penata artistik, penata musik, bunyi, dan lampu saat pertunjukan berlangsung, sedangkan sutradara mengamati jalannya pertunjukan","contoh":[]}],"rootWord":"panggung¹","terkait":{"kataTurunan":[],"gabunganKata":["pemanggungan simultan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pemanggungan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59862",
+      "nama": "pe.mang.gung.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses, cara, perbuatan memanggungkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lakon itu harus mendapat izin dari yang berwajib"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "keterlibatan aktor, penata artistik, penata musik, bunyi, dan lampu saat pertunjukan berlangsung, sedangkan sutradara mengamati jalannya pertunjukan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "panggung¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pemanggungan simultan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,131 @@
-{"word":"pin","authenticated":true,"entries":[{"id":"63604","nama":"pin","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"jarum penyemat; peniti; pasak","contoh":[]}]},{"id":"63605","nama":"pin","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sasaran berbentuk gada kecil tegak yang harus dijatuhkan dalam permainan boling","contoh":[]}]},{"id":"135589","nama":"pin","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"membawa benda bertali dengan menggantungkan talinya di kepala sehingga bawaan menempel ke punggung","contoh":[]}]},{"id":"93012","nama":"PIN","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Pusat Informasi Nasional","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"angka identifikasi pribadi (kata sandi numerik yang digunakan untuk autentikasi pengguna suatu sistem, misalnya ATM); personal identification number","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pekan imunisasi nasional (pekan pemberian imunisasi dengan vaksin polio untuk balita)","contoh":[]}]}]}
+{
+  "word": "pin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63604",
+      "nama": "pin",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jarum penyemat; peniti; pasak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "63605",
+      "nama": "pin",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sasaran berbentuk gada kecil tegak yang harus dijatuhkan dalam permainan boling",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "135589",
+      "nama": "pin",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membawa benda bertali dengan menggantungkan talinya di kepala sehingga bawaan menempel ke punggung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93012",
+      "nama": "PIN",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Pusat Informasi Nasional",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angka identifikasi pribadi (kata sandi numerik yang digunakan untuk autentikasi pengguna suatu sistem, misalnya ATM); personal identification number",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekan imunisasi nasional (pekan pemberian imunisasi dengan vaksin polio untuk balita)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

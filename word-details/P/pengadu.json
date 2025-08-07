@@ -1,1 +1,65 @@
-{"word":"pengadu","authenticated":true,"entries":[{"id":"647","nama":"peng.a.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang suka mengadu","contoh":[{"nomor":2,"teks":"anak itu ~ benar"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang mengadukan","contoh":[{"nomor":2,"teks":"tiba-tiba saja perkara itu sudah di tangan polisi, siapa gerangan ~nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"orang yang membuat pengaduan dengan mengajukan permohonan untuk penuntutan atas diri seseorang melalui prosedur hukum","contoh":[]}],"rootWord":"adu¹"}]}
+{
+  "word": "pengadu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "647",
+      "nama": "peng.a.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang suka mengadu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu ~ benar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang mengadukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba-tiba saja perkara itu sudah di tangan polisi, siapa gerangan ~nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang membuat pengaduan dengan mengajukan permohonan untuk penuntutan atas diri seseorang melalui prosedur hukum",
+          "contoh": []
+        }
+      ],
+      "rootWord": "adu¹"
+    }
+  ]
+}

@@ -1,1 +1,127 @@
-{"word":"pendikte","authenticated":true,"entries":[{"id":"1","nama":"pen.dik.te","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang membacakan kalimat atau kata yang harus ditulis oleh murid","contoh":[{"nomor":1,"teks":"gurunya menjadi --"},{"nomor":2,"teks":"siswa yang menjadi --"}]}],"rootWord":"pendiktependikte"},{"id":"2","nama":"pen.dik.te","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata atau kalimat yang dibacakan kepada murid untuk ditulis","contoh":[{"nomor":1,"teks":"-- hari ini mengenai keindahan alam"},{"nomor":2,"teks":"saya akan membacakan --"}]}],"rootWord":"pendiktependikte"},{"id":"3","nama":"pen.dik.te","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kt","nama":"Kata Tugas","tipe":"lainnya"}],"definisi":"pembacaan kata atau kalimat untuk ditranskripsikan atau ditulis","contoh":[{"nomor":1,"teks":"latihan -- dapat meningkatkan kemampuan menulis"},{"nomor":2,"teks":"metode -- efektif untuk belajar menulis"}]}],"rootWord":"pendiktependikte"},{"id":"4","nama":"pen.dik.te","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membacakan kata atau kalimat yang harus ditulis oleh orang lain","contoh":[{"nomor":1,"teks":"saya akan -- kalimat ini"},{"nomor":2,"teks":"dia -- dengan jelas"}]}],"rootWord":"pendiktependikte"}]}
+{
+  "word": "pendikte",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "pen.dik.te",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang membacakan kalimat atau kata yang harus ditulis oleh murid",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "gurunya menjadi --"
+            },
+            {
+              "nomor": 2,
+              "teks": "siswa yang menjadi --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pendiktependikte"
+    },
+    {
+      "id": "2",
+      "nama": "pen.dik.te",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata atau kalimat yang dibacakan kepada murid untuk ditulis",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "-- hari ini mengenai keindahan alam"
+            },
+            {
+              "nomor": 2,
+              "teks": "saya akan membacakan --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pendiktependikte"
+    },
+    {
+      "id": "3",
+      "nama": "pen.dik.te",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kt",
+              "nama": "Kata Tugas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pembacaan kata atau kalimat untuk ditranskripsikan atau ditulis",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "latihan -- dapat meningkatkan kemampuan menulis"
+            },
+            {
+              "nomor": 2,
+              "teks": "metode -- efektif untuk belajar menulis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pendiktependikte"
+    },
+    {
+      "id": "4",
+      "nama": "pen.dik.te",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membacakan kata atau kalimat yang harus ditulis oleh orang lain",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "saya akan -- kalimat ini"
+            },
+            {
+              "nomor": 2,
+              "teks": "dia -- dengan jelas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pendiktependikte"
+    }
+  ]
+}

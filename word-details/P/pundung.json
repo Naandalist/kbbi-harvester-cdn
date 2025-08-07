@@ -1,1 +1,87 @@
-{"word":"pundung","authenticated":true,"entries":[{"id":"65912","nama":"pun.dung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gundukan tanah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sarang semut (berupa gundukan tanah)","contoh":[]}],"terkait":{"kataTurunan":["pundungan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"132941","nama":"pun.dung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"pergi atau berhenti melakukan sesuatu karena merajuk","contoh":[]}],"terkait":{"kataTurunan":["pundungan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pundung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65912",
+      "nama": "pun.dung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gundukan tanah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sarang semut (berupa gundukan tanah)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pundungan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "132941",
+      "nama": "pun.dung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pergi atau berhenti melakukan sesuatu karena merajuk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pundungan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,145 @@
-{"word":"pi","authenticated":true,"entries":[{"id":"63273","nama":"pi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"taruhan di perjudian","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"berjudi dengan taruhan yang dibayar belakangan","contoh":[{"nomor":2,"teks":"main --"}]}],"etimologi":{"text":"[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']","languages":["Hokkien dialek Xiamen"]}},{"id":"63274","nama":"pi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bulus; labi-labi","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']","languages":["Hokkien dialek Xiamen"]}},{"id":"63275","nama":"pi","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"papi","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']","languages":["Hokkien dialek Xiamen"]}},{"id":"63276","nama":"pi","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf ke-16 abjad Yunani","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"konstanta matematika yang merupakan nisbah keliling lingkaran dengan diameter lingkaran, dilambangkan dengan π (huruf ke-16 abjad Yunani), nilainya mendekati 3,1415...","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "pi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63273",
+      "nama": "pi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "taruhan di perjudian",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjudi dengan taruhan yang dibayar belakangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "main --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "63274",
+      "nama": "pi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bulus; labi-labi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "63275",
+      "nama": "pi",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "papi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "63276",
+      "nama": "pi",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf ke-16 abjad Yunani",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "konstanta matematika yang merupakan nisbah keliling lingkaran dengan diameter lingkaran, dilambangkan dengan π (huruf ke-16 abjad Yunani), nilainya mendekati 3,1415...",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 脾 phì 'taruhan di perjudian']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

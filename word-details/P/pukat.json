@@ -1,1 +1,85 @@
-{"word":"pukat","authenticated":true,"entries":[{"id":"65703","nama":"pu.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jaring (jala) besar dan panjang untuk menangkap ikan (bermacam-macam bentuk dan namanya, seperti -- tahan, -- tarik)","contoh":[]}],"terkait":{"kataTurunan":["memukat","pemukat"],"gabunganKata":["pukat cerut","pukat cincin","pukat dorong","pukat harimau","pukat hela","pukat Jepang","pukat kantong","pukat payang","pukat petarang","pukat tahan","pukat tangguk","pukat tarik"],"peribahasa":["pukat terlabuh, ikan tak dapat"],"idiom":["melampung pukat"]}},{"id":"268560","nama":"pu.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"santan perasan pertama","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["pukat terlabuh, ikan tak dapat"],"idiom":["melampung pukat"]}}]}
+{
+  "word": "pukat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65703",
+      "nama": "pu.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jaring (jala) besar dan panjang untuk menangkap ikan (bermacam-macam bentuk dan namanya, seperti -- tahan, -- tarik)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memukat",
+          "pemukat"
+        ],
+        "gabunganKata": [
+          "pukat cerut",
+          "pukat cincin",
+          "pukat dorong",
+          "pukat harimau",
+          "pukat hela",
+          "pukat Jepang",
+          "pukat kantong",
+          "pukat payang",
+          "pukat petarang",
+          "pukat tahan",
+          "pukat tangguk",
+          "pukat tarik"
+        ],
+        "peribahasa": [
+          "pukat terlabuh, ikan tak dapat"
+        ],
+        "idiom": [
+          "melampung pukat"
+        ]
+      }
+    },
+    {
+      "id": "268560",
+      "nama": "pu.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "santan perasan pertama",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "pukat terlabuh, ikan tak dapat"
+        ],
+        "idiom": [
+          "melampung pukat"
+        ]
+      }
+    }
+  ]
+}

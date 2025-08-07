@@ -1,1 +1,54 @@
-{"word":"pkw","authenticated":true,"entries":[{"id":"93023","nama":"PKW","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"panti keterampilan wanita","contoh":[]}]},{"id":"265374","nama":"PKW","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pusat kegiatan wilayah (pusat kegiatan yang berpotensi untuk melayani kegiatan skala provinsi atau beberapa kabupaten atau kota yang dipromosikan untuk dapat ditetapkan sebagai pusat kegiatan wilayah)","contoh":[]}]}]}
+{
+  "word": "pkw",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93023",
+      "nama": "PKW",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panti keterampilan wanita",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265374",
+      "nama": "PKW",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pusat kegiatan wilayah (pusat kegiatan yang berpotensi untuk melayani kegiatan skala provinsi atau beberapa kabupaten atau kota yang dipromosikan untuk dapat ditetapkan sebagai pusat kegiatan wilayah)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

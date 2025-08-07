@@ -1,1 +1,73 @@
-{"word":"permen","authenticated":true,"entries":[{"id":"62743","nama":"per.men","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gula-gula yang bau dan rasanya mengandung campuran minyak perangsang (dari tumbuhan)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["permen dalgona","permen jahe","permen jeli","permen kapas","permen karet","permen kelapa","permen susu kerbau"],"peribahasa":[],"idiom":[]}},{"id":"212719","nama":"per.men","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"peraturan menteri; peraturan yang dibuat oleh menteri","contoh":[{"nomor":2,"teks":"menteri keuangan mengeluarkan -- terkait penggunaan anggaran"}]}]}]}
+{
+  "word": "permen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62743",
+      "nama": "per.men",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gula-gula yang bau dan rasanya mengandung campuran minyak perangsang (dari tumbuhan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "permen dalgona",
+          "permen jahe",
+          "permen jeli",
+          "permen kapas",
+          "permen karet",
+          "permen kelapa",
+          "permen susu kerbau"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212719",
+      "nama": "per.men",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peraturan menteri; peraturan yang dibuat oleh menteri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menteri keuangan mengeluarkan -- terkait penggunaan anggaran"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

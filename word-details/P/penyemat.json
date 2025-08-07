@@ -1,1 +1,39 @@
-{"word":"penyemat","authenticated":true,"entries":[{"id":"74337","nama":"pe.nye.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menyemat","contoh":[{"nomor":2,"teks":"jarum ~"},{"nomor":4,"teks":"lidi ~"},{"nomor":6,"teks":"~ atap"}]}],"rootWord":"semat"}]}
+{
+  "word": "penyemat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74337",
+      "nama": "pe.nye.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menyemat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jarum ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "lidi ~"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ atap"
+            }
+          ]
+        }
+      ],
+      "rootWord": "semat"
+    }
+  ]
+}

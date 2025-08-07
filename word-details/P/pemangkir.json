@@ -1,1 +1,48 @@
-{"word":"pemangkir","authenticated":true,"entries":[{"id":"52049","nama":"pe.mang.kir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hot","nama":"Perhotelan","tipe":"lainnya"}],"definisi":"tamu yang meninggalkan hotel tanpa menyelesaikan pembayaran tagihan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang mangkir","contoh":[{"nomor":2,"teks":"aku merasa diriku seperti seorang ~ karena tidak hadir pada rapat itu"}]}],"rootWord":"mangkir"}]}
+{
+  "word": "pemangkir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52049",
+      "nama": "pe.mang.kir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hot",
+              "nama": "Perhotelan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tamu yang meninggalkan hotel tanpa menyelesaikan pembayaran tagihan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang mangkir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku merasa diriku seperti seorang ~ karena tidak hadir pada rapat itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mangkir"
+    }
+  ]
+}

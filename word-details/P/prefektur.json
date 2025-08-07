@@ -1,1 +1,46 @@
-{"word":"prefektur","authenticated":true,"entries":[{"id":"198943","nama":"pre.fek.tur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wilayah administratif setingkat keresidenan pada masa pemerintahan Herman Willem Daendels","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"vikariat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["prefektur apostolik","prefektur otonom"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "prefektur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198943",
+      "nama": "pre.fek.tur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wilayah administratif setingkat keresidenan pada masa pemerintahan Herman Willem Daendels",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "vikariat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "prefektur apostolik",
+          "prefektur otonom"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

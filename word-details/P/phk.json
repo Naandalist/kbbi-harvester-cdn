@@ -1,1 +1,38 @@
-{"word":"phk","authenticated":true,"entries":[{"id":"93007","nama":"PHK","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"pemutusan hubungan kerja","contoh":[]}],"terkait":{"kataTurunan":["mem-PHK-kan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "phk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93007",
+      "nama": "PHK",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemutusan hubungan kerja",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mem-PHK-kan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

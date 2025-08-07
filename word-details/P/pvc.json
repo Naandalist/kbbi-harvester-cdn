@@ -1,1 +1,54 @@
-{"word":"pvc","authenticated":true,"entries":[{"id":"93303","nama":"PVC","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"polivinil klorida; polyvinyl chloride","contoh":[]}]},{"id":"308986","nama":"pcv","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"vaksin untuk mencegah pneumonia dan meningitis pada anak dan manula; dari pneumococcal conjugate vaccine","contoh":[]}]}]}
+{
+  "word": "pvc",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93303",
+      "nama": "PVC",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "polivinil klorida; polyvinyl chloride",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "308986",
+      "nama": "pcv",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "vaksin untuk mencegah pneumonia dan meningitis pada anak dan manula; dari pneumococcal conjugate vaccine",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

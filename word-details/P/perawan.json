@@ -1,1 +1,78 @@
-{"word":"perawan","authenticated":true,"entries":[{"id":"62342","nama":"pe.ra.wan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anak perempuan yang sudah patut kawin; anak dara; gadis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"belum pernah bersetubuh dengan laki-laki; masih murni (tentang anak perempuan)","contoh":[{"nomor":2,"teks":"meskipun umurnya 30 tahun, ia masih --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"belum digarap (diusik-usik, dijamah tentang hutan, daerah, dan sebagainya)","contoh":[{"nomor":2,"teks":"sebagian besar hutan di pulau itu masih --"}]}],"terkait":{"kataTurunan":["keperawanan","memerawani"],"gabunganKata":["perawan kencur","Perawan Maria","perawan sunti","perawan tua"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "perawan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62342",
+      "nama": "pe.ra.wan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anak perempuan yang sudah patut kawin; anak dara; gadis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum pernah bersetubuh dengan laki-laki; masih murni (tentang anak perempuan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meskipun umurnya 30 tahun, ia masih --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum digarap (diusik-usik, dijamah tentang hutan, daerah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebagian besar hutan di pulau itu masih --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keperawanan",
+          "memerawani"
+        ],
+        "gabunganKata": [
+          "perawan kencur",
+          "Perawan Maria",
+          "perawan sunti",
+          "perawan tua"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

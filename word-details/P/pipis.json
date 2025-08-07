@@ -1,1 +1,84 @@
-{"word":"pipis","authenticated":true,"entries":[{"id":"63874","nama":"pi.pis","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial memipis, memipiskan, pipisan","contoh":[]}],"terkait":{"kataTurunan":["memipis","memipiskan","pipisan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"63878","nama":"pi.pis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kencing","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"air kencing","contoh":[]}]},{"id":"232735","nama":"pi.pis","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kue basah berbahan tepung beras dicampur santan kental, dan pisang raja yang dipotong kecil-kecil, dicampuri daun pandan, dibungkus dengan daun pisang, dikukus","contoh":[]}]}]}
+{
+  "word": "pipis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63874",
+      "nama": "pi.pis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial memipis, memipiskan, pipisan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memipis",
+          "memipiskan",
+          "pipisan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "63878",
+      "nama": "pi.pis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kencing",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "air kencing",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "232735",
+      "nama": "pi.pis",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kue basah berbahan tepung beras dicampur santan kental, dan pisang raja yang dipotong kecil-kecil, dicampuri daun pandan, dibungkus dengan daun pisang, dikukus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

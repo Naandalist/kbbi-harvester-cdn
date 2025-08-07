@@ -1,1 +1,84 @@
-{"word":"pelanggaran","authenticated":true,"entries":[{"id":"46544","nama":"pe.lang.gar.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbuatan (perkara) melanggar","contoh":[{"nomor":2,"teks":"setiap ~ berat di sekolah memiliki konsekuensi hukuman"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tindak pidana yang lebih ringan daripada kejahatan","contoh":[{"nomor":2,"teks":"peristiwa ~ itu sudah disidangkan di pengadilan"}]}],"rootWord":"langgar¹","terkait":{"kataTurunan":[],"gabunganKata":["pelanggaran administrasi","pelanggaran berat","pelanggaran berat HAM","pelanggaran besar","pelanggaran biasa","pelanggaran disiplin","pelanggaran etika","pelanggaran hak","pelanggaran hak cipta","pelanggaran kampanye","pelanggaran kedaulatan","pelanggaran kesusilaan","pelanggaran kewajiban hukum","pelanggaran konstitusi","pelanggaran netralitas","pelanggaran norma","pelanggaran pemilu","pelanggaran pidana","pelanggaran pribadi","pelanggaran privasi","pelanggaran prokes","pelanggaran protokol","pelanggaran serius","pelanggaran serupa"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "pelanggaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46544",
+      "nama": "pe.lang.gar.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbuatan (perkara) melanggar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap ~ berat di sekolah memiliki konsekuensi hukuman"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tindak pidana yang lebih ringan daripada kejahatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peristiwa ~ itu sudah disidangkan di pengadilan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "langgar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "pelanggaran administrasi",
+          "pelanggaran berat",
+          "pelanggaran berat HAM",
+          "pelanggaran besar",
+          "pelanggaran biasa",
+          "pelanggaran disiplin",
+          "pelanggaran etika",
+          "pelanggaran hak",
+          "pelanggaran hak cipta",
+          "pelanggaran kampanye",
+          "pelanggaran kedaulatan",
+          "pelanggaran kesusilaan",
+          "pelanggaran kewajiban hukum",
+          "pelanggaran konstitusi",
+          "pelanggaran netralitas",
+          "pelanggaran norma",
+          "pelanggaran pemilu",
+          "pelanggaran pidana",
+          "pelanggaran pribadi",
+          "pelanggaran privasi",
+          "pelanggaran prokes",
+          "pelanggaran protokol",
+          "pelanggaran serius",
+          "pelanggaran serupa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

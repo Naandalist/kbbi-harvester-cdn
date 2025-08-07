@@ -1,1 +1,63 @@
-{"word":"pengebut","authenticated":true,"entries":[{"id":"38234","nama":"pe.nge.but","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menghilangkan debu; bulu ayam; kemoceng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tukang kebut","contoh":[]}],"rootWord":"kebut¹"},{"id":"38238","nama":"pe.nge.but","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang (suka) mengebut","contoh":[{"nomor":2,"teks":"harus dipikirkan segi edukatif dalam penjatuhan hukuman untuk ~ remaja"}]}],"rootWord":"kebut²"}]}
+{
+  "word": "pengebut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38234",
+      "nama": "pe.nge.but",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menghilangkan debu; bulu ayam; kemoceng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tukang kebut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kebut¹"
+    },
+    {
+      "id": "38238",
+      "nama": "pe.nge.but",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang (suka) mengebut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harus dipikirkan segi edukatif dalam penjatuhan hukuman untuk ~ remaja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kebut²"
+    }
+  ]
+}

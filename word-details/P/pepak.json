@@ -1,1 +1,105 @@
-{"word":"pepak","authenticated":true,"entries":[{"id":"62080","nama":"pe.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lengkap (dari bermacam jenis); sangat lengkap","contoh":[{"nomor":2,"teks":"sesajian itu -- sekali"},{"nomor":4,"teks":"hidangan itu -- dengan lauk pauk"}]}],"terkait":{"kataTurunan":["sepepak","terpepak","memepak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"62082","nama":"pe.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memepak","contoh":[]}],"terkait":{"kataTurunan":["memepak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"141662","nama":"pe.pak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"gigit sebagian","contoh":[{"nomor":2,"teks":"apel itu sudah dia --"}]}]}]}
+{
+  "word": "pepak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62080",
+      "nama": "pe.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lengkap (dari bermacam jenis); sangat lengkap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sesajian itu -- sekali"
+            },
+            {
+              "nomor": 4,
+              "teks": "hidangan itu -- dengan lauk pauk"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sepepak",
+          "terpepak",
+          "memepak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "62082",
+      "nama": "pe.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memepak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memepak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "141662",
+      "nama": "pe.pak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gigit sebagian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apel itu sudah dia --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

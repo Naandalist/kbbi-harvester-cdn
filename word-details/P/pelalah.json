@@ -1,1 +1,64 @@
-{"word":"pelalah","authenticated":true,"entries":[{"id":"46073","nama":"pe.la.lah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang bersifat lalah; pelahap","contoh":[]}],"rootWord":"lalah¹"},{"id":"110705","nama":"pe.la.lah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"orang yang mengejar; pengejar","contoh":[]}],"rootWord":"lalah²"},{"id":"61425","nama":"pe.la.lah","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat lalah1","contoh":[]}]}]}
+{
+  "word": "pelalah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46073",
+      "nama": "pe.la.lah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang bersifat lalah; pelahap",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lalah¹"
+    },
+    {
+      "id": "110705",
+      "nama": "pe.la.lah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "orang yang mengejar; pengejar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lalah²"
+    },
+    {
+      "id": "61425",
+      "nama": "pe.la.lah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat lalah1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
