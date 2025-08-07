@@ -1,1 +1,61 @@
-{"word":"sopak","authenticated":true,"entries":[{"id":"78443","nama":"so.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit kulit berupa belang-belang putih di tangan atau kaki","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"belang putih bekas luka","contoh":[]}]},{"id":"165431","nama":"so.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tj","nama":"Tunjung","tipe":"lainnya"}],"definisi":"pangkal dahan atau cabang pohon","contoh":[]}]}]}
+{
+  "word": "sopak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78443",
+      "nama": "so.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit kulit berupa belang-belang putih di tangan atau kaki",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belang putih bekas luka",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "165431",
+      "nama": "so.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tj",
+              "nama": "Tunjung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pangkal dahan atau cabang pohon",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

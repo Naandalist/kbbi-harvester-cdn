@@ -1,1 +1,57 @@
-{"word":"sekongkol","authenticated":true,"entries":[{"id":"73475","nama":"se.kong.kol","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang turut serta berkomplot melakukan kejahatan (kecurangan dan sebagainya)","contoh":[{"nomor":2,"teks":"penyelundup narkotik serta beberapa orang --nya sudah tertangkap"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersekongkol","contoh":[{"nomor":2,"teks":"ia dituduh -- dengan kaum pengacau"}]}],"terkait":{"kataTurunan":["bersekongkol","persekongkolan","sekongkolan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sekongkol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73475",
+      "nama": "se.kong.kol",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang turut serta berkomplot melakukan kejahatan (kecurangan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyelundup narkotik serta beberapa orang --nya sudah tertangkap"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersekongkol",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dituduh -- dengan kaum pengacau"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersekongkol",
+          "persekongkolan",
+          "sekongkolan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

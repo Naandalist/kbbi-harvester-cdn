@@ -1,1 +1,54 @@
-{"word":"sundang","authenticated":true,"entries":[{"id":"79809","nama":"sun.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keris yang bilahnya lebar (seperti pedang)","contoh":[]}]},{"id":"142479","nama":"sun.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"dorong dengan kuat menggunakan kepala ke arah atas","contoh":[{"nomor":2,"teks":"daya -- domba cukup kuat"}]}]}]}
+{
+  "word": "sundang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79809",
+      "nama": "sun.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keris yang bilahnya lebar (seperti pedang)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "142479",
+      "nama": "sun.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dorong dengan kuat menggunakan kepala ke arah atas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daya -- domba cukup kuat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

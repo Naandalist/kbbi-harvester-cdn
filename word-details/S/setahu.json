@@ -1,1 +1,52 @@
-{"word":"setahu","authenticated":true,"entries":[{"id":"81046","nama":"se.ta.hu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"sepanjang atau sebanyak yang diketahui (oleh)","contoh":[{"nomor":2,"teks":"~ku dia orang baik"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"dengan diketahui atau disaksikan oleh","contoh":[{"nomor":2,"teks":"jual beli itu dilaksanakan dengan ~ lurah dan camat"},{"nomor":4,"teks":"tidak dengan ~nya, tanpa diketahuinya"}]}],"rootWord":"tahu¹"}]}
+{
+  "word": "setahu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81046",
+      "nama": "se.ta.hu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepanjang atau sebanyak yang diketahui (oleh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ku dia orang baik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan diketahui atau disaksikan oleh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jual beli itu dilaksanakan dengan ~ lurah dan camat"
+            },
+            {
+              "nomor": 4,
+              "teks": "tidak dengan ~nya, tanpa diketahuinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tahu¹"
+    }
+  ]
+}

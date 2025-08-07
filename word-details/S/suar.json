@@ -1,1 +1,98 @@
-{"word":"suar","authenticated":true,"entries":[{"id":"79113","nama":"su.ar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nyala api (suluh, pelita) untuk tanda (isyarat): memberi tanda isyarat dengan suar","contoh":[{"nomor":2,"teks":"memberi --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"obor atau suluh untuk memikat ikan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"mercusuar","contoh":[]}],"terkait":{"kataTurunan":["bersuar","menyuar","menyuarkan","tersuar"],"gabunganKata":["suar bakar","suar laut","suar matahari"],"peribahasa":[],"idiom":[]}},{"id":"79122","nama":"su.ar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"kayu pendorong perahu di hulu sungai yang dangkal dan deras airnya","contoh":[]}]}]}
+{
+  "word": "suar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79113",
+      "nama": "su.ar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyala api (suluh, pelita) untuk tanda (isyarat): memberi tanda isyarat dengan suar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "memberi --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "obor atau suluh untuk memikat ikan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mercusuar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersuar",
+          "menyuar",
+          "menyuarkan",
+          "tersuar"
+        ],
+        "gabunganKata": [
+          "suar bakar",
+          "suar laut",
+          "suar matahari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "79122",
+      "nama": "su.ar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu pendorong perahu di hulu sungai yang dangkal dan deras airnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

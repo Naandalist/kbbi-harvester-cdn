@@ -1,1 +1,55 @@
-{"word":"samsu","authenticated":true,"entries":[{"id":"71876","nama":"sam.su","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"arak (dari air tebu)","contoh":[]}],"etimologi":{"text":"[Kanton 三燒 saam shiu 'arak beras']","languages":["Kanton"]}},{"id":"71877","nama":"sam.su","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ syamsu","contoh":[]}],"etimologi":{"text":"[Kanton 三燒 saam shiu 'arak beras']","languages":["Kanton"]}}]}
+{
+  "word": "samsu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71876",
+      "nama": "sam.su",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "arak (dari air tebu)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Kanton 三燒 saam shiu 'arak beras']",
+        "languages": [
+          "Kanton"
+        ]
+      }
+    },
+    {
+      "id": "71877",
+      "nama": "sam.su",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ syamsu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Kanton 三燒 saam shiu 'arak beras']",
+        "languages": [
+          "Kanton"
+        ]
+      }
+    }
+  ]
+}

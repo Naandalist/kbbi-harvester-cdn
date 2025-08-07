@@ -1,1 +1,84 @@
-{"word":"senggak","authenticated":true,"entries":[{"id":"74973","nama":"seng.gak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"senggakan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sěṅgak 'teriakan, sorak-sorai']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menyenggaki","senggakan","menyenggak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"74976","nama":"seng.gak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"hardik","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sěṅgak 'teriakan, sorak-sorai']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menyenggak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "senggak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74973",
+      "nama": "seng.gak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "senggakan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sěṅgak 'teriakan, sorak-sorai']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyenggaki",
+          "senggakan",
+          "menyenggak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "74976",
+      "nama": "seng.gak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hardik",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sěṅgak 'teriakan, sorak-sorai']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyenggak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

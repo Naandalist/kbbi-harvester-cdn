@@ -1,1 +1,54 @@
-{"word":"son","authenticated":true,"entries":[{"id":"100833","nama":"son","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bawang putih yang dipanen muda, yaitu pada umur 70 hari pascatanam","contoh":[]}]},{"id":"252818","nama":"SON","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Rpb","nama":"Rupabumi","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Kota sorong","contoh":[]}]}]}
+{
+  "word": "son",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "100833",
+      "nama": "son",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bawang putih yang dipanen muda, yaitu pada umur 70 hari pascatanam",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "252818",
+      "nama": "SON",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Rpb",
+              "nama": "Rupabumi",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kota sorong",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

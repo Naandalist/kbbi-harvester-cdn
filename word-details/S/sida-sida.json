@@ -1,1 +1,53 @@
-{"word":"sida-sida","authenticated":true,"entries":[{"id":"76812","nama":"si.da-si.da","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"golongan pegawai tinggi (sebangsa pendeta)","contoh":[{"nomor":2,"teks":"para ~, menteri, dan hulubalang sedang berbincang-bincang dengan Baginda"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"penjaga harem","contoh":[]}],"rootWord":"sida¹"}]}
+{
+  "word": "sida-sida",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76812",
+      "nama": "si.da-si.da",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "golongan pegawai tinggi (sebangsa pendeta)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para ~, menteri, dan hulubalang sedang berbincang-bincang dengan Baginda"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penjaga harem",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sida¹"
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"word":"skop","authenticated":true,"entries":[{"id":"78123","nama":"skop","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bidang suatu kegiatan; lapangan","contoh":[{"nomor":2,"teks":"itu tidak termasuk -- saya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jangkauan; ruang lingkup; cakupan","contoh":[{"nomor":2,"teks":"perkara itu adalah perkara penting yang mempunyai -- nasional"}]}]}]}
+{
+  "word": "skop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78123",
+      "nama": "skop",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bidang suatu kegiatan; lapangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "itu tidak termasuk -- saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jangkauan; ruang lingkup; cakupan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkara itu adalah perkara penting yang mempunyai -- nasional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

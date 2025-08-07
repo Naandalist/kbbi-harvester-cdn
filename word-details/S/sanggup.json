@@ -1,1 +1,68 @@
-{"word":"sanggup","authenticated":true,"entries":[{"id":"72083","nama":"sang.gup","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersedia; mau","contoh":[{"nomor":2,"teks":"saya -- menunaikan tugas itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mampu; dapat","contoh":[{"nomor":2,"teks":"pekerja itu -- mengangkat peti seberat itu"}]}],"etimologi":{"text":"[Jawa Kuno saṅgup 'janji, pernyataan kesanggupan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berkesanggupan","kesanggupan","menyanggupi","menyanggupkan","penyanggup","penyanggupan","sanggupan","sesanggup"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sanggup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72083",
+      "nama": "sang.gup",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersedia; mau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya -- menunaikan tugas itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mampu; dapat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pekerja itu -- mengangkat peti seberat itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno saṅgup 'janji, pernyataan kesanggupan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkesanggupan",
+          "kesanggupan",
+          "menyanggupi",
+          "menyanggupkan",
+          "penyanggup",
+          "penyanggupan",
+          "sanggupan",
+          "sesanggup"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"semok","authenticated":true,"entries":[{"id":"74595","nama":"se.mok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kembung atau gembung (tentang pipi orang gemuk)","contoh":[]},{"nomor":"2","kelasKata":[],"definisi":"sintal","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"berisi (tentang tubuh wanita)","contoh":[{"nomor":2,"teks":"temanmu berbadan --"}]}]}]}
+{
+  "word": "semok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74595",
+      "nama": "se.mok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kembung atau gembung (tentang pipi orang gemuk)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [],
+          "definisi": "sintal",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berisi (tentang tubuh wanita)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "temanmu berbadan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

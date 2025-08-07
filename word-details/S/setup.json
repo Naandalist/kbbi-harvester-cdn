@@ -1,1 +1,58 @@
-{"word":"setup","authenticated":true,"entries":[{"id":"76560","nama":"se.tup","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buah-buahan dan sebagainya yang dimasak dengan dikukus atau direbus dan dibubuhi gula","contoh":[]}],"terkait":{"kataTurunan":["menyetup","penyetupan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"260326","nama":"se.tup","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mn","nama":"Minahasa","tipe":"bahasa"}],"definisi":"teras rumah panggung","contoh":[]}]}]}
+{
+  "word": "setup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76560",
+      "nama": "se.tup",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buah-buahan dan sebagainya yang dimasak dengan dikukus atau direbus dan dibubuhi gula",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyetup",
+          "penyetupan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "260326",
+      "nama": "se.tup",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mn",
+              "nama": "Minahasa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "teras rumah panggung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

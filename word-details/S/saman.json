@@ -1,1 +1,225 @@
-{"word":"saman","authenticated":true,"entries":[{"id":"71570","nama":"sa.man","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"dakwa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"dakwaan","contoh":[{"nomor":2,"teks":"di pengadilan, jaksa telah membuktikan -- yang diajukannya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"surat sita","contoh":[{"nomor":2,"teks":"juru sita telah mengirimkan -- kepadanya seminggu yang lalu"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"panggilan untuk menghadap pengadilan","contoh":[{"nomor":2,"teks":"berdasarkan -- yang diterimanya, ia akan menghadap ke pengadilan pada hari Senin nanti"}]}],"etimologi":{"text":"[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']","languages":["Arab"]},"terkait":{"kataTurunan":["menyaman"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"71572","nama":"sa.man","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"tari ritmik di Aceh, dilakukan oleh lebih dari sepuluh pemain sambil duduk berlutut dan berjajar, mereka membuat gerak pukulan telapak tangan ke dada dan paha secara berirama, diiringi dengan nyanyian pantun yang dimulai oleh syekh selaku pimpinan","contoh":[]}],"etimologi":{"text":"[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']","languages":["Arab"]}},{"id":"120421","nama":"sa.man","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"ritual membersihkan makam saat munggah di kampung adat Kuta, Ciamis","contoh":[]}],"etimologi":{"text":"[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']","languages":["Arab"]}},{"id":"294508","nama":"sa.man","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"buah kacang tanah yang sudah mulai berisi, biasanya ditandai dengan daun yang menguning","contoh":[]}],"etimologi":{"text":"[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']","languages":["Arab"]}},{"id":"245915","nama":"Sa.man","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan di wilayah Kabupaten Asmat, Provinsi Papua Selatan","contoh":[]}],"etimologi":{"text":"[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']","languages":["Arab"]}}]}
+{
+  "word": "saman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71570",
+      "nama": "sa.man",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dakwa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dakwaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di pengadilan, jaksa telah membuktikan -- yang diajukannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat sita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "juru sita telah mengirimkan -- kepadanya seminggu yang lalu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panggilan untuk menghadap pengadilan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdasarkan -- yang diterimanya, ia akan menghadap ke pengadilan pada hari Senin nanti"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyaman"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71572",
+      "nama": "sa.man",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tari ritmik di Aceh, dilakukan oleh lebih dari sepuluh pemain sambil duduk berlutut dan berjajar, mereka membuat gerak pukulan telapak tangan ke dada dan paha secara berirama, diiringi dengan nyanyian pantun yang dimulai oleh syekh selaku pimpinan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "120421",
+      "nama": "sa.man",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ritual membersihkan makam saat munggah di kampung adat Kuta, Ciamis",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "294508",
+      "nama": "sa.man",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buah kacang tanah yang sudah mulai berisi, biasanya ditandai dengan daun yang menguning",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "245915",
+      "nama": "Sa.man",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan di wilayah Kabupaten Asmat, Provinsi Papua Selatan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَمَّانٌ sammān n sg m 'tarekat yang didirikan oleh Syekh Muhammad bin Abdul Karim al-sammānī; penjual mentega']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

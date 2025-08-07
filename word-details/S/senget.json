@@ -1,1 +1,66 @@
-{"word":"senget","authenticated":true,"entries":[{"id":"74967","nama":"se.nget","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"miring; condong; sendeng; singit","contoh":[{"nomor":2,"teks":"karena terlalu banyaknya hiasan di sisi kiri, layang-layangnya --"}]}],"terkait":{"kataTurunan":["menyenget","menyengetkan","tersenget"],"gabunganKata":["senget-menget"],"peribahasa":[],"idiom":[]}},{"id":"286656","nama":"se.nget","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"mudah terbakar (tentang rokok, kayu, dan sebagainya)","contoh":[]}]}]}
+{
+  "word": "senget",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74967",
+      "nama": "se.nget",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "miring; condong; sendeng; singit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena terlalu banyaknya hiasan di sisi kiri, layang-layangnya --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyenget",
+          "menyengetkan",
+          "tersenget"
+        ],
+        "gabunganKata": [
+          "senget-menget"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "286656",
+      "nama": "se.nget",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mudah terbakar (tentang rokok, kayu, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

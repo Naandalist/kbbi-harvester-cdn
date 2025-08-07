@@ -1,1 +1,100 @@
-{"word":"sekak","authenticated":true,"entries":[{"id":"73337","nama":"se.kak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"permainan catur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"raja (dalam permainan catur)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"kata yang diucapkan pemain catur untuk mengingatkan bahwa ia akan mematikan raja","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"main catur","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["sekak abadi","sekak ganda","sekak tarik"],"peribahasa":[],"idiom":[]}},{"id":"73336","nama":"Se.kak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang berasal dari atau mendiami daerah antara Pulau Bangka dan Belitung, hidup di perahu, mengembara di daerah kedua pulau tersebut; Loncong; Orang Laut","contoh":[]}]}]}
+{
+  "word": "sekak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73337",
+      "nama": "se.kak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permainan catur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "raja (dalam permainan catur)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kata yang diucapkan pemain catur untuk mengingatkan bahwa ia akan mematikan raja",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "main catur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sekak abadi",
+          "sekak ganda",
+          "sekak tarik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73336",
+      "nama": "Se.kak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang berasal dari atau mendiami daerah antara Pulau Bangka dan Belitung, hidup di perahu, mengembara di daerah kedua pulau tersebut; Loncong; Orang Laut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

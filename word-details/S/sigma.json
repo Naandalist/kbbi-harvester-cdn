@@ -1,1 +1,49 @@
-{"word":"sigma","authenticated":true,"entries":[{"id":"76916","nama":"sig.ma","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf ke-18 abjad Yunani","contoh":[]}]},{"id":"264474","nama":"sig.ma","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"karakter seseorang yang mempunyai daya tarik, misterius, independen, dan berjiwa pemimpin, serta tertutup","contoh":[]}]}]}
+{
+  "word": "sigma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76916",
+      "nama": "sig.ma",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf ke-18 abjad Yunani",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "264474",
+      "nama": "sig.ma",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karakter seseorang yang mempunyai daya tarik, misterius, independen, dan berjiwa pemimpin, serta tertutup",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,112 @@
-{"word":"sasa","authenticated":true,"entries":[{"id":"72548","nama":"sa.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kukuh; kuat; gagah","contoh":[{"nomor":2,"teks":"tampan, berani, dan tubuhnya --"}]}]},{"id":"234628","nama":"sa.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"rotan kecil yang digunakan sebagai rangka keranjang","contoh":[]}]},{"id":"118619","nama":"sa.sa","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Aln","nama":"Alune","tipe":"lainnya"}],"definisi":"memotong kue","contoh":[{"nomor":2,"teks":"setelah tiup lilin, ia --"}]}]},{"id":"128643","nama":"sa.sa","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tot","nama":"Totoli","tipe":"lainnya"}],"definisi":"daun nipah atau sagu yang telah dipisahkan dari pelepahnya","contoh":[]}]}]}
+{
+  "word": "sasa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72548",
+      "nama": "sa.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kukuh; kuat; gagah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tampan, berani, dan tubuhnya --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "234628",
+      "nama": "sa.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rotan kecil yang digunakan sebagai rangka keranjang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "118619",
+      "nama": "sa.sa",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Aln",
+              "nama": "Alune",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memotong kue",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah tiup lilin, ia --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "128643",
+      "nama": "sa.sa",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tot",
+              "nama": "Totoli",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun nipah atau sagu yang telah dipisahkan dari pelepahnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

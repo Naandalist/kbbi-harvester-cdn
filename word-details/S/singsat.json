@@ -1,1 +1,51 @@
-{"word":"singsat","authenticated":true,"entries":[{"id":"77540","nama":"sing.sat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"menyingsatkan","contoh":[]}],"terkait":{"kataTurunan":["menyingsatkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"77542","nama":"sing.sat","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ singset","contoh":[]}]}]}
+{
+  "word": "singsat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77540",
+      "nama": "sing.sat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyingsatkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyingsatkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "77542",
+      "nama": "sing.sat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ singset",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

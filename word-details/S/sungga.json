@@ -1,1 +1,81 @@
-{"word":"sungga","authenticated":true,"entries":[{"id":"79847","nama":"sung.ga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pacu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suda (jenis ranjau)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno suṅga 'sebatang bambu yang berujung tajam (ditancapkan miring dalam tanah yang ujungnya ke atas, menangkap atau membunuh binatang)']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menyungga"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"274251","nama":"sung.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"senjata khas masyarakat Banjar berupa tombak bermata runcing dengan besi siku yang ditempel pada badannya, ditancapkan di bawah jembatan agar musuh yang jatuh ke air tertancap pada senjata tersebut","contoh":[]}],"etimologi":{"text":"[Jawa Kuno suṅga 'sebatang bambu yang berujung tajam (ditancapkan miring dalam tanah yang ujungnya ke atas, menangkap atau membunuh binatang)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "sungga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79847",
+      "nama": "sung.ga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pacu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suda (jenis ranjau)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno suṅga 'sebatang bambu yang berujung tajam (ditancapkan miring dalam tanah yang ujungnya ke atas, menangkap atau membunuh binatang)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyungga"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "274251",
+      "nama": "sung.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "senjata khas masyarakat Banjar berupa tombak bermata runcing dengan besi siku yang ditempel pada badannya, ditancapkan di bawah jembatan agar musuh yang jatuh ke air tertancap pada senjata tersebut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno suṅga 'sebatang bambu yang berujung tajam (ditancapkan miring dalam tanah yang ujungnya ke atas, menangkap atau membunuh binatang)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

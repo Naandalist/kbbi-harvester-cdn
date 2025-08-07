@@ -1,1 +1,35 @@
-{"word":"sport","authenticated":true,"entries":[{"id":"78726","nama":"sport","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"olahraga","contoh":[{"nomor":2,"teks":"untuk memelihara kesehatan jasmani dan rohani setiap orang perlu --"}]}]}]}
+{
+  "word": "sport",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78726",
+      "nama": "sport",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "olahraga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk memelihara kesehatan jasmani dan rohani setiap orang perlu --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

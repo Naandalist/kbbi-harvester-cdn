@@ -1,1 +1,71 @@
-{"word":"sabar","authenticated":true,"entries":[{"id":"70640","nama":"sa.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tahan menghadapi cobaan (tidak lekas marah, tidak lekas putus asa, tidak lekas patah hati); tabah","contoh":[{"nomor":2,"teks":"ia menerima nasibnya dengan --"},{"nomor":4,"teks":"hidup ini dihadapinya dengan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tenang; tidak tergesa-gesa; tidak terburu nafsu","contoh":[{"nomor":2,"teks":"segala usahanya dijalankannya dengan --"}]}],"etimologi":{"text":"[Arab صَبْرٌ ṣabr n sg m 'ketabahan']","languages":["Arab"]},"terkait":{"kataTurunan":["bersabar","kesabaran","mempersabar","menyabarkan","penyabar","sesabar-sabarnya","tersabar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sabar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70640",
+      "nama": "sa.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tahan menghadapi cobaan (tidak lekas marah, tidak lekas putus asa, tidak lekas patah hati); tabah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menerima nasibnya dengan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "hidup ini dihadapinya dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tenang; tidak tergesa-gesa; tidak terburu nafsu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "segala usahanya dijalankannya dengan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab صَبْرٌ ṣabr n sg m 'ketabahan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersabar",
+          "kesabaran",
+          "mempersabar",
+          "menyabarkan",
+          "penyabar",
+          "sesabar-sabarnya",
+          "tersabar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

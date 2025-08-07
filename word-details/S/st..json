@@ -1,1 +1,59 @@
-{"word":"st.","authenticated":true,"entries":[{"id":"96398","nama":"St.","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Sutan","contoh":[]}]},{"id":"269559","nama":"St.","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lt","nama":"Latin","tipe":"bahasa"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"orang kudus; sancta; sanctus","contoh":[]}]}]}
+{
+  "word": "st.",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96398",
+      "nama": "St.",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Sutan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269559",
+      "nama": "St.",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lt",
+              "nama": "Latin",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang kudus; sancta; sanctus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

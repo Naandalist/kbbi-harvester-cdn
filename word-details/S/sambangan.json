@@ -1,1 +1,54 @@
-{"word":"sambangan","authenticated":true,"entries":[{"id":"71625","nama":"sam.ba.ngan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"burung sebesar gagak","contoh":[]}]},{"id":"280091","nama":"sam.ba.ngan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tradisi penjengukan yang dilakukan oleh wali santri kepada santri di pondok","contoh":[]}]}]}
+{
+  "word": "sambangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71625",
+      "nama": "sam.ba.ngan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "burung sebesar gagak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "280091",
+      "nama": "sam.ba.ngan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tradisi penjengukan yang dilakukan oleh wali santri kepada santri di pondok",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"siur","authenticated":true,"entries":[{"id":"78040","nama":"si.ur","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ simpang siur","contoh":[]}],"terkait":{"kataTurunan":["berkesiuran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"78041","nama":"si.ur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"desing","contoh":[]}],"terkait":{"kataTurunan":["berkesiuran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "siur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78040",
+      "nama": "si.ur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ simpang siur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkesiuran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78041",
+      "nama": "si.ur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "desing",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkesiuran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

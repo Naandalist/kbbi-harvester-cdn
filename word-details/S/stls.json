@@ -1,1 +1,35 @@
-{"word":"stls","authenticated":true,"entries":[{"id":"183281","nama":"STLS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Film","nama":"Perfilman","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"surat tanda lulus sensor","contoh":[]}]}]}
+{
+  "word": "stls",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "183281",
+      "nama": "STLS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Film",
+              "nama": "Perfilman",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat tanda lulus sensor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

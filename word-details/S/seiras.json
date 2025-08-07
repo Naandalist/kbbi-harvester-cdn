@@ -1,1 +1,51 @@
-{"word":"seiras","authenticated":true,"entries":[{"id":"32356","nama":"se.i.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"berasal atau terbuat dari satu bahan (besi, kayu dan sebagainya) yang tidak bersambung","contoh":[{"nomor":2,"teks":"keris ganja ~; tiang ganja ~"}]}],"rootWord":"iras¹"},{"id":"32365","nama":"se.i.ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"serupa dengan","contoh":[]}],"rootWord":"iras²"}]}
+{
+  "word": "seiras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32356",
+      "nama": "se.i.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasal atau terbuat dari satu bahan (besi, kayu dan sebagainya) yang tidak bersambung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keris ganja ~; tiang ganja ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "iras¹"
+    },
+    {
+      "id": "32365",
+      "nama": "se.i.ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serupa dengan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "iras²"
+    }
+  ]
+}

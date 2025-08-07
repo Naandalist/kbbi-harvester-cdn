@@ -1,1 +1,93 @@
-{"word":"sandi","authenticated":true,"entries":[{"id":"71954","nama":"san.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rahasia; kode","contoh":[{"nomor":2,"teks":"berita itu dikirimkan dengan bahasa --"}]}],"terkait":{"kataTurunan":["bersandi","menyandi","menyandikan","penyandi","penyandian","persandian","tersandi"],"gabunganKata":["sandi asma","sandi biner","sandi boneka","sandi kata","sandi lewat","sandi meteorologi","sandi rumput","sandi sastra","sandi sendiri","sandi suara","sandi uji","sandi  rasa","sandi sora","sandi ton"],"peribahasa":[],"idiom":[]}},{"id":"71960","nama":"san.di","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"perubahan fonologis yang terjadi pada sebuah kata karena pengaruh afiksasi atau karena pengaruh fonem yang ada di dekatnya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["sandi  rasa","sandi sora","sandi ton"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sandi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71954",
+      "nama": "san.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rahasia; kode",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berita itu dikirimkan dengan bahasa --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersandi",
+          "menyandi",
+          "menyandikan",
+          "penyandi",
+          "penyandian",
+          "persandian",
+          "tersandi"
+        ],
+        "gabunganKata": [
+          "sandi asma",
+          "sandi biner",
+          "sandi boneka",
+          "sandi kata",
+          "sandi lewat",
+          "sandi meteorologi",
+          "sandi rumput",
+          "sandi sastra",
+          "sandi sendiri",
+          "sandi suara",
+          "sandi uji",
+          "sandi  rasa",
+          "sandi sora",
+          "sandi ton"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71960",
+      "nama": "san.di",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perubahan fonologis yang terjadi pada sebuah kata karena pengaruh afiksasi atau karena pengaruh fonem yang ada di dekatnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sandi  rasa",
+          "sandi sora",
+          "sandi ton"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

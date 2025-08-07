@@ -1,1 +1,56 @@
-{"word":"sebau","authenticated":true,"entries":[{"id":"8960","nama":"se.ba.u","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sama baunya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"termasuk dalam satu jenis; hampir sama; cocok","contoh":[{"nomor":2,"teks":"seragam ~"}]}],"rootWord":"bau¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seiring bertukar jalan (sekandang tidak sebau, seia bertukar sebut)"],"idiom":[]}}]}
+{
+  "word": "sebau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8960",
+      "nama": "se.ba.u",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama baunya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "termasuk dalam satu jenis; hampir sama; cocok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seragam ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bau¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seiring bertukar jalan (sekandang tidak sebau, seia bertukar sebut)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

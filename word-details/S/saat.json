@@ -1,1 +1,77 @@
-{"word":"saat","authenticated":true,"entries":[{"id":"70619","nama":"sa.at","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu (yang pendek sekali); ketika","contoh":[{"nomor":2,"teks":"-- ini dia tinggal di Bandung"},{"nomor":4,"teks":"-- ini juga kita harus segera berangkat"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"waktu yang bertalian dengan baik buruk (untung malang)","contoh":[{"nomor":2,"teks":"-- yang nahas"},{"nomor":4,"teks":"-- yang sempurna"}]}],"etimologi":{"text":"[Arab سَاعَةٌ sā‘ah n sg f 'waktu; kiamat']","languages":["Arab"]},"terkait":{"kataTurunan":["sesaat"],"gabunganKata":["saat lepas landas","saat teduh"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "saat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70619",
+      "nama": "sa.at",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu (yang pendek sekali); ketika",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ini dia tinggal di Bandung"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- ini juga kita harus segera berangkat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu yang bertalian dengan baik buruk (untung malang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang nahas"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- yang sempurna"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَاعَةٌ sā‘ah n sg f 'waktu; kiamat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "sesaat"
+        ],
+        "gabunganKata": [
+          "saat lepas landas",
+          "saat teduh"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

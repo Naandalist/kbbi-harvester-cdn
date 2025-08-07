@@ -1,1 +1,60 @@
-{"word":"sengatan","authenticated":true,"entries":[{"id":"74960","nama":"se.ngat.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil perbuatan menyengat; sesuatu yang disengat","contoh":[{"nomor":2,"teks":"ia menjadi demam karena ~ lipan"},{"nomor":4,"teks":"~ lebah itu menimbulkan bengkak pada tangannya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sentuhan sinar yang panasnya menyengat (tentang panas matahari)","contoh":[]}],"rootWord":"sengat","terkait":{"kataTurunan":[],"gabunganKata":["sengatan panas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sengatan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74960",
+      "nama": "se.ngat.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil perbuatan menyengat; sesuatu yang disengat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menjadi demam karena ~ lipan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ lebah itu menimbulkan bengkak pada tangannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sentuhan sinar yang panasnya menyengat (tentang panas matahari)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sengat",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sengatan panas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

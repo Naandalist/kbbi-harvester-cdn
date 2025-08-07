@@ -1,1 +1,153 @@
-{"word":"sip","authenticated":true,"entries":[{"id":"77658","nama":"sip","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bebas atau terlindung dari bahaya; aman","contoh":[{"nomor":2,"teks":"dengan kawalan detektif, ia merasa lebih -- dari gangguan bandit"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bebas dari kemungkinan menderita kerugian, kehilangan, kerusakan, dan sebagainya; terjamin","contoh":[{"nomor":2,"teks":"uang itu lebih -- kalau disimpan di bank"},{"nomor":4,"teks":"bangunan itu tidak -- karena dibuat dari bahan kayu murahan"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bebas dari ketidakpastian","contoh":[{"nomor":2,"teks":"Anda akan merasa lebih -- jika memesan tempat sehari sebelumnya"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mantap; elok; baik; sempurna","contoh":[{"nomor":2,"teks":"pertemuan memang lebih -- kalau ada suguhannya"}]}]},{"id":"165917","nama":"sip","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"BhDi","nama":"Bahau Diaq Lay","tipe":"lainnya"}],"definisi":"anak ayam yang belum tumbuh semua bulunya, besarnya sekitar sekepal","contoh":[]}]},{"id":"96278","nama":"SIP","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"surat izin praktik","contoh":[]}]}]}
+{
+  "word": "sip",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77658",
+      "nama": "sip",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bebas atau terlindung dari bahaya; aman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan kawalan detektif, ia merasa lebih -- dari gangguan bandit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bebas dari kemungkinan menderita kerugian, kehilangan, kerusakan, dan sebagainya; terjamin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang itu lebih -- kalau disimpan di bank"
+            },
+            {
+              "nomor": 4,
+              "teks": "bangunan itu tidak -- karena dibuat dari bahan kayu murahan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bebas dari ketidakpastian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Anda akan merasa lebih -- jika memesan tempat sehari sebelumnya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mantap; elok; baik; sempurna",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertemuan memang lebih -- kalau ada suguhannya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "165917",
+      "nama": "sip",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "BhDi",
+              "nama": "Bahau Diaq Lay",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "anak ayam yang belum tumbuh semua bulunya, besarnya sekitar sekepal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96278",
+      "nama": "SIP",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat izin praktik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"word":"seasam","authenticated":true,"entries":[{"id":"101644","nama":"se.a.sam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sama asam","contoh":[{"nomor":2,"teks":"mukanya sudah ~ cuka"}]}],"rootWord":"asam¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sudah seasam segaram","sudah seasam segaramnya"],"idiom":[]}}]}
+{
+  "word": "seasam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101644",
+      "nama": "se.a.sam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama asam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mukanya sudah ~ cuka"
+            }
+          ]
+        }
+      ],
+      "rootWord": "asam¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sudah seasam segaram",
+          "sudah seasam segaramnya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

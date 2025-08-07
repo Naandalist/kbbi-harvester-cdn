@@ -1,1 +1,53 @@
-{"word":"sogok","authenticated":true,"entries":[{"id":"78249","nama":"so.gok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anak kunci","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang digunakan untuk menyogok","contoh":[{"nomor":2,"teks":"uang --"}]}],"terkait":{"kataTurunan":["menyogok","penyogok","penyogokan","sogokan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sogok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78249",
+      "nama": "so.gok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anak kunci",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang digunakan untuk menyogok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyogok",
+          "penyogok",
+          "penyogokan",
+          "sogokan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

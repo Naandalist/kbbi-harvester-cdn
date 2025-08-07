@@ -1,1 +1,64 @@
-{"word":"sabur","authenticated":true,"entries":[{"id":"70737","nama":"sa.bur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bercampur (berbaur) tidak menentu (sehingga tidak dapat dibedakan lagi, seperti suara tangis bercampur dengan teriak, beribu-ribu orang berkumpul)","contoh":[{"nomor":2,"teks":"dalam keadaan kacau akibat kebakaran itu, suara tangis dan jeritan menjadi --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kabur; agak suram; agak gelap","contoh":[{"nomor":2,"teks":"kaca jendela ini -- karena sudah lama tidak dibersihkan"}]}],"terkait":{"kataTurunan":["menyabur","menyaburkan","tersabur"],"gabunganKata":["sabur limbur"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sabur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70737",
+      "nama": "sa.bur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercampur (berbaur) tidak menentu (sehingga tidak dapat dibedakan lagi, seperti suara tangis bercampur dengan teriak, beribu-ribu orang berkumpul)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam keadaan kacau akibat kebakaran itu, suara tangis dan jeritan menjadi --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabur; agak suram; agak gelap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaca jendela ini -- karena sudah lama tidak dibersihkan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyabur",
+          "menyaburkan",
+          "tersabur"
+        ],
+        "gabunganKata": [
+          "sabur limbur"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,45 @@
-{"word":"sauna","authenticated":true,"entries":[{"id":"72758","nama":"sau.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mandi uap cara Finlandia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat (ruang) mandi uap","contoh":[]}],"terkait":{"kataTurunan":["bersauna"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sauna",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72758",
+      "nama": "sau.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mandi uap cara Finlandia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat (ruang) mandi uap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersauna"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

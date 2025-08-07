@@ -1,1 +1,121 @@
-{"word":"saur","authenticated":true,"entries":[{"id":"72760","nama":"sa.ur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyaur","contoh":[]}],"etimologi":{"text":"[Arab ثَوْرٌ ṡaur n sg m 'Taurus']","languages":["Arab"]},"terkait":{"kataTurunan":["bersaur","menyaur","menyauri","tersaur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"72765","nama":"sa.ur","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sahur","contoh":[]}],"etimologi":{"text":"[Arab ثَوْرٌ ṡaur n sg m 'Taurus']","languages":["Arab"]}},{"id":"72767","nama":"sa.ur","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"nyanyian bersama dalam kesenian Saman","contoh":[]}],"etimologi":{"text":"[Arab ثَوْرٌ ṡaur n sg m 'Taurus']","languages":["Arab"]}},{"id":"72766","nama":"Sa.ur","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"Taurus; Wrisaba","contoh":[]}],"etimologi":{"text":"[Arab ثَوْرٌ ṡaur n sg m 'Taurus']","languages":["Arab"]}}]}
+{
+  "word": "saur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72760",
+      "nama": "sa.ur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyaur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَوْرٌ ṡaur n sg m 'Taurus']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersaur",
+          "menyaur",
+          "menyauri",
+          "tersaur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72765",
+      "nama": "sa.ur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sahur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَوْرٌ ṡaur n sg m 'Taurus']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "72767",
+      "nama": "sa.ur",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian bersama dalam kesenian Saman",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَوْرٌ ṡaur n sg m 'Taurus']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "72766",
+      "nama": "Sa.ur",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "Taurus; Wrisaba",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَوْرٌ ṡaur n sg m 'Taurus']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

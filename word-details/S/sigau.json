@@ -1,1 +1,69 @@
-{"word":"sigau","authenticated":true,"entries":[{"id":"163768","nama":"si.gau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tidak teratur atau tidak tenteram; kacau; kusut masai (tentang keadaan, perangai, dan sebagainya)","contoh":[{"nomor":2,"teks":"kulihat anak itu -- sekali perilakunya"},{"nomor":4,"teks":"mereka tinggal di kota yang -- dan materialistis"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"lalu lalang dalam waktu cepat secara berulang","contoh":[{"nomor":2,"teks":"kata-katanya -- dalam pikiranku"}]}],"terkait":{"kataTurunan":["bersigau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sigau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "163768",
+      "nama": "si.gau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidak teratur atau tidak tenteram; kacau; kusut masai (tentang keadaan, perangai, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kulihat anak itu -- sekali perilakunya"
+            },
+            {
+              "nomor": 4,
+              "teks": "mereka tinggal di kota yang -- dan materialistis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lalu lalang dalam waktu cepat secara berulang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-katanya -- dalam pikiranku"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersigau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"word":"sulapan","authenticated":true,"entries":[{"id":"79527","nama":"su.lap.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pertunjukan sulap","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang disulap","contoh":[{"nomor":2,"teks":"saputangan ~"},{"nomor":4,"teks":"burung dara ~"}]}],"rootWord":"sulap¹"}]}
+{
+  "word": "sulapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79527",
+      "nama": "su.lap.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertunjukan sulap",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang disulap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saputangan ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "burung dara ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sulap¹"
+    }
+  ]
+}

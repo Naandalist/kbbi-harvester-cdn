@@ -1,1 +1,79 @@
-{"word":"samir","authenticated":true,"entries":[{"id":"71723","nama":"sa.mir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daun pisang yang digunting berbentuk bulat dengan aneka ukuran, biasa digunakan sebagai alas nasi untuk selamatan","contoh":[]}],"terkait":{"kataTurunan":["menyamir"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"71725","nama":"sa.mir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"selampai sutra kuning (dipakai untuk menutup barang-barang yang akan dipersembahkan kepada raja atau sultan)","contoh":[{"nomor":2,"teks":"persembahan itu ditutup dengan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"selempang","contoh":[{"nomor":2,"teks":"para peserta Duta Bahasa menggunakan -- yang bertuliskan asal provinsi"}]}]}]}
+{
+  "word": "samir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71723",
+      "nama": "sa.mir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daun pisang yang digunting berbentuk bulat dengan aneka ukuran, biasa digunakan sebagai alas nasi untuk selamatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyamir"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71725",
+      "nama": "sa.mir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selampai sutra kuning (dipakai untuk menutup barang-barang yang akan dipersembahkan kepada raja atau sultan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persembahan itu ditutup dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selempang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para peserta Duta Bahasa menggunakan -- yang bertuliskan asal provinsi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

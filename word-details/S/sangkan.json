@@ -1,1 +1,54 @@
-{"word":"sangkan","authenticated":true,"entries":[{"id":"72121","nama":"sang.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"laki-laki bertabiat dan berdandan seperti perempuan; banci; wadam; waria","contoh":[{"nomor":2,"teks":"tingkah lakunya seperti orang --"}]}]},{"id":"125800","nama":"sang.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"hutan yang sudah dibuka, tetapi tidak jadi ditanami dan dibiarkan kembali menjadi hutan","contoh":[]}]}]}
+{
+  "word": "sangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72121",
+      "nama": "sang.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "laki-laki bertabiat dan berdandan seperti perempuan; banci; wadam; waria",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tingkah lakunya seperti orang --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "125800",
+      "nama": "sang.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hutan yang sudah dibuka, tetapi tidak jadi ditanami dan dibiarkan kembali menjadi hutan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

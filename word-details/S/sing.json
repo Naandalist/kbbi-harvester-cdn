@@ -1,1 +1,73 @@
-{"word":"sing","authenticated":true,"entries":[{"id":"77451","nama":"sing","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunyi mendesing","contoh":[]}]},{"id":"96277","nama":"sing","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"singkatan","contoh":[]}]},{"id":"289844","nama":"sing","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"satuan ukuran volume berupa satu mangkuk kecil untuk biji-bijian kecil seperti beras, kedelai, dan kacang hijau","contoh":[]}]}]}
+{
+  "word": "sing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77451",
+      "nama": "sing",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunyi mendesing",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96277",
+      "nama": "sing",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "singkatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "289844",
+      "nama": "sing",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan ukuran volume berupa satu mangkuk kecil untuk biji-bijian kecil seperti beras, kedelai, dan kacang hijau",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"sesam","authenticated":true,"entries":[{"id":"76302","nama":"se.sam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wijen","contoh":[]}]},{"id":"226429","nama":"se.sam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"pekasam","contoh":[{"nomor":2,"teks":"-- dapat dikatakan sebagai bentuk inovasi masyarakat Lampung dalam fermentasi ikan"}]}]}]}
+{
+  "word": "sesam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76302",
+      "nama": "se.sam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wijen",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "226429",
+      "nama": "se.sam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pekasam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dapat dikatakan sebagai bentuk inovasi masyarakat Lampung dalam fermentasi ikan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"saber","authenticated":true,"entries":[{"id":"109154","nama":"sa.ber","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"sapu bersih","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["saber pungli"],"peribahasa":[],"idiom":[]}},{"id":"261301","nama":"sa.ber","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"teknik menangkap ikan dengan cara membendung sungai menggunakan kayu","contoh":[]}]}]}
+{
+  "word": "saber",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109154",
+      "nama": "sa.ber",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sapu bersih",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "saber pungli"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "261301",
+      "nama": "sa.ber",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "teknik menangkap ikan dengan cara membendung sungai menggunakan kayu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

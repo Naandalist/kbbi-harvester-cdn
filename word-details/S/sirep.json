@@ -1,1 +1,100 @@
-{"word":"sirep","authenticated":true,"entries":[{"id":"77744","nama":"si.rep","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mantra untuk membuat orang tertidur; pukau","contoh":[{"nomor":2,"teks":"begitu terkena, -- semuanya tertidur nyenyak sehingga pencuri itu masuk dengan bebas"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sunyi senyap","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"padam (tentang api, kebakaran dan sebagainya); tidak panas lagi (tentang demam); berhenti (tentang tembak-menembak); reda","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sirěp 'sunyi, tanpa suara']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kesirep","menyirep","menyirepi","penyirep","penyirepan","tersirep"],"gabunganKata":["sirep bocah"],"peribahasa":[],"idiom":[]}},{"id":"216484","nama":"si.rep","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cara menabuh gamelan dengan pukulan lirih","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sirěp 'sunyi, tanpa suara']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "sirep",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77744",
+      "nama": "si.rep",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mantra untuk membuat orang tertidur; pukau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "begitu terkena, -- semuanya tertidur nyenyak sehingga pencuri itu masuk dengan bebas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sunyi senyap",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "padam (tentang api, kebakaran dan sebagainya); tidak panas lagi (tentang demam); berhenti (tentang tembak-menembak); reda",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sirěp 'sunyi, tanpa suara']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesirep",
+          "menyirep",
+          "menyirepi",
+          "penyirep",
+          "penyirepan",
+          "tersirep"
+        ],
+        "gabunganKata": [
+          "sirep bocah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216484",
+      "nama": "si.rep",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cara menabuh gamelan dengan pukulan lirih",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sirěp 'sunyi, tanpa suara']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

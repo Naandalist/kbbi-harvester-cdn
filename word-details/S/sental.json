@@ -1,1 +1,56 @@
-{"word":"sental","authenticated":true,"entries":[{"id":"75280","nama":"sen.tal","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sintal","contoh":[]}],"terkait":{"kataTurunan":["menyental","menyentalkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"75281","nama":"sen.tal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gosok","contoh":[]}],"terkait":{"kataTurunan":["menyental","menyentalkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sental",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75280",
+      "nama": "sen.tal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sintal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyental",
+          "menyentalkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75281",
+      "nama": "sen.tal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gosok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyental",
+          "menyentalkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

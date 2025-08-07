@@ -1,1 +1,79 @@
-{"word":"sibur","authenticated":true,"entries":[{"id":"76804","nama":"si.bur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pencedok air dibuat dari tempurung kelapa dan sebagainya yang diberi tangkai","contoh":[]}],"terkait":{"kataTurunan":["menyibur","sibur-sibur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"76806","nama":"si.bur","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial sibur-sibur","contoh":[]}],"terkait":{"kataTurunan":["sibur-sibur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"252383","nama":"si.bur","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"anak burung yang tidak kembali lagi ke sarang","contoh":[]}]}]}
+{
+  "word": "sibur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76804",
+      "nama": "si.bur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pencedok air dibuat dari tempurung kelapa dan sebagainya yang diberi tangkai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyibur",
+          "sibur-sibur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "76806",
+      "nama": "si.bur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial sibur-sibur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sibur-sibur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "252383",
+      "nama": "si.bur",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "anak burung yang tidak kembali lagi ke sarang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

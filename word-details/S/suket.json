@@ -1,1 +1,101 @@
-{"word":"suket","authenticated":true,"entries":[{"id":"244610","nama":"su.ket","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"kumbang sagu","contoh":[{"nomor":2,"teks":"ibu sedang mencari -- untuk dijadikan umpan memancing"}]}],"etimologi":{"text":"[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']","languages":["Jawa Kuno"]}},{"id":"79456","nama":"su.ket","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"rumput","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']","languages":["Jawa Kuno"]}},{"id":"226923","nama":"su.ket","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"surat keterangan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "suket",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "244610",
+      "nama": "su.ket",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kumbang sagu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu sedang mencari -- untuk dijadikan umpan memancing"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "79456",
+      "nama": "su.ket",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rumput",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "226923",
+      "nama": "su.ket",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat keterangan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sukět 'rumput liar dan semak-semak belukar']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

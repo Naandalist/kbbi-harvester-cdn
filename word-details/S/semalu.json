@@ -1,1 +1,61 @@
-{"word":"semalu","authenticated":true,"entries":[{"id":"51736","nama":"se.ma.lu","nomor":"111","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sama malu","contoh":[]}],"rootWord":"malu¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sehina semalu"],"idiom":[]}},{"id":"74272","nama":"se.ma.lu","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"putri malu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sehina semalu"],"idiom":[]}}]}
+{
+  "word": "semalu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51736",
+      "nama": "se.ma.lu",
+      "nomor": "111",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama malu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "malu¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sehina semalu"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "74272",
+      "nama": "se.ma.lu",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putri malu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sehina semalu"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

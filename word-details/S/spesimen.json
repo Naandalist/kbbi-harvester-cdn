@@ -1,1 +1,54 @@
-{"word":"spesimen","authenticated":true,"entries":[{"id":"78681","nama":"spe.si.men","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian dari kelompok atau bagian dari keseluruhan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"contoh","contoh":[{"nomor":2,"teks":"tim itu tidak berhasil mendapatkan -- dari lapangan"},{"nomor":4,"teks":"-- uang kertas ribuan"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["spesimen tipe"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "spesimen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78681",
+      "nama": "spe.si.men",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian dari kelompok atau bagian dari keseluruhan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "contoh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tim itu tidak berhasil mendapatkan -- dari lapangan"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- uang kertas ribuan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "spesimen tipe"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

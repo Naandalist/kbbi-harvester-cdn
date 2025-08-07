@@ -1,1 +1,66 @@
-{"word":"syiar","authenticated":true,"entries":[{"id":"80569","nama":"syi.ar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"kemuliaan; kebesaran","contoh":[{"nomor":2,"teks":"suara azan pada tiap-tiap waktu salat menandakan -- Islam"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"tanda kebesaran atau simbol agama","contoh":[]}],"etimologi":{"text":"[Arab شِعَارٌ syi‘ār n sg m 'tanda']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["syiar islam"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "syiar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80569",
+      "nama": "syi.ar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kemuliaan; kebesaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "suara azan pada tiap-tiap waktu salat menandakan -- Islam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tanda kebesaran atau simbol agama",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab شِعَارٌ syi‘ār n sg m 'tanda']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "syiar islam"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

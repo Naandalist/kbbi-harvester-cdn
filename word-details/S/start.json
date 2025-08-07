@@ -1,1 +1,77 @@
-{"word":"start","authenticated":true,"entries":[{"id":"78796","nama":"start","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulai (melakukan sesuatu)","contoh":[{"nomor":2,"teks":"jarak garis -- dengan garis finis lebih kurang 500 m"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berangkat (melakukan suatu perjalanan)","contoh":[{"nomor":2,"teks":"kita harus -- pagi-pagi benar supaya tidak ketinggalan kereta api"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"sikap permulaan pada waktu akan melakukan jalan atau lari (terutama dalam perlombaan) dengan kaki atau tangan tidak boleh menyentuh garis batas (harus berada di belakang garis batas)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["start berdiri","start jongkok","start melayang","start menengah","start panjang","start pendek"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "start",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78796",
+      "nama": "start",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulai (melakukan sesuatu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jarak garis -- dengan garis finis lebih kurang 500 m"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berangkat (melakukan suatu perjalanan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus -- pagi-pagi benar supaya tidak ketinggalan kereta api"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sikap permulaan pada waktu akan melakukan jalan atau lari (terutama dalam perlombaan) dengan kaki atau tangan tidak boleh menyentuh garis batas (harus berada di belakang garis batas)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "start berdiri",
+          "start jongkok",
+          "start melayang",
+          "start menengah",
+          "start panjang",
+          "start pendek"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

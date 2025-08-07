@@ -1,1 +1,137 @@
-{"word":"sabit","authenticated":true,"entries":[{"id":"70669","nama":"sa.bit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit","contoh":[{"nomor":2,"teks":"dengan -- di pinggang petani itu pergi ke kebunnya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk lengkung menyerupai sabit","contoh":[{"nomor":2,"teks":"bulan --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyabit","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit; celurit tani","contoh":[{"nomor":2,"teks":"dengan -- di pinggang petani itu pergi ke kebunnya"}]}],"etimologi":{"text":"[Arab ثَابِتٌ ṡābit n sg m 'tetap; pasti; tentu']","languages":["Arab"]},"terkait":{"kataTurunan":["menyabit","penyabit","penyabitan","sabitan","menyabitkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"70673","nama":"sa.bit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"terang (tentang perbuatan dan sebagainya); tetap; pasti; tentu","contoh":[{"nomor":2,"teks":"nyata kesalahannya dan -- perbuatannya"}]}],"etimologi":{"text":"[Arab ثَابِتٌ ṡābit n sg m 'tetap; pasti; tentu']","languages":["Arab"]},"terkait":{"kataTurunan":["menyabitkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sabit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70669",
+      "nama": "sa.bit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan -- di pinggang petani itu pergi ke kebunnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk lengkung menyerupai sabit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bulan --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyabit",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit; celurit tani",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan -- di pinggang petani itu pergi ke kebunnya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَابِتٌ ṡābit n sg m 'tetap; pasti; tentu']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyabit",
+          "penyabit",
+          "penyabitan",
+          "sabitan",
+          "menyabitkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "70673",
+      "nama": "sa.bit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terang (tentang perbuatan dan sebagainya); tetap; pasti; tentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nyata kesalahannya dan -- perbuatannya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ثَابِتٌ ṡābit n sg m 'tetap; pasti; tentu']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyabitkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

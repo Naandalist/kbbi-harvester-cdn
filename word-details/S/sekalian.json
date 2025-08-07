@@ -1,1 +1,91 @@
-{"word":"sekalian","authenticated":true,"entries":[{"id":"36147","nama":"se.ka.li.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"sekali jalan; sambil (melakukan dan sebagainya)","contoh":[{"nomor":2,"teks":"kalau pergi ke pasar, ~ belikan saya tembakau"}]},{"nomor":"2","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"semuanya (tidak ada kecualinya)","contoh":[{"nomor":2,"teks":"Saudara ~, marilah kita lanjutkan pembicaraan kita"}]}],"rootWord":"kali¹","etimologi":{"text":"[Sanskerta साकल्येन sākalyena adv 'secara bersama, dengan lengkap']","languages":["Sanskerta"]}},{"id":"73349","nama":"se.ka.li.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"semua","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersama-sama; serentak","contoh":[]}],"etimologi":{"text":"[Sanskerta साकल्येन sākalyena adv 'secara bersama, dengan lengkap']","languages":["Sanskerta"]}}]}
+{
+  "word": "sekalian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36147",
+      "nama": "se.ka.li.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekali jalan; sambil (melakukan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau pergi ke pasar, ~ belikan saya tembakau"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semuanya (tidak ada kecualinya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Saudara ~, marilah kita lanjutkan pembicaraan kita"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kali¹",
+      "etimologi": {
+        "text": "[Sanskerta साकल्येन sākalyena adv 'secara bersama, dengan lengkap']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    },
+    {
+      "id": "73349",
+      "nama": "se.ka.li.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semua",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersama-sama; serentak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta साकल्येन sākalyena adv 'secara bersama, dengan lengkap']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

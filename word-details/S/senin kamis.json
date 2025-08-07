@@ -1,1 +1,48 @@
-{"word":"senin kamis","authenticated":true,"entries":[{"id":"75183","nama":"Senin Kamis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sangat susah (tentang hidup)","contoh":[{"nomor":2,"teks":"hidupnya -- Kamis"}]},{"nomor":"2","kelasKata":[{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesak; tersengal-sengal (tentang napas)","contoh":[{"nomor":2,"teks":"napasnya -- Kamis"}]}],"rootWord":"Senin"}]}
+{
+  "word": "senin kamis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75183",
+      "nama": "Senin Kamis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat susah (tentang hidup)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hidupnya -- Kamis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesak; tersengal-sengal (tentang napas)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "napasnya -- Kamis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "Senin"
+    }
+  ]
+}

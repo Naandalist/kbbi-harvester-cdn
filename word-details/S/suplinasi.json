@@ -1,1 +1,111 @@
-{"word":"suplinasi","authenticated":true,"entries":[{"id":"1","nama":"su.pli.na.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penambahan atau hal menambah pada apa yang telah ada","contoh":[]}],"rootWord":"suplinasisuplinasi"},{"id":"2","nama":"su.pli.na.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kt","nama":"kata benda","tipe":"lainnya"}],"definisi":"tambahan atau hal menambah","contoh":[{"nomor":1,"teks":"pemerintah mengusulkan -- anggaran sebesar 10 persen"}]}],"rootWord":"suplinasisuplinasi"},{"id":"3","nama":"su.pli.na.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tindakan menambah sesuatu","contoh":[{"nomor":1,"teks":"perusahaan berencana melakukan -- produksi untuk memenuhi permintaan pasar"}]}],"rootWord":"suplinasisuplinasi"},{"id":"4","nama":"su.pli.na.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"konotatif","tipe":"kelas_kata"}],"definisi":"sesuatu yang ditambahkan","contoh":[{"nomor":1,"teks":"proyek ini memerlukan -- dana yang besar"}]}],"rootWord":"suplinasisuplinasi"}]}
+{
+  "word": "suplinasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "su.pli.na.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penambahan atau hal menambah pada apa yang telah ada",
+          "contoh": []
+        }
+      ],
+      "rootWord": "suplinasisuplinasi"
+    },
+    {
+      "id": "2",
+      "nama": "su.pli.na.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kt",
+              "nama": "kata benda",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tambahan atau hal menambah",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "pemerintah mengusulkan -- anggaran sebesar 10 persen"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suplinasisuplinasi"
+    },
+    {
+      "id": "3",
+      "nama": "su.pli.na.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tindakan menambah sesuatu",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "perusahaan berencana melakukan -- produksi untuk memenuhi permintaan pasar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suplinasisuplinasi"
+    },
+    {
+      "id": "4",
+      "nama": "su.pli.na.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "konotatif",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang ditambahkan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "proyek ini memerlukan -- dana yang besar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suplinasisuplinasi"
+    }
+  ]
+}

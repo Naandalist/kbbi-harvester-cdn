@@ -1,1 +1,92 @@
-{"word":"sutra","authenticated":true,"entries":[{"id":"80392","nama":"su.tra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benang halus dan lembut yang berasal dari kepompong ulat sutra","contoh":[{"nomor":2,"teks":"kain --"}]}],"etimologi":{"text":"[Sanskerta सूत्र sūtra n net 'tali, kawat, benang, serabut, garis']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["menyutra"],"gabunganKata":["sutra kembang","sutra santung","sutra tiruan"],"peribahasa":["jerat halus kelindan sutra","jual sutra, beli mastuli","ujung jarum halus kelindan sutra"],"idiom":[]}},{"id":"218546","nama":"Su.tra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bud","nama":"Agama Buddha","tipe":"lainnya"}],"definisi":"khotbah Buddha (teks dasar kitab suci Buddha)","contoh":[]}],"etimologi":{"text":"[Sanskerta सूत्र sūtra n net 'tali, kawat, benang, serabut, garis']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["jerat halus kelindan sutra","jual sutra, beli mastuli","ujung jarum halus kelindan sutra"],"idiom":[]}}]}
+{
+  "word": "sutra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80392",
+      "nama": "su.tra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benang halus dan lembut yang berasal dari kepompong ulat sutra",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kain --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सूत्र sūtra n net 'tali, kawat, benang, serabut, garis']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyutra"
+        ],
+        "gabunganKata": [
+          "sutra kembang",
+          "sutra santung",
+          "sutra tiruan"
+        ],
+        "peribahasa": [
+          "jerat halus kelindan sutra",
+          "jual sutra, beli mastuli",
+          "ujung jarum halus kelindan sutra"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "218546",
+      "nama": "Su.tra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bud",
+              "nama": "Agama Buddha",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "khotbah Buddha (teks dasar kitab suci Buddha)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सूत्र sūtra n net 'tali, kawat, benang, serabut, garis']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jerat halus kelindan sutra",
+          "jual sutra, beli mastuli",
+          "ujung jarum halus kelindan sutra"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"setop","authenticated":true,"entries":[{"id":"76500","nama":"se.top","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"berhenti; terhenti","contoh":[]}],"terkait":{"kataTurunan":["menyetop","penyetop","penyetopan","setopan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"76505","nama":"se.top","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ setup","contoh":[]}]}]}
+{
+  "word": "setop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76500",
+      "nama": "se.top",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti; terhenti",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyetop",
+          "penyetop",
+          "penyetopan",
+          "setopan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "76505",
+      "nama": "se.top",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ setup",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

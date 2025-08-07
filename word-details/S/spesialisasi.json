@@ -1,1 +1,53 @@
-{"word":"spesialisasi","authenticated":true,"entries":[{"id":"78673","nama":"spe.si.a.li.sa.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengahlian dalam suatu cabang ilmu, pekerjaan, kesenian, dan sebagainya","contoh":[{"nomor":2,"teks":"Pemerintah sedang melaksanakan -- dalam bidang kepariwisataan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penggunaan sumber daya produksi tertentu khusus untuk pembuatan jajaran produk yang terbatas","contoh":[]}],"terkait":{"kataTurunan":["berspesialisasi","terspesialisasi"],"gabunganKata":["spesialisasi medis"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "spesialisasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78673",
+      "nama": "spe.si.a.li.sa.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengahlian dalam suatu cabang ilmu, pekerjaan, kesenian, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Pemerintah sedang melaksanakan -- dalam bidang kepariwisataan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penggunaan sumber daya produksi tertentu khusus untuk pembuatan jajaran produk yang terbatas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berspesialisasi",
+          "terspesialisasi"
+        ],
+        "gabunganKata": [
+          "spesialisasi medis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

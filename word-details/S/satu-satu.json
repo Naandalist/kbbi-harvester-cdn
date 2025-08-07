@@ -1,1 +1,55 @@
-{"word":"satu-satu","authenticated":true,"entries":[{"id":"72677","nama":"sa.tu-sa.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"satu per satu; satu demi satu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"masing-masing","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"tiap-tiap kali satu","contoh":[]}],"rootWord":"satu"}]}
+{
+  "word": "satu-satu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72677",
+      "nama": "sa.tu-sa.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu per satu; satu demi satu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masing-masing",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiap-tiap kali satu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "satu"
+    }
+  ]
+}

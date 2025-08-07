@@ -1,1 +1,95 @@
-{"word":"skb","authenticated":true,"entries":[{"id":"96291","nama":"SKB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sanggar kegiatan belajar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"surat keputusan bersama","contoh":[]}]},{"id":"331471","nama":"SKB","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"surat keputusan bersama (ketetapan tertulis yang dibuat oleh dua atau lebih kementerian untuk mengatur hal yang sama)","contoh":[]}]},{"id":"331476","nama":"SKB","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"seleksi kompetensi bidang (tahapan dalam proses seleksi CPNS yang dirancang untuk menilai kemampuan teknis peserta sesuai bidang tugas formasi yang dilamar)","contoh":[]}]}]}
+{
+  "word": "skb",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96291",
+      "nama": "SKB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sanggar kegiatan belajar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat keputusan bersama",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "331471",
+      "nama": "SKB",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat keputusan bersama (ketetapan tertulis yang dibuat oleh dua atau lebih kementerian untuk mengatur hal yang sama)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "331476",
+      "nama": "SKB",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seleksi kompetensi bidang (tahapan dalam proses seleksi CPNS yang dirancang untuk menilai kemampuan teknis peserta sesuai bidang tugas formasi yang dilamar)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

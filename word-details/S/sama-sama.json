@@ -1,1 +1,73 @@
-{"word":"sama-sama","authenticated":true,"entries":[{"id":"71539","nama":"sa.ma-sa.ma","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"kedua belah pihak tidak berbeda atau tidak berlainan; semuanya","contoh":[{"nomor":2,"teks":"mereka itu ~ tidak suka"},{"nomor":4,"teks":"kita ini ~ bersalah"},{"nomor":6,"teks":"mereka berdua sudah ~ setuju untuk menikah"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"ungkapan yang digunakan untuk membalas ucapan terima kasih","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bersama-sama; bareng","contoh":[{"nomor":2,"teks":"mari kita makan ~"}]}],"rootWord":"sama¹"}]}
+{
+  "word": "sama-sama",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71539",
+      "nama": "sa.ma-sa.ma",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedua belah pihak tidak berbeda atau tidak berlainan; semuanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka itu ~ tidak suka"
+            },
+            {
+              "nomor": 4,
+              "teks": "kita ini ~ bersalah"
+            },
+            {
+              "nomor": 6,
+              "teks": "mereka berdua sudah ~ setuju untuk menikah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ungkapan yang digunakan untuk membalas ucapan terima kasih",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersama-sama; bareng",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mari kita makan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sama¹"
+    }
+  ]
+}

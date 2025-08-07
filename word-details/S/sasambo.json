@@ -1,1 +1,54 @@
-{"word":"sasambo","authenticated":true,"entries":[{"id":"72557","nama":"sa.sam.bo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sng","nama":"Sangir","tipe":"lainnya"}],"definisi":"syair mantra yang dilantunkan oleh tetua adat masyarakat Sangihe dalam upacara adat yang bertujuan untuk menghibur","contoh":[]}]},{"id":"287764","nama":"Sa.sam.bo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Sasak, Samawa, dan Mbojo","contoh":[]}]}]}
+{
+  "word": "sasambo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72557",
+      "nama": "sa.sam.bo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sng",
+              "nama": "Sangir",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "syair mantra yang dilantunkan oleh tetua adat masyarakat Sangihe dalam upacara adat yang bertujuan untuk menghibur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "287764",
+      "nama": "Sa.sam.bo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Sasak, Samawa, dan Mbojo",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

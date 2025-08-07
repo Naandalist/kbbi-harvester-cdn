@@ -1,1 +1,48 @@
-{"word":"segaris","authenticated":true,"entries":[{"id":"24675","nama":"se.ga.ris","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satu garis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"seide; sehaluan","contoh":[{"nomor":2,"teks":"presiden baru itu mengungkapkan bahwa ia tidak ~ dengan menteri pertahanan yang lama"}]}],"rootWord":"garis¹"}]}
+{
+  "word": "segaris",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24675",
+      "nama": "se.ga.ris",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu garis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seide; sehaluan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "presiden baru itu mengungkapkan bahwa ia tidak ~ dengan menteri pertahanan yang lama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "garis¹"
+    }
+  ]
+}

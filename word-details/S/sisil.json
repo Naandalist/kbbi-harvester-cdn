@@ -1,1 +1,66 @@
-{"word":"sisil","authenticated":true,"entries":[{"id":"112545","nama":"si.sil","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"cara makan makanan dengan mengupas kulitnya menggunakan gigi seri atas dan bawah, misalnya makan kuaci","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguliti gabah dengan cara digigit","contoh":[]}]},{"id":"301817","nama":"si.sil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"lalat kuda","contoh":[]}]}]}
+{
+  "word": "sisil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112545",
+      "nama": "si.sil",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "cara makan makanan dengan mengupas kulitnya menggunakan gigi seri atas dan bawah, misalnya makan kuaci",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguliti gabah dengan cara digigit",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "301817",
+      "nama": "si.sil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lalat kuda",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

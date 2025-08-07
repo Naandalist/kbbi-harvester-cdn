@@ -1,1 +1,106 @@
-{"word":"semu","authenticated":true,"entries":[{"id":"74689","nama":"se.mu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tampak seperti asli (sebenarnya), padahal sama sekali bukan yang asli (sebenarnya)","contoh":[{"nomor":2,"teks":"keramahannya kepada saya adalah -- karena di balik itu dia memfitnah saya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tipu; muslihat","contoh":[{"nomor":2,"teks":"pujuk Melayu, -- Jawa"}]}],"etimologi":{"text":"[Jawa Kuno sěmu 'penampakan luar, rupa, menampakan atau memperdengarkan diri']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kesemuan","menyemu","menyemui","menyemukan","penyemu","penyemuan","tersemu","semu-semu"],"gabunganKata":["semu daya","semu merah"],"peribahasa":[],"idiom":[]}},{"id":"74697","nama":"se.mu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"dalam keadaan yang mendekati (agak)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno sěmu 'penampakan luar, rupa, menampakan atau memperdengarkan diri']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["semu-semu"],"gabunganKata":["semu merah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "semu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74689",
+      "nama": "se.mu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tampak seperti asli (sebenarnya), padahal sama sekali bukan yang asli (sebenarnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keramahannya kepada saya adalah -- karena di balik itu dia memfitnah saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tipu; muslihat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pujuk Melayu, -- Jawa"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sěmu 'penampakan luar, rupa, menampakan atau memperdengarkan diri']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesemuan",
+          "menyemu",
+          "menyemui",
+          "menyemukan",
+          "penyemu",
+          "penyemuan",
+          "tersemu",
+          "semu-semu"
+        ],
+        "gabunganKata": [
+          "semu daya",
+          "semu merah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "74697",
+      "nama": "se.mu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam keadaan yang mendekati (agak)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sěmu 'penampakan luar, rupa, menampakan atau memperdengarkan diri']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "semu-semu"
+        ],
+        "gabunganKata": [
+          "semu merah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

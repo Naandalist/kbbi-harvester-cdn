@@ -1,1 +1,50 @@
-{"word":"syarikat","authenticated":true,"entries":[{"id":"80559","nama":"sya.ri.kat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sekutu; perhimpunan; perkumpulan; serikat","contoh":[{"nomor":2,"teks":"kita mengumpulkan modal untuk mendirikan sebuah --"}]}],"etimologi":{"text":"[Arab شِرْكَةٌ syirkah n sg f 'persekutuan dalam berdagang atau lainnya']","languages":["Arab"]},"terkait":{"kataTurunan":["bersyarikat","mensyarikat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "syarikat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80559",
+      "nama": "sya.ri.kat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekutu; perhimpunan; perkumpulan; serikat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita mengumpulkan modal untuk mendirikan sebuah --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab شِرْكَةٌ syirkah n sg f 'persekutuan dalam berdagang atau lainnya']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersyarikat",
+          "mensyarikat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

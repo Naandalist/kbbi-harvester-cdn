@@ -1,1 +1,90 @@
-{"word":"secara","authenticated":true,"entries":[{"id":"14724","nama":"se.ca.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"sebagai; selaku","contoh":[{"nomor":2,"teks":"hendaklah kamu bertindak ~ jantan"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"menurut (tentang adat, kebiasaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"perkawinan akan dilangsungkan ~ adat keraton"}]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"dengan cara; dengan jalan","contoh":[{"nomor":2,"teks":"perselisihan itu akan diselesaikan ~ damai"},{"nomor":4,"teks":"ia diperlakukan ~ tidak adil"}]},{"nomor":"4","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"dengan","contoh":[{"nomor":2,"teks":"hal itu diuraikan ~ ringkas"},{"nomor":4,"teks":"serangan itu dilakukan ~ besar-besaran"}]}],"rootWord":"cara¹"}]}
+{
+  "word": "secara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14724",
+      "nama": "se.ca.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebagai; selaku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hendaklah kamu bertindak ~ jantan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurut (tentang adat, kebiasaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkawinan akan dilangsungkan ~ adat keraton"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan cara; dengan jalan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perselisihan itu akan diselesaikan ~ damai"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia diperlakukan ~ tidak adil"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hal itu diuraikan ~ ringkas"
+            },
+            {
+              "nomor": 4,
+              "teks": "serangan itu dilakukan ~ besar-besaran"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cara¹"
+    }
+  ]
+}

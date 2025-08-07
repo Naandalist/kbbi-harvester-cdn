@@ -1,1 +1,63 @@
-{"word":"selinap","authenticated":true,"entries":[{"id":"73989","nama":"se.li.nap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelinap","contoh":[]}],"terkait":{"kataTurunan":["menyelinap","menyelinapkan","penyelinap","penyelinapan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"73994","nama":"se.li.nap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"siangi","contoh":[]}],"terkait":{"kataTurunan":["menyelinap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "selinap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73989",
+      "nama": "se.li.nap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelinap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyelinap",
+          "menyelinapkan",
+          "penyelinap",
+          "penyelinapan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73994",
+      "nama": "se.li.nap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siangi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyelinap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

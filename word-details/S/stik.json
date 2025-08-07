@@ -1,1 +1,99 @@
-{"word":"stik","authenticated":true,"entries":[{"id":"78927","nama":"stik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"pemukul bola (dalam permainan golf, hoki, dan sebagainya); tongkat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"pemukul alat musik seperti drum, dan sebagainya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"potongan kayu kecil yang berfungsi sebagai pegangan","contoh":[{"nomor":2,"teks":"-- es krim"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["stik keju","stik lampu","stik tahu","stik ubi"],"peribahasa":[],"idiom":[]}},{"id":"294022","nama":"STIK","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Sekolah Tinggi Ilmu Kepolisian","contoh":[]}]}]}
+{
+  "word": "stik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78927",
+      "nama": "stik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pemukul bola (dalam permainan golf, hoki, dan sebagainya); tongkat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pemukul alat musik seperti drum, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "potongan kayu kecil yang berfungsi sebagai pegangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- es krim"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "stik keju",
+          "stik lampu",
+          "stik tahu",
+          "stik ubi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "294022",
+      "nama": "STIK",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Sekolah Tinggi Ilmu Kepolisian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

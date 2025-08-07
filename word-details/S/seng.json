@@ -1,1 +1,73 @@
-{"word":"seng","authenticated":true,"entries":[{"id":"74930","nama":"seng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"unsur logam dengan nomor atom 30, berlambang Zn","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"besi tipis yang berlapis timah (supaya tidak mudah berkarat) untuk atap dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["seng klorida","seng oksida","seng silikat","seng sulfat","seng sulfida"],"peribahasa":[],"idiom":[]}},{"id":"230029","nama":"seng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"SLa","nama":"Serui Laut","tipe":"lainnya"}],"definisi":"pemimpin tiap marga suku Serui Laut yang ditetapkan secara turun temurun, bertugas untuk menangani urusan adat","contoh":[]}]}]}
+{
+  "word": "seng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74930",
+      "nama": "seng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "unsur logam dengan nomor atom 30, berlambang Zn",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besi tipis yang berlapis timah (supaya tidak mudah berkarat) untuk atap dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "seng klorida",
+          "seng oksida",
+          "seng silikat",
+          "seng sulfat",
+          "seng sulfida"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "230029",
+      "nama": "seng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "SLa",
+              "nama": "Serui Laut",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pemimpin tiap marga suku Serui Laut yang ditetapkan secara turun temurun, bertugas untuk menangani urusan adat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

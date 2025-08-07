@@ -1,1 +1,90 @@
-{"word":"siwil","authenticated":true,"entries":[{"id":"78053","nama":"si.wil","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"daging tumbuh yang ada di sisi telinga","contoh":[]}]},{"id":"213045","nama":"si.wil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"enam (tentang jari tangan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memiliki enam jari pada tangan kanan atau kirinya","contoh":[]}]},{"id":"298222","nama":"si.wil","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"bakso ikan atau udang yang digoreng, disajikan dengan petis asin","contoh":[]}]}]}
+{
+  "word": "siwil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78053",
+      "nama": "si.wil",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daging tumbuh yang ada di sisi telinga",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "213045",
+      "nama": "si.wil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "enam (tentang jari tangan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memiliki enam jari pada tangan kanan atau kirinya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "298222",
+      "nama": "si.wil",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bakso ikan atau udang yang digoreng, disajikan dengan petis asin",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

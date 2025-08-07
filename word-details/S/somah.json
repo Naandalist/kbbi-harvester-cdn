@@ -1,1 +1,35 @@
-{"word":"somah","authenticated":true,"entries":[{"id":"78343","nama":"so.mah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"keluarga; batih (anak, suami, istri, dan sebagainya yang serumah)","contoh":[{"nomor":2,"teks":"penduduknya cuma sekitar 500 kepala -- atau kira-kira 2.200 jiwa"}]}]}]}
+{
+  "word": "somah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78343",
+      "nama": "so.mah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keluarga; batih (anak, suami, istri, dan sebagainya yang serumah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penduduknya cuma sekitar 500 kepala -- atau kira-kira 2.200 jiwa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

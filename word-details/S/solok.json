@@ -1,1 +1,107 @@
-{"word":"solok","authenticated":true,"entries":[{"id":"78329","nama":"so.lok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sumbangan","contoh":[]}],"terkait":{"kataTurunan":["penyolok","pesolok"],"gabunganKata":["Solok Selatan"],"peribahasa":[],"idiom":[]}},{"id":"78332","nama":"so.lok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"lembah yang terletak di antara dua buah gunung","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Solok Selatan"],"peribahasa":[],"idiom":[]}},{"id":"100824","nama":"So.lok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kota di Provinsi Sumatera Barat, tempat penghasil beras","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kabupaten di Provinsi Sumatera Barat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Solok Selatan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "solok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78329",
+      "nama": "so.lok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sumbangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "penyolok",
+          "pesolok"
+        ],
+        "gabunganKata": [
+          "Solok Selatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78332",
+      "nama": "so.lok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lembah yang terletak di antara dua buah gunung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Solok Selatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100824",
+      "nama": "So.lok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kota di Provinsi Sumatera Barat, tempat penghasil beras",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabupaten di Provinsi Sumatera Barat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Solok Selatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

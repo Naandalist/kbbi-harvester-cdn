@@ -1,1 +1,59 @@
-{"word":"sibi","authenticated":true,"entries":[{"id":"255611","nama":"si.bi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bgi","nama":"Banggai","tipe":"lainnya"}],"definisi":"menambal atap rumbiah atau tikar daun pandan","contoh":[{"nomor":2,"teks":"bapak itu -- yang bocor"}]}]},{"id":"205462","nama":"SIBI","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Sistem Isyarat Bahasa Indonesia","contoh":[]}]}]}
+{
+  "word": "sibi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "255611",
+      "nama": "si.bi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bgi",
+              "nama": "Banggai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menambal atap rumbiah atau tikar daun pandan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak itu -- yang bocor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "205462",
+      "nama": "SIBI",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Sistem Isyarat Bahasa Indonesia",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

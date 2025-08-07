@@ -1,1 +1,35 @@
-{"word":"smb","authenticated":true,"entries":[{"id":"96307","nama":"SMB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mil","nama":"Kemiliteran","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"senapan mesin berat","contoh":[]}]}]}
+{
+  "word": "smb",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96307",
+      "nama": "SMB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mil",
+              "nama": "Kemiliteran",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "senapan mesin berat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

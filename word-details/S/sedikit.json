@@ -1,1 +1,79 @@
-{"word":"sedikit","authenticated":true,"entries":[{"id":"73127","nama":"se.di.kit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak banyak","contoh":[{"nomor":2,"teks":"untungnya --"},{"nomor":4,"teks":"-- berkata, banyak bekerja"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak seberapa lebih: tidak seberapa panjang","contoh":[{"nomor":2,"teks":"panjang --"}]}],"terkait":{"kataTurunan":["mempersedikitkan","menyedikit","menyedikiti","menyedikitkan","sedikit-dikit","sedikit-dikitnya","sedikit-sedikit","sedikit-sedikitnya","sedikitnya","tersedikit"],"gabunganKata":["sedikit banyak","sedikit demi sedikit","sedikit hari lagi","sedikit ke sedikit","sedikit paling sedikit"],"peribahasa":["banyak habis, sedikit sedang","bengkok sedikit tak terluruskan","sedikit hujan banyak yang basah","seperti pinggan dengan mangkuk, salah sedikit, hendak berantuk"],"idiom":[]}}]}
+{
+  "word": "sedikit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73127",
+      "nama": "se.di.kit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untungnya --"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- berkata, banyak bekerja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak seberapa lebih: tidak seberapa panjang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "panjang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mempersedikitkan",
+          "menyedikit",
+          "menyedikiti",
+          "menyedikitkan",
+          "sedikit-dikit",
+          "sedikit-dikitnya",
+          "sedikit-sedikit",
+          "sedikit-sedikitnya",
+          "sedikitnya",
+          "tersedikit"
+        ],
+        "gabunganKata": [
+          "sedikit banyak",
+          "sedikit demi sedikit",
+          "sedikit hari lagi",
+          "sedikit ke sedikit",
+          "sedikit paling sedikit"
+        ],
+        "peribahasa": [
+          "banyak habis, sedikit sedang",
+          "bengkok sedikit tak terluruskan",
+          "sedikit hujan banyak yang basah",
+          "seperti pinggan dengan mangkuk, salah sedikit, hendak berantuk"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

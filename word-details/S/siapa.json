@@ -1,1 +1,112 @@
-{"word":"siapa","authenticated":true,"entries":[{"id":"76688","nama":"si.a.pa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menanyakan nomina insan","contoh":[{"nomor":2,"teks":"anak -- dia?"},{"nomor":4,"teks":"adik -- yang nakal itu?"}]},{"nomor":"2","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata untuk menanyakan nama orang","contoh":[{"nomor":2,"teks":"-- namamu?"}]},{"nomor":"3","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"seseorang yang tidak tentu","contoh":[{"nomor":2,"teks":"-- yang datang disambut dengan baik"}]}],"etimologi":{"text":"[Jawa Kuno syapa 'siapa']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["sesiapa","siapa-siapa"],"gabunganKata":["siapa lagi","siapa lu siapa gua","siapa pula","siapa pun","siapa saja","siapa tahu"],"peribahasa":["barang siapa menggali lubang, ia akan terperosok ke dalamnya","barang siapa yang berketuk, ialah yang bertelur","dalam laut boleh diajuk, dalam hati siapa tahu","duri di hutan siapa pertajam","siapa berkotek, siapa bertelur","siapa cepat, dia dapat","siapa cerdik tinggi naik, siapa calak menang berhitung","siapa gatal, dialah menggaruk","siapa lama tahan, menang","siapa makan lada, ialah berasa pedas","siapa makan nangka akan terkena getahnya","siapa melejang, siap patah","siapa melejang, siapa patah (siapa melalah, siapa patah; siapa menyuruk, siapa bungkuk)","siapa menjala, siapa terjun","siapa pandai meniti buih, selamat badan ke seberang","siapa pun jadi raja, tanganku ke dahi juga","siapa sakit, siapa menyiuk","siapa yang gatal, dialah yang menggaruk","siapa yang makan cabai, dialah yang berasa pedas (kepedasan)","terbakar kampung kelihatan asap, terbakar hati siapa tahu","tuah ayam boleh dilihat, tuah manusia siapa tahu"],"idiom":[]}}]}
+{
+  "word": "siapa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76688",
+      "nama": "si.a.pa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menanyakan nomina insan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak -- dia?"
+            },
+            {
+              "nomor": 4,
+              "teks": "adik -- yang nakal itu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata untuk menanyakan nama orang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- namamu?"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seseorang yang tidak tentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang datang disambut dengan baik"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno syapa 'siapa']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "sesiapa",
+          "siapa-siapa"
+        ],
+        "gabunganKata": [
+          "siapa lagi",
+          "siapa lu siapa gua",
+          "siapa pula",
+          "siapa pun",
+          "siapa saja",
+          "siapa tahu"
+        ],
+        "peribahasa": [
+          "barang siapa menggali lubang, ia akan terperosok ke dalamnya",
+          "barang siapa yang berketuk, ialah yang bertelur",
+          "dalam laut boleh diajuk, dalam hati siapa tahu",
+          "duri di hutan siapa pertajam",
+          "siapa berkotek, siapa bertelur",
+          "siapa cepat, dia dapat",
+          "siapa cerdik tinggi naik, siapa calak menang berhitung",
+          "siapa gatal, dialah menggaruk",
+          "siapa lama tahan, menang",
+          "siapa makan lada, ialah berasa pedas",
+          "siapa makan nangka akan terkena getahnya",
+          "siapa melejang, siap patah",
+          "siapa melejang, siapa patah (siapa melalah, siapa patah; siapa menyuruk, siapa bungkuk)",
+          "siapa menjala, siapa terjun",
+          "siapa pandai meniti buih, selamat badan ke seberang",
+          "siapa pun jadi raja, tanganku ke dahi juga",
+          "siapa sakit, siapa menyiuk",
+          "siapa yang gatal, dialah yang menggaruk",
+          "siapa yang makan cabai, dialah yang berasa pedas (kepedasan)",
+          "terbakar kampung kelihatan asap, terbakar hati siapa tahu",
+          "tuah ayam boleh dilihat, tuah manusia siapa tahu"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

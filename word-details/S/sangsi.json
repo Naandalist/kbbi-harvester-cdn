@@ -1,1 +1,54 @@
-{"word":"sangsi","authenticated":true,"entries":[{"id":"72172","nama":"sang.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bimbang; ragu-ragu","contoh":[{"nomor":2,"teks":"aku masih -- akan kemampuanmu mendaki gunung itu"}]}],"terkait":{"kataTurunan":["bersangsi","kesangsian","menyangsikan","penyangsi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"93524","nama":"sangsi","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sanksi","contoh":[]}]}]}
+{
+  "word": "sangsi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72172",
+      "nama": "sang.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bimbang; ragu-ragu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku masih -- akan kemampuanmu mendaki gunung itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersangsi",
+          "kesangsian",
+          "menyangsikan",
+          "penyangsi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "93524",
+      "nama": "sangsi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sanksi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

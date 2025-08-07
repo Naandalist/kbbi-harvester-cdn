@@ -1,1 +1,138 @@
-{"word":"sudi","authenticated":true,"entries":[{"id":"79281","nama":"su.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersedia (akan)","contoh":[{"nomor":2,"teks":"kabarnya pihak direksi -- juga berunding dengan wakil buruh"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkenan (akan); tidak enggan; mau; suka","contoh":[{"nomor":2,"teks":"siapa gerangan yang -- akan daku ini"}]}],"etimologi":{"text":"[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersudikan","kesudian","mempersudikan","menyudikan","menyudi"],"gabunganKata":["sudi tak sudi","sudi siasat"],"peribahasa":[],"idiom":[]}},{"id":"79287","nama":"su.di","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"siasat; periksa","contoh":[]}],"etimologi":{"text":"[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["menyudi"],"gabunganKata":["sudi siasat"],"peribahasa":[],"idiom":[]}},{"id":"120538","nama":"su.di","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"wadah lauk yang terbuat dari daun pisang atau kertas tebal, berbentuk lingkaran dengan kerucut di bagian tengahnya, biasanya digunakan dalam kotak nasi kenduri","contoh":[]}],"etimologi":{"text":"[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']","languages":["Sanskerta"]}}]}
+{
+  "word": "sudi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79281",
+      "nama": "su.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersedia (akan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kabarnya pihak direksi -- juga berunding dengan wakil buruh"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkenan (akan); tidak enggan; mau; suka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa gerangan yang -- akan daku ini"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersudikan",
+          "kesudian",
+          "mempersudikan",
+          "menyudikan",
+          "menyudi"
+        ],
+        "gabunganKata": [
+          "sudi tak sudi",
+          "sudi siasat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "79287",
+      "nama": "su.di",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "siasat; periksa",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyudi"
+        ],
+        "gabunganKata": [
+          "sudi siasat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120538",
+      "nama": "su.di",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "wadah lauk yang terbuat dari daun pisang atau kertas tebal, berbentuk lingkaran dengan kerucut di bagian tengahnya, biasanya digunakan dalam kotak nasi kenduri",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta शुद्धि śuddhi n mf 'pembersihan, perbaikan, pemurnian, penyucian, pembenaran']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

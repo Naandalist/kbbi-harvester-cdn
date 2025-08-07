@@ -1,1 +1,65 @@
-{"word":"simbol","authenticated":true,"entries":[{"id":"77222","nama":"sim.bol","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lambang","contoh":[]}],"terkait":{"kataTurunan":["bersimbol","mensimbolisasikan","menyimbolkan","penyimbolan","persimbolan","tersimbol"],"gabunganKata":["simbol jeda","simbol kimia"],"peribahasa":[],"idiom":[]}},{"id":"219861","nama":"sim.bol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"tanda yang hubungan dengan objeknya didasari konvensi atau kesepakatan, misalnya simbol palang merah dan aksara","contoh":[]}]}]}
+{
+  "word": "simbol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77222",
+      "nama": "sim.bol",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lambang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersimbol",
+          "mensimbolisasikan",
+          "menyimbolkan",
+          "penyimbolan",
+          "persimbolan",
+          "tersimbol"
+        ],
+        "gabunganKata": [
+          "simbol jeda",
+          "simbol kimia"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "219861",
+      "nama": "sim.bol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tanda yang hubungan dengan objeknya didasari konvensi atau kesepakatan, misalnya simbol palang merah dan aksara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

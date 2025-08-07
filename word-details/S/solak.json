@@ -1,1 +1,64 @@
-{"word":"solak","authenticated":true,"entries":[{"id":"78294","nama":"so.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"suka; menyukai","contoh":[{"nomor":2,"teks":"tuan tak --, saya tak sudi"}]}]},{"id":"269196","nama":"so.lak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"berjatuhan karena angin kencang (tentang durian)","contoh":[{"nomor":2,"teks":"durian yang belum matang pun -- karena angin kencang semalam"}]}]}]}
+{
+  "word": "solak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78294",
+      "nama": "so.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suka; menyukai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tuan tak --, saya tak sudi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "269196",
+      "nama": "so.lak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berjatuhan karena angin kencang (tentang durian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "durian yang belum matang pun -- karena angin kencang semalam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

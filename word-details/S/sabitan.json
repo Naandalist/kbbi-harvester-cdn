@@ -1,1 +1,48 @@
-{"word":"sabitan","authenticated":true,"entries":[{"id":"102280","nama":"sa.bit.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"perbungaan uliran yang tidak terpilin dan bunga-bunganya terletak pada satu bidang sehingga terlihat seperti celurit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil menyabit","contoh":[{"nomor":2,"teks":"tubuhnya penuh luka bekas ~"}]}],"rootWord":"sabit¹"}]}
+{
+  "word": "sabitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102280",
+      "nama": "sa.bit.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perbungaan uliran yang tidak terpilin dan bunga-bunganya terletak pada satu bidang sehingga terlihat seperti celurit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil menyabit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tubuhnya penuh luka bekas ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sabit¹"
+    }
+  ]
+}

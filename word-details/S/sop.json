@@ -1,1 +1,57 @@
-{"word":"sop","authenticated":true,"entries":[{"id":"78442","nama":"sop","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sup","contoh":[]}],"terkait":{"kataTurunan":["mengesop"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"96318","nama":"SOP","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"prosedur operasional standar; standard operating procedure","contoh":[]}]}]}
+{
+  "word": "sop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78442",
+      "nama": "sop",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sup",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengesop"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "96318",
+      "nama": "SOP",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "prosedur operasional standar; standard operating procedure",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

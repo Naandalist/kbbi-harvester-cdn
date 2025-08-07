@@ -1,1 +1,63 @@
-{"word":"singset","authenticated":true,"entries":[{"id":"77544","nama":"sing.set","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"erat","contoh":[{"nomor":2,"teks":"ikatannya sudah --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"langsing (tentang badan)","contoh":[{"nomor":2,"teks":"karena rajin berolahraga, badannya masih kelihatan -- walau umurnya sudah lanjut"}]}],"etimologi":{"text":"[Jawa Kuno siṅsět 'keketatan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menyingsetkan","penyingset","penyingsetan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "singset",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77544",
+      "nama": "sing.set",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "erat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ikatannya sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "langsing (tentang badan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena rajin berolahraga, badannya masih kelihatan -- walau umurnya sudah lanjut"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno siṅsět 'keketatan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyingsetkan",
+          "penyingset",
+          "penyingsetan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

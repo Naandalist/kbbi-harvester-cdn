@@ -1,1 +1,41 @@
-{"word":"sayidi","authenticated":true,"entries":[{"id":"72891","nama":"sa.yi.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"tuanku","contoh":[{"nomor":2,"teks":"ya --"}]}],"etimologi":{"text":"[Arab سَيِّدِيْ sayyidī n sg m 'tuanku']","languages":["Arab"]}}]}
+{
+  "word": "sayidi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72891",
+      "nama": "sa.yi.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tuanku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ya --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَيِّدِيْ sayyidī n sg m 'tuanku']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

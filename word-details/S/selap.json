@@ -1,1 +1,67 @@
-{"word":"selap","authenticated":true,"entries":[{"id":"73741","nama":"se.lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pingsan (hilang ingatan dan sebagainya) karena kerasukan roh jahat","contoh":[]}],"terkait":{"kataTurunan":["keselapan","menyelap","menyelapi","terselap"],"gabunganKata":["selap-selip"],"peribahasa":[],"idiom":[]}},{"id":"251160","nama":"se.lap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"bekerja atau bermain tanpa henti","contoh":[{"nomor":2,"teks":"orang yang -- selalu lupa waktu"}]}]}]}
+{
+  "word": "selap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73741",
+      "nama": "se.lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pingsan (hilang ingatan dan sebagainya) karena kerasukan roh jahat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keselapan",
+          "menyelap",
+          "menyelapi",
+          "terselap"
+        ],
+        "gabunganKata": [
+          "selap-selip"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "251160",
+      "nama": "se.lap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bekerja atau bermain tanpa henti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang -- selalu lupa waktu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"word":"simpel","authenticated":true,"entries":[{"id":"77293","nama":"sim.pel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mudah dikerjakan atau dimengerti (tidak berbelit-belit); sederhana","contoh":[{"nomor":2,"teks":"berikan contoh yang -- saja"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tunggal (tentang kalimat yang terdiri atas satu subjek, predikat, dan atau tanpa objek)","contoh":[{"nomor":2,"teks":"kalimat --"}]}],"terkait":{"kataTurunan":["kesimpelan","tersimpel"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "simpel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77293",
+      "nama": "sim.pel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mudah dikerjakan atau dimengerti (tidak berbelit-belit); sederhana",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berikan contoh yang -- saja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tunggal (tentang kalimat yang terdiri atas satu subjek, predikat, dan atau tanpa objek)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalimat --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesimpelan",
+          "tersimpel"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

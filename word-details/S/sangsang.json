@@ -1,1 +1,108 @@
-{"word":"sangsang","authenticated":true,"entries":[{"id":"72166","nama":"sang.sang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersangkut","contoh":[]}],"terkait":{"kataTurunan":["kesangsang","menyangsang","penyangsangan","tersangsang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"128651","nama":"sang.sang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"untaian kalung atau gelang dari jerangau, kunyit, bawang putih, dan kencur yang dipakaikan pada bayi sebagai penangkal roh jahat","contoh":[]}]},{"id":"127460","nama":"sang.sang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"makanan khas Toba berbahan daging babi dimasak dengan campuran darah dan rempah-rempah seperti cabai, lada, merica, dan andaliman","contoh":[]}]},{"id":"72170","nama":"Sang.sang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"nama wuku ke-10","contoh":[]}]}]}
+{
+  "word": "sangsang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72166",
+      "nama": "sang.sang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersangkut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesangsang",
+          "menyangsang",
+          "penyangsangan",
+          "tersangsang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "128651",
+      "nama": "sang.sang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "untaian kalung atau gelang dari jerangau, kunyit, bawang putih, dan kencur yang dipakaikan pada bayi sebagai penangkal roh jahat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "127460",
+      "nama": "sang.sang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "makanan khas Toba berbahan daging babi dimasak dengan campuran darah dan rempah-rempah seperti cabai, lada, merica, dan andaliman",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "72170",
+      "nama": "Sang.sang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "nama wuku ke-10",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

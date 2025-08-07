@@ -1,1 +1,62 @@
-{"word":"simbur","authenticated":true,"entries":[{"id":"77232","nama":"sim.bur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyimbur","contoh":[]}],"terkait":{"kataTurunan":["bersimbur","bersimbur-simburan","menyimbur","menyimburi","menyimburkan","tersimbur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"146736","nama":"sim.bur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"doa untuk anak-anak supaya sehat, cerdas, dan bertumbuh kembang baik","contoh":[]}]}]}
+{
+  "word": "simbur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77232",
+      "nama": "sim.bur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyimbur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersimbur",
+          "bersimbur-simburan",
+          "menyimbur",
+          "menyimburi",
+          "menyimburkan",
+          "tersimbur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "146736",
+      "nama": "sim.bur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "doa untuk anak-anak supaya sehat, cerdas, dan bertumbuh kembang baik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"word":"syukuran","authenticated":true,"entries":[{"id":"80596","nama":"syu.kur.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ucapan syukur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadakan selamatan untuk bersyukur kepada Tuhan (karena terhindar dari maut, sembuh dari penyakit, dan sebagainya)","contoh":[{"nomor":2,"teks":"ibu membuat tumpeng untuk ~ putrinya yang baru sembuh"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"upacara tolak bala","contoh":[]}],"rootWord":"syukur"}]}
+{
+  "word": "syukuran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80596",
+      "nama": "syu.kur.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ucapan syukur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadakan selamatan untuk bersyukur kepada Tuhan (karena terhindar dari maut, sembuh dari penyakit, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu membuat tumpeng untuk ~ putrinya yang baru sembuh"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "upacara tolak bala",
+          "contoh": []
+        }
+      ],
+      "rootWord": "syukur"
+    }
+  ]
+}

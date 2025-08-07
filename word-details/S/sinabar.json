@@ -1,1 +1,59 @@
-{"word":"sinabar","authenticated":true,"entries":[{"id":"77355","nama":"si.na.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"mineral berwarna cokelat kemerahan yang terdiri atas sulfida merkuri yang digunakan sebagai sumber air raksa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"sulfida merkuri yang digunakan sebagai pigmen merah","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"warna merah terang","contoh":[]}]}]}
+{
+  "word": "sinabar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77355",
+      "nama": "si.na.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "mineral berwarna cokelat kemerahan yang terdiri atas sulfida merkuri yang digunakan sebagai sumber air raksa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sulfida merkuri yang digunakan sebagai pigmen merah",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "warna merah terang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

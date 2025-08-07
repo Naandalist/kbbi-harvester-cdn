@@ -1,1 +1,60 @@
-{"word":"semburat","authenticated":true,"entries":[{"id":"74492","nama":"sem.bu.rat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"memancarkan cahaya; bersinar","contoh":[{"nomor":2,"teks":"menghadap kemari, ke arahku, ke arah esok fajar bakal --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pancaran cahaya","contoh":[{"nomor":2,"teks":"-- merah di wajahnya kembali lagi"}]}],"terkait":{"kataTurunan":["bersemburat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "semburat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74492",
+      "nama": "sem.bu.rat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memancarkan cahaya; bersinar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menghadap kemari, ke arahku, ke arah esok fajar bakal --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pancaran cahaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- merah di wajahnya kembali lagi"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersemburat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"word":"sulap","authenticated":true,"entries":[{"id":"79521","nama":"su.lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pertunjukan berbuat sesuatu yang menakjubkan (seperti saputangan diubah menjadi burung merpati)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"silap mata","contoh":[]}],"terkait":{"kataTurunan":["bersulap","menyulap","penyulap","penyulapan","pesulap","sulapan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"79528","nama":"su.lap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"salah cara menenun (tentang kain tenun)","contoh":[]}]}]}
+{
+  "word": "sulap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79521",
+      "nama": "su.lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertunjukan berbuat sesuatu yang menakjubkan (seperti saputangan diubah menjadi burung merpati)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "silap mata",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersulap",
+          "menyulap",
+          "penyulap",
+          "penyulapan",
+          "pesulap",
+          "sulapan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "79528",
+      "nama": "su.lap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "salah cara menenun (tentang kain tenun)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

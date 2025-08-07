@@ -1,1 +1,65 @@
-{"word":"sasau","authenticated":true,"entries":[{"id":"72598","nama":"sa.sau","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang pikir; sasar","contoh":[]}],"terkait":{"kataTurunan":["menyasau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"72599","nama":"sa.sau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"menyasau","contoh":[]}],"terkait":{"kataTurunan":["menyasau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sasau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72598",
+      "nama": "sa.sau",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang pikir; sasar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyasau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72599",
+      "nama": "sa.sau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyasau",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyasau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

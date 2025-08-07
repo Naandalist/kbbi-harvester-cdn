@@ -1,1 +1,76 @@
-{"word":"sapo","authenticated":true,"entries":[{"id":"151417","nama":"sa.po","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"wadah dari tanah liat atau tembikar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"makanan berkuah yang dimasak dan disajikan dalam wadah berbahan tanah liat atau tembikar, biasanya terdapat tofu","contoh":[{"nomor":2,"teks":"-- tahu"}]}]},{"id":"231025","nama":"sa.po","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mp","nama":"Massenrengpulu","tipe":"lainnya"}],"definisi":"rumah adat masyarakat Kaluppini yang berbentuk panggung","contoh":[]}]}]}
+{
+  "word": "sapo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "151417",
+      "nama": "sa.po",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah dari tanah liat atau tembikar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan berkuah yang dimasak dan disajikan dalam wadah berbahan tanah liat atau tembikar, biasanya terdapat tofu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tahu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "231025",
+      "nama": "sa.po",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mp",
+              "nama": "Massenrengpulu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rumah adat masyarakat Kaluppini yang berbentuk panggung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

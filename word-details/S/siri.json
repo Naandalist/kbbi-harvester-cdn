@@ -1,1 +1,76 @@
-{"word":"siri","authenticated":true,"entries":[{"id":"77751","nama":"si.ri","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Antr","nama":"Antropologi","tipe":"lainnya"}],"definisi":"sistem nilai sosiokultural kepribadian yang merupakan pranata pertahanan harga diri dan martabat manusia sebagai individu dan anggota masyarakat dalam masyarakat Bugis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan tertimpa malu atau terhina dalam masyarakat Bugis dan Makassar","contoh":[{"nomor":2,"teks":"penikaman bermotif -- meningkat di daerah itu"}]}]},{"id":"152827","nama":"si.ri","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"menikam dengan pisau","contoh":[{"nomor":2,"teks":"paman -- ular yang hendak melilitnya"}]}]}]}
+{
+  "word": "siri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77751",
+      "nama": "si.ri",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Antr",
+              "nama": "Antropologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sistem nilai sosiokultural kepribadian yang merupakan pranata pertahanan harga diri dan martabat manusia sebagai individu dan anggota masyarakat dalam masyarakat Bugis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan tertimpa malu atau terhina dalam masyarakat Bugis dan Makassar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penikaman bermotif -- meningkat di daerah itu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "152827",
+      "nama": "si.ri",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menikam dengan pisau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman -- ular yang hendak melilitnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

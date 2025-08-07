@@ -1,1 +1,51 @@
-{"word":"sender","authenticated":true,"entries":[{"id":"74855","nama":"sen.der","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sandar1","contoh":[]}],"terkait":{"kataTurunan":["menyender"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"74854","nama":"sen.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pemancar radio","contoh":[]}]}]}
+{
+  "word": "sender",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74855",
+      "nama": "sen.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sandar1",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyender"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "74854",
+      "nama": "sen.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemancar radio",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

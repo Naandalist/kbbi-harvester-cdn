@@ -1,1 +1,44 @@
-{"word":"suatu","authenticated":true,"entries":[{"id":"79149","nama":"su.a.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"satu; hanya satu (untuk menyatakan benda yang kurang tentu)","contoh":[{"nomor":2,"teks":"-- pun tidak"},{"nomor":4,"teks":"-- hari"}]}],"terkait":{"kataTurunan":["bersuatu","mempersuatukan","sesuatu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "suatu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79149",
+      "nama": "su.a.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu; hanya satu (untuk menyatakan benda yang kurang tentu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pun tidak"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- hari"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersuatu",
+          "mempersuatukan",
+          "sesuatu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

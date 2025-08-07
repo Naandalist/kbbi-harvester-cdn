@@ -1,1 +1,51 @@
-{"word":"suplai","authenticated":true,"entries":[{"id":"80030","nama":"sup.lai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbekalan; pembekalan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"persediaan barang-barang yang dibutuhkan dan dapat diperoleh","contoh":[]}],"terkait":{"kataTurunan":["menyuplai","penyuplai","penyuplaian"],"gabunganKata":["suplai daya","suplai energi","suplai oksigen"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "suplai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80030",
+      "nama": "sup.lai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbekalan; pembekalan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "persediaan barang-barang yang dibutuhkan dan dapat diperoleh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyuplai",
+          "penyuplai",
+          "penyuplaian"
+        ],
+        "gabunganKata": [
+          "suplai daya",
+          "suplai energi",
+          "suplai oksigen"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

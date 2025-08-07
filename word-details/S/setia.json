@@ -1,1 +1,70 @@
-{"word":"setia","authenticated":true,"entries":[{"id":"76447","nama":"se.ti.a","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berpegang teguh (pada janji, pendirian, dan sebagainya); patuh; taat","contoh":[{"nomor":2,"teks":"bagaimanapun berat tugas yang harus dijalankannya, ia tetap -- melaksanakannya"},{"nomor":4,"teks":"ia tetap -- memenuhi janjinya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tetap dan teguh hati (dalam persahabatan dan sebagainya)","contoh":[{"nomor":2,"teks":"telah sekian lama suaminya merantau, ia tetap -- menunggu"}]}],"etimologi":{"text":"[Sanskerta सत्य satya a 'benar, autentik, murni, setia, jujur']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersetia","kesetiaan","ketidaksetiaan"],"gabunganKata":["setia rahasia","setia usaha"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "setia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76447",
+      "nama": "se.ti.a",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpegang teguh (pada janji, pendirian, dan sebagainya); patuh; taat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bagaimanapun berat tugas yang harus dijalankannya, ia tetap -- melaksanakannya"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia tetap -- memenuhi janjinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tetap dan teguh hati (dalam persahabatan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "telah sekian lama suaminya merantau, ia tetap -- menunggu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सत्य satya a 'benar, autentik, murni, setia, jujur']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersetia",
+          "kesetiaan",
+          "ketidaksetiaan"
+        ],
+        "gabunganKata": [
+          "setia rahasia",
+          "setia usaha"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

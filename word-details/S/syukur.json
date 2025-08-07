@@ -1,1 +1,66 @@
-{"word":"syukur","authenticated":true,"entries":[{"id":"80594","nama":"syu.kur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rasa terima kasih kepada Allah","contoh":[{"nomor":2,"teks":"ia mengucapkan -- kepada Allah karena terlepas dari marabahaya"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"untunglah (pernyataan lega, senang, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- suamiku tidak mengalami cedera dalam kecelakaan itu"}]}],"etimologi":{"text":"[Arab شُكْرٌ syukr n sg m 'terima kasih']","languages":["Arab"]},"terkait":{"kataTurunan":["bersyukur","kebersyukuran","kesyukuran","mensyukuri","persyukuran","syukuran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "syukur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80594",
+      "nama": "syu.kur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rasa terima kasih kepada Allah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mengucapkan -- kepada Allah karena terlepas dari marabahaya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "untunglah (pernyataan lega, senang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- suamiku tidak mengalami cedera dalam kecelakaan itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab شُكْرٌ syukr n sg m 'terima kasih']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersyukur",
+          "kebersyukuran",
+          "kesyukuran",
+          "mensyukuri",
+          "persyukuran",
+          "syukuran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

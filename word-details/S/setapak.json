@@ -1,1 +1,95 @@
-{"word":"setapak","authenticated":true,"entries":[{"id":"82652","nama":"se.ta.pak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"selebar tapak tangan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"sepanjang tapak kaki","contoh":[{"nomor":2,"teks":"jalan ~"}]},{"nomor":"3","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"selangkah: selangkah demi selangkah","contoh":[{"nomor":2,"teks":"~ demi ~"}]}],"rootWord":"tapak","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["setapak jangan lalu, setapak jangan surut"],"idiom":[]}},{"id":"76397","nama":"se.ta.pak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"beranda di rusuk rumah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["setapak jangan lalu, setapak jangan surut"],"idiom":[]}}]}
+{
+  "word": "setapak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82652",
+      "nama": "se.ta.pak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selebar tapak tangan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepanjang tapak kaki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jalan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selangkah: selangkah demi selangkah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ demi ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tapak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "setapak jangan lalu, setapak jangan surut"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "76397",
+      "nama": "se.ta.pak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beranda di rusuk rumah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "setapak jangan lalu, setapak jangan surut"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

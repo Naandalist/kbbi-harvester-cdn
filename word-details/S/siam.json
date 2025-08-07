@@ -1,1 +1,49 @@
-{"word":"siam","authenticated":true,"entries":[{"id":"76638","nama":"si.am","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"puasa","contoh":[]}]},{"id":"232252","nama":"Si.am","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"Thailand","contoh":[]}]}]}
+{
+  "word": "siam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76638",
+      "nama": "si.am",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "puasa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "232252",
+      "nama": "Si.am",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Thailand",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

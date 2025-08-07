@@ -1,1 +1,117 @@
-{"word":"sanda","authenticated":true,"entries":[{"id":"71911","nama":"san.da","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"aku (biasa dipakai oleh pengarang lama); yang diperhamba; sahayanda","contoh":[]}],"terkait":{"kataTurunan":["menyandakan"],"gabunganKata":["sanda agung","sanda kudo"],"peribahasa":[],"idiom":[]}},{"id":"71912","nama":"san.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"harta yang dijadikan jaminan dalam pegang gadai, yang sewaktu-waktu akan ditebus kembali","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gadai","contoh":[]}],"terkait":{"kataTurunan":["menyandakan"],"gabunganKata":["sanda agung","sanda kudo"],"peribahasa":[],"idiom":[]}},{"id":"136171","nama":"san.da","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"tarian massal yang dilakukan dalam formasi lingkaran, biasanya disertai nyanyian syair, dilakukan pada acara penti atau acara lainnya, dimulai dari malam hingga pagi menjelang","contoh":[]}]}]}
+{
+  "word": "sanda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71911",
+      "nama": "san.da",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "aku (biasa dipakai oleh pengarang lama); yang diperhamba; sahayanda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyandakan"
+        ],
+        "gabunganKata": [
+          "sanda agung",
+          "sanda kudo"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71912",
+      "nama": "san.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "harta yang dijadikan jaminan dalam pegang gadai, yang sewaktu-waktu akan ditebus kembali",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gadai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyandakan"
+        ],
+        "gabunganKata": [
+          "sanda agung",
+          "sanda kudo"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "136171",
+      "nama": "san.da",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tarian massal yang dilakukan dalam formasi lingkaran, biasanya disertai nyanyian syair, dilakukan pada acara penti atau acara lainnya, dimulai dari malam hingga pagi menjelang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

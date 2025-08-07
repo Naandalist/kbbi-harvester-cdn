@@ -1,1 +1,74 @@
-{"word":"sediakala","authenticated":true,"entries":[{"id":"73119","nama":"se.di.a.ka.la","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang semula; yang sudah-sudah; (keadaan) yang dulu-dulu","contoh":[{"nomor":2,"teks":"kesehatannya telah pulih seperti --"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"selalu (seperti yang sudah-sudah atau sebagaimana biasa)","contoh":[{"nomor":2,"teks":"Baginda pun -- duduk menghadap Seri Batara bertunggu tunangan"}]},{"nomor":"3","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"setiap atau segenap waktu (hari dan sebagainya)","contoh":[{"nomor":2,"teks":"-- malam"}]}]}]}
+{
+  "word": "sediakala",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73119",
+      "nama": "se.di.a.ka.la",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang semula; yang sudah-sudah; (keadaan) yang dulu-dulu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesehatannya telah pulih seperti --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selalu (seperti yang sudah-sudah atau sebagaimana biasa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Baginda pun -- duduk menghadap Seri Batara bertunggu tunangan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "setiap atau segenap waktu (hari dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- malam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

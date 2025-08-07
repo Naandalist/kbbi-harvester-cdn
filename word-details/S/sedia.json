@@ -1,1 +1,222 @@
-{"word":"sedia","authenticated":true,"entries":[{"id":"73103","nama":"se.dia","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"(yang) semula; (yang) asal; (yang) sudah-sudah; (yang) dahulu; selalu demikian halnya; memang","contoh":[{"nomor":2,"teks":"pulang seperti --"},{"nomor":4,"teks":"Baginda -- berdendam akan dia"}]}],"etimologi":{"text":"[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersedia","bersedia-sedia","kebersediaan","kesediaan","ketersediaan","mempersediakan","menyediai","menyediakan","penyedia","penyediaan","persediaan","sediaan","tersedia","sedianya"],"gabunganKata":[],"peribahasa":["sedia payung sebelum hujan"],"idiom":[]}},{"id":"73104","nama":"se.dia","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah selesai dibuat (disiapkan, diatur, dan sebagainya); sudah jadi","contoh":[{"nomor":2,"teks":"rumah itu sudah -- untuk ditempati"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"siap (untuk ...); mustaid","contoh":[{"nomor":2,"teks":"polisi selalu -- menghadapi segala kerusuhan dalam masyarakat"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sanggup (akan); sudi dan rela; mau","contoh":[{"nomor":2,"teks":"ia -- untuk menjadi guru di kota terpencil itu"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada (disiapkan untuk dipakai, dijual, dan sebagainya); sudah ada","contoh":[{"nomor":2,"teks":"makanan dan minuman sudah -- di meja"},{"nomor":4,"teks":"di toko itu -- juga pakaian wanita dan anak-anak"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah; telah","contoh":[{"nomor":2,"teks":"Tuan -- maklum juga, bukan?"}]}],"etimologi":{"text":"[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersedia","bersedia-sedia","kebersediaan","kesediaan","ketersediaan","mempersediakan","menyediai","menyediakan","penyedia","penyediaan","persediaan","sediaan","tersedia","sedianya"],"gabunganKata":[],"peribahasa":["sedia payung sebelum hujan"],"idiom":[]}},{"id":"73117","nama":"se.dia","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial sedianya","contoh":[]}],"etimologi":{"text":"[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["sedianya"],"gabunganKata":[],"peribahasa":["sedia payung sebelum hujan"],"idiom":[]}}]}
+{
+  "word": "sedia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73103",
+      "nama": "se.dia",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(yang) semula; (yang) asal; (yang) sudah-sudah; (yang) dahulu; selalu demikian halnya; memang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pulang seperti --"
+            },
+            {
+              "nomor": 4,
+              "teks": "Baginda -- berdendam akan dia"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersedia",
+          "bersedia-sedia",
+          "kebersediaan",
+          "kesediaan",
+          "ketersediaan",
+          "mempersediakan",
+          "menyediai",
+          "menyediakan",
+          "penyedia",
+          "penyediaan",
+          "persediaan",
+          "sediaan",
+          "tersedia",
+          "sedianya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedia payung sebelum hujan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73104",
+      "nama": "se.dia",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah selesai dibuat (disiapkan, diatur, dan sebagainya); sudah jadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah itu sudah -- untuk ditempati"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siap (untuk ...); mustaid",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi selalu -- menghadapi segala kerusuhan dalam masyarakat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sanggup (akan); sudi dan rela; mau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- untuk menjadi guru di kota terpencil itu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada (disiapkan untuk dipakai, dijual, dan sebagainya); sudah ada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makanan dan minuman sudah -- di meja"
+            },
+            {
+              "nomor": 4,
+              "teks": "di toko itu -- juga pakaian wanita dan anak-anak"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah; telah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Tuan -- maklum juga, bukan?"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersedia",
+          "bersedia-sedia",
+          "kebersediaan",
+          "kesediaan",
+          "ketersediaan",
+          "mempersediakan",
+          "menyediai",
+          "menyediakan",
+          "penyedia",
+          "penyediaan",
+          "persediaan",
+          "sediaan",
+          "tersedia",
+          "sedianya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedia payung sebelum hujan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73117",
+      "nama": "se.dia",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial sedianya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta साध्य sādhya 'dilaksanakan atau dipenuhi; dapat dilaksanakan, dapat dicapai; objek yang harus dilaksanakan, sesuatu yang harus dibuktikan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "sedianya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedia payung sebelum hujan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

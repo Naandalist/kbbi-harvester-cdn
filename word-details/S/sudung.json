@@ -1,1 +1,98 @@
-{"word":"sudung","authenticated":true,"entries":[{"id":"79307","nama":"su.dung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sengkuap; kapa-kapa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"rumah (untuk merendahkan diri)","contoh":[]}],"terkait":{"kataTurunan":["sudung-sudung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"233218","nama":"su.dung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"semak belukar yang digunakan babi hutan sebagai sarang","contoh":[]}]},{"id":"233216","nama":"su.dung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"daun paling atas yang menyertai malai padi","contoh":[]}]}]}
+{
+  "word": "sudung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79307",
+      "nama": "su.dung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sengkuap; kapa-kapa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rumah (untuk merendahkan diri)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sudung-sudung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "233218",
+      "nama": "su.dung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "semak belukar yang digunakan babi hutan sebagai sarang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "233216",
+      "nama": "su.dung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "daun paling atas yang menyertai malai padi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

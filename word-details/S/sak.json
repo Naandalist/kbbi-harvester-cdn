@@ -1,1 +1,84 @@
-{"word":"sak","authenticated":true,"entries":[{"id":"71051","nama":"sak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"saku; kantong (baju dan sebagainya)","contoh":[{"nomor":2,"teks":"-- baju itu ada dua"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"karung (dari kertas untuk semen dan sebagainya)","contoh":[{"nomor":2,"teks":"ayah membeli dua -- semen"}]}]},{"id":"71052","nama":"sak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ syak","contoh":[]}]},{"id":"231113","nama":"SAK","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"standar akuntansi keuangan","contoh":[]}]}]}
+{
+  "word": "sak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71051",
+      "nama": "sak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saku; kantong (baju dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- baju itu ada dua"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karung (dari kertas untuk semen dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah membeli dua -- semen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71052",
+      "nama": "sak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ syak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "231113",
+      "nama": "SAK",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "standar akuntansi keuangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

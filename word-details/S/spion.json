@@ -1,1 +1,75 @@
-{"word":"spion","authenticated":true,"entries":[{"id":"78692","nama":"spi.on","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang berusaha mendapatkan keterangan secara rahasia, terutama rahasia militer negara lain; mata-mata","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"petugas kepolisian yang mengadakan pengusutan secara rahasia terhadap orang-orang yang dicurigai; agen polisi rahasia; detektif","contoh":[{"nomor":2,"teks":"penjagaan itu dimaksudkan untuk mempertahankan rahasia pabrik terhadap -- dari pabrik lain"}]}],"terkait":{"kataTurunan":["berspion","menspion","perspionan"],"gabunganKata":["spion elektrik","spion lipat","spion tomok"],"peribahasa":[],"idiom":[]}},{"id":"190717","nama":"spi.on","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kaca spion","contoh":[]}]}]}
+{
+  "word": "spion",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78692",
+      "nama": "spi.on",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang berusaha mendapatkan keterangan secara rahasia, terutama rahasia militer negara lain; mata-mata",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "petugas kepolisian yang mengadakan pengusutan secara rahasia terhadap orang-orang yang dicurigai; agen polisi rahasia; detektif",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjagaan itu dimaksudkan untuk mempertahankan rahasia pabrik terhadap -- dari pabrik lain"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berspion",
+          "menspion",
+          "perspionan"
+        ],
+        "gabunganKata": [
+          "spion elektrik",
+          "spion lipat",
+          "spion tomok"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "190717",
+      "nama": "spi.on",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kaca spion",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

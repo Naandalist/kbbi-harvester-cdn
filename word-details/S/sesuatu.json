@@ -1,1 +1,44 @@
-{"word":"sesuatu","authenticated":true,"entries":[{"id":"79152","nama":"se.su.a.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata untuk menyatakan barang atau hal yang tidak tentu","contoh":[{"nomor":2,"teks":"~ yang ada padanya sangat dibutuhkan oleh orang lain"}]}],"rootWord":"suatu"},{"id":"76352","nama":"se.su.a.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat suatu","contoh":[]}]}]}
+{
+  "word": "sesuatu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79152",
+      "nama": "se.su.a.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata untuk menyatakan barang atau hal yang tidak tentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ yang ada padanya sangat dibutuhkan oleh orang lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suatu"
+    },
+    {
+      "id": "76352",
+      "nama": "se.su.a.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat suatu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

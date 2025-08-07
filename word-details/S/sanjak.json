@@ -1,1 +1,66 @@
-{"word":"sanjak","authenticated":true,"entries":[{"id":"72189","nama":"san.jak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"karangan pendek dengan bentuk tertentu (seperti syair, pantun, gurindam)","contoh":[{"nomor":2,"teks":"-- yang baru dibacakan tadi karangan siapa?"}]}],"etimologi":{"text":"[Arab سَجَعٌ saja‘ n sg m 'bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat']","languages":["Arab"]}},{"id":"193623","nama":"san.jak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"pengesanan jejak","contoh":[]}],"etimologi":{"text":"[Arab سَجَعٌ saja‘ n sg m 'bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat']","languages":["Arab"]}}]}
+{
+  "word": "sanjak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72189",
+      "nama": "san.jak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karangan pendek dengan bentuk tertentu (seperti syair, pantun, gurindam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang baru dibacakan tadi karangan siapa?"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَجَعٌ saja‘ n sg m 'bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "193623",
+      "nama": "san.jak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengesanan jejak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَجَعٌ saja‘ n sg m 'bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

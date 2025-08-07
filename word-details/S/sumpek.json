@@ -1,1 +1,95 @@
-{"word":"sumpek","authenticated":true,"entries":[{"id":"79731","nama":"sum.pek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sesak; sempit","contoh":[{"nomor":2,"teks":"kampung itu makin -- karena kebanyakan penduduk"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pengap","contoh":[{"nomor":2,"teks":"kamarnya kecil dan --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merasa tidak enak (melihat dan sebagainya) sesuatu","contoh":[{"nomor":2,"teks":"saya -- kalau melihat pakaian kotor bergelantungan"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"risau (tentang hati dan sebagainya); resah","contoh":[{"nomor":2,"teks":"yang penting saya ingin bercerita supaya hati saya tidak --"}]}],"etimologi":{"text":"[Jawa Kuno sumpěk 'terbalik, terhalangi, dirintangi']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kesumpekan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sumpek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79731",
+      "nama": "sum.pek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesak; sempit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kampung itu makin -- karena kebanyakan penduduk"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kamarnya kecil dan --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa tidak enak (melihat dan sebagainya) sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya -- kalau melihat pakaian kotor bergelantungan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "risau (tentang hati dan sebagainya); resah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "yang penting saya ingin bercerita supaya hati saya tidak --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno sumpěk 'terbalik, terhalangi, dirintangi']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesumpekan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,72 @@
-{"word":"sekotah","authenticated":true,"entries":[{"id":"43862","nama":"se.ko.tah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"sekalian; semuanya","contoh":[]}],"rootWord":"kotah"},{"id":"73486","nama":"se.ko.tah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"segenap; seluruh(nya); semuanya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"luas sekali","contoh":[{"nomor":2,"teks":"sawahnya --"}]}]}]}
+{
+  "word": "sekotah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43862",
+      "nama": "se.ko.tah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekalian; semuanya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kotah"
+    },
+    {
+      "id": "73486",
+      "nama": "se.ko.tah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segenap; seluruh(nya); semuanya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "luas sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sawahnya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

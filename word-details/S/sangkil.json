@@ -1,1 +1,80 @@
-{"word":"sangkil","authenticated":true,"entries":[{"id":"72134","nama":"sang.kil","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sampai","contoh":[{"nomor":2,"teks":"perahu kecil itu -- dengan selamat ke tempat tujuan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena; mengenai","contoh":[{"nomor":2,"teks":"bidikannya tepat -- sasaran"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdaya guna; efisien","contoh":[]}],"terkait":{"kataTurunan":["kesangkilan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"283393","nama":"sang.kil","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus","contoh":[]}]}]}
+{
+  "word": "sangkil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72134",
+      "nama": "sang.kil",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu kecil itu -- dengan selamat ke tempat tujuan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena; mengenai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bidikannya tepat -- sasaran"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdaya guna; efisien",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesangkilan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "283393",
+      "nama": "sang.kil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

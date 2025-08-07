@@ -1,1 +1,114 @@
-{"word":"senjata","authenticated":true,"entries":[{"id":"75202","nama":"sen.ja.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat yang dipakai untuk berkelahi atau berperang (tentang keris, tombak, dan senapan)","contoh":[{"nomor":2,"teks":"-- api"},{"nomor":4,"teks":"gudang --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu (surat, kop surat, cap, memo, dan sebagainya) yang dipakai untuk memperoleh suatu maksud","contoh":[{"nomor":2,"teks":"ijazah palsu itu dijadikan -- untuk mencari rezeki"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tanda bunyi pada tulisan Arab (seperti fatah, kasrah, damah, dan sebagainya)","contoh":[]}],"etimologi":{"text":"[Sanskerta संयत्त saṃyatta a 'siap, berjaga-jaga']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersenjata","bersenjatakan","kesenjataan","mempersenjatai","persenjataan"],"gabunganKata":["senjata api","senjata api kecil","senjata berat","senjata biner","senjata biologi","senjata biologis","senjata gelap","senjata inkonvensional","senjata kimia","senjata konvensional","senjata mematikan","senjata nuklir","senjata otomatis","senjata pemungkas","senjata pemusnah massal","senjata ringan","senjata roket","senjata tajam","senjata tradisional"],"peribahasa":["pisau senjata tiada bisa, bisa lagi mulut manusia","senjata makan tuan"],"idiom":[]}}]}
+{
+  "word": "senjata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75202",
+      "nama": "sen.ja.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat yang dipakai untuk berkelahi atau berperang (tentang keris, tombak, dan senapan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- api"
+            },
+            {
+              "nomor": 4,
+              "teks": "gudang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu (surat, kop surat, cap, memo, dan sebagainya) yang dipakai untuk memperoleh suatu maksud",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ijazah palsu itu dijadikan -- untuk mencari rezeki"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanda bunyi pada tulisan Arab (seperti fatah, kasrah, damah, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta संयत्त saṃyatta a 'siap, berjaga-jaga']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersenjata",
+          "bersenjatakan",
+          "kesenjataan",
+          "mempersenjatai",
+          "persenjataan"
+        ],
+        "gabunganKata": [
+          "senjata api",
+          "senjata api kecil",
+          "senjata berat",
+          "senjata biner",
+          "senjata biologi",
+          "senjata biologis",
+          "senjata gelap",
+          "senjata inkonvensional",
+          "senjata kimia",
+          "senjata konvensional",
+          "senjata mematikan",
+          "senjata nuklir",
+          "senjata otomatis",
+          "senjata pemungkas",
+          "senjata pemusnah massal",
+          "senjata ringan",
+          "senjata roket",
+          "senjata tajam",
+          "senjata tradisional"
+        ],
+        "peribahasa": [
+          "pisau senjata tiada bisa, bisa lagi mulut manusia",
+          "senjata makan tuan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

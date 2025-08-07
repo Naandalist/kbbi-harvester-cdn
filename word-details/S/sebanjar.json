@@ -1,1 +1,53 @@
-{"word":"sebanjar","authenticated":true,"entries":[{"id":"8049","nama":"se.ban.jar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sebaris","contoh":[{"nomor":2,"teks":"~ batang pisang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sebaya","contoh":[{"nomor":2,"teks":"bagi semua orang yang ~ dengan daku umurnya"}]}],"rootWord":"banjar¹"}]}
+{
+  "word": "sebanjar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8049",
+      "nama": "se.ban.jar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebaris",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ batang pisang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bagi semua orang yang ~ dengan daku umurnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "banjar¹"
+    }
+  ]
+}

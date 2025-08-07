@@ -1,1 +1,59 @@
-{"word":"sakap","authenticated":true,"entries":[{"id":"71066","nama":"sa.kap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyakap","contoh":[]}],"terkait":{"kataTurunan":["menyakap","penyakap","sakapan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"238576","nama":"sa.kap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"mengambil atau memegang sesuatu sedapatnya secara tiba-tiba karena kondisi terdesak","contoh":[]}]}]}
+{
+  "word": "sakap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71066",
+      "nama": "sa.kap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyakap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyakap",
+          "penyakap",
+          "sakapan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "238576",
+      "nama": "sa.kap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengambil atau memegang sesuatu sedapatnya secara tiba-tiba karena kondisi terdesak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

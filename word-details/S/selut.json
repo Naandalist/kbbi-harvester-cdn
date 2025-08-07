@@ -1,1 +1,95 @@
-{"word":"selut","authenticated":true,"entries":[{"id":"74227","nama":"se.lut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"lumpur","contoh":[]}]},{"id":"150268","nama":"se.lut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"besi yang dipasang di ujung tangkai parang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"cincin pada ujung atas gagang kujang untuk memperkuat pegangan kujang","contoh":[]}]},{"id":"132823","nama":"se.lut","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"gerakan dalam tarian Sunda, dilakukan dengan memutar pergelangan hingga telapak tangan menghadap keluar, lalu diputar lagi sampai tangan dalam posisi menghadap ke depan","contoh":[]}]}]}
+{
+  "word": "selut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74227",
+      "nama": "se.lut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lumpur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "150268",
+      "nama": "se.lut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "besi yang dipasang di ujung tangkai parang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "cincin pada ujung atas gagang kujang untuk memperkuat pegangan kujang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "132823",
+      "nama": "se.lut",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gerakan dalam tarian Sunda, dilakukan dengan memutar pergelangan hingga telapak tangan menghadap keluar, lalu diputar lagi sampai tangan dalam posisi menghadap ke depan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

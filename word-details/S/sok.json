@@ -1,1 +1,120 @@
-{"word":"sok","authenticated":true,"entries":[{"id":"78266","nama":"sok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kaus kaki panjang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyambung pipa besi","contoh":[]}],"terkait":{"kataTurunan":["sok-sokan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"78267","nama":"sok","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ syok","contoh":[]}],"terkait":{"kataTurunan":["sok-sokan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"78268","nama":"sok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"berlagak (suka pamer dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"merasa mampu dan sebagainya, tetapi sebenarnya tidak","contoh":[{"nomor":2,"teks":"-- tahu"}]}],"terkait":{"kataTurunan":["sok-sokan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78266",
+      "nama": "sok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kaus kaki panjang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyambung pipa besi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sok-sokan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78267",
+      "nama": "sok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ syok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sok-sokan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78268",
+      "nama": "sok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berlagak (suka pamer dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "merasa mampu dan sebagainya, tetapi sebenarnya tidak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tahu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sok-sokan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

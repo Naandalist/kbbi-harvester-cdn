@@ -1,1 +1,99 @@
-{"word":"sontok","authenticated":true,"entries":[{"id":"78437","nama":"son.tok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"pendek; singkat: [1] bodoh [2] picik","contoh":[{"nomor":2,"teks":"-- akal (pikiran)"}]}],"terkait":{"kataTurunan":["menyontok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"78438","nama":"son.tok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tumbuk; gocoh","contoh":[]}],"terkait":{"kataTurunan":["menyontok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"271694","nama":"son.tok","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"besi untuk memperkuat bilah ke gagangnya","contoh":[]}]}]}
+{
+  "word": "sontok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78437",
+      "nama": "son.tok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pendek; singkat: [1] bodoh [2] picik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- akal (pikiran)"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyontok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78438",
+      "nama": "son.tok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tumbuk; gocoh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyontok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "271694",
+      "nama": "son.tok",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "besi untuk memperkuat bilah ke gagangnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

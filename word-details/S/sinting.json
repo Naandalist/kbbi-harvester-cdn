@@ -1,1 +1,64 @@
-{"word":"sinting","authenticated":true,"entries":[{"id":"77624","nama":"sin.ting","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ senteng1","contoh":[]}],"terkait":{"kataTurunan":["kesintingan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"77625","nama":"sin.ting","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kas","nama":"Kasar","tipe":"lainnya"}],"definisi":"sedeng; miring; tidak beres pikirannya; agak gila","contoh":[{"nomor":2,"teks":"dia mengigau seperti orang --"}]}],"terkait":{"kataTurunan":["kesintingan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sinting",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77624",
+      "nama": "sin.ting",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ senteng1",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesintingan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "77625",
+      "nama": "sin.ting",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kas",
+              "nama": "Kasar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sedeng; miring; tidak beres pikirannya; agak gila",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia mengigau seperti orang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesintingan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

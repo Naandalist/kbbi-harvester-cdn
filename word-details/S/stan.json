@@ -1,1 +1,102 @@
-{"word":"stan","authenticated":true,"entries":[{"id":"78782","nama":"stan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kedudukan; pertahanan","contoh":[{"nomor":2,"teks":"-- berakhir dengan 5–4 untuk kemenangan regu Indonesia"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat memamerkan (menjual dan sebagainya) produk di pasar malam dan sebagainya; ruang pamer","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mimbar; panggung","contoh":[]}]},{"id":"149367","nama":"stan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"kasta paling bawah di Suku Woirata, Maluku, bertugas melayani kasta lain","contoh":[]}]},{"id":"96400","nama":"STAN","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Sekolah Tinggi Akuntansi Negara","contoh":[]}]}]}
+{
+  "word": "stan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78782",
+      "nama": "stan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedudukan; pertahanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- berakhir dengan 5–4 untuk kemenangan regu Indonesia"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat memamerkan (menjual dan sebagainya) produk di pasar malam dan sebagainya; ruang pamer",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mimbar; panggung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "149367",
+      "nama": "stan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kasta paling bawah di Suku Woirata, Maluku, bertugas melayani kasta lain",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96400",
+      "nama": "STAN",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Sekolah Tinggi Akuntansi Negara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

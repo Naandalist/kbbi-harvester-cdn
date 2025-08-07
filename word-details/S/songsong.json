@@ -1,1 +1,103 @@
-{"word":"songsong","authenticated":true,"entries":[{"id":"78410","nama":"song.song","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlawanan arah","contoh":[]}],"terkait":{"kataTurunan":["bersongsong","menyongsong","penyongsong"],"gabunganKata":["songsong arus"],"peribahasa":[],"idiom":["baju songsong barat"]}},{"id":"78416","nama":"song.song","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"payung kebesaran","contoh":[{"nomor":2,"teks":"Sri Sultan berjalan menuju tempat upacara dipayungi -- yang berwarna kuning keemasan"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["baju songsong barat"]}},{"id":"231250","nama":"song.song","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"alat tradisional untuk meniup dan menjaga kestabilan nyala api hawu, terbuat dari ruas bambu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["baju songsong barat"]}}]}
+{
+  "word": "songsong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78410",
+      "nama": "song.song",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlawanan arah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersongsong",
+          "menyongsong",
+          "penyongsong"
+        ],
+        "gabunganKata": [
+          "songsong arus"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    },
+    {
+      "id": "78416",
+      "nama": "song.song",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "payung kebesaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Sri Sultan berjalan menuju tempat upacara dipayungi -- yang berwarna kuning keemasan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    },
+    {
+      "id": "231250",
+      "nama": "song.song",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat tradisional untuk meniup dan menjaga kestabilan nyala api hawu, terbuat dari ruas bambu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    }
+  ]
+}

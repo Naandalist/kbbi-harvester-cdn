@@ -1,1 +1,102 @@
-{"word":"sida","authenticated":true,"entries":[{"id":"76811","nama":"si.da","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada keturunan bangsawan","contoh":[{"nomor":2,"teks":"jika bukan --, Tengkukah nakhoda kapal itu?"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pegawai (rendah) istana yang telah dikebiri","contoh":[{"nomor":2,"teks":"tidak kurang dari seratus --, biti-biti perwara, dan dayang-dayang yang ikut mengiringkan Sang Putri"}]}],"etimologi":{"text":"[Sanskerta सिद्ध siddha a 'cakap atau terampil, suci, ulung atau pandai, sangat kuat']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["menyidai","sida-sida"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"137953","nama":"si.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"satuan materi berupa uang dan barang yang diwajibkan kepada keluarga perempuan untuk mendukung suatu upacara adat seperti perkawinan","contoh":[]}],"etimologi":{"text":"[Sanskerta सिद्ध siddha a 'cakap atau terampil, suci, ulung atau pandai, sangat kuat']","languages":["Sanskerta"]}}]}
+{
+  "word": "sida",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76811",
+      "nama": "si.da",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada keturunan bangsawan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika bukan --, Tengkukah nakhoda kapal itu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pegawai (rendah) istana yang telah dikebiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak kurang dari seratus --, biti-biti perwara, dan dayang-dayang yang ikut mengiringkan Sang Putri"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सिद्ध siddha a 'cakap atau terampil, suci, ulung atau pandai, sangat kuat']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyidai",
+          "sida-sida"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "137953",
+      "nama": "si.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan materi berupa uang dan barang yang diwajibkan kepada keluarga perempuan untuk mendukung suatu upacara adat seperti perkawinan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सिद्ध siddha a 'cakap atau terampil, suci, ulung atau pandai, sangat kuat']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"sigar","authenticated":true,"entries":[{"id":"76900","nama":"si.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cerutu","contoh":[]}],"terkait":{"kataTurunan":["menyigar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"76901","nama":"si.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"terbelah","contoh":[]}],"terkait":{"kataTurunan":["menyigar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sigar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76900",
+      "nama": "si.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cerutu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyigar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "76901",
+      "nama": "si.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "terbelah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyigar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

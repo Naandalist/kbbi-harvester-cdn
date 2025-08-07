@@ -1,1 +1,71 @@
-{"word":"seta","authenticated":true,"entries":[{"id":"223295","nama":"se.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"tangkai yang menyokong sporangium","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"organ atau bagian hewan atau tumbuhan yang berbulu dan kenyal","contoh":[]}]},{"id":"76364","nama":"se.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"hasta","contoh":[]}]}]}
+{
+  "word": "seta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "223295",
+      "nama": "se.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tangkai yang menyokong sporangium",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "organ atau bagian hewan atau tumbuhan yang berbulu dan kenyal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "76364",
+      "nama": "se.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasta",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

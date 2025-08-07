@@ -1,1 +1,181 @@
-{"word":"samar","authenticated":true,"entries":[{"id":"71577","nama":"sa.mar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kabur; tidak kelihatan nyata; agak gelap","contoh":[{"nomor":2,"teks":"dalam lamunannya terbayang -- wajah ibunya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sayup-sayup (tentang pendengaran)","contoh":[{"nomor":2,"teks":"dari jauh terdengar -- suara seruling gembala"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tersembunyi; kurang jelas (apa yang dilihat, dilakukan, dan sebagainya)","contoh":[{"nomor":2,"teks":"semua sepak terjangnya -- dan mencurigakan"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"gaib alam yang tidak dapat dilihat dengan indra biasa; gaib","contoh":[{"nomor":2,"teks":"ahli kebatinan dapat melihat segala sesuatu dalam alam --"}]},{"nomor":"5","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"saru; keliru","contoh":[{"nomor":2,"teks":"kadang-kadang saya -- tidak dapat membedakan kedua anak kembar itu"}]},{"nomor":"6","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang jelas (tentang kabar, peristiwa, dan sebagainya); tidak terang","contoh":[{"nomor":2,"teks":"dalam naskah perjanjian itu ada beberapa kalimat yang --"},{"nomor":4,"teks":"berita tentang jatuhnya pesawat terbang itu masih --"}]}],"etimologi":{"text":"[Jawa Kuno samar 'tidak jelas, nampak kabur, hampir-hampir tidak dapat dilihat atau dibedakan, tersembunyi']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bersamar","kesamaran","menyamar","menyamarkan","penyamar","penyamaran","samar-samar","samaran","samarkan","sesamar","tersamar","tersamarkan"],"gabunganKata":["samar muka"],"peribahasa":[],"idiom":[]}},{"id":"71587","nama":"sa.mar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"khawatir; waswas","contoh":[{"nomor":2,"teks":"relakan saja anakmu pergi, jangan --"}]}],"etimologi":{"text":"[Jawa Kuno samar 'tidak jelas, nampak kabur, hampir-hampir tidak dapat dilihat atau dibedakan, tersembunyi']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "samar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71577",
+      "nama": "sa.mar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabur; tidak kelihatan nyata; agak gelap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam lamunannya terbayang -- wajah ibunya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sayup-sayup (tentang pendengaran)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari jauh terdengar -- suara seruling gembala"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersembunyi; kurang jelas (apa yang dilihat, dilakukan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua sepak terjangnya -- dan mencurigakan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gaib alam yang tidak dapat dilihat dengan indra biasa; gaib",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ahli kebatinan dapat melihat segala sesuatu dalam alam --"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saru; keliru",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kadang-kadang saya -- tidak dapat membedakan kedua anak kembar itu"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang jelas (tentang kabar, peristiwa, dan sebagainya); tidak terang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam naskah perjanjian itu ada beberapa kalimat yang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "berita tentang jatuhnya pesawat terbang itu masih --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno samar 'tidak jelas, nampak kabur, hampir-hampir tidak dapat dilihat atau dibedakan, tersembunyi']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersamar",
+          "kesamaran",
+          "menyamar",
+          "menyamarkan",
+          "penyamar",
+          "penyamaran",
+          "samar-samar",
+          "samaran",
+          "samarkan",
+          "sesamar",
+          "tersamar",
+          "tersamarkan"
+        ],
+        "gabunganKata": [
+          "samar muka"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71587",
+      "nama": "sa.mar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "khawatir; waswas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "relakan saja anakmu pergi, jangan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno samar 'tidak jelas, nampak kabur, hampir-hampir tidak dapat dilihat atau dibedakan, tersembunyi']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

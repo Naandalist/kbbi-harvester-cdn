@@ -1,1 +1,161 @@
-{"word":"sekolah","authenticated":true,"entries":[{"id":"73446","nama":"se.ko.lah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bangunan atau lembaga untuk belajar dan mengajar serta tempat menerima dan memberi pelajaran (menurut tingkatannya, ada) -- dasar, -- lanjutan, -- tinggi; (menurut jurusannya, ada) -- dagang, -- guru, -- teknik, -- pertanian, dan sebagainya: sudah tidak belajar di sekolah lagi pernah belajar di sekolah","contoh":[{"nomor":2,"teks":"keluar --"},{"nomor":4,"teks":"pernah duduk di bangku --"},{"nomor":6,"teks":"tidak makan --, cak"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu atau pertemuan ketika murid diberi pelajaran","contoh":[{"nomor":2,"teks":"-- mulai pukul setengah delapan pagi"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"usaha menuntut kepandaian (ilmu pengetahuan); pelajaran; pengajaran: sudah banyak mendapat pelajaran sudah pandai benar","contoh":[{"nomor":2,"teks":"ia hendak melanjutkan --nya ke Jakarta"},{"nomor":4,"teks":"--nya tinggi"},{"nomor":6,"teks":"sudah masak --nya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"belajar di sekolah; pergi ke sekolah; bersekolah","contoh":[{"nomor":2,"teks":"mengapa engkau tidak -- hari ini?"}]}],"etimologi":{"text":"[Portugis escola escola n sg f 'bangunan untuk pengajaran']","languages":["Portugis"]},"terkait":{"kataTurunan":["bersekolah","menyekolahkan","persekolahan","sekolah-sekolahan","sekolahan"],"gabunganKata":["sekolah agama","sekolah alam","sekolah ambah","sekolah bayi","sekolah dagang","sekolah dasar","sekolah dasar kecil","sekolah drama","sekolah favorit","sekolah inklusi","sekolah kejuruan","sekolah kesenian","sekolah laboratorium","sekolah lanjutan","sekolah lanjutan tingkat atas","sekolah lanjutan tingkat pertama","sekolah magnet","sekolah mandiri","sekolah menengah","sekolah menengah atas","sekolah menengah kejuruan","sekolah menengah pertama","sekolah menengah tingkat atas","sekolah menengah tingkat pertama","sekolah menengah umum","sekolah Minggu","sekolah mitra","sekolah penerbangan","sekolah penggerak","sekolah pertukangan","sekolah pinggiran","sekolah raja","sekolah rakyat","sekolah ramah anak","sekolah reguler","sekolah sirkular","sekolah swasta","sekolah tinggi","sekolah unggulan","sekolah vokasi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sekolah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73446",
+      "nama": "se.ko.lah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangunan atau lembaga untuk belajar dan mengajar serta tempat menerima dan memberi pelajaran (menurut tingkatannya, ada) -- dasar, -- lanjutan, -- tinggi; (menurut jurusannya, ada) -- dagang, -- guru, -- teknik, -- pertanian, dan sebagainya: sudah tidak belajar di sekolah lagi pernah belajar di sekolah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keluar --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pernah duduk di bangku --"
+            },
+            {
+              "nomor": 6,
+              "teks": "tidak makan --, cak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu atau pertemuan ketika murid diberi pelajaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- mulai pukul setengah delapan pagi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "usaha menuntut kepandaian (ilmu pengetahuan); pelajaran; pengajaran: sudah banyak mendapat pelajaran sudah pandai benar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia hendak melanjutkan --nya ke Jakarta"
+            },
+            {
+              "nomor": 4,
+              "teks": "--nya tinggi"
+            },
+            {
+              "nomor": 6,
+              "teks": "sudah masak --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belajar di sekolah; pergi ke sekolah; bersekolah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mengapa engkau tidak -- hari ini?"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis escola escola n sg f 'bangunan untuk pengajaran']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersekolah",
+          "menyekolahkan",
+          "persekolahan",
+          "sekolah-sekolahan",
+          "sekolahan"
+        ],
+        "gabunganKata": [
+          "sekolah agama",
+          "sekolah alam",
+          "sekolah ambah",
+          "sekolah bayi",
+          "sekolah dagang",
+          "sekolah dasar",
+          "sekolah dasar kecil",
+          "sekolah drama",
+          "sekolah favorit",
+          "sekolah inklusi",
+          "sekolah kejuruan",
+          "sekolah kesenian",
+          "sekolah laboratorium",
+          "sekolah lanjutan",
+          "sekolah lanjutan tingkat atas",
+          "sekolah lanjutan tingkat pertama",
+          "sekolah magnet",
+          "sekolah mandiri",
+          "sekolah menengah",
+          "sekolah menengah atas",
+          "sekolah menengah kejuruan",
+          "sekolah menengah pertama",
+          "sekolah menengah tingkat atas",
+          "sekolah menengah tingkat pertama",
+          "sekolah menengah umum",
+          "sekolah Minggu",
+          "sekolah mitra",
+          "sekolah penerbangan",
+          "sekolah penggerak",
+          "sekolah pertukangan",
+          "sekolah pinggiran",
+          "sekolah raja",
+          "sekolah rakyat",
+          "sekolah ramah anak",
+          "sekolah reguler",
+          "sekolah sirkular",
+          "sekolah swasta",
+          "sekolah tinggi",
+          "sekolah unggulan",
+          "sekolah vokasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

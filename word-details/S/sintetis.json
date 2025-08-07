@@ -1,1 +1,60 @@
-{"word":"sintetis","authenticated":true,"entries":[{"id":"77623","nama":"sin.te.tis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mengenai sintesis; berdasarkan sintesis (tentang hukum, kesimpulan, dan sebagainya)","contoh":[{"nomor":2,"teks":"pengambilan hukum secara --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"tidak diturunkan langsung dari hasil alam; bersifat hasil pengolahan manusia; tiruan","contoh":[{"nomor":2,"teks":"karet -- adalah karet tiruan yang terdiri atas bermacam unsur kimia"}]}],"terkait":{"kataTurunan":["menyintetis"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sintetis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77623",
+      "nama": "sin.te.tis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenai sintesis; berdasarkan sintesis (tentang hukum, kesimpulan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengambilan hukum secara --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tidak diturunkan langsung dari hasil alam; bersifat hasil pengolahan manusia; tiruan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karet -- adalah karet tiruan yang terdiri atas bermacam unsur kimia"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyintetis"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

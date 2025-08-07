@@ -1,1 +1,98 @@
-{"word":"setelan","authenticated":true,"entries":[{"id":"76411","nama":"se.tel.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"selengkap pakaian (celana dan baju)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seperangkat (cangkir, kain, dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pasangan; jodoh; bagian sesuatu (perkakas)","contoh":[]}],"rootWord":"setel¹","terkait":{"kataTurunan":[],"gabunganKata":["setelan jam pasir","setelan jas","setelan klep","setelan pabrik"],"peribahasa":[],"idiom":[]}},{"id":"76417","nama":"se.tel.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"putaran (arloji dan sebagainya); tombol (radio dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil menyetel; cara menyetel","contoh":[]}],"rootWord":"setel²"}]}
+{
+  "word": "setelan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76411",
+      "nama": "se.tel.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selengkap pakaian (celana dan baju)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seperangkat (cangkir, kain, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pasangan; jodoh; bagian sesuatu (perkakas)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "setel¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "setelan jam pasir",
+          "setelan jas",
+          "setelan klep",
+          "setelan pabrik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "76417",
+      "nama": "se.tel.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putaran (arloji dan sebagainya); tombol (radio dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil menyetel; cara menyetel",
+          "contoh": []
+        }
+      ],
+      "rootWord": "setel²"
+    }
+  ]
+}

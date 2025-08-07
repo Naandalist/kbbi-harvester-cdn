@@ -1,1 +1,56 @@
-{"word":"seabstrak","authenticated":true,"entries":[{"id":"101549","nama":"se.ab.strak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sama abstrak","contoh":[{"nomor":2,"teks":"hal itu ~ keimanan"}]}],"rootWord":"abstrak¹"},{"id":"101550","nama":"se.ab.strak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satu abstrak","contoh":[{"nomor":2,"teks":"tulisannya dimuat ~ dengan tulisan penulis lain"}]}],"rootWord":"abstrak²"}]}
+{
+  "word": "seabstrak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101549",
+      "nama": "se.ab.strak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama abstrak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hal itu ~ keimanan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "abstrak¹"
+    },
+    {
+      "id": "101550",
+      "nama": "se.ab.strak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu abstrak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tulisannya dimuat ~ dengan tulisan penulis lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "abstrak²"
+    }
+  ]
+}

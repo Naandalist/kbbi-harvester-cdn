@@ -1,1 +1,89 @@
-{"word":"santun","authenticated":true,"entries":[{"id":"72249","nama":"san.tun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"halus dan baik (budi bahasanya, tingkah lakunya); sabar dan tenang; sopan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"penuh rasa belas kasihan; suka menolong","contoh":[]}],"etimologi":{"text":"[Sanskerta शान्त śānta 'diam, tenang, bersih, damai, lembut']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kesantunan","mempersantun","menyantun","menyantuni","penyantun","penyantunan","santunan","sesantun","tersantun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"297644","nama":"san.tun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"imbalan jasa untuk seniman tari, penabuh, dan dalang","contoh":[]}],"etimologi":{"text":"[Sanskerta शान्त śānta 'diam, tenang, bersih, damai, lembut']","languages":["Sanskerta"]}}]}
+{
+  "word": "santun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72249",
+      "nama": "san.tun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "halus dan baik (budi bahasanya, tingkah lakunya); sabar dan tenang; sopan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penuh rasa belas kasihan; suka menolong",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta शान्त śānta 'diam, tenang, bersih, damai, lembut']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesantunan",
+          "mempersantun",
+          "menyantun",
+          "menyantuni",
+          "penyantun",
+          "penyantunan",
+          "santunan",
+          "sesantun",
+          "tersantun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "297644",
+      "nama": "san.tun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "imbalan jasa untuk seniman tari, penabuh, dan dalang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta शान्त śānta 'diam, tenang, bersih, damai, lembut']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

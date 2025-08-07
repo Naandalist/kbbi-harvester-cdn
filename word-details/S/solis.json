@@ -1,1 +1,47 @@
-{"word":"solis","authenticated":true,"entries":[{"id":"78324","nama":"so.lis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyanyi tunggal (yang bernyanyi seorang diri); penyanyi solo","contoh":[{"nomor":2,"teks":"ia bertindak sebagai -- pada pergelaran orkes simfoni itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"pelantun mazmur dan lagu-lagu lain yang bersifat sendiri","contoh":[]}]}]}
+{
+  "word": "solis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78324",
+      "nama": "so.lis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyanyi tunggal (yang bernyanyi seorang diri); penyanyi solo",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bertindak sebagai -- pada pergelaran orkes simfoni itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pelantun mazmur dan lagu-lagu lain yang bersifat sendiri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

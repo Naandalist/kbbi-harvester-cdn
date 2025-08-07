@@ -1,1 +1,93 @@
-{"word":"substansi","authenticated":true,"entries":[{"id":"79216","nama":"sub.stan.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"watak yang sebenarnya dari sesuatu; isi; pokok; inti","contoh":[{"nomor":2,"teks":"dalam konferensi akan dihimpun -- masalah yang akan kita bicarakan dalam pertemuan tingkat tinggi mendatang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"unsur; zat","contoh":[{"nomor":2,"teks":"pembakaran terjadi sebagai hasil persenyawaan sebuah -- dengan oksigen"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kekayaan; harta","contoh":[{"nomor":2,"teks":"pikiran merupakan -- yang tidak kelihatan"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"medium yang dipakai untuk mengungkapkan bahasa","contoh":[]}],"terkait":{"kataTurunan":["bersubstansi"],"gabunganKata":["substansi cahaya","substansi kelabu","substansi putih"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "substansi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79216",
+      "nama": "sub.stan.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "watak yang sebenarnya dari sesuatu; isi; pokok; inti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam konferensi akan dihimpun -- masalah yang akan kita bicarakan dalam pertemuan tingkat tinggi mendatang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "unsur; zat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pembakaran terjadi sebagai hasil persenyawaan sebuah -- dengan oksigen"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekayaan; harta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pikiran merupakan -- yang tidak kelihatan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "medium yang dipakai untuk mengungkapkan bahasa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersubstansi"
+        ],
+        "gabunganKata": [
+          "substansi cahaya",
+          "substansi kelabu",
+          "substansi putih"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

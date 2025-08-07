@@ -1,1 +1,41 @@
-{"word":"swapraja","authenticated":true,"entries":[{"id":"80444","nama":"swa.pra.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"daerah yang berpemerintahan sendiri","contoh":[{"nomor":2,"teks":"Daerah Istimewa Yogyakarta adalah daerah --"}]}],"etimologi":{"text":"[Sanskerta स्व sva 'milik, -ku, -mu, kami, kita, mereka' dan प्रजा prajā 'kerajaan, generasi, era, keluarga, rakyat']","languages":["Sanskerta"]}}]}
+{
+  "word": "swapraja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80444",
+      "nama": "swa.pra.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daerah yang berpemerintahan sendiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Daerah Istimewa Yogyakarta adalah daerah --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta स्व sva 'milik, -ku, -mu, kami, kita, mereka' dan प्रजा prajā 'kerajaan, generasi, era, keluarga, rakyat']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

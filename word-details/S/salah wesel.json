@@ -1,1 +1,53 @@
-{"word":"salah wesel","authenticated":true,"entries":[{"id":"71300","nama":"salah wesel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"salah alamat","contoh":[{"nomor":2,"teks":"kiriman obat-obatan ini harus sampai di tangan rakyat yang memerlukan jangan sampai -- wesel"}]},{"nomor":"2","kelasKata":[{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"salah paham (pengertian)","contoh":[{"nomor":2,"teks":"karena -- wesel ia memberikan penafsiran yang berbeda dengan apa yang kumaksudkan"}]}],"rootWord":"salah"}]}
+{
+  "word": "salah wesel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71300",
+      "nama": "salah wesel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "salah alamat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kiriman obat-obatan ini harus sampai di tangan rakyat yang memerlukan jangan sampai -- wesel"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "salah paham (pengertian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena -- wesel ia memberikan penafsiran yang berbeda dengan apa yang kumaksudkan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "salah"
+    }
+  ]
+}

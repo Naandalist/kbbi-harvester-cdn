@@ -1,1 +1,90 @@
-{"word":"saki","authenticated":true,"entries":[{"id":"71109","nama":"sa.ki","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"teman; kawan","contoh":[]}],"etimologi":{"text":"[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']","languages":["Arab"]}},{"id":"71110","nama":"sa.ki","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sake","contoh":[]}],"etimologi":{"text":"[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']","languages":["Arab"]}},{"id":"147597","nama":"sa.ki","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pembantu perempuan","contoh":[{"nomor":2,"teks":"bulan depan -- di rumahnya akan pulang"}]}],"etimologi":{"text":"[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']","languages":["Arab"]}}]}
+{
+  "word": "saki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71109",
+      "nama": "sa.ki",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teman; kawan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "71110",
+      "nama": "sa.ki",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sake",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "147597",
+      "nama": "sa.ki",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pembantu perempuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bulan depan -- di rumahnya akan pulang"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَاقٍي sāqī n sg m 'penyuguh minuman']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

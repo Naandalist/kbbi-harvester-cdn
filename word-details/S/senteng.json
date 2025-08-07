@@ -1,1 +1,121 @@
-{"word":"senteng","authenticated":true,"entries":[{"id":"75292","nama":"sen.teng","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pendek (tentang baju, kelambu, dan sebagainya); kurang panjang","contoh":[{"nomor":2,"teks":"kain yang --"},{"nomor":4,"teks":"celananya --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kurang (uang dan sebagainya); tidak mencukupi: kurang uang hidup serba tidak cukup","contoh":[{"nomor":2,"teks":"-- di uang"},{"nomor":4,"teks":"hidup --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"sinting","contoh":[]}],"terkait":{"kataTurunan":["kesentengan","menyentengi","menyentengkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"75296","nama":"sen.teng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"kain (selendang) penutup dada; kain dada; kemban","contoh":[{"nomor":2,"teks":"ia memakai -- berwarna jingga, kain kuning, dan untaian bunga di rambutnya"}]}]}]}
+{
+  "word": "senteng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75292",
+      "nama": "sen.teng",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendek (tentang baju, kelambu, dan sebagainya); kurang panjang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kain yang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "celananya --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kurang (uang dan sebagainya); tidak mencukupi: kurang uang hidup serba tidak cukup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- di uang"
+            },
+            {
+              "nomor": 4,
+              "teks": "hidup --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sinting",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesentengan",
+          "menyentengi",
+          "menyentengkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75296",
+      "nama": "sen.teng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kain (selendang) penutup dada; kain dada; kemban",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memakai -- berwarna jingga, kain kuning, dan untaian bunga di rambutnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

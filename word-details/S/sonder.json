@@ -1,1 +1,95 @@
-{"word":"sonder","authenticated":true,"entries":[{"id":"78391","nama":"son.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"selendang sutra pelengkap menari (biasanya untuk penutup bahu)","contoh":[]}],"terkait":{"kataTurunan":["bersonder"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"210358","nama":"son.der","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"perasaan bahwa orang lain juga menjalani kehidupan yang sama seperti kita","contoh":[]}]},{"id":"78390","nama":"son.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tanpa; tidak dengan ...; tidak ber ...","contoh":[{"nomor":2,"teks":"penyakitnya dapat disembuhkan -- operasi"},{"nomor":4,"teks":"karena bingung dan panik, ia keluar dari kamar mandi -- pakaian"}]}]}]}
+{
+  "word": "sonder",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78391",
+      "nama": "son.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "selendang sutra pelengkap menari (biasanya untuk penutup bahu)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersonder"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "210358",
+      "nama": "son.der",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perasaan bahwa orang lain juga menjalani kehidupan yang sama seperti kita",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "78390",
+      "nama": "son.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanpa; tidak dengan ...; tidak ber ...",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyakitnya dapat disembuhkan -- operasi"
+            },
+            {
+              "nomor": 4,
+              "teks": "karena bingung dan panik, ia keluar dari kamar mandi -- pakaian"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

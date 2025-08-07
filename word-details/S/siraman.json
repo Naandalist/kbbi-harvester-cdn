@@ -1,1 +1,88 @@
-{"word":"siraman","authenticated":true,"entries":[{"id":"77716","nama":"si.ram.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil menyiram; guyuran; curahan","contoh":[{"nomor":2,"teks":"kalau hujan turun, penumpang akan terkena ~ air hujan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"upacara membersihkan pusaka pada setiap bulan Sura pada hari Jumat Kliwon","contoh":[{"nomor":2,"teks":"pusaka-pusaka keraton dibersihkan dalam upacara ~"},{"nomor":4,"teks":"air bekas ~ dianggap bertuah"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"upacara memandikan pengantin","contoh":[{"nomor":2,"teks":"sebelum upacara akad nikah dilaksanakan, dilakukan upacara ~"}]}],"rootWord":"siram","terkait":{"kataTurunan":[],"gabunganKata":["siraman kalbu","siraman rohani"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "siraman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77716",
+      "nama": "si.ram.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil menyiram; guyuran; curahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau hujan turun, penumpang akan terkena ~ air hujan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "upacara membersihkan pusaka pada setiap bulan Sura pada hari Jumat Kliwon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pusaka-pusaka keraton dibersihkan dalam upacara ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "air bekas ~ dianggap bertuah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "upacara memandikan pengantin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum upacara akad nikah dilaksanakan, dilakukan upacara ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siram",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "siraman kalbu",
+          "siraman rohani"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"word":"sengaja","authenticated":true,"entries":[{"id":"74931","nama":"se.nga.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dimaksudkan (direncanakan); memang diniatkan begitu; tidak secara kebetulan","contoh":[{"nomor":2,"teks":"sering kita membuat kesalahan tidak --"},{"nomor":4,"teks":"dengan -- ia sering datang dari jauh untuk menemuimu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dibuat-buat; bersengaja","contoh":[{"nomor":2,"teks":"geli hatinya melihat tingkah laku anak muda yang -- itu"}]}],"etimologi":{"text":"[Sanskerta सहज sahaja a 'orisinal, natural, biasa']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bersengaja","kesengajaan","ketidaksengajaan","menyengaja","menyengajakan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sengaja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74931",
+      "nama": "se.nga.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dimaksudkan (direncanakan); memang diniatkan begitu; tidak secara kebetulan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sering kita membuat kesalahan tidak --"
+            },
+            {
+              "nomor": 4,
+              "teks": "dengan -- ia sering datang dari jauh untuk menemuimu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dibuat-buat; bersengaja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "geli hatinya melihat tingkah laku anak muda yang -- itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta सहज sahaja a 'orisinal, natural, biasa']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersengaja",
+          "kesengajaan",
+          "ketidaksengajaan",
+          "menyengaja",
+          "menyengajakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

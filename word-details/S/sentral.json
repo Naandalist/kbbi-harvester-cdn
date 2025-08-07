@@ -1,1 +1,78 @@
-{"word":"sentral","authenticated":true,"entries":[{"id":"75331","nama":"sen.tral","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"di tengah-tengah sekali","contoh":[{"nomor":2,"teks":"titik --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dianggap sebagai pusat: pemerintah pusat (terdapat di ibu kota negara yang tidak selalu terletak di tengah-tengah wilayah negara dan sebagainya) tokoh yang merupakan inti suatu kegiatan (gerakan dan sebagainya)","contoh":[{"nomor":2,"teks":"pemerintah --"},{"nomor":4,"teks":"tokoh --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pusat; sentra","contoh":[]}],"terkait":{"kataTurunan":["bersentral","kesentralan","menyentralkan","penyentralan","tersentral"],"gabunganKata":["sentral listrik","sentral telepon"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sentral",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75331",
+      "nama": "sen.tral",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "di tengah-tengah sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "titik --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dianggap sebagai pusat: pemerintah pusat (terdapat di ibu kota negara yang tidak selalu terletak di tengah-tengah wilayah negara dan sebagainya) tokoh yang merupakan inti suatu kegiatan (gerakan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah --"
+            },
+            {
+              "nomor": 4,
+              "teks": "tokoh --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pusat; sentra",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersentral",
+          "kesentralan",
+          "menyentralkan",
+          "penyentralan",
+          "tersentral"
+        ],
+        "gabunganKata": [
+          "sentral listrik",
+          "sentral telepon"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"word":"someah","authenticated":true,"entries":[{"id":"98226","nama":"so.me.ah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"ramah","contoh":[{"nomor":2,"teks":"pada umumnya masyarakat Sunda itu --"}]}]}]}
+{
+  "word": "someah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "98226",
+      "nama": "so.me.ah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ramah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada umumnya masyarakat Sunda itu --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

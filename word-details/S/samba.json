@@ -1,1 +1,66 @@
-{"word":"samba","authenticated":true,"entries":[{"id":"71598","nama":"sam.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"tarian rakyat Brazil yang berasal dari tari-tarian penduduk asli Afrika","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"irama musik birama dua yang biasanya dipakai untuk mengiringi tari samba","contoh":[]}]},{"id":"203833","nama":"sam.ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"karakter lincah dan manis dalam kesenian topeng babakan Cirebon","contoh":[]}]}]}
+{
+  "word": "samba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71598",
+      "nama": "sam.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tarian rakyat Brazil yang berasal dari tari-tarian penduduk asli Afrika",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "irama musik birama dua yang biasanya dipakai untuk mengiringi tari samba",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203833",
+      "nama": "sam.ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karakter lincah dan manis dalam kesenian topeng babakan Cirebon",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

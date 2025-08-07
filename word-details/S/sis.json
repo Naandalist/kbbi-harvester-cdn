@@ -1,1 +1,102 @@
-{"word":"sis","authenticated":true,"entries":[{"id":"77824","nama":"sis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi desis (tentang angin berembus dan sebagainya)","contoh":[]}]},{"id":"225106","nama":"sis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sapaan akrab kepada wanita","contoh":[]}]},{"id":"268959","nama":"sis","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"daging kelapa yang sudah dicungkil dari buahnya","contoh":[]}]},{"id":"233833","nama":"SIS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"teknik pencitraan dengan memanfaatkan media kontras salin (NaCl 0,9%) ke dalam rahim menggunakan kateter; Saline Infusion Sonography","contoh":[]}]}]}
+{
+  "word": "sis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77824",
+      "nama": "sis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi desis (tentang angin berembus dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "225106",
+      "nama": "sis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sapaan akrab kepada wanita",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "268959",
+      "nama": "sis",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daging kelapa yang sudah dicungkil dari buahnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "233833",
+      "nama": "SIS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teknik pencitraan dengan memanfaatkan media kontras salin (NaCl 0,9%) ke dalam rahim menggunakan kateter; Saline Infusion Sonography",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

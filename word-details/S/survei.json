@@ -1,1 +1,74 @@
-{"word":"survei","authenticated":true,"entries":[{"id":"80246","nama":"sur.vei","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"teknik riset dengan memberi batas yang jelas atas data; penyelidikan; peninjauan","contoh":[{"nomor":2,"teks":"hasil -- tanah di daerah itu membuktikan bahwa tanah itu mengandung bijih besi"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengukuran (tanah)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"cabang matematika terapan tentang penentuan luas setiap bagian permukaan Bumi, mencakup panjang dan arah garis pembatasnya, kontur permukaan, serta penggambaran keseluruhan secara akurat di atas kertas","contoh":[]}],"terkait":{"kataTurunan":["menyurvei","penyurvei","penyurveian"],"gabunganKata":["survei aeromagnetik","survei analitik","survei geodesis","survei udara"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "survei",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80246",
+      "nama": "sur.vei",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teknik riset dengan memberi batas yang jelas atas data; penyelidikan; peninjauan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil -- tanah di daerah itu membuktikan bahwa tanah itu mengandung bijih besi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengukuran (tanah)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "cabang matematika terapan tentang penentuan luas setiap bagian permukaan Bumi, mencakup panjang dan arah garis pembatasnya, kontur permukaan, serta penggambaran keseluruhan secara akurat di atas kertas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyurvei",
+          "penyurvei",
+          "penyurveian"
+        ],
+        "gabunganKata": [
+          "survei aeromagnetik",
+          "survei analitik",
+          "survei geodesis",
+          "survei udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

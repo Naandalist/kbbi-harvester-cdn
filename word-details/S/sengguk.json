@@ -1,1 +1,70 @@
-{"word":"sengguk","authenticated":true,"entries":[{"id":"75024","nama":"seng.guk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyengguk","contoh":[]}],"terkait":{"kataTurunan":["menyengguk","tersengguk","tersengguk-sengguk","sesengguk-sengguk","sesenggukan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"75028","nama":"seng.guk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sesenggukan","contoh":[]}],"terkait":{"kataTurunan":["sesengguk-sengguk","sesenggukan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sengguk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75024",
+      "nama": "seng.guk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyengguk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyengguk",
+          "tersengguk",
+          "tersengguk-sengguk",
+          "sesengguk-sengguk",
+          "sesenggukan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75028",
+      "nama": "seng.guk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sesenggukan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sesengguk-sengguk",
+          "sesenggukan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-{"word":"selilit","authenticated":true,"entries":[{"id":"49343","nama":"se.li.lit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satu lilit (belit)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sekeliling","contoh":[{"nomor":2,"teks":"anak-anak bermain ~ lapangan"}]}],"rootWord":"lilit","terkait":{"kataTurunan":[],"gabunganKata":["selilit lapangan","selilit pinggang"],"peribahasa":["utang selilit (sebelit) pinggang (utang tiap helai bulu)"],"idiom":[]}},{"id":"73969","nama":"se.li.lit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sisa makanan (daging dan sebagainya) yang menyelip di sela-sela gigi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu yang menjadi perintang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["utang selilit (sebelit) pinggang (utang tiap helai bulu)"],"idiom":[]}}]}
+{
+  "word": "selilit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49343",
+      "nama": "se.li.lit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu lilit (belit)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekeliling",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak bermain ~ lapangan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lilit",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "selilit lapangan",
+          "selilit pinggang"
+        ],
+        "peribahasa": [
+          "utang selilit (sebelit) pinggang (utang tiap helai bulu)"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73969",
+      "nama": "se.li.lit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sisa makanan (daging dan sebagainya) yang menyelip di sela-sela gigi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang menjadi perintang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "utang selilit (sebelit) pinggang (utang tiap helai bulu)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

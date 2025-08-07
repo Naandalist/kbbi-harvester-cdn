@@ -1,1 +1,47 @@
-{"word":"sehari","authenticated":true,"entries":[{"id":"28763","nama":"se.ha.ri","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satu hari: [1] satu atau dua hari [2] beberapa hari sepanjang hari","contoh":[{"nomor":2,"teks":"~ dua"},{"nomor":4,"teks":"~ suntuk"}]}],"rootWord":"hari¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kail sebentuk, umpan seekor, sekali putus, sehari berhanyut","menggadai tergolong ke pajak, sehari sebulan juga","panas setahun dihapuskan oleh hujan sehari","sehari selembar benang, lama-lama jadi sehelai kain","sehari selembar benang, lama-lama menjadi sehelai kain"],"idiom":[]}}]}
+{
+  "word": "sehari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28763",
+      "nama": "se.ha.ri",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satu hari: [1] satu atau dua hari [2] beberapa hari sepanjang hari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ dua"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ suntuk"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hari¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kail sebentuk, umpan seekor, sekali putus, sehari berhanyut",
+          "menggadai tergolong ke pajak, sehari sebulan juga",
+          "panas setahun dihapuskan oleh hujan sehari",
+          "sehari selembar benang, lama-lama jadi sehelai kain",
+          "sehari selembar benang, lama-lama menjadi sehelai kain"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

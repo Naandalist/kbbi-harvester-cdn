@@ -1,1 +1,93 @@
-{"word":"sol","authenticated":true,"entries":[{"id":"78288","nama":"sol","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"telapak (alas) sepatu (sandal dan sebagainya)","contoh":[{"nomor":2,"teks":"kerikil di halaman terasa panas menembus -- sepatu"}]}],"terkait":{"kataTurunan":["bersol","mengesol","mengesolkan","pengesol","pengesolan"],"gabunganKata":["sol ortopedi","sol sepatu"],"peribahasa":[],"idiom":[]}},{"id":"78292","nama":"sol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-5 pada urutan tangga nada diatonik, dilambangkan dengan angka 5","contoh":[]}]},{"id":"291581","nama":"sol","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"sistem tersebarnya partikel halus zat padat oleh cairan, misalnya pasta gigi dan tinta","contoh":[]}]}]}
+{
+  "word": "sol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78288",
+      "nama": "sol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telapak (alas) sepatu (sandal dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kerikil di halaman terasa panas menembus -- sepatu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersol",
+          "mengesol",
+          "mengesolkan",
+          "pengesol",
+          "pengesolan"
+        ],
+        "gabunganKata": [
+          "sol ortopedi",
+          "sol sepatu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78292",
+      "nama": "sol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-5 pada urutan tangga nada diatonik, dilambangkan dengan angka 5",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "291581",
+      "nama": "sol",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sistem tersebarnya partikel halus zat padat oleh cairan, misalnya pasta gigi dan tinta",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"suni","authenticated":true,"entries":[{"id":"79938","nama":"su.ni","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ahli sunah","contoh":[]}],"etimologi":{"text":"[Arab سُنِّيٌّ sunnī n sg m 'umat Nabi Muhammad saw. yang beragama berdasarkan Hadis Nabi dan kaul ulama salaf']","languages":["Arab"]}},{"id":"79939","nama":"su.ni","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"sunyi","contoh":[]}],"etimologi":{"text":"[Arab سُنِّيٌّ sunnī n sg m 'umat Nabi Muhammad saw. yang beragama berdasarkan Hadis Nabi dan kaul ulama salaf']","languages":["Arab"]}}]}
+{
+  "word": "suni",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79938",
+      "nama": "su.ni",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ahli sunah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سُنِّيٌّ sunnī n sg m 'umat Nabi Muhammad saw. yang beragama berdasarkan Hadis Nabi dan kaul ulama salaf']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "79939",
+      "nama": "su.ni",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sunyi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سُنِّيٌّ sunnī n sg m 'umat Nabi Muhammad saw. yang beragama berdasarkan Hadis Nabi dan kaul ulama salaf']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

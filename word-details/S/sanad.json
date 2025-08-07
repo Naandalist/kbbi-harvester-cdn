@@ -1,1 +1,69 @@
-{"word":"sanad","authenticated":true,"entries":[{"id":"71899","nama":"sa.nad","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"sandaran, hubungan, atau rangkaian perkara yang dapat dipercayai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"rentetan rawi hadis sampai kepada Nabi Muhammad saw.","contoh":[{"nomor":2,"teks":"hadis itu telah diriwayatkan oleh Imam Bukhari dengan -- yang baik"}]}],"etimologi":{"text":"[Arab سَنَدٌ sanad n sg m 'mercu gunung; sandaran; rentetan rawi hadis sampai kepada Nabi Muhammad saw.']","languages":["Arab"]},"terkait":{"kataTurunan":["bersanad"],"gabunganKata":["sanad hadis","sanad keilmuan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sanad",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71899",
+      "nama": "sa.nad",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sandaran, hubungan, atau rangkaian perkara yang dapat dipercayai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rentetan rawi hadis sampai kepada Nabi Muhammad saw.",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hadis itu telah diriwayatkan oleh Imam Bukhari dengan -- yang baik"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab سَنَدٌ sanad n sg m 'mercu gunung; sandaran; rentetan rawi hadis sampai kepada Nabi Muhammad saw.']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersanad"
+        ],
+        "gabunganKata": [
+          "sanad hadis",
+          "sanad keilmuan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

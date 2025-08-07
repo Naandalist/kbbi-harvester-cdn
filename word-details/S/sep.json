@@ -1,1 +1,96 @@
-{"word":"sep","authenticated":true,"entries":[{"id":"75402","nama":"sep","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"kepala (kantor, stasiun, dan sebagainya)","contoh":[{"nomor":2,"teks":"kalau --nya orang baik, senanglah ia bekerja"}]}],"terkait":{"kataTurunan":["bersep"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"75404","nama":"sep","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mrd","nama":"Moraid","tipe":"lainnya"}],"definisi":"makanan yang dimasak dengan batu panas yang telah dibakar","contoh":[{"nomor":2,"teks":"acara adat itu disemarakkan dengan pesta --"}]}]},{"id":"282387","nama":"sep","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"permainan tradisional seperti gulat yang dilakukan dengan saling membanting lawan, peserta yang terlihat giginya dinyatakan kalah","contoh":[]}]}]}
+{
+  "word": "sep",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75402",
+      "nama": "sep",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala (kantor, stasiun, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau --nya orang baik, senanglah ia bekerja"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersep"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75404",
+      "nama": "sep",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mrd",
+              "nama": "Moraid",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan yang dimasak dengan batu panas yang telah dibakar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara adat itu disemarakkan dengan pesta --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "282387",
+      "nama": "sep",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "permainan tradisional seperti gulat yang dilakukan dengan saling membanting lawan, peserta yang terlihat giginya dinyatakan kalah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

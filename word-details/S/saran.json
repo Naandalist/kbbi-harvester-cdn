@@ -1,1 +1,70 @@
-{"word":"saran","authenticated":true,"entries":[{"id":"72377","nama":"sa.ran","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pendapat (usul, anjuran, cita-cita) yang dikemukakan untuk dipertimbangkan","contoh":[{"nomor":2,"teks":"untuk mengatasi masalah itu, anak-anak meminta -- dari gurunya"}]}],"terkait":{"kataTurunan":["bersaran","bersarankan","menyarani","menyarankan","penyaran","penyaranan","saranan"],"gabunganKata":["saran medis"],"peribahasa":[],"idiom":[]}},{"id":"125112","nama":"sa.ran","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oy","nama":"Orya","tipe":"lainnya"}],"definisi":"kerang kecil sebagai pembayaran maskawin yang diberikan sebanyak satu noken dari pihak laki-laki ke pihak perempuan","contoh":[]}]}]}
+{
+  "word": "saran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72377",
+      "nama": "sa.ran",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendapat (usul, anjuran, cita-cita) yang dikemukakan untuk dipertimbangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk mengatasi masalah itu, anak-anak meminta -- dari gurunya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersaran",
+          "bersarankan",
+          "menyarani",
+          "menyarankan",
+          "penyaran",
+          "penyaranan",
+          "saranan"
+        ],
+        "gabunganKata": [
+          "saran medis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "125112",
+      "nama": "sa.ran",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oy",
+              "nama": "Orya",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kerang kecil sebagai pembayaran maskawin yang diberikan sebanyak satu noken dari pihak laki-laki ke pihak perempuan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

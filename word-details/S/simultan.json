@@ -1,1 +1,56 @@
-{"word":"simultan","authenticated":true,"entries":[{"id":"77347","nama":"si.mul.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terjadi atau berlaku pada waktu yang bersamaan; serentak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"secara serentak dilakukan (tentang pertandingan catur, biasanya seorang pemain catur melawan beberapa pemain sekaligus)","contoh":[{"nomor":2,"teks":"pertandingan catur --"}]}],"terkait":{"kataTurunan":["bersimultan","kesimultanan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "simultan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77347",
+      "nama": "si.mul.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terjadi atau berlaku pada waktu yang bersamaan; serentak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "secara serentak dilakukan (tentang pertandingan catur, biasanya seorang pemain catur melawan beberapa pemain sekaligus)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertandingan catur --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersimultan",
+          "kesimultanan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

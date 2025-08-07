@@ -1,1 +1,55 @@
-{"word":"sangkalan","authenticated":true,"entries":[{"id":"72117","nama":"sang.kal.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bantahan","contoh":[{"nomor":2,"teks":"~nya didasarkan pada fakta yang aktual"}]}],"rootWord":"sangkal¹"},{"id":"298801","nama":"sang.ka.lan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"talenan dari potongan batang kayu, biasanya untuk mencincang daging atau ikan besar","contoh":[]}]}]}
+{
+  "word": "sangkalan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72117",
+      "nama": "sang.kal.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bantahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~nya didasarkan pada fakta yang aktual"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangkal¹"
+    },
+    {
+      "id": "298801",
+      "nama": "sang.ka.lan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "talenan dari potongan batang kayu, biasanya untuk mencincang daging atau ikan besar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

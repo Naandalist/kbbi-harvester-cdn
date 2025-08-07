@@ -1,1 +1,228 @@
-{"word":"sel","authenticated":true,"entries":[{"id":"73562","nama":"sel","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian atau bentuk terkecil dari organisme, terdiri atas satu atau lebih inti, protoplasma, dan zat-zat mati yang dikelilingi oleh selaput sel","contoh":[]}],"terkait":{"kataTurunan":["bersel","disel"],"gabunganKata":["sel adipose","sel air","sel anak","sel argentafin","sel B","sel badai guntur","sel basal","sel batang","sel berhubungan","sel bibir","sel D","sel darah","sel darah merah","sel darah putih","sel dendritik","sel embrio","sel enteroendokrin","sel epitel","sel G","sel germinal","sel getah","sel glandular","sel glia","sel goblet","sel Hadley","sel haploid","sel hibridoma","sel inang","sel induk","sel induk megaspora","sel kecambah","sel kelamin","sel keranjang","sel kerucut","sel kipas","sel klonogenik","sel konveksi","sel Kupffer","sel labil","sel Langerhans","sel meridional","sel Merkel","sel NK","sel nutfah","sel olfaktori","sel Paneth","sel pembunuh alami","sel pengawal","sel pengiring","sel penjaga","sel penuh","sel penutup","sel perawat","sel permanen","sel punca","sel Purkinje","sel raksasa","sel ratu","sel Reed-Sternberg","sel saraf","sel Schwann","sel sertoli","sel skuamosa","sel somatik","sel sporogen","sel stabil","sel T","sel T pembantu","sel T pembunuh","sel T pengatur","sel T sitotoksik","sel telur","sel tumor","sel udara","sel isolasi","sel pengasingan","sel bahan bakar","sel beban","sel elektrokimia","sel elektrolisis","sel fotovoltaik","sel kering","sel konduktivitas","sel solar","sel surya","sel volta"],"peribahasa":[],"idiom":[]}},{"id":"73589","nama":"sel","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bilik kecil dan sempit (dalam penjara, biara, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["disel"],"gabunganKata":["sel isolasi","sel pengasingan","sel bahan bakar","sel beban","sel elektrokimia","sel elektrolisis","sel fotovoltaik","sel kering","sel konduktivitas","sel solar","sel surya","sel volta"],"peribahasa":[],"idiom":[]}},{"id":"73591","nama":"sel","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"petak pada alat penghasil tenaga listrik dengan reaksi kimia, biasanya pada baterai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat yang memuat elektrolit yang dapat menghasilkan arus listrik atau digunakan dalam elektrolisis","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["sel bahan bakar","sel beban","sel elektrokimia","sel elektrolisis","sel fotovoltaik","sel kering","sel konduktivitas","sel solar","sel surya","sel volta"],"peribahasa":[],"idiom":[]}},{"id":"219359","nama":"sel","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lembaran transparan dari seluloid atau bahan film sejenisnya, yang digambar dan dikombinasikan dengan lembaran lain dalam pembuatan animasi","contoh":[]}]}]}
+{
+  "word": "sel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73562",
+      "nama": "sel",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian atau bentuk terkecil dari organisme, terdiri atas satu atau lebih inti, protoplasma, dan zat-zat mati yang dikelilingi oleh selaput sel",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersel",
+          "disel"
+        ],
+        "gabunganKata": [
+          "sel adipose",
+          "sel air",
+          "sel anak",
+          "sel argentafin",
+          "sel B",
+          "sel badai guntur",
+          "sel basal",
+          "sel batang",
+          "sel berhubungan",
+          "sel bibir",
+          "sel D",
+          "sel darah",
+          "sel darah merah",
+          "sel darah putih",
+          "sel dendritik",
+          "sel embrio",
+          "sel enteroendokrin",
+          "sel epitel",
+          "sel G",
+          "sel germinal",
+          "sel getah",
+          "sel glandular",
+          "sel glia",
+          "sel goblet",
+          "sel Hadley",
+          "sel haploid",
+          "sel hibridoma",
+          "sel inang",
+          "sel induk",
+          "sel induk megaspora",
+          "sel kecambah",
+          "sel kelamin",
+          "sel keranjang",
+          "sel kerucut",
+          "sel kipas",
+          "sel klonogenik",
+          "sel konveksi",
+          "sel Kupffer",
+          "sel labil",
+          "sel Langerhans",
+          "sel meridional",
+          "sel Merkel",
+          "sel NK",
+          "sel nutfah",
+          "sel olfaktori",
+          "sel Paneth",
+          "sel pembunuh alami",
+          "sel pengawal",
+          "sel pengiring",
+          "sel penjaga",
+          "sel penuh",
+          "sel penutup",
+          "sel perawat",
+          "sel permanen",
+          "sel punca",
+          "sel Purkinje",
+          "sel raksasa",
+          "sel ratu",
+          "sel Reed-Sternberg",
+          "sel saraf",
+          "sel Schwann",
+          "sel sertoli",
+          "sel skuamosa",
+          "sel somatik",
+          "sel sporogen",
+          "sel stabil",
+          "sel T",
+          "sel T pembantu",
+          "sel T pembunuh",
+          "sel T pengatur",
+          "sel T sitotoksik",
+          "sel telur",
+          "sel tumor",
+          "sel udara",
+          "sel isolasi",
+          "sel pengasingan",
+          "sel bahan bakar",
+          "sel beban",
+          "sel elektrokimia",
+          "sel elektrolisis",
+          "sel fotovoltaik",
+          "sel kering",
+          "sel konduktivitas",
+          "sel solar",
+          "sel surya",
+          "sel volta"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73589",
+      "nama": "sel",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bilik kecil dan sempit (dalam penjara, biara, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "disel"
+        ],
+        "gabunganKata": [
+          "sel isolasi",
+          "sel pengasingan",
+          "sel bahan bakar",
+          "sel beban",
+          "sel elektrokimia",
+          "sel elektrolisis",
+          "sel fotovoltaik",
+          "sel kering",
+          "sel konduktivitas",
+          "sel solar",
+          "sel surya",
+          "sel volta"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73591",
+      "nama": "sel",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "petak pada alat penghasil tenaga listrik dengan reaksi kimia, biasanya pada baterai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat yang memuat elektrolit yang dapat menghasilkan arus listrik atau digunakan dalam elektrolisis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sel bahan bakar",
+          "sel beban",
+          "sel elektrokimia",
+          "sel elektrolisis",
+          "sel fotovoltaik",
+          "sel kering",
+          "sel konduktivitas",
+          "sel solar",
+          "sel surya",
+          "sel volta"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "219359",
+      "nama": "sel",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lembaran transparan dari seluloid atau bahan film sejenisnya, yang digambar dan dikombinasikan dengan lembaran lain dalam pembuatan animasi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

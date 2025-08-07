@@ -1,1 +1,52 @@
-{"word":"simtomatik","authenticated":true,"entries":[{"id":"77339","nama":"sim.to.ma.tik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"menyebabkan atau menunjukkan gejala penyakit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"berhubungan dengan atau berdasarkan suatu gejala","contoh":[{"nomor":2,"teks":"pengobatan --"}]}]}]}
+{
+  "word": "simtomatik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77339",
+      "nama": "sim.to.ma.tik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menyebabkan atau menunjukkan gejala penyakit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berhubungan dengan atau berdasarkan suatu gejala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengobatan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

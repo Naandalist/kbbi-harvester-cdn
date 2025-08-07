@@ -1,1 +1,141 @@
-{"word":"santung","authenticated":true,"entries":[{"id":"72256","nama":"san.tung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"erat","contoh":[{"nomor":2,"teks":"hubungan mereka sangat --, tidak ada rahasia di antara mereka"}]}],"terkait":{"kataTurunan":["menyantung"],"gabunganKata":["santung pelalai","santung pintu"],"peribahasa":["bagai kena santung pelalai"],"idiom":[]}},{"id":"72258","nama":"san.tung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pasak atau baji untuk menegangkan kulit rebana, gendang, dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["menyantung"],"gabunganKata":["santung pelalai","santung pintu"],"peribahasa":["bagai kena santung pelalai"],"idiom":[]}},{"id":"72263","nama":"san.tung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"rakus","contoh":[]}],"terkait":{"kataTurunan":["menyantung"],"gabunganKata":[],"peribahasa":["bagai kena santung pelalai"],"idiom":[]}},{"id":"168622","nama":"san.tung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"kain tenun polos yang memiliki permukaan agak tidak beraturan karena benang pengisinya tidak rata","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai kena santung pelalai"],"idiom":[]}}]}
+{
+  "word": "santung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72256",
+      "nama": "san.tung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "erat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hubungan mereka sangat --, tidak ada rahasia di antara mereka"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyantung"
+        ],
+        "gabunganKata": [
+          "santung pelalai",
+          "santung pintu"
+        ],
+        "peribahasa": [
+          "bagai kena santung pelalai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72258",
+      "nama": "san.tung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pasak atau baji untuk menegangkan kulit rebana, gendang, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyantung"
+        ],
+        "gabunganKata": [
+          "santung pelalai",
+          "santung pintu"
+        ],
+        "peribahasa": [
+          "bagai kena santung pelalai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72263",
+      "nama": "san.tung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rakus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyantung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai kena santung pelalai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "168622",
+      "nama": "san.tung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kain tenun polos yang memiliki permukaan agak tidak beraturan karena benang pengisinya tidak rata",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai kena santung pelalai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

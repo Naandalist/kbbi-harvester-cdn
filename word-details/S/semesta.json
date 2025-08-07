@@ -1,1 +1,63 @@
-{"word":"semesta","authenticated":true,"entries":[{"id":"74550","nama":"se.mes.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keseluruhan; kesegenapan: pembangunan seluruhnya (dalam segala lapangan)","contoh":[{"nomor":2,"teks":"semua yang ada di -- alam ini tidak dapat lepas dari takdirnya masing-masing"},{"nomor":4,"teks":"pembangunan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(berlaku untuk) seluruh dunia; universal","contoh":[]}],"etimologi":{"text":"[Sanskerta समस्त samasta 'terlempar atau terletak bersama; disatukan, seluruh, semua, bersama-sama;']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kesemestaan"],"gabunganKata":["semesta bahasa","semesta mendukung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "semesta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74550",
+      "nama": "se.mes.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keseluruhan; kesegenapan: pembangunan seluruhnya (dalam segala lapangan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua yang ada di -- alam ini tidak dapat lepas dari takdirnya masing-masing"
+            },
+            {
+              "nomor": 4,
+              "teks": "pembangunan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(berlaku untuk) seluruh dunia; universal",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta समस्त samasta 'terlempar atau terletak bersama; disatukan, seluruh, semua, bersama-sama;']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesemestaan"
+        ],
+        "gabunganKata": [
+          "semesta bahasa",
+          "semesta mendukung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

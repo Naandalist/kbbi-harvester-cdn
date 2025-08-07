@@ -1,1 +1,134 @@
-{"word":"sara","authenticated":true,"entries":[{"id":"72352","nama":"sa.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dipakai untuk memelihara atau menyelamatkan hidup (seperti bekal, ransum, uang sokongan)","contoh":[{"nomor":2,"teks":"-- hidup"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang sara","contoh":[]}],"terkait":{"kataTurunan":["bersara","menyara","menyarai","persaraan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"72356","nama":"sa.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"bersara","contoh":[]}],"terkait":{"kataTurunan":["bersara","persaraan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"160296","nama":"sa.ra","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ka","nama":"Kamang","tipe":"lainnya"}],"definisi":"padi kering yang hampa isinya","contoh":[]}]},{"id":"93247","nama":"SARA","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"suku, agama, ras, dan antargolongan","contoh":[]}]}]}
+{
+  "word": "sara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72352",
+      "nama": "sa.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dipakai untuk memelihara atau menyelamatkan hidup (seperti bekal, ransum, uang sokongan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- hidup"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang sara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersara",
+          "menyara",
+          "menyarai",
+          "persaraan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72356",
+      "nama": "sa.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bersara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersara",
+          "persaraan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "160296",
+      "nama": "sa.ra",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ka",
+              "nama": "Kamang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "padi kering yang hampa isinya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93247",
+      "nama": "SARA",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku, agama, ras, dan antargolongan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

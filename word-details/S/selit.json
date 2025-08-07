@@ -1,1 +1,63 @@
-{"word":"selit","authenticated":true,"entries":[{"id":"74068","nama":"se.lit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"selip","contoh":[]}],"terkait":{"kataTurunan":["berselit-selit","menyelit","menyelitkan","terselit"],"gabunganKata":["selit-belit","selit-sepit"],"peribahasa":[],"idiom":[]}},{"id":"233556","nama":"se.lit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tiruan bunyi peluit yang dilakukan dengan cara memencet bibir bawah dan mengisap udara","contoh":[]}]}]}
+{
+  "word": "selit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74068",
+      "nama": "se.lit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selip",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berselit-selit",
+          "menyelit",
+          "menyelitkan",
+          "terselit"
+        ],
+        "gabunganKata": [
+          "selit-belit",
+          "selit-sepit"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "233556",
+      "nama": "se.lit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tiruan bunyi peluit yang dilakukan dengan cara memencet bibir bawah dan mengisap udara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"sksd","authenticated":true,"entries":[{"id":"96298","nama":"SKSD","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sistem komunikasi satelit domestik","contoh":[]}]},{"id":"202479","nama":"SKSD","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sok kenal sok dekat","contoh":[{"nomor":2,"teks":"dia berlagak -- dengan keluargaku"}]}]}]}
+{
+  "word": "sksd",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96298",
+      "nama": "SKSD",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sistem komunikasi satelit domestik",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "202479",
+      "nama": "SKSD",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sok kenal sok dekat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia berlagak -- dengan keluargaku"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

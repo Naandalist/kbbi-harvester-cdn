@@ -1,1 +1,44 @@
-{"word":"semilir","authenticated":true,"entries":[{"id":"77161","nama":"se.mi.lir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sepoi-sepoi basa (tentang angin)","contoh":[{"nomor":2,"teks":"ia duduk di teras menikmati ~ angin"}]}],"rootWord":"silir¹"},{"id":"74567","nama":"se.mi.lir","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ silir1","contoh":[]}]}]}
+{
+  "word": "semilir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77161",
+      "nama": "se.mi.lir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepoi-sepoi basa (tentang angin)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia duduk di teras menikmati ~ angin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "silir¹"
+    },
+    {
+      "id": "74567",
+      "nama": "se.mi.lir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ silir1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

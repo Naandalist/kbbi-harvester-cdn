@@ -1,1 +1,100 @@
-{"word":"su","authenticated":true,"entries":[{"id":"161604","nama":"su","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Awy","nama":"Awyu","tipe":"lainnya"}],"definisi":"pelepah sagu yang sudah dibersihkan dari duri-duri dan digunakan untuk menimba kolam","contoh":[]}]},{"id":"96415","nama":"SU","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sarjana utama (gelar pendidikan setara magister yang sudah tidak digunakan lagi)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sidang umum","contoh":[]}]},{"id":"183276","nama":"SU","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Film","nama":"Perfilman","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"semua umur","contoh":[]}]}]}
+{
+  "word": "su",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "161604",
+      "nama": "su",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Awy",
+              "nama": "Awyu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pelepah sagu yang sudah dibersihkan dari duri-duri dan digunakan untuk menimba kolam",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96415",
+      "nama": "SU",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sarjana utama (gelar pendidikan setara magister yang sudah tidak digunakan lagi)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sidang umum",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "183276",
+      "nama": "SU",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Film",
+              "nama": "Perfilman",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semua umur",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

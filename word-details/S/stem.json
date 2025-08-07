@@ -1,1 +1,97 @@
-{"word":"stem","authenticated":true,"entries":[{"id":"188088","nama":"stem","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"haluan depan anjung-anjung kapal","contoh":[]}]},{"id":"224052","nama":"stem","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"garis vertikal pada not yang menandakan lamanya not dibunyikan, berkaitan dengan not-not lain di sekitarnya","contoh":[]}]},{"id":"238499","nama":"stem","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"leksem yang bergabung dengan afiks","contoh":[]}]},{"id":"199680","nama":"STEM","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dik","nama":"Pendidikan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sains, teknologi, teknik, matematika (metode pembelajaran yang mengintegrasikan sains, teknologi, teknik, dan matematika untuk mengembangkan kreativitas siswa melalui pemecahan masalah dalam kehidupan sehari-hari)","contoh":[]}]}]}
+{
+  "word": "stem",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "188088",
+      "nama": "stem",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "haluan depan anjung-anjung kapal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "224052",
+      "nama": "stem",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "garis vertikal pada not yang menandakan lamanya not dibunyikan, berkaitan dengan not-not lain di sekitarnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "238499",
+      "nama": "stem",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "leksem yang bergabung dengan afiks",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "199680",
+      "nama": "STEM",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dik",
+              "nama": "Pendidikan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sains, teknologi, teknik, matematika (metode pembelajaran yang mengintegrasikan sains, teknologi, teknik, dan matematika untuk mengembangkan kreativitas siswa melalui pemecahan masalah dalam kehidupan sehari-hari)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

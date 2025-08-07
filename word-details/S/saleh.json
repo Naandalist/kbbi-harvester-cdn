@@ -1,1 +1,145 @@
-{"word":"saleh","authenticated":true,"entries":[{"id":"71405","nama":"sa.leh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"taat dan sungguh-sungguh menjalankan ibadah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"suci dan beriman","contoh":[{"nomor":2,"teks":"mudah-mudahan ia akan menjadi anak yang --"}]}],"etimologi":{"text":"[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']","languages":["Arab"]},"terkait":{"kataTurunan":["kesalehan","menyalehkan","sesaleh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"71407","nama":"sa.leh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"datang","contoh":[{"nomor":2,"teks":"silakan Tuanku -- kembali esok pagi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"pergi","contoh":[{"nomor":2,"teks":"-- berlancang"}]}],"etimologi":{"text":"[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']","languages":["Arab"]}},{"id":"71408","nama":"Sa.leh","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"nabi dan rasul kelima yang diutus Allah Swt.","contoh":[]}],"etimologi":{"text":"[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']","languages":["Arab"]}}]}
+{
+  "word": "saleh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71405",
+      "nama": "sa.leh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "taat dan sungguh-sungguh menjalankan ibadah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suci dan beriman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mudah-mudahan ia akan menjadi anak yang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kesalehan",
+          "menyalehkan",
+          "sesaleh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71407",
+      "nama": "sa.leh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "silakan Tuanku -- kembali esok pagi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pergi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- berlancang"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "71408",
+      "nama": "Sa.leh",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nabi dan rasul kelima yang diutus Allah Swt.",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab صَالِحٌ ṣāliḥ n sg m 'yang taat; yang baik; Nabi yang diutus oleh Allah Swt. untuk kaum Samud']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

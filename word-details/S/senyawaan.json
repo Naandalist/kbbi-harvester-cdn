@@ -1,1 +1,61 @@
-{"word":"senyawaan","authenticated":true,"entries":[{"id":"57488","nama":"se.nya.wa.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"campuran (dua zat dan sebagainya) yang sudah berpadu benar; perpaduan (dua zat dan sebagainya)","contoh":[{"nomor":2,"teks":"petugas itu menyemprot tanaman jeruk dengan ~ kimia"}]}],"rootWord":"nyawa"},{"id":"75378","nama":"se.nya.wa.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"paduan","contoh":[{"nomor":2,"teks":"menyemprot dengan ~ asam kimia"}]}],"rootWord":"senyawa"}]}
+{
+  "word": "senyawaan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57488",
+      "nama": "se.nya.wa.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "campuran (dua zat dan sebagainya) yang sudah berpadu benar; perpaduan (dua zat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petugas itu menyemprot tanaman jeruk dengan ~ kimia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "nyawa"
+    },
+    {
+      "id": "75378",
+      "nama": "se.nya.wa.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paduan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menyemprot dengan ~ asam kimia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "senyawa"
+    }
+  ]
+}

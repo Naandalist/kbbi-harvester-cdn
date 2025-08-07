@@ -1,1 +1,67 @@
-{"word":"sum","authenticated":true,"entries":[{"id":"79603","nama":"sum","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kapal Siam","contoh":[{"nomor":2,"teks":"maka Baginda pun menyuruh menyiapkan delapan ratus --, selain perahu kecil-kecil yang tiada terbilang jumlahnya"}]}]},{"id":"291515","nama":"sum","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mata uang Uzbekistan","contoh":[]}]},{"id":"96689","nama":"Sum","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat Dayak Sum","contoh":[]}]}]}
+{
+  "word": "sum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79603",
+      "nama": "sum",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kapal Siam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maka Baginda pun menyuruh menyiapkan delapan ratus --, selain perahu kecil-kecil yang tiada terbilang jumlahnya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "291515",
+      "nama": "sum",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mata uang Uzbekistan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96689",
+      "nama": "Sum",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat Dayak Sum",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

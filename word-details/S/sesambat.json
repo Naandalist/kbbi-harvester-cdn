@@ -1,1 +1,68 @@
-{"word":"sesambat","authenticated":true,"entries":[{"id":"71647","nama":"se.sam.bat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berseru-seru untuk meminta pertolongan atau bantuan","contoh":[{"nomor":2,"teks":"dalam rintihannya ia ~ kepada setiap orang yang lewat, tetapi tidak seorang pun menghiraukannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdoa","contoh":[{"nomor":2,"teks":"karena tidak tertahankan lagi, ia ~ kepada Tuhan agar diringankan penderitaan hidupnya"}]}],"rootWord":"sambat²"},{"id":"71651","nama":"se.sam.bat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersambat","contoh":[]}],"rootWord":"sambat³"}]}
+{
+  "word": "sesambat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71647",
+      "nama": "se.sam.bat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berseru-seru untuk meminta pertolongan atau bantuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam rintihannya ia ~ kepada setiap orang yang lewat, tetapi tidak seorang pun menghiraukannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdoa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena tidak tertahankan lagi, ia ~ kepada Tuhan agar diringankan penderitaan hidupnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sambat²"
+    },
+    {
+      "id": "71651",
+      "nama": "se.sam.bat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersambat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sambat³"
+    }
+  ]
+}

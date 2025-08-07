@@ -1,1 +1,73 @@
-{"word":"sipu","authenticated":true,"entries":[{"id":"77690","nama":"si.pu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merasa segan karena belum kenal; malu","contoh":[{"nomor":2,"teks":"gadis itu tidak menjawab, tetapi tersenyum --"}]}],"terkait":{"kataTurunan":["kesipu-sipuan","kesipuan","tersipu","tersipu-sipu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"77695","nama":"si.pu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"tersipu-sipu","contoh":[]}],"terkait":{"kataTurunan":["tersipu-sipu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sipu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77690",
+      "nama": "si.pu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa segan karena belum kenal; malu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu tidak menjawab, tetapi tersenyum --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kesipu-sipuan",
+          "kesipuan",
+          "tersipu",
+          "tersipu-sipu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "77695",
+      "nama": "si.pu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tersipu-sipu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tersipu-sipu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

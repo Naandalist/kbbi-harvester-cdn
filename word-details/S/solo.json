@@ -1,1 +1,127 @@
-{"word":"solo","authenticated":true,"entries":[{"id":"78326","nama":"so.lo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nyanyian (lagu, musik) tunggal (yang dinyanyikan atau dimainkan oleh satu orang)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tunggal (melakukan sesuatu dan sebagainya seorang diri); sendiri: karier yang (hendak) dikerjakan sendirian","contoh":[{"nomor":2,"teks":"penyanyi --"},{"nomor":4,"teks":"terbang --"},{"nomor":6,"teks":"-- karier"}]}],"terkait":{"kataTurunan":["bersolo"],"gabunganKata":["solo karir"],"peribahasa":[],"idiom":[]}},{"id":"78327","nama":"so.lo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"menangkap ikan pada malam hari","contoh":[]}]},{"id":"277003","nama":"so.lo","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"hampir tua (tentang buah)","contoh":[]}]},{"id":"107832","nama":"So.lo","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"Surakarta","contoh":[]}]}]}
+{
+  "word": "solo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78326",
+      "nama": "so.lo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyanyian (lagu, musik) tunggal (yang dinyanyikan atau dimainkan oleh satu orang)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tunggal (melakukan sesuatu dan sebagainya seorang diri); sendiri: karier yang (hendak) dikerjakan sendirian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyanyi --"
+            },
+            {
+              "nomor": 4,
+              "teks": "terbang --"
+            },
+            {
+              "nomor": 6,
+              "teks": "-- karier"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersolo"
+        ],
+        "gabunganKata": [
+          "solo karir"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78327",
+      "nama": "so.lo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menangkap ikan pada malam hari",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "277003",
+      "nama": "so.lo",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hampir tua (tentang buah)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "107832",
+      "nama": "So.lo",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Surakarta",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,84 @@
-{"word":"sabetan","authenticated":true,"entries":[{"id":"70663","nama":"sa.bet.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pukulan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"serangan","contoh":[{"nomor":2,"teks":"ia beruntung dapat menghindari ~ lawan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"hasil merampas","contoh":[]}],"rootWord":"sabet¹"},{"id":"262437","nama":"sa.be.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gerakan tari yang dilakukan untuk mengawali ragam gerak yang lain","contoh":[]}]}]}
+{
+  "word": "sabetan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70663",
+      "nama": "sa.bet.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukulan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia beruntung dapat menghindari ~ lawan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil merampas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sabet¹"
+    },
+    {
+      "id": "262437",
+      "nama": "sa.be.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gerakan tari yang dilakukan untuk mengawali ragam gerak yang lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

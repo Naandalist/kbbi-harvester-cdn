@@ -1,1 +1,106 @@
-{"word":"sungut","authenticated":true,"entries":[{"id":"79932","nama":"su.ngut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rambut panjang yang berfungsi sebagai indra atau perasa (di kepala atau hidung beberapa binatang, seperti jangkrik, ikan lele)","contoh":[{"nomor":2,"teks":"-- jangkrik"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"misai; kumis","contoh":[{"nomor":2,"teks":"-- kucing"}]}],"etimologi":{"text":"[Jawa Kuno suṅut 'antena, peraba, tanduk perasa (serangga, udang), sulur']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["sungut-sungut","bersungut","bersungut-sungut"],"gabunganKata":["sungut leter"],"peribahasa":[],"idiom":[]}},{"id":"79934","nama":"su.ngut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"comel; gerutu","contoh":[{"nomor":2,"teks":"ia menangis dengan tidak ketinggalan pula -- leternya"}]}],"etimologi":{"text":"[Jawa Kuno suṅut 'antena, peraba, tanduk perasa (serangga, udang), sulur']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bersungut","bersungut-sungut"],"gabunganKata":["sungut leter"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sungut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79932",
+      "nama": "su.ngut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rambut panjang yang berfungsi sebagai indra atau perasa (di kepala atau hidung beberapa binatang, seperti jangkrik, ikan lele)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- jangkrik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "misai; kumis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kucing"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno suṅut 'antena, peraba, tanduk perasa (serangga, udang), sulur']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "sungut-sungut",
+          "bersungut",
+          "bersungut-sungut"
+        ],
+        "gabunganKata": [
+          "sungut leter"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "79934",
+      "nama": "su.ngut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "comel; gerutu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menangis dengan tidak ketinggalan pula -- leternya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno suṅut 'antena, peraba, tanduk perasa (serangga, udang), sulur']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bersungut",
+          "bersungut-sungut"
+        ],
+        "gabunganKata": [
+          "sungut leter"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

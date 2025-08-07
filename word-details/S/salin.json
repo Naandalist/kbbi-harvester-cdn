@@ -1,1 +1,150 @@
-{"word":"salin","authenticated":true,"entries":[{"id":"71427","nama":"sa.lin","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ganti; tukar","contoh":[{"nomor":2,"teks":"sebelum berangkat, ia harus -- pakaian dulu"}]}],"terkait":{"kataTurunan":["bersalin","bersalin-salin","mempersalini","mempersalinkan","menyalin","menyalini","menyalinkan","penyalin","penyalinan","persalin","persalinan","pesalin","salinan","sesalin","tersalin"],"gabunganKata":["persalinan terinduksi","salin hipertonik","salin jirim","salin rekat","salin suara","salin tempel"],"peribahasa":[],"idiom":[]}},{"id":"71446","nama":"sa.lin","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan yang baru memijahkan telur","contoh":[]}]},{"id":"133407","nama":"sa.lin","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"menyiapkan perlengkapan upacara untuk menuai padi dilengkapi dengan sajen","contoh":[]}]},{"id":"226814","nama":"sa.lin","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terdiri atas atau mengandung garam","contoh":[{"nomor":2,"teks":"tanaman ini sulit tumbuh di tanah -- karena kandungan kadar garam dalam tanah yang tinggi"}]}]},{"id":"268858","nama":"sa.lin","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"tempat berteduh di kebun yang terbuat dari kayu, terdiri atas dua buah tiang dan dua buah penahan yang dipasang miring untuk meletakkan dedaunan sebagai atap","contoh":[]}]}]}
+{
+  "word": "salin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71427",
+      "nama": "sa.lin",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ganti; tukar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum berangkat, ia harus -- pakaian dulu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersalin",
+          "bersalin-salin",
+          "mempersalini",
+          "mempersalinkan",
+          "menyalin",
+          "menyalini",
+          "menyalinkan",
+          "penyalin",
+          "penyalinan",
+          "persalin",
+          "persalinan",
+          "pesalin",
+          "salinan",
+          "sesalin",
+          "tersalin"
+        ],
+        "gabunganKata": [
+          "persalinan terinduksi",
+          "salin hipertonik",
+          "salin jirim",
+          "salin rekat",
+          "salin suara",
+          "salin tempel"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71446",
+      "nama": "sa.lin",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan yang baru memijahkan telur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "133407",
+      "nama": "sa.lin",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyiapkan perlengkapan upacara untuk menuai padi dilengkapi dengan sajen",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "226814",
+      "nama": "sa.lin",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdiri atas atau mengandung garam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanaman ini sulit tumbuh di tanah -- karena kandungan kadar garam dalam tanah yang tinggi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "268858",
+      "nama": "sa.lin",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat berteduh di kebun yang terbuat dari kayu, terdiri atas dua buah tiang dan dua buah penahan yang dipasang miring untuk meletakkan dedaunan sebagai atap",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

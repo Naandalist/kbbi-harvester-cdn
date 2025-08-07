@@ -1,1 +1,159 @@
-{"word":"semangat","authenticated":true,"entries":[{"id":"74290","nama":"se.ma.ngat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"roh kehidupan yang menjiwai segala makhluk, baik hidup maupun mati (menurut kepercayaan orang dulu dapat memberi kekuatan)","contoh":[{"nomor":2,"teks":"seorang dukun di desanya dapat memanggil --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seluruh kehidupan batin manusia","contoh":[{"nomor":2,"teks":"-- budak dan -- pengemis harus kita berantas sampai ke akar-akarnya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"isi dan maksud yang tersirat dalam suatu kalimat (perbuatan, perjanjian, dan sebagainya)","contoh":[{"nomor":2,"teks":"bertentangan dengan -- perjanjian"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kekuatan (kegembiraan, gairah) batin; keadaan atau suasana batin","contoh":[{"nomor":2,"teks":"-- rakyat makin berkobar setelah mendengar pidato itu"},{"nomor":4,"teks":"-- pasukan kita yang menjaga perbatasan tetap baik"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perasaan hati","contoh":[{"nomor":2,"teks":"terpengaruh oleh -- kedaerahan"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nafsu (kemauan, gairah) untuk bekerja, berjuang, dan sebagainya: [1] hilang keberanian [2] cabar hati [3] kecut hati [1] giat [2] bergairah [3] bertenaga bertuah tidak bergairah","contoh":[{"nomor":2,"teks":"hendaknya diusahakan supaya -- bekerja para pegawai negeri jangan luntur"},{"nomor":4,"teks":"jatuh --"},{"nomor":6,"teks":"keras --"},{"nomor":8,"teks":"kuat --"},{"nomor":10,"teks":"kurang -- (lemah --)"}]}],"terkait":{"kataTurunan":["bersemangat","kesemangatan","menyemangati","menyemangatkan","penyemangat","penyemangatan","tersemangati"],"gabunganKata":["semangat bahari","semangat baja","semangat padi"],"peribahasa":["mempertinggi semangat anjing"],"idiom":["membakar semangat","membunuh semangat","memompa semangat"]}}]}
+{
+  "word": "semangat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74290",
+      "nama": "se.ma.ngat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roh kehidupan yang menjiwai segala makhluk, baik hidup maupun mati (menurut kepercayaan orang dulu dapat memberi kekuatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seorang dukun di desanya dapat memanggil --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seluruh kehidupan batin manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- budak dan -- pengemis harus kita berantas sampai ke akar-akarnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "isi dan maksud yang tersirat dalam suatu kalimat (perbuatan, perjanjian, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bertentangan dengan -- perjanjian"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekuatan (kegembiraan, gairah) batin; keadaan atau suasana batin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- rakyat makin berkobar setelah mendengar pidato itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- pasukan kita yang menjaga perbatasan tetap baik"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perasaan hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terpengaruh oleh -- kedaerahan"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nafsu (kemauan, gairah) untuk bekerja, berjuang, dan sebagainya: [1] hilang keberanian [2] cabar hati [3] kecut hati [1] giat [2] bergairah [3] bertenaga bertuah tidak bergairah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hendaknya diusahakan supaya -- bekerja para pegawai negeri jangan luntur"
+            },
+            {
+              "nomor": 4,
+              "teks": "jatuh --"
+            },
+            {
+              "nomor": 6,
+              "teks": "keras --"
+            },
+            {
+              "nomor": 8,
+              "teks": "kuat --"
+            },
+            {
+              "nomor": 10,
+              "teks": "kurang -- (lemah --)"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersemangat",
+          "kesemangatan",
+          "menyemangati",
+          "menyemangatkan",
+          "penyemangat",
+          "penyemangatan",
+          "tersemangati"
+        ],
+        "gabunganKata": [
+          "semangat bahari",
+          "semangat baja",
+          "semangat padi"
+        ],
+        "peribahasa": [
+          "mempertinggi semangat anjing"
+        ],
+        "idiom": [
+          "membakar semangat",
+          "membunuh semangat",
+          "memompa semangat"
+        ]
+      }
+    }
+  ]
+}

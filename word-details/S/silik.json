@@ -1,1 +1,62 @@
-{"word":"silik","authenticated":true,"entries":[{"id":"77144","nama":"si.lik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyilik","contoh":[]}],"terkait":{"kataTurunan":["menyilik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"135390","nama":"si.lik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"mengganti tanaman yang tidak jadi tumbuh dengan bibit baru, biasanya karena gagal panen","contoh":[{"nomor":2,"teks":"petani segera -- jagung yang roboh diterpa angin kencang kemarin"}]}]}]}
+{
+  "word": "silik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77144",
+      "nama": "si.lik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyilik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyilik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "135390",
+      "nama": "si.lik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengganti tanaman yang tidak jadi tumbuh dengan bibit baru, biasanya karena gagal panen",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petani segera -- jagung yang roboh diterpa angin kencang kemarin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

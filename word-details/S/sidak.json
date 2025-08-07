@@ -1,1 +1,54 @@
-{"word":"sidak","authenticated":true,"entries":[{"id":"96273","nama":"si.dak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"inspeksi mendadak","contoh":[]}]},{"id":"288383","nama":"si.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"tali rotan yang digunakan untuk mengencangkan gendang, rebana, dan sebagainya, dipasang pada bagian dalam","contoh":[]}]}]}
+{
+  "word": "sidak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96273",
+      "nama": "si.dak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "inspeksi mendadak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "288383",
+      "nama": "si.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali rotan yang digunakan untuk mengencangkan gendang, rebana, dan sebagainya, dipasang pada bagian dalam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"sewaktu","authenticated":true,"entries":[{"id":"90923","nama":"se.wak.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"ketika; saat","contoh":[{"nomor":2,"teks":"~ engkau lengah, dia akan memukulmu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sama waktunya","contoh":[]}],"rootWord":"waktu"}]}
+{
+  "word": "sewaktu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90923",
+      "nama": "se.wak.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketika; saat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ engkau lengah, dia akan memukulmu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama waktunya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "waktu"
+    }
+  ]
+}

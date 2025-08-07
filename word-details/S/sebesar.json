@@ -1,1 +1,58 @@
-{"word":"sebesar","authenticated":true,"entries":[{"id":"109711","nama":"se.be.sar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sama besar","contoh":[{"nomor":2,"teks":"ibu membeli bakso ~ bola tenis"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sejumlah","contoh":[{"nomor":2,"teks":"sekolah itu mendapat dana bantuan ~ 100 juta rupiah dari Pemerintah"}]}],"rootWord":"besar","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["apa gunanya kemenyan sebesar tungku kalau tidak dibakar","sebesar-besarnya bumi, ditampar tak kena","tuah melambung tinggi, celaka menimpa, celaka sebesar gunung"],"idiom":[]}}]}
+{
+  "word": "sebesar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109711",
+      "nama": "se.be.sar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu membeli bakso ~ bola tenis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sejumlah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekolah itu mendapat dana bantuan ~ 100 juta rupiah dari Pemerintah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "besar",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "apa gunanya kemenyan sebesar tungku kalau tidak dibakar",
+          "sebesar-besarnya bumi, ditampar tak kena",
+          "tuah melambung tinggi, celaka menimpa, celaka sebesar gunung"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

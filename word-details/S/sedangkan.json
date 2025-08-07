@@ -1,1 +1,58 @@
-{"word":"sedangkan","authenticated":true,"entries":[{"id":"73064","nama":"se.dang.kan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata penghubung untuk menandai perlawanan; meski ... (sekalipun); selagi ... (sekalipun)","contoh":[{"nomor":2,"teks":"~ Tuan tidak sanggup mengerjakannya, apalagi saya"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"padahal","contoh":[{"nomor":2,"teks":"bagaimana aku dapat menolongmu, ~ aku sendiri kekurangan"}]}],"rootWord":"sedang³","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sedangkan bah kapal tak hanyut, ini pula kemarau panjang","sedangkan bah kapar tak hanyut, ini pula kemarau panjang","sedangkan cacing diinjak bergerak, apalagi manusia"],"idiom":[]}}]}
+{
+  "word": "sedangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73064",
+      "nama": "se.dang.kan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penghubung untuk menandai perlawanan; meski ... (sekalipun); selagi ... (sekalipun)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ Tuan tidak sanggup mengerjakannya, apalagi saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "padahal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bagaimana aku dapat menolongmu, ~ aku sendiri kekurangan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sedang³",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
+          "sedangkan bah kapar tak hanyut, ini pula kemarau panjang",
+          "sedangkan cacing diinjak bergerak, apalagi manusia"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

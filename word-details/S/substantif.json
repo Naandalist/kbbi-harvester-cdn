@@ -1,1 +1,54 @@
-{"word":"substantif","authenticated":true,"entries":[{"id":"79219","nama":"sub.stan.tif","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"nomina; kata benda","contoh":[]}]},{"id":"94583","nama":"sub.stan.tif","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"nyata; penting","contoh":[{"nomor":2,"teks":"peran politikus itu tidak --"}]}]}]}
+{
+  "word": "substantif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79219",
+      "nama": "sub.stan.tif",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nomina; kata benda",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "94583",
+      "nama": "sub.stan.tif",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyata; penting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peran politikus itu tidak --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

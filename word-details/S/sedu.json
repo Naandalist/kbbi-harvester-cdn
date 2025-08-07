@@ -1,1 +1,97 @@
-{"word":"sedu","authenticated":true,"entries":[{"id":"73158","nama":"se.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sedan","contoh":[]}],"terkait":{"kataTurunan":["bersedu","bersedu-sedu","tersedu","tersedu-sedu"],"gabunganKata":["sedu sedan","sedu hati"],"peribahasa":[],"idiom":[]}},{"id":"73163","nama":"se.du","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sedih; susah hati; sedu hati","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["sedu hati"],"peribahasa":[],"idiom":[]}},{"id":"73165","nama":"se.du","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ seduh2","contoh":[]}]},{"id":"73166","nama":"se.du","nomor":"4","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ sahda","contoh":[]}]}]}
+{
+  "word": "sedu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73158",
+      "nama": "se.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersedu",
+          "bersedu-sedu",
+          "tersedu",
+          "tersedu-sedu"
+        ],
+        "gabunganKata": [
+          "sedu sedan",
+          "sedu hati"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73163",
+      "nama": "se.du",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedih; susah hati; sedu hati",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sedu hati"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "73165",
+      "nama": "se.du",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ seduh2",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "73166",
+      "nama": "se.du",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ sahda",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

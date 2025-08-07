@@ -1,1 +1,107 @@
-{"word":"suksesi","authenticated":true,"entries":[{"id":"79466","nama":"suk.se.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penggantian (terutama di lingkungan pimpinan tertinggi negara) karena pewarisan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses pergantian kepemimpinan sesuai dengan peraturan perundang-undangan yang berlaku","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses pembentukan komunitas hutan alam beserta fungsi ekosistemnya","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perubahan, baik komposisi jenis, struktur, atau arsitektur, vegetasi dari waktu ke waktu","contoh":[]}],"terkait":{"kataTurunan":["bersuksesi","menyuksesi"],"gabunganKata":["suksesi negara","suksesi primer","suksesi sekunder","suksesi ekologi"],"peribahasa":[],"idiom":[]}},{"id":"100896","nama":"suk.se.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"proses perubahan ekosistem dalam kurun waktu tertentu menuju ke arah lingkungan yang lebih teratur dan stabil","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["suksesi ekologi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "suksesi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79466",
+      "nama": "suk.se.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penggantian (terutama di lingkungan pimpinan tertinggi negara) karena pewarisan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses pergantian kepemimpinan sesuai dengan peraturan perundang-undangan yang berlaku",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses pembentukan komunitas hutan alam beserta fungsi ekosistemnya",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perubahan, baik komposisi jenis, struktur, atau arsitektur, vegetasi dari waktu ke waktu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bersuksesi",
+          "menyuksesi"
+        ],
+        "gabunganKata": [
+          "suksesi negara",
+          "suksesi primer",
+          "suksesi sekunder",
+          "suksesi ekologi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100896",
+      "nama": "suk.se.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "proses perubahan ekosistem dalam kurun waktu tertentu menuju ke arah lingkungan yang lebih teratur dan stabil",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "suksesi ekologi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

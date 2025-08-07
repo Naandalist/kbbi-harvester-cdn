@@ -1,1 +1,91 @@
-{"word":"sontek","authenticated":true,"entries":[{"id":"78430","nama":"son.tek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyontek","contoh":[]}],"terkait":{"kataTurunan":["menyontek","penyontekan","sontekan","mencontek","penyontek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"78434","nama":"son.tek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyontek","contoh":[]}],"terkait":{"kataTurunan":["mencontek","menyontek","penyontek","sontekan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"245952","nama":"son.tek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"jenis bulu ayam yang keriting","contoh":[]}]}]}
+{
+  "word": "sontek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78430",
+      "nama": "son.tek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyontek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyontek",
+          "penyontekan",
+          "sontekan",
+          "mencontek",
+          "penyontek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "78434",
+      "nama": "son.tek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyontek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mencontek",
+          "menyontek",
+          "penyontek",
+          "sontekan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "245952",
+      "nama": "son.tek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jenis bulu ayam yang keriting",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"sanggah","authenticated":true,"entries":[{"id":"72034","nama":"sang.gah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bantah; sanggah","contoh":[]}],"etimologi":{"text":"[Jawa Kuno saṅgah 'salah pendapat, salah paham, khilaf']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menyanggah","penyanggah","penyanggahan","sanggahan","tersanggah"],"gabunganKata":["sanggah banding","sanggah cucuk","sanggah penjor","sanggah surya"],"peribahasa":[],"idiom":[]}},{"id":"72039","nama":"sang.gah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pura keluarga milik golongan waisya dan sudra, umumnya terletak di pekarangan depan rumah","contoh":[]}],"etimologi":{"text":"[Jawa Kuno saṅgah 'salah pendapat, salah paham, khilaf']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":["sanggah cucuk","sanggah penjor","sanggah surya"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "sanggah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72034",
+      "nama": "sang.gah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bantah; sanggah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno saṅgah 'salah pendapat, salah paham, khilaf']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menyanggah",
+          "penyanggah",
+          "penyanggahan",
+          "sanggahan",
+          "tersanggah"
+        ],
+        "gabunganKata": [
+          "sanggah banding",
+          "sanggah cucuk",
+          "sanggah penjor",
+          "sanggah surya"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "72039",
+      "nama": "sang.gah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pura keluarga milik golongan waisya dan sudra, umumnya terletak di pekarangan depan rumah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno saṅgah 'salah pendapat, salah paham, khilaf']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "sanggah cucuk",
+          "sanggah penjor",
+          "sanggah surya"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

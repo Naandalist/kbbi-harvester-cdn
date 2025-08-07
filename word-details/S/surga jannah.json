@@ -1,1 +1,132 @@
-{"word":"surga","authenticated":true,"entries":[{"id":"1","nama":"sur.ga","nomor":"I","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat di akhirat kelak yang disediakan bagi orang mukmin yang saleh","contoh":[{"nomor":1,"teks":"di dalam Islam disebutkan bahwa -- disediakan bagi kaum mukmin"},{"nomor":2,"teks":"kaum beriman di-- kelak akan mendapatkan kenikmatan hidup"}]}],"rootWord":"surgasurga"},{"id":"2","nama":"sur.ga","nomor":"II","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat yang indah dan tenteram","contoh":[{"nomor":1,"teks":"sebenarnya bangunan itu bagus, tetapi penempatannya kurang strategis sehingga terkesan kurang --"},{"nomor":2,"teks":"taman yang dipenuhi bunga itu bagaikan --"}]}],"rootWord":"surgasurga"},{"id":"3","nama":"jan.nah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"surga; syurga","contoh":[{"nomor":1,"teks":"-- Firdaus merupakan salah satu nama -- dalam Islam"},{"nomor":2,"teks":"kaum beriman yang saleh akan ditempatkan di dalam --"}]}],"rootWord":"surgasurga"},{"id":"4","nama":"sur.ga jan.nah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"surga yang disediakan bagi orang mukmin yang saleh","contoh":[{"nomor":1,"teks":"kaum beriman yang saleh akan ditempatkan di dalam --"},{"nomor":2,"teks":"-- merupakan tempat yang indah dan tenteram"}]}],"rootWord":"surgasurga"}]}
+{
+  "word": "surga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "sur.ga",
+      "nomor": "I",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat di akhirat kelak yang disediakan bagi orang mukmin yang saleh",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "di dalam Islam disebutkan bahwa -- disediakan bagi kaum mukmin"
+            },
+            {
+              "nomor": 2,
+              "teks": "kaum beriman di-- kelak akan mendapatkan kenikmatan hidup"
+            }
+          ]
+        }
+      ],
+      "rootWord": "surgasurga"
+    },
+    {
+      "id": "2",
+      "nama": "sur.ga",
+      "nomor": "II",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat yang indah dan tenteram",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "sebenarnya bangunan itu bagus, tetapi penempatannya kurang strategis sehingga terkesan kurang --"
+            },
+            {
+              "nomor": 2,
+              "teks": "taman yang dipenuhi bunga itu bagaikan --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "surgasurga"
+    },
+    {
+      "id": "3",
+      "nama": "jan.nah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "surga; syurga",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "-- Firdaus merupakan salah satu nama -- dalam Islam"
+            },
+            {
+              "nomor": 2,
+              "teks": "kaum beriman yang saleh akan ditempatkan di dalam --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "surgasurga"
+    },
+    {
+      "id": "4",
+      "nama": "sur.ga jan.nah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "surga yang disediakan bagi orang mukmin yang saleh",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "kaum beriman yang saleh akan ditempatkan di dalam --"
+            },
+            {
+              "nomor": 2,
+              "teks": "-- merupakan tempat yang indah dan tenteram"
+            }
+          ]
+        }
+      ],
+      "rootWord": "surgasurga"
+    }
+  ]
+}

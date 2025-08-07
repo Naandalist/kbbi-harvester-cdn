@@ -1,1 +1,49 @@
-{"word":"sati","authenticated":true,"entries":[{"id":"199163","nama":"sa.ti","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tradisi istri membakar diri mengikuti pembakaran jasad suaminya yang meninggal","contoh":[]}]},{"id":"260713","nama":"sa.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"janji suci untuk membina rumah tangga dan sebagainya","contoh":[]}]}]}
+{
+  "word": "sati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "199163",
+      "nama": "sa.ti",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tradisi istri membakar diri mengikuti pembakaran jasad suaminya yang meninggal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "260713",
+      "nama": "sa.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "janji suci untuk membina rumah tangga dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

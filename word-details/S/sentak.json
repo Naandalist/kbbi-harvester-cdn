@@ -1,1 +1,79 @@
-{"word":"sentak","authenticated":true,"entries":[{"id":"75269","nama":"sen.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"menyentak","contoh":[]}],"terkait":{"kataTurunan":["menyentak","menyentakkan","sentakan","tersentak","menyentak-nyentak"],"gabunganKata":[],"peribahasa":["adat berbuhul sentak"],"idiom":[]}},{"id":"75276","nama":"sen.tak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menyentak","contoh":[]}],"terkait":{"kataTurunan":["menyentak","menyentak-nyentak"],"gabunganKata":[],"peribahasa":["adat berbuhul sentak"],"idiom":[]}}]}
+{
+  "word": "sentak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75269",
+      "nama": "sen.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyentak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyentak",
+          "menyentakkan",
+          "sentakan",
+          "tersentak",
+          "menyentak-nyentak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat berbuhul sentak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75276",
+      "nama": "sen.tak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyentak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menyentak",
+          "menyentak-nyentak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat berbuhul sentak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}
