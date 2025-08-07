@@ -1,1 +1,114 @@
-{"word":"bung","authenticated":true,"entries":[{"id":"13364","nama":"bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan akrab kepada seorang laki-laki","contoh":[{"nomor":2,"teks":"rumah -- Iskandar di mana?"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"abang","contoh":[]}]},{"id":"13365","nama":"bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunyi seperti bunyi gendang dipukul","contoh":[]}]},{"id":"244983","nama":"bu.ng","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"tali picu pada pembidas belantik yang dibuat dari tali atau akar tumbuhan","contoh":[{"nomor":2,"teks":"-- belantik ayah putus"}]}]},{"id":"210443","nama":"bung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kei","nama":"Kei","tipe":"lainnya"}],"definisi":"hiasan pada ikat kepala khas Kei, biasanya bermotif bunga","contoh":[]}]}]}
+{
+  "word": "bung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13364",
+      "nama": "bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan akrab kepada seorang laki-laki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah -- Iskandar di mana?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "abang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "13365",
+      "nama": "bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunyi seperti bunyi gendang dipukul",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "244983",
+      "nama": "bu.ng",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali picu pada pembidas belantik yang dibuat dari tali atau akar tumbuhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- belantik ayah putus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "210443",
+      "nama": "bung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kei",
+              "nama": "Kei",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hiasan pada ikat kepala khas Kei, biasanya bermotif bunga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

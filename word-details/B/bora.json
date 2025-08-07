@@ -1,1 +1,49 @@
-{"word":"bora","authenticated":true,"entries":[{"id":"12378","nama":"bo.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Met","nama":"Meteorologi","tipe":"lainnya"}],"definisi":"angin dingin yang bertiup turun dari pegunungan, yang pada waktu mencapai dataran rendah berubah menjadi panas","contoh":[]}]},{"id":"209744","nama":"Bo.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ibu kota Kabupaten Sigi, Provinsi Sulawesi Tengah","contoh":[]}]}]}
+{
+  "word": "bora",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12378",
+      "nama": "bo.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Met",
+              "nama": "Meteorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "angin dingin yang bertiup turun dari pegunungan, yang pada waktu mencapai dataran rendah berubah menjadi panas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "209744",
+      "nama": "Bo.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu kota Kabupaten Sigi, Provinsi Sulawesi Tengah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"bekerjap-kerjap","authenticated":true,"entries":[{"id":"40679","nama":"be.ker.jap-ker.jap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerjap-ngerjap (tentang mata)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"semarak","contoh":[{"nomor":2,"teks":"bisnis di kawasan ini bukan redup tapi malah makin ~"}]}],"rootWord":"kerjap"}]}
+{
+  "word": "bekerjap-kerjap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40679",
+      "nama": "be.ker.jap-ker.jap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerjap-ngerjap (tentang mata)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semarak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bisnis di kawasan ini bukan redup tapi malah makin ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kerjap"
+    }
+  ]
+}

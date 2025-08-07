@@ -1,1 +1,92 @@
-{"word":"bra","authenticated":true,"entries":[{"id":"93725","nama":"bra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"kutang; beha","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bra adhesif","bra bando","bra halter","bra hamil","bra menyusui","bra olahraga","bra tempel"],"peribahasa":[],"idiom":[]}},{"id":"227490","nama":"bra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"rembesan air pada wadah karena retak","contoh":[]}]},{"id":"282045","nama":"Bra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelar bangsawan yang diberikan kepada anggota keluarga kerajaan Majapahit","contoh":[{"nomor":2,"teks":"-- Hyang Wisesa Aji Wikrama"}]}]}]}
+{
+  "word": "bra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93725",
+      "nama": "bra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kutang; beha",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bra adhesif",
+          "bra bando",
+          "bra halter",
+          "bra hamil",
+          "bra menyusui",
+          "bra olahraga",
+          "bra tempel"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227490",
+      "nama": "bra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rembesan air pada wadah karena retak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "282045",
+      "nama": "Bra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelar bangsawan yang diberikan kepada anggota keluarga kerajaan Majapahit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Hyang Wisesa Aji Wikrama"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

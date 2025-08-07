@@ -1,1 +1,67 @@
-{"word":"batangan","authenticated":true,"entries":[{"id":"8681","nama":"ba.tang.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berbentuk batang","contoh":[{"nomor":2,"teks":"emas ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu balok dan sebagainya pengalang muara (sungai, jalan) ke pelabuhan","contoh":[]}],"rootWord":"batang¹"},{"id":"215293","nama":"ba.ta.ngan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"ragam lagu kendangan untuk mengiringi bagian gerak tari","contoh":[]}]}]}
+{
+  "word": "batangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8681",
+      "nama": "ba.tang.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbentuk batang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "emas ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu balok dan sebagainya pengalang muara (sungai, jalan) ke pelabuhan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "batang¹"
+    },
+    {
+      "id": "215293",
+      "nama": "ba.ta.ngan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ragam lagu kendangan untuk mengiringi bagian gerak tari",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

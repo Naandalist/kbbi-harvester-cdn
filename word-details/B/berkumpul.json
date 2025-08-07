@@ -1,1 +1,73 @@
-{"word":"berkumpul","authenticated":true,"entries":[{"id":"44950","nama":"ber.kum.pul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersama-sama menjadi satu kesatuan atau kelompok (tidak terpisah-pisah)","contoh":[{"nomor":2,"teks":"karyawan ~ di halaman kantor untuk mengadakan upacara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhimpun; berkampung; berapat (bersidang)","contoh":[{"nomor":2,"teks":"mahasiswa diminta ~ di auditorium untuk mendengarkan ceramah"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkerumun","contoh":[{"nomor":2,"teks":"setiap hari banyak orang ~ di ujung jalan itu"}]}],"rootWord":"kumpul","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["antah berkumpul sama antah, beras bersama beras"],"idiom":[]}}]}
+{
+  "word": "berkumpul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44950",
+      "nama": "ber.kum.pul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersama-sama menjadi satu kesatuan atau kelompok (tidak terpisah-pisah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karyawan ~ di halaman kantor untuk mengadakan upacara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhimpun; berkampung; berapat (bersidang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mahasiswa diminta ~ di auditorium untuk mendengarkan ceramah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkerumun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap hari banyak orang ~ di ujung jalan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kumpul",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "antah berkumpul sama antah, beras bersama beras"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

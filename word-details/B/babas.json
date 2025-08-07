@@ -1,1 +1,110 @@
-{"word":"babas","authenticated":true,"entries":[{"id":"6447","nama":"ba.bas","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial membabas, terbabas","contoh":[]}],"terkait":{"kataTurunan":["membabas","terbabas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"140665","nama":"ba.bas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"salah arah; menyimpang dari arahnya","contoh":[{"nomor":2,"teks":"sudah -- jalan kita, kembali ke tempat tadi"}]}]},{"id":"251171","nama":"ba.bas","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"robek pada bagian belakang (tentang celana)","contoh":[{"nomor":2,"teks":"adik tidak mau memakai celana itu karena --"}]}]},{"id":"285151","nama":"ba.bas","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"ritual untuk memulihkan semangat, dilakukan dengan cara memercikkan air doa, yang dilakukan oleh tetua","contoh":[]}]}]}
+{
+  "word": "babas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6447",
+      "nama": "ba.bas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial membabas, terbabas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membabas",
+          "terbabas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "140665",
+      "nama": "ba.bas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "salah arah; menyimpang dari arahnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah -- jalan kita, kembali ke tempat tadi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "251171",
+      "nama": "ba.bas",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "robek pada bagian belakang (tentang celana)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik tidak mau memakai celana itu karena --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "285151",
+      "nama": "ba.bas",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ritual untuk memulihkan semangat, dilakukan dengan cara memercikkan air doa, yang dilakukan oleh tetua",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

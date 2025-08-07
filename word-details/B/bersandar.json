@@ -1,1 +1,60 @@
-{"word":"bersandar","authenticated":true,"entries":[{"id":"71940","nama":"ber.san.dar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersangga; bertumpu; bertopang","contoh":[{"nomor":2,"teks":"karena capainya, ia duduk ~ pada tembok"},{"nomor":4,"teks":"ia berdiri sambil ~ pada batang pohon"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuang sauh; berlabuh","contoh":[{"nomor":2,"teks":"kapal itu ~ di pelabuhan"}]}],"rootWord":"sandar¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bersandar di lemang hangat"],"idiom":[]}}]}
+{
+  "word": "bersandar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71940",
+      "nama": "ber.san.dar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersangga; bertumpu; bertopang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena capainya, ia duduk ~ pada tembok"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia berdiri sambil ~ pada batang pohon"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuang sauh; berlabuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kapal itu ~ di pelabuhan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sandar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bersandar di lemang hangat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

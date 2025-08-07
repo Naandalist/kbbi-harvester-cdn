@@ -1,1 +1,43 @@
-{"word":"berpakaian","authenticated":true,"entries":[{"id":"59191","nama":"ber.pa.kai.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenakan pakaian","contoh":[{"nomor":2,"teks":"tunggu sebentar, ia sedang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdandan","contoh":[]}],"rootWord":"pakai"}]}
+{
+  "word": "berpakaian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59191",
+      "nama": "ber.pa.kai.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenakan pakaian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tunggu sebentar, ia sedang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdandan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pakai"
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"berdesak","authenticated":true,"entries":[{"id":"19284","nama":"ber.de.sak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"penuh berjejal-jejalan; tolak-menolak (karena kurang tempat dan sebagainya)","contoh":[{"nomor":2,"teks":"anak-anak duduk ~ dalam kelas yang sempit"}]}],"rootWord":"desak¹"},{"id":"19288","nama":"ber.de.sak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan bunyi desak","contoh":[]}],"rootWord":"desak²"}]}
+{
+  "word": "berdesak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19284",
+      "nama": "ber.de.sak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penuh berjejal-jejalan; tolak-menolak (karena kurang tempat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak duduk ~ dalam kelas yang sempit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "desak¹"
+    },
+    {
+      "id": "19288",
+      "nama": "ber.de.sak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan bunyi desak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "desak²"
+    }
+  ]
+}

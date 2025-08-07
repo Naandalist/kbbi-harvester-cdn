@@ -1,1 +1,31 @@
-{"word":"berniat","authenticated":true,"entries":[{"id":"56923","nama":"ber.ni.at","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bermaksud (akan)","contoh":[{"nomor":2,"teks":"ia ~ akan melanjutkan sekolahnya mulai tahun ini"}]}],"rootWord":"niat"}]}
+{
+  "word": "berniat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56923",
+      "nama": "ber.ni.at",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bermaksud (akan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ akan melanjutkan sekolahnya mulai tahun ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "niat"
+    }
+  ]
+}

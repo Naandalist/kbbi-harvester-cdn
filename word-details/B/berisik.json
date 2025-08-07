@@ -1,1 +1,61 @@
-{"word":"berisik","authenticated":true,"entries":[{"id":"10704","nama":"be.ri.sik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"ribut (ramai, ingar bingar) suaranya","contoh":[{"nomor":2,"teks":"saya tidak dapat tidur karena anak-anak -- di luar"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"berasa mendengung pada telinga","contoh":[]}],"terkait":{"kataTurunan":["keberisikan","terberisik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "berisik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10704",
+      "nama": "be.ri.sik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ribut (ramai, ingar bingar) suaranya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya tidak dapat tidur karena anak-anak -- di luar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berasa mendengung pada telinga",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keberisikan",
+          "terberisik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

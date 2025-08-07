@@ -1,1 +1,115 @@
-{"word":"bit","authenticated":true,"entries":[{"id":"11933","nama":"bit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"satuan kecepatan transfer data terkecil dalam sistem informasi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bit gula","bit swiss"],"peribahasa":[],"idiom":[]}},{"id":"121324","nama":"bit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sayuran yang umbinya berwarna merah keunguan, daunnya bisa dibuat sayur, umbinya biasa digunakan sebagai bahan minuman kesehatan〔Beta vulgaris〕","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bit gula","bit swiss"],"peribahasa":[],"idiom":[]}},{"id":"212712","nama":"bit","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kesatuan dalam monolog komedi tunggal yang berisi premis dan bagian lucunya","contoh":[{"nomor":2,"teks":"komedi tunggal tersebut berisi -- yang membicarakan masalah lingkungan"}]}]},{"id":"252754","nama":"BIT","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Kota Bitung, Sulawesi Utara (menurut SNI Singkatan Nama Kota)","contoh":[]}]}]}
+{
+  "word": "bit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11933",
+      "nama": "bit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan kecepatan transfer data terkecil dalam sistem informasi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bit gula",
+          "bit swiss"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "121324",
+      "nama": "bit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sayuran yang umbinya berwarna merah keunguan, daunnya bisa dibuat sayur, umbinya biasa digunakan sebagai bahan minuman kesehatan〔Beta vulgaris〕",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bit gula",
+          "bit swiss"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212712",
+      "nama": "bit",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesatuan dalam monolog komedi tunggal yang berisi premis dan bagian lucunya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "komedi tunggal tersebut berisi -- yang membicarakan masalah lingkungan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "252754",
+      "nama": "BIT",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kota Bitung, Sulawesi Utara (menurut SNI Singkatan Nama Kota)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

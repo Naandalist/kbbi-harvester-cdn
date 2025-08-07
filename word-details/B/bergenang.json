@@ -1,1 +1,60 @@
-{"word":"bergenang","authenticated":true,"entries":[{"id":"25898","nama":"ber.ge.nang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhenti mengalir (tentang air)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlinang-linang di mata (tentang air mata)","contoh":[{"nomor":2,"teks":"~ air matanya mendengar cerita sedih itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertutup atau terendam air (yang tidak mengalir)","contoh":[{"nomor":2,"teks":"tanaman padi menjadi busuk karena ~ berhari-hari"}]}],"rootWord":"genang¹"}]}
+{
+  "word": "bergenang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25898",
+      "nama": "ber.ge.nang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhenti mengalir (tentang air)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlinang-linang di mata (tentang air mata)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ air matanya mendengar cerita sedih itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertutup atau terendam air (yang tidak mengalir)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanaman padi menjadi busuk karena ~ berhari-hari"
+            }
+          ]
+        }
+      ],
+      "rootWord": "genang¹"
+    }
+  ]
+}

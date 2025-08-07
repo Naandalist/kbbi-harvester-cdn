@@ -1,1 +1,48 @@
-{"word":"berbahaya","authenticated":true,"entries":[{"id":"7018","nama":"ber.ba.ha.ya","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada bahayanya; (mungkin) mendatangkan bahaya; (dalam keadaan) terancam bahaya","contoh":[{"nomor":2,"teks":"kanker dan tifus merupakan penyakit akut yang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(dalam keadaan) terancam bahaya","contoh":[{"nomor":2,"teks":"~ sekali keadaannya, lukanya sangat parah"}]}],"rootWord":"bahaya"}]}
+{
+  "word": "berbahaya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7018",
+      "nama": "ber.ba.ha.ya",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada bahayanya; (mungkin) mendatangkan bahaya; (dalam keadaan) terancam bahaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kanker dan tifus merupakan penyakit akut yang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(dalam keadaan) terancam bahaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sekali keadaannya, lukanya sangat parah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bahaya"
+    }
+  ]
+}

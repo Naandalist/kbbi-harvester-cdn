@@ -1,1 +1,91 @@
-{"word":"berendeng","authenticated":true,"entries":[{"id":"68661","nama":"be.ren.deng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berderet ke samping","contoh":[{"nomor":2,"teks":"ia duduk ~ dekat suaminya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beruntun; berurutan","contoh":[{"nomor":2,"teks":"nama kita dipanggil ~"}]}],"rootWord":"rendeng"},{"id":"10632","nama":"be.ren.deng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"berturut-turut; sambung-menyambung","contoh":[]}]},{"id":"10633","nama":"be.ren.deng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"berdampingan; bersisi-sisian","contoh":[{"nomor":2,"teks":"para tamu menikmati hidangan sambil menyaksikan pengantin duduk --"}]}]}]}
+{
+  "word": "berendeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68661",
+      "nama": "be.ren.deng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berderet ke samping",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia duduk ~ dekat suaminya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beruntun; berurutan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nama kita dipanggil ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rendeng"
+    },
+    {
+      "id": "10632",
+      "nama": "be.ren.deng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berturut-turut; sambung-menyambung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "10633",
+      "nama": "be.ren.deng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdampingan; bersisi-sisian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para tamu menikmati hidangan sambil menyaksikan pengantin duduk --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

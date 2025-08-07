@@ -1,1 +1,76 @@
-{"word":"buak","authenticated":true,"entries":[{"id":"12649","nama":"bu.ak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bual","contoh":[]}],"terkait":{"kataTurunan":["membuak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"12651","nama":"bu.ak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tidak tetap hati, pikiran, dan sebagainya; bertingkah","contoh":[]}]},{"id":"284857","nama":"bu.ak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ritual tahunan bagi keluarga agar terhindar dari penyakit, dilakukan dengan memanggil tabib untuk menjampi-jampi dan membubuhkan darah ayam pada kening, kedua pelipis, dan bagian leher","contoh":[]}]}]}
+{
+  "word": "buak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12649",
+      "nama": "bu.ak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bual",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membuak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "12651",
+      "nama": "bu.ak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak tetap hati, pikiran, dan sebagainya; bertingkah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "284857",
+      "nama": "bu.ak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ritual tahunan bagi keluarga agar terhindar dari penyakit, dilakukan dengan memanggil tabib untuk menjampi-jampi dan membubuhkan darah ayam pada kening, kedua pelipis, dan bagian leher",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

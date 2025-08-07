@@ -1,1 +1,51 @@
-{"word":"berseragam","authenticated":true,"entries":[{"id":"66757","nama":"ber.se.ra.gam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai baju seragam","contoh":[]}],"rootWord":"ragam¹"},{"id":"75633","nama":"ber.se.ra.gam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai pakaian seragam","contoh":[{"nomor":2,"teks":"tamunya ~ polisi"}]}],"rootWord":"seragam"}]}
+{
+  "word": "berseragam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66757",
+      "nama": "ber.se.ra.gam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai baju seragam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ragam¹"
+    },
+    {
+      "id": "75633",
+      "nama": "ber.se.ra.gam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai pakaian seragam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tamunya ~ polisi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "seragam"
+    }
+  ]
+}

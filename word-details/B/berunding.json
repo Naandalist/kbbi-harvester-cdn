@@ -1,1 +1,88 @@
-{"word":"berunding","authenticated":true,"entries":[{"id":"70402","nama":"be.run.ding","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercakap-cakap (tentang suatu hal)","contoh":[{"nomor":2,"teks":"letakkanlah koper itu, mari kita ~ sedikit"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbicara; berembuk","contoh":[{"nomor":2,"teks":"ia ingin ~ dulu dengan teman-temannya"}]}],"rootWord":"runding","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat berunding di atas rumah"],"idiom":[]}},{"id":"145954","nama":"be.run.ding","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"tertata lurus (tentang padi di sawah)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat berunding di atas rumah"],"idiom":[]}}]}
+{
+  "word": "berunding",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70402",
+      "nama": "be.run.ding",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercakap-cakap (tentang suatu hal)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "letakkanlah koper itu, mari kita ~ sedikit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbicara; berembuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ingin ~ dulu dengan teman-temannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "runding",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat berunding di atas rumah"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "145954",
+      "nama": "be.run.ding",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tertata lurus (tentang padi di sawah)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat berunding di atas rumah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

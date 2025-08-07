@@ -1,1 +1,221 @@
-{"word":"beradu","authenticated":true,"entries":[{"id":"651","nama":"ber.a.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlanggaran; bertumbukan","contoh":[{"nomor":2,"teks":"di perempatan itu sudah beberapa kali mobil ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlaga; bersabung","contoh":[{"nomor":2,"teks":"ayam ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(sedang) memperlagakan","contoh":[{"nomor":2,"teks":"~ ayam"},{"nomor":4,"teks":"~ layang-layang"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertanding berebut menang (dalam pertandingan, perlombaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ lari"},{"nomor":4,"teks":"~ kuat"},{"nomor":6,"teks":"~ tenaga"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersentuhan","contoh":[{"nomor":2,"teks":"terdengar bunyi gelas ~"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbentur; terantuk (pada)","contoh":[{"nomor":2,"teks":"kepalanya ~ dengan tembok"}]}],"rootWord":"adu¹","terkait":{"kataTurunan":[],"gabunganKata":["beradu akting","beradu buku tangan","beradu gelut","beradu jotos","beradu kening","beradu lengan","beradu lidah","beradu mulut"],"peribahasa":[],"idiom":[]}},{"id":"662","nama":"bera.du","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat radu","contoh":[]}],"rootWord":"adu²"},{"id":"66715","nama":"be.ra.du","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhenti","contoh":[{"nomor":2,"teks":"mobil itu ~ di tepi jalan karena mogok"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beristirahat","contoh":[{"nomor":2,"teks":"mereka ~ barang sebentar untuk melepas lelah"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"hor","nama":"Hormat","tipe":"lainnya"}],"definisi":"tidur","contoh":[{"nomor":2,"teks":"Sang Raja dan Permaisuri sedang ~ di peraduan"}]}],"rootWord":"radu"}]}
+{
+  "word": "beradu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "651",
+      "nama": "ber.a.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlanggaran; bertumbukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di perempatan itu sudah beberapa kali mobil ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlaga; bersabung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(sedang) memperlagakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ayam"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ layang-layang"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertanding berebut menang (dalam pertandingan, perlombaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lari"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kuat"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ tenaga"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersentuhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terdengar bunyi gelas ~"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbentur; terantuk (pada)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kepalanya ~ dengan tembok"
+            }
+          ]
+        }
+      ],
+      "rootWord": "adu¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "beradu akting",
+          "beradu buku tangan",
+          "beradu gelut",
+          "beradu jotos",
+          "beradu kening",
+          "beradu lengan",
+          "beradu lidah",
+          "beradu mulut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "662",
+      "nama": "bera.du",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat radu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "adu²"
+    },
+    {
+      "id": "66715",
+      "nama": "be.ra.du",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mobil itu ~ di tepi jalan karena mogok"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beristirahat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ barang sebentar untuk melepas lelah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "hor",
+              "nama": "Hormat",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Sang Raja dan Permaisuri sedang ~ di peraduan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "radu"
+    }
+  ]
+}

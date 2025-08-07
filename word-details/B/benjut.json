@@ -1,1 +1,49 @@
-{"word":"benjut","authenticated":true,"entries":[{"id":"10296","nama":"ben.jut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"benjol","contoh":[]}]},{"id":"10297","nama":"ben.jut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"betul-betul hancur tentang berdagang, bertani, dan sebagainya","contoh":[]}]}]}
+{
+  "word": "benjut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10296",
+      "nama": "ben.jut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benjol",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "10297",
+      "nama": "ben.jut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "betul-betul hancur tentang berdagang, bertani, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

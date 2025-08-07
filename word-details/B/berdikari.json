@@ -1,1 +1,65 @@
-{"word":"berdikari","authenticated":true,"entries":[{"id":"10622","nama":"ber.di.ka.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"berdiri di atas kaki sendiri","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak bergantung pada bantuan orang lain; mandiri","contoh":[{"nomor":2,"teks":"orang yang sudah dewasa harus hidup --"}]}],"terkait":{"kataTurunan":["keberdikarian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "berdikari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10622",
+      "nama": "ber.di.ka.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdiri di atas kaki sendiri",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak bergantung pada bantuan orang lain; mandiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang sudah dewasa harus hidup --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keberdikarian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

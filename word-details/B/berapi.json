@@ -1,1 +1,44 @@
-{"word":"berapi","authenticated":true,"entries":[{"id":"4802","nama":"ber.a.pi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berisi (mengandung) api; mengeluarkan api","contoh":[{"nomor":2,"teks":"sekam yang mengepulkan asap itu pasti ~"},{"nomor":4,"teks":"Gunung Galunggung adalah gunung ~"}]}],"rootWord":"api","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bersalai tidak berapi","hangus tiada berapi, karam tiada berair"],"idiom":[]}}]}
+{
+  "word": "berapi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4802",
+      "nama": "ber.a.pi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berisi (mengandung) api; mengeluarkan api",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekam yang mengepulkan asap itu pasti ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "Gunung Galunggung adalah gunung ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "api",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bersalai tidak berapi",
+          "hangus tiada berapi, karam tiada berair"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"bungkas","authenticated":true,"entries":[{"id":"13471","nama":"bung.kas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"terjungkit pada ujungnya atau pada pangkalnya","contoh":[]}]},{"id":"256632","nama":"bung.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"pecah atau meledak karena tekanan dari dalam","contoh":[{"nomor":2,"teks":"mesin kapal itu -- karena kepanasan"}]}]}]}
+{
+  "word": "bungkas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13471",
+      "nama": "bung.kas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terjungkit pada ujungnya atau pada pangkalnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "256632",
+      "nama": "bung.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pecah atau meledak karena tekanan dari dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mesin kapal itu -- karena kepanasan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

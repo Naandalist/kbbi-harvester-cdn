@@ -1,1 +1,53 @@
-{"word":"bermongkok","authenticated":true,"entries":[{"id":"55017","nama":"ber.mong.kok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganjur ke atas; lebih tinggi daripada yang lain","contoh":[{"nomor":2,"teks":"menara pengawas tampak ~ di atas bukit karang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"lebih baik (utama, unggul)","contoh":[{"nomor":2,"teks":"ia ~ dalam hal pengalaman daripada saudara-saudaranya"}]}],"rootWord":"mongkok¹"}]}
+{
+  "word": "bermongkok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55017",
+      "nama": "ber.mong.kok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganjur ke atas; lebih tinggi daripada yang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menara pengawas tampak ~ di atas bukit karang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lebih baik (utama, unggul)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ dalam hal pengalaman daripada saudara-saudaranya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mongkok¹"
+    }
+  ]
+}

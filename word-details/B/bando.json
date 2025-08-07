@@ -1,1 +1,78 @@
-{"word":"bando","authenticated":true,"entries":[{"id":"7844","nama":"ban.do","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda pipih melengkung (setengah lingkaran) terbuat dari plastik dan sebagainya untuk mengatur rambut bagian depan (terutama pada anak perempuan)","contoh":[]}]},{"id":"7845","nama":"ban.do","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bendu","contoh":[]}]},{"id":"259747","nama":"ban.do","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"ubi yang tersisa dan masih terpendam di dalam tanah tanpa batang","contoh":[{"nomor":2,"teks":"adik menemukan -- singkong ketika menggali tanah"}]}]}]}
+{
+  "word": "bando",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7844",
+      "nama": "ban.do",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda pipih melengkung (setengah lingkaran) terbuat dari plastik dan sebagainya untuk mengatur rambut bagian depan (terutama pada anak perempuan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "7845",
+      "nama": "ban.do",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bendu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259747",
+      "nama": "ban.do",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ubi yang tersisa dan masih terpendam di dalam tanah tanpa batang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik menemukan -- singkong ketika menggali tanah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

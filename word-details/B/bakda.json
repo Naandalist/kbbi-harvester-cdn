@@ -1,1 +1,78 @@
-{"word":"bakda","authenticated":true,"entries":[{"id":"7289","nama":"bak.da","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"sesudah","contoh":[{"nomor":2,"teks":"-- Magrib"},{"nomor":4,"teks":"-- haji"}]}],"etimologi":{"text":"[Arab بَعْدَ ba‘da n sg m 'setelah']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["bakda gajah"],"peribahasa":[],"idiom":[]}},{"id":"7291","nama":"bak.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"permulaan","contoh":[]}],"etimologi":{"text":"[Arab بَعْدَ ba‘da n sg m 'setelah']","languages":["Arab"]}}]}
+{
+  "word": "bakda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7289",
+      "nama": "bak.da",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sesudah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Magrib"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- haji"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَعْدَ ba‘da n sg m 'setelah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bakda gajah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7291",
+      "nama": "bak.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permulaan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَعْدَ ba‘da n sg m 'setelah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

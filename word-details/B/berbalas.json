@@ -1,1 +1,71 @@
-{"word":"berbalas","authenticated":true,"entries":[{"id":"7520","nama":"ber.ba.las","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjawab; menyahut","contoh":[{"nomor":2,"teks":"maka ~lah suara dari bawah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersambut; dijawab; ada balasnya","contoh":[{"nomor":2,"teks":"cinta yang tidak ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertimbalan (dengan)","contoh":[]}],"rootWord":"balas¹","terkait":{"kataTurunan":[],"gabunganKata":["berbalas pantun"],"peribahasa":["alang berjawab, tepuk berbalas","tepuk berbalas, alang berjawat"],"idiom":[]}}]}
+{
+  "word": "berbalas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7520",
+      "nama": "ber.ba.las",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjawab; menyahut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maka ~lah suara dari bawah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersambut; dijawab; ada balasnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cinta yang tidak ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertimbalan (dengan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "balas¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "berbalas pantun"
+        ],
+        "peribahasa": [
+          "alang berjawab, tepuk berbalas",
+          "tepuk berbalas, alang berjawat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

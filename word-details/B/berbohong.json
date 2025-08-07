@@ -1,1 +1,31 @@
-{"word":"berbohong","authenticated":true,"entries":[{"id":"12111","nama":"ber.bo.hong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyatakan sesuatu yang tidak benar; berbuat bohong; berdusta","contoh":[{"nomor":2,"teks":"jangan coba-coba ~, nanti pasti ketahuan"}]}],"rootWord":"bohong"}]}
+{
+  "word": "berbohong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12111",
+      "nama": "ber.bo.hong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyatakan sesuatu yang tidak benar; berbuat bohong; berdusta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan coba-coba ~, nanti pasti ketahuan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bohong"
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"word":"banjur","authenticated":true,"entries":[{"id":"8069","nama":"ban.jur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"siram","contoh":[]}],"terkait":{"kataTurunan":["membanjur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"120405","nama":"ban.jur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"pancing dengan joran pendek, diletakkan di tempat yang diperkirakan ada ikan (umumnya ikan gabus), dibiarkan dan dicek secara berkala untuk mengetahui ada atau tidak ikan yang memakan umpan","contoh":[]}]},{"id":"170569","nama":"ban.jur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"alat untuk menangkap ikan yang terbuat dari gulungan senar yang diberi banyak mata pancing dengan potongan ban sebagai tempat tambatan sekaligus pelampung","contoh":[{"nomor":2,"teks":"-- merupakan salah satu alternatif penangkap ikan tradisional"}]}]}]}
+{
+  "word": "banjur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8069",
+      "nama": "ban.jur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "siram",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membanjur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120405",
+      "nama": "ban.jur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pancing dengan joran pendek, diletakkan di tempat yang diperkirakan ada ikan (umumnya ikan gabus), dibiarkan dan dicek secara berkala untuk mengetahui ada atau tidak ikan yang memakan umpan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "170569",
+      "nama": "ban.jur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat untuk menangkap ikan yang terbuat dari gulungan senar yang diberi banyak mata pancing dengan potongan ban sebagai tempat tambatan sekaligus pelampung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- merupakan salah satu alternatif penangkap ikan tradisional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

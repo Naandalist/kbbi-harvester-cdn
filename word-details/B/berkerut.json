@@ -1,1 +1,70 @@
-{"word":"berkerut","authenticated":true,"entries":[{"id":"40991","nama":"ber.ke.rut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada kerutnya; berkedut; bergelembur (tentang kulit dan sebagainya)","contoh":[{"nomor":2,"teks":"wajahnya ~ keheranan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi lebih pendek; mengerut","contoh":[{"nomor":2,"teks":"urat itu dapat ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"keriting; ikal","contoh":[{"nomor":2,"teks":"rambutnya ~"}]}],"rootWord":"kerut¹"}]}
+{
+  "word": "berkerut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40991",
+      "nama": "ber.ke.rut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada kerutnya; berkedut; bergelembur (tentang kulit dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wajahnya ~ keheranan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi lebih pendek; mengerut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "urat itu dapat ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keriting; ikal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kerut¹"
+    }
+  ]
+}

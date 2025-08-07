@@ -1,1 +1,56 @@
-{"word":"bertimbal","authenticated":true,"entries":[{"id":"86030","nama":"ber.tim.bal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertimbang; berbanding; kedua belah pihak sama (derajatnya dan sebagainya)","contoh":[{"nomor":2,"teks":"dilihat dari keturunan dan kekayaan kedua mempelai itu ~ juga"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pada kedua belah sisi (pihak)","contoh":[{"nomor":2,"teks":"terdapat pohon bungur ~ jalan"}]}],"rootWord":"timbal¹","terkait":{"kataTurunan":[],"gabunganKata":["bertimbal balik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bertimbal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86030",
+      "nama": "ber.tim.bal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertimbang; berbanding; kedua belah pihak sama (derajatnya dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dilihat dari keturunan dan kekayaan kedua mempelai itu ~ juga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pada kedua belah sisi (pihak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terdapat pohon bungur ~ jalan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "timbal¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bertimbal balik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

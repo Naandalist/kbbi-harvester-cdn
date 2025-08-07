@@ -1,1 +1,48 @@
-{"word":"berbenih","authenticated":true,"entries":[{"id":"10281","nama":"ber.be.nih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"menggunakan benih","contoh":[{"nomor":2,"teks":"tiada lain selain dari Tuhan Allah yang dapat menjadikan pohon yang pertama tiada dengan ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai benih","contoh":[]}],"rootWord":"benih"}]}
+{
+  "word": "berbenih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10281",
+      "nama": "ber.be.nih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan benih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiada lain selain dari Tuhan Allah yang dapat menjadikan pohon yang pertama tiada dengan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai benih",
+          "contoh": []
+        }
+      ],
+      "rootWord": "benih"
+    }
+  ]
+}

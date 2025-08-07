@@ -1,1 +1,35 @@
-{"word":"ble","authenticated":true,"entries":[{"id":"188724","nama":"ble","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"berlayar mencari ikan seharian","contoh":[{"nomor":2,"teks":"kami -- di laut"}]}]}]}
+{
+  "word": "ble",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "188724",
+      "nama": "ble",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berlayar mencari ikan seharian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami -- di laut"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

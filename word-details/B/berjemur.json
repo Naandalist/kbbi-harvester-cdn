@@ -1,1 +1,31 @@
-{"word":"berjemur","authenticated":true,"entries":[{"id":"34122","nama":"ber.je.mur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanaskan badan dengan panas matahari","contoh":[{"nomor":2,"teks":"setiap pagi ia ~ selama setengah jam"}]}],"rootWord":"jemur"}]}
+{
+  "word": "berjemur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34122",
+      "nama": "ber.je.mur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanaskan badan dengan panas matahari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap pagi ia ~ selama setengah jam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jemur"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"bermobil","authenticated":true,"entries":[{"id":"54806","nama":"ber.mo.bil","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai mobil","contoh":[{"nomor":2,"teks":"sebagai orang kaya dia ~ banyak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik (mengendarai) mobil","contoh":[{"nomor":2,"teks":"tiap hari saya ~ ke kantor"}]}],"rootWord":"mobil¹"}]}
+{
+  "word": "bermobil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54806",
+      "nama": "ber.mo.bil",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai mobil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebagai orang kaya dia ~ banyak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik (mengendarai) mobil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiap hari saya ~ ke kantor"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mobil¹"
+    }
+  ]
+}

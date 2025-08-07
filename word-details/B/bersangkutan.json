@@ -1,1 +1,65 @@
-{"word":"bersangkutan","authenticated":true,"entries":[{"id":"72148","nama":"ber.sang.kut.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhubungan; bertalian","contoh":[{"nomor":2,"teks":"persoalan yang tidak ~ dengan usaha kita perlu dibicarakan dalam rapat ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlibat (dalam suatu perkara, persoalan, dan sebagainya)","contoh":[{"nomor":2,"teks":"beberapa orang yang ~ dalam perkara itu sudah ditahan polisi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkepentingan","contoh":[{"nomor":2,"teks":"mereka yang ~ dapat berhubungan langsung dengan kepala kantor"}]}],"rootWord":"sangkut"}]}
+{
+  "word": "bersangkutan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72148",
+      "nama": "ber.sang.kut.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhubungan; bertalian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persoalan yang tidak ~ dengan usaha kita perlu dibicarakan dalam rapat ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlibat (dalam suatu perkara, persoalan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa orang yang ~ dalam perkara itu sudah ditahan polisi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkepentingan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka yang ~ dapat berhubungan langsung dengan kepala kantor"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangkut"
+    }
+  ]
+}

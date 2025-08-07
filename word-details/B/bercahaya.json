@@ -1,1 +1,65 @@
-{"word":"bercahaya","authenticated":true,"entries":[{"id":"14190","nama":"ber.ca.ha.ya","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memancarkan cahaya; bersinar (tentang lampu, matahari)","contoh":[{"nomor":2,"teks":"malam itu gelap gulita, tidak satu bintang pun ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkilau (tentang mata, permata)","contoh":[{"nomor":2,"teks":"matanya ~ bagai intan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berseri (tentang wajah atau air muka)","contoh":[{"nomor":2,"teks":"ia tersenyum simpul dan wajahnya tampak ~"}]}],"rootWord":"cahaya"}]}
+{
+  "word": "bercahaya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14190",
+      "nama": "ber.ca.ha.ya",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memancarkan cahaya; bersinar (tentang lampu, matahari)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "malam itu gelap gulita, tidak satu bintang pun ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkilau (tentang mata, permata)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya ~ bagai intan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berseri (tentang wajah atau air muka)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tersenyum simpul dan wajahnya tampak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cahaya"
+    }
+  ]
+}

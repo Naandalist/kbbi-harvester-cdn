@@ -1,1 +1,51 @@
-{"word":"bertambul","authenticated":true,"entries":[{"id":"81717","nama":"ber.tam.bul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dengan tambul; ada tambulnya","contoh":[{"nomor":2,"teks":"sayang, kita minum ini tidak ~"}]}],"rootWord":"tambul¹"},{"id":"81721","nama":"ber.tam.bul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bermain komidi (akrobat, sulap, dan sebagainya)","contoh":[]}],"rootWord":"tambul²"}]}
+{
+  "word": "bertambul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81717",
+      "nama": "ber.tam.bul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan tambul; ada tambulnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayang, kita minum ini tidak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tambul¹"
+    },
+    {
+      "id": "81721",
+      "nama": "ber.tam.bul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bermain komidi (akrobat, sulap, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tambul²"
+    }
+  ]
+}

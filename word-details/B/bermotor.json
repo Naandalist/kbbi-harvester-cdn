@@ -1,1 +1,48 @@
-{"word":"bermotor","authenticated":true,"entries":[{"id":"55208","nama":"ber.mo.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengendarai sepeda motor","contoh":[{"nomor":2,"teks":"ia ~ dari Bandung ke Jakarta"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan motor (mesin); diperlengkapi dengan motor","contoh":[{"nomor":2,"teks":"kendaraan ~"}]}],"rootWord":"motor"}]}
+{
+  "word": "bermotor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55208",
+      "nama": "ber.mo.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengendarai sepeda motor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ dari Bandung ke Jakarta"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan motor (mesin); diperlengkapi dengan motor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kendaraan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "motor"
+    }
+  ]
+}

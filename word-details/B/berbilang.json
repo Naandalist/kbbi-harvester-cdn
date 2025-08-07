@@ -1,1 +1,76 @@
-{"word":"berbilang","authenticated":true,"entries":[{"id":"11471","nama":"ber.bi.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghitung","contoh":[{"nomor":2,"teks":"~ untung"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beberapa","contoh":[{"nomor":2,"teks":"~ kali"},{"nomor":4,"teks":"~ ratusan (ribuan)"},{"nomor":6,"teks":"~ sen (rupiah)"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"perhitungan","contoh":[]}],"rootWord":"bilang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berbilang dari esa, mengaji dari alif"],"idiom":[]}}]}
+{
+  "word": "berbilang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11471",
+      "nama": "ber.bi.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghitung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ untung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beberapa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kali"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ ratusan (ribuan)"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ sen (rupiah)"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perhitungan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bilang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berbilang dari esa, mengaji dari alif"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

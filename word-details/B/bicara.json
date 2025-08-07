@@ -1,1 +1,203 @@
-{"word":"bicara","authenticated":true,"entries":[{"id":"11244","nama":"bi.ca.ra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"akal budi; pikiran","contoh":[{"nomor":2,"teks":"dalam menghadapi segala hal selalu dipergunakan budi --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"perundingan","contoh":[{"nomor":2,"teks":"rasanya tidak perlu diadakan -- lagi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beperkara; berurusan","contoh":[{"nomor":2,"teks":"orang yang membawa barang larangan itu akan dibawanya  -- kepada hakim"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pertimbangan pikiran; pendapat","contoh":[{"nomor":2,"teks":"seperti -- Tuan, hamba pun demikian"},{"nomor":4,"teks":"pada -- patik"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbahasa; berkata","contoh":[{"nomor":2,"teks":"sedikit -- banyak bekerja"}]},{"nomor":"6","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sedang dipakai untuk bercakap (dalam telepon)","contoh":[{"nomor":2,"teks":"sudah tiga kali saya menelepon, tetapi selalu dijawab “ --”"}]},{"nomor":"7","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"tanggung, tentu (pasti)","contoh":[{"nomor":2,"teks":"kata penjual durian itu, “ --” tebal dan manis"}]}],"etimologi":{"text":"[Sanskerta विचार vicāra n m 'ide, pikiran, pertimbangan']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["berbicara","membicarakan","pembicara","pembicaraan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"214168","nama":"bi.ca.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"hukum peradilan orang Bugis","contoh":[]}],"etimologi":{"text":"[Sanskerta विचार vicāra n m 'ide, pikiran, pertimbangan']","languages":["Sanskerta"]}}]}
+{
+  "word": "bicara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11244",
+      "nama": "bi.ca.ra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "akal budi; pikiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam menghadapi segala hal selalu dipergunakan budi --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perundingan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rasanya tidak perlu diadakan -- lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beperkara; berurusan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang membawa barang larangan itu akan dibawanya  -- kepada hakim"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertimbangan pikiran; pendapat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seperti -- Tuan, hamba pun demikian"
+            },
+            {
+              "nomor": 4,
+              "teks": "pada -- patik"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbahasa; berkata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sedikit -- banyak bekerja"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedang dipakai untuk bercakap (dalam telepon)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah tiga kali saya menelepon, tetapi selalu dijawab “ --”"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tanggung, tentu (pasti)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata penjual durian itu, “ --” tebal dan manis"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta विचार vicāra n m 'ide, pikiran, pertimbangan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berbicara",
+          "membicarakan",
+          "pembicara",
+          "pembicaraan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "214168",
+      "nama": "bi.ca.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "hukum peradilan orang Bugis",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta विचार vicāra n m 'ide, pikiran, pertimbangan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

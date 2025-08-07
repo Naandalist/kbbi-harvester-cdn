@@ -1,1 +1,76 @@
-{"word":"beret","authenticated":true,"entries":[{"id":"10657","nama":"be.ret","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"tergores, lecet (tentang kulit dan sebagainya)","contoh":[{"nomor":2,"teks":"kakinya -- dicakar kucing"}]}]},{"id":"10658","nama":"be.ret","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"banyak permintaan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"sangat pemilih","contoh":[]}]}]}
+{
+  "word": "beret",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10657",
+      "nama": "be.ret",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tergores, lecet (tentang kulit dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakinya -- dicakar kucing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10658",
+      "nama": "be.ret",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "banyak permintaan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sangat pemilih",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

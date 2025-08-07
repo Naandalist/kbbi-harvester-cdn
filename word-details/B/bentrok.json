@@ -1,1 +1,76 @@
-{"word":"bentrok","authenticated":true,"entries":[{"id":"10373","nama":"ben.trok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercekcok; berselisih","contoh":[{"nomor":2,"teks":"karena kurang komunikasi, majikan sering -- dengan buruh"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlawanan; bertentangan","contoh":[{"nomor":2,"teks":"keterangan saksi A -- dengan pengakuan terdakwa"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlanggaran; bertumbukan","contoh":[{"nomor":2,"teks":"kemarin ada kapal -- di pelabuhan"}]}],"terkait":{"kataTurunan":["bentrokan","berbentrok","berbentrokan","membentrokkan","perbentrokan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bentrok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10373",
+      "nama": "ben.trok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercekcok; berselisih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena kurang komunikasi, majikan sering -- dengan buruh"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlawanan; bertentangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keterangan saksi A -- dengan pengakuan terdakwa"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlanggaran; bertumbukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemarin ada kapal -- di pelabuhan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bentrokan",
+          "berbentrok",
+          "berbentrokan",
+          "membentrokkan",
+          "perbentrokan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"berbalik","authenticated":true,"entries":[{"id":"7586","nama":"ber.ba.lik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kembali (arahnya)","contoh":[{"nomor":2,"teks":"kumandang ialah bunyi (suara) yang ~"},{"nomor":4,"teks":"bola tenis yang dilemparkan ke tembok akan selalu ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berubah letaknya (yang di atas menjadi di bawah, menelentang menjadi menelungkup)","contoh":[{"nomor":2,"teks":"tidurnya sangat gelisah, sebentar-sebentar ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertukar (haluan) hingga berlawanan dengan yang semula; berputar (kembali); berpaling","contoh":[{"nomor":2,"teks":"ia ~, lalu lari"}]}],"rootWord":"balik","terkait":{"kataTurunan":[],"gabunganKata":["berbalik hati","berbalik muka","berbalik pulang","berbalik punggung"],"peribahasa":["berbalik-balik bagai kuda tercirit","hujan berbalik ke langit"],"idiom":[]}}]}
+{
+  "word": "berbalik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7586",
+      "nama": "ber.ba.lik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kembali (arahnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kumandang ialah bunyi (suara) yang ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "bola tenis yang dilemparkan ke tembok akan selalu ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berubah letaknya (yang di atas menjadi di bawah, menelentang menjadi menelungkup)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidurnya sangat gelisah, sebentar-sebentar ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertukar (haluan) hingga berlawanan dengan yang semula; berputar (kembali); berpaling",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~, lalu lari"
+            }
+          ]
+        }
+      ],
+      "rootWord": "balik",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "berbalik hati",
+          "berbalik muka",
+          "berbalik pulang",
+          "berbalik punggung"
+        ],
+        "peribahasa": [
+          "berbalik-balik bagai kuda tercirit",
+          "hujan berbalik ke langit"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

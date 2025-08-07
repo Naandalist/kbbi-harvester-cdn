@@ -1,1 +1,48 @@
-{"word":"berbaik","authenticated":true,"entries":[{"id":"7061","nama":"ber.ba.ik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak bermusuhan (bertengkar); berdamai; rukun","contoh":[{"nomor":2,"teks":"dua utusan kelompok yang beriktikad ~ dan beramah-tamah satu sama lain"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"damai kembali; menjadi karib lagi; rukun kembali","contoh":[{"nomor":2,"teks":"baru saja anak-anak itu bertengkar, sudah ~ lagi"}]}],"rootWord":"baik"}]}
+{
+  "word": "berbaik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7061",
+      "nama": "ber.ba.ik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak bermusuhan (bertengkar); berdamai; rukun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua utusan kelompok yang beriktikad ~ dan beramah-tamah satu sama lain"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "damai kembali; menjadi karib lagi; rukun kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baru saja anak-anak itu bertengkar, sudah ~ lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "baik"
+    }
+  ]
+}

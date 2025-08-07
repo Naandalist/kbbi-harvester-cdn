@@ -1,1 +1,269 @@
-{"word":"biang","authenticated":true,"entries":[{"id":"11102","nama":"bi.ang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"induk (tentang binatang, tumbuhan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepala; pimpinan","contoh":[{"nomor":2,"teks":"-- penjahat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sari atau pati (yang dapat dijadikan banyak dengan menambahkan air dan sebagainya kepadanya)","contoh":[{"nomor":2,"teks":"-- cuka"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jenis yang tulen; jenis belum bercampur dengan jenis yang lain; ras","contoh":[{"nomor":2,"teks":"-- ayam"},{"nomor":4,"teks":"-- sapi"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"pokok pangkal; asal mula","contoh":[{"nomor":2,"teks":"kemalasan merupakan -- kemelaratan"}]}],"terkait":{"kataTurunan":["biang-biang"],"gabunganKata":["biang es","biang gosip","biang gula","biang jari","biang keladi","biang keringat","biang kerok","biang macet","biang provokator","biang ribut","biang roti","biang tangan"],"peribahasa":["biang menanti tembuk","genting menanti putus, biang menanti tembuk","genting putus, biang menanti tembuk"],"idiom":["biang-biang kain"]}},{"id":"11109","nama":"bi.ang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hampir tembuk (tembus)","contoh":[]}],"terkait":{"kataTurunan":["biang-biang"],"gabunganKata":[],"peribahasa":["biang menanti tembuk","genting menanti putus, biang menanti tembuk","genting putus, biang menanti tembuk"],"idiom":["biang-biang kain"]}},{"id":"11113","nama":"bi.ang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lubang-lubang kecil (pada sela-sela dinding atau atap yang sudah bocor)","contoh":[{"nomor":2,"teks":"dari -- atap rumbia yang sudah tua dan lapuk itu masuk cahaya bulan"}]}],"terkait":{"kataTurunan":["biang-biang"],"gabunganKata":[],"peribahasa":["biang menanti tembuk","genting menanti putus, biang menanti tembuk","genting putus, biang menanti tembuk"],"idiom":["biang-biang kain"]}},{"id":"11114","nama":"bi.ang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"galeberan","contoh":[]}],"terkait":{"kataTurunan":["biang-biang"],"gabunganKata":[],"peribahasa":["biang menanti tembuk","genting menanti putus, biang menanti tembuk","genting putus, biang menanti tembuk"],"idiom":["biang-biang kain"]}},{"id":"299469","nama":"bi.ang","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"rebana yang paling besar dalam kesenian rebana biang, berdiameter 60–80 cm","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["biang menanti tembuk","genting menanti putus, biang menanti tembuk","genting putus, biang menanti tembuk"],"idiom":["biang-biang kain"]}}]}
+{
+  "word": "biang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11102",
+      "nama": "bi.ang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "induk (tentang binatang, tumbuhan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala; pimpinan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- penjahat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sari atau pati (yang dapat dijadikan banyak dengan menambahkan air dan sebagainya kepadanya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- cuka"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jenis yang tulen; jenis belum bercampur dengan jenis yang lain; ras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ayam"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- sapi"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pokok pangkal; asal mula",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemalasan merupakan -- kemelaratan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "biang-biang"
+        ],
+        "gabunganKata": [
+          "biang es",
+          "biang gosip",
+          "biang gula",
+          "biang jari",
+          "biang keladi",
+          "biang keringat",
+          "biang kerok",
+          "biang macet",
+          "biang provokator",
+          "biang ribut",
+          "biang roti",
+          "biang tangan"
+        ],
+        "peribahasa": [
+          "biang menanti tembuk",
+          "genting menanti putus, biang menanti tembuk",
+          "genting putus, biang menanti tembuk"
+        ],
+        "idiom": [
+          "biang-biang kain"
+        ]
+      }
+    },
+    {
+      "id": "11109",
+      "nama": "bi.ang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampir tembuk (tembus)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "biang-biang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "biang menanti tembuk",
+          "genting menanti putus, biang menanti tembuk",
+          "genting putus, biang menanti tembuk"
+        ],
+        "idiom": [
+          "biang-biang kain"
+        ]
+      }
+    },
+    {
+      "id": "11113",
+      "nama": "bi.ang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lubang-lubang kecil (pada sela-sela dinding atau atap yang sudah bocor)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari -- atap rumbia yang sudah tua dan lapuk itu masuk cahaya bulan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "biang-biang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "biang menanti tembuk",
+          "genting menanti putus, biang menanti tembuk",
+          "genting putus, biang menanti tembuk"
+        ],
+        "idiom": [
+          "biang-biang kain"
+        ]
+      }
+    },
+    {
+      "id": "11114",
+      "nama": "bi.ang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "galeberan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "biang-biang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "biang menanti tembuk",
+          "genting menanti putus, biang menanti tembuk",
+          "genting putus, biang menanti tembuk"
+        ],
+        "idiom": [
+          "biang-biang kain"
+        ]
+      }
+    },
+    {
+      "id": "299469",
+      "nama": "bi.ang",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rebana yang paling besar dalam kesenian rebana biang, berdiameter 60–80 cm",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "biang menanti tembuk",
+          "genting menanti putus, biang menanti tembuk",
+          "genting putus, biang menanti tembuk"
+        ],
+        "idiom": [
+          "biang-biang kain"
+        ]
+      }
+    }
+  ]
+}

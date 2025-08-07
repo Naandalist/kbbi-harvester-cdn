@@ -1,1 +1,93 @@
-{"word":"berselang","authenticated":true,"entries":[{"id":"73713","nama":"ber.se.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berantara","contoh":[{"nomor":2,"teks":"ia pergi ke rumah sakit ~ dua hari"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lewat; berlalu; sesudah ... kemudian; ada antaranya","contoh":[{"nomor":2,"teks":"setelah beberapa lama ~ dia datang lagi"}]}],"rootWord":"selang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["licin karena minyak berminta, elok karena kain berselang"],"idiom":[]}},{"id":"254207","nama":"ber.se.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"menggarap sawah atau ladang secara gotong royong dengan biaya ditanggung pemilik lahan","contoh":[{"nomor":2,"teks":"saya diajak ikut -- besok"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["licin karena minyak berminta, elok karena kain berselang"],"idiom":[]}}]}
+{
+  "word": "berselang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73713",
+      "nama": "ber.se.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berantara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pergi ke rumah sakit ~ dua hari"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lewat; berlalu; sesudah ... kemudian; ada antaranya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah beberapa lama ~ dia datang lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "licin karena minyak berminta, elok karena kain berselang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "254207",
+      "nama": "ber.se.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggarap sawah atau ladang secara gotong royong dengan biaya ditanggung pemilik lahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya diajak ikut -- besok"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "licin karena minyak berminta, elok karena kain berselang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

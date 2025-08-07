@@ -1,1 +1,56 @@
-{"word":"berdaulat","authenticated":true,"entries":[{"id":"17979","nama":"ber.dau.lat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"berbahagia; bertuah","contoh":[]}],"rootWord":"daulat¹"},{"id":"17984","nama":"ber.dau.lat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai kekuasaan tertinggi atas suatu pemerintahan negara atau daerah","contoh":[{"nomor":2,"teks":"di darat kita ~, di laut kita juga ~"}]}],"rootWord":"daulat²"}]}
+{
+  "word": "berdaulat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17979",
+      "nama": "ber.dau.lat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbahagia; bertuah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "daulat¹"
+    },
+    {
+      "id": "17984",
+      "nama": "ber.dau.lat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai kekuasaan tertinggi atas suatu pemerintahan negara atau daerah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di darat kita ~, di laut kita juga ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "daulat²"
+    }
+  ]
+}

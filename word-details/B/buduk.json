@@ -1,1 +1,79 @@
-{"word":"buduk","authenticated":true,"entries":[{"id":"12900","nama":"bu.duk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kusta","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"beruntus dan gatal-gatal karena kuman pada kulit","contoh":[]}],"terkait":{"kataTurunan":["budukan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"177249","nama":"bu.duk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klm","nama":"Melayu Kalimantan","tipe":"lainnya"}],"definisi":"makanan khas Kalimantan Barat yang terbuat dari ikan-ikan kecil yang difermentasi","contoh":[]}]}]}
+{
+  "word": "buduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12900",
+      "nama": "bu.duk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kusta",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "beruntus dan gatal-gatal karena kuman pada kulit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "budukan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "177249",
+      "nama": "bu.duk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klm",
+              "nama": "Melayu Kalimantan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan khas Kalimantan Barat yang terbuat dari ikan-ikan kecil yang difermentasi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

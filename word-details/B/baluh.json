@@ -1,1 +1,101 @@
-{"word":"baluh","authenticated":true,"entries":[{"id":"223157","nama":"ba.luh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"wadah untuk membawa dan menyimpan air, terbuat dari labu yang telah dikeringkan","contoh":[]}],"terkait":{"kataTurunan":["baluhan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7648","nama":"ba.luh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu rangka tempat duduk (di punggung gajah)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu rangka gendang (tabuh-tabuhan)","contoh":[]}],"terkait":{"kataTurunan":["baluhan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"194845","nama":"ba.luh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lebah raja yang sengatnya mengandung bisa","contoh":[]}]}]}
+{
+  "word": "baluh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "223157",
+      "nama": "ba.luh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah untuk membawa dan menyimpan air, terbuat dari labu yang telah dikeringkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "baluhan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7648",
+      "nama": "ba.luh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu rangka tempat duduk (di punggung gajah)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu rangka gendang (tabuh-tabuhan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "baluhan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "194845",
+      "nama": "ba.luh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lebah raja yang sengatnya mengandung bisa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"bersalaman","authenticated":true,"entries":[{"id":"71340","nama":"ber.sa.lam.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"saling menyalami; memberi salam dengan saling berjabat tangan","contoh":[{"nomor":2,"teks":"mereka ~ sebelum berpisah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berjabat tangan","contoh":[]}],"rootWord":"salam¹"}]}
+{
+  "word": "bersalaman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71340",
+      "nama": "ber.sa.lam.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saling menyalami; memberi salam dengan saling berjabat tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ sebelum berpisah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjabat tangan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "salam¹"
+    }
+  ]
+}

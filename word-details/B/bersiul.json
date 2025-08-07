@@ -1,1 +1,64 @@
-{"word":"bersiul","authenticated":true,"entries":[{"id":"78032","nama":"ber.si.ul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan tiruan bunyi suling (dengan mulut): gampang sekali tinggal bersenang-senang","contoh":[{"nomor":2,"teks":"ia ~ memanggil anjing"},{"nomor":4,"teks":"sambil ~ girang, ia keluar dari mobil"},{"nomor":6,"teks":"semudah ~"},{"nomor":8,"teks":"tinggal ~(-siul)"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbunyi (tentang beberapa macam burung); mendesis (tentang ular)","contoh":[{"nomor":2,"teks":"di sana-sini kedengaran burung ~"},{"nomor":4,"teks":"bunyinya seperti ular ~"}]}],"rootWord":"siul"}]}
+{
+  "word": "bersiul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78032",
+      "nama": "ber.si.ul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan tiruan bunyi suling (dengan mulut): gampang sekali tinggal bersenang-senang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ memanggil anjing"
+            },
+            {
+              "nomor": 4,
+              "teks": "sambil ~ girang, ia keluar dari mobil"
+            },
+            {
+              "nomor": 6,
+              "teks": "semudah ~"
+            },
+            {
+              "nomor": 8,
+              "teks": "tinggal ~(-siul)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbunyi (tentang beberapa macam burung); mendesis (tentang ular)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di sana-sini kedengaran burung ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "bunyinya seperti ular ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siul"
+    }
+  ]
+}

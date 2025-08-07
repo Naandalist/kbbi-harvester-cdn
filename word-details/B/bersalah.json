@@ -1,1 +1,60 @@
-{"word":"bersalah","authenticated":true,"entries":[{"id":"71306","nama":"ber.sa.lah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat keliru; melakukan kekeliruan (kesalahan); mempunyai kesalahan","contoh":[{"nomor":2,"teks":"ia dianggap ~ karena telah menggagalkan usaha pertemuan warga desa itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat sesuatu yang melanggar peraturan (hukum dan sebagainya)","contoh":[{"nomor":2,"teks":"hakim hanya akan menjatuhkan hukumannya kepada terdakwa yang terbukti ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada salahnya","contoh":[]}],"rootWord":"salah"}]}
+{
+  "word": "bersalah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71306",
+      "nama": "ber.sa.lah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat keliru; melakukan kekeliruan (kesalahan); mempunyai kesalahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dianggap ~ karena telah menggagalkan usaha pertemuan warga desa itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat sesuatu yang melanggar peraturan (hukum dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hakim hanya akan menjatuhkan hukumannya kepada terdakwa yang terbukti ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada salahnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "salah"
+    }
+  ]
+}

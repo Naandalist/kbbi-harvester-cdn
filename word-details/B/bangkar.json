@@ -1,1 +1,139 @@
-{"word":"bangkar","authenticated":true,"entries":[{"id":"7928","nama":"bang.kar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kaku dan keras","contoh":[{"nomor":2,"teks":"tikar --"}]}],"terkait":{"kataTurunan":["membangkar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"112997","nama":"bang.kar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"suluh dari belarak","contoh":[]}]},{"id":"201065","nama":"bang.kar","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"semak yang berlapis-lapis di tepi sungai","contoh":[]}]},{"id":"215380","nama":"bang.kar","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"ternak yang mati tanpa disembelih","contoh":[{"nomor":2,"teks":"dalam pandangan medis -- tidak baik dikonsumsi karena mengandung patogen negatif"}]}]},{"id":"247837","nama":"bang.kar","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"pelepah pohon enau","contoh":[]}]}]}
+{
+  "word": "bangkar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7928",
+      "nama": "bang.kar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kaku dan keras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tikar --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membangkar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "112997",
+      "nama": "bang.kar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "suluh dari belarak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "201065",
+      "nama": "bang.kar",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "semak yang berlapis-lapis di tepi sungai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215380",
+      "nama": "bang.kar",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ternak yang mati tanpa disembelih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam pandangan medis -- tidak baik dikonsumsi karena mengandung patogen negatif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "247837",
+      "nama": "bang.kar",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pelepah pohon enau",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

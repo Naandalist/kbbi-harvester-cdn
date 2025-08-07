@@ -1,1 +1,50 @@
-{"word":"bacar","authenticated":true,"entries":[{"id":"6558","nama":"ba.car","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lancar dan banyak (tentang bicara, biasanya dalam arti yang kurang baik)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"ramah dan simpatik","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bacar mulut"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bacar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6558",
+      "nama": "ba.car",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lancar dan banyak (tentang bicara, biasanya dalam arti yang kurang baik)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ramah dan simpatik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bacar mulut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

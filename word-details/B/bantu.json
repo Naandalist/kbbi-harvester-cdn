@@ -1,1 +1,100 @@
-{"word":"bantu","authenticated":true,"entries":[{"id":"8175","nama":"ban.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tolong","contoh":[{"nomor":2,"teks":"--lah orang miskin dan melarat"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penolong","contoh":[{"nomor":2,"teks":"guru --"},{"nomor":4,"teks":"kantor pos --"}]}],"etimologi":{"text":"[Jawa Kuno bantu 'bantu']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bantu-membantu","bantuan","berbantu-bantuan","berbantuan","membantu","membantu-bantu","membantukan","memperbantukan","pembantu","pembantuan","terbantu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"280929","nama":"Ban.tu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rumpun bahasa yang tersebar di sebagian besar wilayah Afrika","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bantu 'bantu']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "bantu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8175",
+      "nama": "ban.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tolong",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--lah orang miskin dan melarat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penolong",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kantor pos --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bantu 'bantu']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bantu-membantu",
+          "bantuan",
+          "berbantu-bantuan",
+          "berbantuan",
+          "membantu",
+          "membantu-bantu",
+          "membantukan",
+          "memperbantukan",
+          "pembantu",
+          "pembantuan",
+          "terbantu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "280929",
+      "nama": "Ban.tu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rumpun bahasa yang tersebar di sebagian besar wilayah Afrika",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bantu 'bantu']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

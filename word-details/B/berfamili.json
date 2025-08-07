@@ -1,1 +1,48 @@
-{"word":"berfamili","authenticated":true,"entries":[{"id":"140894","nama":"ber.fa.mi.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki hubungan keluarga","contoh":[{"nomor":2,"teks":"dia masih ~ dengan keluarga kerajaan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"termasuk dalam famili","contoh":[{"nomor":2,"teks":"tanaman ~ Euphorbiaceae ini dijadikan bahan perkawinan silang dengan tanaman lain"}]}],"rootWord":"famili"}]}
+{
+  "word": "berfamili",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "140894",
+      "nama": "ber.fa.mi.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki hubungan keluarga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia masih ~ dengan keluarga kerajaan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "termasuk dalam famili",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanaman ~ Euphorbiaceae ini dijadikan bahan perkawinan silang dengan tanaman lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "famili"
+    }
+  ]
+}

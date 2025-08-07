@@ -1,1 +1,69 @@
-{"word":"bongkar","authenticated":true,"entries":[{"id":"12298","nama":"bong.kar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"angkat, turunkan (tentang muatan atau barang dari truk, mesin mobil, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["bongkar-bongkaran","bongkar-membongkar","bongkaran","kebongkaran","membongkar","membongkar-bongkar","pembongkar","pembongkaran","terbongkar"],"gabunganKata":["bongkar muat","bongkar pasang","bongkar total"],"peribahasa":[],"idiom":[]}},{"id":"161025","nama":"bong.kar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"makanan dari biji jagung yang sudah ditumbuk halus, tanpa kulit ari, dimasak seperti beras","contoh":[]}]}]}
+{
+  "word": "bongkar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12298",
+      "nama": "bong.kar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angkat, turunkan (tentang muatan atau barang dari truk, mesin mobil, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bongkar-bongkaran",
+          "bongkar-membongkar",
+          "bongkaran",
+          "kebongkaran",
+          "membongkar",
+          "membongkar-bongkar",
+          "pembongkar",
+          "pembongkaran",
+          "terbongkar"
+        ],
+        "gabunganKata": [
+          "bongkar muat",
+          "bongkar pasang",
+          "bongkar total"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "161025",
+      "nama": "bong.kar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan dari biji jagung yang sudah ditumbuk halus, tanpa kulit ari, dimasak seperti beras",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

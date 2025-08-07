@@ -1,1 +1,73 @@
-{"word":"berpunya","authenticated":true,"entries":[{"id":"66000","nama":"ber.pu.nya","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada yang empunya","contoh":[{"nomor":2,"teks":"harta tidak ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah bersuami (beristri); sudah bertunangan","contoh":[{"nomor":2,"teks":"rupanya dia sudah ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berada; kaya","contoh":[{"nomor":2,"teks":"anak orang ~"}]}],"rootWord":"punya","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ladang yang berpunya"],"idiom":[]}}]}
+{
+  "word": "berpunya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66000",
+      "nama": "ber.pu.nya",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada yang empunya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harta tidak ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah bersuami (beristri); sudah bertunangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rupanya dia sudah ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berada; kaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak orang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "punya",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ladang yang berpunya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

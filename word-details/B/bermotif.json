@@ -1,1 +1,48 @@
-{"word":"bermotif","authenticated":true,"entries":[{"id":"55193","nama":"ber.mo.tif","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai pola; bercorak","contoh":[{"nomor":2,"teks":"gaun yang dipakainya ~ kembang-kembang besar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai motif (sebab, alasan, latar belakang, dan sebagainya)","contoh":[{"nomor":2,"teks":"penculikan itu ternyata ~ pemerasan"}]}],"rootWord":"motif"}]}
+{
+  "word": "bermotif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55193",
+      "nama": "ber.mo.tif",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai pola; bercorak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gaun yang dipakainya ~ kembang-kembang besar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai motif (sebab, alasan, latar belakang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penculikan itu ternyata ~ pemerasan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "motif"
+    }
+  ]
+}

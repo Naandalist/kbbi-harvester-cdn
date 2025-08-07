@@ -1,1 +1,31 @@
-{"word":"bergumam","authenticated":true,"entries":[{"id":"27721","nama":"ber.gu.mam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbicara dengan suara tertahan di dalam mulut","contoh":[{"nomor":2,"teks":"jangan ~, berbicaralah yang jelas"}]}],"rootWord":"gumam"}]}
+{
+  "word": "bergumam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27721",
+      "nama": "ber.gu.mam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbicara dengan suara tertahan di dalam mulut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan ~, berbicaralah yang jelas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gumam"
+    }
+  ]
+}

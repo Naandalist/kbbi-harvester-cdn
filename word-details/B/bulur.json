@@ -1,1 +1,67 @@
-{"word":"bulur","authenticated":true,"entries":[{"id":"13284","nama":"bu.lur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sangat lapar","contoh":[]}],"terkait":{"kataTurunan":["kebuluran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"157727","nama":"bu.lur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"jejak kapal yang menimbulkan riak air","contoh":[{"nomor":2,"teks":"lumba-lumba biasa berenang mengikuti -- sampai ke laut lepas"}]}]}]}
+{
+  "word": "bulur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13284",
+      "nama": "bu.lur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat lapar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebuluran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "157727",
+      "nama": "bu.lur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jejak kapal yang menimbulkan riak air",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lumba-lumba biasa berenang mengikuti -- sampai ke laut lepas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

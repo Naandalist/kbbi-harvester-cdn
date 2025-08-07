@@ -1,1 +1,54 @@
-{"word":"bonet","authenticated":true,"entries":[{"id":"112275","nama":"bo.net","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"sastra lisan dari Timor berupa tuturan syair, dilantunkan sambil menari membentuk lingkaran dan bergandeng tangan, biasanya dilakukan saat perkawinan atau pesta adat","contoh":[{"nomor":2,"teks":"kami menari diiringi --"}]}]},{"id":"264736","nama":"bo.net","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"topi yang terbuat dari kain berenda dengan tali di dagu, biasanya dipakai perempuan mulai dari bayi hingga dewasa","contoh":[]}]}]}
+{
+  "word": "bonet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112275",
+      "nama": "bo.net",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sastra lisan dari Timor berupa tuturan syair, dilantunkan sambil menari membentuk lingkaran dan bergandeng tangan, biasanya dilakukan saat perkawinan atau pesta adat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami menari diiringi --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "264736",
+      "nama": "bo.net",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "topi yang terbuat dari kain berenda dengan tali di dagu, biasanya dipakai perempuan mulai dari bayi hingga dewasa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

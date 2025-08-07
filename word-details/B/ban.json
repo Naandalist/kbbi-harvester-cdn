@@ -1,1 +1,314 @@
-{"word":"ban","authenticated":true,"entries":[{"id":"7731","nama":"ban","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda bulat dari karet yang dipasang melingkar pada roda (sepeda, mobil, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"secarik pita (kain dan sebagainya) yang dibalutkan pada lengan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lingkar tenunan benang tebal berbentuk pita lebar tanpa ujung yang digunakan untuk memutar roda mesin pabrik","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikat pinggang; sabuk","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sampul buku, biasanya dari kertas, dibuat terpisah dari blok buku","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ban angin","ban angkut","ban basah","ban berjalan","ban bias","ban buta","ban cacing","ban cadangan","ban dalam","ban gundul","ban hidup","ban kapten","ban kering","ban luar","ban mati","ban pejal","ban pompa","ban radial","ban radial bersabuk","ban serap","ban tanpa ban dalam","ban tervulkanisasi","ban tubeles","ban vulkanisir"],"peribahasa":[],"idiom":["ban serep"]}},{"id":"7748","nama":"ban","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalan atau jalur (kereta api dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"landasan terbang (bagi pesawat terbang) di pelabuhan udara","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lapangan tenis (bulu tangkis dan sebagainya)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"tanda yang menunjukkan tingkatan kemahiran (putih, kuning, hijau, biru, cokelat, hitam) dalam karate, judo, dan sebagainya","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"lintasan (untuk lari dan berenang)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["ban serep"]}},{"id":"7749","nama":"ban","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"panjang gelombang atau frekuensi pada radio","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["ban serep"]}},{"id":"203252","nama":"ban","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"BhUj","nama":"Bahau Ujoh Bilang","tipe":"lainnya"}],"definisi":"satuan ukuran yang dipakai untuk mengukur ketebalan lemak babi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["ban serep"]}},{"id":"109788","nama":"ban","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"0","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["ban serep"]}},{"id":"247193","nama":"ban","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"lingkaran yang dibuat sebagai pembatas dalam suatu permainan (tentang gasing, kasti)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["ban serep"]}}]}
+{
+  "word": "ban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7731",
+      "nama": "ban",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda bulat dari karet yang dipasang melingkar pada roda (sepeda, mobil, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "secarik pita (kain dan sebagainya) yang dibalutkan pada lengan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lingkar tenunan benang tebal berbentuk pita lebar tanpa ujung yang digunakan untuk memutar roda mesin pabrik",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikat pinggang; sabuk",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampul buku, biasanya dari kertas, dibuat terpisah dari blok buku",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ban angin",
+          "ban angkut",
+          "ban basah",
+          "ban berjalan",
+          "ban bias",
+          "ban buta",
+          "ban cacing",
+          "ban cadangan",
+          "ban dalam",
+          "ban gundul",
+          "ban hidup",
+          "ban kapten",
+          "ban kering",
+          "ban luar",
+          "ban mati",
+          "ban pejal",
+          "ban pompa",
+          "ban radial",
+          "ban radial bersabuk",
+          "ban serap",
+          "ban tanpa ban dalam",
+          "ban tervulkanisasi",
+          "ban tubeles",
+          "ban vulkanisir"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    },
+    {
+      "id": "7748",
+      "nama": "ban",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalan atau jalur (kereta api dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "landasan terbang (bagi pesawat terbang) di pelabuhan udara",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lapangan tenis (bulu tangkis dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tanda yang menunjukkan tingkatan kemahiran (putih, kuning, hijau, biru, cokelat, hitam) dalam karate, judo, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lintasan (untuk lari dan berenang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    },
+    {
+      "id": "7749",
+      "nama": "ban",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panjang gelombang atau frekuensi pada radio",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    },
+    {
+      "id": "203252",
+      "nama": "ban",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "BhUj",
+              "nama": "Bahau Ujoh Bilang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan ukuran yang dipakai untuk mengukur ketebalan lemak babi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    },
+    {
+      "id": "109788",
+      "nama": "ban",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "0",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    },
+    {
+      "id": "247193",
+      "nama": "ban",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lingkaran yang dibuat sebagai pembatas dalam suatu permainan (tentang gasing, kasti)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "ban serep"
+        ]
+      }
+    }
+  ]
+}

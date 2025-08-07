@@ -1,1 +1,60 @@
-{"word":"bisai","authenticated":true,"entries":[{"id":"11876","nama":"bi.sai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bagus; elok","contoh":[{"nomor":2,"teks":"dandanannya indah -- terlalu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pesolek (suka berdandan baik-baik)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti bisai makan sepinggan"],"idiom":[]}}]}
+{
+  "word": "bisai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11876",
+      "nama": "bi.sai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagus; elok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dandanannya indah -- terlalu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pesolek (suka berdandan baik-baik)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti bisai makan sepinggan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"berkutat","authenticated":true,"entries":[{"id":"45430","nama":"ber.ku.tat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"duduk-duduk di kebun untuk menunggu durian jatuh","contoh":[]}],"rootWord":"kutat¹"},{"id":"45432","nama":"ber.ku.tat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sibuk memikirkan sesuatu","contoh":[{"nomor":2,"teks":"ia masih ~ dengan penghitungan biaya kuliahnya"}]}],"rootWord":"kutat²"}]}
+{
+  "word": "berkutat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45430",
+      "nama": "ber.ku.tat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "duduk-duduk di kebun untuk menunggu durian jatuh",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kutat¹"
+    },
+    {
+      "id": "45432",
+      "nama": "ber.ku.tat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sibuk memikirkan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia masih ~ dengan penghitungan biaya kuliahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kutat²"
+    }
+  ]
+}

@@ -1,1 +1,32 @@
-{"word":"buku harian","authenticated":true,"entries":[{"id":"13044","nama":"buku harian","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"buku tulis yang berisi catatan tentang kegiatan yang harus dilakukan dan kejadian yang dialami setiap hari","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Dag","nama":"Perdagangan","tipe":"bidang_subjek"}],"definisi":"buku untuk mencatat perincian transaksi usaha berdasarkan urutan waktu","contoh":[]}],"rootWord":"buku¹"}]}
+{
+  "word": "buku harian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13044",
+      "nama": "buku harian",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "buku tulis yang berisi catatan tentang kegiatan yang harus dilakukan dan kejadian yang dialami setiap hari",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Dag",
+              "nama": "Perdagangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "buku untuk mencatat perincian transaksi usaha berdasarkan urutan waktu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "buku¹"
+    }
+  ]
+}

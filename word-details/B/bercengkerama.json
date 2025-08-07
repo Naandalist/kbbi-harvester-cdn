@@ -1,1 +1,53 @@
-{"word":"bercengkerama","authenticated":true,"entries":[{"id":"15611","nama":"ber.ceng.ke.ra.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercakap-cakap dengan senang; bersenda gurau","contoh":[{"nomor":2,"teks":"kedua anak muda itu terus duduk ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"berjalan-jalan untuk bersenang-senang (bermain-main, bertamasya, dan sebagainya)","contoh":[{"nomor":2,"teks":"baginda pun ~ ke taman bunga"}]}],"rootWord":"cengkerama"}]}
+{
+  "word": "bercengkerama",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15611",
+      "nama": "ber.ceng.ke.ra.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercakap-cakap dengan senang; bersenda gurau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua anak muda itu terus duduk ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjalan-jalan untuk bersenang-senang (bermain-main, bertamasya, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baginda pun ~ ke taman bunga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cengkerama"
+    }
+  ]
+}

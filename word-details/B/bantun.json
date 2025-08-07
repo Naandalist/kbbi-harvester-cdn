@@ -1,1 +1,57 @@
-{"word":"bantun","authenticated":true,"entries":[{"id":"8202","nama":"ban.tun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tarik; cabut","contoh":[]}],"terkait":{"kataTurunan":["membantun","membantuni","terbantun","sebantun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"8206","nama":"ban.tun","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial sebantun","contoh":[]}],"terkait":{"kataTurunan":["sebantun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bantun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8202",
+      "nama": "ban.tun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tarik; cabut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membantun",
+          "membantuni",
+          "terbantun",
+          "sebantun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "8206",
+      "nama": "ban.tun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial sebantun",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sebantun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

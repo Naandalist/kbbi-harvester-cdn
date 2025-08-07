@@ -1,1 +1,81 @@
-{"word":"bedah cesar","authenticated":true,"entries":[{"id":"2","nama":"be.dah.ce.sar","nomor":"2","makna":[{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan operasi untuk mengeluarkan janin dari dalam kandungan","contoh":[{"nomor":1,"teks":"Dokter memutuskan untuk -- karena kondisi janin yang tidak stabil"}]}],"rootWord":"bedahbedah"},{"id":"3","nama":"be.dah.ce.sar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suatu prosedur operasi untuk melahirkan bayi melalui insisi pada abdomen dan uterus","contoh":[{"nomor":1,"teks":"Pasien tersebut menjalani operasi -- karena adanya komplikasi"}]}],"rootWord":"bedahbedah"},{"id":"4","nama":"be.dah.ce.sar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan bedah cesar untuk melahirkan bayi","contoh":[{"nomor":1,"teks":"Dokter kandungan memutuskan untuk -- karena kondisi pasien yang berisiko"}]}],"rootWord":"bedahbedah"}]}
+{
+  "word": "bedah cesar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2",
+      "nama": "be.dah.ce.sar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan operasi untuk mengeluarkan janin dari dalam kandungan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Dokter memutuskan untuk -- karena kondisi janin yang tidak stabil"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bedahbedah"
+    },
+    {
+      "id": "3",
+      "nama": "be.dah.ce.sar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suatu prosedur operasi untuk melahirkan bayi melalui insisi pada abdomen dan uterus",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Pasien tersebut menjalani operasi -- karena adanya komplikasi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bedahbedah"
+    },
+    {
+      "id": "4",
+      "nama": "be.dah.ce.sar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan bedah cesar untuk melahirkan bayi",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Dokter kandungan memutuskan untuk -- karena kondisi pasien yang berisiko"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bedahbedah"
+    }
+  ]
+}

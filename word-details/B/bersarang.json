@@ -1,1 +1,97 @@
-{"word":"bersarang","authenticated":true,"entries":[{"id":"72400","nama":"ber.sa.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat sarang","contoh":[{"nomor":2,"teks":"burung pipit ~ di pohon kemuning"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertempat (berkediaman, bersembunyi, dan sebagainya)","contoh":[{"nomor":2,"teks":"gerombolan bersenjata ~ di lereng gunung"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenai (tentang pukulan dan sebagainya); masuk (tentang tikaman, peluru, dan sebagainya)","contoh":[{"nomor":2,"teks":"pisau itu ~ di lambungnya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"masuk ke dalam gawang (gol)","contoh":[{"nomor":2,"teks":"penjaga gawang itu gagal meraih bola yang akan ~ di jalanya"}]}],"rootWord":"sarang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["betung bulat tak persegi pipit jantan tak bersarang","jikalau tidak berada-ada (ada berada, ada mengada), masakan tempua bersarang rendah","kalau tidak berada-ada, takkan tempua bersarang rendah"],"idiom":[]}}]}
+{
+  "word": "bersarang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72400",
+      "nama": "ber.sa.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat sarang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "burung pipit ~ di pohon kemuning"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertempat (berkediaman, bersembunyi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gerombolan bersenjata ~ di lereng gunung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenai (tentang pukulan dan sebagainya); masuk (tentang tikaman, peluru, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pisau itu ~ di lambungnya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk ke dalam gawang (gol)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjaga gawang itu gagal meraih bola yang akan ~ di jalanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sarang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "betung bulat tak persegi pipit jantan tak bersarang",
+          "jikalau tidak berada-ada (ada berada, ada mengada), masakan tempua bersarang rendah",
+          "kalau tidak berada-ada, takkan tempua bersarang rendah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

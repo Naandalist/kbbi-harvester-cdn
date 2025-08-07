@@ -1,1 +1,55 @@
-{"word":"berunggun","authenticated":true,"entries":[{"id":"89673","nama":"ber.ung.gun","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertumpuk; beronggok; bertimbun","contoh":[{"nomor":2,"teks":"sampah ~ di tepi jalan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sedang membakar kayu yang bertimbun; mengadakan api unggun","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"masih berapi (tentang timbunan sampah dan sebagainya yang dibakar)","contoh":[]}],"rootWord":"unggun"}]}
+{
+  "word": "berunggun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89673",
+      "nama": "ber.ung.gun",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertumpuk; beronggok; bertimbun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sampah ~ di tepi jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedang membakar kayu yang bertimbun; mengadakan api unggun",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masih berapi (tentang timbunan sampah dan sebagainya yang dibakar)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "unggun"
+    }
+  ]
+}

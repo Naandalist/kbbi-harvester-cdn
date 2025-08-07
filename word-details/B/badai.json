@@ -1,1 +1,119 @@
-{"word":"badai","authenticated":true,"entries":[{"id":"6583","nama":"ba.dai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"angin kencang yang menyertai cuaca buruk (yang datang dengan tiba-tiba) berkecepatan sekitar 64—72 knot","contoh":[{"nomor":2,"teks":"kampung nelayan itu hancur diserang --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"keren; menawan; menakjubkan; luar biasa","contoh":[{"nomor":2,"teks":"rambut gadis itu -- sekali hari ini"}]}],"terkait":{"kataTurunan":["berbadai","membadai","terbadai"],"gabunganKata":["badai api","badai cedera","badai debu","badai disrupsi","badai elektrik","badai es","badai fohn","badai guntur","badai guntur fron","badai guntur fron dingin","badai guntur konvektif","badai guntur lataan","badai guntur paras tinggi","badai guntur perenggan","badai hujan","badai matahari","badai meteor","badai pasir","badai perak","badai salju","badai sitokin","badai tropis"],"peribahasa":["badai pasti berlalu","badai reda, hujan pun teduh","mendapat badai tertimbakan"],"idiom":[]}},{"id":"6596","nama":"ba.dai","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial terbadai","contoh":[]}],"terkait":{"kataTurunan":["terbadai"],"gabunganKata":[],"peribahasa":["badai pasti berlalu","badai reda, hujan pun teduh","mendapat badai tertimbakan"],"idiom":[]}}]}
+{
+  "word": "badai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6583",
+      "nama": "ba.dai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angin kencang yang menyertai cuaca buruk (yang datang dengan tiba-tiba) berkecepatan sekitar 64—72 knot",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kampung nelayan itu hancur diserang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keren; menawan; menakjubkan; luar biasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambut gadis itu -- sekali hari ini"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbadai",
+          "membadai",
+          "terbadai"
+        ],
+        "gabunganKata": [
+          "badai api",
+          "badai cedera",
+          "badai debu",
+          "badai disrupsi",
+          "badai elektrik",
+          "badai es",
+          "badai fohn",
+          "badai guntur",
+          "badai guntur fron",
+          "badai guntur fron dingin",
+          "badai guntur konvektif",
+          "badai guntur lataan",
+          "badai guntur paras tinggi",
+          "badai guntur perenggan",
+          "badai hujan",
+          "badai matahari",
+          "badai meteor",
+          "badai pasir",
+          "badai perak",
+          "badai salju",
+          "badai sitokin",
+          "badai tropis"
+        ],
+        "peribahasa": [
+          "badai pasti berlalu",
+          "badai reda, hujan pun teduh",
+          "mendapat badai tertimbakan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "6596",
+      "nama": "ba.dai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial terbadai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terbadai"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "badai pasti berlalu",
+          "badai reda, hujan pun teduh",
+          "mendapat badai tertimbakan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

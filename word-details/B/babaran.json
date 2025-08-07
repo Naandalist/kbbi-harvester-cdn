@@ -1,1 +1,56 @@
-{"word":"babaran","authenticated":true,"entries":[{"id":"6444","nama":"ba.bar.an","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"melahirkan anak; bersalin","contoh":[]}],"rootWord":"babar⁴"},{"id":"238363","nama":"ba.bar.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"teknik pengembangan dan perluasan karya sastra dengan penyajian yang terperinci","contoh":[]}],"rootWord":"babar²"}]}
+{
+  "word": "babaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6444",
+      "nama": "ba.bar.an",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "melahirkan anak; bersalin",
+          "contoh": []
+        }
+      ],
+      "rootWord": "babar⁴"
+    },
+    {
+      "id": "238363",
+      "nama": "ba.bar.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "teknik pengembangan dan perluasan karya sastra dengan penyajian yang terperinci",
+          "contoh": []
+        }
+      ],
+      "rootWord": "babar²"
+    }
+  ]
+}

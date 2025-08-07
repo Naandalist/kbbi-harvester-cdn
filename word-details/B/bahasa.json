@@ -1,1 +1,345 @@
-{"word":"bahasa","authenticated":true,"entries":[{"id":"6909","nama":"ba.ha.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"sistem lambang bunyi yang arbitrer, yang digunakan oleh anggota suatu masyarakat untuk bekerja sama, berinteraksi, dan mengidentifikasikan diri","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"percakapan (perkataan) yang baik; tingkah laku yang baik; sopan santun","contoh":[{"nomor":2,"teks":"baik budi --nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"sistem kata atau simbol yang memungkinkan untuk berkomunikasi dengan komputer, terutama untuk memasukkan instruksi-instruksi komputer melalui kata-kata yang mudah dipahami, dan kemudian diterjemahkan ke dalam kode mesin","contoh":[]}],"etimologi":{"text":"[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["berbahasa","berbahasa-bahasa","kebahasaan","membahasakan","memperbahasakan","pembahasaan","perbahasa","perbahasaan","sebahasa"],"gabunganKata":["bahasa aglutinatif","bahasa akusatif","bahasa alamiah","bahasa algoritmik","bahasa alien","bahasa aljabar","bahasa analitis","bahasa aplikasi","bahasa aplikatif","bahasa aras tinggi","bahasa asing","bahasa bagongan","bahasa baku","bahasa bangsawan","bahasa berbatas","bahasa berfleksi","bahasa bermajas","bahasa berorientasi aplikasi","bahasa berton","bahasa buatan","bahasa buku","bahasa bunga","bahasa campuran","bahasa cinta","bahasa daerah","bahasa dagang","bahasa dalam","bahasa definisi data","bahasa dewa","bahasa diinterpretasikan","bahasa ergatif","bahasa etalon","bahasa flektif","bahasa fonemis","bahasa G","bahasa gaul","bahasa generasi kedua","bahasa generasi keempat","bahasa generasi kelima","bahasa generasi ketiga","bahasa generasi pertama","bahasa grafik","bahasa gunung","bahasa halus","bahasa hantu","bahasa hibrida","bahasa hidup","bahasa holofrastis","bahasa ibu","bahasa ilmu","bahasa imigran","bahasa indeks","bahasa induk","bahasa inflektif","bahasa inklusif","bahasa inkorporatif","bahasa isolat","bahasa isolatif","bahasa isyarat","bahasa Jawi","bahasa jurnalistik","bahasa kacukan","bahasa kalangan","bahasa kanak-kanak","bahasa kasar","bahasa kawat","bahasa kebangsaan","bahasa kebun binatang","bahasa kedua","bahasa kentum","bahasa kentut","bahasa kerabat","bahasa kesat","bahasa ketiga","bahasa kiasan","bahasa klasik","bahasa komputer","bahasa konsonantis","bahasa kuno","bahasa laut","bahasa level rendah","bahasa level sangat tinggi","bahasa level tinggi","bahasa lingo","bahasa lisan","bahasa liturgis","bahasa madya","bahasa manusia","bahasa markah","bahasa markah hiperteks","bahasa mati","bahasa mendaki","bahasa mendatar","bahasa menurun","bahasa mesin","bahasa modern","bahasa morfemis","bahasa moyang","bahasa nasional","bahasa negara","bahasa objek","bahasa oksitonis","bahasa panda","bahasa paroksitonis","bahasa pasar","bahasa pedagang","bahasa pembangkit aplikasi","bahasa pemrograman","bahasa pemrograman level tinggi","bahasa pemrograman prosedural","bahasa pemrograman rakit","bahasa pengantar","bahasa pengguna akhir","bahasa penyalur","bahasa perantara","bahasa percakapan","bahasa peringkat tinggi","bahasa perintah","bahasa permintaan","bahasa pers","bahasa persatuan","bahasa pertama","bahasa pindahan","bahasa pinggiran","bahasa planet","bahasa politik","bahasa portabel","bahasa program","bahasa prokem","bahasa prosedural","bahasa purba","bahasa rakit","bahasa rakitan","bahasa remaja","bahasa resmi","bahasa roh","bahasa santai","bahasa sasaran","bahasa satem","bahasa sedang","bahasa sehari-hari","bahasa semu","bahasa silih","bahasa simbolik","bahasa sintetis","bahasa siulan","bahasa slang","bahasa sopan santun","bahasa standar","bahasa suku bangsa","bahasa sulung","bahasa sumber","bahasa tana","bahasa tarzan","bahasa teknis","bahasa terbalik","bahasa tingkat rendah","bahasa tonal","bahasa tubuh","bahasa tulis","bahasa tutur","bahasa umum","bahasa visual","bahasa vokalis","trigatra bangun bahasa"],"peribahasa":["bahasa dan bangsa itu tiada dijual atau dibeli","bahasa menunjukkan bangsa","diam seribu bahasa"],"idiom":[]}},{"id":"7007","nama":"ba.ha.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kata yang digunakan untuk menghubungkan bagian ujaran","contoh":[{"nomor":2,"teks":"dia menerangkan -- dia berasal dari keluarga baik-baik"}]}],"etimologi":{"text":"[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bahasa dan bangsa itu tiada dijual atau dibeli","bahasa menunjukkan bangsa","diam seribu bahasa"],"idiom":[]}},{"id":"7008","nama":"ba.ha.sa","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sedikit","contoh":[{"nomor":2,"teks":"angin berembus sepoi-sepoi -- (perlahan-lahan dan silir-semilir)"},{"nomor":4,"teks":"rambutnya kusut-kusut -- (agak kusut)"}]}],"etimologi":{"text":"[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bahasa dan bangsa itu tiada dijual atau dibeli","bahasa menunjukkan bangsa","diam seribu bahasa"],"idiom":[]}}]}
+{
+  "word": "bahasa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6909",
+      "nama": "ba.ha.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sistem lambang bunyi yang arbitrer, yang digunakan oleh anggota suatu masyarakat untuk bekerja sama, berinteraksi, dan mengidentifikasikan diri",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "percakapan (perkataan) yang baik; tingkah laku yang baik; sopan santun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baik budi --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sistem kata atau simbol yang memungkinkan untuk berkomunikasi dengan komputer, terutama untuk memasukkan instruksi-instruksi komputer melalui kata-kata yang mudah dipahami, dan kemudian diterjemahkan ke dalam kode mesin",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berbahasa",
+          "berbahasa-bahasa",
+          "kebahasaan",
+          "membahasakan",
+          "memperbahasakan",
+          "pembahasaan",
+          "perbahasa",
+          "perbahasaan",
+          "sebahasa"
+        ],
+        "gabunganKata": [
+          "bahasa aglutinatif",
+          "bahasa akusatif",
+          "bahasa alamiah",
+          "bahasa algoritmik",
+          "bahasa alien",
+          "bahasa aljabar",
+          "bahasa analitis",
+          "bahasa aplikasi",
+          "bahasa aplikatif",
+          "bahasa aras tinggi",
+          "bahasa asing",
+          "bahasa bagongan",
+          "bahasa baku",
+          "bahasa bangsawan",
+          "bahasa berbatas",
+          "bahasa berfleksi",
+          "bahasa bermajas",
+          "bahasa berorientasi aplikasi",
+          "bahasa berton",
+          "bahasa buatan",
+          "bahasa buku",
+          "bahasa bunga",
+          "bahasa campuran",
+          "bahasa cinta",
+          "bahasa daerah",
+          "bahasa dagang",
+          "bahasa dalam",
+          "bahasa definisi data",
+          "bahasa dewa",
+          "bahasa diinterpretasikan",
+          "bahasa ergatif",
+          "bahasa etalon",
+          "bahasa flektif",
+          "bahasa fonemis",
+          "bahasa G",
+          "bahasa gaul",
+          "bahasa generasi kedua",
+          "bahasa generasi keempat",
+          "bahasa generasi kelima",
+          "bahasa generasi ketiga",
+          "bahasa generasi pertama",
+          "bahasa grafik",
+          "bahasa gunung",
+          "bahasa halus",
+          "bahasa hantu",
+          "bahasa hibrida",
+          "bahasa hidup",
+          "bahasa holofrastis",
+          "bahasa ibu",
+          "bahasa ilmu",
+          "bahasa imigran",
+          "bahasa indeks",
+          "bahasa induk",
+          "bahasa inflektif",
+          "bahasa inklusif",
+          "bahasa inkorporatif",
+          "bahasa isolat",
+          "bahasa isolatif",
+          "bahasa isyarat",
+          "bahasa Jawi",
+          "bahasa jurnalistik",
+          "bahasa kacukan",
+          "bahasa kalangan",
+          "bahasa kanak-kanak",
+          "bahasa kasar",
+          "bahasa kawat",
+          "bahasa kebangsaan",
+          "bahasa kebun binatang",
+          "bahasa kedua",
+          "bahasa kentum",
+          "bahasa kentut",
+          "bahasa kerabat",
+          "bahasa kesat",
+          "bahasa ketiga",
+          "bahasa kiasan",
+          "bahasa klasik",
+          "bahasa komputer",
+          "bahasa konsonantis",
+          "bahasa kuno",
+          "bahasa laut",
+          "bahasa level rendah",
+          "bahasa level sangat tinggi",
+          "bahasa level tinggi",
+          "bahasa lingo",
+          "bahasa lisan",
+          "bahasa liturgis",
+          "bahasa madya",
+          "bahasa manusia",
+          "bahasa markah",
+          "bahasa markah hiperteks",
+          "bahasa mati",
+          "bahasa mendaki",
+          "bahasa mendatar",
+          "bahasa menurun",
+          "bahasa mesin",
+          "bahasa modern",
+          "bahasa morfemis",
+          "bahasa moyang",
+          "bahasa nasional",
+          "bahasa negara",
+          "bahasa objek",
+          "bahasa oksitonis",
+          "bahasa panda",
+          "bahasa paroksitonis",
+          "bahasa pasar",
+          "bahasa pedagang",
+          "bahasa pembangkit aplikasi",
+          "bahasa pemrograman",
+          "bahasa pemrograman level tinggi",
+          "bahasa pemrograman prosedural",
+          "bahasa pemrograman rakit",
+          "bahasa pengantar",
+          "bahasa pengguna akhir",
+          "bahasa penyalur",
+          "bahasa perantara",
+          "bahasa percakapan",
+          "bahasa peringkat tinggi",
+          "bahasa perintah",
+          "bahasa permintaan",
+          "bahasa pers",
+          "bahasa persatuan",
+          "bahasa pertama",
+          "bahasa pindahan",
+          "bahasa pinggiran",
+          "bahasa planet",
+          "bahasa politik",
+          "bahasa portabel",
+          "bahasa program",
+          "bahasa prokem",
+          "bahasa prosedural",
+          "bahasa purba",
+          "bahasa rakit",
+          "bahasa rakitan",
+          "bahasa remaja",
+          "bahasa resmi",
+          "bahasa roh",
+          "bahasa santai",
+          "bahasa sasaran",
+          "bahasa satem",
+          "bahasa sedang",
+          "bahasa sehari-hari",
+          "bahasa semu",
+          "bahasa silih",
+          "bahasa simbolik",
+          "bahasa sintetis",
+          "bahasa siulan",
+          "bahasa slang",
+          "bahasa sopan santun",
+          "bahasa standar",
+          "bahasa suku bangsa",
+          "bahasa sulung",
+          "bahasa sumber",
+          "bahasa tana",
+          "bahasa tarzan",
+          "bahasa teknis",
+          "bahasa terbalik",
+          "bahasa tingkat rendah",
+          "bahasa tonal",
+          "bahasa tubuh",
+          "bahasa tulis",
+          "bahasa tutur",
+          "bahasa umum",
+          "bahasa visual",
+          "bahasa vokalis",
+          "trigatra bangun bahasa"
+        ],
+        "peribahasa": [
+          "bahasa dan bangsa itu tiada dijual atau dibeli",
+          "bahasa menunjukkan bangsa",
+          "diam seribu bahasa"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7007",
+      "nama": "ba.ha.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata yang digunakan untuk menghubungkan bagian ujaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia menerangkan -- dia berasal dari keluarga baik-baik"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bahasa dan bangsa itu tiada dijual atau dibeli",
+          "bahasa menunjukkan bangsa",
+          "diam seribu bahasa"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7008",
+      "nama": "ba.ha.sa",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedikit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "angin berembus sepoi-sepoi -- (perlahan-lahan dan silir-semilir)"
+            },
+            {
+              "nomor": 4,
+              "teks": "rambutnya kusut-kusut -- (agak kusut)"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाषा bhāṣā n f 'ucapan; bahasa']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bahasa dan bangsa itu tiada dijual atau dibeli",
+          "bahasa menunjukkan bangsa",
+          "diam seribu bahasa"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

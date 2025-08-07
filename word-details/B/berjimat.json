@@ -1,1 +1,58 @@
-{"word":"berjimat","authenticated":true,"entries":[{"id":"34632","nama":"ber.ji.mat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai jimat; memakai jimat","contoh":[]}],"rootWord":"jimat¹"},{"id":"34634","nama":"ber.ji.mat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhemat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhati-hati; saksama","contoh":[]}],"rootWord":"jimat²"}]}
+{
+  "word": "berjimat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34632",
+      "nama": "ber.ji.mat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai jimat; memakai jimat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jimat¹"
+    },
+    {
+      "id": "34634",
+      "nama": "ber.ji.mat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhemat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhati-hati; saksama",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jimat²"
+    }
+  ]
+}

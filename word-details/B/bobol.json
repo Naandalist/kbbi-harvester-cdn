@@ -1,1 +1,80 @@
-{"word":"bobol","authenticated":true,"entries":[{"id":"12034","nama":"bo.bol","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"jebol atau rusak (tentang bendungan dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tembus (tentang barisan, pertahanan, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["bobolan","kebobolan","membobol","membobolkan","pembobol","pembobolan","terbobol"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"307948","nama":"bo.bol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Khm","nama":"Kaham","tipe":"lainnya"}],"definisi":"menyimpan perahu dalam posisi terbalik","contoh":[{"nomor":2,"teks":"paman selalu -- sampannya agar tidak digenangi air"}]}]}]}
+{
+  "word": "bobol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12034",
+      "nama": "bo.bol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jebol atau rusak (tentang bendungan dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tembus (tentang barisan, pertahanan, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bobolan",
+          "kebobolan",
+          "membobol",
+          "membobolkan",
+          "pembobol",
+          "pembobolan",
+          "terbobol"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "307948",
+      "nama": "bo.bol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Khm",
+              "nama": "Kaham",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyimpan perahu dalam posisi terbalik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman selalu -- sampannya agar tidak digenangi air"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

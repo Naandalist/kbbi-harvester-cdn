@@ -1,1 +1,88 @@
-{"word":"bontan","authenticated":true,"entries":[{"id":"145758","nama":"bon.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"sebutan untuk anak-anak yang kelelahan dari bepergian","contoh":[{"nomor":2,"teks":"adik tertidur pulas karena --"}]}]},{"id":"301430","nama":"bon.tan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"kambuh berulang-ulang (tentang penyakit)","contoh":[{"nomor":2,"teks":"karena daya tubuhnya lemah, kakak sering --"}]}]},{"id":"301433","nama":"bon.tan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tapai yang keras dan tidak berair karena proses peragiannya tidak sempurna","contoh":[]}]}]}
+{
+  "word": "bontan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "145758",
+      "nama": "bon.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sebutan untuk anak-anak yang kelelahan dari bepergian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik tertidur pulas karena --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301430",
+      "nama": "bon.tan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kambuh berulang-ulang (tentang penyakit)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena daya tubuhnya lemah, kakak sering --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301433",
+      "nama": "bon.tan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tapai yang keras dan tidak berair karena proses peragiannya tidak sempurna",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

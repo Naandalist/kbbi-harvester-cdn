@@ -1,1 +1,75 @@
-{"word":"berangka","authenticated":true,"entries":[{"id":"67322","nama":"be.rang.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai rangka; mempunyai bentuk (tentang bangunan)","contoh":[{"nomor":2,"teks":"binatang bersel satu itu tidak ~"}]}],"rootWord":"rangka¹"},{"id":"109226","nama":"ber.ang.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki angka","contoh":[]}],"rootWord":"angka¹"},{"id":"10510","nama":"be.rang.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"keranjang dari anyaman rotan","contoh":[]}]}]}
+{
+  "word": "berangka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67322",
+      "nama": "be.rang.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai rangka; mempunyai bentuk (tentang bangunan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "binatang bersel satu itu tidak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rangka¹"
+    },
+    {
+      "id": "109226",
+      "nama": "ber.ang.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki angka",
+          "contoh": []
+        }
+      ],
+      "rootWord": "angka¹"
+    },
+    {
+      "id": "10510",
+      "nama": "be.rang.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keranjang dari anyaman rotan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

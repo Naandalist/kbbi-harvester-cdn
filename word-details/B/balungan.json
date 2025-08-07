@@ -1,1 +1,139 @@
-{"word":"balungan","authenticated":true,"entries":[{"id":"206764","nama":"ba.lung.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tulang-tulangan (terutama tulang binatang sembelihan untuk campuran sayur)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kerangka rumah, kerangka cerita, dan sebagainya","contoh":[]}],"rootWord":"balung¹","terkait":{"kataTurunan":["pembalung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7665","nama":"ba.lu.ngan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"orkestra gamelan yang terdiri atas saron, demung, pekeng, dan selentem","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada-nada pokok dalam notasi gending karawitan jawa yang dimainkan dengan perangkat musik tertentu","contoh":[]}],"terkait":{"kataTurunan":["pembalung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"166813","nama":"ba.lu.ngan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Tsg","nama":"Minahasa Tonsawang","tipe":"lainnya"}],"definisi":"mencabut dengan cara menggoyak (seperti gigi, tonggak, pasak)","contoh":[{"nomor":2,"teks":"kalau gigimu tidak sakit lagi, -- saja"}]}]}]}
+{
+  "word": "balungan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "206764",
+      "nama": "ba.lung.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tulang-tulangan (terutama tulang binatang sembelihan untuk campuran sayur)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kerangka rumah, kerangka cerita, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "balung¹",
+      "terkait": {
+        "kataTurunan": [
+          "pembalung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7665",
+      "nama": "ba.lu.ngan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orkestra gamelan yang terdiri atas saron, demung, pekeng, dan selentem",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada-nada pokok dalam notasi gending karawitan jawa yang dimainkan dengan perangkat musik tertentu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pembalung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "166813",
+      "nama": "ba.lu.ngan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tsg",
+              "nama": "Minahasa Tonsawang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencabut dengan cara menggoyak (seperti gigi, tonggak, pasak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau gigimu tidak sakit lagi, -- saja"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

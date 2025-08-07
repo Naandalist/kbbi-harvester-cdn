@@ -1,1 +1,99 @@
-{"word":"bekal","authenticated":true,"entries":[{"id":"9445","nama":"be.kal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang disediakan (seperti makanan, uang) untuk digunakan dalam perjalanan","contoh":[{"nomor":2,"teks":"mereka membawa -- dalam perjalanan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu yang dapat digunakan kelak apabila perlu","contoh":[{"nomor":2,"teks":"ilmu pengetahuan adalah -- untuk hari tua"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"modal","contoh":[{"nomor":2,"teks":"-- saya dalam menempuh hidup hanyalah keberanian dan kejujuran"}]}],"terkait":{"kataTurunan":["bekal-bekalan","berbekal","berbekalkan","keterbekalan","membekali","membekalkan","pembekal","pembekalan","perbekalan"],"gabunganKata":["bekal akhirat","bekal kubur","bekal pengetahuan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bekal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9445",
+      "nama": "be.kal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang disediakan (seperti makanan, uang) untuk digunakan dalam perjalanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka membawa -- dalam perjalanan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dapat digunakan kelak apabila perlu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ilmu pengetahuan adalah -- untuk hari tua"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "modal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- saya dalam menempuh hidup hanyalah keberanian dan kejujuran"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bekal-bekalan",
+          "berbekal",
+          "berbekalkan",
+          "keterbekalan",
+          "membekali",
+          "membekalkan",
+          "pembekal",
+          "pembekalan",
+          "perbekalan"
+        ],
+        "gabunganKata": [
+          "bekal akhirat",
+          "bekal kubur",
+          "bekal pengetahuan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

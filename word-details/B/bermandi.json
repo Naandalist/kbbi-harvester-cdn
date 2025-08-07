@@ -1,1 +1,80 @@
-{"word":"bermandi","authenticated":true,"entries":[{"id":"51962","nama":"ber.man.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"banyak memperoleh","contoh":[{"nomor":2,"teks":"pada waktu itu para tengkulak benar-benar ~ uang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bersimbah; bersiram (dengan)","contoh":[{"nomor":2,"teks":"ia bekerja sama sampai ~ keringat"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berlumuran","contoh":[{"nomor":2,"teks":"~ darah"}]}],"rootWord":"mandi¹"}]}
+{
+  "word": "bermandi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51962",
+      "nama": "ber.man.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyak memperoleh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada waktu itu para tengkulak benar-benar ~ uang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersimbah; bersiram (dengan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bekerja sama sampai ~ keringat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlumuran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ darah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mandi¹"
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"basur","authenticated":true,"entries":[{"id":"178617","nama":"ba.sur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"menjadi bengkak karena penyakit (tentang kaki, badan)","contoh":[{"nomor":2,"teks":"kakinya -- karena penyakit biri-biri"}]}]},{"id":"205965","nama":"ba.sur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"entok jantan","contoh":[]}]},{"id":"211515","nama":"ba.sur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mentok jantan","contoh":[]}]}]}
+{
+  "word": "basur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "178617",
+      "nama": "ba.sur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menjadi bengkak karena penyakit (tentang kaki, badan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakinya -- karena penyakit biri-biri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "205965",
+      "nama": "ba.sur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "entok jantan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "211515",
+      "nama": "ba.sur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mentok jantan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

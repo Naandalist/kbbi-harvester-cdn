@@ -1,1 +1,56 @@
-{"word":"berpasang-pasang","authenticated":true,"entries":[{"id":"60642","nama":"ber.pa.sang-pa.sang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"beberapa pasang (jodoh, set, perangkat)","contoh":[{"nomor":2,"teks":"~ sandal"},{"nomor":4,"teks":"~ pakaian"}]},{"nomor":"2","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"berdua-dua; sepasang-pasang","contoh":[{"nomor":2,"teks":"menari ~"},{"nomor":4,"teks":"berjalan ~"}]}],"rootWord":"pasang¹"}]}
+{
+  "word": "berpasang-pasang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60642",
+      "nama": "ber.pa.sang-pa.sang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beberapa pasang (jodoh, set, perangkat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sandal"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ pakaian"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdua-dua; sepasang-pasang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menari ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "berjalan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pasang¹"
+    }
+  ]
+}

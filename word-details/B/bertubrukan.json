@@ -1,1 +1,43 @@
-{"word":"bertubrukan","authenticated":true,"entries":[{"id":"87530","nama":"ber.tub.ruk.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlanggaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak cocok, bertentangan","contoh":[]}],"rootWord":"tubruk"}]}
+{
+  "word": "bertubrukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87530",
+      "nama": "ber.tub.ruk.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlanggaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak cocok, bertentangan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tubruk"
+    }
+  ]
+}

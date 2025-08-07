@@ -1,1 +1,48 @@
-{"word":"bergalang","authenticated":true,"entries":[{"id":"23966","nama":"ber.ga.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai galang (bertumpu pada galang, berganjal, berbantal, dan sebagainya): berbantal (berganjal) tanah","contoh":[{"nomor":2,"teks":"~ tanah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sedang berada di galangan (tentang perahu)","contoh":[{"nomor":2,"teks":"perahu ~"}]}],"rootWord":"galang¹"}]}
+{
+  "word": "bergalang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23966",
+      "nama": "ber.ga.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai galang (bertumpu pada galang, berganjal, berbantal, dan sebagainya): berbantal (berganjal) tanah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedang berada di galangan (tentang perahu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "galang¹"
+    }
+  ]
+}

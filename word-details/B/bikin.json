@@ -1,1 +1,51 @@
-{"word":"bikin","authenticated":true,"entries":[{"id":"11394","nama":"bi.kin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"buat","contoh":[{"nomor":2,"teks":"anakku belajar -- origami di TK"}]}],"terkait":{"kataTurunan":["bikinan","membikin","membikin-bikin","pembikin","pembikinan","terbikin"],"gabunganKata":["bikin betul","bikin tinggi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bikin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11394",
+      "nama": "bi.kin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anakku belajar -- origami di TK"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bikinan",
+          "membikin",
+          "membikin-bikin",
+          "pembikin",
+          "pembikinan",
+          "terbikin"
+        ],
+        "gabunganKata": [
+          "bikin betul",
+          "bikin tinggi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

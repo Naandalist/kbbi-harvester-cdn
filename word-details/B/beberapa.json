@@ -1,1 +1,31 @@
-{"word":"beberapa","authenticated":true,"entries":[{"id":"9268","nama":"be.be.ra.pa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"jumlah yang tidak tentu banyaknya (bilangan lebih dari dua, tetapi tidak banyak)","contoh":[{"nomor":2,"teks":"ia membeli ~ buku di toko ini"}]}],"rootWord":"berapa"}]}
+{
+  "word": "beberapa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9268",
+      "nama": "be.be.ra.pa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jumlah yang tidak tentu banyaknya (bilangan lebih dari dua, tetapi tidak banyak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia membeli ~ buku di toko ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berapa"
+    }
+  ]
+}

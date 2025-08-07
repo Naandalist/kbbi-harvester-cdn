@@ -1,1 +1,48 @@
-{"word":"berkebetulan","authenticated":true,"entries":[{"id":"11054","nama":"ber.ke.be.tul.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(tidak sengaja) bertepatan waktunya","contoh":[{"nomor":2,"teks":"sebenarnya hanya ~ saja kami datang bersama-sama"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(tidak sengaja) bersamaan (selaras) halnya","contoh":[{"nomor":2,"teks":"untunglah keputusannya ~ dengan harapan saya"}]}],"rootWord":"betul"}]}
+{
+  "word": "berkebetulan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11054",
+      "nama": "ber.ke.be.tul.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(tidak sengaja) bertepatan waktunya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebenarnya hanya ~ saja kami datang bersama-sama"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(tidak sengaja) bersamaan (selaras) halnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untunglah keputusannya ~ dengan harapan saya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "betul"
+    }
+  ]
+}

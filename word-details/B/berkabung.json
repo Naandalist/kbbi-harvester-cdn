@@ -1,1 +1,55 @@
-{"word":"berkabung","authenticated":true,"entries":[{"id":"35468","nama":"ber.ka.bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai kabung (sebagai tanda berdukacita karena ada keluarga yang meninggal)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdukacita karena keluarga, kerabat, dan sebagainya meninggal","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"menampilkan perilaku berduka yang dipengaruhi oleh pola budaya","contoh":[]}],"rootWord":"kabung¹"}]}
+{
+  "word": "berkabung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35468",
+      "nama": "ber.ka.bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai kabung (sebagai tanda berdukacita karena ada keluarga yang meninggal)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdukacita karena keluarga, kerabat, dan sebagainya meninggal",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menampilkan perilaku berduka yang dipengaruhi oleh pola budaya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kabung¹"
+    }
+  ]
+}

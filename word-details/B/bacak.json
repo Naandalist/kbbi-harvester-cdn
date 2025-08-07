@@ -1,1 +1,72 @@
-{"word":"bacak","authenticated":true,"entries":[{"id":"6553","nama":"ba.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berbintik-bintik (tentang bulu)","contoh":[{"nomor":2,"teks":"ayam --"}]}]},{"id":"6554","nama":"ba.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ bacek","contoh":[]}]},{"id":"285154","nama":"ba.cak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"alat untuk menangkap babi atau rusa yang dibuat dari kayu dan anyaman rotan, diletakkan di tanah","contoh":[]}]}]}
+{
+  "word": "bacak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6553",
+      "nama": "ba.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berbintik-bintik (tentang bulu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6554",
+      "nama": "ba.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ bacek",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "285154",
+      "nama": "ba.cak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat untuk menangkap babi atau rusa yang dibuat dari kayu dan anyaman rotan, diletakkan di tanah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

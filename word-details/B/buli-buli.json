@@ -1,1 +1,76 @@
-{"word":"buli-buli","authenticated":true,"entries":[{"id":"13214","nama":"bu.li-bu.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wadah sejenis guci yang terbuat dari tanah liat, bentuknya bundar, tanpa leher, berkaki rendah, dan bagian atasnya diberi lubang; botol kecil; guci kecil","contoh":[]}]},{"id":"295162","nama":"bu.li-bu.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"berjalan berdempet-dempetan","contoh":[{"nomor":2,"teks":"kami -- di lorong itu karena sempit"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"berkumpul untuk melakukan kegiatan secara beramai-ramai, misalnya saat pembangunan rumah","contoh":[{"nomor":2,"teks":"kami -- di rumah raja untuk membangun rumah"}]}]}]}
+{
+  "word": "buli-buli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13214",
+      "nama": "bu.li-bu.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wadah sejenis guci yang terbuat dari tanah liat, bentuknya bundar, tanpa leher, berkaki rendah, dan bagian atasnya diberi lubang; botol kecil; guci kecil",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "295162",
+      "nama": "bu.li-bu.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berjalan berdempet-dempetan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami -- di lorong itu karena sempit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkumpul untuk melakukan kegiatan secara beramai-ramai, misalnya saat pembangunan rumah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami -- di rumah raja untuk membangun rumah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

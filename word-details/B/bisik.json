@@ -1,1 +1,76 @@
-{"word":"bisik","authenticated":true,"entries":[{"id":"11887","nama":"bi.sik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suara desis perlahan-lahan","contoh":[{"nomor":2,"teks":"sering kali terngiang dalam telingaku -- rayu kekasihku"}]}],"terkait":{"kataTurunan":["berbisik","berbisik-bisik","bisikan","membisik","membisiki","membisikkan","pembisik","pembisikan"],"gabunganKata":["bisik tetangga"],"peribahasa":[],"idiom":[]}},{"id":"244957","nama":"bi.sik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"serpihan kayu kecil yang tajam","contoh":[{"nomor":2,"teks":"kaki adik tertusuk --"}]}]}]}
+{
+  "word": "bisik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11887",
+      "nama": "bi.sik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suara desis perlahan-lahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sering kali terngiang dalam telingaku -- rayu kekasihku"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbisik",
+          "berbisik-bisik",
+          "bisikan",
+          "membisik",
+          "membisiki",
+          "membisikkan",
+          "pembisik",
+          "pembisikan"
+        ],
+        "gabunganKata": [
+          "bisik tetangga"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "244957",
+      "nama": "bi.sik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "serpihan kayu kecil yang tajam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaki adik tertusuk --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

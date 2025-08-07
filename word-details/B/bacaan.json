@@ -1,1 +1,82 @@
-{"word":"bacaan","authenticated":true,"entries":[{"id":"6547","nama":"ba.ca.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(buku dan sebagainya) yang dibaca","contoh":[{"nomor":2,"teks":"buku ~ untuk anak-anak"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cara membaca","contoh":[{"nomor":2,"teks":"~nya kurang lancar"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"penafsiran makna sebuah kalimat","contoh":[]}],"rootWord":"baca","terkait":{"kataTurunan":[],"gabunganKata":["bacaan asas","bacaan jahr","bacaan liar","bacaan niat","bacaan pendukung","bacaan rendah","bacaan sir"],"peribahasa":[],"idiom":["bacaan berat","bacaan ringan"]}}]}
+{
+  "word": "bacaan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6547",
+      "nama": "ba.ca.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(buku dan sebagainya) yang dibaca",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku ~ untuk anak-anak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cara membaca",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~nya kurang lancar"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penafsiran makna sebuah kalimat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "baca",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bacaan asas",
+          "bacaan jahr",
+          "bacaan liar",
+          "bacaan niat",
+          "bacaan pendukung",
+          "bacaan rendah",
+          "bacaan sir"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "bacaan berat",
+          "bacaan ringan"
+        ]
+      }
+    }
+  ]
+}

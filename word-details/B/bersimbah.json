@@ -1,1 +1,68 @@
-{"word":"bersimbah","authenticated":true,"entries":[{"id":"77195","nama":"ber.sim.bah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"basah (karena tersiram air dan sebagainya); berlumuran (darah dan sebagainya)","contoh":[{"nomor":2,"teks":"~ peluh"},{"nomor":4,"teks":"~ darah"}]}],"rootWord":"simbah¹","terkait":{"kataTurunan":[],"gabunganKata":["bersimbah darah"],"peribahasa":[],"idiom":[]}},{"id":"77200","nama":"ber.sim.bah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"digulung ke atas (tentang lengan baju); ditarik ke atas supaya pendek (tentang kain dan sebagainya); disingsingkan","contoh":[{"nomor":2,"teks":"berlari sambil ~ kain"}]}],"rootWord":"simbah²"}]}
+{
+  "word": "bersimbah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77195",
+      "nama": "ber.sim.bah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "basah (karena tersiram air dan sebagainya); berlumuran (darah dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ peluh"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ darah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "simbah¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bersimbah darah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "77200",
+      "nama": "ber.sim.bah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "digulung ke atas (tentang lengan baju); ditarik ke atas supaya pendek (tentang kain dan sebagainya); disingsingkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berlari sambil ~ kain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "simbah²"
+    }
+  ]
+}

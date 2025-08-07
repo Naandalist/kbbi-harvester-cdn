@@ -1,1 +1,83 @@
-{"word":"beruban","authenticated":true,"entries":[{"id":"88812","nama":"ber.u.ban","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah ada ubannya; sudah tumbuh uban","contoh":[{"nomor":2,"teks":"orangnya masih muda, tetapi sudah ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sudah lama atau berpengalaman banyak dalam suatu pekerjaan","contoh":[{"nomor":2,"teks":"ia pun sudah ~ dalam perdagangan hasil bumi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"(sudah) tua; lanjut usia","contoh":[{"nomor":2,"teks":"kamu ini sudah ~, tidak pantas bertingkah begitu"}]}],"rootWord":"uban","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sudah beruban, baru berguam"],"idiom":[]}}]}
+{
+  "word": "beruban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88812",
+      "nama": "ber.u.ban",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah ada ubannya; sudah tumbuh uban",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orangnya masih muda, tetapi sudah ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah lama atau berpengalaman banyak dalam suatu pekerjaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pun sudah ~ dalam perdagangan hasil bumi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(sudah) tua; lanjut usia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kamu ini sudah ~, tidak pantas bertingkah begitu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "uban",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sudah beruban, baru berguam"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

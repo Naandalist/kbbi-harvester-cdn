@@ -1,1 +1,63 @@
-{"word":"berolak","authenticated":true,"entries":[{"id":"57917","nama":"ber.o.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berputar; berpusing; berkisar","contoh":[{"nomor":2,"teks":"bumi ~ pada porosnya"}]}],"rootWord":"olak¹"},{"id":"57921","nama":"ber.o.lak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak kuat lagi (tentang badan dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak manjur lagi (tentang obat)","contoh":[]}],"rootWord":"olak³"}]}
+{
+  "word": "berolak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57917",
+      "nama": "ber.o.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berputar; berpusing; berkisar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bumi ~ pada porosnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "olak¹"
+    },
+    {
+      "id": "57921",
+      "nama": "ber.o.lak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak kuat lagi (tentang badan dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak manjur lagi (tentang obat)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "olak³"
+    }
+  ]
+}

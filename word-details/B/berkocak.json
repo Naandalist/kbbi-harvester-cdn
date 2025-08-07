@@ -1,1 +1,68 @@
-{"word":"berkocak","authenticated":true,"entries":[{"id":"42450","nama":"ber.ko.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berguncang (tentang benda cair)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpalu (tentang ombak di pantai dan sebagainya)","contoh":[{"nomor":2,"teks":"ombak ~ pada batu karang"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi keruh atau tidak berseri-seri (tentang mata); menjadi rusuh (gelisah)","contoh":[{"nomor":2,"teks":"matanya (hatinya) ~"}]}],"rootWord":"kocak¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berkocak tanda tak penuh"],"idiom":[]}}]}
+{
+  "word": "berkocak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42450",
+      "nama": "ber.ko.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berguncang (tentang benda cair)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpalu (tentang ombak di pantai dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ombak ~ pada batu karang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi keruh atau tidak berseri-seri (tentang mata); menjadi rusuh (gelisah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya (hatinya) ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kocak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berkocak tanda tak penuh"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

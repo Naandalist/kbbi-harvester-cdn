@@ -1,1 +1,98 @@
-{"word":"becak","authenticated":true,"entries":[{"id":"9283","nama":"be.cak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kendaraan umum kayuh beroda tiga, memiliki satu sadel di belakang untuk pengayuh dan tempat duduk beratap di depan untuk penumpang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"angkong (kereta beroda dua yang dihela orang)","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 馬車 bé chhia 'kereta kuda']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":["becak-becakan","berbecak","berbecak-becakan","pembecak","berbecak-becak"],"gabunganKata":["becak dayung","becak kayuh","becak listrik","becak motor"],"peribahasa":[],"idiom":[]}},{"id":"9281","nama":"be.cak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bercak","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 馬車 bé chhia 'kereta kuda']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":["berbecak-becak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "becak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9283",
+      "nama": "be.cak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kendaraan umum kayuh beroda tiga, memiliki satu sadel di belakang untuk pengayuh dan tempat duduk beratap di depan untuk penumpang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angkong (kereta beroda dua yang dihela orang)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 馬車 bé chhia 'kereta kuda']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "becak-becakan",
+          "berbecak",
+          "berbecak-becakan",
+          "pembecak",
+          "berbecak-becak"
+        ],
+        "gabunganKata": [
+          "becak dayung",
+          "becak kayuh",
+          "becak listrik",
+          "becak motor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "9281",
+      "nama": "be.cak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 馬車 bé chhia 'kereta kuda']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berbecak-becak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

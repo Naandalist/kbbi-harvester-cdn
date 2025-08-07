@@ -1,1 +1,106 @@
-{"word":"bantut","authenticated":true,"entries":[{"id":"8208","nama":"ban.tut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hambat","contoh":[]}],"terkait":{"kataTurunan":["membantut","terbantut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"8211","nama":"ban.tut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"mengobati penyakit dengan cara memindahkannya ke tempat atau ke benda lain","contoh":[]}]},{"id":"253718","nama":"ban.tut","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bkt","nama":"Bakatik","tipe":"lainnya"}],"definisi":"babi jantan yang dikebiri, biasanya untuk diambil dagingnya","contoh":[]}]},{"id":"281568","nama":"ban.tut","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"pepes yang matang di luar, tetapi mentah di dalam","contoh":[]}]}]}
+{
+  "word": "bantut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8208",
+      "nama": "ban.tut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hambat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membantut",
+          "terbantut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "8211",
+      "nama": "ban.tut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengobati penyakit dengan cara memindahkannya ke tempat atau ke benda lain",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "253718",
+      "nama": "ban.tut",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bkt",
+              "nama": "Bakatik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "babi jantan yang dikebiri, biasanya untuk diambil dagingnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "281568",
+      "nama": "ban.tut",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pepes yang matang di luar, tetapi mentah di dalam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

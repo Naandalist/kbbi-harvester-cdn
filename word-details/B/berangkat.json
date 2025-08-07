@@ -1,1 +1,60 @@
-{"word":"berangkat","authenticated":true,"entries":[{"id":"10512","nama":"be.rang.kat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai berjalan (pergi, bepergian)","contoh":[{"nomor":2,"teks":"kereta akan segera --, mari kita naik"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai menjadi (besar, akil balig); beranjak","contoh":[{"nomor":2,"teks":"anak itu sudah -- dewasa"}]}],"terkait":{"kataTurunan":["keberangkatan","memberangkatkan","pemberangkatan","seberangkat"],"gabunganKata":[],"peribahasa":["bagai bajak wangkang makan berangkat"],"idiom":[]}}]}
+{
+  "word": "berangkat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10512",
+      "nama": "be.rang.kat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai berjalan (pergi, bepergian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kereta akan segera --, mari kita naik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai menjadi (besar, akil balig); beranjak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu sudah -- dewasa"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keberangkatan",
+          "memberangkatkan",
+          "pemberangkatan",
+          "seberangkat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai bajak wangkang makan berangkat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

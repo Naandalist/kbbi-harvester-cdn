@@ -1,1 +1,58 @@
-{"word":"bi-","authenticated":true,"entries":[{"id":"195081","nama":"bi-","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"tidak; tiada","contoh":[{"nomor":2,"teks":"biadab"},{"nomor":4,"teks":"biadat"}]}]},{"id":"11075","nama":"bi-","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"dua; dua kali; rangkap dua; yang menunjuk pada keduanya","contoh":[{"nomor":2,"teks":"bilateral"}]}]}]}
+{
+  "word": "bi-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "195081",
+      "nama": "bi-",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak; tiada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "biadab"
+            },
+            {
+              "nomor": 4,
+              "teks": "biadat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11075",
+      "nama": "bi-",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dua; dua kali; rangkap dua; yang menunjuk pada keduanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bilateral"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

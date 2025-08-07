@@ -1,1 +1,64 @@
-{"word":"berontak","authenticated":true,"entries":[{"id":"10801","nama":"be.ron.tak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meronta-ronta hendak melepaskan diri","contoh":[{"nomor":2,"teks":"walaupun sudah diikat, kuda itu -- hendak melepaskan diri"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memberontak","contoh":[{"nomor":2,"teks":"adiknya --, tidak mau disuruh belajar"}]}],"terkait":{"kataTurunan":["memberontak","pemberontak","pemberontakan"],"gabunganKata":[],"peribahasa":["berakal ke lutut, berontak ke empu kaki"],"idiom":[]}}]}
+{
+  "word": "berontak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10801",
+      "nama": "be.ron.tak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meronta-ronta hendak melepaskan diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "walaupun sudah diikat, kuda itu -- hendak melepaskan diri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberontak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adiknya --, tidak mau disuruh belajar"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memberontak",
+          "pemberontak",
+          "pemberontakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berakal ke lutut, berontak ke empu kaki"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

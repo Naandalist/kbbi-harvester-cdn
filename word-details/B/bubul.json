@@ -1,1 +1,175 @@
-{"word":"bubul","authenticated":true,"entries":[{"id":"12789","nama":"bu.bul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bisul pada tumit orang atau pada kuku kuda (ada beberapa jenis seperti -- bubu, -- gantang, -- galai)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"bisul di telapak kaki","contoh":[]}],"terkait":{"kataTurunan":["membubul"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"12790","nama":"bu.bul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tambal (jala, jaring, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["membubul"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"12792","nama":"bu.bul","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial membubul","contoh":[]}],"terkait":{"kataTurunan":["membubul"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"193454","nama":"bu.bul","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pongge yang berkecambah","contoh":[]}]},{"id":"196746","nama":"bu.bul","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"laku dengan harga yang murah (tentang sapi)","contoh":[{"nomor":2,"teks":"sapi yang sakit biasanya akan dijual dengan sistem --"}]}]},{"id":"252976","nama":"bu.bul","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bgi","nama":"Banggai","tipe":"lainnya"}],"definisi":"pakan ayam, bebek dan sebagainya yang diambil dari ampas kelapa atau sisa makanan","contoh":[]}]}]}
+{
+  "word": "bubul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12789",
+      "nama": "bu.bul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bisul pada tumit orang atau pada kuku kuda (ada beberapa jenis seperti -- bubu, -- gantang, -- galai)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bisul di telapak kaki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membubul"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "12790",
+      "nama": "bu.bul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tambal (jala, jaring, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membubul"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "12792",
+      "nama": "bu.bul",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial membubul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membubul"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "193454",
+      "nama": "bu.bul",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pongge yang berkecambah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "196746",
+      "nama": "bu.bul",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "laku dengan harga yang murah (tentang sapi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sapi yang sakit biasanya akan dijual dengan sistem --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "252976",
+      "nama": "bu.bul",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bgi",
+              "nama": "Banggai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pakan ayam, bebek dan sebagainya yang diambil dari ampas kelapa atau sisa makanan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

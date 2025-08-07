@@ -1,1 +1,54 @@
-{"word":"bades","authenticated":true,"entries":[{"id":"132988","nama":"ba.des","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"biang keringat","contoh":[]}]},{"id":"285482","nama":"ba.des","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tidak berbuah (tentang tanaman padi)","contoh":[]}]}]}
+{
+  "word": "bades",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "132988",
+      "nama": "ba.des",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "biang keringat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "285482",
+      "nama": "ba.des",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak berbuah (tentang tanaman padi)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

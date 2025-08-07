@@ -1,1 +1,93 @@
-{"word":"boba","authenticated":true,"entries":[{"id":"181436","nama":"bo.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bola tapioka berstruktur kenyal, terdapat dalam makanan atau minuman, seperti teh susu, jus, kopi, kue","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"minuman yang terbuat dari teh atau susu dengan perisa atau pemanis tertentu yang dilengkapi dengan boba","contoh":[]}],"terkait":{"kataTurunan":["berboba"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"159188","nama":"bo.ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kal","nama":"Kaili","tipe":"lainnya"}],"definisi":"pintu pagar","contoh":[]}]},{"id":"259174","nama":"bo.ba","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"luka berukuran besar dan susah sembuh","contoh":[]}]}]}
+{
+  "word": "boba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "181436",
+      "nama": "bo.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bola tapioka berstruktur kenyal, terdapat dalam makanan atau minuman, seperti teh susu, jus, kopi, kue",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "minuman yang terbuat dari teh atau susu dengan perisa atau pemanis tertentu yang dilengkapi dengan boba",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berboba"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "159188",
+      "nama": "bo.ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kal",
+              "nama": "Kaili",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pintu pagar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259174",
+      "nama": "bo.ba",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "luka berukuran besar dan susah sembuh",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

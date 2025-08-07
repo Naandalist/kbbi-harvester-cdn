@@ -1,1 +1,301 @@
-{"word":"bangun","authenticated":true,"entries":[{"id":"8000","nama":"ba.ngun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bangkit; berdiri (dari duduk, tidur, dan sebagainya)","contoh":[{"nomor":2,"teks":"anak itu berkali-kali terjatuh, tetapi ia selalu dapat -- kembali"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jaga (dari tidur)","contoh":[{"nomor":2,"teks":"setiap pagi ia -- pukul 04.00"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"belum (tidak) tidur; jaga","contoh":[{"nomor":2,"teks":"sewaktu suaminya pulang larut malam, ia masih --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"siuman dari pingsan; mendusin","contoh":[{"nomor":2,"teks":"ia -- setelah kepalanya diguyur air"},{"nomor":4,"teks":"kalau tidak mendengar ledakan itu, saya tidak --"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai sadar (insaf) akan nasibnya","contoh":[{"nomor":2,"teks":"bangsa terjajah mulai -- menuntut kemerdekaannya"},{"nomor":4,"teks":"kaum buruh mulai -- menuntut perbaikan nasib"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai memuai (tentang adonan)","contoh":[{"nomor":2,"teks":"dengan ditutup rapat-rapat adonan itu akan cepat --"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai menjadi cair (tentang minyak kelapa yang beku)","contoh":[{"nomor":2,"teks":"hangatkan minyak kelapa itu supaya lekas --"}]}],"terkait":{"kataTurunan":["kebangun","kebangunan","membangun","membanguni","membangunkan","terbangun","bangun-bangun","bangunan","kesebangunan","keterbangunan","pembangun","pembangunan","sebangun"],"gabunganKata":["bangun jahat","bangun datar","bangun geometrik","bangun guna serah","bangun identik","bangun kongruen","bangun ruang","bangun serah guna","bangun serupa"],"peribahasa":["laksana janda baru bangun","menangis daun bangun-bangun hendak sama dengan hilir air"],"idiom":["bagai sambau di tengah jalan (yang rebah bangun karena terinjak)","jatuh bangun (2)"]}},{"id":"8005","nama":"ba.ngun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk (bulat, segi empat, dan sebagainya)","contoh":[{"nomor":2,"teks":"kaca meja itu bulat telur --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cara menyusun atau susunan yang merupakan suatu wujud; struktur","contoh":[{"nomor":2,"teks":"menyelidiki -- tanah"}]}],"terkait":{"kataTurunan":["bangun-bangun","bangunan","kesebangunan","keterbangunan","membangun","pembangun","pembangunan","sebangun","terbangun"],"gabunganKata":["bangun datar","bangun geometrik","bangun guna serah","bangun identik","bangun kongruen","bangun ruang","bangun serah guna","bangun serupa"],"peribahasa":["laksana janda baru bangun","menangis daun bangun-bangun hendak sama dengan hilir air"],"idiom":["bagai sambau di tengah jalan (yang rebah bangun karena terinjak)","jatuh bangun (2)"]}},{"id":"8027","nama":"ba.ngun","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uang ganti rugi karena membunuh, melukai, dan sebagainya; denda adat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"denda berupa uang duka yang harus diberikan oleh seorang laki-laki kepada perempuan bersuami yang telah melakukan hubungan seksual dengannya dan hubungan itu mengakibatkan kematian suami perempuan itu ataupun mengakibatkan perceraian","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["laksana janda baru bangun","menangis daun bangun-bangun hendak sama dengan hilir air"],"idiom":["bagai sambau di tengah jalan (yang rebah bangun karena terinjak)","jatuh bangun (2)"]}}]}
+{
+  "word": "bangun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8000",
+      "nama": "ba.ngun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangkit; berdiri (dari duduk, tidur, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu berkali-kali terjatuh, tetapi ia selalu dapat -- kembali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jaga (dari tidur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap pagi ia -- pukul 04.00"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum (tidak) tidur; jaga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sewaktu suaminya pulang larut malam, ia masih --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siuman dari pingsan; mendusin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- setelah kepalanya diguyur air"
+            },
+            {
+              "nomor": 4,
+              "teks": "kalau tidak mendengar ledakan itu, saya tidak --"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai sadar (insaf) akan nasibnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bangsa terjajah mulai -- menuntut kemerdekaannya"
+            },
+            {
+              "nomor": 4,
+              "teks": "kaum buruh mulai -- menuntut perbaikan nasib"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai memuai (tentang adonan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan ditutup rapat-rapat adonan itu akan cepat --"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai menjadi cair (tentang minyak kelapa yang beku)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hangatkan minyak kelapa itu supaya lekas --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebangun",
+          "kebangunan",
+          "membangun",
+          "membanguni",
+          "membangunkan",
+          "terbangun",
+          "bangun-bangun",
+          "bangunan",
+          "kesebangunan",
+          "keterbangunan",
+          "pembangun",
+          "pembangunan",
+          "sebangun"
+        ],
+        "gabunganKata": [
+          "bangun jahat",
+          "bangun datar",
+          "bangun geometrik",
+          "bangun guna serah",
+          "bangun identik",
+          "bangun kongruen",
+          "bangun ruang",
+          "bangun serah guna",
+          "bangun serupa"
+        ],
+        "peribahasa": [
+          "laksana janda baru bangun",
+          "menangis daun bangun-bangun hendak sama dengan hilir air"
+        ],
+        "idiom": [
+          "bagai sambau di tengah jalan (yang rebah bangun karena terinjak)",
+          "jatuh bangun (2)"
+        ]
+      }
+    },
+    {
+      "id": "8005",
+      "nama": "ba.ngun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk (bulat, segi empat, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaca meja itu bulat telur --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cara menyusun atau susunan yang merupakan suatu wujud; struktur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menyelidiki -- tanah"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bangun-bangun",
+          "bangunan",
+          "kesebangunan",
+          "keterbangunan",
+          "membangun",
+          "pembangun",
+          "pembangunan",
+          "sebangun",
+          "terbangun"
+        ],
+        "gabunganKata": [
+          "bangun datar",
+          "bangun geometrik",
+          "bangun guna serah",
+          "bangun identik",
+          "bangun kongruen",
+          "bangun ruang",
+          "bangun serah guna",
+          "bangun serupa"
+        ],
+        "peribahasa": [
+          "laksana janda baru bangun",
+          "menangis daun bangun-bangun hendak sama dengan hilir air"
+        ],
+        "idiom": [
+          "bagai sambau di tengah jalan (yang rebah bangun karena terinjak)",
+          "jatuh bangun (2)"
+        ]
+      }
+    },
+    {
+      "id": "8027",
+      "nama": "ba.ngun",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang ganti rugi karena membunuh, melukai, dan sebagainya; denda adat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "denda berupa uang duka yang harus diberikan oleh seorang laki-laki kepada perempuan bersuami yang telah melakukan hubungan seksual dengannya dan hubungan itu mengakibatkan kematian suami perempuan itu ataupun mengakibatkan perceraian",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "laksana janda baru bangun",
+          "menangis daun bangun-bangun hendak sama dengan hilir air"
+        ],
+        "idiom": [
+          "bagai sambau di tengah jalan (yang rebah bangun karena terinjak)",
+          "jatuh bangun (2)"
+        ]
+      }
+    }
+  ]
+}

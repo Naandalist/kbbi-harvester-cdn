@@ -1,1 +1,112 @@
-{"word":"budak","authenticated":true,"entries":[{"id":"12832","nama":"bu.dak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anak; kanak-kanak","contoh":[{"nomor":2,"teks":"-- bermain layang-layang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"antek; hamba; jongos; orang gajian","contoh":[{"nomor":2,"teks":"aku bukan --mu"}]}],"terkait":{"kataTurunan":["berbudak-budak","kebudak-budakan","membudak","membudakkan","memperbudak","pembudakan","perbudakan"],"gabunganKata":["budak belian","budak cinta","budak dalam","budak konten","budak korporat","budak mukatab","budak nafsu","budak rampasan","budak sahaya","budak seks"],"peribahasa":["bagai budak-budak makan pisang","bukan budak makan pisang","kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak","membekali budak lari"],"idiom":[]}},{"id":"278051","nama":"bu.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"wadah gabah yang dibuat dari anyaman bambu (dengan pola anyaman yang rapat)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai budak-budak makan pisang","bukan budak makan pisang","kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak","membekali budak lari"],"idiom":[]}}]}
+{
+  "word": "budak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12832",
+      "nama": "bu.dak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anak; kanak-kanak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bermain layang-layang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "antek; hamba; jongos; orang gajian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku bukan --mu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbudak-budak",
+          "kebudak-budakan",
+          "membudak",
+          "membudakkan",
+          "memperbudak",
+          "pembudakan",
+          "perbudakan"
+        ],
+        "gabunganKata": [
+          "budak belian",
+          "budak cinta",
+          "budak dalam",
+          "budak konten",
+          "budak korporat",
+          "budak mukatab",
+          "budak nafsu",
+          "budak rampasan",
+          "budak sahaya",
+          "budak seks"
+        ],
+        "peribahasa": [
+          "bagai budak-budak makan pisang",
+          "bukan budak makan pisang",
+          "kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak",
+          "membekali budak lari"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278051",
+      "nama": "bu.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah gabah yang dibuat dari anyaman bambu (dengan pola anyaman yang rapat)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai budak-budak makan pisang",
+          "bukan budak makan pisang",
+          "kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak",
+          "membekali budak lari"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

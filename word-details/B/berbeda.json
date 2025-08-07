@@ -1,1 +1,31 @@
-{"word":"berbeda","authenticated":true,"entries":[{"id":"9305","nama":"ber.be.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada bedanya; berlainan","contoh":[{"nomor":2,"teks":"mereka mempunyai potongan rambut yang ~, seorang panjang dan seorang lagi pendek"}]}],"rootWord":"beda"}]}
+{
+  "word": "berbeda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9305",
+      "nama": "ber.be.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada bedanya; berlainan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka mempunyai potongan rambut yang ~, seorang panjang dan seorang lagi pendek"
+            }
+          ]
+        }
+      ],
+      "rootWord": "beda"
+    }
+  ]
+}

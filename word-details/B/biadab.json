@@ -1,1 +1,85 @@
-{"word":"biadab","authenticated":true,"entries":[{"id":"11079","nama":"bi.a.dab","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"belum beradab; belum maju kebudayaannya","contoh":[{"nomor":2,"teks":"bangsa-bangsa -- masih banyak yang suka makan orang"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak tahu adat (sopan santun); kurang ajar","contoh":[{"nomor":2,"teks":"anak itu -- benar, tidak segan mengucapkan kata-kata kotor di hadapan umum"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tidak beradab; kejam","contoh":[{"nomor":2,"teks":"pemerkosaan anak di bawah umur adalah perbuatan yang --"}]}],"etimologi":{"text":"[Persia بى ادب bī-adab a 'tidak sopan']","languages":["Persia"]},"terkait":{"kataTurunan":["kebiadaban","membiadabi","terbiadab"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "biadab",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11079",
+      "nama": "bi.a.dab",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum beradab; belum maju kebudayaannya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bangsa-bangsa -- masih banyak yang suka makan orang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak tahu adat (sopan santun); kurang ajar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu -- benar, tidak segan mengucapkan kata-kata kotor di hadapan umum"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak beradab; kejam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerkosaan anak di bawah umur adalah perbuatan yang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia بى ادب bī-adab a 'tidak sopan']",
+        "languages": [
+          "Persia"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kebiadaban",
+          "membiadabi",
+          "terbiadab"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

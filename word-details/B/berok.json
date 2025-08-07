@@ -1,1 +1,94 @@
-{"word":"berok","authenticated":true,"entries":[{"id":"10777","nama":"be.rok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sampan kecil, terbuat dari kayu, tidak bertutup, digunakan untuk mengangkut orang","contoh":[{"nomor":2,"teks":"mereka semua naik -- menuju pulau itu"}]}],"terkait":{"kataTurunan":["pemberokan"],"gabunganKata":["berok gantung","berok goler"],"peribahasa":[],"idiom":[]}},{"id":"10778","nama":"be.rok","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial pemberokan","contoh":[]}],"terkait":{"kataTurunan":["pemberokan"],"gabunganKata":["berok gantung","berok goler"],"peribahasa":[],"idiom":[]}},{"id":"10776","nama":"be.rok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"perut bagian bawah: burut","contoh":[{"nomor":2,"teks":"turun --"}]}]}]}
+{
+  "word": "berok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10777",
+      "nama": "be.rok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampan kecil, terbuat dari kayu, tidak bertutup, digunakan untuk mengangkut orang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka semua naik -- menuju pulau itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pemberokan"
+        ],
+        "gabunganKata": [
+          "berok gantung",
+          "berok goler"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "10778",
+      "nama": "be.rok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial pemberokan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pemberokan"
+        ],
+        "gabunganKata": [
+          "berok gantung",
+          "berok goler"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "10776",
+      "nama": "be.rok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perut bagian bawah: burut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "turun --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

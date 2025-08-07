@@ -1,1 +1,54 @@
-{"word":"bongkrek","authenticated":true,"entries":[{"id":"12323","nama":"bong.krek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ampas kacang kedelai yang sudah diambil minyaknya","contoh":[{"nomor":2,"teks":"tempe --"}]}]},{"id":"109666","nama":"bong.krek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"burung yang berasal dari keluarga Timaliidae dan genus Pomatorhinus, berpenampilan cantik dengan ekor panjang, alis putih mencolok, berparuh panjang melengkung ke bawah dan bersuara monoton; cica kopi melayu〔Pomatorhinus montanus〕","contoh":[]}]}]}
+{
+  "word": "bongkrek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12323",
+      "nama": "bong.krek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ampas kacang kedelai yang sudah diambil minyaknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tempe --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109666",
+      "nama": "bong.krek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "burung yang berasal dari keluarga Timaliidae dan genus Pomatorhinus, berpenampilan cantik dengan ekor panjang, alis putih mencolok, berparuh panjang melengkung ke bawah dan bersuara monoton; cica kopi melayu〔Pomatorhinus montanus〕",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,128 @@
-{"word":"bubar","authenticated":true,"entries":[{"id":"12764","nama":"bu.bar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercerai-berai ke mana-mana (tentang orang ramai yang berkumpul); berserak-serak ke sana kemari","contoh":[{"nomor":2,"teks":"demonstran -- setelah petugas melepaskan tembakan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"selesai; usai (tentang pasar, rapat, upacara, dan sebagainya)","contoh":[{"nomor":2,"teks":"upacara -- pukul sepuluh siang"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"selesai tugas; berhenti bertugas (tentang panitia, dewan, kabinet, dan sebagainya)","contoh":[{"nomor":2,"teks":"panitia perayaan -- setelah upacara selesai"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ditiadakan (tentang perserikatan, kongsi, dan sebagainya)","contoh":[{"nomor":2,"teks":"kalau suatu perkumpulan --, harta bendanya dapat didermakan kepada badan sosial"}]}],"etimologi":{"text":"[Jawa Kuno bubar 'bubar, berhamburan, berhembalang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bubaran","membubarkan","pembubar","pembubaran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"224922","nama":"bu.bar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"buka bareng","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bubar 'bubar, berhamburan, berhembalang']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "bubar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12764",
+      "nama": "bu.bar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercerai-berai ke mana-mana (tentang orang ramai yang berkumpul); berserak-serak ke sana kemari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "demonstran -- setelah petugas melepaskan tembakan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selesai; usai (tentang pasar, rapat, upacara, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "upacara -- pukul sepuluh siang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selesai tugas; berhenti bertugas (tentang panitia, dewan, kabinet, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "panitia perayaan -- setelah upacara selesai"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ditiadakan (tentang perserikatan, kongsi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau suatu perkumpulan --, harta bendanya dapat didermakan kepada badan sosial"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bubar 'bubar, berhamburan, berhembalang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bubaran",
+          "membubarkan",
+          "pembubar",
+          "pembubaran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "224922",
+      "nama": "bu.bar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buka bareng",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bubar 'bubar, berhamburan, berhembalang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

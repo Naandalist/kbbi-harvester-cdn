@@ -1,1 +1,106 @@
-{"word":"berbelaskasihan","authenticated":true,"entries":[{"id":"1","nama":"ber.bel.as.kasih.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengasihan","contoh":[{"nomor":1,"teks":"semua orang -- terhadap anak kecil itu"}]}],"rootWord":"berbelaskasihberbelaskasihan"},{"id":"2","nama":"ber.bel.as.kasih.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaruh rasa iba","contoh":[{"teks":"ia -- melihat anak kecil itu terpisah dari orang tuanya","nomor":1}]}],"rootWord":"berbelaskasihberbelaskasihan"},{"id":"3","nama":"ber.bel.as.kasih.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengasihani","contoh":[{"teks":"semua orang -- anak kecil itu","nomor":1}]}],"rootWord":"berbelaskasihberbelaskasihan"},{"id":"4","nama":"ber.bel.as.kasih.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa iba","contoh":[{"teks":"saya -- melihat keadaan itu","nomor":1}]}],"rootWord":"berbelaskasihberbelaskasihan"}]}
+{
+  "word": "berbelaskasihan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ber.bel.as.kasih.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengasihan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "semua orang -- terhadap anak kecil itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berbelaskasihberbelaskasihan"
+    },
+    {
+      "id": "2",
+      "nama": "ber.bel.as.kasih.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaruh rasa iba",
+          "contoh": [
+            {
+              "teks": "ia -- melihat anak kecil itu terpisah dari orang tuanya",
+              "nomor": 1
+            }
+          ]
+        }
+      ],
+      "rootWord": "berbelaskasihberbelaskasihan"
+    },
+    {
+      "id": "3",
+      "nama": "ber.bel.as.kasih.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengasihani",
+          "contoh": [
+            {
+              "teks": "semua orang -- anak kecil itu",
+              "nomor": 1
+            }
+          ]
+        }
+      ],
+      "rootWord": "berbelaskasihberbelaskasihan"
+    },
+    {
+      "id": "4",
+      "nama": "ber.bel.as.kasih.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa iba",
+          "contoh": [
+            {
+              "teks": "saya -- melihat keadaan itu",
+              "nomor": 1
+            }
+          ]
+        }
+      ],
+      "rootWord": "berbelaskasihberbelaskasihan"
+    }
+  ]
+}

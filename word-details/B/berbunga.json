@@ -1,1 +1,102 @@
-{"word":"berbunga","authenticated":true,"entries":[{"id":"13437","nama":"ber.bu.nga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai bunga","contoh":[{"nomor":2,"teks":"mangga itu sudah mulai ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai hiasan yang bagus-bagus","contoh":[{"nomor":2,"teks":"bajunya ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhasil","contoh":[{"nomor":2,"teks":"usaha kita sudah ~"}]}],"rootWord":"bunga¹"},{"id":"13452","nama":"ber.bu.nga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada bunganya (rentenya)","contoh":[{"nomor":2,"teks":"pinjaman ini tidak ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gadai dengan sejumlah uang sebagai bunga","contoh":[]}],"rootWord":"bunga²"}]}
+{
+  "word": "berbunga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13437",
+      "nama": "ber.bu.nga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai bunga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mangga itu sudah mulai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai hiasan yang bagus-bagus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bajunya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhasil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "usaha kita sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bunga¹"
+    },
+    {
+      "id": "13452",
+      "nama": "ber.bu.nga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada bunganya (rentenya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pinjaman ini tidak ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gadai dengan sejumlah uang sebagai bunga",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bunga²"
+    }
+  ]
+}

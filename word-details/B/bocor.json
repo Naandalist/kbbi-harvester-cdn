@@ -1,1 +1,134 @@
-{"word":"bocor","authenticated":true,"entries":[{"id":"12064","nama":"bo.cor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlubang sehingga air (udara) dapat keluar atau masuk; tiris","contoh":[{"nomor":2,"teks":"gantilah cepat-cepat genting yang -- itu"},{"nomor":4,"teks":"karena teko ini --, isinya makin lama makin berkurang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersiar sedikit-sedikit (tentang rahasia dan sebagainya)","contoh":[{"nomor":2,"teks":"hasil perundingan yang dirahasiakan itu akhirnya -- juga"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kerap kali buang air","contoh":[{"nomor":2,"teks":"karena banyak makan sambal, semalam anakku --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengeluarkan darah","contoh":[{"nomor":2,"teks":"dia jatuh sehingga -- kepalanya"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"datang bulan; haid","contoh":[{"nomor":2,"teks":"hari ini aku tidak puasa karena sedang --"}]}],"terkait":{"kataTurunan":["bocoran","kebocoran","membocori","membocorkan","pembocor","pembocoran"],"gabunganKata":["bocor cahaya","bocor halus","bocor mulut"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bocor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12064",
+      "nama": "bo.cor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlubang sehingga air (udara) dapat keluar atau masuk; tiris",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gantilah cepat-cepat genting yang -- itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "karena teko ini --, isinya makin lama makin berkurang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersiar sedikit-sedikit (tentang rahasia dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil perundingan yang dirahasiakan itu akhirnya -- juga"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerap kali buang air",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena banyak makan sambal, semalam anakku --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan darah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia jatuh sehingga -- kepalanya"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang bulan; haid",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari ini aku tidak puasa karena sedang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bocoran",
+          "kebocoran",
+          "membocori",
+          "membocorkan",
+          "pembocor",
+          "pembocoran"
+        ],
+        "gabunganKata": [
+          "bocor cahaya",
+          "bocor halus",
+          "bocor mulut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

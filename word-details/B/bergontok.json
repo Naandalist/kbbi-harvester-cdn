@@ -1,1 +1,48 @@
-{"word":"bergontok","authenticated":true,"entries":[{"id":"27284","nama":"ber.gon.tok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkelahi; tinju-meninju","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berselisih; bertengkar","contoh":[{"nomor":2,"teks":"apabila kita ~ satu sama lain, pihak lain akan menarik keuntungan dari perpecahan kita"}]}],"rootWord":"gontok"}]}
+{
+  "word": "bergontok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27284",
+      "nama": "ber.gon.tok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkelahi; tinju-meninju",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berselisih; bertengkar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apabila kita ~ satu sama lain, pihak lain akan menarik keuntungan dari perpecahan kita"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gontok"
+    }
+  ]
+}

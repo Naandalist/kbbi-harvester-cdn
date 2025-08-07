@@ -1,1 +1,86 @@
-{"word":"bunda","authenticated":true,"entries":[{"id":"13346","nama":"bun.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada ibu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"ibunda","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Prm","nama":"Pramuka","tipe":"lainnya"}],"definisi":"panggilan kepada pembina pramuka siaga putri","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Prm","nama":"Pramuka","tipe":"lainnya"}],"definisi":"sapaan kepada pembina pramuka siaga putri","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Bunda Maria"],"peribahasa":["jerat semata bunda kandung"],"idiom":[]}}]}
+{
+  "word": "bunda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13346",
+      "nama": "bun.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada ibu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibunda",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Prm",
+              "nama": "Pramuka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "panggilan kepada pembina pramuka siaga putri",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Prm",
+              "nama": "Pramuka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sapaan kepada pembina pramuka siaga putri",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Bunda Maria"
+        ],
+        "peribahasa": [
+          "jerat semata bunda kandung"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

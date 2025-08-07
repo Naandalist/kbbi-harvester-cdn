@@ -1,1 +1,119 @@
-{"word":"bias","authenticated":true,"entries":[{"id":"11130","nama":"bi.as","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kecenderungan untuk mendukung atau menentang sesuatu hal, orang, atau kelompok daripada yang lain dengan cara yang kurang adil","contoh":[{"nomor":2,"teks":"sikap -- dapat menimbulkan keputusan yang tidak adil dan irasional"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"belokan arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Stat","nama":"Statistik","tipe":"lainnya"}],"definisi":"galat sistematis dalam pengambilan sampel atau pengujian dengan memilih atau mendorong satu hasil atau jawaban atas yang lain","contoh":[]}],"terkait":{"kataTurunan":["membias","membiaskan","pembiasan","terbias","terbiaskan"],"gabunganKata":["bias atensi","bias atribusi benci","bias Berkson","bias efikasi diri","bias gender","bias informasi","bias kognitif","bias komitmen","bias optimisme","bias publikasi","bias seleksi","bias subjek","bias swalayan"],"peribahasa":[],"idiom":[]}},{"id":"162855","nama":"bi.as","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"anggota grup idola yang difavoritkan","contoh":[{"nomor":2,"teks":"setiap penggemar grup idola memiliki --"}]}]}]}
+{
+  "word": "bias",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11130",
+      "nama": "bi.as",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecenderungan untuk mendukung atau menentang sesuatu hal, orang, atau kelompok daripada yang lain dengan cara yang kurang adil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sikap -- dapat menimbulkan keputusan yang tidak adil dan irasional"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "belokan arah dari garis tempuhan karena menembus benda bening yang lain (seperti cahaya yang menembus kaca, bayangan yang berada dalam air)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Stat",
+              "nama": "Statistik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "galat sistematis dalam pengambilan sampel atau pengujian dengan memilih atau mendorong satu hasil atau jawaban atas yang lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membias",
+          "membiaskan",
+          "pembiasan",
+          "terbias",
+          "terbiaskan"
+        ],
+        "gabunganKata": [
+          "bias atensi",
+          "bias atribusi benci",
+          "bias Berkson",
+          "bias efikasi diri",
+          "bias gender",
+          "bias informasi",
+          "bias kognitif",
+          "bias komitmen",
+          "bias optimisme",
+          "bias publikasi",
+          "bias seleksi",
+          "bias subjek",
+          "bias swalayan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "162855",
+      "nama": "bi.as",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anggota grup idola yang difavoritkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap penggemar grup idola memiliki --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

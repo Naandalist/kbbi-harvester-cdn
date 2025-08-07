@@ -1,1 +1,88 @@
-{"word":"bertiup","authenticated":true,"entries":[{"id":"86595","nama":"ber.ti.up","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergerak mengalir dengan cepat (tentang angin, udara); berembus","contoh":[{"nomor":2,"teks":"angin ~ dari sebelah barat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"merebak (tentang kabar angin dan sebagainya); tersiar","contoh":[{"nomor":2,"teks":"dengan segera berita yang ~ kencang itu disampaikannya kepada ketuanya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berkerumun (untuk melihat dan sebagainya)","contoh":[{"nomor":2,"teks":"~ orang melihat mobil itu"}]}],"rootWord":"tiup","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kalau tiada angin bertiup, tiadakan pohon bergoyang"],"idiom":[]}}]}
+{
+  "word": "bertiup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86595",
+      "nama": "ber.ti.up",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergerak mengalir dengan cepat (tentang angin, udara); berembus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "angin ~ dari sebelah barat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merebak (tentang kabar angin dan sebagainya); tersiar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan segera berita yang ~ kencang itu disampaikannya kepada ketuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkerumun (untuk melihat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ orang melihat mobil itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tiup",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kalau tiada angin bertiup, tiadakan pohon bergoyang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

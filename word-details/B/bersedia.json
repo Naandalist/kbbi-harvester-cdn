@@ -1,1 +1,65 @@
-{"word":"bersedia","authenticated":true,"entries":[{"id":"73112","nama":"ber.se.di.a","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersiap; bersedia-sedia","contoh":[{"nomor":2,"teks":"murid-murid telah ~ menghadapi ujian"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada (siap untuk dipakai)","contoh":[{"nomor":2,"teks":"ia sudah ~ pakaian olahraga"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"rela dan sanggup","contoh":[{"nomor":2,"teks":"apakah engkau ~ menolongku?"}]}],"rootWord":"sedia²"}]}
+{
+  "word": "bersedia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73112",
+      "nama": "ber.se.di.a",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersiap; bersedia-sedia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "murid-murid telah ~ menghadapi ujian"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada (siap untuk dipakai)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah ~ pakaian olahraga"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rela dan sanggup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apakah engkau ~ menolongku?"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sedia²"
+    }
+  ]
+}

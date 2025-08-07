@@ -1,1 +1,59 @@
-{"word":"bijana","authenticated":true,"entries":[{"id":"11373","nama":"bi.ja.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"tanah kelahiran","contoh":[]}]},{"id":"268410","nama":"bi.ja.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Gor","nama":"Gorontalo","tipe":"lainnya"}],"definisi":"menyebarkan berita bohong yang menyebabkan perpecahan, terjadi pada lingkungan keluarga","contoh":[{"nomor":2,"teks":"orang itu selalu -- saat ada perkumpulan keluarga"}]}]}]}
+{
+  "word": "bijana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11373",
+      "nama": "bi.ja.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanah kelahiran",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "268410",
+      "nama": "bi.ja.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gor",
+              "nama": "Gorontalo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyebarkan berita bohong yang menyebabkan perpecahan, terjadi pada lingkungan keluarga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang itu selalu -- saat ada perkumpulan keluarga"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

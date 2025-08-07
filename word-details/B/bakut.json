@@ -1,1 +1,137 @@
-{"word":"bakut","authenticated":true,"entries":[{"id":"205676","nama":"ba.kut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbg","nama":"Tata Boga","tipe":"lainnya"}],"definisi":"iga babi yang biasanya diolah menjadi sup","contoh":[]}],"terkait":{"kataTurunan":["membakut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7383","nama":"ba.kut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"perkosa","contoh":[]}],"terkait":{"kataTurunan":["membakut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7385","nama":"ba.kut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"betutu1","contoh":[]}]},{"id":"177809","nama":"ba.kut","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"mata sembap karena terlalu lama tidur","contoh":[{"nomor":2,"teks":"matanya -- karena tidur dari pagi hingga sore"}]}]},{"id":"292287","nama":"ba.kut","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"kain persegi yang besar, digunakan sebagai pembungkus barang dengan cara mengikat tiap ujungnya","contoh":[]}]}]}
+{
+  "word": "bakut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "205676",
+      "nama": "ba.kut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbg",
+              "nama": "Tata Boga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "iga babi yang biasanya diolah menjadi sup",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membakut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7383",
+      "nama": "ba.kut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkosa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membakut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7385",
+      "nama": "ba.kut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "betutu1",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "177809",
+      "nama": "ba.kut",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mata sembap karena terlalu lama tidur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya -- karena tidur dari pagi hingga sore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "292287",
+      "nama": "ba.kut",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kain persegi yang besar, digunakan sebagai pembungkus barang dengan cara mengikat tiap ujungnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

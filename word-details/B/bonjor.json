@@ -1,1 +1,97 @@
-{"word":"bonjor","authenticated":true,"entries":[{"id":"12335","nama":"bon.jor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kubu","contoh":[]}]},{"id":"167677","nama":"bon.jor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tabung bambu untuk tempat air","contoh":[]}]},{"id":"193439","nama":"bon.jor","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan ukuran isi untuk gula merah, berbungkus daun, berisi sepuluh butir","contoh":[{"nomor":2,"teks":"gula aren biasa dijual dalam ukuran -- atau kiloan"}]}]},{"id":"231227","nama":"bon.jor","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"satuan ukuran isi untuk gula merah sejumlah sepuluh buah","contoh":[]}]}]}
+{
+  "word": "bonjor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12335",
+      "nama": "bon.jor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kubu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "167677",
+      "nama": "bon.jor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tabung bambu untuk tempat air",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "193439",
+      "nama": "bon.jor",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan ukuran isi untuk gula merah, berbungkus daun, berisi sepuluh butir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gula aren biasa dijual dalam ukuran -- atau kiloan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "231227",
+      "nama": "bon.jor",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "satuan ukuran isi untuk gula merah sejumlah sepuluh buah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

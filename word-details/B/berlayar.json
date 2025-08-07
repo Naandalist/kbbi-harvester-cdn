@@ -1,1 +1,81 @@
-{"word":"berlayar","authenticated":true,"entries":[{"id":"47571","nama":"ber.la.yar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan layar","contoh":[{"nomor":2,"teks":"perahu itu ~ kain putih lebar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengarungi lautan; bepergian dengan kapal (perahu)","contoh":[{"nomor":2,"teks":"pelaut itu sudah ~ ke mana-mana"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meninggal dunia","contoh":[]}],"rootWord":"layar¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berjalan sampai ke batas, berlayar sampai ke pulau","berlayar atas angin","berlayar bernakhoda, berjalan dengan yang tua","berlayar menentang (mengadang, menuju) pulau","berlayar sambil memapan","berlayar sampai ke pulau, berjalan sampai ke batas","merapat sambil berlayar (berlayar sambil memapan)"],"idiom":["berlayar ke pulau kapuk"]}}]}
+{
+  "word": "berlayar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47571",
+      "nama": "ber.la.yar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan layar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu itu ~ kain putih lebar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarungi lautan; bepergian dengan kapal (perahu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pelaut itu sudah ~ ke mana-mana"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meninggal dunia",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berjalan sampai ke batas, berlayar sampai ke pulau",
+          "berlayar atas angin",
+          "berlayar bernakhoda, berjalan dengan yang tua",
+          "berlayar menentang (mengadang, menuju) pulau",
+          "berlayar sambil memapan",
+          "berlayar sampai ke pulau, berjalan sampai ke batas",
+          "merapat sambil berlayar (berlayar sambil memapan)"
+        ],
+        "idiom": [
+          "berlayar ke pulau kapuk"
+        ]
+      }
+    }
+  ]
+}

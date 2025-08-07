@@ -1,1 +1,67 @@
-{"word":"beramal","authenticated":true,"entries":[{"id":"2719","nama":"ber.a.mal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat kebajikan; memberikan sumbangan atau bantuan kepada orang miskin, organisasi sosial, dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan sesuatu yang baik, seperti memberikan nasihat, bekerja untuk kepentingan masyarakat, mengajarkan ilmu, mengaji","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdoa, memohon kepada Tuhan","contoh":[{"nomor":2,"teks":"tebal imannya dan rajin ~"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat amal","contoh":[]}],"rootWord":"amal¹"}]}
+{
+  "word": "beramal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2719",
+      "nama": "ber.a.mal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat kebajikan; memberikan sumbangan atau bantuan kepada orang miskin, organisasi sosial, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan sesuatu yang baik, seperti memberikan nasihat, bekerja untuk kepentingan masyarakat, mengajarkan ilmu, mengaji",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdoa, memohon kepada Tuhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tebal imannya dan rajin ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat amal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "amal¹"
+    }
+  ]
+}

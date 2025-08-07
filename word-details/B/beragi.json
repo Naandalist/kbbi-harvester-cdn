@@ -1,1 +1,48 @@
-{"word":"beragi","authenticated":true,"entries":[{"id":"66784","nama":"be.ra.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai ragi","contoh":[{"nomor":2,"teks":"roti yang tidak ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuih atau memuai (karena ragi)","contoh":[{"nomor":2,"teks":"ketan itu mulai ~"}]}],"rootWord":"ragi¹"}]}
+{
+  "word": "beragi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66784",
+      "nama": "be.ra.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai ragi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "roti yang tidak ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuih atau memuai (karena ragi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketan itu mulai ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ragi¹"
+    }
+  ]
+}

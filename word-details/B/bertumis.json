@@ -1,1 +1,43 @@
-{"word":"bertumis","authenticated":true,"entries":[{"id":"87992","nama":"ber.tu.mis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dimasak tumis","contoh":[{"nomor":2,"teks":"di rumahnya, saya dijamu makan dengan kangkung ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menumis","contoh":[]}],"rootWord":"tumis"}]}
+{
+  "word": "bertumis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87992",
+      "nama": "ber.tu.mis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dimasak tumis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di rumahnya, saya dijamu makan dengan kangkung ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menumis",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tumis"
+    }
+  ]
+}

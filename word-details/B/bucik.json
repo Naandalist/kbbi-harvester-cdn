@@ -1,1 +1,54 @@
-{"word":"bucik","authenticated":true,"entries":[{"id":"200082","nama":"bu.cik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Prm","nama":"Pramuka","tipe":"lainnya"}],"definisi":"kata panggilan untuk pembantu pembina pramuka siaga putri","contoh":[]}]},{"id":"193451","nama":"bu.cik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"luka gores di kulit","contoh":[]}]}]}
+{
+  "word": "bucik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200082",
+      "nama": "bu.cik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Prm",
+              "nama": "Pramuka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kata panggilan untuk pembantu pembina pramuka siaga putri",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "193451",
+      "nama": "bu.cik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "luka gores di kulit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

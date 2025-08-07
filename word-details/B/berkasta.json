@@ -1,1 +1,31 @@
-{"word":"berkasta","authenticated":true,"entries":[{"id":"101919","nama":"ber.kas.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki kasta","contoh":[{"nomor":2,"teks":"ciri-ciri budaya daratan itu adalah masyarakat berkelas sedang budaya maritim adalah budaya masyarakat tidak ~"}]}],"rootWord":"kasta"}]}
+{
+  "word": "berkasta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101919",
+      "nama": "ber.kas.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki kasta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ciri-ciri budaya daratan itu adalah masyarakat berkelas sedang budaya maritim adalah budaya masyarakat tidak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kasta"
+    }
+  ]
+}

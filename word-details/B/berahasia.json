@@ -1,1 +1,53 @@
-{"word":"berahasia","authenticated":true,"entries":[{"id":"66825","nama":"be.ra.ha.si.a","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terdapat rahasia; mempunyai rahasia","contoh":[{"nomor":2,"teks":"di antara kami sudah tidak ~ lagi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengatakan rahasia kepada (dengan)","contoh":[{"nomor":2,"teks":"jangan ~ dengan orang yang tidak dapat dipercaya"}]}],"rootWord":"rahasia"}]}
+{
+  "word": "berahasia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66825",
+      "nama": "be.ra.ha.si.a",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdapat rahasia; mempunyai rahasia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di antara kami sudah tidak ~ lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatakan rahasia kepada (dengan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan ~ dengan orang yang tidak dapat dipercaya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rahasia"
+    }
+  ]
+}

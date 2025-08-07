@@ -1,1 +1,72 @@
-{"word":"bohong","authenticated":true,"entries":[{"id":"12102","nama":"bo.hong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak sesuai dengan hal (keadaan dan sebagainya) yang sebenarnya; dusta","contoh":[{"nomor":2,"teks":"kabar itu -- belaka"},{"nomor":4,"teks":"ia berkata --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bukan yang sebenarnya; palsu (biasanya mengenai permainan)","contoh":[{"nomor":2,"teks":"uang --"},{"nomor":4,"teks":"lotre --"}]}],"terkait":{"kataTurunan":["berbohong","bohong-bohongan","bohongan","kebohongan","membohong","membohongi","membohongkan","pembohong","pembohongan","terbohongi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bohong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12102",
+      "nama": "bo.hong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sesuai dengan hal (keadaan dan sebagainya) yang sebenarnya; dusta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kabar itu -- belaka"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia berkata --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bukan yang sebenarnya; palsu (biasanya mengenai permainan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "lotre --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbohong",
+          "bohong-bohongan",
+          "bohongan",
+          "kebohongan",
+          "membohong",
+          "membohongi",
+          "membohongkan",
+          "pembohong",
+          "pembohongan",
+          "terbohongi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

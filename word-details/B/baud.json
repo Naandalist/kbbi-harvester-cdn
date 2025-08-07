@@ -1,1 +1,43 @@
-{"word":"baud","authenticated":true,"entries":[{"id":"8963","nama":"ba.ud","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"satuan kecepatan penyaluran data atau informasi melalui saluran telekomunikasi","contoh":[]}]},{"id":"192458","nama":"ba.ud","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ baut","contoh":[]}]}]}
+{
+  "word": "baud",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8963",
+      "nama": "ba.ud",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "satuan kecepatan penyaluran data atau informasi melalui saluran telekomunikasi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "192458",
+      "nama": "ba.ud",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ baut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

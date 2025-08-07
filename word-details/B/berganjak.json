@@ -1,1 +1,53 @@
-{"word":"berganjak","authenticated":true,"entries":[{"id":"24330","nama":"ber.gan.jak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beringsut (bergeser sedikit); beranjak; beralih","contoh":[{"nomor":2,"teks":"ia tidak mau ~ dari tempat duduknya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bergeser (tentang pendirian, pendapat, dan sebagainya)","contoh":[{"nomor":2,"teks":"dia memegang teguh pendiriannya, tidak ~ sedikit pun"}]}],"rootWord":"ganjak"}]}
+{
+  "word": "berganjak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24330",
+      "nama": "ber.gan.jak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beringsut (bergeser sedikit); beranjak; beralih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak mau ~ dari tempat duduknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergeser (tentang pendirian, pendapat, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia memegang teguh pendiriannya, tidak ~ sedikit pun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ganjak"
+    }
+  ]
+}

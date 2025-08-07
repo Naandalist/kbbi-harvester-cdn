@@ -1,1 +1,54 @@
-{"word":"balans","authenticated":true,"entries":[{"id":"7497","nama":"ba.lans","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"neraca (timbangan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keseimbangan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"daftar perhitungan laba rugi, utang piutang, dan sebagainya","contoh":[]}]}]}
+{
+  "word": "balans",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7497",
+      "nama": "ba.lans",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "neraca (timbangan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keseimbangan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "daftar perhitungan laba rugi, utang piutang, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

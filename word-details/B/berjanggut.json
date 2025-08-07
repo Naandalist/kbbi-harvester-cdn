@@ -1,1 +1,48 @@
-{"word":"berjanggut","authenticated":true,"entries":[{"id":"101891","nama":"ber.jang.gut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki janggut","contoh":[{"nomor":2,"teks":"pria ~ telah diasosiasikan dengan berbagai atribut seperti bijaksana, maskulin atau berstatus tinggi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"memiliki permukaan yang tertutup bulu-bulu panjang yang tersusun dalam berkas-berkas, garis, atau zonasi","contoh":[]}],"rootWord":"janggut¹"}]}
+{
+  "word": "berjanggut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101891",
+      "nama": "ber.jang.gut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki janggut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pria ~ telah diasosiasikan dengan berbagai atribut seperti bijaksana, maskulin atau berstatus tinggi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "memiliki permukaan yang tertutup bulu-bulu panjang yang tersusun dalam berkas-berkas, garis, atau zonasi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "janggut¹"
+    }
+  ]
+}

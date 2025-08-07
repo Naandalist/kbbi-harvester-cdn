@@ -1,1 +1,90 @@
-{"word":"berharga","authenticated":true,"entries":[{"id":"28697","nama":"ber.har.ga","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai harga","contoh":[{"nomor":2,"teks":"barang antik itu ~ jutaan rupiah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berguna; bermanfaat","contoh":[{"nomor":2,"teks":"nasihatnya sangat ~ bagi kami"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai harga tinggi; mahal harganya","contoh":[{"nomor":2,"teks":"kami tidak memiliki barang-barang ~"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bernilai; tinggi nilainya; penting","contoh":[{"nomor":2,"teks":"dokumen pribadi dan surat-surat ~ lainnya dititipkannya di bank"}]}],"rootWord":"harga","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["lebih berharga mutiara sebutir daripada pasir sepantai"],"idiom":[]}}]}
+{
+  "word": "berharga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28697",
+      "nama": "ber.har.ga",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai harga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang antik itu ~ jutaan rupiah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berguna; bermanfaat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasihatnya sangat ~ bagi kami"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai harga tinggi; mahal harganya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami tidak memiliki barang-barang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bernilai; tinggi nilainya; penting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dokumen pribadi dan surat-surat ~ lainnya dititipkannya di bank"
+            }
+          ]
+        }
+      ],
+      "rootWord": "harga",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "lebih berharga mutiara sebutir daripada pasir sepantai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

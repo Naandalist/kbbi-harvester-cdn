@@ -1,1 +1,72 @@
-{"word":"bertali","authenticated":true,"entries":[{"id":"81541","nama":"ber.ta.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan tali; ada talinya","contoh":[{"nomor":2,"teks":"bungkusan yang ~ merah itu kepunyaanku"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sudah bertunangan","contoh":[{"nomor":2,"teks":"gadis itu sudah ~"}]}],"rootWord":"tali¹","terkait":{"kataTurunan":[],"gabunganKata":["bertali darah"],"peribahasa":["ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun","bergantung tidak bertali (sehasta tali)","bertali boleh dieret, bertampuk boleh dijinjing","diapit tidak bersanggit, ditambat tidak bertali","diberi bertali panjang","kuman beri bertali","menambat tidak bertali","tergantung tidak bertali"],"idiom":["berpaut tidak bertali"]}}]}
+{
+  "word": "bertali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81541",
+      "nama": "ber.ta.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan tali; ada talinya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bungkusan yang ~ merah itu kepunyaanku"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah bertunangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tali¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bertali darah"
+        ],
+        "peribahasa": [
+          "ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun",
+          "bergantung tidak bertali (sehasta tali)",
+          "bertali boleh dieret, bertampuk boleh dijinjing",
+          "diapit tidak bersanggit, ditambat tidak bertali",
+          "diberi bertali panjang",
+          "kuman beri bertali",
+          "menambat tidak bertali",
+          "tergantung tidak bertali"
+        ],
+        "idiom": [
+          "berpaut tidak bertali"
+        ]
+      }
+    }
+  ]
+}

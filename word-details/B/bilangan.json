@@ -1,1 +1,243 @@
-{"word":"bilangan","authenticated":true,"entries":[{"id":"11442","nama":"bi.lang.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"banyaknya benda dan sebagainya; jumlah","contoh":[{"nomor":2,"teks":"tidak diketahui benar ~nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan jumlah","contoh":[{"nomor":2,"teks":"satu dan tiga adalah ~ ganjil"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"satuan dalam sistem matematis yang abstrak dan dapat diunitkan, ditambah, atau dikalikan","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"golongan (lingkungan)","contoh":[{"nomor":2,"teks":"ia masuk ~ orang berada"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"lingkungan daerah","contoh":[{"nomor":2,"teks":"rumahnya di ~ Kebayoran Baru"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"ramalan untung malang, baik buruk, dan sebagainya","contoh":[{"nomor":2,"teks":"menurut ~ hari itu kurang baik untuk berziarah"}]},{"nomor":"7","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"nasib dan sebagainya yang telah tertentu; takdir","contoh":[{"nomor":2,"teks":"sudah sampai ~nya akan meninggal"}]},{"nomor":"8","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"ide yang bersifat abstrak yang bukan simbol atau lambang, yang memberikan keterangan mengenai banyaknya anggota himpunan","contoh":[]}],"rootWord":"bilang¹","terkait":{"kataTurunan":[],"gabunganKata":["bilangan alef","bilangan aritmetika","bilangan asli","bilangan Avogadro","bilangan berlimpah","bilangan biner","bilangan bulat","bilangan cacah","bilangan campuran","bilangan catu","bilangan desimal","bilangan euler","bilangan Fibonacci","bilangan froude","bilangan ganjil","bilangan gasal","bilangan gelombang","bilangan genap","bilangan imajiner","bilangan irasional","bilangan kardinal","bilangan kendali","bilangan khayal","bilangan kompleks","bilangan komposit","bilangan kuadrat","bilangan kuantum","bilangan kuantum azimut","bilangan kuantum magnetik","bilangan kuantum spin","bilangan kuantum utama","bilangan mach","bilangan majemuk","bilangan oksidasi","bilangan oktan","bilangan ordinal","bilangan pangkat","bilangan pecahan","bilangan pembagi","bilangan pembagi penduduk","bilangan penuh","bilangan peroksida","bilangan pokok","bilangan prima","bilangan rasional","bilangan riil","bilangan tingkat","bilangan utuh"],"peribahasa":[],"idiom":["menggenapkan bilangan"]}},{"id":"220600","nama":"Bi.la.ngan","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat kitab Bilangan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["menggenapkan bilangan"]}}]}
+{
+  "word": "bilangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11442",
+      "nama": "bi.lang.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyaknya benda dan sebagainya; jumlah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak diketahui benar ~nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan jumlah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "satu dan tiga adalah ~ ganjil"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "satuan dalam sistem matematis yang abstrak dan dapat diunitkan, ditambah, atau dikalikan",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "golongan (lingkungan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia masuk ~ orang berada"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lingkungan daerah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahnya di ~ Kebayoran Baru"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ramalan untung malang, baik buruk, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menurut ~ hari itu kurang baik untuk berziarah"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nasib dan sebagainya yang telah tertentu; takdir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah sampai ~nya akan meninggal"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ide yang bersifat abstrak yang bukan simbol atau lambang, yang memberikan keterangan mengenai banyaknya anggota himpunan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bilang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bilangan alef",
+          "bilangan aritmetika",
+          "bilangan asli",
+          "bilangan Avogadro",
+          "bilangan berlimpah",
+          "bilangan biner",
+          "bilangan bulat",
+          "bilangan cacah",
+          "bilangan campuran",
+          "bilangan catu",
+          "bilangan desimal",
+          "bilangan euler",
+          "bilangan Fibonacci",
+          "bilangan froude",
+          "bilangan ganjil",
+          "bilangan gasal",
+          "bilangan gelombang",
+          "bilangan genap",
+          "bilangan imajiner",
+          "bilangan irasional",
+          "bilangan kardinal",
+          "bilangan kendali",
+          "bilangan khayal",
+          "bilangan kompleks",
+          "bilangan komposit",
+          "bilangan kuadrat",
+          "bilangan kuantum",
+          "bilangan kuantum azimut",
+          "bilangan kuantum magnetik",
+          "bilangan kuantum spin",
+          "bilangan kuantum utama",
+          "bilangan mach",
+          "bilangan majemuk",
+          "bilangan oksidasi",
+          "bilangan oktan",
+          "bilangan ordinal",
+          "bilangan pangkat",
+          "bilangan pecahan",
+          "bilangan pembagi",
+          "bilangan pembagi penduduk",
+          "bilangan penuh",
+          "bilangan peroksida",
+          "bilangan pokok",
+          "bilangan prima",
+          "bilangan rasional",
+          "bilangan riil",
+          "bilangan tingkat",
+          "bilangan utuh"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "menggenapkan bilangan"
+        ]
+      }
+    },
+    {
+      "id": "220600",
+      "nama": "Bi.la.ngan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat kitab Bilangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "menggenapkan bilangan"
+        ]
+      }
+    }
+  ]
+}

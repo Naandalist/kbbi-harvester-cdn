@@ -1,1 +1,83 @@
-{"word":"banat","authenticated":true,"entries":[{"id":"7754","nama":"ba.nat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kain lakan yang halus dibuat dari bulu (domba)","contoh":[]}],"terkait":{"kataTurunan":["membanat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7755","nama":"ba.nat","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial membanat","contoh":[]}],"terkait":{"kataTurunan":["membanat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"258948","nama":"ba.nat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"menyiram pati sagu dengan air panas sambil terus diaduk sampai mengental menjadi papeda","contoh":[{"nomor":2,"teks":"ibu -- sagu dengan air yang baru mendidih"}]}]}]}
+{
+  "word": "banat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7754",
+      "nama": "ba.nat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kain lakan yang halus dibuat dari bulu (domba)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membanat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7755",
+      "nama": "ba.nat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial membanat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membanat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "258948",
+      "nama": "ba.nat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyiram pati sagu dengan air panas sambil terus diaduk sampai mengental menjadi papeda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- sagu dengan air yang baru mendidih"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

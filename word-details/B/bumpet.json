@@ -1,1 +1,44 @@
-{"word":"bumpet","authenticated":true,"entries":[{"id":"13328","nama":"bum.pet","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pendek; kecil","contoh":[]}]},{"id":"13329","nama":"bum.pet","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersumbat; tertutup","contoh":[]}]}]}
+{
+  "word": "bumpet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13328",
+      "nama": "bum.pet",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendek; kecil",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "13329",
+      "nama": "bum.pet",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersumbat; tertutup",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

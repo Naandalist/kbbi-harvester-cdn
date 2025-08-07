@@ -1,1 +1,76 @@
-{"word":"bantai","authenticated":true,"entries":[{"id":"8115","nama":"ban.tai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daging (binatang yang disembelih)","contoh":[]}],"terkait":{"kataTurunan":["bantaian","membantai","pembantai","pembantaian","terbantai"],"gabunganKata":[],"peribahasa":["kucing tidur di bantai"],"idiom":[]}},{"id":"115592","nama":"ban.tai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"bagian pada pedapuran di bawah penyimpanan kayu bakar, biasanya tempat menaruh ikan atau daging asap","contoh":[{"nomor":2,"teks":"daging atau ikan asap biasanya disimpan di atas --"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kucing tidur di bantai"],"idiom":[]}}]}
+{
+  "word": "bantai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8115",
+      "nama": "ban.tai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daging (binatang yang disembelih)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bantaian",
+          "membantai",
+          "pembantai",
+          "pembantaian",
+          "terbantai"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kucing tidur di bantai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "115592",
+      "nama": "ban.tai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian pada pedapuran di bawah penyimpanan kayu bakar, biasanya tempat menaruh ikan atau daging asap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daging atau ikan asap biasanya disimpan di atas --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kucing tidur di bantai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

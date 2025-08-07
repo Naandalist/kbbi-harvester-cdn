@@ -1,1 +1,47 @@
-{"word":"barion","authenticated":true,"entries":[{"id":"8435","nama":"ba.ri.on","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"nama kelompok partikel elementer jenis nukleon dan hiperon dengan nomor massa 1 atau lebih","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"partikel elementer yang berat dan dapat ditransformasi menjadi sebuah nukleon, beberapa meson, dan partikel-partikel yang ringan","contoh":[]}]}]}
+{
+  "word": "barion",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8435",
+      "nama": "ba.ri.on",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nama kelompok partikel elementer jenis nukleon dan hiperon dengan nomor massa 1 atau lebih",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "partikel elementer yang berat dan dapat ditransformasi menjadi sebuah nukleon, beberapa meson, dan partikel-partikel yang ringan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

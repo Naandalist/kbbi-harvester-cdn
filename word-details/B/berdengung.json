@@ -1,1 +1,53 @@
-{"word":"berdengung","authenticated":true,"entries":[{"id":"18923","nama":"ber.de.ngung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergema","contoh":[{"nomor":2,"teks":"terdengar bunyi sirene pabrik ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bersuara (berbunyi) keras","contoh":[{"nomor":2,"teks":"propagandanya ~ di mana-mana, tetapi hasilnya tidak ada"}]}],"rootWord":"dengung"}]}
+{
+  "word": "berdengung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18923",
+      "nama": "ber.de.ngung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergema",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terdengar bunyi sirene pabrik ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersuara (berbunyi) keras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "propagandanya ~ di mana-mana, tetapi hasilnya tidak ada"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dengung"
+    }
+  ]
+}

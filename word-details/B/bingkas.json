@@ -1,1 +1,56 @@
-{"word":"bingkas","authenticated":true,"entries":[{"id":"11625","nama":"bing.kas","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial membingkas","contoh":[]}],"terkait":{"kataTurunan":["membingkas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"212221","nama":"bing.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MBl","nama":"Melayu Belitung","tipe":"lainnya"}],"definisi":"terlepas jeratnya sehingga burung tidak masuk perangkap","contoh":[{"nomor":2,"teks":"perangkap yang ia pasang semalam masih kosong karena buruannya --"}]}]}]}
+{
+  "word": "bingkas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11625",
+      "nama": "bing.kas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial membingkas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membingkas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212221",
+      "nama": "bing.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBl",
+              "nama": "Melayu Belitung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terlepas jeratnya sehingga burung tidak masuk perangkap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perangkap yang ia pasang semalam masih kosong karena buruannya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

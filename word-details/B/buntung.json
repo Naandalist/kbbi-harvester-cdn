@@ -1,1 +1,90 @@
-{"word":"buntung","authenticated":true,"entries":[{"id":"13555","nama":"bun.tung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"putus (terpotong dan sebagainya) tentang kaki, tangan, ekor, dan sebagainya; kutung","contoh":[{"nomor":2,"teks":"kaki --"},{"nomor":4,"teks":"kemeja --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"merugi; celaka","contoh":[{"nomor":2,"teks":"hendak beruntung menjadi --"}]}],"terkait":{"kataTurunan":["kebuntungan","membuntungi","membuntungkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"233732","nama":"bun.tung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"daging pada bagian dada ikan jelawat","contoh":[]}]}]}
+{
+  "word": "buntung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13555",
+      "nama": "bun.tung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putus (terpotong dan sebagainya) tentang kaki, tangan, ekor, dan sebagainya; kutung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaki --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kemeja --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merugi; celaka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hendak beruntung menjadi --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebuntungan",
+          "membuntungi",
+          "membuntungkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "233732",
+      "nama": "bun.tung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daging pada bagian dada ikan jelawat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

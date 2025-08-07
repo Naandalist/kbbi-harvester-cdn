@@ -1,1 +1,36 @@
-{"word":"bersantap","authenticated":true,"entries":[{"id":"72230","nama":"ber.san.tap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"hor","nama":"Hormat","tipe":"lainnya"}],"definisi":"makan dan minum","contoh":[{"nomor":2,"teks":"sudilah Tuan datang untuk ~ di rumah kami nanti malam"}]}],"rootWord":"santap"}]}
+{
+  "word": "bersantap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72230",
+      "nama": "ber.san.tap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "hor",
+              "nama": "Hormat",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makan dan minum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudilah Tuan datang untuk ~ di rumah kami nanti malam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "santap"
+    }
+  ]
+}

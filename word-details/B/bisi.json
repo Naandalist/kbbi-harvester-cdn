@@ -1,1 +1,67 @@
-{"word":"bisi","authenticated":true,"entries":[{"id":"182077","nama":"bi.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kur","nama":"Kur","tipe":"lainnya"}],"definisi":"bekas luka yang berukuran kecil di tubuh","contoh":[]}]},{"id":"278736","nama":"bi.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kata untuk mengungkapkan kekhawatiran tentang kemungkinan buruk yang dapat terjadi; barangkali; kalau-kalau","contoh":[{"nomor":2,"teks":"tanyakan saja lagi kpdnya, -- salah"},{"nomor":4,"teks":"besok tolong ingatkan aku, -- aku lupa"},{"nomor":6,"teks":"jangan melompat-lompat di atas kursi, -- jatuh"}]}]}]}
+{
+  "word": "bisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "182077",
+      "nama": "bi.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kur",
+              "nama": "Kur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bekas luka yang berukuran kecil di tubuh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "278736",
+      "nama": "bi.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata untuk mengungkapkan kekhawatiran tentang kemungkinan buruk yang dapat terjadi; barangkali; kalau-kalau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanyakan saja lagi kpdnya, -- salah"
+            },
+            {
+              "nomor": 4,
+              "teks": "besok tolong ingatkan aku, -- aku lupa"
+            },
+            {
+              "nomor": 6,
+              "teks": "jangan melompat-lompat di atas kursi, -- jatuh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

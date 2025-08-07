@@ -1,1 +1,42 @@
-{"word":"berulang","authenticated":true,"entries":[{"id":"89202","nama":"ber.u.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dilakukan lebih dari satu kali; kembali lagi; terjadi lagi","contoh":[{"nomor":2,"teks":"diharapkan kesalahan itu tidak ~ lagi"}]}],"rootWord":"ulang¹","terkait":{"kataTurunan":[],"gabunganKata":["berulang kata"],"peribahasa":["acap berulang, yang jauh jadi dekat","anjing itu meski dirantai dengan rantai emas sekalipun, niscaya berulang-ulang juga ia ke tempat najis"],"idiom":[]}}]}
+{
+  "word": "berulang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89202",
+      "nama": "ber.u.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dilakukan lebih dari satu kali; kembali lagi; terjadi lagi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diharapkan kesalahan itu tidak ~ lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ulang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "berulang kata"
+        ],
+        "peribahasa": [
+          "acap berulang, yang jauh jadi dekat",
+          "anjing itu meski dirantai dengan rantai emas sekalipun, niscaya berulang-ulang juga ia ke tempat najis"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

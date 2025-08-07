@@ -1,1 +1,61 @@
-{"word":"brutal","authenticated":true,"entries":[{"id":"12568","nama":"bru.tal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kejam","contoh":[{"nomor":2,"teks":"mereka adalah penjahat --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kurang ajar; tidak sopan; kasar, biadab (tentang perilaku)","contoh":[]}],"terkait":{"kataTurunan":["kebrutalan","terbrutal"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "brutal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12568",
+      "nama": "bru.tal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kejam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka adalah penjahat --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang ajar; tidak sopan; kasar, biadab (tentang perilaku)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebrutalan",
+          "terbrutal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,36 @@
-{"word":"balad","authenticated":true,"entries":[{"id":"7401","nama":"ba.lad","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"negeri; kota","contoh":[]}],"etimologi":{"text":"[Arab بَلَدٌ balad n sg m 'bumi; tanah']","languages":["Arab"]}}]}
+{
+  "word": "balad",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7401",
+      "nama": "ba.lad",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "negeri; kota",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَلَدٌ balad n sg m 'bumi; tanah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

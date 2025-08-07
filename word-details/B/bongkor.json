@@ -1,1 +1,49 @@
-{"word":"bongkor","authenticated":true,"entries":[{"id":"12320","nama":"bong.kor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bakul dari kulit kayu yang dipakai untuk mengambil sarang lebah (madu)","contoh":[]}]},{"id":"12321","nama":"bong.kor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sebidang tanah yang tidak dikerjakan, antara lain, karena tidak ada waktu untuk mengerjakannya","contoh":[]}]}]}
+{
+  "word": "bongkor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12320",
+      "nama": "bong.kor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bakul dari kulit kayu yang dipakai untuk mengambil sarang lebah (madu)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "12321",
+      "nama": "bong.kor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sebidang tanah yang tidak dikerjakan, antara lain, karena tidak ada waktu untuk mengerjakannya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

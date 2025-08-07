@@ -1,1 +1,31 @@
-{"word":"berhuruf","authenticated":true,"entries":[{"id":"30506","nama":"ber.hu.ruf","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan huruf; ditulis dengan huruf","contoh":[{"nomor":2,"teks":"buku yang dipinjamnya ~ Arab"}]}],"rootWord":"huruf"}]}
+{
+  "word": "berhuruf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30506",
+      "nama": "ber.hu.ruf",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan huruf; ditulis dengan huruf",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku yang dipinjamnya ~ Arab"
+            }
+          ]
+        }
+      ],
+      "rootWord": "huruf"
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"word":"berumah","authenticated":true,"entries":[{"id":"70281","nama":"be.ru.mah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai rumah","contoh":[{"nomor":2,"teks":"ia seorang yang sukses, usianya masih muda, tetapi sudah berkedudukan tinggi dan ~ besar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diam (di); tinggal (di)","contoh":[{"nomor":2,"teks":"ia ~ di desa yang jauh dari kota"}]}],"rootWord":"rumah","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai berumah di tepi tebing","jika takut dilimbur pasang, jangan berumah di tepi pantai","kalau takut dilimbur pasang, jangan berumah di tepi pantai"],"idiom":[]}}]}
+{
+  "word": "berumah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70281",
+      "nama": "be.ru.mah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai rumah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia seorang yang sukses, usianya masih muda, tetapi sudah berkedudukan tinggi dan ~ besar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diam (di); tinggal (di)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ di desa yang jauh dari kota"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rumah",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai berumah di tepi tebing",
+          "jika takut dilimbur pasang, jangan berumah di tepi pantai",
+          "kalau takut dilimbur pasang, jangan berumah di tepi pantai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,123 @@
-{"word":"babon","authenticated":true,"entries":[{"id":"6513","nama":"ba.bon","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"induk ayam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"induk","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Filol","nama":"Filologi","tipe":"lainnya"}],"definisi":"naskah asli; naskah sumber","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["babon angrem"],"peribahasa":[],"idiom":[]}},{"id":"169905","nama":"ba.bon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"gabah atau padi sebagai bayaran untuk penuai padi","contoh":[]}]},{"id":"274334","nama":"ba.bon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"pupur pelicin untuk karambol","contoh":[]}]},{"id":"291358","nama":"ba.bon","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ babun1","contoh":[]}]}]}
+{
+  "word": "babon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6513",
+      "nama": "ba.bon",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "induk ayam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "induk",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Filol",
+              "nama": "Filologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "naskah asli; naskah sumber",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "babon angrem"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "169905",
+      "nama": "ba.bon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gabah atau padi sebagai bayaran untuk penuai padi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "274334",
+      "nama": "ba.bon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pupur pelicin untuk karambol",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "291358",
+      "nama": "ba.bon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ babun1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,124 @@
-{"word":"bata","authenticated":true,"entries":[{"id":"8632","nama":"ba.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda yang berbentuk persegi panjang seperti kotak atau peti kecil","contoh":[{"nomor":2,"teks":"-- garam"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanah liat yang diaduk sampai halus, kemudian dicetak, dikeringkan, lalu dibakar (dipakai untuk membuat dinding dan sebagainya); batu bata","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bata 'batu bata; tembok']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":["bata api","bata biru","bata emas","bata garam","bata glasir","bata mentah","bata merah","bata ringan","bata tempel"],"peribahasa":[],"idiom":[]}},{"id":"8637","nama":"ba.ta","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pernikahan laki-laki adik-beradik dengan perempuan adik-beradik pada saat yang bersamaan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bata 'batu bata; tembok']","languages":["Jawa Kuno"]}},{"id":"258983","nama":"ba.ta","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"menyampirkan kain kecil seperti sapu tangan, handuk, lap, atau ujung kerudung di pundak","contoh":[{"nomor":2,"teks":"dia  -- handuk kecil untuk mengelap keringat"}]}],"etimologi":{"text":"[Jawa Kuno bata 'batu bata; tembok']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "bata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8632",
+      "nama": "ba.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda yang berbentuk persegi panjang seperti kotak atau peti kecil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- garam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanah liat yang diaduk sampai halus, kemudian dicetak, dikeringkan, lalu dibakar (dipakai untuk membuat dinding dan sebagainya); batu bata",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bata 'batu bata; tembok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bata api",
+          "bata biru",
+          "bata emas",
+          "bata garam",
+          "bata glasir",
+          "bata mentah",
+          "bata merah",
+          "bata ringan",
+          "bata tempel"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "8637",
+      "nama": "ba.ta",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pernikahan laki-laki adik-beradik dengan perempuan adik-beradik pada saat yang bersamaan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bata 'batu bata; tembok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "258983",
+      "nama": "ba.ta",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyampirkan kain kecil seperti sapu tangan, handuk, lap, atau ujung kerudung di pundak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia  -- handuk kecil untuk mengelap keringat"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bata 'batu bata; tembok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

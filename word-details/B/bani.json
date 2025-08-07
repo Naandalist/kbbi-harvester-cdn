@@ -1,1 +1,74 @@
-{"word":"bani","authenticated":true,"entries":[{"id":"8030","nama":"ba.ni","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anak; anak cucu; keturunan: seluruh umat manusia","contoh":[{"nomor":2,"teks":"-- Adam"}]}],"etimologi":{"text":"[Arab بَنِي banī n pl m 'keturunan lelaki']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["bani Adam"],"peribahasa":[],"idiom":[]}},{"id":"217632","nama":"ba.ni","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kkd","nama":"kokoda","tipe":"lainnya"}],"definisi":"proses melamar perempuan suku Kokoda yang dilakukan oleh para wanita sanak saudara pihak laki-laki","contoh":[]}],"etimologi":{"text":"[Arab بَنِي banī n pl m 'keturunan lelaki']","languages":["Arab"]}}]}
+{
+  "word": "bani",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8030",
+      "nama": "ba.ni",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anak; anak cucu; keturunan: seluruh umat manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Adam"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَنِي banī n pl m 'keturunan lelaki']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bani Adam"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "217632",
+      "nama": "ba.ni",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kkd",
+              "nama": "kokoda",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "proses melamar perempuan suku Kokoda yang dilakukan oleh para wanita sanak saudara pihak laki-laki",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَنِي banī n pl m 'keturunan lelaki']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

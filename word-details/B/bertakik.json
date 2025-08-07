@@ -1,1 +1,48 @@
-{"word":"bertakik","authenticated":true,"entries":[{"id":"81262","nama":"ber.ta.kik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada takiknya (takuknya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"memiliki ujung melengkung yang tengahnya bertoreh dangkal dan kedua cuping yang dihasilkan membundar","contoh":[{"nomor":2,"teks":"tumbuhan itu ~ dan tidak semua memiliki ciri yang sama"}]}],"rootWord":"takik"}]}
+{
+  "word": "bertakik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81262",
+      "nama": "ber.ta.kik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada takiknya (takuknya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "memiliki ujung melengkung yang tengahnya bertoreh dangkal dan kedua cuping yang dihasilkan membundar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tumbuhan itu ~ dan tidak semua memiliki ciri yang sama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "takik"
+    }
+  ]
+}

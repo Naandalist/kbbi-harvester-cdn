@@ -1,1 +1,116 @@
-{"word":"bodong","authenticated":true,"entries":[{"id":"12081","nama":"bo.dong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tersembul pusatnya; bosot","contoh":[]}]},{"id":"12082","nama":"bo.dong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"angin kencang","contoh":[]}]},{"id":"183460","nama":"bo.dong","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"palsu","contoh":[{"nomor":2,"teks":"ijazah --"},{"nomor":4,"teks":"investasi --"}]}]},{"id":"226265","nama":"bo.dong","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tidak disertai surat kepemilikan dan tanda nomor (tentang kendaraan bermotor) yang sah dan terdaftar","contoh":[{"nomor":2,"teks":"kendaraan jadi -- jika menunggak pajak"}]}]}]}
+{
+  "word": "bodong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12081",
+      "nama": "bo.dong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tersembul pusatnya; bosot",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "12082",
+      "nama": "bo.dong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angin kencang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "183460",
+      "nama": "bo.dong",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "palsu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ijazah --"
+            },
+            {
+              "nomor": 4,
+              "teks": "investasi --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "226265",
+      "nama": "bo.dong",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak disertai surat kepemilikan dan tanda nomor (tentang kendaraan bermotor) yang sah dan terdaftar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kendaraan jadi -- jika menunggak pajak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

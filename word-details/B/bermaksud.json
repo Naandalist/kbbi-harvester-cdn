@@ -1,1 +1,65 @@
-{"word":"bermaksud","authenticated":true,"entries":[{"id":"51555","nama":"ber.mak.sud","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai maksud (tujuan, kehendak)","contoh":[{"nomor":2,"teks":"ia ~ mempererat persahabatan dengan teman-teman sekota"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berniat (hendak)","contoh":[{"nomor":2,"teks":"setelah sembuh dari sakit, ia ~ pulang ke kampung"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengandung arti (makna)","contoh":[{"nomor":2,"teks":"jangan disangka pujian yang muluk-muluk itu tidak ~ lain"}]}],"rootWord":"maksud"}]}
+{
+  "word": "bermaksud",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51555",
+      "nama": "ber.mak.sud",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai maksud (tujuan, kehendak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ mempererat persahabatan dengan teman-teman sekota"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berniat (hendak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah sembuh dari sakit, ia ~ pulang ke kampung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengandung arti (makna)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan disangka pujian yang muluk-muluk itu tidak ~ lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "maksud"
+    }
+  ]
+}

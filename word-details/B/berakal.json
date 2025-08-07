@@ -1,1 +1,57 @@
-{"word":"berakal","authenticated":true,"entries":[{"id":"1485","nama":"ber.a.kal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai akal","contoh":[{"nomor":2,"teks":"manusia adalah makhluk yang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pandai mencari ikhtiar; cerdik; pandai","contoh":[{"nomor":2,"teks":"orang yang ~ tidak mudah putus asa"}]}],"rootWord":"akal","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berakal ke lutut, berontak ke empu kaki","hidup berakal, mati beriman"],"idiom":[]}}]}
+{
+  "word": "berakal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1485",
+      "nama": "ber.a.kal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai akal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "manusia adalah makhluk yang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pandai mencari ikhtiar; cerdik; pandai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang ~ tidak mudah putus asa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "akal",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berakal ke lutut, berontak ke empu kaki",
+          "hidup berakal, mati beriman"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

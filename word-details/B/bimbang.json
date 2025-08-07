@@ -1,1 +1,105 @@
-{"word":"bimbang","authenticated":true,"entries":[{"id":"11521","nama":"bim.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(merasa) tidak tetap hati (kurang percaya); ragu-ragu; imbang2","contoh":[{"nomor":2,"teks":"ia masih -- menerima usul itu"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(merasa) khawatir; cemas","contoh":[{"nomor":2,"teks":"ia selalu -- memikirkan nasib anaknya yang merantau di negeri orang"}]}],"terkait":{"kataTurunan":["kebimbangan","membimbangkan"],"gabunganKata":["bimbang hati","bimbang gedang"],"peribahasa":[],"idiom":[]}},{"id":"11525","nama":"bim.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"upacara atau pesta adat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bimbang gedang"],"peribahasa":[],"idiom":[]}},{"id":"11526","nama":"bim.bang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berganti-ganti; bergantian","contoh":[]}]}]}
+{
+  "word": "bimbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11521",
+      "nama": "bim.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(merasa) tidak tetap hati (kurang percaya); ragu-ragu; imbang2",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia masih -- menerima usul itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(merasa) khawatir; cemas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia selalu -- memikirkan nasib anaknya yang merantau di negeri orang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebimbangan",
+          "membimbangkan"
+        ],
+        "gabunganKata": [
+          "bimbang hati",
+          "bimbang gedang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "11525",
+      "nama": "bim.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "upacara atau pesta adat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bimbang gedang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "11526",
+      "nama": "bim.bang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berganti-ganti; bergantian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

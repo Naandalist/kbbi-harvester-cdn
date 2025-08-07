@@ -1,1 +1,70 @@
-{"word":"bertekun","authenticated":true,"entries":[{"id":"83874","nama":"ber.te.kun","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkeras hati dan sungguh-sungguh (bekerja, belajar, berusaha, dan sebagainya)","contoh":[{"nomor":2,"teks":"dalam menghadapi ujian, ia ~ belajar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tetap berpegang teguh pada (adat dan sebagainya)","contoh":[{"nomor":2,"teks":"selama masih ~ pada adat lama, orang akan sukar mendapat kemajuan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"(pada, di, ke) bertelekan (pada)","contoh":[{"nomor":2,"teks":"berdiri ~ ke langkan"}]}],"rootWord":"tekun"}]}
+{
+  "word": "bertekun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83874",
+      "nama": "ber.te.kun",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkeras hati dan sungguh-sungguh (bekerja, belajar, berusaha, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam menghadapi ujian, ia ~ belajar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tetap berpegang teguh pada (adat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama masih ~ pada adat lama, orang akan sukar mendapat kemajuan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(pada, di, ke) bertelekan (pada)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdiri ~ ke langkan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tekun"
+    }
+  ]
+}

@@ -1,1 +1,88 @@
-{"word":"beje","authenticated":true,"entries":[{"id":"115579","nama":"be.je","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"},{"kode":"Ikn","nama":"Perikanan","tipe":"bidang_subjek"}],"definisi":"rawa tergenang ketika banjir dan dijadikan tempat mencari ikan ketika air sudah surut","contoh":[{"nomor":2,"teks":"pada musim kemarau banyak ikan terperangkap di dalam --"}]}]},{"id":"178625","nama":"be.je","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"getah tanaman untuk obat menguatkan gigi, digunakan dengan cara dibakar","contoh":[]}]},{"id":"255149","nama":"be.je","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bkp","nama":"Bakumpai","tipe":"lainnya"}],"definisi":"kolam buatan di lahan pasang surut yang digunakan untuk memerangkap ikan","contoh":[]}]}]}
+{
+  "word": "beje",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "115579",
+      "nama": "be.je",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Ikn",
+              "nama": "Perikanan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "rawa tergenang ketika banjir dan dijadikan tempat mencari ikan ketika air sudah surut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada musim kemarau banyak ikan terperangkap di dalam --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "178625",
+      "nama": "be.je",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "getah tanaman untuk obat menguatkan gigi, digunakan dengan cara dibakar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "255149",
+      "nama": "be.je",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bkp",
+              "nama": "Bakumpai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kolam buatan di lahan pasang surut yang digunakan untuk memerangkap ikan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

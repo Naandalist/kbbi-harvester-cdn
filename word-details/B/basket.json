@@ -1,1 +1,69 @@
-{"word":"basket","authenticated":true,"entries":[{"id":"8595","nama":"bas.ket","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat bola","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"lingkaran berjaring yang dipasang pada ketinggian tiga meter pada papan sebagai tempat memasukkan bola pada olahraga bola basket","contoh":[]}],"terkait":{"kataTurunan":["berbasket","pebasket"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"115414","nama":"bas.ket","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tempat yang berbentuk segi empat, terbuat dari plastik dengan daya muat 60 kg, digunakan untuk menampung ikan atau udang","contoh":[]}]}]}
+{
+  "word": "basket",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8595",
+      "nama": "bas.ket",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat bola",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lingkaran berjaring yang dipasang pada ketinggian tiga meter pada papan sebagai tempat memasukkan bola pada olahraga bola basket",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbasket",
+          "pebasket"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "115414",
+      "nama": "bas.ket",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tempat yang berbentuk segi empat, terbuat dari plastik dengan daya muat 60 kg, digunakan untuk menampung ikan atau udang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

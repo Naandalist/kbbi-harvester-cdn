@@ -1,1 +1,53 @@
-{"word":"bernoda","authenticated":true,"entries":[{"id":"57114","nama":"ber.no.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada nodanya (sehingga kotor dan sebagainya)","contoh":[{"nomor":2,"teks":"baju putihnya ~ oleh getah pisang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bercela (mendapat nama buruk)","contoh":[{"nomor":2,"teks":"namanya sudah ~ di daerah itu"}]}],"rootWord":"noda"}]}
+{
+  "word": "bernoda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57114",
+      "nama": "ber.no.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada nodanya (sehingga kotor dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baju putihnya ~ oleh getah pisang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercela (mendapat nama buruk)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "namanya sudah ~ di daerah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "noda"
+    }
+  ]
+}

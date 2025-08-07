@@ -1,1 +1,104 @@
-{"word":"bersalahan","authenticated":true,"entries":[{"id":"71307","nama":"ber.sa.lah.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbeda; berlainan","contoh":[{"nomor":2,"teks":"raut wajah gadis itu ~ dengan raut wajah ibunya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berselisih","contoh":[{"nomor":2,"teks":"ia ~ pendapat dengan atasannya tentang cara menyusun laporan keuangan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertentangan; tidak sesuai dengan","contoh":[{"nomor":2,"teks":"sepak terjangnya ~ dengan kepercayaan dan keyakinan yang dianutnya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbantah; bercekcok","contoh":[{"nomor":2,"teks":"dalam banyak hal kedua orang itu sering ~"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kurang sehat (badan); menyalah","contoh":[{"nomor":2,"teks":"badannya agak ~ sehari ini"}]}],"rootWord":"salah"}]}
+{
+  "word": "bersalahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71307",
+      "nama": "ber.sa.lah.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbeda; berlainan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "raut wajah gadis itu ~ dengan raut wajah ibunya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berselisih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ pendapat dengan atasannya tentang cara menyusun laporan keuangan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertentangan; tidak sesuai dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sepak terjangnya ~ dengan kepercayaan dan keyakinan yang dianutnya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbantah; bercekcok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam banyak hal kedua orang itu sering ~"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang sehat (badan); menyalah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "badannya agak ~ sehari ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "salah"
+    }
+  ]
+}

@@ -1,1 +1,68 @@
-{"word":"benggolan","authenticated":true,"entries":[{"id":"10181","nama":"beng.gol.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mata uang benggol","contoh":[]}],"rootWord":"benggol²"},{"id":"10183","nama":"beng.gol.an","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kepala penjahat (perampok dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tokoh terkemuka (dalam partai); gembong","contoh":[]}],"rootWord":"benggol³"}]}
+{
+  "word": "benggolan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10181",
+      "nama": "beng.gol.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mata uang benggol",
+          "contoh": []
+        }
+      ],
+      "rootWord": "benggol²"
+    },
+    {
+      "id": "10183",
+      "nama": "beng.gol.an",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala penjahat (perampok dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tokoh terkemuka (dalam partai); gembong",
+          "contoh": []
+        }
+      ],
+      "rootWord": "benggol³"
+    }
+  ]
+}

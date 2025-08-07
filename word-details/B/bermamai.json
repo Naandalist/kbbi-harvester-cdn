@@ -1,1 +1,31 @@
-{"word":"bermamai","authenticated":true,"entries":[{"id":"51754","nama":"ber.ma.mai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkata-kata dalam tidur; mengigau","contoh":[{"nomor":2,"teks":"semalam ia ~ sehingga saya terbangun"}]}],"rootWord":"mamai¹"}]}
+{
+  "word": "bermamai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51754",
+      "nama": "ber.ma.mai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkata-kata dalam tidur; mengigau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semalam ia ~ sehingga saya terbangun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mamai¹"
+    }
+  ]
+}

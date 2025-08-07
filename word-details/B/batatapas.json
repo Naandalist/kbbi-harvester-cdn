@@ -1,1 +1,35 @@
-{"word":"batatapas","authenticated":true,"entries":[{"id":"120377","nama":"ba.ta.ta.pas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"mencuci pakaian","contoh":[{"nomor":2,"teks":"ia sedang -- di tepi sungai"}]}]}]}
+{
+  "word": "batatapas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "120377",
+      "nama": "ba.ta.ta.pas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencuci pakaian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang -- di tepi sungai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

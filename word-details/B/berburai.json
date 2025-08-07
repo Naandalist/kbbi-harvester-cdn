@@ -1,1 +1,70 @@
-{"word":"berburai","authenticated":true,"entries":[{"id":"13614","nama":"ber.bu.rai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar bertaburan (cerai-berai dan sebagainya seperti usus dari dalam perut)","contoh":[{"nomor":2,"teks":"~ isi perutnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terurai (ke luar) dan kusut","contoh":[{"nomor":2,"teks":"rambutnya ~ diembus angin"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bocor dan tersiar ke mana-mana (tentang rahasia dan sebagainya)","contoh":[{"nomor":2,"teks":"rahasia di antara mereka itu akhirnya ~ juga"}]}],"rootWord":"burai"}]}
+{
+  "word": "berburai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13614",
+      "nama": "ber.bu.rai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar bertaburan (cerai-berai dan sebagainya seperti usus dari dalam perut)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ isi perutnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terurai (ke luar) dan kusut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya ~ diembus angin"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bocor dan tersiar ke mana-mana (tentang rahasia dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rahasia di antara mereka itu akhirnya ~ juga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "burai"
+    }
+  ]
+}

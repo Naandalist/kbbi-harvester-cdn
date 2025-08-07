@@ -1,1 +1,51 @@
-{"word":"berpusu-pusu","authenticated":true,"entries":[{"id":"66247","nama":"ber.pu.su-pu.su","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkelompok-kelompok; berduyun-duyun","contoh":[]}],"rootWord":"pusu²"},{"id":"66249","nama":"ber.pu.su-pu.su","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersebar tidak teratur: lari ke mana-mana tidak keruan","contoh":[{"nomor":2,"teks":"lari ~"}]}],"rootWord":"pusu³"}]}
+{
+  "word": "berpusu-pusu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66247",
+      "nama": "ber.pu.su-pu.su",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkelompok-kelompok; berduyun-duyun",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pusu²"
+    },
+    {
+      "id": "66249",
+      "nama": "ber.pu.su-pu.su",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersebar tidak teratur: lari ke mana-mana tidak keruan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lari ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pusu³"
+    }
+  ]
+}

@@ -1,1 +1,36 @@
-{"word":"berserang","authenticated":true,"entries":[{"id":"75731","nama":"ber.se.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"bertambah","contoh":[{"nomor":2,"teks":"rusuh hati makin ~"}]}],"rootWord":"serang²"}]}
+{
+  "word": "berserang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75731",
+      "nama": "ber.se.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bertambah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rusuh hati makin ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "serang²"
+    }
+  ]
+}

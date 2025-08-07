@@ -1,1 +1,83 @@
-{"word":"bobor","authenticated":true,"entries":[{"id":"207768","nama":"bo.bor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"masakan tradisional Jawa yang terbuat dari bayam, daun singkong, kemangi, pepaya muda atau labu, dimasak bersama santan, bawang merah, bawang putih, ketumbar, kemiri, daun salam, daun jeruk purut, laos, dan sereh","contoh":[]}]},{"id":"168959","nama":"bo.bor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"tidak tumbuh lagi karena sudah dewasa (tentang tanaman)","contoh":[{"nomor":2,"teks":"pohon ini sudah --"}]}]},{"id":"240954","nama":"bo.bor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Us","nama":"Using","tipe":"lainnya"}],"definisi":"lauk yang terbuat dari udang atau ikan kecil, kelapa muda parut, rempah-rempah, dibungkus dengan daun pisang, lalu dikukus","contoh":[]}]}]}
+{
+  "word": "bobor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "207768",
+      "nama": "bo.bor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "masakan tradisional Jawa yang terbuat dari bayam, daun singkong, kemangi, pepaya muda atau labu, dimasak bersama santan, bawang merah, bawang putih, ketumbar, kemiri, daun salam, daun jeruk purut, laos, dan sereh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "168959",
+      "nama": "bo.bor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak tumbuh lagi karena sudah dewasa (tentang tanaman)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pohon ini sudah --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "240954",
+      "nama": "bo.bor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Us",
+              "nama": "Using",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lauk yang terbuat dari udang atau ikan kecil, kelapa muda parut, rempah-rempah, dibungkus dengan daun pisang, lalu dikukus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

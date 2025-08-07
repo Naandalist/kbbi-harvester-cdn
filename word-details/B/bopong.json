@@ -1,1 +1,57 @@
-{"word":"bopong","authenticated":true,"entries":[{"id":"12361","nama":"bo.pong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gendong","contoh":[]}],"terkait":{"kataTurunan":["membopong"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"241891","nama":"bo.pong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"berwarna kuning pada badan, hitam di bagian kaki (tentang corak kuda)","contoh":[]}]}]}
+{
+  "word": "bopong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12361",
+      "nama": "bo.pong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gendong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membopong"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "241891",
+      "nama": "bo.pong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berwarna kuning pada badan, hitam di bagian kaki (tentang corak kuda)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

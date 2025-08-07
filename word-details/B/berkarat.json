@@ -1,1 +1,79 @@
-{"word":"berkarat","authenticated":true,"entries":[{"id":"37146","nama":"ber.ka.rat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada karatnya; dimakan karat","contoh":[{"nomor":2,"teks":"pisau yang ~ jangan dipakai untuk menyembelih"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tua; lapuk","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"jahat; buruk","contoh":[{"nomor":2,"teks":"hatinya ~"}]}],"rootWord":"karat¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["besi baik tiada berkarat (budi baik tak dilupakan)","diam penggali berkarat, diam ubi berisi"],"idiom":[]}}]}
+{
+  "word": "berkarat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37146",
+      "nama": "ber.ka.rat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada karatnya; dimakan karat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pisau yang ~ jangan dipakai untuk menyembelih"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tua; lapuk",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jahat; buruk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "karat¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "besi baik tiada berkarat (budi baik tak dilupakan)",
+          "diam penggali berkarat, diam ubi berisi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

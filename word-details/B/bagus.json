@@ -1,1 +1,78 @@
-{"word":"bagus","authenticated":true,"entries":[{"id":"6790","nama":"ba.gus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"baik sekali; elok","contoh":[{"nomor":2,"teks":"permainannya -- sekali"}]}],"etimologi":{"text":"[Jawa Kuno bagus 'ketampanan, tampan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bagusan","kebagusan","membagusi","membaguskan","memperbagus","sebagus","sebagus-bagusnya","terbagus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"6796","nama":"ba.gus","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial bagusan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bagus 'ketampanan, tampan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bagusan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bagus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6790",
+      "nama": "ba.gus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baik sekali; elok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "permainannya -- sekali"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bagus 'ketampanan, tampan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bagusan",
+          "kebagusan",
+          "membagusi",
+          "membaguskan",
+          "memperbagus",
+          "sebagus",
+          "sebagus-bagusnya",
+          "terbagus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "6796",
+      "nama": "ba.gus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial bagusan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bagus 'ketampanan, tampan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bagusan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

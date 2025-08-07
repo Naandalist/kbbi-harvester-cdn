@@ -1,1 +1,336 @@
-{"word":"bila","authenticated":true,"entries":[{"id":"11413","nama":"bi.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menanyakan waktu; kapan","contoh":[{"nomor":2,"teks":"-- Saudara berangkat?"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kalau; jika; apabila; ketika","contoh":[{"nomor":2,"teks":"ia baru menjawab -- ditanya"}]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bila-bila"],"gabunganKata":["bila mungkin","bila perlu","bila saja"],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"11418","nama":"bi.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan tindakan balas dendam (di Aceh)","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"159679","nama":"bi.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"pohon, tingginya mencapai 10 m, batang silindris, berwarna putih kehitaman, daunnya tersusun majemuk, menyirip, helai lonjong dengan ujung meruncing, buahnya berbentuk bulat telur dan berwarna cokelat, biasanya dimanfaatkan sebagai topi atau wadah air〔Crescentia cujete〕","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"214144","nama":"bi.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"lantai dari bilah-bilah bambu yang dijalin jarang","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"215715","nama":"bi.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"buah maja","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"216902","nama":"bi.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"pengusir hama yang terbuat dari buah maja yang ditumbuk dan difermentasikan hingga menjadi bahan pestisida","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"232657","nama":"bi.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bgk","nama":"Bungku","tipe":"lainnya"}],"definisi":"wadah air terbuat dari tempurung buah maja","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}},{"id":"232768","nama":"bi.la","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cl","nama":"Culambacu","tipe":"lainnya"}],"definisi":"wadah bertutup yang berbentuk setengah bola, dibuat dari buah maja, digunakan untuk menyimpan tuak atau nira","contoh":[]}],"etimologi":{"text":"[Sanskerta वेला velā n f 'waktu, musim, interval, batas']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti katak, bila ingat langsung melompat","seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"],"idiom":[]}}]}
+{
+  "word": "bila",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11413",
+      "nama": "bi.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menanyakan waktu; kapan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Saudara berangkat?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kalau; jika; apabila; ketika",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia baru menjawab -- ditanya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bila-bila"
+        ],
+        "gabunganKata": [
+          "bila mungkin",
+          "bila perlu",
+          "bila saja"
+        ],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "11418",
+      "nama": "bi.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan tindakan balas dendam (di Aceh)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "159679",
+      "nama": "bi.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pohon, tingginya mencapai 10 m, batang silindris, berwarna putih kehitaman, daunnya tersusun majemuk, menyirip, helai lonjong dengan ujung meruncing, buahnya berbentuk bulat telur dan berwarna cokelat, biasanya dimanfaatkan sebagai topi atau wadah air〔Crescentia cujete〕",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "214144",
+      "nama": "bi.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lantai dari bilah-bilah bambu yang dijalin jarang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "215715",
+      "nama": "bi.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "buah maja",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216902",
+      "nama": "bi.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengusir hama yang terbuat dari buah maja yang ditumbuk dan difermentasikan hingga menjadi bahan pestisida",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "232657",
+      "nama": "bi.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bgk",
+              "nama": "Bungku",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah air terbuat dari tempurung buah maja",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "232768",
+      "nama": "bi.la",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cl",
+              "nama": "Culambacu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah bertutup yang berbentuk setengah bola, dibuat dari buah maja, digunakan untuk menyimpan tuak atau nira",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta वेला velā n f 'waktu, musim, interval, batas']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti katak, bila ingat langsung melompat",
+          "seperti orang mati, jika tiada orang mengangkat, bila akan bergerak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

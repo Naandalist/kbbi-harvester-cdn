@@ -1,1 +1,55 @@
-{"word":"berlalu lintas","authenticated":true,"entries":[{"id":"46134","nama":"ber.la.lu lin.tas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada lalu lintasnya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkenaan dengan lalu lintas","contoh":[{"nomor":2,"teks":"aturan ~ perlu dipatuhi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan tindak lalu lintas (dengan kendaraan)","contoh":[]}],"rootWord":"lalu lintas"}]}
+{
+  "word": "berlalu lintas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46134",
+      "nama": "ber.la.lu lin.tas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada lalu lintasnya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkenaan dengan lalu lintas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aturan ~ perlu dipatuhi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan tindak lalu lintas (dengan kendaraan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lalu lintas"
+    }
+  ]
+}

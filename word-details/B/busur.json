@@ -1,1 +1,132 @@
-{"word":"busur","authenticated":true,"entries":[{"id":"13835","nama":"bu.sur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bilah kayu, bambu, dan sebagainya yang direntangkan dengan tali untuk melepaskan anak panah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat (perkakas) untuk membersihkan kapas (kapuk) yang bentuknya seperti busur","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat berbentuk setengah lingkaran untuk mengukur derajat (dalam matematika)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"garis lengkung yang menghubungkan dua titik sembarang pada sisi lingkaran","contoh":[]}],"terkait":{"kataTurunan":["dibusur","membusur","busur-busur"],"gabunganKata":["busur biola","busur derajat","busur fajar","busur kecil","busur kepulauan","busur komposit","busur labial","busur lingkar zenit","busur lingkaran","busur listrik","busur magmatik","busur nyala","busur pulau","busur sekawan","busur senja","busur setengah lingkaran","busur silang","busur tangen","busur vulkanik","busur besar"],"peribahasa":["seperti anak panah lepas dari busur","tali busur tidak selamanya dapat diregang"],"idiom":[]}},{"id":"13845","nama":"bu.sur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hak milik atas tanah perkebunan kopi (di Jawa Timur)","contoh":[]}],"terkait":{"kataTurunan":["busur-busur"],"gabunganKata":["busur besar"],"peribahasa":["seperti anak panah lepas dari busur","tali busur tidak selamanya dapat diregang"],"idiom":[]}}]}
+{
+  "word": "busur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13835",
+      "nama": "bu.sur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bilah kayu, bambu, dan sebagainya yang direntangkan dengan tali untuk melepaskan anak panah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat (perkakas) untuk membersihkan kapas (kapuk) yang bentuknya seperti busur",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat berbentuk setengah lingkaran untuk mengukur derajat (dalam matematika)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "garis lengkung yang menghubungkan dua titik sembarang pada sisi lingkaran",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "dibusur",
+          "membusur",
+          "busur-busur"
+        ],
+        "gabunganKata": [
+          "busur biola",
+          "busur derajat",
+          "busur fajar",
+          "busur kecil",
+          "busur kepulauan",
+          "busur komposit",
+          "busur labial",
+          "busur lingkar zenit",
+          "busur lingkaran",
+          "busur listrik",
+          "busur magmatik",
+          "busur nyala",
+          "busur pulau",
+          "busur sekawan",
+          "busur senja",
+          "busur setengah lingkaran",
+          "busur silang",
+          "busur tangen",
+          "busur vulkanik",
+          "busur besar"
+        ],
+        "peribahasa": [
+          "seperti anak panah lepas dari busur",
+          "tali busur tidak selamanya dapat diregang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "13845",
+      "nama": "bu.sur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hak milik atas tanah perkebunan kopi (di Jawa Timur)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "busur-busur"
+        ],
+        "gabunganKata": [
+          "busur besar"
+        ],
+        "peribahasa": [
+          "seperti anak panah lepas dari busur",
+          "tali busur tidak selamanya dapat diregang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

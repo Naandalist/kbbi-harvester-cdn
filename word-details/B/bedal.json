@@ -1,1 +1,67 @@
-{"word":"bedal","authenticated":true,"entries":[{"id":"9335","nama":"be.dal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pukul","contoh":[]}],"terkait":{"kataTurunan":["membedal"],"gabunganKata":[],"peribahasa":["seperti ular kena bedal (palu, pukul)"],"idiom":[]}},{"id":"9337","nama":"be.dal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lepas dan lari (tentang kuda dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti ular kena bedal (palu, pukul)"],"idiom":[]}}]}
+{
+  "word": "bedal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9335",
+      "nama": "be.dal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membedal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti ular kena bedal (palu, pukul)"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "9337",
+      "nama": "be.dal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lepas dan lari (tentang kuda dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti ular kena bedal (palu, pukul)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

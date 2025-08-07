@@ -1,1 +1,107 @@
-{"word":"baret","authenticated":true,"entries":[{"id":"8415","nama":"ba.ret","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"goresan (pada kulit, kaca)","contoh":[]}],"terkait":{"kataTurunan":["baretan","berbaret","membaret","pembaretan","terbaret"],"gabunganKata":["baret biru","baret cokelat","baret hijau","baret hitam","baret jingga","baret merah","baret ungu"],"peribahasa":[],"idiom":[]}},{"id":"8416","nama":"ba.ret","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"topi yang bentuknya bundar pipih (dipakai oleh tentara, mahasiswa, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["baret biru","baret cokelat","baret hijau","baret hitam","baret jingga","baret merah","baret ungu"],"peribahasa":[],"idiom":[]}},{"id":"115410","nama":"ba.ret","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bagian jaring ikan yang berada di sisi atas dan sisi bawah","contoh":[]}]}]}
+{
+  "word": "baret",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8415",
+      "nama": "ba.ret",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "goresan (pada kulit, kaca)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "baretan",
+          "berbaret",
+          "membaret",
+          "pembaretan",
+          "terbaret"
+        ],
+        "gabunganKata": [
+          "baret biru",
+          "baret cokelat",
+          "baret hijau",
+          "baret hitam",
+          "baret jingga",
+          "baret merah",
+          "baret ungu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "8416",
+      "nama": "ba.ret",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "topi yang bentuknya bundar pipih (dipakai oleh tentara, mahasiswa, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "baret biru",
+          "baret cokelat",
+          "baret hijau",
+          "baret hitam",
+          "baret jingga",
+          "baret merah",
+          "baret ungu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "115410",
+      "nama": "ba.ret",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bagian jaring ikan yang berada di sisi atas dan sisi bawah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

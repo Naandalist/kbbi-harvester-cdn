@@ -1,1 +1,43 @@
-{"word":"berladang","authenticated":true,"entries":[{"id":"45719","nama":"ber.la.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai (mengusahakan) ladang","contoh":[{"nomor":2,"teks":"di sini tidak banyak orang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(sedang) menanam dan sebagainya di ladang","contoh":[]}],"rootWord":"ladang¹"}]}
+{
+  "word": "berladang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45719",
+      "nama": "ber.la.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai (mengusahakan) ladang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di sini tidak banyak orang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(sedang) menanam dan sebagainya di ladang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ladang¹"
+    }
+  ]
+}

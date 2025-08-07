@@ -1,1 +1,60 @@
-{"word":"bidur","authenticated":true,"entries":[{"id":"11336","nama":"bi.dur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bongkah timah yang beratnya sekitar 3 pon (dipakai juga untuk ukuran harga)","contoh":[{"nomor":2,"teks":"mahar putri, anak raja Perak, dikatakan 100 --"}]},{"nomor":"2","kelasKata":[],"definisi":"teko yang terbuat dari campuran timah","contoh":[]}]},{"id":"11337","nama":"bi.dur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelegata","contoh":[]}]}]}
+{
+  "word": "bidur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11336",
+      "nama": "bi.dur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bongkah timah yang beratnya sekitar 3 pon (dipakai juga untuk ukuran harga)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mahar putri, anak raja Perak, dikatakan 100 --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [],
+          "definisi": "teko yang terbuat dari campuran timah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "11337",
+      "nama": "bi.dur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelegata",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

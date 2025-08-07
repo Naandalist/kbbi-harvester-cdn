@@ -1,1 +1,48 @@
-{"word":"berjanji","authenticated":true,"entries":[{"id":"33434","nama":"ber.jan.ji","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengucapkan janji; menyatakan bersedia dan sanggup untuk berbuat sesuatu (memberi, menolong, datang, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ hendak melunasi utang adiknya pada akhir bulan ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyanggupi akan menepati apa yang telah dikatakan atau yang telah disetujui","contoh":[{"nomor":2,"teks":"kedua belah pihak ~ akan selalu bekerja sama"}]}],"rootWord":"janji"}]}
+{
+  "word": "berjanji",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33434",
+      "nama": "ber.jan.ji",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengucapkan janji; menyatakan bersedia dan sanggup untuk berbuat sesuatu (memberi, menolong, datang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ hendak melunasi utang adiknya pada akhir bulan ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyanggupi akan menepati apa yang telah dikatakan atau yang telah disetujui",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua belah pihak ~ akan selalu bekerja sama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "janji"
+    }
+  ]
+}

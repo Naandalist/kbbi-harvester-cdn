@@ -1,1 +1,31 @@
-{"word":"berpasien","authenticated":true,"entries":[{"id":"108064","nama":"ber.pa.si.en","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai pasien","contoh":[{"nomor":2,"teks":"rumah sakit yang ~ sedikit itu mendapat limpahan pasien korban kecelakaan pesawat tersebut"}]}],"rootWord":"pasien"}]}
+{
+  "word": "berpasien",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "108064",
+      "nama": "ber.pa.si.en",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai pasien",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah sakit yang ~ sedikit itu mendapat limpahan pasien korban kecelakaan pesawat tersebut"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pasien"
+    }
+  ]
+}

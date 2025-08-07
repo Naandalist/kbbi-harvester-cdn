@@ -1,1 +1,78 @@
-{"word":"belong","authenticated":true,"entries":[{"id":"167763","nama":"be.long","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tempat penyimpanan air untuk keperluan masak-memasak di dapur, terbuat dari batu padas, berbentuk silinder, dan berpenutup di bagian atasnya","contoh":[]}]},{"id":"212667","nama":"be.long","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mata uang senilai 5 gulden","contoh":[]}]},{"id":"295235","nama":"be.long","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"melengkung dan berpilin (tentang benda pipih atau datar)","contoh":[{"nomor":2,"teks":"papan itu -- karena dijemur"}]}]}]}
+{
+  "word": "belong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "167763",
+      "nama": "be.long",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tempat penyimpanan air untuk keperluan masak-memasak di dapur, terbuat dari batu padas, berbentuk silinder, dan berpenutup di bagian atasnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "212667",
+      "nama": "be.long",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mata uang senilai 5 gulden",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "295235",
+      "nama": "be.long",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melengkung dan berpilin (tentang benda pipih atau datar)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "papan itu -- karena dijemur"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

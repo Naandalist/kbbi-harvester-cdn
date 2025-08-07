@@ -1,1 +1,78 @@
-{"word":"berembus","authenticated":true,"entries":[{"id":"21900","nama":"ber.em.bus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertiup (angin dan sebagainya)","contoh":[{"nomor":2,"teks":"angin pagi mulai ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar ditiupkan (tentang napas, udara dari mulut, dan sebagainya)","contoh":[{"nomor":2,"teks":"napasnya sudah tidak ~ lagi"}]}],"rootWord":"embus²"},{"id":"158183","nama":"ber.em.bus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"pergi menjauh","contoh":[{"nomor":2,"teks":"~lah kau dari sini"}]}],"rootWord":"embus¹"}]}
+{
+  "word": "berembus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21900",
+      "nama": "ber.em.bus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertiup (angin dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "angin pagi mulai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar ditiupkan (tentang napas, udara dari mulut, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "napasnya sudah tidak ~ lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "embus²"
+    },
+    {
+      "id": "158183",
+      "nama": "ber.em.bus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pergi menjauh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~lah kau dari sini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "embus¹"
+    }
+  ]
+}

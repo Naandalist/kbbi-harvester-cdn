@@ -1,1 +1,69 @@
-{"word":"badal","authenticated":true,"entries":[{"id":"6612","nama":"ba.dal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengganti (terutama bagi orang naik haji); wakil","contoh":[]}],"etimologi":{"text":"[Arab بَدَلٌ badal n sg m 'pengganti']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["badal haji"],"peribahasa":[],"idiom":[]}},{"id":"213229","nama":"ba.dal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"anak kancra","contoh":[]}],"etimologi":{"text":"[Arab بَدَلٌ badal n sg m 'pengganti']","languages":["Arab"]}}]}
+{
+  "word": "badal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6612",
+      "nama": "ba.dal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengganti (terutama bagi orang naik haji); wakil",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَدَلٌ badal n sg m 'pengganti']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "badal haji"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "213229",
+      "nama": "ba.dal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak kancra",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab بَدَلٌ badal n sg m 'pengganti']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

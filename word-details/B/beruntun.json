@@ -1,1 +1,51 @@
-{"word":"beruntun","authenticated":true,"entries":[{"id":"70482","nama":"be.run.tun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berturut-turut; berderet-deret","contoh":[{"nomor":2,"teks":"terdengar suara tembakan ~"}]}],"rootWord":"runtun²"},{"id":"89860","nama":"ber.un.tun","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berurutan","contoh":[]}],"rootWord":"untun"}]}
+{
+  "word": "beruntun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70482",
+      "nama": "be.run.tun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berturut-turut; berderet-deret",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terdengar suara tembakan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "runtun²"
+    },
+    {
+      "id": "89860",
+      "nama": "ber.un.tun",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berurutan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "untun"
+    }
+  ]
+}

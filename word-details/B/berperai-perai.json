@@ -1,1 +1,60 @@
-{"word":"berperai-perai","authenticated":true,"entries":[{"id":"62202","nama":"ber.pe.rai-pe.rai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercerai-berai; berpisah-pisah","contoh":[{"nomor":2,"teks":"kembanglah bunga senduduk, bunga sembung ~"},{"nomor":4,"teks":"mereka lari ~"}]}],"rootWord":"perai¹"},{"id":"62205","nama":"ber.pe.rai-pe.rai","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"membelokkan (kapal dan sebagainya) ke kiri dan ke kanan; membuang perai","contoh":[]}],"rootWord":"perai³"}]}
+{
+  "word": "berperai-perai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62202",
+      "nama": "ber.pe.rai-pe.rai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercerai-berai; berpisah-pisah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kembanglah bunga senduduk, bunga sembung ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "mereka lari ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "perai¹"
+    },
+    {
+      "id": "62205",
+      "nama": "ber.pe.rai-pe.rai",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membelokkan (kapal dan sebagainya) ke kiri dan ke kanan; membuang perai",
+          "contoh": []
+        }
+      ],
+      "rootWord": "perai³"
+    }
+  ]
+}

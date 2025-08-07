@@ -1,1 +1,36 @@
-{"word":"bersaur","authenticated":true,"entries":[{"id":"72764","nama":"ber.sa.ur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"dalam keadaan berbelit (berkait, bertaut, berpaut)","contoh":[{"nomor":2,"teks":"cincin ~ dengan cincin"}]}],"rootWord":"saur¹"}]}
+{
+  "word": "bersaur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72764",
+      "nama": "ber.sa.ur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dalam keadaan berbelit (berkait, bertaut, berpaut)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cincin ~ dengan cincin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "saur¹"
+    }
+  ]
+}

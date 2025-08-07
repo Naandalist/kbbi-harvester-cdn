@@ -1,1 +1,73 @@
-{"word":"bersembahyang","authenticated":true,"entries":[{"id":"74375","nama":"ber.sem.bah.yang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan sembahyang (salat)","contoh":[{"nomor":2,"teks":"mereka ~ hari raya di lapangan masjid Al-Azhar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdoa (memohon) kepada Tuhan","contoh":[{"nomor":2,"teks":"~ di gereja"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan upacara selamatan untuk menghormati (memuliakan) para leluhur dan sebagainya","contoh":[{"nomor":2,"teks":"~ Tahun Baru"}]}],"rootWord":"sembahyang","terkait":{"kataTurunan":[],"gabunganKata":["bersembahyang pujian"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bersembahyang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74375",
+      "nama": "ber.sem.bah.yang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan sembahyang (salat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ hari raya di lapangan masjid Al-Azhar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdoa (memohon) kepada Tuhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ di gereja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan upacara selamatan untuk menghormati (memuliakan) para leluhur dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ Tahun Baru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sembahyang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bersembahyang pujian"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

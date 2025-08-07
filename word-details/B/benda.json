@@ -1,1 +1,113 @@
-{"word":"benda","authenticated":true,"entries":[{"id":"10078","nama":"ben.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"segala yang ada dalam alam yang berwujud atau berjasad (bukan roh); zat (misalnya air, minyak)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barang yang berharga (sebagai kekayaan); harta","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barang","contoh":[{"nomor":2,"teks":"rumah itu terbakar bersama -- yang ada di dalamnya"}]}],"terkait":{"kataTurunan":["berbenda","kebendaan","membendakan","pembendaan","perbendaan"],"gabunganKata":["benda angkasa","benda bergerak","benda bersejarah","benda bertuah","benda cagar budaya","benda cair","benda ekonomi","benda hidup","benda hitam","benda konsumsi","benda langit","benda mati","benda maya","benda padat","benda purbakala","benda pusaka","benda seni","benda sitaan","benda sitaan negara","benda tahan lama","benda tegar","benda wakaf"],"peribahasa":[],"idiom":[]}},{"id":"233344","nama":"ben.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kayu pemukul gender dan gambang","contoh":[]}]}]}
+{
+  "word": "benda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10078",
+      "nama": "ben.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segala yang ada dalam alam yang berwujud atau berjasad (bukan roh); zat (misalnya air, minyak)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang yang berharga (sebagai kekayaan); harta",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah itu terbakar bersama -- yang ada di dalamnya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbenda",
+          "kebendaan",
+          "membendakan",
+          "pembendaan",
+          "perbendaan"
+        ],
+        "gabunganKata": [
+          "benda angkasa",
+          "benda bergerak",
+          "benda bersejarah",
+          "benda bertuah",
+          "benda cagar budaya",
+          "benda cair",
+          "benda ekonomi",
+          "benda hidup",
+          "benda hitam",
+          "benda konsumsi",
+          "benda langit",
+          "benda mati",
+          "benda maya",
+          "benda padat",
+          "benda purbakala",
+          "benda pusaka",
+          "benda seni",
+          "benda sitaan",
+          "benda sitaan negara",
+          "benda tahan lama",
+          "benda tegar",
+          "benda wakaf"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "233344",
+      "nama": "ben.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kayu pemukul gender dan gambang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,133 @@
-{"word":"ba","authenticated":true,"entries":[{"id":"6406","nama":"ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf ke-2 abjad Arab","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"nama huruf ke-18 abjad Jawa","contoh":[]}]},{"id":"223179","nama":"ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"roh orang yang sudah meninggal, dipercaya mendatangi kerabatnya sebagai pemberitahuan bahwa ia telah tiada","contoh":[]}]},{"id":"259211","nama":"BA","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"bagian anggaran (kelompok anggaran menurut nomenklatur kementerian/lembaga (K/L) dan menurut fungsi bendahara umum negara)","contoh":[]}]},{"id":"270677","nama":"BA","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kode pelat nomor kendaraan daerah Sumatra Barat","contoh":[]}]},{"id":"268207","nama":"BA","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"berita acara","contoh":[]}]}]}
+{
+  "word": "ba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6406",
+      "nama": "ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf ke-2 abjad Arab",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "nama huruf ke-18 abjad Jawa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "223179",
+      "nama": "ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roh orang yang sudah meninggal, dipercaya mendatangi kerabatnya sebagai pemberitahuan bahwa ia telah tiada",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259211",
+      "nama": "BA",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian anggaran (kelompok anggaran menurut nomenklatur kementerian/lembaga (K/L) dan menurut fungsi bendahara umum negara)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "270677",
+      "nama": "BA",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode pelat nomor kendaraan daerah Sumatra Barat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "268207",
+      "nama": "BA",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berita acara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,77 @@
-{"word":"banyu","authenticated":true,"entries":[{"id":"8239","nama":"ba.nyu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"air","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"barang cair untuk menghitamkan gigi (dibuat dari air kelapa dengan bakaran besi tua atau arang tempurung kelapa dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["banyu gege","banyu mas","banyu wantu","banyu wara"],"peribahasa":[],"idiom":[]}},{"id":"110013","nama":"ba.nyu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hantu sungai di Samarinda, konon dapat berwujud apa saja, mengganggu atau menakuti orang yang mandi di sungai","contoh":[]}]}]}
+{
+  "word": "banyu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8239",
+      "nama": "ba.nyu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "air",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang cair untuk menghitamkan gigi (dibuat dari air kelapa dengan bakaran besi tua atau arang tempurung kelapa dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "banyu gege",
+          "banyu mas",
+          "banyu wantu",
+          "banyu wara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "110013",
+      "nama": "ba.nyu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hantu sungai di Samarinda, konon dapat berwujud apa saja, mengganggu atau menakuti orang yang mandi di sungai",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

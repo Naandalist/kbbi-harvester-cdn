@@ -1,1 +1,127 @@
-{"word":"batak","authenticated":true,"entries":[{"id":"8644","nama":"ba.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"petualang; pengembara","contoh":[]}],"terkait":{"kataTurunan":["membatak","pembatak"],"gabunganKata":["Batak Karo","Batak Mandailing","Batak Pakpak","Batak parna","Batak Simalungun","Batak Toba"],"peribahasa":[],"idiom":[]}},{"id":"229939","nama":"ba.tak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"kayu besar yang sudah lapuk","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Batak Karo","Batak Mandailing","Batak Pakpak","Batak parna","Batak Simalungun","Batak Toba"],"peribahasa":[],"idiom":[]}},{"id":"8647","nama":"Ba.tak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami sebagian besar daerah Sumatera Utara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Batak","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Batak Karo","Batak Mandailing","Batak Pakpak","Batak parna","Batak Simalungun","Batak Toba"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "batak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8644",
+      "nama": "ba.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "petualang; pengembara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membatak",
+          "pembatak"
+        ],
+        "gabunganKata": [
+          "Batak Karo",
+          "Batak Mandailing",
+          "Batak Pakpak",
+          "Batak parna",
+          "Batak Simalungun",
+          "Batak Toba"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "229939",
+      "nama": "ba.tak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu besar yang sudah lapuk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Batak Karo",
+          "Batak Mandailing",
+          "Batak Pakpak",
+          "Batak parna",
+          "Batak Simalungun",
+          "Batak Toba"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "8647",
+      "nama": "Ba.tak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami sebagian besar daerah Sumatera Utara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Batak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Batak Karo",
+          "Batak Mandailing",
+          "Batak Pakpak",
+          "Batak parna",
+          "Batak Simalungun",
+          "Batak Toba"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

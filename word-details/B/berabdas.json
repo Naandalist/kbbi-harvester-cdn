@@ -1,1 +1,36 @@
-{"word":"berabdas","authenticated":true,"entries":[{"id":"72","nama":"ber.ab.das","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"membersihkan diri ketika hendak salat dengan berwudu atau bertayamum","contoh":[{"nomor":2,"teks":"setelah ~, ia lalu salat di masjid itu"}]}],"rootWord":"abdas"}]}
+{
+  "word": "berabdas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72",
+      "nama": "ber.ab.das",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "membersihkan diri ketika hendak salat dengan berwudu atau bertayamum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah ~, ia lalu salat di masjid itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "abdas"
+    }
+  ]
+}

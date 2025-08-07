@@ -1,1 +1,57 @@
-{"word":"buas","authenticated":true,"entries":[{"id":"12732","nama":"bu.as","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"galak; liar; ganas","contoh":[{"nomor":2,"teks":"binatang itu --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bengis; kejam","contoh":[]}],"terkait":{"kataTurunan":["kebuasan","membuas","terbuas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "buas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12732",
+      "nama": "bu.as",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "galak; liar; ganas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "binatang itu --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bengis; kejam",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebuasan",
+          "membuas",
+          "terbuas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,112 @@
-{"word":"barak","authenticated":true,"entries":[{"id":"8297","nama":"ba.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sebuah atau sekumpulan gedung tempat tinggal tentara; asrama tentara (polisi)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bangsal khusus tempat merawat orang sakit (menular)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bangunan yang bersifat sementara bagi pekerja","contoh":[]}],"terkait":{"kataTurunan":["membarak"],"gabunganKata":["barak sewaan"],"peribahasa":[],"idiom":[]}},{"id":"173035","nama":"ba.rak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kandang kambing","contoh":[]}]},{"id":"203755","nama":"ba.rak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mencuri ternak","contoh":[{"nomor":2,"teks":"jika terjadi --, warga yang bertugas ronda akan memukul kentongan dengan kode 5-5-5"}]}]}]}
+{
+  "word": "barak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8297",
+      "nama": "ba.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebuah atau sekumpulan gedung tempat tinggal tentara; asrama tentara (polisi)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangsal khusus tempat merawat orang sakit (menular)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangunan yang bersifat sementara bagi pekerja",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membarak"
+        ],
+        "gabunganKata": [
+          "barak sewaan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "173035",
+      "nama": "ba.rak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kandang kambing",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203755",
+      "nama": "ba.rak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencuri ternak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika terjadi --, warga yang bertugas ronda akan memukul kentongan dengan kode 5-5-5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

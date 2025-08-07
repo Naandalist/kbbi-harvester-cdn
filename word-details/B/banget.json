@@ -1,1 +1,79 @@
-{"word":"banget","authenticated":true,"entries":[{"id":"7897","nama":"ba.nget","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sangat","contoh":[{"nomor":2,"teks":"aku setuju -- dengan isi surat itu"}]}],"etimologi":{"text":"[Jawa Kuno baṅět 'kehebatan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kebangetan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"225812","nama":"ba.nget","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"penganan dari beras ketan yang dikukus, dicampur santan, garam, dan gula merah, biasanya berbentuk bulat, kotak, atau sesuai wadah, dibawa ketika acara besar seperti zikiran","contoh":[]}],"etimologi":{"text":"[Jawa Kuno baṅět 'kehebatan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "banget",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7897",
+      "nama": "ba.nget",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku setuju -- dengan isi surat itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno baṅět 'kehebatan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kebangetan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "225812",
+      "nama": "ba.nget",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penganan dari beras ketan yang dikukus, dicampur santan, garam, dan gula merah, biasanya berbentuk bulat, kotak, atau sesuai wadah, dibawa ketika acara besar seperti zikiran",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno baṅět 'kehebatan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,112 @@
-{"word":"bengis","authenticated":true,"entries":[{"id":"10185","nama":"be.ngis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kejam","contoh":[{"nomor":2,"teks":"raja itu sangat -- terhadap rakyatnya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menyebabkan penderitaan (kesengsaraan) yang berat","contoh":[{"nomor":2,"teks":"hukuman yang --"},{"nomor":4,"teks":"tindakan yang --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tajam dan pedas (tentang perkataan)","contoh":[{"nomor":2,"teks":"kata-katanya yang -- akan menimbulkan dendam"}]}],"terkait":{"kataTurunan":["kebengisan","membengisi","terbengis","membengis"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"10188","nama":"be.ngis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"marah; gusar","contoh":[]}],"terkait":{"kataTurunan":["membengis","membengisi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bengis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10185",
+      "nama": "be.ngis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kejam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "raja itu sangat -- terhadap rakyatnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan penderitaan (kesengsaraan) yang berat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hukuman yang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "tindakan yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tajam dan pedas (tentang perkataan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-katanya yang -- akan menimbulkan dendam"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebengisan",
+          "membengisi",
+          "terbengis",
+          "membengis"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "10188",
+      "nama": "be.ngis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "marah; gusar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membengis",
+          "membengisi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

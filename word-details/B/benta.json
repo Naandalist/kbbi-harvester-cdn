@@ -1,1 +1,83 @@
-{"word":"benta","authenticated":true,"entries":[{"id":"276893","nama":"ben.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bm","nama":"Bima","tipe":"lainnya"}],"definisi":"menjatuhkan sesuatu dengan cara menyenggol menggunakan kaki","contoh":[{"nomor":2,"teks":"saya tidak sengaja -- gelas itu"}]}]},{"id":"10308","nama":"ben.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bisul dalam daging (di bibir sebelah atas)","contoh":[]}]},{"id":"10309","nama":"ben.ta","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"rumput banto","contoh":[]}]}]}
+{
+  "word": "benta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "276893",
+      "nama": "ben.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bm",
+              "nama": "Bima",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menjatuhkan sesuatu dengan cara menyenggol menggunakan kaki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya tidak sengaja -- gelas itu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10308",
+      "nama": "ben.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bisul dalam daging (di bibir sebelah atas)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "10309",
+      "nama": "ben.ta",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rumput banto",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"berpijak","authenticated":true,"entries":[{"id":"63430","nama":"ber.pi.jak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertumpu (pada); berjejak (di); berdiri (di): tempatku berdiri","contoh":[{"nomor":2,"teks":"seakan-akan tidak ~ di tanah"},{"nomor":4,"teks":"tempatku ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpedoman (pada); berdasar (pada)","contoh":[{"nomor":2,"teks":"marilah kita ~ pada kaidah yang sudah ada"}]}],"rootWord":"pijak","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["terban bumi tempat berpijak"],"idiom":["terban bumi tempat berpijak"]}}]}
+{
+  "word": "berpijak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63430",
+      "nama": "ber.pi.jak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertumpu (pada); berjejak (di); berdiri (di): tempatku berdiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seakan-akan tidak ~ di tanah"
+            },
+            {
+              "nomor": 4,
+              "teks": "tempatku ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpedoman (pada); berdasar (pada)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "marilah kita ~ pada kaidah yang sudah ada"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pijak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "terban bumi tempat berpijak"
+        ],
+        "idiom": [
+          "terban bumi tempat berpijak"
+        ]
+      }
+    }
+  ]
+}

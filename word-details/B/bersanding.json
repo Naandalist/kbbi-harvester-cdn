@@ -1,1 +1,75 @@
-{"word":"bersanding","authenticated":true,"entries":[{"id":"71967","nama":"ber.san.ding","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(duduk) berjajar dan berdampingan; bersebelahan; berhampiran","contoh":[{"nomor":2,"teks":"kedua pengantin itu duduk ~"}]}],"rootWord":"sanding¹","terkait":{"kataTurunan":[],"gabunganKata":["bersanding bahu","bersanding dua"],"peribahasa":["batu hitam tak bersanding"],"idiom":[]}},{"id":"71973","nama":"ber.san.ding","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpenjuru (bersisi) tajam","contoh":[{"nomor":2,"teks":"meja itu ~ empat"}]}],"rootWord":"sanding²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["batu hitam tak bersanding"],"idiom":[]}}]}
+{
+  "word": "bersanding",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71967",
+      "nama": "ber.san.ding",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(duduk) berjajar dan berdampingan; bersebelahan; berhampiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua pengantin itu duduk ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sanding¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bersanding bahu",
+          "bersanding dua"
+        ],
+        "peribahasa": [
+          "batu hitam tak bersanding"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "71973",
+      "nama": "ber.san.ding",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpenjuru (bersisi) tajam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meja itu ~ empat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sanding²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "batu hitam tak bersanding"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

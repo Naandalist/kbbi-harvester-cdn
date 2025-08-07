@@ -1,1 +1,36 @@
-{"word":"bercuma","authenticated":true,"entries":[{"id":"16860","nama":"ber.cu.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"sia-sia; tidak ada gunanya","contoh":[{"nomor":2,"teks":"mati ~"}]}],"rootWord":"cuma"}]}
+{
+  "word": "bercuma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16860",
+      "nama": "ber.cu.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sia-sia; tidak ada gunanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mati ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cuma"
+    }
+  ]
+}

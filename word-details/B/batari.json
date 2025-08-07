@@ -1,1 +1,53 @@
-{"word":"batari","authenticated":true,"entries":[{"id":"8688","nama":"ba.ta.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"dewi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sebutan untuk dewa perempuan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bhaṭāri 'dewi (khususnya Durgā); gelar bagi ibu raja (hanya Kunti)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "batari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8688",
+      "nama": "ba.ta.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dewi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan untuk dewa perempuan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bhaṭāri 'dewi (khususnya Durgā); gelar bagi ibu raja (hanya Kunti)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

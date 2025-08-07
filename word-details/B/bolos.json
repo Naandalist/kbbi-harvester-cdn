@@ -1,1 +1,58 @@
-{"word":"bolos","authenticated":true,"entries":[{"id":"12200","nama":"bo.los","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ bulus2","contoh":[]}],"terkait":{"kataTurunan":["membolos","pembolos","pembolosan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"12201","nama":"bo.los","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak masuk bekerja (sekolah dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["membolos","pembolos","pembolosan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bolos",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12200",
+      "nama": "bo.los",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ bulus2",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membolos",
+          "pembolos",
+          "pembolosan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "12201",
+      "nama": "bo.los",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak masuk bekerja (sekolah dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membolos",
+          "pembolos",
+          "pembolosan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

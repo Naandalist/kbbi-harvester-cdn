@@ -1,1 +1,78 @@
-{"word":"bandrek","authenticated":true,"entries":[{"id":"7851","nama":"ban.drek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"minuman yang dibuat dari jahe, gula aren, lada, dan santan, biasa dicampur dengan air panas","contoh":[]}]},{"id":"7852","nama":"ban.drek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"berzina; bermukah","contoh":[]}]},{"id":"241750","nama":"ban.drek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"merusak kunci (pintu, besi, dan sebagainya) dengan alat lain","contoh":[{"nomor":2,"teks":"ayah terpaksa -- pintu kamar mandi karena tidak bisa dibuka"}]}]}]}
+{
+  "word": "bandrek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7851",
+      "nama": "ban.drek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "minuman yang dibuat dari jahe, gula aren, lada, dan santan, biasa dicampur dengan air panas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "7852",
+      "nama": "ban.drek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berzina; bermukah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "241750",
+      "nama": "ban.drek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "merusak kunci (pintu, besi, dan sebagainya) dengan alat lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah terpaksa -- pintu kamar mandi karena tidak bisa dibuka"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

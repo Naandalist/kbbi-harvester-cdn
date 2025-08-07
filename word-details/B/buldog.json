@@ -1,1 +1,42 @@
-{"word":"buldog","authenticated":true,"entries":[{"id":"13200","nama":"bul.dog","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anjing ras yang berasal dari Inggris, berukuran sedang, bermoncong lebar dan pendek, serta berkaki kekar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"pistol berlaras pendek berkaliber besar","contoh":[]}]}]}
+{
+  "word": "buldog",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13200",
+      "nama": "bul.dog",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anjing ras yang berasal dari Inggris, berukuran sedang, bermoncong lebar dan pendek, serta berkaki kekar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pistol berlaras pendek berkaliber besar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

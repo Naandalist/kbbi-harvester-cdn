@@ -1,1 +1,52 @@
-{"word":"berpenggal-penggal","authenticated":true,"entries":[{"id":"61906","nama":"ber.peng.gal-peng.gal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkerat-kerat; tidak utuh","contoh":[{"nomor":2,"teks":"membeli ikan kakap yang ~"},{"nomor":4,"teks":"cerita yang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beberapa penggal","contoh":[{"nomor":2,"teks":"ada ~ ubi kayu di dapur"}]}],"rootWord":"penggal"}]}
+{
+  "word": "berpenggal-penggal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61906",
+      "nama": "ber.peng.gal-peng.gal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkerat-kerat; tidak utuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "membeli ikan kakap yang ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "cerita yang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beberapa penggal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada ~ ubi kayu di dapur"
+            }
+          ]
+        }
+      ],
+      "rootWord": "penggal"
+    }
+  ]
+}

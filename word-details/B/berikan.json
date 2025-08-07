@@ -1,1 +1,43 @@
-{"word":"berikan","authenticated":true,"entries":[{"id":"30927","nama":"ber.i.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada ikannya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencari (menangkap) ikan","contoh":[{"nomor":2,"teks":"ia sedang pergi ~"}]}],"rootWord":"ikan"}]}
+{
+  "word": "berikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30927",
+      "nama": "ber.i.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada ikannya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari (menangkap) ikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang pergi ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ikan"
+    }
+  ]
+}

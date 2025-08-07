@@ -1,1 +1,91 @@
-{"word":"bertenggang","authenticated":true,"entries":[{"id":"84805","nama":"ber.teng.gang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berupaya; berikhtiar (tentang pertolongan, pinjaman, dan sebagainya)","contoh":[{"nomor":2,"teks":"sebelum meminta pertolongan pada orang lain, lebih baik saya ~ dahulu pada saudara sendiri"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdamai","contoh":[{"nomor":2,"teks":"ia dapat ~ dengan kawan-kawannya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminta pertolongan","contoh":[{"nomor":2,"teks":"orang pandai tempat kita ~"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhemat (dalam membelanjakan uang)","contoh":[{"nomor":2,"teks":"karena gajinya kecil, mereka harus pandai ~"}]}],"rootWord":"tenggang","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["hulu mujur pandai bertenggang (bertengkar), hulu baik pandai memakai","tersesak undang kepada yang runcing, tiada dapat bertenggang lagi"],"idiom":[]}}]}
+{
+  "word": "bertenggang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84805",
+      "nama": "ber.teng.gang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berupaya; berikhtiar (tentang pertolongan, pinjaman, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum meminta pertolongan pada orang lain, lebih baik saya ~ dahulu pada saudara sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdamai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dapat ~ dengan kawan-kawannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminta pertolongan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang pandai tempat kita ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhemat (dalam membelanjakan uang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena gajinya kecil, mereka harus pandai ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tenggang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hulu mujur pandai bertenggang (bertengkar), hulu baik pandai memakai",
+          "tersesak undang kepada yang runcing, tiada dapat bertenggang lagi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

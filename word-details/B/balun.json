@@ -1,1 +1,165 @@
-{"word":"balun","authenticated":true,"entries":[{"id":"7654","nama":"ba.lun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pukul","contoh":[]}],"terkait":{"kataTurunan":["membalun","berbalun-balun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7656","nama":"ba.lun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gulung; lipat","contoh":[]}],"terkait":{"kataTurunan":["berbalun-balun","membalun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"7659","nama":"ba.lun","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial membalun","contoh":[]}],"terkait":{"kataTurunan":["membalun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"191962","nama":"ba.lun","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"kain kafan","contoh":[]}]},{"id":"185556","nama":"ba.lun","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Trj","nama":"Toraja","tipe":"lainnya"}],"definisi":"emas atau perak yang dilekatkan teratur pada pembungkus mayat sehingga membentuk ukiran khas Toraja","contoh":[]}]},{"id":"252052","nama":"ba.lun","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"rumput hasil penyiangan yang dikumpulkan di sawah","contoh":[]}]}]}
+{
+  "word": "balun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7654",
+      "nama": "ba.lun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membalun",
+          "berbalun-balun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7656",
+      "nama": "ba.lun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gulung; lipat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berbalun-balun",
+          "membalun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "7659",
+      "nama": "ba.lun",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial membalun",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membalun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "191962",
+      "nama": "ba.lun",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kain kafan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "185556",
+      "nama": "ba.lun",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Trj",
+              "nama": "Toraja",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "emas atau perak yang dilekatkan teratur pada pembungkus mayat sehingga membentuk ukiran khas Toraja",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "252052",
+      "nama": "ba.lun",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rumput hasil penyiangan yang dikumpulkan di sawah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

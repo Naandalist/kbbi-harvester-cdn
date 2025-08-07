@@ -1,1 +1,92 @@
-{"word":"borek","authenticated":true,"entries":[{"id":"12398","nama":"bo.rek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"burik; bopeng","contoh":[]}]},{"id":"178698","nama":"bo.rek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"rajin dan gesit dalam bekerja","contoh":[]}]},{"id":"215342","nama":"bo.rek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"banyak warna","contoh":[]}]},{"id":"216747","nama":"bo.rek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pastri khas Turki, berisi keju, sayuran, dan daging giling, berbentuk gulungan atau segi empat","contoh":[]}]}]}
+{
+  "word": "borek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12398",
+      "nama": "bo.rek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "burik; bopeng",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "178698",
+      "nama": "bo.rek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rajin dan gesit dalam bekerja",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215342",
+      "nama": "bo.rek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "banyak warna",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "216747",
+      "nama": "bo.rek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pastri khas Turki, berisi keju, sayuran, dan daging giling, berbentuk gulungan atau segi empat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

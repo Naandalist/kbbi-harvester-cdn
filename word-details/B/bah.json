@@ -1,1 +1,135 @@
-{"word":"bah","authenticated":true,"entries":[{"id":"6798","nama":"bah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dan sebagainya); banjir","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["bah betina","bah jantan"],"peribahasa":["sedangkan bah kapal tak hanyut, ini pula kemarau panjang","sedangkan bah kapar tak hanyut, ini pula kemarau panjang"],"idiom":[]}},{"id":"6802","nama":"bah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dan sebagainya) biasa dipakai pada permulaan kalimat","contoh":[{"nomor":2,"teks":"--, lagi-lagi dia yang muncul"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat","contoh":[{"nomor":2,"teks":"silakan duduk --"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sedangkan bah kapal tak hanyut, ini pula kemarau panjang","sedangkan bah kapar tak hanyut, ini pula kemarau panjang"],"idiom":[]}},{"id":"298164","nama":"bah","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"panggilan kepada orang yang lebih tua daripada orang tua kandung","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sedangkan bah kapal tak hanyut, ini pula kemarau panjang","sedangkan bah kapar tak hanyut, ini pula kemarau panjang"],"idiom":[]}}]}
+{
+  "word": "bah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6798",
+      "nama": "bah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dan sebagainya); banjir",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "bah betina",
+          "bah jantan"
+        ],
+        "peribahasa": [
+          "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
+          "sedangkan bah kapar tak hanyut, ini pula kemarau panjang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "6802",
+      "nama": "bah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dan sebagainya) biasa dipakai pada permulaan kalimat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, lagi-lagi dia yang muncul"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "silakan duduk --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
+          "sedangkan bah kapar tak hanyut, ini pula kemarau panjang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "298164",
+      "nama": "bah",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "panggilan kepada orang yang lebih tua daripada orang tua kandung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
+          "sedangkan bah kapar tak hanyut, ini pula kemarau panjang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

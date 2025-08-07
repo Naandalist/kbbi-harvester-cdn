@@ -1,1 +1,61 @@
-{"word":"bertimbun","authenticated":true,"entries":[{"id":"86104","nama":"ber.tim.bun","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersusun hingga merupakan tumpukan; bertumpuk","contoh":[{"nomor":2,"teks":"banyak sampah ~ di depan rumah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"banyak","contoh":[{"nomor":2,"teks":"~lah surat-surat lamaran datang kepadanya"}]}],"rootWord":"timbun","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["daripada hidup bercermin bangkai, lebih baik mati berkalang tanah (daripada hidup berlumur tahi, lebih baik mati bertimbun bunga)"],"idiom":[]}}]}
+{
+  "word": "bertimbun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86104",
+      "nama": "ber.tim.bun",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersusun hingga merupakan tumpukan; bertumpuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak sampah ~ di depan rumah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~lah surat-surat lamaran datang kepadanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "timbun",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "daripada hidup bercermin bangkai, lebih baik mati berkalang tanah (daripada hidup berlumur tahi, lebih baik mati bertimbun bunga)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

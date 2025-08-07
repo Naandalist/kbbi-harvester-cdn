@@ -1,1 +1,47 @@
-{"word":"bantam","authenticated":true,"entries":[{"id":"8140","nama":"ban.tam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jenis ayam kecil; ayam katik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"kelas dalam olahraga tinju atau gulat yang berat petinju atau pegulatnya berkisar antara 51—54 kg","contoh":[{"nomor":2,"teks":"tinju kelas --"}]}]}]}
+{
+  "word": "bantam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8140",
+      "nama": "ban.tam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jenis ayam kecil; ayam katik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kelas dalam olahraga tinju atau gulat yang berat petinju atau pegulatnya berkisar antara 51—54 kg",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tinju kelas --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

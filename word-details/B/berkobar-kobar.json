@@ -1,1 +1,53 @@
-{"word":"berkobar-kobar","authenticated":true,"entries":[{"id":"42429","nama":"ber.ko.bar-ko.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyala-nyala dengan hebatnya (tentang api)","contoh":[{"nomor":2,"teks":"api yang ~ itu menjadikan kota itu seperti lautan api"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berapi-api (menyala-nyala dan sebagainya tentang semangat)","contoh":[{"nomor":2,"teks":"para pemuda berjuang dengan semangat yang ~"}]}],"rootWord":"kobar"}]}
+{
+  "word": "berkobar-kobar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42429",
+      "nama": "ber.ko.bar-ko.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyala-nyala dengan hebatnya (tentang api)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "api yang ~ itu menjadikan kota itu seperti lautan api"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berapi-api (menyala-nyala dan sebagainya tentang semangat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para pemuda berjuang dengan semangat yang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kobar"
+    }
+  ]
+}

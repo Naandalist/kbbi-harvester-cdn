@@ -1,1 +1,43 @@
-{"word":"bertabir","authenticated":true,"entries":[{"id":"80692","nama":"ber.ta.bir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai tabir","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berkedok; berselubung; berselimut","contoh":[]}],"rootWord":"tabir"}]}
+{
+  "word": "bertabir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80692",
+      "nama": "ber.ta.bir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai tabir",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkedok; berselubung; berselimut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tabir"
+    }
+  ]
+}

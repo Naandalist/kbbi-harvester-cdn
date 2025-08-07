@@ -1,1 +1,49 @@
-{"word":"basil","authenticated":true,"entries":[{"id":"8583","nama":"ba.sil","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"bakteri yang berbentuk batang","contoh":[]}]},{"id":"109586","nama":"ba.sil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"selasih","contoh":[]}]}]}
+{
+  "word": "basil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8583",
+      "nama": "ba.sil",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bakteri yang berbentuk batang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "109586",
+      "nama": "ba.sil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selasih",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

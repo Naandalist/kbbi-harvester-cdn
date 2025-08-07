@@ -1,1 +1,54 @@
-{"word":"banyo","authenticated":true,"entries":[{"id":"8234","nama":"ba.nyo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"alat musik berdawai sejenis gitar berleher panjang dengan badan berbentuk rebana yang bagian depannya ditutup dengan kulit tipis yang diregang","contoh":[]}]},{"id":"161429","nama":"ba.nyo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sb","nama":"Sabu","tipe":"lainnya"}],"definisi":"nyanyian mantra pada hari terakhir upacara taoleo, biasanya dinyanyikan oleh paman atau saudara dari orang yang meninggal","contoh":[]}]}]}
+{
+  "word": "banyo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8234",
+      "nama": "ba.nyo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "alat musik berdawai sejenis gitar berleher panjang dengan badan berbentuk rebana yang bagian depannya ditutup dengan kulit tipis yang diregang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "161429",
+      "nama": "ba.nyo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sb",
+              "nama": "Sabu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian mantra pada hari terakhir upacara taoleo, biasanya dinyanyikan oleh paman atau saudara dari orang yang meninggal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

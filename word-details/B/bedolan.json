@@ -1,1 +1,72 @@
-{"word":"bedolan","authenticated":true,"entries":[{"id":"9371","nama":"be.dol.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil membedol","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"panggilan kepada penghulu untuk menikahkan calon pengantin di rumah (di luar kantor)","contoh":[{"nomor":2,"teks":"jika ingin menikahkan di rumah, ia akan dikenakan tarif ~"}]}],"rootWord":"bedol¹"},{"id":"279622","nama":"be.dol.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"teknik mencabut wayang dari gedebok berdasarkan udanegara","contoh":[]}]}]}
+{
+  "word": "bedolan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9371",
+      "nama": "be.dol.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil membedol",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panggilan kepada penghulu untuk menikahkan calon pengantin di rumah (di luar kantor)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika ingin menikahkan di rumah, ia akan dikenakan tarif ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bedol¹"
+    },
+    {
+      "id": "279622",
+      "nama": "be.dol.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "teknik mencabut wayang dari gedebok berdasarkan udanegara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

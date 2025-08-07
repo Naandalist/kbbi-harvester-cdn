@@ -1,1 +1,62 @@
-{"word":"barometer","authenticated":true,"entries":[{"id":"8465","nama":"ba.ro.me.ter","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk mengukur tekanan udara, dipakai untuk meramalkan keadaan cuaca dan mengetahui ketinggian suatu tempat dari permukaan laut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tolok ukur; ukuran (baik, buruk, dan sebagainya)","contoh":[{"nomor":2,"teks":"keamanan di Jakarta merupakan -- keamanan di Indonesia"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["barometer air raksa","barometer aneroid","barometer bahari","barometer baku mutlak","barometer Fortin","barometer gunung","barometer Kew","barometer perekam"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "barometer",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8465",
+      "nama": "ba.ro.me.ter",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk mengukur tekanan udara, dipakai untuk meramalkan keadaan cuaca dan mengetahui ketinggian suatu tempat dari permukaan laut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tolok ukur; ukuran (baik, buruk, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keamanan di Jakarta merupakan -- keamanan di Indonesia"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "barometer air raksa",
+          "barometer aneroid",
+          "barometer bahari",
+          "barometer baku mutlak",
+          "barometer Fortin",
+          "barometer gunung",
+          "barometer Kew",
+          "barometer perekam"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

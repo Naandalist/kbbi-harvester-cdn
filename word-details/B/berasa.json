@@ -1,1 +1,80 @@
-{"word":"berasa","authenticated":true,"entries":[{"id":"67618","nama":"be.ra.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendapat rasa (yang dialami oleh badan)","contoh":[{"nomor":2,"teks":"seluruh badannya ~ sakit"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempunyai rasa (pahit, manis, dan sebagainya)","contoh":[{"nomor":2,"teks":"gulai itu ~ masin, cukup banyak garamnya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"dirasa(i); terasa (sebagai)","contoh":[{"nomor":2,"teks":"rumahku ini tiada ~ rumahku lagi"}]}],"rootWord":"rasa¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["siapa makan lada, ialah berasa pedas","siapa yang makan cabai, dialah yang berasa pedas (kepedasan)","tercubit paha kiri, paha kanan pun berasa sakit"],"idiom":[]}}]}
+{
+  "word": "berasa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67618",
+      "nama": "be.ra.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendapat rasa (yang dialami oleh badan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seluruh badannya ~ sakit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai rasa (pahit, manis, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gulai itu ~ masin, cukup banyak garamnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dirasa(i); terasa (sebagai)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahku ini tiada ~ rumahku lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rasa¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "siapa makan lada, ialah berasa pedas",
+          "siapa yang makan cabai, dialah yang berasa pedas (kepedasan)",
+          "tercubit paha kiri, paha kanan pun berasa sakit"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

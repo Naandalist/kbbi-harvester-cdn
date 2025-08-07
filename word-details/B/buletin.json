@@ -1,1 +1,50 @@
-{"word":"buletin","authenticated":true,"entries":[{"id":"13208","nama":"bu.le.tin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"media cetak berupa selebaran atau majalah, berisi warta singkat atau pernyataan tertulis yang diterbitkan secara periodik oleh suatu organisasi atau lembaga untuk kelompok profesi tertentu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"siaran kilat resmi tentang perkembangan atau hasil-hasil penyelidikan (pertandingan, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- sepak bola Piala Dunia"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["buletin ramalan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "buletin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13208",
+      "nama": "bu.le.tin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "media cetak berupa selebaran atau majalah, berisi warta singkat atau pernyataan tertulis yang diterbitkan secara periodik oleh suatu organisasi atau lembaga untuk kelompok profesi tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siaran kilat resmi tentang perkembangan atau hasil-hasil penyelidikan (pertandingan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sepak bola Piala Dunia"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "buletin ramalan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

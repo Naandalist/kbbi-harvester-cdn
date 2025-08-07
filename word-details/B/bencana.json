@@ -1,1 +1,83 @@
-{"word":"bencana","authenticated":true,"entries":[{"id":"10062","nama":"ben.ca.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang menyebabkan (menimbulkan) kesusahan, kerugian, atau penderitaan; kecelakaan; bahaya: [1] dalam bahaya [2] dalam kecelakaan","contoh":[{"nomor":2,"teks":"pemimpin yang tidak jujur akan menimbulkan -- bagi negara dan bangsa"},{"nomor":4,"teks":"dalam --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"gangguan; godaan","contoh":[{"nomor":2,"teks":"mereka mengadakan selamatan untuk menolak -- roh jahat"}]}],"etimologi":{"text":"[Jawa Kuno bañcana 'penipuan, penggelapan; tipu, muslihat, licik, cerdik, akal, bohong, bujukan, godaan, percobaan dengan maksud penipuan; percobaan, bencana, malapetaka, kecelakaan, kesengsaraan, gangguan; menipu, memperdayakan, membohongi']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kebencanaan","membencanai","membencanakan"],"gabunganKata":["bencana alam","bencana alam klimatologis","bencana besar","bencana ekologis","bencana hidrometeorologi","bencana iklim","bencana kemanusiaan","bencana nasional","bencana nonalam","bencana sosial"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bencana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10062",
+      "nama": "ben.ca.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang menyebabkan (menimbulkan) kesusahan, kerugian, atau penderitaan; kecelakaan; bahaya: [1] dalam bahaya [2] dalam kecelakaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemimpin yang tidak jujur akan menimbulkan -- bagi negara dan bangsa"
+            },
+            {
+              "nomor": 4,
+              "teks": "dalam --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gangguan; godaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka mengadakan selamatan untuk menolak -- roh jahat"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bañcana 'penipuan, penggelapan; tipu, muslihat, licik, cerdik, akal, bohong, bujukan, godaan, percobaan dengan maksud penipuan; percobaan, bencana, malapetaka, kecelakaan, kesengsaraan, gangguan; menipu, memperdayakan, membohongi']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kebencanaan",
+          "membencanai",
+          "membencanakan"
+        ],
+        "gabunganKata": [
+          "bencana alam",
+          "bencana alam klimatologis",
+          "bencana besar",
+          "bencana ekologis",
+          "bencana hidrometeorologi",
+          "bencana iklim",
+          "bencana kemanusiaan",
+          "bencana nasional",
+          "bencana nonalam",
+          "bencana sosial"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

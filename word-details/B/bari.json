@@ -1,1 +1,134 @@
-{"word":"bari","authenticated":true,"entries":[{"id":"8419","nama":"ba.ri","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"papan penutup lubang palka (pada perahu)","contoh":[]}]},{"id":"8420","nama":"ba.ri","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ bahari3","contoh":[]}]},{"id":"8421","nama":"ba.ri","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"sambil; sembari","contoh":[]}]},{"id":"120542","nama":"ba.ri","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gotong royong; kerja bakti","contoh":[]}]},{"id":"188218","nama":"ba.ri","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membelah kayu yang agak panjang","contoh":[{"nomor":2,"teks":"ayah sedang -- untuk kayu bakar"}]}]},{"id":"298810","nama":"ba.ri","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"serbuk kayu yang digunakan untuk menyalakan api, akan terbakar saat terkena percikan bunga api dari batu api yang digosok","contoh":[]}]}]}
+{
+  "word": "bari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8419",
+      "nama": "ba.ri",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "papan penutup lubang palka (pada perahu)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "8420",
+      "nama": "ba.ri",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ bahari3",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "8421",
+      "nama": "ba.ri",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sambil; sembari",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "120542",
+      "nama": "ba.ri",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gotong royong; kerja bakti",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "188218",
+      "nama": "ba.ri",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membelah kayu yang agak panjang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah sedang -- untuk kayu bakar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "298810",
+      "nama": "ba.ri",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "serbuk kayu yang digunakan untuk menyalakan api, akan terbakar saat terkena percikan bunga api dari batu api yang digosok",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

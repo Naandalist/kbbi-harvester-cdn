@@ -1,1 +1,43 @@
-{"word":"berdayung","authenticated":true,"entries":[{"id":"18182","nama":"ber.da.yung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik perahu (yang menggunakan dayung); berkayuh","contoh":[{"nomor":2,"teks":"setelah itu, ~lah mereka ke laut"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersepeda","contoh":[]}],"rootWord":"dayung"}]}
+{
+  "word": "berdayung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18182",
+      "nama": "ber.da.yung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik perahu (yang menggunakan dayung); berkayuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah itu, ~lah mereka ke laut"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersepeda",
+          "contoh": []
+        }
+      ],
+      "rootWord": "dayung"
+    }
+  ]
+}

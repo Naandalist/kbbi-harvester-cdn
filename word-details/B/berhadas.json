@@ -1,1 +1,31 @@
-{"word":"berhadas","authenticated":true,"entries":[{"id":"101851","nama":"ber.ha.das","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki hadas","contoh":[{"nomor":2,"teks":"dilarang bagi seorang yang ~ besar menetap atau berdiam di dalam masjid"}]}],"rootWord":"hadas"}]}
+{
+  "word": "berhadas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101851",
+      "nama": "ber.ha.das",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki hadas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dilarang bagi seorang yang ~ besar menetap atau berdiam di dalam masjid"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hadas"
+    }
+  ]
+}

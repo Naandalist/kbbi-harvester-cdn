@@ -1,1 +1,77 @@
-{"word":"bersuara","authenticated":true,"entries":[{"id":"79134","nama":"ber.su.a.ra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan suara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turut menentukan sesuatu (dalam pemerintahan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengemukakan pendapat","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dihasilkan dengan getaran pita suara, misalnya bunyi [b], [d], [g]","contoh":[]}],"rootWord":"suara"}]}
+{
+  "word": "bersuara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79134",
+      "nama": "ber.su.a.ra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan suara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turut menentukan sesuatu (dalam pemerintahan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengemukakan pendapat",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dihasilkan dengan getaran pita suara, misalnya bunyi [b], [d], [g]",
+          "contoh": []
+        }
+      ],
+      "rootWord": "suara"
+    }
+  ]
+}

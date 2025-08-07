@@ -1,1 +1,74 @@
-{"word":"bundel","authenticated":true,"entries":[{"id":"13356","nama":"bun.del","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kumpulan beberapa benda yang sejenis diikat menjadi satu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"berkas (surat-menyurat dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["bundelan","membundel","pembundelan","sebundel"],"gabunganKata":["bundel surat"],"peribahasa":[],"idiom":[]}},{"id":"13361","nama":"bun.del","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"simpul","contoh":[]}]}]}
+{
+  "word": "bundel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13356",
+      "nama": "bun.del",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kumpulan beberapa benda yang sejenis diikat menjadi satu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkas (surat-menyurat dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bundelan",
+          "membundel",
+          "pembundelan",
+          "sebundel"
+        ],
+        "gabunganKata": [
+          "bundel surat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "13361",
+      "nama": "bun.del",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "simpul",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

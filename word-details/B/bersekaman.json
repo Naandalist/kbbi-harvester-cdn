@@ -1,1 +1,43 @@
-{"word":"bersekaman","authenticated":true,"entries":[{"id":"102327","nama":"ber.se.kam.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"penuh dengan sekam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menjadi tertutup oleh sisik-sisik kecil yang menjangat seperti sekam","contoh":[]}],"rootWord":"sekam"}]}
+{
+  "word": "bersekaman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102327",
+      "nama": "ber.se.kam.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penuh dengan sekam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menjadi tertutup oleh sisik-sisik kecil yang menjangat seperti sekam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sekam"
+    }
+  ]
+}

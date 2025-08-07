@@ -1,1 +1,53 @@
-{"word":"berangkulan","authenticated":true,"entries":[{"id":"67385","nama":"be.rang.kul.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"saling merangkul","contoh":[{"nomor":2,"teks":"kedapatan ia sedang ~ dengan kekasihnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bekerja sama","contoh":[{"nomor":2,"teks":"sudah saatnya Anda dan kami ~ dalam usaha"}]}],"rootWord":"rangkul"}]}
+{
+  "word": "berangkulan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67385",
+      "nama": "be.rang.kul.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saling merangkul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedapatan ia sedang ~ dengan kekasihnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bekerja sama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah saatnya Anda dan kami ~ dalam usaha"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rangkul"
+    }
+  ]
+}

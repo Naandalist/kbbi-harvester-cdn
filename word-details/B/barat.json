@@ -1,1 +1,179 @@
-{"word":"barat","authenticated":true,"entries":[{"id":"8382","nama":"ba.rat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama mata angin yang arahnya berlawanan dengan timur; arah tempat matahari terbenam","contoh":[{"nomor":2,"teks":"matahari terbenam di sebelah --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(huruf pertama kapital) orang, bangsa, negara Eropa dan Amerika","contoh":[{"nomor":2,"teks":"bangsa --"},{"nomor":4,"teks":"kebudayaan --"}]}],"terkait":{"kataTurunan":["baratan","kebarat-baratan","kebaratan","membaratkan","pembarat","pembaratan","terbarat"],"gabunganKata":["barat daya","barat laut"],"peribahasa":["timur beralih ke sebelah barat"],"idiom":["baju songsong barat"]}},{"id":"191709","nama":"ba.rat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"ladang luas yang kepemilikannya bersama-sama","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["timur beralih ke sebelah barat"],"idiom":["baju songsong barat"]}},{"id":"239601","nama":"ba.rat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"lereng gunung","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["timur beralih ke sebelah barat"],"idiom":["baju songsong barat"]}},{"id":"180243","nama":"ba.rat","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"mengangkat benda berat dan besar secara bersama-sama","contoh":[{"nomor":2,"teks":"masyarakat dusun kami -- uma ke tempat yang lebih baik"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["timur beralih ke sebelah barat"],"idiom":["baju songsong barat"]}}]}
+{
+  "word": "barat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8382",
+      "nama": "ba.rat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama mata angin yang arahnya berlawanan dengan timur; arah tempat matahari terbenam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matahari terbenam di sebelah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(huruf pertama kapital) orang, bangsa, negara Eropa dan Amerika",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bangsa --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kebudayaan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "baratan",
+          "kebarat-baratan",
+          "kebaratan",
+          "membaratkan",
+          "pembarat",
+          "pembaratan",
+          "terbarat"
+        ],
+        "gabunganKata": [
+          "barat daya",
+          "barat laut"
+        ],
+        "peribahasa": [
+          "timur beralih ke sebelah barat"
+        ],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    },
+    {
+      "id": "191709",
+      "nama": "ba.rat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ladang luas yang kepemilikannya bersama-sama",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "timur beralih ke sebelah barat"
+        ],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    },
+    {
+      "id": "239601",
+      "nama": "ba.rat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lereng gunung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "timur beralih ke sebelah barat"
+        ],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    },
+    {
+      "id": "180243",
+      "nama": "ba.rat",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengangkat benda berat dan besar secara bersama-sama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masyarakat dusun kami -- uma ke tempat yang lebih baik"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "timur beralih ke sebelah barat"
+        ],
+        "idiom": [
+          "baju songsong barat"
+        ]
+      }
+    }
+  ]
+}

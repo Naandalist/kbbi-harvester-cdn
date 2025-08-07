@@ -1,1 +1,96 @@
-{"word":"bia","authenticated":true,"entries":[{"id":"11076","nama":"bi.a","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ bea","contoh":[]}]},{"id":"217641","nama":"bi.a","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pp","nama":"Papua","tipe":"lainnya"}],"definisi":"kerang","contoh":[]}]},{"id":"157690","nama":"bi.a","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"sarung pisau dari kulit ular","contoh":[{"nomor":2,"teks":"dia menjual -- di pasar"}]}]},{"id":"285580","nama":"bi.a","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"tumbuhan merambat dengan buah yang dipenuhi bulu halus yang menyebabkan gatal","contoh":[]}]}]}
+{
+  "word": "bia",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11076",
+      "nama": "bi.a",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ bea",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "217641",
+      "nama": "bi.a",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pp",
+              "nama": "Papua",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kerang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "157690",
+      "nama": "bi.a",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sarung pisau dari kulit ular",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia menjual -- di pasar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "285580",
+      "nama": "bi.a",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tumbuhan merambat dengan buah yang dipenuhi bulu halus yang menyebabkan gatal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

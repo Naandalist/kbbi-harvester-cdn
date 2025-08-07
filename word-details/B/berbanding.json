@@ -1,1 +1,65 @@
-{"word":"berbanding","authenticated":true,"entries":[{"id":"7831","nama":"ber.ban.ding","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ada bandingnya; ada imbangannya","contoh":[{"nomor":2,"teks":"keindahannya tiada ~ di dunia ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sebanding; seimbang","contoh":[{"nomor":2,"teks":"pengeluaran hendaknya ~ dengan pendapatan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dibandingkan","contoh":[{"nomor":2,"teks":"2 ~ 3 sama dengan 6 ~ 9"}]}],"rootWord":"banding"}]}
+{
+  "word": "berbanding",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7831",
+      "nama": "ber.ban.ding",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ada bandingnya; ada imbangannya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keindahannya tiada ~ di dunia ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebanding; seimbang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengeluaran hendaknya ~ dengan pendapatan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dibandingkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "2 ~ 3 sama dengan 6 ~ 9"
+            }
+          ]
+        }
+      ],
+      "rootWord": "banding"
+    }
+  ]
+}

@@ -1,1 +1,45 @@
-{"word":"bersiru","authenticated":true,"entries":[{"id":"77820","nama":"ber.si.ru","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berubah atau beralih (berbalik) arah (tentang angin dan sebagainya)","contoh":[{"nomor":2,"teks":"angin ~, ombak bersambung"}]}],"rootWord":"siru¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["angin berputar (bersiru ombak bersabung)","angin bersiru kami tahu"],"idiom":[]}}]}
+{
+  "word": "bersiru",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77820",
+      "nama": "ber.si.ru",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berubah atau beralih (berbalik) arah (tentang angin dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "angin ~, ombak bersambung"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siru¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "angin berputar (bersiru ombak bersabung)",
+          "angin bersiru kami tahu"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

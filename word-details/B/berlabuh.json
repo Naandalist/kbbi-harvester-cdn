@@ -1,1 +1,77 @@
-{"word":"berlabuh","authenticated":true,"entries":[{"id":"45646","nama":"ber.la.buh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tergelantung ke bawah; turun (tentang kelambu, tirai, layar panggung, dan sebagainya)","contoh":[{"nomor":2,"teks":"tirai ~"},{"nomor":4,"teks":"layar panggung ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menurunkan sauh (tentang kapal, perahu); berhenti","contoh":[{"nomor":2,"teks":"kapal-kapal besar pun dapat ~ di Pelabuhan Cirebon"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berteduh, berdiam, dan menghentikan segala kegiatan","contoh":[{"nomor":2,"teks":"rumah adalah tempat ~ dari berbagai kegiatan"}]}],"rootWord":"labuh¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menghambat kerbau berlabuh"],"idiom":[]}}]}
+{
+  "word": "berlabuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45646",
+      "nama": "ber.la.buh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tergelantung ke bawah; turun (tentang kelambu, tirai, layar panggung, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tirai ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "layar panggung ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurunkan sauh (tentang kapal, perahu); berhenti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kapal-kapal besar pun dapat ~ di Pelabuhan Cirebon"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berteduh, berdiam, dan menghentikan segala kegiatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah adalah tempat ~ dari berbagai kegiatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "labuh¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menghambat kerbau berlabuh"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

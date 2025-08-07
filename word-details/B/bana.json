@@ -1,1 +1,61 @@
-{"word":"bana","authenticated":true,"entries":[{"id":"7750","nama":"ba.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"senjata berupa anak panah yang terbuat dari kayu dengan ujung dari logam","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bāṇa 'anak panah']","languages":["Jawa Kuno"]}},{"id":"252367","nama":"ba.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Rt","nama":"Rote","tipe":"lainnya"}],"definisi":"menjemur makanan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno bāṇa 'anak panah']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "bana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7750",
+      "nama": "ba.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "senjata berupa anak panah yang terbuat dari kayu dengan ujung dari logam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bāṇa 'anak panah']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "252367",
+      "nama": "ba.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Rt",
+              "nama": "Rote",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menjemur makanan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno bāṇa 'anak panah']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

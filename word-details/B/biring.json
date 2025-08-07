@@ -1,1 +1,160 @@
-{"word":"biring","authenticated":true,"entries":[{"id":"11820","nama":"bi.ring","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit kulit berupa bintik-bintik dan menimbulkan rasa gatal","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"bisul yang muncul di ketiak","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["biring peluh","biring kuning"],"peribahasa":[],"idiom":[]}},{"id":"11822","nama":"bi.ring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merah kekuning-kuningan (tentang warna bulu ayam)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["biring kuning"],"peribahasa":[],"idiom":[]}},{"id":"128702","nama":"bi.ring","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"oleng (tentang layang-layang)","contoh":[{"nomor":2,"teks":"pemasangan benang pada layang-layang harus presisi agar tidak mudah -- ketika diterbangkan"}]}]},{"id":"198467","nama":"bi.ring","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"bagian tepi kulit (pada bulus atau penyu)","contoh":[{"nomor":2,"teks":"-- penyu itu melukai kakinya"}]}]},{"id":"228157","nama":"bi.ring","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"patahan singkong sisa panen yang dikeringkan sebagai makanan pokok pengganti nasi","contoh":[]}]}]}
+{
+  "word": "biring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11820",
+      "nama": "bi.ring",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit kulit berupa bintik-bintik dan menimbulkan rasa gatal",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bisul yang muncul di ketiak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "biring peluh",
+          "biring kuning"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "11822",
+      "nama": "bi.ring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merah kekuning-kuningan (tentang warna bulu ayam)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "biring kuning"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "128702",
+      "nama": "bi.ring",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "oleng (tentang layang-layang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemasangan benang pada layang-layang harus presisi agar tidak mudah -- ketika diterbangkan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "198467",
+      "nama": "bi.ring",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian tepi kulit (pada bulus atau penyu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- penyu itu melukai kakinya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "228157",
+      "nama": "bi.ring",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "patahan singkong sisa panen yang dikeringkan sebagai makanan pokok pengganti nasi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

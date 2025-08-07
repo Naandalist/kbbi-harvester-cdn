@@ -1,1 +1,48 @@
-{"word":"bertengger","authenticated":true,"entries":[{"id":"84833","nama":"ber.teng.ger","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hinggap (di dahan)","contoh":[{"nomor":2,"teks":"ayam itu ~ di pagar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berdiam; bertempat tinggal","contoh":[]}],"rootWord":"tengger"}]}
+{
+  "word": "bertengger",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84833",
+      "nama": "ber.teng.ger",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hinggap (di dahan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam itu ~ di pagar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdiam; bertempat tinggal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tengger"
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"word":"belajar","authenticated":true,"entries":[{"id":"1376","nama":"bel.a.jar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berusaha memperoleh kepandaian atau ilmu","contoh":[{"nomor":2,"teks":"adik ~ membaca"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlatih","contoh":[{"nomor":2,"teks":"ia sedang ~ mengetik"},{"nomor":4,"teks":"murid-murid itu sedang ~ karate"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berubah tingkah laku atau tanggapan yang disebabkan oleh pengalaman","contoh":[]}],"rootWord":"ajar¹","terkait":{"kataTurunan":[],"gabunganKata":["belajar aktif","belajar insidental","belajar jarak jauh","belajar kelompok","belajar laten","belajar mandiri","belajar tuntas","bimbingan belajar"],"peribahasa":["belajar di yang pintar, berguru di yang pandai"],"idiom":[]}}]}
+{
+  "word": "belajar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1376",
+      "nama": "bel.a.jar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berusaha memperoleh kepandaian atau ilmu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik ~ membaca"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlatih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ mengetik"
+            },
+            {
+              "nomor": 4,
+              "teks": "murid-murid itu sedang ~ karate"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berubah tingkah laku atau tanggapan yang disebabkan oleh pengalaman",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ajar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "belajar aktif",
+          "belajar insidental",
+          "belajar jarak jauh",
+          "belajar kelompok",
+          "belajar laten",
+          "belajar mandiri",
+          "belajar tuntas",
+          "bimbingan belajar"
+        ],
+        "peribahasa": [
+          "belajar di yang pintar, berguru di yang pandai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

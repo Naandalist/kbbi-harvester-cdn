@@ -1,1 +1,61 @@
-{"word":"blokir","authenticated":true,"entries":[{"id":"12002","nama":"blo.kir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bekukan sesuatu (rekening bank dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["blokiran","memblokir","pemblokir","pemblokiran","terblokir"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"275874","nama":"blo.kir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"rokade","contoh":[]}]}]}
+{
+  "word": "blokir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12002",
+      "nama": "blo.kir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bekukan sesuatu (rekening bank dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "blokiran",
+          "memblokir",
+          "pemblokir",
+          "pemblokiran",
+          "terblokir"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "275874",
+      "nama": "blo.kir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rokade",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

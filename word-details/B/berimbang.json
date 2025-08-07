@@ -1,1 +1,48 @@
-{"word":"berimbang","authenticated":true,"entries":[{"id":"31328","nama":"ber.im.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sama berat (kuat, kuasa, banyak, dan sebagainya); setimbang; sebanding","contoh":[{"nomor":2,"teks":"pertandingan tidak berjalan lancar karena kedua kesebelasan itu tidak ~ kekuatannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpadanan (dengan); berbanding (dengan)","contoh":[{"nomor":2,"teks":"hadiah yang diberikan ~ dengan jasa yang dibuatnya"}]}],"rootWord":"imbang¹"}]}
+{
+  "word": "berimbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31328",
+      "nama": "ber.im.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama berat (kuat, kuasa, banyak, dan sebagainya); setimbang; sebanding",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertandingan tidak berjalan lancar karena kedua kesebelasan itu tidak ~ kekuatannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpadanan (dengan); berbanding (dengan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hadiah yang diberikan ~ dengan jasa yang dibuatnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "imbang¹"
+    }
+  ]
+}

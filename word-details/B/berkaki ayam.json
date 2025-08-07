@@ -1,1 +1,36 @@
-{"word":"berkaki ayam","authenticated":true,"entries":[{"id":"36000","nama":"ber.ka.ki a.yam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bertelanjang kaki","contoh":[{"nomor":2,"teks":"mereka perlu waktu sekitar dua jam dan harus ~ alias tanpa alas sama sekali"}]}],"rootWord":"kaki ayam"}]}
+{
+  "word": "berkaki ayam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36000",
+      "nama": "ber.ka.ki a.yam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertelanjang kaki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka perlu waktu sekitar dua jam dan harus ~ alias tanpa alas sama sekali"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kaki ayam"
+    }
+  ]
+}

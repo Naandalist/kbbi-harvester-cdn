@@ -1,1 +1,48 @@
-{"word":"bersangka","authenticated":true,"entries":[{"id":"72099","nama":"ber.sang.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menduga; mengira","contoh":[{"nomor":2,"teks":"tidak seorang pun yang ~ akan terjadi musibah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaruh sangsi (syak); mempunyai kesangsian","contoh":[{"nomor":2,"teks":"jika ada yang ~ akan kebenaran pendapat itu, boleh mengajukan bantahannya"}]}],"rootWord":"sangka¹"}]}
+{
+  "word": "bersangka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72099",
+      "nama": "ber.sang.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menduga; mengira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak seorang pun yang ~ akan terjadi musibah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaruh sangsi (syak); mempunyai kesangsian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika ada yang ~ akan kebenaran pendapat itu, boleh mengajukan bantahannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangka¹"
+    }
+  ]
+}

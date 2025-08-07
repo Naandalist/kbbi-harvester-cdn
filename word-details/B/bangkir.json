@@ -1,1 +1,43 @@
-{"word":"bangkir","authenticated":true,"entries":[{"id":"7936","nama":"bang.kir","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat bongkar-bangkir","contoh":[]}]},{"id":"146986","nama":"bang.kir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"patah tapi belum terlepas, misalnya batang tebu, bambu","contoh":[]}]}]}
+{
+  "word": "bangkir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7936",
+      "nama": "bang.kir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat bongkar-bangkir",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "146986",
+      "nama": "bang.kir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "patah tapi belum terlepas, misalnya batang tebu, bambu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

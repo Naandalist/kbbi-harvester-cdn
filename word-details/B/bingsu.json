@@ -1,1 +1,54 @@
-{"word":"bingsu","authenticated":true,"entries":[{"id":"128964","nama":"bing.su","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Trj","nama":"Toraja","tipe":"lainnya"}],"definisi":"nama untuk pendeta di wilayah timur Toraja","contoh":[]}]},{"id":"196997","nama":"bing.su","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kor","nama":"Korea","tipe":"lainnya"}],"definisi":"minuman berupa es yang diserut menyerupai salju dan diberikan tambahan gula, kacang tanah, buah, dan berbagai pugasan lain","contoh":[]}]}]}
+{
+  "word": "bingsu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "128964",
+      "nama": "bing.su",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Trj",
+              "nama": "Toraja",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nama untuk pendeta di wilayah timur Toraja",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "196997",
+      "nama": "bing.su",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kor",
+              "nama": "Korea",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "minuman berupa es yang diserut menyerupai salju dan diberikan tambahan gula, kacang tanah, buah, dan berbagai pugasan lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

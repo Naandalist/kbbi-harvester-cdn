@@ -1,1 +1,61 @@
-{"word":"bam","authenticated":true,"entries":[{"id":"7686","nama":"bam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"kayu (papan, balok) tumpuan kemudi atau tiang pada kapal atau perahu","contoh":[]}],"etimologi":{"text":"[Persia بم bam n 'suara bas pada alat musik']","languages":["Persia"]}},{"id":"7688","nama":"bam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi yang berat dan lembut pada gendang","contoh":[]}],"etimologi":{"text":"[Persia بم bam n 'suara bas pada alat musik']","languages":["Persia"]}}]}
+{
+  "word": "bam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7686",
+      "nama": "bam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu (papan, balok) tumpuan kemudi atau tiang pada kapal atau perahu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia بم bam n 'suara bas pada alat musik']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    },
+    {
+      "id": "7688",
+      "nama": "bam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi yang berat dan lembut pada gendang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia بم bam n 'suara bas pada alat musik']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    }
+  ]
+}

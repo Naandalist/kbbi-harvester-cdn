@@ -1,1 +1,31 @@
-{"word":"bercat","authenticated":true,"entries":[{"id":"14861","nama":"ber.cat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diwarnai dengan cat","contoh":[{"nomor":2,"teks":"temboknya ~ hijau"}]}],"rootWord":"cat"}]}
+{
+  "word": "bercat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14861",
+      "nama": "ber.cat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diwarnai dengan cat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "temboknya ~ hijau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cat"
+    }
+  ]
+}

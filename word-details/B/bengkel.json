@@ -1,1 +1,80 @@
-{"word":"bengkel","authenticated":true,"entries":[{"id":"10221","nama":"beng.kel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat memperbaiki mobil, sepeda motor, dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pabrik kecil; tempat tukang bekerja","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"tempat berlatih sandiwara dan sebagainya","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat melakukan suatu kegiatan dengan arah dan tujuan yang pasti","contoh":[]}],"terkait":{"kataTurunan":["membengkel","perbengkelan"],"gabunganKata":["bengkel jilid","bengkel otomotif","bengkel peternakan","bengkel resmi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bengkel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10221",
+      "nama": "beng.kel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat memperbaiki mobil, sepeda motor, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pabrik kecil; tempat tukang bekerja",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat berlatih sandiwara dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat melakukan suatu kegiatan dengan arah dan tujuan yang pasti",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "membengkel",
+          "perbengkelan"
+        ],
+        "gabunganKata": [
+          "bengkel jilid",
+          "bengkel otomotif",
+          "bengkel peternakan",
+          "bengkel resmi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

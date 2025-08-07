@@ -1,1 +1,51 @@
-{"word":"berdompak","authenticated":true,"entries":[{"id":"20378","nama":"ber.dom.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melompat-lompat serta menerjang-nerjang dalam berkelahi","contoh":[{"nomor":2,"teks":"mereka ~ di tengah gelanggang"}]}],"rootWord":"dompak¹"},{"id":"20380","nama":"ber.dom.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlampau rapat (tentang rumah dan sebagainya)","contoh":[]}],"rootWord":"dompak²"}]}
+{
+  "word": "berdompak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20378",
+      "nama": "ber.dom.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melompat-lompat serta menerjang-nerjang dalam berkelahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ di tengah gelanggang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dompak¹"
+    },
+    {
+      "id": "20380",
+      "nama": "ber.dom.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlampau rapat (tentang rumah dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "dompak²"
+    }
+  ]
+}

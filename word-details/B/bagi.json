@@ -1,1 +1,209 @@
-{"word":"bagi","authenticated":true,"entries":[{"id":"6748","nama":"ba.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata depan untuk menyatakan tujuan; untuk","contoh":[{"nomor":2,"teks":"disediakan hadiah -- pemenang pertama, kedua, dan ketiga"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata depan untuk menyatakan perihal; akan (hal); tentang (hal); menurut (pendapat)","contoh":[{"nomor":2,"teks":"-- saya, hal itu tidak perlu diperdebatkan lagi"}]}],"etimologi":{"text":"[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bagian","berbagi","berbagian","kebagian","keterbagian","membagi","membagi-bagi","membagi-bagikan","membagikan","pembagi","pembagian","sebagian","terbagi","terbagikan"],"gabunganKata":["bagi anak","bagi hasil","bagi kecil"],"peribahasa":["tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"],"idiom":[]}},{"id":"6749","nama":"ba.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"membagi","contoh":[{"nomor":2,"teks":"hasil panen kemarin sudah saya --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pecahan dari sesuatu yang utuh; penggal; pecah","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"suatu operasi aljabar yang biasa dinyatakan dengan simbol titik dua (:) atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b","contoh":[{"nomor":1,"teks":") atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b"}]}],"etimologi":{"text":"[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["bagian","berbagi","berbagian","kebagian","keterbagian","membagi","membagi-bagi","membagi-bagikan","membagikan","pembagi","pembagian","sebagian","terbagi","terbagikan"],"gabunganKata":["bagi anak","bagi hasil","bagi kecil"],"peribahasa":["tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"],"idiom":[]}},{"id":"298770","nama":"ba.gi","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"panggilan kepada adik bungsu","contoh":[]}],"etimologi":{"text":"[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"],"idiom":[]}}]}
+{
+  "word": "bagi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6748",
+      "nama": "ba.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata depan untuk menyatakan tujuan; untuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "disediakan hadiah -- pemenang pertama, kedua, dan ketiga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata depan untuk menyatakan perihal; akan (hal); tentang (hal); menurut (pendapat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- saya, hal itu tidak perlu diperdebatkan lagi"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bagian",
+          "berbagi",
+          "berbagian",
+          "kebagian",
+          "keterbagian",
+          "membagi",
+          "membagi-bagi",
+          "membagi-bagikan",
+          "membagikan",
+          "pembagi",
+          "pembagian",
+          "sebagian",
+          "terbagi",
+          "terbagikan"
+        ],
+        "gabunganKata": [
+          "bagi anak",
+          "bagi hasil",
+          "bagi kecil"
+        ],
+        "peribahasa": [
+          "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "6749",
+      "nama": "ba.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membagi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil panen kemarin sudah saya --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pecahan dari sesuatu yang utuh; penggal; pecah",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "suatu operasi aljabar yang biasa dinyatakan dengan simbol titik dua (:) atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": ") atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bagian",
+          "berbagi",
+          "berbagian",
+          "kebagian",
+          "keterbagian",
+          "membagi",
+          "membagi-bagi",
+          "membagi-bagikan",
+          "membagikan",
+          "pembagi",
+          "pembagian",
+          "sebagian",
+          "terbagi",
+          "terbagikan"
+        ],
+        "gabunganKata": [
+          "bagi anak",
+          "bagi hasil",
+          "bagi kecil"
+        ],
+        "peribahasa": [
+          "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "298770",
+      "nama": "ba.gi",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "panggilan kepada adik bungsu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

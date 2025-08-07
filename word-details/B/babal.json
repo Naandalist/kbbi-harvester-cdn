@@ -1,1 +1,78 @@
-{"word":"babal","authenticated":true,"entries":[{"id":"6427","nama":"ba.bal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"putik nangka; kebabal","contoh":[]}]},{"id":"151899","nama":"ba.bal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Btl","nama":"Batuley","tipe":"lainnya"}],"definisi":"laut lepas","contoh":[]}]},{"id":"250072","nama":"ba.bal","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"meratakan tanah yang akan dijadikan lantai dengan balok kayu","contoh":[{"nomor":2,"teks":"tukang-tukang itu sedang -- karena akan segera memasang keramik"}]}]}]}
+{
+  "word": "babal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6427",
+      "nama": "ba.bal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putik nangka; kebabal",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "151899",
+      "nama": "ba.bal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Btl",
+              "nama": "Batuley",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "laut lepas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "250072",
+      "nama": "ba.bal",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meratakan tanah yang akan dijadikan lantai dengan balok kayu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang-tukang itu sedang -- karena akan segera memasang keramik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

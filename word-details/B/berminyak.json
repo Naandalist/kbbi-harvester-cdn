@@ -1,1 +1,80 @@
-{"word":"berminyak","authenticated":true,"entries":[{"id":"54646","nama":"ber.mi.nyak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengandung minyak","contoh":[{"nomor":2,"teks":"biji buah jarak ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan minyak","contoh":[{"nomor":2,"teks":"mukanya selalu ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai minyak","contoh":[{"nomor":2,"teks":"rambutnya ~"}]}],"rootWord":"minyak","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berminyak biar licin (lecak)","berminyak mukanya","hendak berminyak-minyak air","mati-mati berminyak biar licin","pandai berminyak air"],"idiom":["berminyak (air) mukanya","berminyak air"]}}]}
+{
+  "word": "berminyak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54646",
+      "nama": "ber.mi.nyak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengandung minyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "biji buah jarak ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan minyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mukanya selalu ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai minyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "minyak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berminyak biar licin (lecak)",
+          "berminyak mukanya",
+          "hendak berminyak-minyak air",
+          "mati-mati berminyak biar licin",
+          "pandai berminyak air"
+        ],
+        "idiom": [
+          "berminyak (air) mukanya",
+          "berminyak air"
+        ]
+      }
+    }
+  ]
+}

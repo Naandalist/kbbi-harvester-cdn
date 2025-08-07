@@ -1,1 +1,116 @@
-{"word":"berkas","authenticated":true,"entries":[{"id":"10740","nama":"ber.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kumpulan (gabungan) benda seperti lidi, batang padi, kayu api, diikat menjadi satu","contoh":[{"nomor":2,"teks":"lidi tiga --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bundel (surat-surat)","contoh":[{"nomor":2,"teks":"-- surat laporan sudah disampaikan kepada kepala bagian tata usaha"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"}],"definisi":"lipatan kertas tebal persegi panjang untuk melindungi dan menyimpan surat","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"kumpulan data yang dapat diberi nama berbeda dan disimpan pada tempat penyimpanan sekunder dalam komputer","contoh":[]}],"terkait":{"kataTurunan":["beberkas-berkas","berkasan","diberkas","memberkas","memberkaskan","pemberkas","pemberkasan","seberkas","teberkas"],"gabunganKata":["berkas administrasi","berkas cahaya","berkas data","berkas elektron","berkas induk","berkas ion","berkas isoglos","berkas komputer","berkas konkordansi","berkas kredit","berkas perkara","berkas permanen","berkas rekam cadang","berkas rekam medis","berkas tersendiri","berkas zip"],"peribahasa":["tanduk di berkas"],"idiom":[]}}]}
+{
+  "word": "berkas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10740",
+      "nama": "ber.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kumpulan (gabungan) benda seperti lidi, batang padi, kayu api, diikat menjadi satu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lidi tiga --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bundel (surat-surat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- surat laporan sudah disampaikan kepada kepala bagian tata usaha"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lipatan kertas tebal persegi panjang untuk melindungi dan menyimpan surat",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kumpulan data yang dapat diberi nama berbeda dan disimpan pada tempat penyimpanan sekunder dalam komputer",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beberkas-berkas",
+          "berkasan",
+          "diberkas",
+          "memberkas",
+          "memberkaskan",
+          "pemberkas",
+          "pemberkasan",
+          "seberkas",
+          "teberkas"
+        ],
+        "gabunganKata": [
+          "berkas administrasi",
+          "berkas cahaya",
+          "berkas data",
+          "berkas elektron",
+          "berkas induk",
+          "berkas ion",
+          "berkas isoglos",
+          "berkas komputer",
+          "berkas konkordansi",
+          "berkas kredit",
+          "berkas perkara",
+          "berkas permanen",
+          "berkas rekam cadang",
+          "berkas rekam medis",
+          "berkas tersendiri",
+          "berkas zip"
+        ],
+        "peribahasa": [
+          "tanduk di berkas"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

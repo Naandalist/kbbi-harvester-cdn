@@ -1,1 +1,56 @@
-{"word":"berbulang","authenticated":true,"entries":[{"id":"13159","nama":"ber.bu.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai taji (tentang ayam sabung)","contoh":[{"nomor":2,"teks":"ayam yang ~"}]}],"rootWord":"bulang¹"},{"id":"178758","nama":"ber.bu.lang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berikat kepala; berdestar","contoh":[{"nomor":2,"teks":"ia ~ kain batik"}]}],"rootWord":"bulang⁴"}]}
+{
+  "word": "berbulang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13159",
+      "nama": "ber.bu.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai taji (tentang ayam sabung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam yang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bulang¹"
+    },
+    {
+      "id": "178758",
+      "nama": "ber.bu.lang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berikat kepala; berdestar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kain batik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bulang⁴"
+    }
+  ]
+}

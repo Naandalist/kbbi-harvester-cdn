@@ -1,1 +1,52 @@
-{"word":"berpetak","authenticated":true,"entries":[{"id":"63140","nama":"ber.pe.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkotak-kotak; berbilik-bilik","contoh":[{"nomor":2,"teks":"di samping rumahnya berderet panjang bangunan ~"},{"nomor":4,"teks":"rumahnya ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbidang-bidang (sawah)","contoh":[{"nomor":2,"teks":"tidak jauh dari tempat kami terhampar sawah ~"}]}],"rootWord":"petak¹"}]}
+{
+  "word": "berpetak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63140",
+      "nama": "ber.pe.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkotak-kotak; berbilik-bilik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di samping rumahnya berderet panjang bangunan ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "rumahnya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbidang-bidang (sawah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak jauh dari tempat kami terhampar sawah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "petak¹"
+    }
+  ]
+}

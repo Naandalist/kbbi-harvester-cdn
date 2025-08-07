@@ -1,1 +1,57 @@
-{"word":"beol","authenticated":true,"entries":[{"id":"10446","nama":"be.ol","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"buang air besar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berkata-kata tidak benar; dusta","contoh":[{"nomor":2,"teks":"tukang --"}]}]}]}
+{
+  "word": "beol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10446",
+      "nama": "be.ol",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buang air besar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkata-kata tidak benar; dusta",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

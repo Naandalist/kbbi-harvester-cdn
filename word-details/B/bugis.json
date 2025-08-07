@@ -1,1 +1,77 @@
-{"word":"bugis","authenticated":true,"entries":[{"id":"200192","nama":"bu.gis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"penganan yang terbuat dari tepung ketan dicampur parutan kelapa muda dengan isian gula merah dan dibungkus daun pisang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Bugis De"],"peribahasa":[],"idiom":[]}},{"id":"12917","nama":"Bu.gis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang berasal dari atau mendiami sebagian besar daerah Sulawesi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Bugis","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["Bugis De"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "bugis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200192",
+      "nama": "bu.gis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penganan yang terbuat dari tepung ketan dicampur parutan kelapa muda dengan isian gula merah dan dibungkus daun pisang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Bugis De"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "12917",
+      "nama": "Bu.gis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang berasal dari atau mendiami sebagian besar daerah Sulawesi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Bugis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Bugis De"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

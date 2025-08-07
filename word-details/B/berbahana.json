@@ -1,1 +1,43 @@
-{"word":"berbahana","authenticated":true,"entries":[{"id":"6881","nama":"ber.ba.ha.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbunyi; bersuara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"(dalam syair) berkata; berperi","contoh":[]}],"rootWord":"bahana¹"}]}
+{
+  "word": "berbahana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6881",
+      "nama": "ber.ba.ha.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbunyi; bersuara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(dalam syair) berkata; berperi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bahana¹"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"bermain-main","authenticated":true,"entries":[{"id":"51183","nama":"ber.ma.in-ma.in","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersenang-senang dengan melakukan sesuatu","contoh":[{"nomor":2,"teks":"anak kecil itu sedang ~ di lapangan rumput"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkelakar saja; melakukan sesuatu tidak dengan sungguh-sungguh","contoh":[{"nomor":2,"teks":"ah, tidak apa-apa, kami hanya ~"}]}],"rootWord":"main"}]}
+{
+  "word": "bermain-main",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51183",
+      "nama": "ber.ma.in-ma.in",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersenang-senang dengan melakukan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak kecil itu sedang ~ di lapangan rumput"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkelakar saja; melakukan sesuatu tidak dengan sungguh-sungguh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ah, tidak apa-apa, kami hanya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "main"
+    }
+  ]
+}

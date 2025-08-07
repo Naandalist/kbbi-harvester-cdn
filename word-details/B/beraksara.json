@@ -1,1 +1,43 @@
-{"word":"beraksara","authenticated":true,"entries":[{"id":"1769","nama":"ber.ak.sa.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki aksara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mampu membaca dan menulis","contoh":[]}],"rootWord":"aksara¹"}]}
+{
+  "word": "beraksara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1769",
+      "nama": "ber.ak.sa.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki aksara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mampu membaca dan menulis",
+          "contoh": []
+        }
+      ],
+      "rootWord": "aksara¹"
+    }
+  ]
+}
