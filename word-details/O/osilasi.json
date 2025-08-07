@@ -1,1 +1,53 @@
-{"word":"osilasi","authenticated":true,"entries":[{"id":"58562","nama":"o.si.la.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gerakan (goyangan) ke kiri dan ke kanan atau ke atas dan ke bawah atau ke depan dan ke belakang; ayunan; getaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"setiap peristiwa yang berubah secara berkala atau bolak-balik antara dua nilai","contoh":[]}],"terkait":{"kataTurunan":["berosilasi"],"gabunganKata":["osilasi neutrino","osilasi pegas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "osilasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58562",
+      "nama": "o.si.la.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerakan (goyangan) ke kiri dan ke kanan atau ke atas dan ke bawah atau ke depan dan ke belakang; ayunan; getaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "setiap peristiwa yang berubah secara berkala atau bolak-balik antara dua nilai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berosilasi"
+        ],
+        "gabunganKata": [
+          "osilasi neutrino",
+          "osilasi pegas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

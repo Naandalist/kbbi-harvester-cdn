@@ -1,1 +1,66 @@
-{"word":"obral","authenticated":true,"entries":[{"id":"57688","nama":"ob.ral","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjual barang secara besar-besaran dengan harga murah (dengan maksud menghabiskan barang, mengosongkan gudang, dan sebagainya)","contoh":[{"nomor":2,"teks":"pada akhir tahun barang-barang itu biasanya dijual --"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengeluarkan (memakai dan sebagainya) secara banyak-banyak","contoh":[{"nomor":2,"teks":"kau tidak perlu -- tenaga, manfaatkan tenagamu sebaik-baiknya"}]}],"terkait":{"kataTurunan":["mengobral","mengobralkan","obralan","pengobral","pengobralan"],"gabunganKata":[],"peribahasa":[],"idiom":["obral janji"]}}]}
+{
+  "word": "obral",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57688",
+      "nama": "ob.ral",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjual barang secara besar-besaran dengan harga murah (dengan maksud menghabiskan barang, mengosongkan gudang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada akhir tahun barang-barang itu biasanya dijual --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan (memakai dan sebagainya) secara banyak-banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kau tidak perlu -- tenaga, manfaatkan tenagamu sebaik-baiknya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengobral",
+          "mengobralkan",
+          "obralan",
+          "pengobral",
+          "pengobralan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "obral janji"
+        ]
+      }
+    }
+  ]
+}

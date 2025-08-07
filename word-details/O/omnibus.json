@@ -1,1 +1,71 @@
-{"word":"omnibus","authenticated":true,"entries":[{"id":"58037","nama":"om.ni.bus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bus","contoh":[]}]},{"id":"93821","nama":"om.ni.bus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"kompilasi beberapa karya (film, buku, dan sebagainya), biasanya ditulis atau dibuat oleh orang yang sama, melibatkan karakter yang sama atau memiliki tema yang sama, yang sebelumnya pernah diluncurkan secara terpisah","contoh":[{"nomor":2,"teks":"ia mengemas film tersebut dalam bentuk --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkaitan atau mencakup tentang banyak hal","contoh":[{"nomor":2,"teks":"hukum --"}]}]}]}
+{
+  "word": "omnibus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58037",
+      "nama": "om.ni.bus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93821",
+      "nama": "om.ni.bus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kompilasi beberapa karya (film, buku, dan sebagainya), biasanya ditulis atau dibuat oleh orang yang sama, melibatkan karakter yang sama atau memiliki tema yang sama, yang sebelumnya pernah diluncurkan secara terpisah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mengemas film tersebut dalam bentuk --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkaitan atau mencakup tentang banyak hal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hukum --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

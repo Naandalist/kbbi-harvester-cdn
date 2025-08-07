@@ -1,1 +1,111 @@
-{"word":"or","authenticated":true,"entries":[{"id":"1","nama":"o.r","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kata inggris","tipe":"kelas_kata"}],"definisi":"atau","contoh":[{"nomor":1,"teks":"do you want coffee or tea"}]}],"rootWord":"oror"},{"id":"2","nama":"o.r","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Preposisi","tipe":"kelas_kata"}],"definisi":"atau","contoh":[{"nomor":1,"teks":"do you like coffee or tea"}]}],"rootWord":"oror"},{"id":"3","nama":"o.r","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"kj","nama":"Konjungsi","tipe":"lainnya"}],"definisi":"atau","contoh":[{"nomor":1,"teks":"I don't know whether I should go or stay"}]}],"rootWord":"oror"},{"id":"4","nama":"o.r","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"kt","nama":"Kata Tugas","tipe":"lainnya"}],"definisi":"per","contoh":[{"nomor":1,"teks":"2 or 3 times"}]}],"rootWord":"oror"}]}
+{
+  "word": "or",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "o.r",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kata inggris",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "atau",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "do you want coffee or tea"
+            }
+          ]
+        }
+      ],
+      "rootWord": "oror"
+    },
+    {
+      "id": "2",
+      "nama": "o.r",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Preposisi",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "atau",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "do you like coffee or tea"
+            }
+          ]
+        }
+      ],
+      "rootWord": "oror"
+    },
+    {
+      "id": "3",
+      "nama": "o.r",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "kj",
+              "nama": "Konjungsi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "atau",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "I don't know whether I should go or stay"
+            }
+          ]
+        }
+      ],
+      "rootWord": "oror"
+    },
+    {
+      "id": "4",
+      "nama": "o.r",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "kt",
+              "nama": "Kata Tugas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "per",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "2 or 3 times"
+            }
+          ]
+        }
+      ],
+      "rootWord": "oror"
+    }
+  ]
+}

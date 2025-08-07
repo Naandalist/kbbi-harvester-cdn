@@ -1,1 +1,80 @@
-{"word":"ongkos","authenticated":true,"entries":[{"id":"58120","nama":"ong.kos","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"biaya","contoh":[{"nomor":2,"teks":"-- kirim tiga ratus rupiah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"belanja","contoh":[{"nomor":2,"teks":"-- makan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"upah; bayaran","contoh":[{"nomor":2,"teks":"berapa -- pekerja sehari"}]}],"terkait":{"kataTurunan":["mengongkosi","perongkosan"],"gabunganKata":["ongkos fasilitas","ongkos pengiriman","ongkos pinjaman","ongkos transportasi"],"peribahasa":[],"idiom":["berat di ongkos"]}}]}
+{
+  "word": "ongkos",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58120",
+      "nama": "ong.kos",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "biaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kirim tiga ratus rupiah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belanja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- makan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "upah; bayaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berapa -- pekerja sehari"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengongkosi",
+          "perongkosan"
+        ],
+        "gabunganKata": [
+          "ongkos fasilitas",
+          "ongkos pengiriman",
+          "ongkos pinjaman",
+          "ongkos transportasi"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "berat di ongkos"
+        ]
+      }
+    }
+  ]
+}

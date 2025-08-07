@@ -1,1 +1,68 @@
-{"word":"open","authenticated":true,"entries":[{"id":"58186","nama":"o.pen","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"suka memperhatikan hal-hal kecil","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"telaten dan cermat","contoh":[]}],"terkait":{"kataTurunan":["mengopeni"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"58185","nama":"o.pen","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ oven","contoh":[]}]}]}
+{
+  "word": "open",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58186",
+      "nama": "o.pen",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "suka memperhatikan hal-hal kecil",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "telaten dan cermat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengopeni"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "58185",
+      "nama": "o.pen",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ oven",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

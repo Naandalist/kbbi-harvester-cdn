@@ -1,1 +1,97 @@
-{"word":"onar","authenticated":true,"entries":[{"id":"58073","nama":"o.nar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huru-hara; gempar","contoh":[{"nomor":2,"teks":"ulahnya menimbulkan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keributan; kegaduhan","contoh":[{"nomor":2,"teks":"anak nakal itu sering membuat --"}]}],"etimologi":{"text":"[Persia هنر hunar n 'keterampilan, kecerdikan']","languages":["Persia"]},"terkait":{"kataTurunan":["keonaran","mengonarkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"58076","nama":"o.nar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"akal busuk; tipu muslihat","contoh":[{"nomor":2,"teks":"pedagang sering melakukan -- terhadap pembeli"}]}],"etimologi":{"text":"[Persia هنر hunar n 'keterampilan, kecerdikan']","languages":["Persia"]}}]}
+{
+  "word": "onar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58073",
+      "nama": "o.nar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huru-hara; gempar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ulahnya menimbulkan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keributan; kegaduhan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak nakal itu sering membuat --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia هنر hunar n 'keterampilan, kecerdikan']",
+        "languages": [
+          "Persia"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "keonaran",
+          "mengonarkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "58076",
+      "nama": "o.nar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "akal busuk; tipu muslihat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedagang sering melakukan -- terhadap pembeli"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia هنر hunar n 'keterampilan, kecerdikan']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    }
+  ]
+}

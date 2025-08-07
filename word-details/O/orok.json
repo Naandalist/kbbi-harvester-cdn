@@ -1,1 +1,86 @@
-{"word":"orok","authenticated":true,"entries":[{"id":"58526","nama":"o.rok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bayi","contoh":[]}],"terkait":{"kataTurunan":["mengorok","pengorok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"58527","nama":"o.rok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dengkur","contoh":[]}],"terkait":{"kataTurunan":["mengorok","pengorok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"293956","nama":"o.rok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tht","nama":"Tehit","tipe":"lainnya"}],"definisi":"nyanyian dan tarian tradisional suku Tehit yang hanya dibawakan saat penerimaan peserta didik, pertengahan pendidikan, dan penyerahan peserta didik ke orang tua pada sekolah adat wuon","contoh":[]}]}]}
+{
+  "word": "orok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58526",
+      "nama": "o.rok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bayi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengorok",
+          "pengorok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "58527",
+      "nama": "o.rok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengkur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengorok",
+          "pengorok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "293956",
+      "nama": "o.rok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tht",
+              "nama": "Tehit",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian dan tarian tradisional suku Tehit yang hanya dibawakan saat penerimaan peserta didik, pertengahan pendidikan, dan penyerahan peserta didik ke orang tua pada sekolah adat wuon",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

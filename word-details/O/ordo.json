@@ -1,1 +1,99 @@
-{"word":"ordo","authenticated":true,"entries":[{"id":"58420","nama":"or.do","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"perkumpulan para biarawan atau biarawati yang anggotanya hidup sesuai dengan aturan masing-masing, umumnya sudah ada sebelum abad ke-12; orde2","contoh":[{"nomor":2,"teks":"-- Serikat Yesus"},{"nomor":4,"teks":"-- Ursulin"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"tarekat biarawan","contoh":[]}]},{"id":"58421","nama":"or.do","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"klasifikasi dalam biologi yang lebih rendah daripada kelas dan lebih tinggi daripada famili","contoh":[]}]},{"id":"58422","nama":"or.do","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"burung pemakan biji-bijian, famili Plocedere dari jenis burung berkicau","contoh":[]}]}]}
+{
+  "word": "ordo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58420",
+      "nama": "or.do",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perkumpulan para biarawan atau biarawati yang anggotanya hidup sesuai dengan aturan masing-masing, umumnya sudah ada sebelum abad ke-12; orde2",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Serikat Yesus"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- Ursulin"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tarekat biarawan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "58421",
+      "nama": "or.do",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "klasifikasi dalam biologi yang lebih rendah daripada kelas dan lebih tinggi daripada famili",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "58422",
+      "nama": "or.do",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "burung pemakan biji-bijian, famili Plocedere dari jenis burung berkicau",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

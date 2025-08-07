@@ -1,1 +1,54 @@
-{"word":"oga","authenticated":true,"entries":[{"id":"57764","nama":"o.ga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pipa untuk mengisap tembakau; hokah","contoh":[]}]},{"id":"176833","nama":"o.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"balok penghubung tengkuk hewan penarik bajak","contoh":[{"nomor":2,"teks":"-- itu sudah dapat dilepaskan karena hari ini kita sudah selesai membajak sawah"}]}]}]}
+{
+  "word": "oga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57764",
+      "nama": "o.ga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pipa untuk mengisap tembakau; hokah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "176833",
+      "nama": "o.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "balok penghubung tengkuk hewan penarik bajak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- itu sudah dapat dilepaskan karena hari ini kita sudah selesai membajak sawah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

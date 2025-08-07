@@ -1,1 +1,65 @@
-{"word":"ogah","authenticated":true,"entries":[{"id":"57765","nama":"o.gah","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial mengogah","contoh":[]}],"terkait":{"kataTurunan":["mengogah","ogah-ogahan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"57767","nama":"o.gah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"tidak mau (bersedia) berbuat sesuatu; segan; enggan","contoh":[{"nomor":2,"teks":"dia -- makan"}]}],"terkait":{"kataTurunan":["ogah-ogahan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ogah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57765",
+      "nama": "o.gah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial mengogah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengogah",
+          "ogah-ogahan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "57767",
+      "nama": "o.gah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidak mau (bersedia) berbuat sesuatu; segan; enggan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- makan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ogah-ogahan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

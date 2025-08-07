@@ -1,1 +1,65 @@
-{"word":"onyak-anyik","authenticated":true,"entries":[{"id":"58147","nama":"o.nyak-a.nyik","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ onyah-anyih","contoh":[]}]},{"id":"58148","nama":"o.nyak-a.nyik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"goyah; goyang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak tetap pendiriannya","contoh":[]}]}]}
+{
+  "word": "onyak-anyik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58147",
+      "nama": "o.nyak-a.nyik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ onyah-anyih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "58148",
+      "nama": "o.nyak-a.nyik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "goyah; goyang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak tetap pendiriannya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

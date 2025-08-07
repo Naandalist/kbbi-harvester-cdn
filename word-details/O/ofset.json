@@ -1,1 +1,78 @@
-{"word":"ofset","authenticated":true,"entries":[{"id":"57750","nama":"of.set","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"proses cetak buku, koran, dan sebagainya, tinta cetak dari pelat dialihkan dulu ke bahan karet, kemudian baru ke kertas atau bahan cetak lain","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tek","nama":"Teknik","tipe":"bidang_subjek"}],"definisi":"sistem pembelian barang (pesawat terbang dan sebagainya) yang mewajibkan pabrik penghasil sebagai penjual untuk memberikan lisensi pembuatan sebagian komponennya pada industri di negara pembeli","contoh":[{"nomor":2,"teks":"pembelian pesawat tempur Mirage 2000 akan dilakukan dengan sistem --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"praktik hukum terkait dengan kegiatan perdagangan dalam industri kedirgantaraan dan militer; praktik komersial departemen militer yang tidak mengacu pada aturan negara, tetapi telah diberikan kebijakan formal berkenaan kegiatan perdagangan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ofset gulungan","ofset lembaran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ofset",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57750",
+      "nama": "of.set",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "proses cetak buku, koran, dan sebagainya, tinta cetak dari pelat dialihkan dulu ke bahan karet, kemudian baru ke kertas atau bahan cetak lain",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tek",
+              "nama": "Teknik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sistem pembelian barang (pesawat terbang dan sebagainya) yang mewajibkan pabrik penghasil sebagai penjual untuk memberikan lisensi pembuatan sebagian komponennya pada industri di negara pembeli",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pembelian pesawat tempur Mirage 2000 akan dilakukan dengan sistem --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "praktik hukum terkait dengan kegiatan perdagangan dalam industri kedirgantaraan dan militer; praktik komersial departemen militer yang tidak mengacu pada aturan negara, tetapi telah diberikan kebijakan formal berkenaan kegiatan perdagangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ofset gulungan",
+          "ofset lembaran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

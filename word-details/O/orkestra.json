@@ -1,1 +1,42 @@
-{"word":"orkestra","authenticated":true,"entries":[{"id":"58505","nama":"or.kes.tra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orkes","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"area yang terletak di depan panggung tempat duduk para pemusik","contoh":[]}]}]}
+{
+  "word": "orkestra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58505",
+      "nama": "or.kes.tra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orkes",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "area yang terletak di depan panggung tempat duduk para pemusik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

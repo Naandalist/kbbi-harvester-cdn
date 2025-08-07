@@ -1,1 +1,184 @@
-{"word":"oleh","authenticated":true,"entries":[{"id":"57939","nama":"o.leh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata penghubung untuk menandai pelaku","contoh":[{"nomor":2,"teks":"rumah ini dibeli -- ayahnya bulan lalu"},{"nomor":4,"teks":"tidak teringat -- ibuku bahwa hari ini hari ulang tahun anaknya"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"sebab; karena","contoh":[{"nomor":2,"teks":"tidak lapuk -- hujan"},{"nomor":4,"teks":"binasa -- perbuatannya sendiri"}]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"akibat","contoh":[{"nomor":2,"teks":"-- kurang hati-hatinya maka ia jatuh"}]},{"nomor":"4","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"(ke)pada (yang menyatakan hubungan keluarga)","contoh":[{"nomor":2,"teks":"ia pun kemenakan juga -- Engku Payo"}]},{"nomor":"5","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bagi (untuk)","contoh":[{"nomor":2,"teks":"persoalan itu menjadi pikiran --ku"}]},{"nomor":"6","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"dengan","contoh":[{"nomor":2,"teks":"pohon itu sarat -- buah"}]}],"terkait":{"kataTurunan":["beroleh","memeroleh","memperoleh","memperolehkan","pemeroleh","pemerolehan","perolehan"],"gabunganKata":["oleh karena","oleh karena itu","oleh sebab","oleh sebab itu"],"peribahasa":["alah bisa karena (oleh) biasa","alah bisa oleh (karena) biasa","alah limau oleh benalu","bersua baji dengan matan (tahan baji oleh kelidai)","bulat air oleh pembuluh, bulat kata oleh mufakat","gajah dikalahkan oleh pelanduk","habis cupak oleh (dari) pelelehan","habis geli oleh gelitik, (habis bisa oleh biasa)","ikan sekambu rusak oleh ikan seekor","kalau menyeberang sungai, biarlah ditelan oleh buaya, tetapi jangan dipagut oleh ikan kecil","karam sambal oleh belacan","kuning oleh kunyit, hitam oleh arang","lapuk oleh kain sehelai","manusia tertarik oleh tanah airnya, anjing tertarik oleh piringnya","panas setahun dihapuskan oleh hujan sehari","rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit)","rusak anak oleh menantu","rusak bangsa oleh laku","seorang makan cempedak, semuanya lumus oleh getahnya","sudah tidak tersudu oleh angsa, baharu diberikan kepada itik","tak lekang oleh panas, tak lapuk oleh hujan","tak tersedu oleh itik","terlindung oleh sanggul","tiada terempang peluru oleh lalang","tidak mati oleh Belanda","tinggi terbawa oleh ruasnya"],"idiom":[]}}]}
+{
+  "word": "oleh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57939",
+      "nama": "o.leh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penghubung untuk menandai pelaku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah ini dibeli -- ayahnya bulan lalu"
+            },
+            {
+              "nomor": 4,
+              "teks": "tidak teringat -- ibuku bahwa hari ini hari ulang tahun anaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebab; karena",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak lapuk -- hujan"
+            },
+            {
+              "nomor": 4,
+              "teks": "binasa -- perbuatannya sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "akibat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kurang hati-hatinya maka ia jatuh"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ke)pada (yang menyatakan hubungan keluarga)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pun kemenakan juga -- Engku Payo"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagi (untuk)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persoalan itu menjadi pikiran --ku"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pohon itu sarat -- buah"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beroleh",
+          "memeroleh",
+          "memperoleh",
+          "memperolehkan",
+          "pemeroleh",
+          "pemerolehan",
+          "perolehan"
+        ],
+        "gabunganKata": [
+          "oleh karena",
+          "oleh karena itu",
+          "oleh sebab",
+          "oleh sebab itu"
+        ],
+        "peribahasa": [
+          "alah bisa karena (oleh) biasa",
+          "alah bisa oleh (karena) biasa",
+          "alah limau oleh benalu",
+          "bersua baji dengan matan (tahan baji oleh kelidai)",
+          "bulat air oleh pembuluh, bulat kata oleh mufakat",
+          "gajah dikalahkan oleh pelanduk",
+          "habis cupak oleh (dari) pelelehan",
+          "habis geli oleh gelitik, (habis bisa oleh biasa)",
+          "ikan sekambu rusak oleh ikan seekor",
+          "kalau menyeberang sungai, biarlah ditelan oleh buaya, tetapi jangan dipagut oleh ikan kecil",
+          "karam sambal oleh belacan",
+          "kuning oleh kunyit, hitam oleh arang",
+          "lapuk oleh kain sehelai",
+          "manusia tertarik oleh tanah airnya, anjing tertarik oleh piringnya",
+          "panas setahun dihapuskan oleh hujan sehari",
+          "rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit)",
+          "rusak anak oleh menantu",
+          "rusak bangsa oleh laku",
+          "seorang makan cempedak, semuanya lumus oleh getahnya",
+          "sudah tidak tersudu oleh angsa, baharu diberikan kepada itik",
+          "tak lekang oleh panas, tak lapuk oleh hujan",
+          "tak tersedu oleh itik",
+          "terlindung oleh sanggul",
+          "tiada terempang peluru oleh lalang",
+          "tidak mati oleh Belanda",
+          "tinggi terbawa oleh ruasnya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

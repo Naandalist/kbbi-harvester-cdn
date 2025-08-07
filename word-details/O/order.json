@@ -1,1 +1,59 @@
-{"word":"order","authenticated":true,"entries":[{"id":"58412","nama":"or.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perintah untuk melakukan sesuatu","contoh":[{"nomor":2,"teks":"ia mendapat -- dari atasannya untuk pergi ke Bandung"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pesanan","contoh":[{"nomor":2,"teks":"barang-barang itu dibuat atas --"}]}],"terkait":{"kataTurunan":["mengorder","orderan","pengorder","pengorderan","terorder"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "order",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58412",
+      "nama": "or.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perintah untuk melakukan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mendapat -- dari atasannya untuk pergi ke Bandung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pesanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang-barang itu dibuat atas --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengorder",
+          "orderan",
+          "pengorder",
+          "pengorderan",
+          "terorder"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"optik","authenticated":true,"entries":[{"id":"58276","nama":"op.tik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"berkenaan dengan penglihatan (cahaya, lensa mata, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"toko peralatan optik (kacamata dan sebagainya)","contoh":[{"nomor":2,"teks":"ayah memesan lensa kacamata di sebuah --"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["optik adaptif","optik dapat hapus"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "optik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58276",
+      "nama": "op.tik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berkenaan dengan penglihatan (cahaya, lensa mata, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "toko peralatan optik (kacamata dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah memesan lensa kacamata di sebuah --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "optik adaptif",
+          "optik dapat hapus"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}
