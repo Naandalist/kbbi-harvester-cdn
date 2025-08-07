@@ -1,1 +1,74 @@
-{"word":"delegasi","authenticated":true,"entries":[{"id":"18601","nama":"de.le.ga.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang (orang) yang ditunjuk dan diutus oleh suatu perkumpulan (negara dan sebagainya) dalam suatu perundingan (musyawarah dan sebagainya); perutusan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dag","nama":"Perdagangan","tipe":"bidang_subjek"}],"definisi":"penyerahan atau pelimpahan wewenang","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"}],"definisi":"pelimpahan wewenang","contoh":[]}],"terkait":{"kataTurunan":["berdelegasi","mendelegasikan","pendelegasi","pendelegasian","sedelegasi","terdelegasi"],"gabunganKata":["delegasi wewenang"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "delegasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18601",
+      "nama": "de.le.ga.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang (orang) yang ditunjuk dan diutus oleh suatu perkumpulan (negara dan sebagainya) dalam suatu perundingan (musyawarah dan sebagainya); perutusan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dag",
+              "nama": "Perdagangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyerahan atau pelimpahan wewenang",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pelimpahan wewenang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdelegasi",
+          "mendelegasikan",
+          "pendelegasi",
+          "pendelegasian",
+          "sedelegasi",
+          "terdelegasi"
+        ],
+        "gabunganKata": [
+          "delegasi wewenang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

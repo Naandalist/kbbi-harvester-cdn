@@ -1,1 +1,99 @@
-{"word":"dar","authenticated":true,"entries":[{"id":"17786","nama":"dar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"tempat","contoh":[{"nomor":2,"teks":"darusalam"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"daerah","contoh":[]}],"etimologi":{"text":"[Arab دَارٌ dār n sg f 'rumah']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["dar dor"],"peribahasa":[],"idiom":[]}},{"id":"17787","nama":"dar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi ledakan","contoh":[]}],"etimologi":{"text":"[Arab دَارٌ dār n sg f 'rumah']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["dar dor"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "dar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17786",
+      "nama": "dar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "darusalam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daerah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab دَارٌ dār n sg f 'rumah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "dar dor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "17787",
+      "nama": "dar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi ledakan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab دَارٌ dār n sg f 'rumah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "dar dor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

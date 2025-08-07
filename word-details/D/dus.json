@@ -1,1 +1,99 @@
-{"word":"dus","authenticated":true,"entries":[{"id":"20931","nama":"dus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"alat untuk memancarkan air mandi dan sebagainya","contoh":[{"nomor":2,"teks":"mandi di bawah --"}]}],"terkait":{"kataTurunan":["sedus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"20932","nama":"dus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kotak dari kertas tebal (karton); dos; kardus","contoh":[]}],"terkait":{"kataTurunan":["sedus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"112432","nama":"dus","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"dengan demikian; jadi","contoh":[{"nomor":2,"teks":"--, kami rasa sudah cukup penjelasan yang kami berikan"}]}]}]}
+{
+  "word": "dus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20931",
+      "nama": "dus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk memancarkan air mandi dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mandi di bawah --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sedus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "20932",
+      "nama": "dus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotak dari kertas tebal (karton); dos; kardus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sedus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "112432",
+      "nama": "dus",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan demikian; jadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, kami rasa sudah cukup penjelasan yang kami berikan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

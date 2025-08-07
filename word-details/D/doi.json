@@ -1,1 +1,91 @@
-{"word":"doi","authenticated":true,"entries":[{"id":"20267","nama":"doi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"uang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["doi menre"],"peribahasa":[],"idiom":[]}},{"id":"20268","nama":"doi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pacar","contoh":[]}]},{"id":"20269","nama":"doi","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"ia (laki-laki)","contoh":[{"nomor":2,"teks":"saya berunding dahulu dengan --"}]}]}]}
+{
+  "word": "doi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20267",
+      "nama": "doi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "doi menre"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "20268",
+      "nama": "doi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pacar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "20269",
+      "nama": "doi",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ia (laki-laki)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya berunding dahulu dengan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

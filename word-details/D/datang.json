@@ -1,1 +1,125 @@
-{"word":"datang","authenticated":true,"entries":[{"id":"17937","nama":"da.tang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tiba di tempat yang dituju","contoh":[{"nomor":2,"teks":"ia -- pukul 08.00"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berasal","contoh":[{"nomor":2,"teks":"mereka -- dari desa"},{"nomor":4,"teks":"dari mana --nya cinta, dari mata turun ke hati"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hadir; muncul","contoh":[{"nomor":2,"teks":"ia tidak -- karena sakit"},{"nomor":4,"teks":"tiba-tiba ia -- di tengah-tengah kita"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelak kemudian; nanti","contoh":[{"nomor":2,"teks":"masa --"}]}],"terkait":{"kataTurunan":["berdatang","berdatangan","datang-datang","datang-mendatangi","kedatangan","mendatang","mendatangi","mendatangkan","pendatang","pendatangan","sedatang"],"gabunganKata":["datang bulan","datang hati"],"peribahasa":["akal tak sekali datang, runding tak sekali tiba","bak mandi di air kiambang, pelak lepas gatal pun datang","calak ganti asah (menanti tukang belum datang)","datang seperti ribut, pergi seperti angin","datang seperti ribut, pergi seperti semut","datang tak berjemput, pulang tak berhantar","datang tampak muka, pulang tampak punggung","datang tidak berjemput, pulang tidak berantar","deras datang, deras kena","kurang-kurang dikerah orang, lebih-lebih dia hendak datang","makan sudah terhidang, jamu belum jua datang","sepuluh kapal datang, anjing pun bercawat ekor","tegak pada yang datang","yang bulat datang bergolek, yang pipih datang melayang"],"idiom":[]}}]}
+{
+  "word": "datang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17937",
+      "nama": "da.tang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiba di tempat yang dituju",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- pukul 08.00"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka -- dari desa"
+            },
+            {
+              "nomor": 4,
+              "teks": "dari mana --nya cinta, dari mata turun ke hati"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hadir; muncul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak -- karena sakit"
+            },
+            {
+              "nomor": 4,
+              "teks": "tiba-tiba ia -- di tengah-tengah kita"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelak kemudian; nanti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masa --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdatang",
+          "berdatangan",
+          "datang-datang",
+          "datang-mendatangi",
+          "kedatangan",
+          "mendatang",
+          "mendatangi",
+          "mendatangkan",
+          "pendatang",
+          "pendatangan",
+          "sedatang"
+        ],
+        "gabunganKata": [
+          "datang bulan",
+          "datang hati"
+        ],
+        "peribahasa": [
+          "akal tak sekali datang, runding tak sekali tiba",
+          "bak mandi di air kiambang, pelak lepas gatal pun datang",
+          "calak ganti asah (menanti tukang belum datang)",
+          "datang seperti ribut, pergi seperti angin",
+          "datang seperti ribut, pergi seperti semut",
+          "datang tak berjemput, pulang tak berhantar",
+          "datang tampak muka, pulang tampak punggung",
+          "datang tidak berjemput, pulang tidak berantar",
+          "deras datang, deras kena",
+          "kurang-kurang dikerah orang, lebih-lebih dia hendak datang",
+          "makan sudah terhidang, jamu belum jua datang",
+          "sepuluh kapal datang, anjing pun bercawat ekor",
+          "tegak pada yang datang",
+          "yang bulat datang bergolek, yang pipih datang melayang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

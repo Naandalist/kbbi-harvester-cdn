@@ -1,1 +1,56 @@
-{"word":"divergensi","authenticated":true,"entries":[{"id":"20175","nama":"di.ver.gen.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyebaran","contoh":[{"nomor":2,"teks":"-- makna"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"proses terpecahbelahnya suatu bahasa menjadi beberapa dialek karena tiadanya fasilitas pendidikan yang standar dan kurang cukupnya komunikasi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["divergensi genetis","divergensi lempeng"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "divergensi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20175",
+      "nama": "di.ver.gen.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyebaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- makna"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "proses terpecahbelahnya suatu bahasa menjadi beberapa dialek karena tiadanya fasilitas pendidikan yang standar dan kurang cukupnya komunikasi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "divergensi genetis",
+          "divergensi lempeng"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

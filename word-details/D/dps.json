@@ -1,1 +1,78 @@
-{"word":"dps","authenticated":true,"entries":[{"id":"185618","nama":"DPS","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Dewan Pengawas Syariah (dewan yang bertugas memberikan nasihat dan mengawasi serta memastikan pemenuhan prinsip syariah oleh pihak yang melakukan kegiatan ekonomi syariah)","contoh":[]}]},{"id":"227221","nama":"DPS","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pol","nama":"Politik dan Pemerintahan","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"daftar pemilih sementara","contoh":[]}]},{"id":"273668","nama":"DPS","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kode nama Bandar Udara Internasional Ngurah Rai, Denpasar, Bali","contoh":[]}]}]}
+{
+  "word": "dps",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "185618",
+      "nama": "DPS",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Dewan Pengawas Syariah (dewan yang bertugas memberikan nasihat dan mengawasi serta memastikan pemenuhan prinsip syariah oleh pihak yang melakukan kegiatan ekonomi syariah)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "227221",
+      "nama": "DPS",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pol",
+              "nama": "Politik dan Pemerintahan",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daftar pemilih sementara",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "273668",
+      "nama": "DPS",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode nama Bandar Udara Internasional Ngurah Rai, Denpasar, Bali",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

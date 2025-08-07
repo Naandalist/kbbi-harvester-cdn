@@ -1,1 +1,75 @@
-{"word":"dustur","authenticated":true,"entries":[{"id":"20941","nama":"dus.tur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"undang-undang dasar suatu negara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"daftar nama tentara serta pangkat yang dijabatnya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"susunan kalimat bersajak berisi pujian kepada Nabi Muhammad saw.","contoh":[{"nomor":2,"teks":"acara pembukaan majelis taklim itu diawali dengan pembacaan --"}]}],"etimologi":{"text":"[Arab دُسْتُوْرٌ dustūr n sg f 'buku undang-undang kerajaan']","languages":["Arab"]}}]}
+{
+  "word": "dustur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20941",
+      "nama": "dus.tur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "undang-undang dasar suatu negara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daftar nama tentara serta pangkat yang dijabatnya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "susunan kalimat bersajak berisi pujian kepada Nabi Muhammad saw.",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara pembukaan majelis taklim itu diawali dengan pembacaan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab دُسْتُوْرٌ dustūr n sg f 'buku undang-undang kerajaan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"word":"duk","authenticated":true,"entries":[{"id":"20736","nama":"duk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kain pembalut waktu haid","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["duk steril"],"peribahasa":[],"idiom":[]}},{"id":"92374","nama":"DUK","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"daftar usulan kegiatan","contoh":[]}]},{"id":"251753","nama":"DUK","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"daftar urut kepangkatan (daftar nama pegawai sipil dari suatu satuan organisasi negara yang disusun menurut tingkat kepangkatannya)","contoh":[]}]}]}
+{
+  "word": "duk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20736",
+      "nama": "duk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kain pembalut waktu haid",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "duk steril"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "92374",
+      "nama": "DUK",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daftar usulan kegiatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "251753",
+      "nama": "DUK",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daftar urut kepangkatan (daftar nama pegawai sipil dari suatu satuan organisasi negara yang disusun menurut tingkat kepangkatannya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,64 @@
-{"word":"dungu","authenticated":true,"entries":[{"id":"20831","nama":"du.ngu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kas","nama":"Kasar","tipe":"lainnya"}],"definisi":"sangat tumpul otaknya; tidak cerdas; bebal; bodoh; koplo","contoh":[]}],"terkait":{"kataTurunan":["kedunguan","mendungukan","sedungu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"128762","nama":"du.ngu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tungku peleburan timah dan tembaga","contoh":[]}]}]}
+{
+  "word": "dungu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20831",
+      "nama": "du.ngu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kas",
+              "nama": "Kasar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sangat tumpul otaknya; tidak cerdas; bebal; bodoh; koplo",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kedunguan",
+          "mendungukan",
+          "sedungu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "128762",
+      "nama": "du.ngu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tungku peleburan timah dan tembaga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

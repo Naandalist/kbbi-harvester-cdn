@@ -1,1 +1,43 @@
-{"word":"dadakan","authenticated":true,"entries":[{"id":"17084","nama":"da.dak.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dilakukan secara tiba-tiba","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"(datang) dengan tiba-tiba","contoh":[{"nomor":2,"teks":"dia terkejut mendapat serangan ~"}]}],"rootWord":"dadak"}]}
+{
+  "word": "dadakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17084",
+      "nama": "da.dak.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dilakukan secara tiba-tiba",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(datang) dengan tiba-tiba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia terkejut mendapat serangan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dadak"
+    }
+  ]
+}

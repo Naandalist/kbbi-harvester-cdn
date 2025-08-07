@@ -1,1 +1,111 @@
-{"word":"dendeng","authenticated":true,"entries":[{"id":"18842","nama":"den.deng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daging sayatan yang dibumbui dan dikeringkan","contoh":[{"nomor":2,"teks":"-- sapi"},{"nomor":4,"teks":"-- rusa"}]}],"etimologi":{"text":"[Jawa Kuno deṅ 'daging kering']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["mendendeng"],"gabunganKata":["dendeng batokok","dendeng ikan"],"peribahasa":[],"idiom":[]}},{"id":"232756","nama":"den.deng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Buo","nama":"Buol","tipe":"lainnya"}],"definisi":"pukulan musik kolintang etnis Buol pada saat kematian","contoh":[]}],"etimologi":{"text":"[Jawa Kuno deṅ 'daging kering']","languages":["Jawa Kuno"]}},{"id":"283028","nama":"den.deng","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"rajangan tembakau yang sudah kering","contoh":[]}],"etimologi":{"text":"[Jawa Kuno deṅ 'daging kering']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "dendeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18842",
+      "nama": "den.deng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daging sayatan yang dibumbui dan dikeringkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sapi"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- rusa"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno deṅ 'daging kering']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mendendeng"
+        ],
+        "gabunganKata": [
+          "dendeng batokok",
+          "dendeng ikan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "232756",
+      "nama": "den.deng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Buo",
+              "nama": "Buol",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pukulan musik kolintang etnis Buol pada saat kematian",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno deṅ 'daging kering']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "283028",
+      "nama": "den.deng",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rajangan tembakau yang sudah kering",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno deṅ 'daging kering']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

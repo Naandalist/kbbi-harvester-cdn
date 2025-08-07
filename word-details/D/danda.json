@@ -1,1 +1,53 @@
-{"word":"danda","authenticated":true,"entries":[{"id":"17668","nama":"dan.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"tongkat kekuasaan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"My","nama":"Muyu","tipe":"lainnya"}],"definisi":"tarian yang dilakukan di halaman rumah sebagai tanda akan memasuki rumah baru","contoh":[]}],"etimologi":{"text":"[Sanskerta दण्ड daṇḍa 'tongkat, batang, tongkat kerajaan; tangkai; tongkat alat kecapi dimainkan; batang atau tongkat kerajaan sebagai lambang kekuasaan']","languages":["Sanskerta"]}}]}
+{
+  "word": "danda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17668",
+      "nama": "dan.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tongkat kekuasaan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "My",
+              "nama": "Muyu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tarian yang dilakukan di halaman rumah sebagai tanda akan memasuki rumah baru",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta दण्ड daṇḍa 'tongkat, batang, tongkat kerajaan; tangkai; tongkat alat kecapi dimainkan; batang atau tongkat kerajaan sebagai lambang kekuasaan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

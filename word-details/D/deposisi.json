@@ -1,1 +1,68 @@
-{"word":"deposisi","authenticated":true,"entries":[{"id":"19051","nama":"de.po.si.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"pembentukan kumpulan materi seperti sedimentasi, pergerakan, penyulutan secara elektrik, dan pengendapan","contoh":[]}],"terkait":{"kataTurunan":["pendeposisian"],"gabunganKata":["deposisi kolagen","deposisi pemercik","deposisi robotik","deposisi uap fisis","deposisi uap kimia"],"peribahasa":[],"idiom":[]}},{"id":"214188","nama":"de.po.si.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"pernyataan lisan atau tertulis di bawah sumpah, tetapi di luar ruang pengadilan, dapat dibuat menjadi transkrip tertulis untuk digunakan di pengadilan","contoh":[]}]}]}
+{
+  "word": "deposisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19051",
+      "nama": "de.po.si.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pembentukan kumpulan materi seperti sedimentasi, pergerakan, penyulutan secara elektrik, dan pengendapan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pendeposisian"
+        ],
+        "gabunganKata": [
+          "deposisi kolagen",
+          "deposisi pemercik",
+          "deposisi robotik",
+          "deposisi uap fisis",
+          "deposisi uap kimia"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "214188",
+      "nama": "de.po.si.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pernyataan lisan atau tertulis di bawah sumpah, tetapi di luar ruang pengadilan, dapat dibuat menjadi transkrip tertulis untuk digunakan di pengadilan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

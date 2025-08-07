@@ -1,1 +1,59 @@
-{"word":"dundang","authenticated":true,"entries":[{"id":"138654","nama":"dun.dang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"ranjau berpembidas dari bambu runcing, digunakan untuk membunuh binatang berkaki empat (seperti babi hutan, rusa)","contoh":[{"nomor":2,"teks":"rusa itu mati kena --"}]}]},{"id":"160338","nama":"dun.dang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"nyanyian gembira untuk menidurkan anak-anak","contoh":[]}]}]}
+{
+  "word": "dundang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "138654",
+      "nama": "dun.dang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ranjau berpembidas dari bambu runcing, digunakan untuk membunuh binatang berkaki empat (seperti babi hutan, rusa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rusa itu mati kena --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "160338",
+      "nama": "dun.dang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian gembira untuk menidurkan anak-anak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

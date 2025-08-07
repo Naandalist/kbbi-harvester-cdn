@@ -1,1 +1,103 @@
-{"word":"diam seribu basa","authenticated":true,"entries":[{"id":"1","nama":"di.am se.ri.bu ba.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"berkata-kata dengan isyarat, tidak dengan suara","contoh":[{"nomor":1,"teks":"dia hanya -- ketika ditanya tentang kepergiannya"}]}],"rootWord":"diamdiam"},{"id":"2","nama":"di.am se.ri.bu ba.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"berbicara dengan menggunakan isyarat; tidak menggunakan perkataan","contoh":[{"teks":"dia hanya diam seribu basa memberikan jawaban"}]}],"rootWord":"diamdiam"},{"id":"3","nama":"di.am se.ri.bu ba.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisyaratkan sesuatu tanpa mengucapkan kata-kata","contoh":[{"teks":"Ia -- ketika diminta tolong"}]}],"rootWord":"diamdiam"},{"id":"4","nama":"di.am se.ri.bu ba.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"Kiasan","tipe":"kelas_kata"}],"definisi":"tidak menjawab secara langsung, tapi dengan isyarat","contoh":[{"teks":"Ia memilih -- daripada menjawab secara terus terang"}]}],"rootWord":"diamdiam"}]}
+{
+  "word": "diam seribu basa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "di.am se.ri.bu ba.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkata-kata dengan isyarat, tidak dengan suara",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia hanya -- ketika ditanya tentang kepergiannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diamdiam"
+    },
+    {
+      "id": "2",
+      "nama": "di.am se.ri.bu ba.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbicara dengan menggunakan isyarat; tidak menggunakan perkataan",
+          "contoh": [
+            {
+              "teks": "dia hanya diam seribu basa memberikan jawaban"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diamdiam"
+    },
+    {
+      "id": "3",
+      "nama": "di.am se.ri.bu ba.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisyaratkan sesuatu tanpa mengucapkan kata-kata",
+          "contoh": [
+            {
+              "teks": "Ia -- ketika diminta tolong"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diamdiam"
+    },
+    {
+      "id": "4",
+      "nama": "di.am se.ri.bu ba.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "Kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menjawab secara langsung, tapi dengan isyarat",
+          "contoh": [
+            {
+              "teks": "Ia memilih -- daripada menjawab secara terus terang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diamdiam"
+    }
+  ]
+}

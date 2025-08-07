@@ -1,1 +1,65 @@
-{"word":"diagnosis","authenticated":true,"entries":[{"id":"19529","nama":"di.ag.no.sis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penentuan jenis penyakit dengan cara meneliti (memeriksa) gejala-gejalanya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sos","nama":"Sosiologi","tipe":"bidang_subjek"}],"definisi":"pemeriksaan terhadap suatu hal","contoh":[]}],"terkait":{"kataTurunan":["mendiagnosis","pendiagnosis","pendiagnosisan","terdiagnosis"],"gabunganKata":["diagnosis aktual","diagnosis diferensial","diagnosis keperawatan","diagnosis kerja","diagnosis klinis","diagnosis mandiri","diagnosis medis","diagnosis multiaksial","diagnosis pembanding","diagnosis promosi kesehatan","diagnosis risiko"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "diagnosis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19529",
+      "nama": "di.ag.no.sis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penentuan jenis penyakit dengan cara meneliti (memeriksa) gejala-gejalanya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sos",
+              "nama": "Sosiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pemeriksaan terhadap suatu hal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendiagnosis",
+          "pendiagnosis",
+          "pendiagnosisan",
+          "terdiagnosis"
+        ],
+        "gabunganKata": [
+          "diagnosis aktual",
+          "diagnosis diferensial",
+          "diagnosis keperawatan",
+          "diagnosis kerja",
+          "diagnosis klinis",
+          "diagnosis mandiri",
+          "diagnosis medis",
+          "diagnosis multiaksial",
+          "diagnosis pembanding",
+          "diagnosis promosi kesehatan",
+          "diagnosis risiko"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,128 @@
-{"word":"data","authenticated":true,"entries":[{"id":"17916","nama":"da.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keterangan yang benar dan nyata","contoh":[{"nomor":2,"teks":"pengumpulan -- untuk memperoleh keterangan tentang kehidupan petani"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keterangan atau bahan nyata yang dapat dijadikan dasar kajian (analisis atau kesimpulan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"informasi dalam bentuk yang dapat diproses oleh komputer, seperti representasi digital dari teks, angka, gambar grafis, atau suara","contoh":[]}],"terkait":{"kataTurunan":["berdata","mendata","mendatakan","pendata","pendataan","terdata"],"gabunganKata":["augmentasi data","data alfanumerik","data analog","data balikan","data biokimia","data cacahan","data dasar pasien","data digital","data diskret","data diskrit","data dukung","data elektronik","data epidemi","data faktual","data garis","data genetika","data geografis","data geospasial","data grafis","data induk","data internet","data kategoris","data kendali program","data kependudukan","data kontinu","data kontinum","data kualitatif","data kualitatif bermakna","data kualitatif empiris","data kuantitatif","data langsung","data lapangan","data latihan","data lisan","data mentah","data nominal","data numerik","data observasi","data ordinal","data penunjuk","data pribadi","data primer","data raster","data raya","data relevan","data sekunder","data sewaktu","data spasial","data statistik","data statistika","data teristris","data tertulis","data warisan"],"peribahasa":["pengolahan data waktu nyata"],"idiom":[]}}]}
+{
+  "word": "data",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17916",
+      "nama": "da.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keterangan yang benar dan nyata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengumpulan -- untuk memperoleh keterangan tentang kehidupan petani"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keterangan atau bahan nyata yang dapat dijadikan dasar kajian (analisis atau kesimpulan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "informasi dalam bentuk yang dapat diproses oleh komputer, seperti representasi digital dari teks, angka, gambar grafis, atau suara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdata",
+          "mendata",
+          "mendatakan",
+          "pendata",
+          "pendataan",
+          "terdata"
+        ],
+        "gabunganKata": [
+          "augmentasi data",
+          "data alfanumerik",
+          "data analog",
+          "data balikan",
+          "data biokimia",
+          "data cacahan",
+          "data dasar pasien",
+          "data digital",
+          "data diskret",
+          "data diskrit",
+          "data dukung",
+          "data elektronik",
+          "data epidemi",
+          "data faktual",
+          "data garis",
+          "data genetika",
+          "data geografis",
+          "data geospasial",
+          "data grafis",
+          "data induk",
+          "data internet",
+          "data kategoris",
+          "data kendali program",
+          "data kependudukan",
+          "data kontinu",
+          "data kontinum",
+          "data kualitatif",
+          "data kualitatif bermakna",
+          "data kualitatif empiris",
+          "data kuantitatif",
+          "data langsung",
+          "data lapangan",
+          "data latihan",
+          "data lisan",
+          "data mentah",
+          "data nominal",
+          "data numerik",
+          "data observasi",
+          "data ordinal",
+          "data penunjuk",
+          "data pribadi",
+          "data primer",
+          "data raster",
+          "data raya",
+          "data relevan",
+          "data sekunder",
+          "data sewaktu",
+          "data spasial",
+          "data statistik",
+          "data statistika",
+          "data teristris",
+          "data tertulis",
+          "data warisan"
+        ],
+        "peribahasa": [
+          "pengolahan data waktu nyata"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

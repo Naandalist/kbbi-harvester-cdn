@@ -1,1 +1,68 @@
-{"word":"deformasi","authenticated":true,"entries":[{"id":"18378","nama":"de.for.ma.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perubahan bentuk atau wujud dari yang baik menjadi kurang baik","contoh":[{"nomor":2,"teks":"wayang kulit ini adalah -- dari wayang Timur kuno"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"perubahan susunan bentuk yang dilakukan dengan sengaja untuk kepentingan seni, kadang tidak lagi berwujud seperti objek sebenarnya","contoh":[{"nomor":2,"teks":"lukisan \"Two Panthers and Red Sunset\" yang menggunakan teknik -- tersebut adalah karya Popo Iskandar"}]}],"terkait":{"kataTurunan":["terdeformasi"],"gabunganKata":["deformasi aksial","deformasi batuan","deformasi elastis","deformasi maksimum","deformasi plastik","deformasi tektonik","deformasi termal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "deformasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18378",
+      "nama": "de.for.ma.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perubahan bentuk atau wujud dari yang baik menjadi kurang baik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wayang kulit ini adalah -- dari wayang Timur kuno"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perubahan susunan bentuk yang dilakukan dengan sengaja untuk kepentingan seni, kadang tidak lagi berwujud seperti objek sebenarnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lukisan \"Two Panthers and Red Sunset\" yang menggunakan teknik -- tersebut adalah karya Popo Iskandar"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terdeformasi"
+        ],
+        "gabunganKata": [
+          "deformasi aksial",
+          "deformasi batuan",
+          "deformasi elastis",
+          "deformasi maksimum",
+          "deformasi plastik",
+          "deformasi tektonik",
+          "deformasi termal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

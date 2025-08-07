@@ -1,1 +1,55 @@
-{"word":"digit","authenticated":true,"entries":[{"id":"19751","nama":"di.git","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"letak angka pada bilangan","contoh":[{"nomor":2,"teks":"682 adalah bilangan tiga --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"angka Arab dari 0–9; setiap angka yang terdapat dalam deret angka yang tidak merujuk kepada sistem desimal, misalnya nomor telepon","contoh":[]}],"terkait":{"kataTurunan":["berdigit","pendigit"],"gabunganKata":["digit biner","digit tanda","digit uji"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "digit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19751",
+      "nama": "di.git",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "letak angka pada bilangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "682 adalah bilangan tiga --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angka Arab dari 0–9; setiap angka yang terdapat dalam deret angka yang tidak merujuk kepada sistem desimal, misalnya nomor telepon",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdigit",
+          "pendigit"
+        ],
+        "gabunganKata": [
+          "digit biner",
+          "digit tanda",
+          "digit uji"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

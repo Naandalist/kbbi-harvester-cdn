@@ -1,1 +1,87 @@
-{"word":"damai","authenticated":true,"entries":[{"id":"17513","nama":"da.mai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tidak ada perang; tidak ada kerusuhan; aman","contoh":[{"nomor":2,"teks":"dalam masa --, perindustrian maju pesat"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tenteram; tenang","contoh":[{"nomor":2,"teks":"betapa -- hati kami"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan tidak bermusuhan; rukun","contoh":[{"nomor":2,"teks":"penduduk kampung itu selalu hidup dengan --"},{"nomor":4,"teks":"semuanya dapat diselesaikan secara --"}]}],"terkait":{"kataTurunan":["berdamai","berkedamaian","kedamaian","memperdamaikan","mendamaikan","pendamai","pendamaian","perdamaian","terdamai","terdamaikan"],"gabunganKata":[],"peribahasa":["hendak ucok dilawan damai, hendak perang giling peluru"],"idiom":[]}}]}
+{
+  "word": "damai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17513",
+      "nama": "da.mai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak ada perang; tidak ada kerusuhan; aman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam masa --, perindustrian maju pesat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tenteram; tenang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "betapa -- hati kami"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan tidak bermusuhan; rukun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penduduk kampung itu selalu hidup dengan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "semuanya dapat diselesaikan secara --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdamai",
+          "berkedamaian",
+          "kedamaian",
+          "memperdamaikan",
+          "mendamaikan",
+          "pendamai",
+          "pendamaian",
+          "perdamaian",
+          "terdamai",
+          "terdamaikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hendak ucok dilawan damai, hendak perang giling peluru"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

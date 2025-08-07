@@ -1,1 +1,59 @@
-{"word":"dati","authenticated":true,"entries":[{"id":"17964","nama":"da.ti","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tanah keluarga (di Maluku) yang dimiliki bersama dan tidak boleh dibagi-bagi","contoh":[]}]},{"id":"273396","nama":"da.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Gor","nama":"Gorontalo","tipe":"lainnya"}],"definisi":"berjabat tangan","contoh":[{"nomor":2,"teks":"kedua perdana menteri tersebut menandatangani persetujuan dan -- dengan hangat"}]}]}]}
+{
+  "word": "dati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17964",
+      "nama": "da.ti",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tanah keluarga (di Maluku) yang dimiliki bersama dan tidak boleh dibagi-bagi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "273396",
+      "nama": "da.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gor",
+              "nama": "Gorontalo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berjabat tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua perdana menteri tersebut menandatangani persetujuan dan -- dengan hangat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

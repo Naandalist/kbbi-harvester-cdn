@@ -1,1 +1,55 @@
-{"word":"dispensasi","authenticated":true,"entries":[{"id":"20114","nama":"dis.pen.sa.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengecualian dari aturan karena adanya pertimbangan yang khusus; pembebasan dari suatu kewajiban atau larangan","contoh":[{"nomor":2,"teks":"ia mendapat -- bebas membayar uang kuliah karena orang tuanya tidak mampu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"pengecualian tindakan berdasarkan hukum yang menyatakan bahwa suatu peraturan perundang-undangan tidak berlaku untuk suatu hal yang khusus (dalam hukum administrasi negara)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["dispensasi perkawinan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "dispensasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20114",
+      "nama": "dis.pen.sa.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengecualian dari aturan karena adanya pertimbangan yang khusus; pembebasan dari suatu kewajiban atau larangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mendapat -- bebas membayar uang kuliah karena orang tuanya tidak mampu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengecualian tindakan berdasarkan hukum yang menyatakan bahwa suatu peraturan perundang-undangan tidak berlaku untuk suatu hal yang khusus (dalam hukum administrasi negara)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "dispensasi perkawinan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

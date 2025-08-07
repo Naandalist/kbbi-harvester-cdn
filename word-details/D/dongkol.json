@@ -1,1 +1,95 @@
-{"word":"dongkol","authenticated":true,"entries":[{"id":"20443","nama":"dong.kol","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak bertanduk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sudah tidak berkuasa (menjabat) lagi","contoh":[{"nomor":2,"teks":"lurah --"}]}],"terkait":{"kataTurunan":["kedongkolan","kemendongkolan","mendongkol","mendongkolkan","pendongkol"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"20444","nama":"dong.kol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kesal","contoh":[]}],"terkait":{"kataTurunan":["kedongkolan","kemendongkolan","mendongkol","mendongkolkan","pendongkol"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "dongkol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20443",
+      "nama": "dong.kol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak bertanduk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah tidak berkuasa (menjabat) lagi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lurah --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kedongkolan",
+          "kemendongkolan",
+          "mendongkol",
+          "mendongkolkan",
+          "pendongkol"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "20444",
+      "nama": "dong.kol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kedongkolan",
+          "kemendongkolan",
+          "mendongkol",
+          "mendongkolkan",
+          "pendongkol"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

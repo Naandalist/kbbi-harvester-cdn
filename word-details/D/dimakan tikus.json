@@ -1,1 +1,47 @@
-{"word":"dimakan tikus","authenticated":true,"entries":[{"id":"51402","nama":"dimakan tikus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dicuri sedikit demi sedikit","contoh":[]}],"rootWord":"makan1dimakan¹"},{"id":"85935","nama":"dimakan tikus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dicuri sedikit demi sedikit","contoh":[]}],"jenis":"idiom","rootWord":"tikus"}]}
+{
+  "word": "dimakan tikus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51402",
+      "nama": "dimakan tikus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dicuri sedikit demi sedikit",
+          "contoh": []
+        }
+      ],
+      "rootWord": "makan1dimakan¹"
+    },
+    {
+      "id": "85935",
+      "nama": "dimakan tikus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dicuri sedikit demi sedikit",
+          "contoh": []
+        }
+      ],
+      "jenis": "idiom",
+      "rootWord": "tikus"
+    }
+  ]
+}

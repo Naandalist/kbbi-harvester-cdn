@@ -1,1 +1,97 @@
-{"word":"dm","authenticated":true,"entries":[{"id":"92345","nama":"dm","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"desimeter","contoh":[]}]},{"id":"269902","nama":"DM","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"}],"definisi":"penyebutan mata uang Jerman (mark) secara internasional; Deutsche Mark","contoh":[]}]},{"id":"256549","nama":"DM","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"diabetes melitus","contoh":[]}]},{"id":"257579","nama":"DM","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kode pelat nomor kendaraan daerah Kota Gorontalo, Kabupaten Gorontalo, Boalemo, Pohuwato, Bone Bolango, Gorontalo Utara","contoh":[]}]}]}
+{
+  "word": "dm",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92345",
+      "nama": "dm",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "desimeter",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269902",
+      "nama": "DM",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penyebutan mata uang Jerman (mark) secara internasional; Deutsche Mark",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "256549",
+      "nama": "DM",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diabetes melitus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257579",
+      "nama": "DM",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode pelat nomor kendaraan daerah Kota Gorontalo, Kabupaten Gorontalo, Boalemo, Pohuwato, Bone Bolango, Gorontalo Utara",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

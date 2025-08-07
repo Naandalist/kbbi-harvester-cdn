@@ -1,1 +1,79 @@
-{"word":"domba","authenticated":true,"entries":[{"id":"20347","nama":"dom.ba","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"biri-biri","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"umat manusia","contoh":[{"nomor":2,"teks":"Yesus akan menebus dosa-dosa segenap -- yang digembalakannya"}]}],"etimologi":{"text":"[Persia دنبه duṃba n 'kambing kibas; kambing yang berbulu tebal']","languages":["Persia"]},"terkait":{"kataTurunan":[],"gabunganKata":["domba anakan","domba ekor gemuk","domba ekor kurus","domba ekor tipis","domba garut","domba keraman","domba kurban","domba liar","domba merino","domba pedaging","domba pejantan","domba umbaran"],"peribahasa":["serigala berbulu domba"],"idiom":[]}}]}
+{
+  "word": "domba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20347",
+      "nama": "dom.ba",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "biri-biri",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "umat manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Yesus akan menebus dosa-dosa segenap -- yang digembalakannya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia دنبه duṃba n 'kambing kibas; kambing yang berbulu tebal']",
+        "languages": [
+          "Persia"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "domba anakan",
+          "domba ekor gemuk",
+          "domba ekor kurus",
+          "domba ekor tipis",
+          "domba garut",
+          "domba keraman",
+          "domba kurban",
+          "domba liar",
+          "domba merino",
+          "domba pedaging",
+          "domba pejantan",
+          "domba umbaran"
+        ],
+        "peribahasa": [
+          "serigala berbulu domba"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,50 @@
-{"word":"disel","authenticated":true,"entries":[{"id":"73590","nama":"di.sel","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"dimasukkan (ditahan) dalam sel","contoh":[]}],"rootWord":"sel²"},{"id":"19997","nama":"di.sel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"diesel","contoh":[]}]}]}
+{
+  "word": "disel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73590",
+      "nama": "di.sel",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dimasukkan (ditahan) dalam sel",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sel²"
+    },
+    {
+      "id": "19997",
+      "nama": "di.sel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diesel",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

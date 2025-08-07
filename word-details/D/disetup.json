@@ -1,1 +1,106 @@
-{"word":"disetup","authenticated":true,"entries":[{"id":"1","nama":"di.setup","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dibuat untuk terperangkap atau terjebak dalam situasi tertentu","contoh":[{"nomor":1,"teks":"dia disetup oleh musuhnya agar terlihat bersalah"}]}],"rootWord":"disetupdisetup"},{"id":"2","nama":"di.setup","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diatur atau dikonfigurasi untuk berfungsi dengan benar","contoh":[{"nomor":1,"teks":"perangkat lunak itu disetup untuk berjalan otomatis"}]}],"rootWord":"disetupdisetup"},{"id":"3","nama":"di.setup","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"disediakan dengan peralatan atau perangkat yang diperlukan","contoh":[{"nomor":1,"teks":"studio rekaman itu disetup dengan peralatan canggih"}]}],"rootWord":"disetupdisetup"},{"id":"4","nama":"di.setup","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dikonfigurasi untuk melakukan tindakan tertentu","contoh":[{"nomor":1,"teks":"sistem keamanan itu disetup untuk mendeteksi ancaman"}]}],"rootWord":"disetupdisetup"}]}
+{
+  "word": "disetup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "di.setup",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dibuat untuk terperangkap atau terjebak dalam situasi tertentu",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "dia disetup oleh musuhnya agar terlihat bersalah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "disetupdisetup"
+    },
+    {
+      "id": "2",
+      "nama": "di.setup",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diatur atau dikonfigurasi untuk berfungsi dengan benar",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "perangkat lunak itu disetup untuk berjalan otomatis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "disetupdisetup"
+    },
+    {
+      "id": "3",
+      "nama": "di.setup",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "disediakan dengan peralatan atau perangkat yang diperlukan",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "studio rekaman itu disetup dengan peralatan canggih"
+            }
+          ]
+        }
+      ],
+      "rootWord": "disetupdisetup"
+    },
+    {
+      "id": "4",
+      "nama": "di.setup",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dikonfigurasi untuk melakukan tindakan tertentu",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "sistem keamanan itu disetup untuk mendeteksi ancaman"
+            }
+          ]
+        }
+      ],
+      "rootWord": "disetupdisetup"
+    }
+  ]
+}

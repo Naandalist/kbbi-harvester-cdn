@@ -1,1 +1,67 @@
-{"word":"defleksi","authenticated":true,"entries":[{"id":"18372","nama":"de.flek.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyimpangan arah, misalnya penyimpangan arah angin yang disebabkan oleh rotasi bumi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"hilangnya infleksi, misalnya apabila dua akhiran kasus bergabung menjadi satu","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"terjadinya pergantian morfem inflektif oleh unsur lain","contoh":[]}],"terkait":{"kataTurunan":["mendefleksikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "defleksi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18372",
+      "nama": "de.flek.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyimpangan arah, misalnya penyimpangan arah angin yang disebabkan oleh rotasi bumi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hilangnya infleksi, misalnya apabila dua akhiran kasus bergabung menjadi satu",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "terjadinya pergantian morfem inflektif oleh unsur lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendefleksikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

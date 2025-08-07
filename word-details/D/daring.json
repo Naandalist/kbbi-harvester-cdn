@@ -1,1 +1,97 @@
-{"word":"daring","authenticated":true,"entries":[{"id":"17845","nama":"da.ring","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"dalam jaringan, terhubung melalui jejaring komputer, internet, dan sebagainya","contoh":[{"nomor":2,"teks":"pembelajaran dilakukan secara --"}]}],"terkait":{"kataTurunan":["mendaringkan","pendaringan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"169033","nama":"da.ring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kudis pada hewan ternak (ayam, sapi, kerbau, dan sebagainya)","contoh":[{"nomor":2,"teks":"bakteri -- sedang mewabah"}]}]},{"id":"249803","nama":"da.ring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kudis pada binatang","contoh":[]}]}]}
+{
+  "word": "daring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17845",
+      "nama": "da.ring",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam jaringan, terhubung melalui jejaring komputer, internet, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pembelajaran dilakukan secara --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendaringkan",
+          "pendaringan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "169033",
+      "nama": "da.ring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kudis pada hewan ternak (ayam, sapi, kerbau, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bakteri -- sedang mewabah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "249803",
+      "nama": "da.ring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kudis pada binatang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

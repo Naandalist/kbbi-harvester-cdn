@@ -1,1 +1,76 @@
-{"word":"dahan","authenticated":true,"entries":[{"id":"17344","nama":"da.han","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cabang batang pohon; bagian batang pohon yang tumbuh mencuat ke samping (beranting dan berdaun)","contoh":[]}],"terkait":{"kataTurunan":["berdahan","mendahan"],"gabunganKata":[],"peribahasa":["akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun","baji dahan membelah dahan","dahan pembaji batang"],"idiom":["habis buah, dahan dipatah"]}},{"id":"17349","nama":"da.han","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"pendahan; lembing","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun","baji dahan membelah dahan","dahan pembaji batang"],"idiom":["habis buah, dahan dipatah"]}}]}
+{
+  "word": "dahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17344",
+      "nama": "da.han",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cabang batang pohon; bagian batang pohon yang tumbuh mencuat ke samping (beranting dan berdaun)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdahan",
+          "mendahan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun",
+          "baji dahan membelah dahan",
+          "dahan pembaji batang"
+        ],
+        "idiom": [
+          "habis buah, dahan dipatah"
+        ]
+      }
+    },
+    {
+      "id": "17349",
+      "nama": "da.han",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendahan; lembing",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun",
+          "baji dahan membelah dahan",
+          "dahan pembaji batang"
+        ],
+        "idiom": [
+          "habis buah, dahan dipatah"
+        ]
+      }
+    }
+  ]
+}

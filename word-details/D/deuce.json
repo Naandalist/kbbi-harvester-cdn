@@ -1,1 +1,52 @@
-{"word":"deuce","authenticated":true,"entries":[{"id":"97064","nama":"deuce","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"}],"definisi":"kartu atau dadu yang berangka dua","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"angka yang sama-sama diperoleh kedua pihak sebelum salah satu di antaranya memenangkan pertandingan dengan dua angka lagi","contoh":[]}]}]}
+{
+  "word": "deuce",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "97064",
+      "nama": "deuce",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kartu atau dadu yang berangka dua",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "angka yang sama-sama diperoleh kedua pihak sebelum salah satu di antaranya memenangkan pertandingan dengan dua angka lagi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

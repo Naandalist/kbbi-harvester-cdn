@@ -1,1 +1,57 @@
-{"word":"debuk","authenticated":true,"entries":[{"id":"18245","nama":"de.buk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi orang meninju, barang jatuh, dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["berdebuk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"240205","nama":"de.buk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"biji buah pinang","contoh":[]}]}]}
+{
+  "word": "debuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18245",
+      "nama": "de.buk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi orang meninju, barang jatuh, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdebuk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "240205",
+      "nama": "de.buk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "biji buah pinang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

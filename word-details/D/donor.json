@@ -1,1 +1,77 @@
-{"word":"donor","authenticated":true,"entries":[{"id":"20461","nama":"do.nor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penderma; pemberi sumbangan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penderma darah (yang menyumbangkan darahnya untuk menolong orang lain yang memerlukan)","contoh":[{"nomor":2,"teks":"-- darah"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"unsur kimia yang jika ditambahkan ke dalam semikonduktor murni dapat menambah konsentrasi elektron bebas di dalam semikonduktor itu","contoh":[]}],"terkait":{"kataTurunan":["pendonor","pendonoran"],"gabunganKata":["donor aferesis","donor darah","donor elektron","donor kornea","donor plasma","donor proton","donor sperma","donor universal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "donor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20461",
+      "nama": "do.nor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penderma; pemberi sumbangan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penderma darah (yang menyumbangkan darahnya untuk menolong orang lain yang memerlukan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- darah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "unsur kimia yang jika ditambahkan ke dalam semikonduktor murni dapat menambah konsentrasi elektron bebas di dalam semikonduktor itu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pendonor",
+          "pendonoran"
+        ],
+        "gabunganKata": [
+          "donor aferesis",
+          "donor darah",
+          "donor elektron",
+          "donor kornea",
+          "donor plasma",
+          "donor proton",
+          "donor sperma",
+          "donor universal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

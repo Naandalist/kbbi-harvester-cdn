@@ -1,1 +1,88 @@
-{"word":"dakhil","authenticated":true,"entries":[{"id":"17398","nama":"da.khil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"yang di dalam; yang mengenai batin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"yang telah karib benar","contoh":[]}],"etimologi":{"text":"[Arab دَاخِلٌ dākhil n sg m 'yang di dalam']","languages":["Arab"]}},{"id":"194663","nama":"da.khil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"hubungan antara bentuk-bentuk bahasa yang tidak nampak dalam struktur lahir kalimat, tetapi muncul apabila kalimat dihubungkan dengan kalimat lain","contoh":[]}],"etimologi":{"text":"[Arab دَاخِلٌ dākhil n sg m 'yang di dalam']","languages":["Arab"]}}]}
+{
+  "word": "dakhil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17398",
+      "nama": "da.khil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang di dalam; yang mengenai batin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang telah karib benar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab دَاخِلٌ dākhil n sg m 'yang di dalam']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "194663",
+      "nama": "da.khil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hubungan antara bentuk-bentuk bahasa yang tidak nampak dalam struktur lahir kalimat, tetapi muncul apabila kalimat dihubungkan dengan kalimat lain",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab دَاخِلٌ dākhil n sg m 'yang di dalam']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

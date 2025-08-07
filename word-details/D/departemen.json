@@ -1,1 +1,76 @@
-{"word":"departemen","authenticated":true,"entries":[{"id":"19026","nama":"de.par.te.men","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lembaga tinggi pemerintahan yang mengurus suatu bidang pekerjaan negara yang dipimpin seorang menteri","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dik","nama":"Pendidikan","tipe":"lainnya"}],"definisi":"bagian dari fakultas, biasanya dipimpin oleh ketua jurusan (departemen) yang menggarap sekelompok disiplin ilmu yang tercakup dalam suatu bidang studi tertentu","contoh":[{"nomor":2,"teks":"-- Mesin, Fakultas Teknologi Industri, Institut Teknologi Bandung"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dik","nama":"Pendidikan","tipe":"lainnya"}],"definisi":"cabang pekerjaan yang dikepalai oleh manajer tunggal","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["departemen kaderisasi","departemen pemasaran","departemen pendukung","departemen personalia","departemen tata gerha"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "departemen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19026",
+      "nama": "de.par.te.men",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lembaga tinggi pemerintahan yang mengurus suatu bidang pekerjaan negara yang dipimpin seorang menteri",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dik",
+              "nama": "Pendidikan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian dari fakultas, biasanya dipimpin oleh ketua jurusan (departemen) yang menggarap sekelompok disiplin ilmu yang tercakup dalam suatu bidang studi tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Mesin, Fakultas Teknologi Industri, Institut Teknologi Bandung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dik",
+              "nama": "Pendidikan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "cabang pekerjaan yang dikepalai oleh manajer tunggal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "departemen kaderisasi",
+          "departemen pemasaran",
+          "departemen pendukung",
+          "departemen personalia",
+          "departemen tata gerha"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

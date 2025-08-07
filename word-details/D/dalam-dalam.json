@@ -1,1 +1,53 @@
-{"word":"dalam-dalam","authenticated":true,"entries":[{"id":"17459","nama":"da.lam-da.lam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"banyak-banyak","contoh":[{"nomor":2,"teks":"mengambil napas ~"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"jauh ke lubuk hati (sehingga betul-betul dapat dihayatinya)","contoh":[{"nomor":2,"teks":"nasihat ibunya diresapi ~ sehingga menjelma di setiap langkahnya"}]}],"rootWord":"dalam¹"}]}
+{
+  "word": "dalam-dalam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17459",
+      "nama": "da.lam-da.lam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyak-banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mengambil napas ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jauh ke lubuk hati (sehingga betul-betul dapat dihayatinya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasihat ibunya diresapi ~ sehingga menjelma di setiap langkahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dalam¹"
+    }
+  ]
+}

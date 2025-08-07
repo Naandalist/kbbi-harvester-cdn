@@ -1,1 +1,126 @@
-{"word":"dom","authenticated":true,"entries":[{"id":"20341","nama":"dom","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pedoman","contoh":[]}]},{"id":"20342","nama":"dom","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"gereja utama; katedral","contoh":[]}]},{"id":"20343","nama":"dom","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"domino","contoh":[]}]},{"id":"215916","nama":"dom","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"domisili","contoh":[{"nomor":2,"teks":"barang itu dijual hanya untuk pembeli dengan -- Bandung"}]}]},{"id":"92348","nama":"DOM","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"daerah operasi militer","contoh":[]}]}]}
+{
+  "word": "dom",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20341",
+      "nama": "dom",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pedoman",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "20342",
+      "nama": "dom",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "gereja utama; katedral",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "20343",
+      "nama": "dom",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "domino",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215916",
+      "nama": "dom",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "domisili",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang itu dijual hanya untuk pembeli dengan -- Bandung"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92348",
+      "nama": "DOM",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daerah operasi militer",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

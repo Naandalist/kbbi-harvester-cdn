@@ -1,1 +1,185 @@
-{"word":"drama","authenticated":true,"entries":[{"id":"20546","nama":"dra.ma","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"komposisi syair atau prosa yang diharapkan dapat menggambarkan kehidupan dan watak melalui tingkah laku (peran) atau dialog yang dipentaskan","contoh":[{"nomor":2,"teks":"dia gemar menonton --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"cerita atau kisah, terutama yang melibatkan konflik atau emosi, yang khusus disusun untuk pertunjukan teater","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"kejadian yang menyedihkan","contoh":[]}],"terkait":{"kataTurunan":["berdrama","mendramakan","pendramaan","perdramaan"],"gabunganKata":["drama absurd","drama air","drama akademik","drama aksi","drama anjing","drama atenian","drama baca","drama banyolan","drama baru","drama berbingkai","drama bersajak","drama borjuis","drama busana","drama cinta","drama daerah","drama dalam drama","drama dapur-cuci","drama dokumenter","drama domestik","drama duka","drama duka ria","drama eksistensialisme","drama ekspresionisme","drama epik","drama fantasi","drama gembala desa","drama gong","drama helenistik","drama heroik","drama horor","drama keagamaan","drama kebangkitan","drama kolosal","drama komedi","drama kontemporer","drama kriminal","drama legitemet","drama liris","drama liturgis","drama makjang","drama masa","drama mini kata","drama misteri","drama modern","drama moralis","drama musikal","drama naturalisme","drama neoklasik","drama non-puitis","drama objektif","drama panggung","drama parabel","drama pelayaran","drama pengorbanan","drama proletar","drama prosa","drama puisi","drama puitis","drama radio","drama rakyat","drama realis","drama realisme","drama religius","drama ria","drama romantik","drama Romawi","drama ruang keseharian","drama rumah tangga","drama satire","drama satu babak","drama sebabak","drama sejarah","drama sekolah","drama serius","drama takdir","drama tari","drama tari timur","drama televisi","drama tendens","drama tradisional"],"peribahasa":[],"idiom":[]}},{"id":"199453","nama":"dra.ma","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"koin emas yang pernah digunakan sebagai mata uang di Aceh","contoh":[]}]}]}
+{
+  "word": "drama",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20546",
+      "nama": "dra.ma",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "komposisi syair atau prosa yang diharapkan dapat menggambarkan kehidupan dan watak melalui tingkah laku (peran) atau dialog yang dipentaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia gemar menonton --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "cerita atau kisah, terutama yang melibatkan konflik atau emosi, yang khusus disusun untuk pertunjukan teater",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kejadian yang menyedihkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdrama",
+          "mendramakan",
+          "pendramaan",
+          "perdramaan"
+        ],
+        "gabunganKata": [
+          "drama absurd",
+          "drama air",
+          "drama akademik",
+          "drama aksi",
+          "drama anjing",
+          "drama atenian",
+          "drama baca",
+          "drama banyolan",
+          "drama baru",
+          "drama berbingkai",
+          "drama bersajak",
+          "drama borjuis",
+          "drama busana",
+          "drama cinta",
+          "drama daerah",
+          "drama dalam drama",
+          "drama dapur-cuci",
+          "drama dokumenter",
+          "drama domestik",
+          "drama duka",
+          "drama duka ria",
+          "drama eksistensialisme",
+          "drama ekspresionisme",
+          "drama epik",
+          "drama fantasi",
+          "drama gembala desa",
+          "drama gong",
+          "drama helenistik",
+          "drama heroik",
+          "drama horor",
+          "drama keagamaan",
+          "drama kebangkitan",
+          "drama kolosal",
+          "drama komedi",
+          "drama kontemporer",
+          "drama kriminal",
+          "drama legitemet",
+          "drama liris",
+          "drama liturgis",
+          "drama makjang",
+          "drama masa",
+          "drama mini kata",
+          "drama misteri",
+          "drama modern",
+          "drama moralis",
+          "drama musikal",
+          "drama naturalisme",
+          "drama neoklasik",
+          "drama non-puitis",
+          "drama objektif",
+          "drama panggung",
+          "drama parabel",
+          "drama pelayaran",
+          "drama pengorbanan",
+          "drama proletar",
+          "drama prosa",
+          "drama puisi",
+          "drama puitis",
+          "drama radio",
+          "drama rakyat",
+          "drama realis",
+          "drama realisme",
+          "drama religius",
+          "drama ria",
+          "drama romantik",
+          "drama Romawi",
+          "drama ruang keseharian",
+          "drama rumah tangga",
+          "drama satire",
+          "drama satu babak",
+          "drama sebabak",
+          "drama sejarah",
+          "drama sekolah",
+          "drama serius",
+          "drama takdir",
+          "drama tari",
+          "drama tari timur",
+          "drama televisi",
+          "drama tendens",
+          "drama tradisional"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "199453",
+      "nama": "dra.ma",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "koin emas yang pernah digunakan sebagai mata uang di Aceh",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

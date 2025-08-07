@@ -1,1 +1,87 @@
-{"word":"darurat","authenticated":true,"entries":[{"id":"17870","nama":"da.ru.rat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan sukar (sulit) yang tidak tersangka-sangka (dalam bahaya, kelaparan, dan sebagainya) yang memerlukan penanggulangan segera","contoh":[{"nomor":2,"teks":"dalam keadaan -- Pemerintah harus dapat bertindak cepat untuk mengatasi keadaan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan terpaksa","contoh":[{"nomor":2,"teks":"dalam keadaan -- Pemerintah dapat segera memutuskan tindakan yang tepat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan sementara","contoh":[{"nomor":2,"teks":"mereka ditampung dalam suatu bangunan --"}]}],"etimologi":{"text":"[Arab ضَرُوْرَةٌ ḍarūrah n sg f 'keterpaksaan; penting']","languages":["Arab"]},"terkait":{"kataTurunan":["kedaruratan","mendaruratkan","terdarurat"],"gabunganKata":["darurat bencana","darurat energi","darurat iklim","darurat militer","darurat sampah","darurat sipil"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "darurat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17870",
+      "nama": "da.ru.rat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan sukar (sulit) yang tidak tersangka-sangka (dalam bahaya, kelaparan, dan sebagainya) yang memerlukan penanggulangan segera",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam keadaan -- Pemerintah harus dapat bertindak cepat untuk mengatasi keadaan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan terpaksa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam keadaan -- Pemerintah dapat segera memutuskan tindakan yang tepat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan sementara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ditampung dalam suatu bangunan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ضَرُوْرَةٌ ḍarūrah n sg f 'keterpaksaan; penting']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kedaruratan",
+          "mendaruratkan",
+          "terdarurat"
+        ],
+        "gabunganKata": [
+          "darurat bencana",
+          "darurat energi",
+          "darurat iklim",
+          "darurat militer",
+          "darurat sampah",
+          "darurat sipil"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

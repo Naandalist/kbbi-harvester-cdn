@@ -1,1 +1,75 @@
-{"word":"duha","authenticated":true,"entries":[{"id":"20724","nama":"du.ha","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu menjelang tengah hari (kurang lebih pukul 10.00)","contoh":[{"nomor":2,"teks":"kira-kira pukul 10.00 ia melakukan salat --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"(ditulis dengan huruf awal kapital) salat sunah yang rutin dilakukan Rasulullah, minimal dua rakaat dan maksimal delapan rakaat, dilakukan sekitar 20 menit setelah matahari terbit","contoh":[{"nomor":2,"teks":"salat -- dapat menjadi perantara memperlancar rezeki"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"surah ke-93 dalam Al-Qur'an (diawali dengan ad-)","contoh":[]}],"etimologi":{"text":"[Arab ضُحًى ḍuḥa n sg f 'waktu menjelang tengah hari']","languages":["Arab"]}}]}
+{
+  "word": "duha",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20724",
+      "nama": "du.ha",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu menjelang tengah hari (kurang lebih pukul 10.00)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kira-kira pukul 10.00 ia melakukan salat --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf awal kapital) salat sunah yang rutin dilakukan Rasulullah, minimal dua rakaat dan maksimal delapan rakaat, dilakukan sekitar 20 menit setelah matahari terbit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "salat -- dapat menjadi perantara memperlancar rezeki"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "surah ke-93 dalam Al-Qur'an (diawali dengan ad-)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ضُحًى ḍuḥa n sg f 'waktu menjelang tengah hari']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

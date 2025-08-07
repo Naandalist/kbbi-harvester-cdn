@@ -1,1 +1,59 @@
-{"word":"damen","authenticated":true,"entries":[{"id":"17557","nama":"da.men","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"jerami","contoh":[]}]},{"id":"147944","nama":"da.men","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kol","nama":"Kola","tipe":"lainnya"}],"definisi":"terombang-ambing di tengah laut, hanya mengandalkan arus","contoh":[{"nomor":2,"teks":"kapal itu -- karena mesinnya mati"}]}]}]}
+{
+  "word": "damen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17557",
+      "nama": "da.men",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "jerami",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "147944",
+      "nama": "da.men",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kol",
+              "nama": "Kola",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terombang-ambing di tengah laut, hanya mengandalkan arus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kapal itu -- karena mesinnya mati"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

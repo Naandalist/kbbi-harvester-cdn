@@ -1,1 +1,134 @@
-{"word":"dewa","authenticated":true,"entries":[{"id":"19461","nama":"de.wa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"roh halus yang dianggap atau dipercayai sebagai penguasa alam dan manusia","contoh":[{"nomor":2,"teks":"Batara Surya ialah -- matahari"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"orang atau sesuatu yang sangat dipuja","contoh":[]}],"etimologi":{"text":"[Sanskerta देव deva n m 'Tuhan, raja, pangeran, pendeta, yang mulia']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kedewaan","memperdewa","memperdewakan","mendewa-dewakan","mendewakan","pendewaan"],"gabunganKata":["dewa api","Dewa Olimpus","dewa perang","dewa raja","Dewa Ruci","Dewa Surya","Dewa Agung","Dewa Ayu"],"peribahasa":[],"idiom":[]}},{"id":"93599","nama":"De.wa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"gelar kasta (golongan) Brahmana","contoh":[]}],"etimologi":{"text":"[Sanskerta देव deva n m 'Tuhan, raja, pangeran, pendeta, yang mulia']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":["Dewa Agung","Dewa Ayu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "dewa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19461",
+      "nama": "de.wa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roh halus yang dianggap atau dipercayai sebagai penguasa alam dan manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Batara Surya ialah -- matahari"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang atau sesuatu yang sangat dipuja",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta देव deva n m 'Tuhan, raja, pangeran, pendeta, yang mulia']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kedewaan",
+          "memperdewa",
+          "memperdewakan",
+          "mendewa-dewakan",
+          "mendewakan",
+          "pendewaan"
+        ],
+        "gabunganKata": [
+          "dewa api",
+          "Dewa Olimpus",
+          "dewa perang",
+          "dewa raja",
+          "Dewa Ruci",
+          "Dewa Surya",
+          "Dewa Agung",
+          "Dewa Ayu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "93599",
+      "nama": "De.wa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelar kasta (golongan) Brahmana",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta देव deva n m 'Tuhan, raja, pangeran, pendeta, yang mulia']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "Dewa Agung",
+          "Dewa Ayu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"word":"dadap","authenticated":true,"entries":[{"id":"17089","nama":"da.dap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama untuk berbagai jenis pohon, ada yang berduri dan ada yang tidak, bunganya merah〔Erythrina〕","contoh":[]}],"etimologi":{"text":"[Jawa Kuno ḍaḍap 'perisai penangkis yang sempit dan panjang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":["dadap ayam","dadap cangkring","dadap duri","dadap laut","dadap merah","dadap minyak","dadap serep"],"peribahasa":["laksana bunga dadap, sungguh merah berbau tidak"],"idiom":[]}},{"id":"17096","nama":"da.dap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"perisai yang terbuat dari kulit atau rotan, berbentuk bulat","contoh":[]}],"etimologi":{"text":"[Jawa Kuno ḍaḍap 'perisai penangkis yang sempit dan panjang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["laksana bunga dadap, sungguh merah berbau tidak"],"idiom":[]}}]}
+{
+  "word": "dadap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17089",
+      "nama": "da.dap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama untuk berbagai jenis pohon, ada yang berduri dan ada yang tidak, bunganya merah〔Erythrina〕",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno ḍaḍap 'perisai penangkis yang sempit dan panjang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "dadap ayam",
+          "dadap cangkring",
+          "dadap duri",
+          "dadap laut",
+          "dadap merah",
+          "dadap minyak",
+          "dadap serep"
+        ],
+        "peribahasa": [
+          "laksana bunga dadap, sungguh merah berbau tidak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "17096",
+      "nama": "da.dap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perisai yang terbuat dari kulit atau rotan, berbentuk bulat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno ḍaḍap 'perisai penangkis yang sempit dan panjang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "laksana bunga dadap, sungguh merah berbau tidak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

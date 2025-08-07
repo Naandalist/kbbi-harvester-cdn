@@ -1,1 +1,95 @@
-{"word":"dedes","authenticated":true,"entries":[{"id":"18326","nama":"de.des","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"musang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kesturi yang harum baunya","contoh":[]}],"terkait":{"kataTurunan":["mendedes"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"18327","nama":"de.des","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial mendedes","contoh":[]}],"terkait":{"kataTurunan":["mendedes"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"132158","nama":"de.des","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mendedes (mengulik; bertanya dengan menelisik)","contoh":[{"nomor":2,"teks":"indikator keberhasilan seorang jurnalis adalah ketika mampu mendedes narasumber tanpa membuat tertekan"}]}]}]}
+{
+  "word": "dedes",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18326",
+      "nama": "de.des",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "musang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesturi yang harum baunya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendedes"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "18327",
+      "nama": "de.des",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial mendedes",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendedes"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "132158",
+      "nama": "de.des",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mendedes (mengulik; bertanya dengan menelisik)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "indikator keberhasilan seorang jurnalis adalah ketika mampu mendedes narasumber tanpa membuat tertekan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,68 @@
-{"word":"dram","authenticated":true,"entries":[{"id":"20545","nama":"dram","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"genderang","contoh":[]}]},{"id":"178300","nama":"dram","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan mata uang Armenia","contoh":[]}]},{"id":"197375","nama":"dram","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mata uang Armenia","contoh":[]}]}]}
+{
+  "word": "dram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20545",
+      "nama": "dram",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "genderang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "178300",
+      "nama": "dram",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan mata uang Armenia",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "197375",
+      "nama": "dram",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mata uang Armenia",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

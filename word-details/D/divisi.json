@@ -1,1 +1,114 @@
-{"word":"divisi","authenticated":true,"entries":[{"id":"20200","nama":"di.vi.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan militer yang besar (jumlahnya sampai puluhan ribu) yang biasanya lengkap dengan peralatannya, dipimpin oleh perwira tinggi (biasanya mayor jenderal)","contoh":[{"nomor":2,"teks":"satu -- didatangkan untuk memperkuat penjagaan keamanan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelompok dalam suatu organisasi (sepak bola dan sebagainya)","contoh":[{"nomor":2,"teks":"kesebelasan itu menjadi juara dalam kompetisi -- II"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian dari suatu perusahaan besar","contoh":[{"nomor":2,"teks":"pegawai Pertamina -- Perkapalan"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"satuan taksonomi dalam klasifikasi tumbuhan, berada di antara kelas dan dunia, namanya berakhiran -phyta, seperti Bryophyta","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"pemisahan sinyal dan sebagainya menjadi beberapa bagian atau kelompok","contoh":[{"nomor":2,"teks":"multipleks -- frekuensi"}]}],"terkait":{"kataTurunan":["berdivisi","sedivisi"],"gabunganKata":["divisi kamar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "divisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20200",
+      "nama": "di.vi.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan militer yang besar (jumlahnya sampai puluhan ribu) yang biasanya lengkap dengan peralatannya, dipimpin oleh perwira tinggi (biasanya mayor jenderal)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "satu -- didatangkan untuk memperkuat penjagaan keamanan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelompok dalam suatu organisasi (sepak bola dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesebelasan itu menjadi juara dalam kompetisi -- II"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian dari suatu perusahaan besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pegawai Pertamina -- Perkapalan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan taksonomi dalam klasifikasi tumbuhan, berada di antara kelas dan dunia, namanya berakhiran -phyta, seperti Bryophyta",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pemisahan sinyal dan sebagainya menjadi beberapa bagian atau kelompok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "multipleks -- frekuensi"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdivisi",
+          "sedivisi"
+        ],
+        "gabunganKata": [
+          "divisi kamar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

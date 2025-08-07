@@ -1,1 +1,62 @@
-{"word":"dapuk","authenticated":true,"entries":[{"id":"194077","nama":"da.puk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"atur; rancang","contoh":[]}],"terkait":{"kataTurunan":["mendapuk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"262463","nama":"da.puk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"istilah untuk menyatakan pemeran dalam pertunjukan ludruk, wayang orang, ketoprak, dan sebagainya","contoh":[]}]}]}
+{
+  "word": "dapuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "194077",
+      "nama": "da.puk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "atur; rancang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendapuk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "262463",
+      "nama": "da.puk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "istilah untuk menyatakan pemeran dalam pertunjukan ludruk, wayang orang, ketoprak, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

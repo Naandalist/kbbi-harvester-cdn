@@ -1,1 +1,54 @@
-{"word":"defisien","authenticated":true,"entries":[{"id":"18363","nama":"de.fi.si.en","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang; tidak sempurna","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang baik","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Gz","nama":"Ilmu Gizi","tipe":"lainnya"}],"definisi":"tidak memenuhi standar kebutuhan","contoh":[]}]}]}
+{
+  "word": "defisien",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18363",
+      "nama": "de.fi.si.en",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang; tidak sempurna",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang baik",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gz",
+              "nama": "Ilmu Gizi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidak memenuhi standar kebutuhan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

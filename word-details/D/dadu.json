@@ -1,1 +1,117 @@
-{"word":"dadu","authenticated":true,"entries":[{"id":"17114","nama":"da.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kubus kecil bersisi enam (biasanya terbuat dari kayu, tulang, gading, atau plastik), pada keenam sisinya diberi mata satu sampai enam yang diatur sedemikian rupa sehingga dua sisi yang saling berhadapan selalu berjumlah tujuh (digunakan dalam permainan, berjudi, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda berbentuk persegi empat yang mempunyai enam permukaan; kubus","contoh":[]}],"etimologi":{"text":"[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']","languages":["Portugis"]},"terkait":{"kataTurunan":["berdadu"],"gabunganKata":["dadu besar","dadu kecil","dadu pusing","dadu putar","dadu sintir"],"peribahasa":[],"idiom":[]}},{"id":"17119","nama":"da.du","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merah muda","contoh":[{"nomor":2,"teks":"pipinya yang dulu biasa berwarna -- sekarang menjadi pucat"}]}],"etimologi":{"text":"[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']","languages":["Portugis"]}},{"id":"215765","nama":"da.du","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"musim tanam padi (sekitar bulan Oktober)","contoh":[]}],"etimologi":{"text":"[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']","languages":["Portugis"]}}]}
+{
+  "word": "dadu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17114",
+      "nama": "da.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kubus kecil bersisi enam (biasanya terbuat dari kayu, tulang, gading, atau plastik), pada keenam sisinya diberi mata satu sampai enam yang diatur sedemikian rupa sehingga dua sisi yang saling berhadapan selalu berjumlah tujuh (digunakan dalam permainan, berjudi, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda berbentuk persegi empat yang mempunyai enam permukaan; kubus",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berdadu"
+        ],
+        "gabunganKata": [
+          "dadu besar",
+          "dadu kecil",
+          "dadu pusing",
+          "dadu putar",
+          "dadu sintir"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "17119",
+      "nama": "da.du",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merah muda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pipinya yang dulu biasa berwarna -- sekarang menjadi pucat"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    },
+    {
+      "id": "215765",
+      "nama": "da.du",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "musim tanam padi (sekitar bulan Oktober)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis dado dado n sg m 'kubus kecil dengan sejumlah titik di setiap sisi, dari satu hingga enam, yang digunakan dalam permainan']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    }
+  ]
+}

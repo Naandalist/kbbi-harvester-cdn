@@ -1,1 +1,58 @@
-{"word":"disposisi","authenticated":true,"entries":[{"id":"20125","nama":"dis.po.si.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"}],"definisi":"pendapat seorang pejabat mengenai urusan yang termuat dalam suatu surat dinas, yang langsung dituliskan pada surat yang bersangkutan atau pada lembar khusus","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"kecenderungan untuk mendapatkan suatu penyakit, kelainan temperamen atau kelainan watak","contoh":[]}],"terkait":{"kataTurunan":["mendisposisikan","pendisposisian"],"gabunganKata":["disposisi matematis"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "disposisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20125",
+      "nama": "dis.po.si.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pendapat seorang pejabat mengenai urusan yang termuat dalam suatu surat dinas, yang langsung dituliskan pada surat yang bersangkutan atau pada lembar khusus",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kecenderungan untuk mendapatkan suatu penyakit, kelainan temperamen atau kelainan watak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mendisposisikan",
+          "pendisposisian"
+        ],
+        "gabunganKata": [
+          "disposisi matematis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

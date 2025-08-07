@@ -1,1 +1,111 @@
-{"word":"deres","authenticated":true,"entries":[{"id":"19160","nama":"de.res","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menderes, penderes, penderesan","contoh":[]}],"terkait":{"kataTurunan":["menderes","penderes","penderesan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"228468","nama":"de.res","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"memotong daun dari pelepahnya dengan pisau atau parang (untuk kelapa atau pisang)","contoh":[{"nomor":2,"teks":"hati-hati ketika -- pisangnya"}]}]},{"id":"19163","nama":"de.res","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"sering (atau kerap) melahirkan banyak anak","contoh":[]}]},{"id":"199584","nama":"de.res","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"membaca kitab suci Al-Qur'an","contoh":[{"nomor":2,"teks":"membiasakan anak -- Qur'an, akan memudahkannya menghapal"}]}]}]}
+{
+  "word": "deres",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19160",
+      "nama": "de.res",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menderes, penderes, penderesan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menderes",
+          "penderes",
+          "penderesan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228468",
+      "nama": "de.res",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memotong daun dari pelepahnya dengan pisau atau parang (untuk kelapa atau pisang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati-hati ketika -- pisangnya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19163",
+      "nama": "de.res",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sering (atau kerap) melahirkan banyak anak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "199584",
+      "nama": "de.res",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membaca kitab suci Al-Qur'an",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "membiasakan anak -- Qur'an, akan memudahkannya menghapal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

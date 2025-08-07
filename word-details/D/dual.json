@@ -1,1 +1,54 @@
-{"word":"dual","authenticated":true,"entries":[{"id":"140962","nama":"du.al","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terdiri atas dua bagian atau elemen yang mirip; kembaran","contoh":[]}]},{"id":"157740","nama":"du.al","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"sekat dari bambu dalam rumah adat yang berfungsi untuk membagi ruangan (jika ada lebih dari satu keluarga dalam satu rumah)","contoh":[{"nomor":2,"teks":"dia sedang membuat -- karena keluarga adiknya mau tinggal di rumahnya"}]}]}]}
+{
+  "word": "dual",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "140962",
+      "nama": "du.al",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdiri atas dua bagian atau elemen yang mirip; kembaran",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "157740",
+      "nama": "du.al",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sekat dari bambu dalam rumah adat yang berfungsi untuk membagi ruangan (jika ada lebih dari satu keluarga dalam satu rumah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sedang membuat -- karena keluarga adiknya mau tinggal di rumahnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

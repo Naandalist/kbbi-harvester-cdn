@@ -1,1 +1,54 @@
-{"word":"dr.","authenticated":true,"entries":[{"id":"92360","nama":"dr.","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"dokter","contoh":[]}]},{"id":"92359","nama":"Dr.","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"doktor","contoh":[]}]}]}
+{
+  "word": "dr.",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92360",
+      "nama": "dr.",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dokter",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "92359",
+      "nama": "Dr.",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "doktor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

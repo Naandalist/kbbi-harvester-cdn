@@ -1,1 +1,90 @@
-{"word":"dempok","authenticated":true,"entries":[{"id":"180650","nama":"dem.pok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"mendekat (tentang ikan yang mendekati pancingan)","contoh":[{"nomor":2,"teks":"dia sangat berkonsentrasi saat melihat ikan-ikan mulai --"}]}],"terkait":{"kataTurunan":["berdempok","terdempok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"18785","nama":"dem.pok","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial berdempok, terdempok","contoh":[]}],"terkait":{"kataTurunan":["berdempok","terdempok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"182345","nama":"dem.pok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"buah-buahan yang dikeringkan, seperti pisang, nangka, apel","contoh":[]}]}]}
+{
+  "word": "dempok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "180650",
+      "nama": "dem.pok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendekat (tentang ikan yang mendekati pancingan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sangat berkonsentrasi saat melihat ikan-ikan mulai --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdempok",
+          "terdempok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "18785",
+      "nama": "dem.pok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial berdempok, terdempok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berdempok",
+          "terdempok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "182345",
+      "nama": "dem.pok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "buah-buahan yang dikeringkan, seperti pisang, nangka, apel",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
