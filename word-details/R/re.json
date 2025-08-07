@@ -1,1 +1,71 @@
-{"word":"re","authenticated":true,"entries":[{"id":"67869","nama":"re-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"sekali lagi; kembali","contoh":[{"nomor":2,"teks":"reformasi"}]},{"nomor":"2","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"belakang; ke arah belakang","contoh":[{"nomor":2,"teks":"regresi"}]}]},{"id":"67868","nama":"re","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-2 pada urutan tangga nada diatonik, dilambangkan dengan angka 2","contoh":[]}]}]}
+{
+  "word": "re",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67869",
+      "nama": "re-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekali lagi; kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "reformasi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belakang; ke arah belakang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "regresi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67868",
+      "nama": "re",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-2 pada urutan tangga nada diatonik, dilambangkan dengan angka 2",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"word":"rpd","authenticated":true,"entries":[{"id":"169571","nama":"RPD","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"rencana penarikan dana","contoh":[]}]}]}
+{
+  "word": "rpd",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "169571",
+      "nama": "RPD",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rencana penarikan dana",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"regas","authenticated":true,"entries":[{"id":"68132","nama":"re.gas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"potong, pangkas","contoh":[]}],"terkait":{"kataTurunan":["meregas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"219580","nama":"re.gas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"mudah patah (tentang cabang atau ranting pohon)","contoh":[{"nomor":2,"teks":"cabang pohon itu -- sehingga susah dipanjat"}]}]}]}
+{
+  "word": "regas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68132",
+      "nama": "re.gas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "potong, pangkas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meregas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "219580",
+      "nama": "re.gas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mudah patah (tentang cabang atau ranting pohon)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cabang pohon itu -- sehingga susah dipanjat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

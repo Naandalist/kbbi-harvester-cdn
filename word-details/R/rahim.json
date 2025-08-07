@@ -1,1 +1,89 @@
-{"word":"rahim","authenticated":true,"entries":[{"id":"66831","nama":"ra.him","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kantong selaput dalam perut, tempat janin (bayi); peranakan; kandungan","contoh":[{"nomor":2,"teks":"ayahnya meninggal dunia ketika ia masih dalam -- ibunya"}]}],"etimologi":{"text":"[Arab رَحِمٌ raḥim n sg m 'peranakan; kekerabatan']","languages":["Arab"]},"terkait":{"kataTurunan":["berahim","merahim","kerahiman","merahimi"],"gabunganKata":["rahim kering","rahim lemah"],"peribahasa":[],"idiom":[]}},{"id":"66832","nama":"ra.him","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersifat belas kasihan; bersifat penyayang","contoh":[{"nomor":2,"teks":"Allah yang bersifat --"}]}],"etimologi":{"text":"[Arab رَحِمٌ raḥim n sg m 'peranakan; kekerabatan']","languages":["Arab"]},"terkait":{"kataTurunan":["kerahiman","merahimi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rahim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66831",
+      "nama": "ra.him",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kantong selaput dalam perut, tempat janin (bayi); peranakan; kandungan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayahnya meninggal dunia ketika ia masih dalam -- ibunya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رَحِمٌ raḥim n sg m 'peranakan; kekerabatan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berahim",
+          "merahim",
+          "kerahiman",
+          "merahimi"
+        ],
+        "gabunganKata": [
+          "rahim kering",
+          "rahim lemah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66832",
+      "nama": "ra.him",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersifat belas kasihan; bersifat penyayang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Allah yang bersifat --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رَحِمٌ raḥim n sg m 'peranakan; kekerabatan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerahiman",
+          "merahimi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

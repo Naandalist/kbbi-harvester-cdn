@@ -1,1 +1,88 @@
-{"word":"ria","authenticated":true,"entries":[{"id":"69227","nama":"ria","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"riang; gembira; sukacita","contoh":[{"nomor":2,"teks":"ia disambut dengan segala -- dan suka hati"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"ramai (oleh suara orang bersuka-suka dan sebagainya)","contoh":[]}],"etimologi":{"text":"[Arab رِيَاءٌ riyā’ n sg m 'pamer']","languages":["Arab"]},"terkait":{"kataTurunan":["beria","beria-ria","keriaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"69231","nama":"ria","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"sombong; congkak; bangga (karena telah berbuat baik)","contoh":[]}],"etimologi":{"text":"[Arab رِيَاءٌ riyā’ n sg m 'pamer']","languages":["Arab"]}}]}
+{
+  "word": "ria",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69227",
+      "nama": "ria",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "riang; gembira; sukacita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia disambut dengan segala -- dan suka hati"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ramai (oleh suara orang bersuka-suka dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رِيَاءٌ riyā’ n sg m 'pamer']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "beria",
+          "beria-ria",
+          "keriaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69231",
+      "nama": "ria",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sombong; congkak; bangga (karena telah berbuat baik)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رِيَاءٌ riyā’ n sg m 'pamer']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

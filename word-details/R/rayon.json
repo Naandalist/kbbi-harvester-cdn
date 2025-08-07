@@ -1,1 +1,57 @@
-{"word":"rayon","authenticated":true,"entries":[{"id":"67851","nama":"ra.yon","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian daerah atau wilayah yang dibentuk berdasarkan perjanjian","contoh":[{"nomor":2,"teks":"wilayah kantor kita dibagi atas beberapa --"}]}],"terkait":{"kataTurunan":["perayonan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"67853","nama":"ra.yon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"serat tekstil sintetis","contoh":[]}]}]}
+{
+  "word": "rayon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67851",
+      "nama": "ra.yon",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian daerah atau wilayah yang dibentuk berdasarkan perjanjian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wilayah kantor kita dibagi atas beberapa --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perayonan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67853",
+      "nama": "ra.yon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serat tekstil sintetis",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

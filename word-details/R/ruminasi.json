@@ -1,1 +1,54 @@
-{"word":"ruminasi","authenticated":true,"entries":[{"id":"145714","nama":"ru.mi.na.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tern","nama":"Peternakan","tipe":"bidang_subjek"}],"definisi":"pengembalian makanan dari lambung ke mulut pada hewan pemamah biak untuk dikunyah dan ditelan kembali","contoh":[]}]},{"id":"200971","nama":"ru.mi.na.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"kondisi ketika seseorang mengulang pikiran negatif secara terus-menerus tanpa ada penyelesaian","contoh":[]}]}]}
+{
+  "word": "ruminasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "145714",
+      "nama": "ru.mi.na.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tern",
+              "nama": "Peternakan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengembalian makanan dari lambung ke mulut pada hewan pemamah biak untuk dikunyah dan ditelan kembali",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "200971",
+      "nama": "ru.mi.na.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kondisi ketika seseorang mengulang pikiran negatif secara terus-menerus tanpa ada penyelesaian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

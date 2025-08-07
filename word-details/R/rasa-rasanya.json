@@ -1,1 +1,48 @@
-{"word":"rasa-rasanya","authenticated":true,"entries":[{"id":"67623","nama":"ra.sa-ra.sa.nya","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sekiranya; kira-kira","contoh":[{"nomor":2,"teks":"kalau ~ sangat perlu, belilah secukupnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"seolah-olah (untuk menyatakan bimbang)","contoh":[{"nomor":2,"teks":"~ hendak ditinggalkannya pekerjaannya yang berat itu"}]}],"rootWord":"rasa¹"}]}
+{
+  "word": "rasa-rasanya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67623",
+      "nama": "ra.sa-ra.sa.nya",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekiranya; kira-kira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau ~ sangat perlu, belilah secukupnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seolah-olah (untuk menyatakan bimbang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hendak ditinggalkannya pekerjaannya yang berat itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rasa¹"
+    }
+  ]
+}

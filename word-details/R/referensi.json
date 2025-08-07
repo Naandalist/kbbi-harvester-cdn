@@ -1,1 +1,90 @@
-{"word":"referensi","authenticated":true,"entries":[{"id":"68088","nama":"re.fe.ren.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sumber acuan (rujukan, petunjuk)","contoh":[{"nomor":2,"teks":"kamus dapat dipakai sebagai bahan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku-buku yang dianjurkan oleh dosen kepada mahasiswanya untuk dibaca","contoh":[{"nomor":2,"teks":"buku wajib dan buku -- tersedia lengkap di perpustakaan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku perpustakaan yang tidak boleh dibawa ke luar, harus dibaca di tempat yang telah disediakan","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"hubungan antara referen dan lambang (bentuk bahasa) yang dipakai untuk mewakilinya","contoh":[]}],"terkait":{"kataTurunan":["mereferensikan"],"gabunganKata":["referensi absolut","referensi anaforis","referensi kataforis","referensi sel","referensi silang"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "referensi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68088",
+      "nama": "re.fe.ren.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sumber acuan (rujukan, petunjuk)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kamus dapat dipakai sebagai bahan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku-buku yang dianjurkan oleh dosen kepada mahasiswanya untuk dibaca",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku wajib dan buku -- tersedia lengkap di perpustakaan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku perpustakaan yang tidak boleh dibawa ke luar, harus dibaca di tempat yang telah disediakan",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hubungan antara referen dan lambang (bentuk bahasa) yang dipakai untuk mewakilinya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mereferensikan"
+        ],
+        "gabunganKata": [
+          "referensi absolut",
+          "referensi anaforis",
+          "referensi kataforis",
+          "referensi sel",
+          "referensi silang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

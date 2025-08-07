@@ -1,1 +1,261 @@
-{"word":"rapat","authenticated":true,"entries":[{"id":"67533","nama":"ra.pat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hampir tidak berantara; dekat sekali (tidak renggang)","contoh":[{"nomor":2,"teks":"rumah-rumah di kota -- sekali"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kerap (tentang tanaman, anyaman, dan sebagainya)","contoh":[{"nomor":2,"teks":"padi jangan ditanam terlalu --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tertutup benar-benar hingga tidak bercelah","contoh":[{"nomor":2,"teks":"ia menutup pintu dengan --"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berhampiran sekali; dekat benar","contoh":[{"nomor":2,"teks":"kapal dapat berlabuh -- pada pangkalan"}]},{"nomor":"5","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"karib; erat (tentang persahabatan)","contoh":[{"nomor":2,"teks":"teman --"},{"nomor":4,"teks":"menambah -- persahabatan"}]}],"terkait":{"kataTurunan":["berapat-rapat","kerapatan","memperapat","merapat","merapati","merapatkan","perapat","perapatan","rapatan","berapat"],"gabunganKata":["kerapatan piksel","rapat muatan","rapat akbar","rapat anggota","rapat dengar pendapat","rapat desa","rapat evaluasi","rapat internal","rapat kabinet","rapat kerja","rapat kilat","rapat komite","rapat konsolidasi","rapat koordinasi","rapat lengkap","rapat pansus","rapat paripurna","rapat paripurna luar biasa","rapat pembahasan","rapat persiapan","rapat pimpinan","rapat pleno","rapat raksasa","rapat samudra","rapat tahunan","rapat telekonferensi","rapat terbatas","rapat terbuka","rapat umum","rapat umum pemegang saham","rapat umum tahunan","rapat virtual"],"peribahasa":["tangguk rapat, keruntung bubus"],"idiom":["menutup pintu rapat-rapat"]}},{"id":"67542","nama":"ra.pat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis","contoh":[]}],"terkait":{"kataTurunan":["berapat","kerapatan","merapatkan"],"gabunganKata":["rapat akbar","rapat anggota","rapat dengar pendapat","rapat desa","rapat evaluasi","rapat internal","rapat kabinet","rapat kerja","rapat kilat","rapat komite","rapat konsolidasi","rapat koordinasi","rapat lengkap","rapat pansus","rapat paripurna","rapat paripurna luar biasa","rapat pembahasan","rapat persiapan","rapat pimpinan","rapat pleno","rapat raksasa","rapat samudra","rapat tahunan","rapat telekonferensi","rapat terbatas","rapat terbuka","rapat umum","rapat umum pemegang saham","rapat umum tahunan","rapat virtual"],"peribahasa":["tangguk rapat, keruntung bubus"],"idiom":["menutup pintu rapat-rapat"]}},{"id":"67559","nama":"ra.pat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu rapat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kulit dari kayu rapat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tangguk rapat, keruntung bubus"],"idiom":["menutup pintu rapat-rapat"]}}]}
+{
+  "word": "rapat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67533",
+      "nama": "ra.pat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampir tidak berantara; dekat sekali (tidak renggang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah-rumah di kota -- sekali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerap (tentang tanaman, anyaman, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "padi jangan ditanam terlalu --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertutup benar-benar hingga tidak bercelah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menutup pintu dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhampiran sekali; dekat benar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kapal dapat berlabuh -- pada pangkalan"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karib; erat (tentang persahabatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "teman --"
+            },
+            {
+              "nomor": 4,
+              "teks": "menambah -- persahabatan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berapat-rapat",
+          "kerapatan",
+          "memperapat",
+          "merapat",
+          "merapati",
+          "merapatkan",
+          "perapat",
+          "perapatan",
+          "rapatan",
+          "berapat"
+        ],
+        "gabunganKata": [
+          "kerapatan piksel",
+          "rapat muatan",
+          "rapat akbar",
+          "rapat anggota",
+          "rapat dengar pendapat",
+          "rapat desa",
+          "rapat evaluasi",
+          "rapat internal",
+          "rapat kabinet",
+          "rapat kerja",
+          "rapat kilat",
+          "rapat komite",
+          "rapat konsolidasi",
+          "rapat koordinasi",
+          "rapat lengkap",
+          "rapat pansus",
+          "rapat paripurna",
+          "rapat paripurna luar biasa",
+          "rapat pembahasan",
+          "rapat persiapan",
+          "rapat pimpinan",
+          "rapat pleno",
+          "rapat raksasa",
+          "rapat samudra",
+          "rapat tahunan",
+          "rapat telekonferensi",
+          "rapat terbatas",
+          "rapat terbuka",
+          "rapat umum",
+          "rapat umum pemegang saham",
+          "rapat umum tahunan",
+          "rapat virtual"
+        ],
+        "peribahasa": [
+          "tangguk rapat, keruntung bubus"
+        ],
+        "idiom": [
+          "menutup pintu rapat-rapat"
+        ]
+      }
+    },
+    {
+      "id": "67542",
+      "nama": "ra.pat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berapat",
+          "kerapatan",
+          "merapatkan"
+        ],
+        "gabunganKata": [
+          "rapat akbar",
+          "rapat anggota",
+          "rapat dengar pendapat",
+          "rapat desa",
+          "rapat evaluasi",
+          "rapat internal",
+          "rapat kabinet",
+          "rapat kerja",
+          "rapat kilat",
+          "rapat komite",
+          "rapat konsolidasi",
+          "rapat koordinasi",
+          "rapat lengkap",
+          "rapat pansus",
+          "rapat paripurna",
+          "rapat paripurna luar biasa",
+          "rapat pembahasan",
+          "rapat persiapan",
+          "rapat pimpinan",
+          "rapat pleno",
+          "rapat raksasa",
+          "rapat samudra",
+          "rapat tahunan",
+          "rapat telekonferensi",
+          "rapat terbatas",
+          "rapat terbuka",
+          "rapat umum",
+          "rapat umum pemegang saham",
+          "rapat umum tahunan",
+          "rapat virtual"
+        ],
+        "peribahasa": [
+          "tangguk rapat, keruntung bubus"
+        ],
+        "idiom": [
+          "menutup pintu rapat-rapat"
+        ]
+      }
+    },
+    {
+      "id": "67559",
+      "nama": "ra.pat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu rapat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kulit dari kayu rapat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tangguk rapat, keruntung bubus"
+        ],
+        "idiom": [
+          "menutup pintu rapat-rapat"
+        ]
+      }
+    }
+  ]
+}

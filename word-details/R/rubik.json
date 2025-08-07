@@ -1,1 +1,54 @@
-{"word":"rubik","authenticated":true,"entries":[{"id":"70071","nama":"ru.bik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"penganan seperti keripik yang dibuat dari singkong","contoh":[]}]},{"id":"194290","nama":"ru.bik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mainan berbentuk kubus atau piramida yang dibuat dari plastik atau kayu, biasanya memiliki 26 bagian kecil yang dapat berputar pada poros","contoh":[{"nomor":2,"teks":"-- merupakan alternatif mainan kreatif yang diciptakan oleh arsitek asal Hungaria, Erno Rubik pada 1978 silam"}]}]}]}
+{
+  "word": "rubik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70071",
+      "nama": "ru.bik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penganan seperti keripik yang dibuat dari singkong",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "194290",
+      "nama": "ru.bik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mainan berbentuk kubus atau piramida yang dibuat dari plastik atau kayu, biasanya memiliki 26 bagian kecil yang dapat berputar pada poros",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- merupakan alternatif mainan kreatif yang diciptakan oleh arsitek asal Hungaria, Erno Rubik pada 1978 silam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

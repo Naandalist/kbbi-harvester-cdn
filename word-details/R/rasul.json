@@ -1,1 +1,68 @@
-{"word":"rasul","authenticated":true,"entries":[{"id":"67679","nama":"ra.sul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"orang yang menerima wahyu Allah Swt. untuk disampaikan kepada manusia","contoh":[{"nomor":2,"teks":"Muhammad adalah -- terakhir"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"orang yang diutus oleh Tuhan Yesus untuk mengabarkan injil","contoh":[]}],"etimologi":{"text":"[Arab رَسُوْلٌ rasūl n sg/pl f/m 'utusan']","languages":["Arab"]},"terkait":{"kataTurunan":["kerasulan"],"gabunganKata":["rasul ilahi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rasul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67679",
+      "nama": "ra.sul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang menerima wahyu Allah Swt. untuk disampaikan kepada manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Muhammad adalah -- terakhir"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang diutus oleh Tuhan Yesus untuk mengabarkan injil",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رَسُوْلٌ rasūl n sg/pl f/m 'utusan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerasulan"
+        ],
+        "gabunganKata": [
+          "rasul ilahi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

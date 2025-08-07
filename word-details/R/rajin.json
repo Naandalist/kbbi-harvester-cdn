@@ -1,1 +1,66 @@
-{"word":"rajin","authenticated":true,"entries":[{"id":"66902","nama":"ra.jin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"suka bekerja (belajar dan sebagainya); getol; sungguh-sungguh bekerja; selalu berusaha giat","contoh":[{"nomor":2,"teks":"-- lah belajar supaya naik kelas"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kerap kali; terus-menerus","contoh":[{"nomor":2,"teks":"ia -- ke masjid"}]}],"terkait":{"kataTurunan":["berajin-rajin","berkerajinan","kerajinan","merajin","merajinkan","pengrajin","perajin","perajinan","terajin"],"gabunganKata":[],"peribahasa":["hemat pangkal kaya, rajin pangkal pandai","rajin mengais tembolok berisi"],"idiom":[]}}]}
+{
+  "word": "rajin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66902",
+      "nama": "ra.jin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suka bekerja (belajar dan sebagainya); getol; sungguh-sungguh bekerja; selalu berusaha giat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- lah belajar supaya naik kelas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerap kali; terus-menerus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- ke masjid"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berajin-rajin",
+          "berkerajinan",
+          "kerajinan",
+          "merajin",
+          "merajinkan",
+          "pengrajin",
+          "perajin",
+          "perajinan",
+          "terajin"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hemat pangkal kaya, rajin pangkal pandai",
+          "rajin mengais tembolok berisi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

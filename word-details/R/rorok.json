@@ -1,1 +1,86 @@
-{"word":"rorok","authenticated":true,"entries":[{"id":"69891","nama":"ro.rok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"merorok","contoh":[]}],"terkait":{"kataTurunan":["merorok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"231839","nama":"ro.rok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"tempat ayam bertelur, dibuat dari potongan bambu dan anyaman kulit bambu muda, berbentuk menyerupai kerucut terbalik dengan tiang di bawahnya","contoh":[]}]},{"id":"269771","nama":"ro.rok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"sisa padi yang luput diambil oleh petani ketika panen","contoh":[]}]}]}
+{
+  "word": "rorok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69891",
+      "nama": "ro.rok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "merorok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merorok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "231839",
+      "nama": "ro.rok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat ayam bertelur, dibuat dari potongan bambu dan anyaman kulit bambu muda, berbentuk menyerupai kerucut terbalik dengan tiang di bawahnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269771",
+      "nama": "ro.rok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sisa padi yang luput diambil oleh petani ketika panen",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

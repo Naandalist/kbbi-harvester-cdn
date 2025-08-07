@@ -1,1 +1,71 @@
-{"word":"rute","authenticated":true,"entries":[{"id":"70580","nama":"ru.te","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jarak atau arah yang harus diturut (ditempuh, dilalui)","contoh":[{"nomor":2,"teks":"menempuh -- itu dalam waktu 12 jam"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalan yang ditempuh (dilalui)","contoh":[{"nomor":2,"teks":"reli itu akan menempuh -- Jakarta--Surabaya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalur angkutan yang menghubungkan dua tempat","contoh":[]}],"terkait":{"kataTurunan":["perute","perutean"],"gabunganKata":["rute langsung","rute penerbangan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rute",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70580",
+      "nama": "ru.te",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jarak atau arah yang harus diturut (ditempuh, dilalui)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menempuh -- itu dalam waktu 12 jam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalan yang ditempuh (dilalui)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "reli itu akan menempuh -- Jakarta--Surabaya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalur angkutan yang menghubungkan dua tempat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perute",
+          "perutean"
+        ],
+        "gabunganKata": [
+          "rute langsung",
+          "rute penerbangan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

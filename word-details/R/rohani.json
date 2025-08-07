@@ -1,1 +1,78 @@
-{"word":"rohani","authenticated":true,"entries":[{"id":"69662","nama":"ro.ha.ni","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"roh","contoh":[{"nomor":2,"teks":"di samping jasmani, -- juga memerlukan santapan"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkaitan dengan roh; rohaniah","contoh":[{"nomor":2,"teks":"alam --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kejiwaan","contoh":[{"nomor":2,"teks":"untuk menduduki posisi tersebut pelamar harus sehat secara jasmani dan --"}]}],"etimologi":{"text":"[Arab رُوْحَانِيٌّ rūḥānī n sg m 'hal yang berkaitan dengan nyawa']","languages":["Arab"]},"terkait":{"kataTurunan":["kerohanian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rohani",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69662",
+      "nama": "ro.ha.ni",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di samping jasmani, -- juga memerlukan santapan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkaitan dengan roh; rohaniah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "alam --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kejiwaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk menduduki posisi tersebut pelamar harus sehat secara jasmani dan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رُوْحَانِيٌّ rūḥānī n sg m 'hal yang berkaitan dengan nyawa']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerohanian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

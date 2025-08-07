@@ -1,1 +1,69 @@
-{"word":"rarak","authenticated":true,"entries":[{"id":"67597","nama":"ra.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berarakan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno rarak 'berderet, berbaris, dalam kelompok']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berarakan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"67599","nama":"ra.rak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"musik tradisional yang terdiri atas celempong, gong, dan gendang","contoh":[]}],"etimologi":{"text":"[Jawa Kuno rarak 'berderet, berbaris, dalam kelompok']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "rarak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67597",
+      "nama": "ra.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berarakan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rarak 'berderet, berbaris, dalam kelompok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berarakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67599",
+      "nama": "ra.rak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "musik tradisional yang terdiri atas celempong, gong, dan gendang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rarak 'berderet, berbaris, dalam kelompok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

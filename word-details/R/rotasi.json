@@ -1,1 +1,83 @@
-{"word":"rotasi","authenticated":true,"entries":[{"id":"69933","nama":"ro.ta.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perputaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"cara menanam berbagai jenis tanaman pada bidang tanah yang sama secara bergilir dalam jangka waktu satu tahun atau lebih","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"gerak benda langit yang berputar pada porosnya","contoh":[]}],"terkait":{"kataTurunan":["berotasi","merotasi","merotasikan","perotasian","rotasian","terotasi"],"gabunganKata":["rotasi aksial","rotasi antisiklonik","rotasi bumi","rotasi Kepler","rotasi kerja","rotasi optis","rotasi sinkron","rotasi tanaman","rotasi tebang","rotasi umur"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rotasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69933",
+      "nama": "ro.ta.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perputaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "cara menanam berbagai jenis tanaman pada bidang tanah yang sama secara bergilir dalam jangka waktu satu tahun atau lebih",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gerak benda langit yang berputar pada porosnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berotasi",
+          "merotasi",
+          "merotasikan",
+          "perotasian",
+          "rotasian",
+          "terotasi"
+        ],
+        "gabunganKata": [
+          "rotasi aksial",
+          "rotasi antisiklonik",
+          "rotasi bumi",
+          "rotasi Kepler",
+          "rotasi kerja",
+          "rotasi optis",
+          "rotasi sinkron",
+          "rotasi tanaman",
+          "rotasi tebang",
+          "rotasi umur"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

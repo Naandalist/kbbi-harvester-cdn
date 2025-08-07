@@ -1,1 +1,38 @@
-{"word":"ruang mati","authenticated":true,"entries":[{"id":"144341","nama":"ruang mati","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"Ars","nama":"Arsitektur","tipe":"lainnya"}],"definisi":"area canggung di sebuah bangunan yang sedikit terlalu kecil atau berbentuk aneh yang tidak berfungsi apapun","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"celah tersisa setelah penutupan operasi bedah, memungkinkan darah atau serum terakumulasi dan menyebabkan keterlambatan dalam penyembuhan","contoh":[]}],"rootWord":"ruang"}]}
+{
+  "word": "ruang mati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "144341",
+      "nama": "ruang mati",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Ars",
+              "nama": "Arsitektur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "area canggung di sebuah bangunan yang sedikit terlalu kecil atau berbentuk aneh yang tidak berfungsi apapun",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "celah tersisa setelah penutupan operasi bedah, memungkinkan darah atau serum terakumulasi dan menyebabkan keterlambatan dalam penyembuhan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ruang"
+    }
+  ]
+}

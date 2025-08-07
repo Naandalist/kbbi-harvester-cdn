@@ -1,1 +1,98 @@
-{"word":"ruak","authenticated":true,"entries":[{"id":"69990","nama":"ru.ak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meruak","contoh":[]}],"terkait":{"kataTurunan":["meruak","ruak-ruak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"69992","nama":"ru.ak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial ruak-ruak","contoh":[]}],"terkait":{"kataTurunan":["ruak-ruak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"253493","nama":"ru.ak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"gerak yang muncul dari belakang pemain atau perlengkapan panggung","contoh":[]}]},{"id":"244264","nama":"ru.ak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang besar serta tertutup di dalam masjid","contoh":[]}]}]}
+{
+  "word": "ruak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69990",
+      "nama": "ru.ak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meruak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meruak",
+          "ruak-ruak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69992",
+      "nama": "ru.ak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial ruak-ruak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ruak-ruak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "253493",
+      "nama": "ru.ak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "gerak yang muncul dari belakang pemain atau perlengkapan panggung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "244264",
+      "nama": "ru.ak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang besar serta tertutup di dalam masjid",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

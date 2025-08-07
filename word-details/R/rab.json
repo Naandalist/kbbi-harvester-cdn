@@ -1,1 +1,83 @@
-{"word":"rab","authenticated":true,"entries":[{"id":"240778","nama":"rab","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Us","nama":"Using","tipe":"lainnya"}],"definisi":"bagian atap rumah adat Using yang agak mendatar ke depan dan belakang","contoh":[]}]},{"id":"197982","nama":"Rab","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"yang memiliki dan memelihara segala sesuatu (Allah Swt.)","contoh":[{"nomor":2,"teks":"ya Allah ya --"}]}]},{"id":"192044","nama":"RAB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"rencana anggaran biaya (rencana atau perkiraan biaya yang akan dikeluarkan untuk melaksanakan kegiatan atau proyek)","contoh":[]}]}]}
+{
+  "word": "rab",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "240778",
+      "nama": "rab",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Us",
+              "nama": "Using",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian atap rumah adat Using yang agak mendatar ke depan dan belakang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "197982",
+      "nama": "Rab",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang memiliki dan memelihara segala sesuatu (Allah Swt.)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ya Allah ya --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "192044",
+      "nama": "RAB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rencana anggaran biaya (rencana atau perkiraan biaya yang akan dikeluarkan untuk melaksanakan kegiatan atau proyek)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

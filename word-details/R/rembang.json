@@ -1,1 +1,134 @@
-{"word":"rembang","authenticated":true,"entries":[{"id":"100515","nama":"Rem.bang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kabupaten di Provinsi Jawa Tengah tempat Kartini dimakamkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ibu kota Kabupaten Rembang, Provinsi Jawa Tengah","contoh":[]}],"terkait":{"kataTurunan":["berembang"],"gabunganKata":["rembang mata","rembang petang","rembang tengah hari"],"peribahasa":[],"idiom":[]}},{"id":"68473","nama":"rem.bang","nomor":"13","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"setinggi-tingginya (tentang matahari, bulan); titik di langit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"tepat benar (waktunya)","contoh":[{"nomor":2,"teks":"segala takwin kitab dibuka, --lah saat dengan ketika"}]}],"terkait":{"kataTurunan":["berembang"],"gabunganKata":["rembang mata","rembang petang","rembang tengah hari"],"peribahasa":[],"idiom":[]}},{"id":"100516","nama":"rem.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"posisi atau tapak yang berada pada atau dekat daerah titik akhir atau puncak benda","contoh":[]}],"terkait":{"kataTurunan":["berembang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rembang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "100515",
+      "nama": "Rem.bang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabupaten di Provinsi Jawa Tengah tempat Kartini dimakamkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu kota Kabupaten Rembang, Provinsi Jawa Tengah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berembang"
+        ],
+        "gabunganKata": [
+          "rembang mata",
+          "rembang petang",
+          "rembang tengah hari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "68473",
+      "nama": "rem.bang",
+      "nomor": "13",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "setinggi-tingginya (tentang matahari, bulan); titik di langit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepat benar (waktunya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "segala takwin kitab dibuka, --lah saat dengan ketika"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berembang"
+        ],
+        "gabunganKata": [
+          "rembang mata",
+          "rembang petang",
+          "rembang tengah hari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100516",
+      "nama": "rem.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "posisi atau tapak yang berada pada atau dekat daerah titik akhir atau puncak benda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berembang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

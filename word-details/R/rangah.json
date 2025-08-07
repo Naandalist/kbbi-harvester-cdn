@@ -1,1 +1,62 @@
-{"word":"rangah","authenticated":true,"entries":[{"id":"67282","nama":"ra.ngah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"angkuh; congkak; pongah; sombong","contoh":[]}],"terkait":{"kataTurunan":["merangah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"228911","nama":"ra.ngah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gigi yang kuat","contoh":[{"nomor":2,"teks":"orang yang gemar menyirih memiliki rata-rata memiliki --"}]}]}]}
+{
+  "word": "rangah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67282",
+      "nama": "ra.ngah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angkuh; congkak; pongah; sombong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merangah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228911",
+      "nama": "ra.ngah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gigi yang kuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang gemar menyirih memiliki rata-rata memiliki --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

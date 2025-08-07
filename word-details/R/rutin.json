@@ -1,1 +1,87 @@
-{"word":"rutin","authenticated":true,"entries":[{"id":"70584","nama":"ru.tin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"prosedur yang teratur dan tidak berubah-ubah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal membiasanya prosedur, kegiatan, pekerjaan, dan sebagainya","contoh":[{"nomor":2,"teks":"rapat koperasi itu bersifat -- dan tradisional"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"serangkaian instruksi yang dirancang untuk beberapa tujuan tertentu dan memiliki penggunaan umum","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"prosedur utama yang dilaksanakan oleh suatu program","contoh":[]}],"terkait":{"kataTurunan":["kerutinan","merutinkan","rutinan","terutin"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rutin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70584",
+      "nama": "ru.tin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "prosedur yang teratur dan tidak berubah-ubah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal membiasanya prosedur, kegiatan, pekerjaan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rapat koperasi itu bersifat -- dan tradisional"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "serangkaian instruksi yang dirancang untuk beberapa tujuan tertentu dan memiliki penggunaan umum",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "prosedur utama yang dilaksanakan oleh suatu program",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kerutinan",
+          "merutinkan",
+          "rutinan",
+          "terutin"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

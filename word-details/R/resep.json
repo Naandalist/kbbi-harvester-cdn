@@ -1,1 +1,47 @@
-{"word":"resep","authenticated":true,"entries":[{"id":"68997","nama":"re.sep","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keterangan dokter tentang obat serta takarannya, yang harus dipakai oleh si sakit dan dapat ditukar dengan obat di apotek","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keterangan tentang bahan dan cara meracik obat (memasak makanan)","contoh":[]}],"terkait":{"kataTurunan":["meresepkan","peresepan","resepan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "resep",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68997",
+      "nama": "re.sep",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keterangan dokter tentang obat serta takarannya, yang harus dipakai oleh si sakit dan dapat ditukar dengan obat di apotek",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keterangan tentang bahan dan cara meracik obat (memasak makanan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meresepkan",
+          "peresepan",
+          "resepan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

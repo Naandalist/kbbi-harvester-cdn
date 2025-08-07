@@ -1,1 +1,106 @@
-{"word":"ras","authenticated":true,"entries":[{"id":"67603","nama":"ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi daun kering bergesekan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ras edafik"],"peribahasa":[],"idiom":[]}},{"id":"67604","nama":"ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"golongan bangsa berdasarkan ciri-ciri fisik; rumpun bangsa","contoh":[{"nomor":2,"teks":"warga negara Amerika terdiri atas pelbagai --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sekelompok hewan atau tumbuhan domestikasi yang mungkin berkerabat berdasarkan keturunan nenek moyang yang sama dan tampak serupa di sebagian besar karakter","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ras edafik"],"peribahasa":[],"idiom":[]}},{"id":"257364","nama":"ras","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"salah satu irama membaca Al-Qur'an dengan suara yang pelan, tetapi dengan irama yang cepat","contoh":[]}]}]}
+{
+  "word": "ras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67603",
+      "nama": "ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi daun kering bergesekan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ras edafik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67604",
+      "nama": "ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "golongan bangsa berdasarkan ciri-ciri fisik; rumpun bangsa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "warga negara Amerika terdiri atas pelbagai --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekelompok hewan atau tumbuhan domestikasi yang mungkin berkerabat berdasarkan keturunan nenek moyang yang sama dan tampak serupa di sebagian besar karakter",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ras edafik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "257364",
+      "nama": "ras",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "salah satu irama membaca Al-Qur'an dengan suara yang pelan, tetapi dengan irama yang cepat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

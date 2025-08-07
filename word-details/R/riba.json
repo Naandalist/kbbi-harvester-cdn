@@ -1,1 +1,92 @@
-{"word":"riba","authenticated":true,"entries":[{"id":"69277","nama":"ri.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pangku","contoh":[]}],"etimologi":{"text":"[Arab رِبًا ribā n sg m 'penambahan; bunga yang diharamkan']","languages":["Arab"]},"terkait":{"kataTurunan":["meriba","ribaan","meribakan","periba"],"gabunganKata":["riba nasiah"],"peribahasa":[],"idiom":[]}},{"id":"69280","nama":"ri.ba","nomor":"22","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pelepas uang; lintah darat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunga uang; rente","contoh":[]}],"etimologi":{"text":"[Arab رِبًا ribā n sg m 'penambahan; bunga yang diharamkan']","languages":["Arab"]},"terkait":{"kataTurunan":["meribakan","periba"],"gabunganKata":["riba nasiah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "riba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69277",
+      "nama": "ri.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pangku",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رِبًا ribā n sg m 'penambahan; bunga yang diharamkan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "meriba",
+          "ribaan",
+          "meribakan",
+          "periba"
+        ],
+        "gabunganKata": [
+          "riba nasiah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69280",
+      "nama": "ri.ba",
+      "nomor": "22",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pelepas uang; lintah darat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunga uang; rente",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رِبًا ribā n sg m 'penambahan; bunga yang diharamkan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "meribakan",
+          "periba"
+        ],
+        "gabunganKata": [
+          "riba nasiah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"ripit","authenticated":true,"entries":[{"id":"69505","nama":"ri.pit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"keripik pisang atau keladi","contoh":[]}]},{"id":"283123","nama":"ri.pit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"pukulan dengan rotan atau ranting","contoh":[]}]}]}
+{
+  "word": "ripit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69505",
+      "nama": "ri.pit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keripik pisang atau keladi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "283123",
+      "nama": "ri.pit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pukulan dengan rotan atau ranting",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

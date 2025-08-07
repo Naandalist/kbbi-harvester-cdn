@@ -1,1 +1,55 @@
-{"word":"runggas","authenticated":true,"entries":[{"id":"70412","nama":"rung.gas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"renggut","contoh":[]}],"terkait":{"kataTurunan":["merunggas","berunggas-runggas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"70414","nama":"rung.gas","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial berunggas-runggas","contoh":[]}],"terkait":{"kataTurunan":["berunggas-runggas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "runggas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70412",
+      "nama": "rung.gas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "renggut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merunggas",
+          "berunggas-runggas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "70414",
+      "nama": "rung.gas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial berunggas-runggas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berunggas-runggas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

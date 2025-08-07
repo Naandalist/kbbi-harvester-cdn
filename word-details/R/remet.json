@@ -1,1 +1,76 @@
-{"word":"remet","authenticated":true,"entries":[{"id":"68522","nama":"re.met","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meremet","contoh":[]}],"terkait":{"kataTurunan":["meremet"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"68524","nama":"re.met","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"menggerakkan perlahan-lahan ke atas dan ke bawah, menari ke sana kemari (tentang pancing)","contoh":[]}]},{"id":"68525","nama":"re.met","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggenggam erat-erat (tentang benda kecil) dalam jumlah banyak","contoh":[]}]}]}
+{
+  "word": "remet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68522",
+      "nama": "re.met",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meremet",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meremet"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "68524",
+      "nama": "re.met",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menggerakkan perlahan-lahan ke atas dan ke bawah, menari ke sana kemari (tentang pancing)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "68525",
+      "nama": "re.met",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggenggam erat-erat (tentang benda kecil) dalam jumlah banyak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

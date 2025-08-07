@@ -1,1 +1,72 @@
-{"word":"rapor","authenticated":true,"entries":[{"id":"67568","nama":"ra.por","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"laporan resmi (kepada yang wajib menerimanya); lapor","contoh":[]}],"terkait":{"kataTurunan":["meraporkan","peraporan","raporan","merapor"],"gabunganKata":["rapor merah","rapor bayangan","rapor biru","rapor sisipan"],"peribahasa":[],"idiom":[]}},{"id":"67571","nama":"ra.por","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah, berfungsi sebagai laporan guru kepada orang tua atau wali murid","contoh":[]}],"terkait":{"kataTurunan":["merapor"],"gabunganKata":["rapor bayangan","rapor biru","rapor sisipan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rapor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67568",
+      "nama": "ra.por",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "laporan resmi (kepada yang wajib menerimanya); lapor",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meraporkan",
+          "peraporan",
+          "raporan",
+          "merapor"
+        ],
+        "gabunganKata": [
+          "rapor merah",
+          "rapor bayangan",
+          "rapor biru",
+          "rapor sisipan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67571",
+      "nama": "ra.por",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah, berfungsi sebagai laporan guru kepada orang tua atau wali murid",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merapor"
+        ],
+        "gabunganKata": [
+          "rapor bayangan",
+          "rapor biru",
+          "rapor sisipan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

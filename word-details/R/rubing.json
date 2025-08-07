@@ -1,1 +1,86 @@
-{"word":"rubing","authenticated":true,"entries":[{"id":"70073","nama":"ru.bing","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dinding tambahan sementara untuk meninggikan pinggir perahu (dibuat dari anyaman, kain mota, dan sebagainya)","contoh":[{"nomor":2,"teks":"awak perahu sedang sibuk memasang --"}]}],"terkait":{"kataTurunan":["merubing"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"70074","nama":"ru.bing","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tebing; tepi","contoh":[{"nomor":2,"teks":"hati-hatilah pesiar ke pegunungan, banyak -- yang curam"}]}]},{"id":"254194","nama":"ru.bing","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"tambahan papan untuk meninggikan sisi perahu","contoh":[]}]}]}
+{
+  "word": "rubing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70073",
+      "nama": "ru.bing",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dinding tambahan sementara untuk meninggikan pinggir perahu (dibuat dari anyaman, kain mota, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "awak perahu sedang sibuk memasang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merubing"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "70074",
+      "nama": "ru.bing",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tebing; tepi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati-hatilah pesiar ke pegunungan, banyak -- yang curam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "254194",
+      "nama": "ru.bing",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tambahan papan untuk meninggikan sisi perahu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

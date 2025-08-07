@@ -1,1 +1,97 @@
-{"word":"ruas","authenticated":true,"entries":[{"id":"70044","nama":"ru.as","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian antara buku dan buku atau antara sendi dan sendi (pada jari, bambu, tebu, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- tebu itu panjang-panjang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian antara satu tempat (kota) dan tempat (kota) yang lain (tentang jalan)","contoh":[]}],"terkait":{"kataTurunan":["beruas","beruas-ruas","peruasan","seruas"],"gabunganKata":["ruas bambu","ruas batang","ruas garis","ruas jalan","ruas jari","ruas tol"],"peribahasa":["batang betung beruas-ruas","bertemu ruas dengan buku","pilih-pilih ruas, terpilih pada buku","pilih-pilih ruas, terpilih pada buku (terkena buku buluh)","terentak ruas ke buku"],"idiom":[]}},{"id":"94579","nama":"ru.as","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lai","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["batang betung beruas-ruas","bertemu ruas dengan buku","pilih-pilih ruas, terpilih pada buku","pilih-pilih ruas, terpilih pada buku (terkena buku buluh)","terentak ruas ke buku"],"idiom":[]}}]}
+{
+  "word": "ruas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70044",
+      "nama": "ru.as",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian antara buku dan buku atau antara sendi dan sendi (pada jari, bambu, tebu, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tebu itu panjang-panjang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian antara satu tempat (kota) dan tempat (kota) yang lain (tentang jalan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beruas",
+          "beruas-ruas",
+          "peruasan",
+          "seruas"
+        ],
+        "gabunganKata": [
+          "ruas bambu",
+          "ruas batang",
+          "ruas garis",
+          "ruas jalan",
+          "ruas jari",
+          "ruas tol"
+        ],
+        "peribahasa": [
+          "batang betung beruas-ruas",
+          "bertemu ruas dengan buku",
+          "pilih-pilih ruas, terpilih pada buku",
+          "pilih-pilih ruas, terpilih pada buku (terkena buku buluh)",
+          "terentak ruas ke buku"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "94579",
+      "nama": "ru.as",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "batang betung beruas-ruas",
+          "bertemu ruas dengan buku",
+          "pilih-pilih ruas, terpilih pada buku",
+          "pilih-pilih ruas, terpilih pada buku (terkena buku buluh)",
+          "terentak ruas ke buku"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

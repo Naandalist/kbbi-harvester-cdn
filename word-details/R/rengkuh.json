@@ -1,1 +1,60 @@
-{"word":"rengkuh","authenticated":true,"entries":[{"id":"68731","nama":"reng.kuh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"raih","contoh":[]}],"terkait":{"kataTurunan":["merengkuh","merengkuhkan","perengkuh","terengkuh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"117528","nama":"reng.kuh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"sikap hormat dengan membungkukkan badan","contoh":[]}]}]}
+{
+  "word": "rengkuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68731",
+      "nama": "reng.kuh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "raih",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merengkuh",
+          "merengkuhkan",
+          "perengkuh",
+          "terengkuh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "117528",
+      "nama": "reng.kuh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sikap hormat dengan membungkukkan badan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

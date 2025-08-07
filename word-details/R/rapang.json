@@ -1,1 +1,85 @@
-{"word":"rapang","authenticated":true,"entries":[{"id":"67531","nama":"ra.pang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan laut〔Mugil bleekeri〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"belanak","contoh":[]}]},{"id":"67532","nama":"ra.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mks","nama":"Makassar","tipe":"lainnya"}],"definisi":"pepatah","contoh":[]}]},{"id":"266904","nama":"ra.pang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"parutan kasar singkong yang dijemur untuk pakan ayam","contoh":[]}]}]}
+{
+  "word": "rapang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67531",
+      "nama": "ra.pang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan laut〔Mugil bleekeri〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belanak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "67532",
+      "nama": "ra.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mks",
+              "nama": "Makassar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pepatah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "266904",
+      "nama": "ra.pang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "parutan kasar singkong yang dijemur untuk pakan ayam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

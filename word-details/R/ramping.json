@@ -1,1 +1,86 @@
-{"word":"ramping","authenticated":true,"entries":[{"id":"67156","nama":"ram.ping","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kecil panjang (lurus); lampai; langsing","contoh":[{"nomor":2,"teks":"pinggangnya --"}]}],"etimologi":{"text":"[Jawa Kuno rampiṅ 'dengan mudah (tanpa kesukaran), cakap, tangkas, trampil, cekatan, mahir, benar, tepat, menyesuaikan diri dengan semua keadaan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kerampingan","meramping","merampingkan","perampingan","seramping","teramping"],"gabunganKata":[],"peribahasa":[],"idiom":["pinggang ramping bagai ketiding"]}},{"id":"67160","nama":"ram.ping","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"compeng","contoh":[]}],"etimologi":{"text":"[Jawa Kuno rampiṅ 'dengan mudah (tanpa kesukaran), cakap, tangkas, trampil, cekatan, mahir, benar, tepat, menyesuaikan diri dengan semua keadaan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["meramping"],"gabunganKata":[],"peribahasa":[],"idiom":["pinggang ramping bagai ketiding"]}}]}
+{
+  "word": "ramping",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67156",
+      "nama": "ram.ping",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecil panjang (lurus); lampai; langsing",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pinggangnya --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rampiṅ 'dengan mudah (tanpa kesukaran), cakap, tangkas, trampil, cekatan, mahir, benar, tepat, menyesuaikan diri dengan semua keadaan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerampingan",
+          "meramping",
+          "merampingkan",
+          "perampingan",
+          "seramping",
+          "teramping"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "pinggang ramping bagai ketiding"
+        ]
+      }
+    },
+    {
+      "id": "67160",
+      "nama": "ram.ping",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "compeng",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rampiṅ 'dengan mudah (tanpa kesukaran), cakap, tangkas, trampil, cekatan, mahir, benar, tepat, menyesuaikan diri dengan semua keadaan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "meramping"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "pinggang ramping bagai ketiding"
+        ]
+      }
+    }
+  ]
+}

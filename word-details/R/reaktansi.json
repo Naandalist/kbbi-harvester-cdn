@@ -1,1 +1,51 @@
-{"word":"reaktansi","authenticated":true,"entries":[{"id":"67883","nama":"re.ak.tan.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perlawanan terhadap arus bolak-balik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"bagian impedans yang disebabkan oleh kapasitor","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["reaktansi induktif","reaktansi kapasitif"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "reaktansi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67883",
+      "nama": "re.ak.tan.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perlawanan terhadap arus bolak-balik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian impedans yang disebabkan oleh kapasitor",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "reaktansi induktif",
+          "reaktansi kapasitif"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"rampang","authenticated":true,"entries":[{"id":"67139","nama":"ram.pang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"marah; berang","contoh":[]}],"terkait":{"kataTurunan":["perampang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"225113","nama":"ram.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kayu melintang pada bagian depan pedati, untuk menambatkan kuda atau lembu","contoh":[]}]}]}
+{
+  "word": "rampang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67139",
+      "nama": "ram.pang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "marah; berang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perampang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "225113",
+      "nama": "ram.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kayu melintang pada bagian depan pedati, untuk menambatkan kuda atau lembu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

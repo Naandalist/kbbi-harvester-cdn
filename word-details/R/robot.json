@@ -1,1 +1,106 @@
-{"word":"robot","authenticated":true,"entries":[{"id":"69604","nama":"ro.bot","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial merobot","contoh":[]}],"terkait":{"kataTurunan":["merobot","perobotan","robot-robotan"],"gabunganKata":["robot kolaboratif","robot otonom","robot pintar","robot rehabilitasi"],"peribahasa":[],"idiom":[]}},{"id":"69606","nama":"ro.bot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat berupa orang-orangan dan sebagainya yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"orang yang menurut saja perintah orang lain","contoh":[{"nomor":2,"teks":"pakailah otakmu, jangan menjadi -- saja"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"orang yang bertindak tanpa pikiran dan perasaan","contoh":[]}],"terkait":{"kataTurunan":["perobotan","robot-robotan"],"gabunganKata":["robot kolaboratif","robot otonom","robot pintar","robot rehabilitasi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "robot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69604",
+      "nama": "ro.bot",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial merobot",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merobot",
+          "perobotan",
+          "robot-robotan"
+        ],
+        "gabunganKata": [
+          "robot kolaboratif",
+          "robot otonom",
+          "robot pintar",
+          "robot rehabilitasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69606",
+      "nama": "ro.bot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat berupa orang-orangan dan sebagainya yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menurut saja perintah orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pakailah otakmu, jangan menjadi -- saja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang bertindak tanpa pikiran dan perasaan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perobotan",
+          "robot-robotan"
+        ],
+        "gabunganKata": [
+          "robot kolaboratif",
+          "robot otonom",
+          "robot pintar",
+          "robot rehabilitasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

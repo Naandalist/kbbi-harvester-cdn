@@ -1,1 +1,89 @@
-{"word":"repang","authenticated":true,"entries":[{"id":"213989","nama":"re.pang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu pipih yang berfungsi untuk acuan membuat mata jaring, ukuran panjang sekitar 8 cm dan tebal serta lebarnya berdiameter untuk mata jaring yang diinginkan","contoh":[]}],"terkait":{"kataTurunan":["merepang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"68882","nama":"re.pang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"rata (dipangkas); pepat","contoh":[{"nomor":2,"teks":"cucuran atap yang --"}]}],"terkait":{"kataTurunan":["merepang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"259058","nama":"re.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"alat untuk menyulam dan memotong jaring","contoh":[]}]}]}
+{
+  "word": "repang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "213989",
+      "nama": "re.pang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu pipih yang berfungsi untuk acuan membuat mata jaring, ukuran panjang sekitar 8 cm dan tebal serta lebarnya berdiameter untuk mata jaring yang diinginkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merepang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "68882",
+      "nama": "re.pang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rata (dipangkas); pepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cucuran atap yang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merepang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "259058",
+      "nama": "re.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat untuk menyulam dan memotong jaring",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

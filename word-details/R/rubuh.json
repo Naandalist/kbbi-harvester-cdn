@@ -1,1 +1,48 @@
-{"word":"rubuh","authenticated":true,"entries":[{"id":"70081","nama":"ru.buh","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ roboh","contoh":[]}]},{"id":"259723","nama":"ru.buh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"menyerang secara bersamaan dalam jumlah banyak (tentang serangga, tawon)","contoh":[{"nomor":2,"teks":"kijang itu kena -- tawon"}]}]}]}
+{
+  "word": "rubuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70081",
+      "nama": "ru.buh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ roboh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259723",
+      "nama": "ru.buh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyerang secara bersamaan dalam jumlah banyak (tentang serangga, tawon)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kijang itu kena -- tawon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

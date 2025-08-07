@@ -1,1 +1,95 @@
-{"word":"rencah","authenticated":true,"entries":[{"id":"68591","nama":"ren.cah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merencah","contoh":[]}],"terkait":{"kataTurunan":["merencah","terencah","perencah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"68594","nama":"ren.cah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merencah","contoh":[]}],"terkait":{"kataTurunan":["merencah","perencah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"68596","nama":"ren.cah","nomor":"32","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"campuran bumbu (rempah) untuk menyedapkan makanan","contoh":[{"nomor":2,"teks":"-- gulai"}]}],"terkait":{"kataTurunan":["perencah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rencah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68591",
+      "nama": "ren.cah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merencah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merencah",
+          "terencah",
+          "perencah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "68594",
+      "nama": "ren.cah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merencah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merencah",
+          "perencah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "68596",
+      "nama": "ren.cah",
+      "nomor": "32",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "campuran bumbu (rempah) untuk menyedapkan makanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- gulai"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perencah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

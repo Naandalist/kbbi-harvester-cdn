@@ -1,1 +1,77 @@
-{"word":"rabun","authenticated":true,"entries":[{"id":"66506","nama":"ra.bun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang jelas; kurang awas; kabur (tentang penglihatan)","contoh":[{"nomor":2,"teks":"orang tua itu sudah -- matanya"}]}],"terkait":{"kataTurunan":["berabun-rabun","kerabunan","merabuni","merabunkan","perabun"],"gabunganKata":["rabun ayam","rabun dekat","rabun jauh","rabun senja","rabun tua"],"peribahasa":[],"idiom":[]}},{"id":"66513","nama":"ra.bun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"asap (dari daun-daunan, dupa yang dibakar) untuk mengasapi rumah, mengobati orang sakit","contoh":[]}],"terkait":{"kataTurunan":["merabuni","merabunkan","perabun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rabun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66506",
+      "nama": "ra.bun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang jelas; kurang awas; kabur (tentang penglihatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang tua itu sudah -- matanya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berabun-rabun",
+          "kerabunan",
+          "merabuni",
+          "merabunkan",
+          "perabun"
+        ],
+        "gabunganKata": [
+          "rabun ayam",
+          "rabun dekat",
+          "rabun jauh",
+          "rabun senja",
+          "rabun tua"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66513",
+      "nama": "ra.bun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asap (dari daun-daunan, dupa yang dibakar) untuk mengasapi rumah, mengobati orang sakit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merabuni",
+          "merabunkan",
+          "perabun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

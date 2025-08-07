@@ -1,1 +1,85 @@
-{"word":"rompes","authenticated":true,"entries":[{"id":"69778","nama":"rom.pes","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sumbing sedikit pada tepinya","contoh":[{"nomor":2,"teks":"telinganya --"}]}],"terkait":{"kataTurunan":["merompes","perompesan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"69779","nama":"rom.pes","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial merompes, perompesan","contoh":[]}],"terkait":{"kataTurunan":["merompes","perompesan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"150078","nama":"rom.pes","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"keadaan daun yang termakan ulat","contoh":[]}]}]}
+{
+  "word": "rompes",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69778",
+      "nama": "rom.pes",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sumbing sedikit pada tepinya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "telinganya --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merompes",
+          "perompesan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69779",
+      "nama": "rom.pes",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial merompes, perompesan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merompes",
+          "perompesan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "150078",
+      "nama": "rom.pes",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "keadaan daun yang termakan ulat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

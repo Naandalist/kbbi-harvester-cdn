@@ -1,1 +1,126 @@
-{"word":"rok","authenticated":true,"entries":[{"id":"69676","nama":"rok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gaun","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baju perempuan bagian bawah (bawahan)","contoh":[{"nomor":2,"teks":"murid perempuan memakai blus berwarna putih dan -- berwarna abu-abu"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["rok asimetris","rok balerina","rok balet","rok balon","rok berlapis","rok berlipit","rok berulas","rok celana","rok dalam","rok duyung","rok gor","rok kembang","rok kerut","rok ketat","rok landung","rok lilit","rok lipat","rok lipit","rok lonceng","rok lurus","rok maksi","rok midi","rok mini","rok pantai","rok pensil","rok pias","rok plisket","rok rimpel","rok rumbai","rok sarung","rok sepan","rok Skotlandia","rok terompet","rok tulip","rok tutu"],"peribahasa":[],"idiom":[]}},{"id":"69693","nama":"rok","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat musik","contoh":[]}]},{"id":"251654","nama":"rok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"potong (tentang sayur)","contoh":[{"nomor":2,"teks":"-- dahulu sawi itu sebelum kamu masak"}]}]}]}
+{
+  "word": "rok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69676",
+      "nama": "rok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gaun",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baju perempuan bagian bawah (bawahan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "murid perempuan memakai blus berwarna putih dan -- berwarna abu-abu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "rok asimetris",
+          "rok balerina",
+          "rok balet",
+          "rok balon",
+          "rok berlapis",
+          "rok berlipit",
+          "rok berulas",
+          "rok celana",
+          "rok dalam",
+          "rok duyung",
+          "rok gor",
+          "rok kembang",
+          "rok kerut",
+          "rok ketat",
+          "rok landung",
+          "rok lilit",
+          "rok lipat",
+          "rok lipit",
+          "rok lonceng",
+          "rok lurus",
+          "rok maksi",
+          "rok midi",
+          "rok mini",
+          "rok pantai",
+          "rok pensil",
+          "rok pias",
+          "rok plisket",
+          "rok rimpel",
+          "rok rumbai",
+          "rok sarung",
+          "rok sepan",
+          "rok Skotlandia",
+          "rok terompet",
+          "rok tulip",
+          "rok tutu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69693",
+      "nama": "rok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat musik",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "251654",
+      "nama": "rok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "potong (tentang sayur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dahulu sawi itu sebelum kamu masak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,92 @@
-{"word":"racikan","authenticated":true,"entries":[{"id":"66535","nama":"ra.cik.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil meracik","contoh":[{"nomor":2,"teks":"~nya kurang baik"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"irisan tipis","contoh":[{"nomor":2,"teks":"~ tembakau"}]}],"rootWord":"racik¹"},{"id":"66542","nama":"ra.cik.an","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil meracik","contoh":[]}],"rootWord":"racik³"},{"id":"136615","nama":"ra.ci.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"alat untuk membelah dan menghaluskan rotan, terdiri atas pisau, sekrup, dan roda yang dipasang pada sebuah kayu kemudian ditancapkan di tanah","contoh":[]}]}]}
+{
+  "word": "racikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66535",
+      "nama": "ra.cik.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil meracik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~nya kurang baik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "irisan tipis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tembakau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "racik¹"
+    },
+    {
+      "id": "66542",
+      "nama": "ra.cik.an",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil meracik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "racik³"
+    },
+    {
+      "id": "136615",
+      "nama": "ra.ci.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat untuk membelah dan menghaluskan rotan, terdiri atas pisau, sekrup, dan roda yang dipasang pada sebuah kayu kemudian ditancapkan di tanah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

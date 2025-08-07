@@ -1,1 +1,54 @@
-{"word":"ribang","authenticated":true,"entries":[{"id":"69281","nama":"ri.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"rindu","contoh":[]}]},{"id":"69282","nama":"ri.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"mengikat kuat-kuat","contoh":[]}]}]}
+{
+  "word": "ribang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69281",
+      "nama": "ri.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rindu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "69282",
+      "nama": "ri.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengikat kuat-kuat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

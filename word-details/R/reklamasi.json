@@ -1,1 +1,76 @@
-{"word":"reklamasi","authenticated":true,"entries":[{"id":"68313","nama":"re.kla.ma.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bantahan atau sanggahan (dengan nada keras)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"pemanfaatan daerah yang semula tidak berguna untuk memperluas tanah (pertanian) atau tujuan lain, misalnya dengan cara menguruk daerah rawa-rawa","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"pengurukan (tanah)","contoh":[]}],"terkait":{"kataTurunan":["mereklamasikan"],"gabunganKata":["reklamasi air","reklamasi hutan","reklamasi lahan","reklamasi pantai","reklamasi pascatambang","reklamasi rawa","reklamasi tambang","reklamasi teluk"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "reklamasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68313",
+      "nama": "re.kla.ma.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bantahan atau sanggahan (dengan nada keras)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pemanfaatan daerah yang semula tidak berguna untuk memperluas tanah (pertanian) atau tujuan lain, misalnya dengan cara menguruk daerah rawa-rawa",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengurukan (tanah)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mereklamasikan"
+        ],
+        "gabunganKata": [
+          "reklamasi air",
+          "reklamasi hutan",
+          "reklamasi lahan",
+          "reklamasi pantai",
+          "reklamasi pascatambang",
+          "reklamasi rawa",
+          "reklamasi tambang",
+          "reklamasi teluk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

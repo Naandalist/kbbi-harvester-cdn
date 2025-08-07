@@ -1,1 +1,98 @@
-{"word":"rela","authenticated":true,"entries":[{"id":"68360","nama":"re.la","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersedia dengan ikhlas hati","contoh":[{"nomor":2,"teks":"aku -- mati membela tanah tumpah darahku"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"izin (persetujuan); perkenan","contoh":[{"nomor":2,"teks":"kedatangan saya ini hendak meminta -- tuan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diterima dengan senang hati","contoh":[{"nomor":2,"teks":"semua itu kuberikan kepadamu dengan --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak mengharap imbalan, dengan kehendak atau kemauan sendiri","contoh":[{"nomor":2,"teks":"dengan suka --"}]}],"etimologi":{"text":"[Arab رِضًا riḍā n sg m 'sikap menerima dengan lapang dada']","languages":["Arab"]},"terkait":{"kataTurunan":["kerelaan","merelai","merelakan","serelanya"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rela",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68360",
+      "nama": "re.la",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersedia dengan ikhlas hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku -- mati membela tanah tumpah darahku"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "izin (persetujuan); perkenan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedatangan saya ini hendak meminta -- tuan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diterima dengan senang hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua itu kuberikan kepadamu dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mengharap imbalan, dengan kehendak atau kemauan sendiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan suka --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رِضًا riḍā n sg m 'sikap menerima dengan lapang dada']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerelaan",
+          "merelai",
+          "merelakan",
+          "serelanya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

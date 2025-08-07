@@ -1,1 +1,53 @@
-{"word":"ruhulkudus","authenticated":true,"entries":[{"id":"69667","nama":"Ru.hul.ku.dus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"Jibril","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"Roh Kudus","contoh":[]}],"etimologi":{"text":"[Arab رُوْحُ الْقُدْسِ rūḥulquds 'Malaikat Jibril']","languages":["Arab"]}}]}
+{
+  "word": "ruhulkudus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69667",
+      "nama": "Ru.hul.ku.dus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "Jibril",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "Roh Kudus",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رُوْحُ الْقُدْسِ rūḥulquds 'Malaikat Jibril']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

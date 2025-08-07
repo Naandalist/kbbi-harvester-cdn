@@ -1,1 +1,133 @@
-{"word":"rukun","authenticated":true,"entries":[{"id":"70160","nama":"ru.kun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang harus dipenuhi untuk sahnya suatu pekerjaan","contoh":[{"nomor":2,"teks":"tidak sah salat yang tidak cukup syarat dan --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"asas; dasar; sendi","contoh":[{"nomor":2,"teks":"semuanya terlaksana dengan baik, tidak suatu pun yang menyimpang dari --nya"}]}],"etimologi":{"text":"[Arab رُكْنٌ rukn n sg m 'asar; sisi terkuat']","languages":["Arab"]},"terkait":{"kataTurunan":["perukunan","kerukunan","merukunkan"],"gabunganKata":["rukun haji","rukun iman","rukun Islam","rukun nikah","rukun kampung","rukun tani","rukun tetangga","rukun warga"],"peribahasa":[],"idiom":[]}},{"id":"70164","nama":"ru.kun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"baik dan damai; tidak bertengkar (tentang pertalian persahabatan dan sebagainya)","contoh":[{"nomor":2,"teks":"“Ibu berharap kamu berdua dapat hidup --”"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersatu hati; bersepakat","contoh":[{"nomor":2,"teks":"penduduk kampung ini -- sekali"}]}],"etimologi":{"text":"[Arab رُكْنٌ rukn n sg m 'asar; sisi terkuat']","languages":["Arab"]},"terkait":{"kataTurunan":["kerukunan","merukunkan"],"gabunganKata":["rukun kampung","rukun tani","rukun tetangga","rukun warga"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rukun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70160",
+      "nama": "ru.kun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang harus dipenuhi untuk sahnya suatu pekerjaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak sah salat yang tidak cukup syarat dan --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asas; dasar; sendi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semuanya terlaksana dengan baik, tidak suatu pun yang menyimpang dari --nya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رُكْنٌ rukn n sg m 'asar; sisi terkuat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "perukunan",
+          "kerukunan",
+          "merukunkan"
+        ],
+        "gabunganKata": [
+          "rukun haji",
+          "rukun iman",
+          "rukun Islam",
+          "rukun nikah",
+          "rukun kampung",
+          "rukun tani",
+          "rukun tetangga",
+          "rukun warga"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "70164",
+      "nama": "ru.kun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baik dan damai; tidak bertengkar (tentang pertalian persahabatan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "“Ibu berharap kamu berdua dapat hidup --”"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersatu hati; bersepakat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penduduk kampung ini -- sekali"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab رُكْنٌ rukn n sg m 'asar; sisi terkuat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kerukunan",
+          "merukunkan"
+        ],
+        "gabunganKata": [
+          "rukun kampung",
+          "rukun tani",
+          "rukun tetangga",
+          "rukun warga"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

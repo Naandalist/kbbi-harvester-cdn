@@ -1,1 +1,99 @@
-{"word":"rangkap","authenticated":true,"entries":[{"id":"67356","nama":"rang.kap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merangkap","contoh":[]}],"terkait":{"kataTurunan":["merangkap","berangkap","berangkap-rangkapan","merangkapkan","perangkapan"],"gabunganKata":["rangkap jabat"],"peribahasa":[],"idiom":[]}},{"id":"67359","nama":"rang.kap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dua tiga helai melekat menjadi satu; lipat dua (tiga dan sebagainya); kembar; ganda","contoh":[{"nomor":2,"teks":"diketik tiga --"}]}],"terkait":{"kataTurunan":["berangkap","berangkap-rangkapan","merangkap","merangkapkan","perangkapan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"67365","nama":"rang.kap","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jodoh; pasangan","contoh":[{"nomor":2,"teks":"belum mendapat --"}]}]}]}
+{
+  "word": "rangkap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67356",
+      "nama": "rang.kap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merangkap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merangkap",
+          "berangkap",
+          "berangkap-rangkapan",
+          "merangkapkan",
+          "perangkapan"
+        ],
+        "gabunganKata": [
+          "rangkap jabat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67359",
+      "nama": "rang.kap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dua tiga helai melekat menjadi satu; lipat dua (tiga dan sebagainya); kembar; ganda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diketik tiga --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berangkap",
+          "berangkap-rangkapan",
+          "merangkap",
+          "merangkapkan",
+          "perangkapan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67365",
+      "nama": "rang.kap",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jodoh; pasangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "belum mendapat --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

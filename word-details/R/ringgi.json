@@ -1,1 +1,54 @@
-{"word":"ringgi","authenticated":true,"entries":[{"id":"69427","nama":"ring.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Us","nama":"Using","tipe":"lainnya"}],"definisi":"satuan ukuran ikatan padi (1 ringgi 12,5 kati)","contoh":[]}]},{"id":"221739","nama":"ring.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mal","nama":"Melayu Malaysia","tipe":"lainnya"}],"definisi":"padi yang masih muda sekali","contoh":[]}]}]}
+{
+  "word": "ringgi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69427",
+      "nama": "ring.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Us",
+              "nama": "Using",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan ukuran ikatan padi (1 ringgi 12,5 kati)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "221739",
+      "nama": "ring.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mal",
+              "nama": "Melayu Malaysia",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "padi yang masih muda sekali",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

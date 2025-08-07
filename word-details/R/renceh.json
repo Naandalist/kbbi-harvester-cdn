@@ -1,1 +1,54 @@
-{"word":"renceh","authenticated":true,"entries":[{"id":"68615","nama":"ren.ceh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kecil (digunakan dalam beberapa perkataan saja)","contoh":[{"nomor":2,"teks":"selar --"}]}]},{"id":"68616","nama":"ren.ceh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"sisa; kelebihan","contoh":[]}]}]}
+{
+  "word": "renceh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68615",
+      "nama": "ren.ceh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecil (digunakan dalam beberapa perkataan saja)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selar --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68616",
+      "nama": "ren.ceh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sisa; kelebihan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

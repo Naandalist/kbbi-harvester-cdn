@@ -1,1 +1,51 @@
-{"word":"radius","authenticated":true,"entries":[{"id":"66709","nama":"ra.di.us","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jarak dari pusat ke keliling lingkaran; jari-jari (lingkaran)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wilayah yang mengelilingi suatu tempat yang berjarak sama dari titik pusatnya","contoh":[{"nomor":2,"teks":"daerah bahaya gempa itu mencapai -- 50 km dari sumber gempa"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["radius lengkung meridian","radius pelayaran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "radius",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66709",
+      "nama": "ra.di.us",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jarak dari pusat ke keliling lingkaran; jari-jari (lingkaran)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wilayah yang mengelilingi suatu tempat yang berjarak sama dari titik pusatnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daerah bahaya gempa itu mencapai -- 50 km dari sumber gempa"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "radius lengkung meridian",
+          "radius pelayaran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

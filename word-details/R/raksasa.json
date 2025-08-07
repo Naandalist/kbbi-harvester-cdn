@@ -1,1 +1,82 @@
-{"word":"raksasa","authenticated":true,"entries":[{"id":"66972","nama":"rak.sa.sa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"makhluk yang menyerupai manusia, konon berbadan tinggi besar; gergasi; buta","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu yang sangat besar, sangat terkenal di bidang tertentu, dan sebagainya","contoh":[{"nomor":2,"teks":"-- bulu tangkis akan bertarung dalam kejuaraan ini"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"besar sekali (melebihi ukuran biasa)","contoh":[{"nomor":2,"teks":"truk-truk -- telah menghancurkan jalan yang baru dibuat itu"}]}],"terkait":{"kataTurunan":["keraksasaan","meraksasa"],"gabunganKata":["raksasa biru","raksasa es","raksasa merah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "raksasa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66972",
+      "nama": "rak.sa.sa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makhluk yang menyerupai manusia, konon berbadan tinggi besar; gergasi; buta",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang sangat besar, sangat terkenal di bidang tertentu, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bulu tangkis akan bertarung dalam kejuaraan ini"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar sekali (melebihi ukuran biasa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "truk-truk -- telah menghancurkan jalan yang baru dibuat itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keraksasaan",
+          "meraksasa"
+        ],
+        "gabunganKata": [
+          "raksasa biru",
+          "raksasa es",
+          "raksasa merah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

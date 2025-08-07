@@ -1,1 +1,67 @@
-{"word":"rampas","authenticated":true,"entries":[{"id":"67141","nama":"ram.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ambil dengan paksa (dengan kekerasan); rebut","contoh":[{"nomor":2,"teks":"sayang, senjata penjahat itu tidak sempat kami --"}]}],"terkait":{"kataTurunan":["merampas","merampasi","perampas","perampasan","rampasan","terampas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"179854","nama":"ram.pas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"daun jati yang sdh kering","contoh":[]}]}]}
+{
+  "word": "rampas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67141",
+      "nama": "ram.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ambil dengan paksa (dengan kekerasan); rebut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayang, senjata penjahat itu tidak sempat kami --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merampas",
+          "merampasi",
+          "perampas",
+          "perampasan",
+          "rampasan",
+          "terampas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "179854",
+      "nama": "ram.pas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun jati yang sdh kering",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

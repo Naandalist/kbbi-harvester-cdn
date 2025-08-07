@@ -1,1 +1,87 @@
-{"word":"risau","authenticated":true,"entries":[{"id":"69515","nama":"ri.sau","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"buruk kelakuan (suka berbuat jahat)","contoh":[]}],"terkait":{"kataTurunan":["merisau","perisau","kerisauan","merisaukan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"69518","nama":"ri.sau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"gelisah; rusuh hati","contoh":[{"nomor":2,"teks":"hatinya merasa -- bercampur cemas"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"rusuh (kacau, tidak aman)","contoh":[{"nomor":2,"teks":"selama keadaan masih --, tidak mungkin kita dapat hidup dengan tenteram"}]}],"terkait":{"kataTurunan":["kerisauan","merisaukan","perisau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "risau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69515",
+      "nama": "ri.sau",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buruk kelakuan (suka berbuat jahat)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merisau",
+          "perisau",
+          "kerisauan",
+          "merisaukan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69518",
+      "nama": "ri.sau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelisah; rusuh hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya merasa -- bercampur cemas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rusuh (kacau, tidak aman)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama keadaan masih --, tidak mungkin kita dapat hidup dengan tenteram"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kerisauan",
+          "merisaukan",
+          "perisau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

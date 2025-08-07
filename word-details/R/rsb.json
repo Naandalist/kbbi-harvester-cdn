@@ -1,1 +1,59 @@
-{"word":"rsb","authenticated":true,"entries":[{"id":"282802","nama":"RSB","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"remisi sakit berkepanjangan (remisi yang diberikan kepada napi dengan penyakit yang susah disembuhkan, diberikan pada hari kesehatan)","contoh":[]}]},{"id":"93182","nama":"RSB","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"rumah sakit bersalin","contoh":[]}]}]}
+{
+  "word": "rsb",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "282802",
+      "nama": "RSB",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "remisi sakit berkepanjangan (remisi yang diberikan kepada napi dengan penyakit yang susah disembuhkan, diberikan pada hari kesehatan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93182",
+      "nama": "RSB",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rumah sakit bersalin",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

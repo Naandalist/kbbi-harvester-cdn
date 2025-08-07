@@ -1,1 +1,57 @@
-{"word":"rangai","authenticated":true,"entries":[{"id":"67284","nama":"ra.ngai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merangai","contoh":[]}],"terkait":{"kataTurunan":["merangai"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"196654","nama":"ra.ngai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"penganan khas Bangka yang terbuat dari adonan tepung sagu yang dipanggang tipis lalu diisi unti dan digulung","contoh":[]}]}]}
+{
+  "word": "rangai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67284",
+      "nama": "ra.ngai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merangai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merangai"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "196654",
+      "nama": "ra.ngai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penganan khas Bangka yang terbuat dari adonan tepung sagu yang dipanggang tipis lalu diisi unti dan digulung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

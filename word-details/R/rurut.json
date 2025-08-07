@@ -1,1 +1,72 @@
-{"word":"rurut","authenticated":true,"entries":[{"id":"70530","nama":"ru.rut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gugur; jatuh","contoh":[{"nomor":2,"teks":"bunga itu telah -- sebelum mekar"}]}],"terkait":{"kataTurunan":["merurut"],"gabunganKata":["rurut hati"],"peribahasa":[],"idiom":[]}},{"id":"70532","nama":"ru.rut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merurut","contoh":[]}],"terkait":{"kataTurunan":["merurut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rurut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70530",
+      "nama": "ru.rut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gugur; jatuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunga itu telah -- sebelum mekar"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merurut"
+        ],
+        "gabunganKata": [
+          "rurut hati"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "70532",
+      "nama": "ru.rut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merurut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merurut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

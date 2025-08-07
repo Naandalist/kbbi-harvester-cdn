@@ -1,1 +1,113 @@
-{"word":"raba","authenticated":true,"entries":[{"id":"66449","nama":"ra.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jamah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terka; duga","contoh":[]}],"terkait":{"kataTurunan":["meraba","meraba-raba","merabai","peraba","perabaan","raba-rabaan","rabaan","teraba","teraba-raba"],"gabunganKata":["raba nadi"],"peribahasa":["telah meraba-raba tepi kain"],"idiom":[]}},{"id":"66459","nama":"ra.ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial meraba, peraba","contoh":[]}],"terkait":{"kataTurunan":["meraba","peraba"],"gabunganKata":[],"peribahasa":["telah meraba-raba tepi kain"],"idiom":[]}},{"id":"286021","nama":"ra.ba","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"alat musik gesek khas Nias, berbentuk menyerupai rebab, dibuat dari tempurung kelapa dan tangkai kayu; tello","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telah meraba-raba tepi kain"],"idiom":[]}}]}
+{
+  "word": "raba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66449",
+      "nama": "ra.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jamah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terka; duga",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meraba",
+          "meraba-raba",
+          "merabai",
+          "peraba",
+          "perabaan",
+          "raba-rabaan",
+          "rabaan",
+          "teraba",
+          "teraba-raba"
+        ],
+        "gabunganKata": [
+          "raba nadi"
+        ],
+        "peribahasa": [
+          "telah meraba-raba tepi kain"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66459",
+      "nama": "ra.ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial meraba, peraba",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meraba",
+          "peraba"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telah meraba-raba tepi kain"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "286021",
+      "nama": "ra.ba",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat musik gesek khas Nias, berbentuk menyerupai rebab, dibuat dari tempurung kelapa dan tangkai kayu; tello",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telah meraba-raba tepi kain"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

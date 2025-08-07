@@ -1,1 +1,90 @@
-{"word":"raya","authenticated":true,"entries":[{"id":"67827","nama":"ra.ya","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"besar (terbatas pemakaiannya)","contoh":[{"nomor":2,"teks":"alam (jagat) --"},{"nomor":4,"teks":"badak --"},{"nomor":6,"teks":"hari --"},{"nomor":8,"teks":"jalan --"},{"nomor":10,"teks":"purnama --"},{"nomor":12,"teks":"rimba --"}]}],"terkait":{"kataTurunan":["beraya","merayakan","perayaan","terayakan"],"gabunganKata":[],"peribahasa":["sayang anak badak tampung, cucu konon badak raya"],"idiom":[]}},{"id":"100503","nama":"Ra.ya","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ibu kota Kabupaten Simalungun, Provinsi Sumatra Utara","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sayang anak badak tampung, cucu konon badak raya"],"idiom":[]}}]}
+{
+  "word": "raya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67827",
+      "nama": "ra.ya",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar (terbatas pemakaiannya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "alam (jagat) --"
+            },
+            {
+              "nomor": 4,
+              "teks": "badak --"
+            },
+            {
+              "nomor": 6,
+              "teks": "hari --"
+            },
+            {
+              "nomor": 8,
+              "teks": "jalan --"
+            },
+            {
+              "nomor": 10,
+              "teks": "purnama --"
+            },
+            {
+              "nomor": 12,
+              "teks": "rimba --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beraya",
+          "merayakan",
+          "perayaan",
+          "terayakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sayang anak badak tampung, cucu konon badak raya"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100503",
+      "nama": "Ra.ya",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu kota Kabupaten Simalungun, Provinsi Sumatra Utara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sayang anak badak tampung, cucu konon badak raya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

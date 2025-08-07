@@ -1,1 +1,54 @@
-{"word":"rekrut","authenticated":true,"entries":[{"id":"68338","nama":"rek.rut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"calon serdadu (dalam tentara)","contoh":[{"nomor":2,"teks":"sejak umur lima belas tahun ia sudah memasuki -- militer"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anggota baru","contoh":[]}],"terkait":{"kataTurunan":["merekrut","perekrut","perekrutan","rekrutan","terekrut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rekrut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68338",
+      "nama": "rek.rut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon serdadu (dalam tentara)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sejak umur lima belas tahun ia sudah memasuki -- militer"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anggota baru",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merekrut",
+          "perekrut",
+          "perekrutan",
+          "rekrutan",
+          "terekrut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

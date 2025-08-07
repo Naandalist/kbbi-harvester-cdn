@@ -1,1 +1,62 @@
-{"word":"rompak","authenticated":true,"entries":[{"id":"69768","nama":"rom.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merompak","contoh":[]}],"terkait":{"kataTurunan":["merompak","perompak","perompakan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"69771","nama":"rom.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merompak","contoh":[]}],"terkait":{"kataTurunan":["merompak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rompak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69768",
+      "nama": "rom.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merompak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merompak",
+          "perompak",
+          "perompakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69771",
+      "nama": "rom.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merompak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merompak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

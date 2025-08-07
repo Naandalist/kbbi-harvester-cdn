@@ -1,1 +1,66 @@
-{"word":"rapun","authenticated":true,"entries":[{"id":"67584","nama":"ra.pun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"hancur; remuk; pecah","contoh":[]}],"terkait":{"kataTurunan":["merapun","berapun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"67586","nama":"ra.pun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelim yang berkerut","contoh":[]}],"terkait":{"kataTurunan":["berapun"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "rapun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67584",
+      "nama": "ra.pun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "hancur; remuk; pecah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merapun",
+          "berapun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "67586",
+      "nama": "ra.pun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelim yang berkerut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berapun"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

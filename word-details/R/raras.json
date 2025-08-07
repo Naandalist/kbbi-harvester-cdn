@@ -1,1 +1,81 @@
-{"word":"raras","authenticated":true,"entries":[{"id":"67601","nama":"ra.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"luruh semuanya (tentang daun di pohon)","contoh":[]}],"terkait":{"kataTurunan":["merarasi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"149489","nama":"ra.ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"mencuci beras atau biji-bijian yang hendak dimasak","contoh":[]}]},{"id":"133409","nama":"ra.ras","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"gerakan peralihan antara dua adegan dalam tari Sunda","contoh":[]}]}]}
+{
+  "word": "raras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67601",
+      "nama": "ra.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "luruh semuanya (tentang daun di pohon)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "merarasi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "149489",
+      "nama": "ra.ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencuci beras atau biji-bijian yang hendak dimasak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "133409",
+      "nama": "ra.ras",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gerakan peralihan antara dua adegan dalam tari Sunda",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

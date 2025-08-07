@@ -1,1 +1,158 @@
-{"word":"ring","authenticated":true,"entries":[{"id":"69410","nama":"ring","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi seperti bel, ‘ring-ring’","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ring pegas","ring piston","ring seher"],"peribahasa":[],"idiom":[]}},{"id":"69411","nama":"ring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cincin; gelang-gelang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk melakukan berbagai bentuk gerakan (dalam senam ketangkasan atau akrobatik); lingkaran dari besi yang digantungkan pada palang yang kuat (palang besi)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ring pegas","ring piston","ring seher"],"peribahasa":[],"idiom":[]}},{"id":"69412","nama":"ring","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"arena adu tinju; gelanggang tinju","contoh":[{"nomor":2,"teks":"dia berhasil mendesak lawannya ke sudut --"}]}]},{"id":"109501","nama":"ring","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"lingkaran","contoh":[{"nomor":2,"teks":"polisi telah menyiapkan empat -- pengamanan untuk mengawal demonstrasi tersebut"}]}]},{"id":"222650","nama":"ring","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ars","nama":"Arsitektur","tipe":"lainnya"}],"definisi":"kayu, besi, dan sebagainya yang dipasang melintang di bagian atas kap rumah untuk penyangga atap","contoh":[{"nomor":2,"teks":"pemasangan -- di kap rumah harus rapi dan kokoh"}]}]}]}
+{
+  "word": "ring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69410",
+      "nama": "ring",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi seperti bel, ‘ring-ring’",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ring pegas",
+          "ring piston",
+          "ring seher"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69411",
+      "nama": "ring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cincin; gelang-gelang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk melakukan berbagai bentuk gerakan (dalam senam ketangkasan atau akrobatik); lingkaran dari besi yang digantungkan pada palang yang kuat (palang besi)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ring pegas",
+          "ring piston",
+          "ring seher"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "69412",
+      "nama": "ring",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "arena adu tinju; gelanggang tinju",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia berhasil mendesak lawannya ke sudut --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109501",
+      "nama": "ring",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lingkaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi telah menyiapkan empat -- pengamanan untuk mengawal demonstrasi tersebut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "222650",
+      "nama": "ring",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ars",
+              "nama": "Arsitektur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu, besi, dan sebagainya yang dipasang melintang di bagian atas kap rumah untuk penyangga atap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemasangan -- di kap rumah harus rapi dan kokoh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
