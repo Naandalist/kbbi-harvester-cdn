@@ -1,1 +1,48 @@
-{"word":"nyonyot","authenticated":true,"entries":[{"id":"57533","nama":"nyo.nyot","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ nyunyut3","contoh":[]}]},{"id":"282477","nama":"nyo.nyot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"terlalu lembek karena terlalu lama direbus (tentang makanan)","contoh":[{"nomor":2,"teks":"sayuran itu terlalu lama direbus sampai --"}]}]}]}
+{
+  "word": "nyonyot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57533",
+      "nama": "nyo.nyot",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ nyunyut3",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "282477",
+      "nama": "nyo.nyot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "terlalu lembek karena terlalu lama direbus (tentang makanan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayuran itu terlalu lama direbus sampai --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

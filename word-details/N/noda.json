@@ -1,1 +1,75 @@
-{"word":"noda","authenticated":true,"entries":[{"id":"57111","nama":"no.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"noktah (yang menyebabkan kotor); bercak","contoh":[{"nomor":2,"teks":"tampak -- hitam dari tinta pada kemejanya"},{"nomor":4,"teks":"terdapat -- darah pada baju"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"aib; cela; cacat","contoh":[{"nomor":2,"teks":"manusia selalu mempunyai -- dan dosa"}]}],"etimologi":{"text":"[Portugis nódoa nódoa n sg f 'jejak yang ditinggalkan oleh zat kotor atau berminyak']","languages":["Portugis"]},"terkait":{"kataTurunan":["bernoda","menodai","penoda","penodaan","ternoda","ternodai"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "noda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57111",
+      "nama": "no.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "noktah (yang menyebabkan kotor); bercak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tampak -- hitam dari tinta pada kemejanya"
+            },
+            {
+              "nomor": 4,
+              "teks": "terdapat -- darah pada baju"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "aib; cela; cacat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "manusia selalu mempunyai -- dan dosa"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis nódoa nódoa n sg f 'jejak yang ditinggalkan oleh zat kotor atau berminyak']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bernoda",
+          "menodai",
+          "penoda",
+          "penodaan",
+          "ternoda",
+          "ternodai"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

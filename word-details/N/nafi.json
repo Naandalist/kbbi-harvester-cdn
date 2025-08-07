@@ -1,1 +1,64 @@
-{"word":"nafi","authenticated":true,"entries":[{"id":"56112","nama":"na.fi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penolakan; penampikan; pengingkaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sifat negatif","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak mau; tidak menurut","contoh":[]}],"etimologi":{"text":"[Arab نَفْيٌ nafy n sg m 'penegasian']","languages":["Arab"]},"terkait":{"kataTurunan":["menafikan","penafian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "nafi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56112",
+      "nama": "na.fi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penolakan; penampikan; pengingkaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sifat negatif",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mau; tidak menurut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab نَفْيٌ nafy n sg m 'penegasian']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menafikan",
+          "penafian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

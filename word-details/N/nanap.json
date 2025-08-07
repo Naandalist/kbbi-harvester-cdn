@@ -1,1 +1,64 @@
-{"word":"nanap","authenticated":true,"entries":[{"id":"56324","nama":"na.nap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbuka lebar-lebar (tentang mata); melihat dengan mata tidak berkedip; terbeliak","contoh":[{"nomor":2,"teks":"matanya sedang -- menatap ke depan"},{"nomor":4,"teks":"perempuan tua itu menatap anaknya yang pingsan dengan -- dan bersimbah air mata"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"terkejut","contoh":[{"nomor":2,"teks":"dia -- dari tidurnya"}]}],"terkait":{"kataTurunan":["menanap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "nanap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56324",
+      "nama": "na.nap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbuka lebar-lebar (tentang mata); melihat dengan mata tidak berkedip; terbeliak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya sedang -- menatap ke depan"
+            },
+            {
+              "nomor": 4,
+              "teks": "perempuan tua itu menatap anaknya yang pingsan dengan -- dan bersimbah air mata"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terkejut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- dari tidurnya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menanap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

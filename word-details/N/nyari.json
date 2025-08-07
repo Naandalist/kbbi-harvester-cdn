@@ -1,1 +1,59 @@
-{"word":"nyari","authenticated":true,"entries":[{"id":"183270","nama":"nya.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"satuan ukuran panjang dari ujung sampai pangkal telunjuk","contoh":[]}]},{"id":"257333","nama":"nya.ri","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"memeriksa perangkap setelah beberapa waktu dipasang (jerat, bubu, rawai dan sebagainya)","contoh":[{"nomor":2,"teks":"besok kami -- jerat di pinggir ladang"}]}]}]}
+{
+  "word": "nyari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "183270",
+      "nama": "nya.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "satuan ukuran panjang dari ujung sampai pangkal telunjuk",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257333",
+      "nama": "nya.ri",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memeriksa perangkap setelah beberapa waktu dipasang (jerat, bubu, rawai dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "besok kami -- jerat di pinggir ladang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

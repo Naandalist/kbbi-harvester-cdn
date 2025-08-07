@@ -1,1 +1,61 @@
-{"word":"natar","authenticated":true,"entries":[{"id":"56513","nama":"na.tar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dasar warna (pada kain batik dan sebagainya); latar","contoh":[]}],"etimologi":{"text":"[Jawa Kuno natar 'dasar permukaan sepotong kain yang dilukisi pola']","languages":["Jawa Kuno"]}},{"id":"56514","nama":"na.tar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"halaman; pekarangan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno natar 'dasar permukaan sepotong kain yang dilukisi pola']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "natar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56513",
+      "nama": "na.tar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dasar warna (pada kain batik dan sebagainya); latar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno natar 'dasar permukaan sepotong kain yang dilukisi pola']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "56514",
+      "nama": "na.tar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "halaman; pekarangan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno natar 'dasar permukaan sepotong kain yang dilukisi pola']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

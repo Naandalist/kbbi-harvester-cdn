@@ -1,1 +1,117 @@
-{"word":"nas","authenticated":true,"entries":[{"id":"56413","nama":"nas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkataan atau kalimat dari Al-Qur'an atau hadis yang dipakai sebagai alasan atau dasar untuk memutuskan suatu masalah (sebagai pegangan dalam hukum syarak)","contoh":[{"nomor":2,"teks":"saya dapat mengubah pendirian ini kalau saya diberi -- yang sahih"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"teks","contoh":[]}],"etimologi":{"text":"[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']","languages":["Arab"]},"terkait":{"kataTurunan":["bernaskan","menaskan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"228644","nama":"nas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"berhenti sejenak ketika melakukan permainan","contoh":[]}],"etimologi":{"text":"[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']","languages":["Arab"]}},{"id":"268273","nama":"nas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"minuman yang dibuat dari campuran madu, parutan kunyit, dan kuning telur, diminum untuk pemulihan setelah sakit","contoh":[]}],"etimologi":{"text":"[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']","languages":["Arab"]}}]}
+{
+  "word": "nas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56413",
+      "nama": "nas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkataan atau kalimat dari Al-Qur'an atau hadis yang dipakai sebagai alasan atau dasar untuk memutuskan suatu masalah (sebagai pegangan dalam hukum syarak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya dapat mengubah pendirian ini kalau saya diberi -- yang sahih"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teks",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bernaskan",
+          "menaskan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228644",
+      "nama": "nas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berhenti sejenak ketika melakukan permainan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "268273",
+      "nama": "nas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "minuman yang dibuat dari campuran madu, parutan kunyit, dan kuning telur, diminum untuk pemulihan setelah sakit",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab نَصٌّ naṣṣ n sg m 'pangkal; pernyataan pemimpin tertinggi; keputusan; ketetapan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

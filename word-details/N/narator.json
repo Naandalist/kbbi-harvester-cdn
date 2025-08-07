@@ -1,1 +1,55 @@
-{"word":"narator","authenticated":true,"entries":[{"id":"56398","nama":"na.ra.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang bercerita; pencerita","contoh":[{"nomor":2,"teks":"kesan sadis terasa ketika --nya menggambarkan gadis yang dicekik itu matanya melotot dan lidahnya terjulur keluar"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"pencerita atau tokoh dalam naskah yang bercerita kepada penonton tentang kejadian-kejadian dalam cerita dramatik","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["narator tersurat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "narator",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56398",
+      "nama": "na.ra.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang bercerita; pencerita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesan sadis terasa ketika --nya menggambarkan gadis yang dicekik itu matanya melotot dan lidahnya terjulur keluar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pencerita atau tokoh dalam naskah yang bercerita kepada penonton tentang kejadian-kejadian dalam cerita dramatik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "narator tersurat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"word":"normal","authenticated":true,"entries":[{"id":"57252","nama":"nor.mal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menurut aturan atau menurut pola yang umum; sesuai dan tidak menyimpang dari suatu norma atau kaidah; sesuai dengan keadaan yang biasa; tanpa cacat; tidak ada kelainan","contoh":[{"nomor":2,"teks":"bayi itu lahir dalam keadaan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bebas dari gangguan jiwa","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan seperti biasanya","contoh":[{"nomor":2,"teks":"masyarakat memasuki -- baru setelah pandemi berakhir"}]}],"terkait":{"kataTurunan":["kenormalan","ketidaknormalan","menormalisir","menormalkan","penormalan","ternormal"],"gabunganKata":["normal baku klimatologi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "normal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57252",
+      "nama": "nor.mal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurut aturan atau menurut pola yang umum; sesuai dan tidak menyimpang dari suatu norma atau kaidah; sesuai dengan keadaan yang biasa; tanpa cacat; tidak ada kelainan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bayi itu lahir dalam keadaan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bebas dari gangguan jiwa",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan seperti biasanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masyarakat memasuki -- baru setelah pandemi berakhir"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kenormalan",
+          "ketidaknormalan",
+          "menormalisir",
+          "menormalkan",
+          "penormalan",
+          "ternormal"
+        ],
+        "gabunganKata": [
+          "normal baku klimatologi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

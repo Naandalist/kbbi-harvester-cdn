@@ -1,1 +1,105 @@
-{"word":"narasi","authenticated":true,"entries":[{"id":"56395","nama":"na.ra.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kisah; cerita","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"cerita atau deskripsi suatu kejadian atau peristiwa; kisahan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"tema suatu karya seni","contoh":[{"nomor":2,"teks":"-- menyajikan sebuah kejadian yang disusun berdasarkan urutan waktu"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"teks yang menceritakan peristiwa atau kejadian secara detail dan kronologis, dapat berupa fiksi maupun nonfiksi, bertujuan untuk menghibur atau memberikan wawasan kepada pembacanya, biasanya ditulis dalam bentuk novel, cerita pendek, biografi dan lain-lain","contoh":[]}],"terkait":{"kataTurunan":["menarasikan","penarasian"],"gabunganKata":["narasi bohong","narasi ekspositoris","narasi informatif","narasi keagamaan","narasi kebencian","narasi kecurangan","narasi populis","narasi provokatif","narasi puitis","narasi radikalisme","narasi sejarah","narasi sugestif","narasi tandingan","narasi tunggal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "narasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56395",
+      "nama": "na.ra.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kisah; cerita",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "cerita atau deskripsi suatu kejadian atau peristiwa; kisahan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tema suatu karya seni",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- menyajikan sebuah kejadian yang disusun berdasarkan urutan waktu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "teks yang menceritakan peristiwa atau kejadian secara detail dan kronologis, dapat berupa fiksi maupun nonfiksi, bertujuan untuk menghibur atau memberikan wawasan kepada pembacanya, biasanya ditulis dalam bentuk novel, cerita pendek, biografi dan lain-lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menarasikan",
+          "penarasian"
+        ],
+        "gabunganKata": [
+          "narasi bohong",
+          "narasi ekspositoris",
+          "narasi informatif",
+          "narasi keagamaan",
+          "narasi kebencian",
+          "narasi kecurangan",
+          "narasi populis",
+          "narasi provokatif",
+          "narasi puitis",
+          "narasi radikalisme",
+          "narasi sejarah",
+          "narasi sugestif",
+          "narasi tandingan",
+          "narasi tunggal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

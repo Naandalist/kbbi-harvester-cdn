@@ -1,1 +1,35 @@
-{"word":"nonsens","authenticated":true,"entries":[{"id":"57234","nama":"non.sens","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"omong kosong; tidak berarti","contoh":[{"nomor":2,"teks":"segala yang diungkapkannya itu -- belaka"}]}]}]}
+{
+  "word": "nonsens",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57234",
+      "nama": "non.sens",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "omong kosong; tidak berarti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "segala yang diungkapkannya itu -- belaka"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

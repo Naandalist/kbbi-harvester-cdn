@@ -1,1 +1,54 @@
-{"word":"nanang","authenticated":true,"entries":[{"id":"56323","nama":"na.nang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"memikirkan sesuatu dalam-dalam; merenung; tafakur","contoh":[]}]},{"id":"113165","nama":"na.nang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"pergi mencari obat (tentang ritual penyembuhan)","contoh":[{"nomor":2,"teks":"kami menunggu  baliannya --"}]}]}]}
+{
+  "word": "nanang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56323",
+      "nama": "na.nang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikirkan sesuatu dalam-dalam; merenung; tafakur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "113165",
+      "nama": "na.nang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pergi mencari obat (tentang ritual penyembuhan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami menunggu  baliannya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

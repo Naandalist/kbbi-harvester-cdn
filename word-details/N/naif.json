@@ -1,1 +1,56 @@
-{"word":"naif","authenticated":true,"entries":[{"id":"56178","nama":"na.if","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat bersahaja; tidak banyak tingkah; lugu (karena muda dan kurang pengalaman); sederhana","contoh":[{"nomor":2,"teks":"gambar-gambar -- penuh menghiasi dinding kamarnya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"celaka; bodoh; tidak masuk akal","contoh":[{"nomor":2,"teks":"--nya, kerugian sebanyak itu hanya diganti sepertiga"}]}],"terkait":{"kataTurunan":["kenaifan","menaifkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "naif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56178",
+      "nama": "na.if",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat bersahaja; tidak banyak tingkah; lugu (karena muda dan kurang pengalaman); sederhana",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gambar-gambar -- penuh menghiasi dinding kamarnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "celaka; bodoh; tidak masuk akal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya, kerugian sebanyak itu hanya diganti sepertiga"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kenaifan",
+          "menaifkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

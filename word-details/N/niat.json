@@ -1,1 +1,98 @@
-{"word":"niat","authenticated":true,"entries":[{"id":"56918","nama":"ni.at","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"maksud atau tujuan suatu perbuatan","contoh":[{"nomor":2,"teks":"mudah-mudahan -- baik Anda terwujud"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kehendak (keinginan dalam hati) akan melakukan sesuatu","contoh":[{"nomor":2,"teks":"--nya hendak berziarah ke Tanah Suci tahun ini sudah bulat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"janji untuk melakukan sesuatu jika cita-cita atau harapan terkabul; kaul; nazar: [1] berkaul [2] bernazar","contoh":[{"nomor":2,"teks":"janji ditepati, -- harus dibayar"},{"nomor":4,"teks":"memasang --"}]}],"etimologi":{"text":"[Arab نِيَّةٌ niyyah n sg f 'maksud; tekad']","languages":["Arab"]},"terkait":{"kataTurunan":["berniat","berniat-niat","keniatan","meniatkan","niatan","perniatan","terniat"],"gabunganKata":["niat baik","niat hati"],"peribahasa":["ucap habis, niat sampai"],"idiom":[]}}]}
+{
+  "word": "niat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56918",
+      "nama": "ni.at",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maksud atau tujuan suatu perbuatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mudah-mudahan -- baik Anda terwujud"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kehendak (keinginan dalam hati) akan melakukan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya hendak berziarah ke Tanah Suci tahun ini sudah bulat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "janji untuk melakukan sesuatu jika cita-cita atau harapan terkabul; kaul; nazar: [1] berkaul [2] bernazar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "janji ditepati, -- harus dibayar"
+            },
+            {
+              "nomor": 4,
+              "teks": "memasang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab نِيَّةٌ niyyah n sg f 'maksud; tekad']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berniat",
+          "berniat-niat",
+          "keniatan",
+          "meniatkan",
+          "niatan",
+          "perniatan",
+          "terniat"
+        ],
+        "gabunganKata": [
+          "niat baik",
+          "niat hati"
+        ],
+        "peribahasa": [
+          "ucap habis, niat sampai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"word":"net","authenticated":true,"entries":[{"id":"56822","nama":"net","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"jaring yang dibuat khusus untuk permainan olahraga, seperti bulu tangkis dan tenis, dipasang melintang membagi lapangan permainan menjadi dua bagian; jala","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rajut untuk pelindung rambut (sanggul dan sebagainya)","contoh":[]}]},{"id":"221042","nama":"net","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"neto","contoh":[]}]}]}
+{
+  "word": "net",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56822",
+      "nama": "net",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jaring yang dibuat khusus untuk permainan olahraga, seperti bulu tangkis dan tenis, dipasang melintang membagi lapangan permainan menjadi dua bagian; jala",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rajut untuk pelindung rambut (sanggul dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "221042",
+      "nama": "net",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "neto",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

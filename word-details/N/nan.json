@@ -1,1 +1,83 @@
-{"word":"nan","authenticated":true,"entries":[{"id":"166086","nama":"nan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"yang","contoh":[{"nomor":2,"teks":"kekasihku -- jauh di mata"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["dek sukar berkampuh ijuk, nan adat diturut juga","nan lurah jua dituruti air","tergolek di nan datar"],"idiom":["menghunjamkan lutut nan dua"]}},{"id":"202503","nama":"nan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"In","nama":"India","tipe":"lainnya"}],"definisi":"roti pipih beragi yang terbuat dari tepung gandum, permukaannya ditaburi wijen atau jintan hitam, dibumbui dengan bawang dan berbagai rempah, makanan yang populer di beberapa negara Asia","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["dek sukar berkampuh ijuk, nan adat diturut juga","nan lurah jua dituruti air","tergolek di nan datar"],"idiom":["menghunjamkan lutut nan dua"]}}]}
+{
+  "word": "nan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "166086",
+      "nama": "nan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kekasihku -- jauh di mata"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "dek sukar berkampuh ijuk, nan adat diturut juga",
+          "nan lurah jua dituruti air",
+          "tergolek di nan datar"
+        ],
+        "idiom": [
+          "menghunjamkan lutut nan dua"
+        ]
+      }
+    },
+    {
+      "id": "202503",
+      "nama": "nan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "In",
+              "nama": "India",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "roti pipih beragi yang terbuat dari tepung gandum, permukaannya ditaburi wijen atau jintan hitam, dibumbui dengan bawang dan berbagai rempah, makanan yang populer di beberapa negara Asia",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "dek sukar berkampuh ijuk, nan adat diturut juga",
+          "nan lurah jua dituruti air",
+          "tergolek di nan datar"
+        ],
+        "idiom": [
+          "menghunjamkan lutut nan dua"
+        ]
+      }
+    }
+  ]
+}
