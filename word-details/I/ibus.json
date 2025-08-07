@@ -1,1 +1,54 @@
-{"word":"ibus","authenticated":true,"entries":[{"id":"30655","nama":"i.bus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gebang","contoh":[]}]},{"id":"264487","nama":"i.bus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"memasak nasi dalam bambu","contoh":[{"nomor":2,"teks":"kami membawa bambu untuk --"}]}]}]}
+{
+  "word": "ibus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30655",
+      "nama": "i.bus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gebang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "264487",
+      "nama": "i.bus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memasak nasi dalam bambu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami membawa bambu untuk --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

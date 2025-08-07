@@ -1,1 +1,67 @@
-{"word":"injil","authenticated":true,"entries":[{"id":"31872","nama":"In.jil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"kitab suci yang diturunkan kepada Nabi Isa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"bagian kitab suci yang menceritakan kisah hidup dan pelayanan Tuhan Yesus selama di dunia","contoh":[]}],"etimologi":{"text":"[Arab إِنْجِيْلُ injīl n sg m 'kitab suci yang diturunkan pada Nabi Musa']","languages":["Arab"]},"terkait":{"kataTurunan":["menginjil","penginjil","penginjilan"],"gabunganKata":["Injil apokrif","Injil kanonik","Injil sinoptik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "injil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31872",
+      "nama": "In.jil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kitab suci yang diturunkan kepada Nabi Isa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian kitab suci yang menceritakan kisah hidup dan pelayanan Tuhan Yesus selama di dunia",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab إِنْجِيْلُ injīl n sg m 'kitab suci yang diturunkan pada Nabi Musa']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menginjil",
+          "penginjil",
+          "penginjilan"
+        ],
+        "gabunganKata": [
+          "Injil apokrif",
+          "Injil kanonik",
+          "Injil sinoptik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

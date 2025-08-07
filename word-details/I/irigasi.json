@@ -1,1 +1,77 @@
-{"word":"irigasi","authenticated":true,"entries":[{"id":"32377","nama":"i.ri.ga.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengaturan pembagian atau pengaliran air menurut sistem tertentu untuk sawah dan sebagainya; pengairan","contoh":[{"nomor":2,"teks":"saluran -- yang telah rusak hendaknya segera diperbaiki untuk mencegah terjadinya banjir"}]}],"terkait":{"kataTurunan":["beririgasi"],"gabunganKata":["irigasi bawah permukaan","irigasi buatan","irigasi curah","irigasi kabut","irigasi luap","irigasi mikro","irigasi otomatis","irigasi partisipatif","irigasi permukaan","irigasi perpompaan","irigasi pompa","irigasi rotasi","irigasi tembak putar","irigasi tetes"],"peribahasa":[],"idiom":[]}},{"id":"215589","nama":"i.ri.ga.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"larutan steril yang digunakan untuk mencuci atau membersihkan luka","contoh":[]}]}]}
+{
+  "word": "irigasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32377",
+      "nama": "i.ri.ga.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengaturan pembagian atau pengaliran air menurut sistem tertentu untuk sawah dan sebagainya; pengairan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saluran -- yang telah rusak hendaknya segera diperbaiki untuk mencegah terjadinya banjir"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beririgasi"
+        ],
+        "gabunganKata": [
+          "irigasi bawah permukaan",
+          "irigasi buatan",
+          "irigasi curah",
+          "irigasi kabut",
+          "irigasi luap",
+          "irigasi mikro",
+          "irigasi otomatis",
+          "irigasi partisipatif",
+          "irigasi permukaan",
+          "irigasi perpompaan",
+          "irigasi pompa",
+          "irigasi rotasi",
+          "irigasi tembak putar",
+          "irigasi tetes"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "215589",
+      "nama": "i.ri.ga.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "larutan steril yang digunakan untuk mencuci atau membersihkan luka",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

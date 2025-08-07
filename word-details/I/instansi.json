@@ -1,1 +1,79 @@
-{"word":"instansi","authenticated":true,"entries":[{"id":"31992","nama":"in.stan.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"badan pemerintah umum (seperti jawatan, kantor)","contoh":[{"nomor":2,"teks":"kejadian (pelanggaran, penemuan, dan sebagainya) itu harus secepatnya dilaporkan kepada -- yang berwenang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tingkatan (pengadilan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"tahap (dalam rapat dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["instansi daerah","instansi pembina","instansi pemerintah","instansi penyelenggara","instansi pusat","instansi swasta","instansi terkait","instansi vertikal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "instansi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31992",
+      "nama": "in.stan.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "badan pemerintah umum (seperti jawatan, kantor)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kejadian (pelanggaran, penemuan, dan sebagainya) itu harus secepatnya dilaporkan kepada -- yang berwenang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tingkatan (pengadilan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tahap (dalam rapat dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "instansi daerah",
+          "instansi pembina",
+          "instansi pemerintah",
+          "instansi penyelenggara",
+          "instansi pusat",
+          "instansi swasta",
+          "instansi terkait",
+          "instansi vertikal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

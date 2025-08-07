@@ -1,1 +1,66 @@
-{"word":"ingar","authenticated":true,"entries":[{"id":"31780","nama":"i.ngar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"ramai; ribut; gaduh","contoh":[]}],"terkait":{"kataTurunan":["ingar-ingar","mengingari","mengingarkan"],"gabunganKata":["ingar bingar"],"peribahasa":[],"idiom":[]}},{"id":"251217","nama":"i.ngar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"lari karena takut (tentang ikan)","contoh":[{"nomor":2,"teks":"ikan -- mendengar suara gaduh"}]}]}]}
+{
+  "word": "ingar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31780",
+      "nama": "i.ngar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ramai; ribut; gaduh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ingar-ingar",
+          "mengingari",
+          "mengingarkan"
+        ],
+        "gabunganKata": [
+          "ingar bingar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "251217",
+      "nama": "i.ngar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lari karena takut (tentang ikan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ikan -- mendengar suara gaduh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

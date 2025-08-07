@@ -1,1 +1,191 @@
-{"word":"ibu","authenticated":true,"entries":[{"id":"30618","nama":"i.bu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wanita yang telah melahirkan seseorang; ibung; ina; inang; mak","contoh":[{"nomor":2,"teks":"anak harus menyayangi --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan untuk wanita yang sudah bersuami","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sapaan takzim kepada perempuan, baik yang sudah bersuami maupun yang belum","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang pokok (besar, asal, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- jari"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hal yang utama di antara beberapa hal lain; hal terpenting","contoh":[{"nomor":2,"teks":"-- negeri"},{"nomor":4,"teks":"-- kota"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang tua perempuan","contoh":[]}],"terkait":{"kataTurunan":["beribu","beribu-bapak","keibuan","peribuan"],"gabunganKata":["ibu akar","ibu angkat","ibu asuh","ibu ayam","ibu bangsa","ibu bapak","ibu baptis","ibu canang","ibu jari","ibu kaki","ibu kandung","ibu kos","ibu kota","ibu kota kabupaten","ibu kota kecamatan","ibu kota madya","ibu kota negara","ibu kota provinsi","ibu negara","ibu negeri","ibu papan","ibu pasir","ibu pengganti","ibu peri","ibu permandian","ibu pertiwi","ibu pungut","ibu rumah tangga","ibu sambung","ibu siaga","ibu sungai","ibu suri","ibu susu","ibu susuan","ibu tangan","ibu tangga","ibu tangkai daun","ibu tiri"],"peribahasa":["kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak","kasih ibu sepanjang jalan, kasih anak sepanjang penggalan","kecil dikandung ibu, besar dikandung adat, mati dikandung tanah"],"idiom":["bapak angkasa, ibu pertiwi"]}},{"id":"255420","nama":"I.bu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yg dituturkan di wilayah Kabupaten Halmahera Barat, Provinsi Maluku Utara","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak","kasih ibu sepanjang jalan, kasih anak sepanjang penggalan","kecil dikandung ibu, besar dikandung adat, mati dikandung tanah"],"idiom":["bapak angkasa, ibu pertiwi"]}}]}
+{
+  "word": "ibu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30618",
+      "nama": "i.bu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wanita yang telah melahirkan seseorang; ibung; ina; inang; mak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak harus menyayangi --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan untuk wanita yang sudah bersuami",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sapaan takzim kepada perempuan, baik yang sudah bersuami maupun yang belum",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang pokok (besar, asal, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- jari"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hal yang utama di antara beberapa hal lain; hal terpenting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- negeri"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- kota"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang tua perempuan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beribu",
+          "beribu-bapak",
+          "keibuan",
+          "peribuan"
+        ],
+        "gabunganKata": [
+          "ibu akar",
+          "ibu angkat",
+          "ibu asuh",
+          "ibu ayam",
+          "ibu bangsa",
+          "ibu bapak",
+          "ibu baptis",
+          "ibu canang",
+          "ibu jari",
+          "ibu kaki",
+          "ibu kandung",
+          "ibu kos",
+          "ibu kota",
+          "ibu kota kabupaten",
+          "ibu kota kecamatan",
+          "ibu kota madya",
+          "ibu kota negara",
+          "ibu kota provinsi",
+          "ibu negara",
+          "ibu negeri",
+          "ibu papan",
+          "ibu pasir",
+          "ibu pengganti",
+          "ibu peri",
+          "ibu permandian",
+          "ibu pertiwi",
+          "ibu pungut",
+          "ibu rumah tangga",
+          "ibu sambung",
+          "ibu siaga",
+          "ibu sungai",
+          "ibu suri",
+          "ibu susu",
+          "ibu susuan",
+          "ibu tangan",
+          "ibu tangga",
+          "ibu tangkai daun",
+          "ibu tiri"
+        ],
+        "peribahasa": [
+          "kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak",
+          "kasih ibu sepanjang jalan, kasih anak sepanjang penggalan",
+          "kecil dikandung ibu, besar dikandung adat, mati dikandung tanah"
+        ],
+        "idiom": [
+          "bapak angkasa, ibu pertiwi"
+        ]
+      }
+    },
+    {
+      "id": "255420",
+      "nama": "I.bu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yg dituturkan di wilayah Kabupaten Halmahera Barat, Provinsi Maluku Utara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kalau ibu kaya, anak jadi putri, kalau anak kaya, ibu jadi budak",
+          "kasih ibu sepanjang jalan, kasih anak sepanjang penggalan",
+          "kecil dikandung ibu, besar dikandung adat, mati dikandung tanah"
+        ],
+        "idiom": [
+          "bapak angkasa, ibu pertiwi"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"isi perut","authenticated":true,"entries":[{"id":"32467","nama":"isi perut","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"bagian tubuh yang ada di dalam perut (seperti usus, perut besar)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"makan1","contoh":[{"nomor":2,"teks":"ia mengemis untuk -- perut"}]},{"nomor":"3","kelasKata":[{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"perasaan hati, apa yang terpikirkan di dalam hati","contoh":[]},{"nomor":"4","kelasKata":[],"definisi":"makanan; rezeki","contoh":[{"nomor":2,"teks":"siang malam bekerja keras mencari -- perut bagi anak istrinya"}]}],"rootWord":"isi"}]}
+{
+  "word": "isi perut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32467",
+      "nama": "isi perut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "bagian tubuh yang ada di dalam perut (seperti usus, perut besar)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makan1",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mengemis untuk -- perut"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perasaan hati, apa yang terpikirkan di dalam hati",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [],
+          "definisi": "makanan; rezeki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siang malam bekerja keras mencari -- perut bagi anak istrinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "isi"
+    }
+  ]
+}

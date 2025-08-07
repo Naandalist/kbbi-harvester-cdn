@@ -1,1 +1,64 @@
-{"word":"isi ulang","authenticated":true,"entries":[{"id":"186818","nama":"i.si u.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisi kembali","contoh":[{"nomor":2,"teks":"-- token listrik"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"produk yang digunakan untuk mengisi kembali persediaan bahan dalam suatu wadah yang sudah habis","contoh":[{"nomor":2,"teks":"sabun --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang disediakan kembali, misalnya minuman di rumah makan","contoh":[{"nomor":2,"teks":"es teh --"}]}]}]}
+{
+  "word": "isi ulang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "186818",
+      "nama": "i.si u.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisi kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- token listrik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "produk yang digunakan untuk mengisi kembali persediaan bahan dalam suatu wadah yang sudah habis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sabun --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang disediakan kembali, misalnya minuman di rumah makan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "es teh --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

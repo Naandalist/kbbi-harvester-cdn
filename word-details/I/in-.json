@@ -1,1 +1,82 @@
-{"word":"in-","authenticated":true,"entries":[{"id":"99245","nama":"in-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"tidak","contoh":[{"nomor":2,"teks":"inkonvensional; indisipliner; infertil"}]}]},{"id":"187854","nama":"-in-","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"infiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"hasil","contoh":[{"nomor":2,"teks":"kinerja"},{"nomor":4,"teks":"kinasih"}]}]},{"id":"187855","nama":"-in-","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"infiks pembentuk verba","nama":"-","tipe":"lainnya"}],"definisi":"berlanjut","contoh":[{"nomor":2,"teks":"sinambung"}]}]}]}
+{
+  "word": "in-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "99245",
+      "nama": "in-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "inkonvensional; indisipliner; infertil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "187854",
+      "nama": "-in-",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "infiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hasil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kinerja"
+            },
+            {
+              "nomor": 4,
+              "teks": "kinasih"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "187855",
+      "nama": "-in-",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "infiks pembentuk verba",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berlanjut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sinambung"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"imbuh","authenticated":true,"entries":[{"id":"31355","nama":"im.buh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tambahan (tidak banyak) pada barang yang ditimbang, dibeli, dimakan, dan sebagainya","contoh":[{"nomor":2,"teks":"kalau membeli barang banyak, biasanya mendapat --"}]}],"etimologi":{"text":"[Jawa Kuno imbuh 'tambahan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berimbuh","berimbuhan","imbuhan","mengimbuh","mengimbuhi","mengimbuhkan","peimbuh","pengimbuh","pengimbuhan","perimbuhan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"147140","nama":"im.buh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"anak ayam yang mati sebelum menetas","contoh":[]}],"etimologi":{"text":"[Jawa Kuno imbuh 'tambahan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "imbuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31355",
+      "nama": "im.buh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tambahan (tidak banyak) pada barang yang ditimbang, dibeli, dimakan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau membeli barang banyak, biasanya mendapat --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno imbuh 'tambahan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berimbuh",
+          "berimbuhan",
+          "imbuhan",
+          "mengimbuh",
+          "mengimbuhi",
+          "mengimbuhkan",
+          "peimbuh",
+          "pengimbuh",
+          "pengimbuhan",
+          "perimbuhan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "147140",
+      "nama": "im.buh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak ayam yang mati sebelum menetas",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno imbuh 'tambahan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

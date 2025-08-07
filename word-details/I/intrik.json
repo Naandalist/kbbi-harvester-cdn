@@ -1,1 +1,55 @@
-{"word":"intrik","authenticated":true,"entries":[{"id":"32230","nama":"in.trik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyebaran kabar bohong yang sengaja untuk menjatuhkan lawan","contoh":[{"nomor":2,"teks":"mereka melakukan -- guna menghancurkan pihak lawan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"perilaku tokoh-tokoh yang bersekongkol untuk menjatuhkan tokoh lain","contoh":[]}],"terkait":{"kataTurunan":["berintrik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "intrik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32230",
+      "nama": "in.trik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyebaran kabar bohong yang sengaja untuk menjatuhkan lawan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka melakukan -- guna menghancurkan pihak lawan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perilaku tokoh-tokoh yang bersekongkol untuk menjatuhkan tokoh lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berintrik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,68 @@
-{"word":"interaktif","authenticated":true,"entries":[{"id":"32087","nama":"in.ter.ak.tif","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersifat saling melakukan aksi; antarhubungan; saling aktif","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"berkaitan dengan dialog antara komputer dan terminal atau antara komputer dan komputer","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"keadaan yang ditandai dengan pertukaran percakapan dari masukan dan keluaran, seperti ketika pengguna memasukkan pertanyaan atau perintah dan sistem segera memberikan tanggapan","contoh":[]}],"terkait":{"kataTurunan":["keinteraktifan","seinteraktif"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "interaktif",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32087",
+      "nama": "in.ter.ak.tif",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersifat saling melakukan aksi; antarhubungan; saling aktif",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkaitan dengan dialog antara komputer dan terminal atau antara komputer dan komputer",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "keadaan yang ditandai dengan pertukaran percakapan dari masukan dan keluaran, seperti ketika pengguna memasukkan pertanyaan atau perintah dan sistem segera memberikan tanggapan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keinteraktifan",
+          "seinteraktif"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"word":"individu","authenticated":true,"entries":[{"id":"31606","nama":"in.di.vi.du","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang seorang; pribadi orang (terpisah dari yang lain)","contoh":[{"nomor":2,"teks":"tindakan yang demikian itu berarti mengutamakan kepentingan -- belaka"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"organisme yang hidupnya berdiri sendiri, secara fisiologis ia bersifat bebas (tidak mempunyai hubungan organik dengan sesamanya)","contoh":[]}]}]}
+{
+  "word": "individu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31606",
+      "nama": "in.di.vi.du",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang seorang; pribadi orang (terpisah dari yang lain)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tindakan yang demikian itu berarti mengutamakan kepentingan -- belaka"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "organisme yang hidupnya berdiri sendiri, secara fisiologis ia bersifat bebas (tidak mempunyai hubungan organik dengan sesamanya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

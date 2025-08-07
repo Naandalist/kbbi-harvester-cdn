@@ -1,1 +1,71 @@
-{"word":"ibung","authenticated":true,"entries":[{"id":"30654","nama":"i.bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"ibu; mak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"bibi","contoh":[]}]},{"id":"234078","nama":"i.bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Buo","nama":"Buol","tipe":"lainnya"}],"definisi":"tikar yang diikat kemudian dijahit sebagai tempat untuk menyimpan padi di rumah","contoh":[]}]}]}
+{
+  "word": "ibung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30654",
+      "nama": "i.bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu; mak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bibi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "234078",
+      "nama": "i.bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Buo",
+              "nama": "Buol",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tikar yang diikat kemudian dijahit sebagai tempat untuk menyimpan padi di rumah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

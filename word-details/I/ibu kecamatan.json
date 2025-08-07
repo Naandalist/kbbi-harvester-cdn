@@ -1,1 +1,56 @@
-{"word":"ibukecamatan","authenticated":true,"entries":[{"id":"1","nama":"ibu.ke.ca.mat.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"istri camat","contoh":[{"nomor":1,"teks":""}]}],"rootWord":"ibukecamatibukecamatan"},{"id":"2","nama":"ibu.ke.ca.mat.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepala pemerintahan kecamatan (perempuan)","contoh":[{"nomor":1,"teks":""}]}],"rootWord":"ibukecamatibukecamatan"}]}
+{
+  "word": "ibukecamatan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ibu.ke.ca.mat.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "istri camat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": ""
+            }
+          ]
+        }
+      ],
+      "rootWord": "ibukecamatibukecamatan"
+    },
+    {
+      "id": "2",
+      "nama": "ibu.ke.ca.mat.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala pemerintahan kecamatan (perempuan)",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": ""
+            }
+          ]
+        }
+      ],
+      "rootWord": "ibukecamatibukecamatan"
+    }
+  ]
+}

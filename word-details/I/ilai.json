@@ -1,1 +1,70 @@
-{"word":"ilai","authenticated":true,"entries":[{"id":"31090","nama":"i.lai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ringkik (tentang kuda)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno ilay 'cara bergerak, cara bertingkah laku (bersikap dan lain-lain)']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["mengilai","mengilai-ilai"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"31093","nama":"i.lai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"alat musik khas Banjar, dibuat dari bambu","contoh":[]}],"etimologi":{"text":"[Jawa Kuno ilay 'cara bergerak, cara bertingkah laku (bersikap dan lain-lain)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "ilai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31090",
+      "nama": "i.lai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ringkik (tentang kuda)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno ilay 'cara bergerak, cara bertingkah laku (bersikap dan lain-lain)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengilai",
+          "mengilai-ilai"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "31093",
+      "nama": "i.lai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat musik khas Banjar, dibuat dari bambu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno ilay 'cara bergerak, cara bertingkah laku (bersikap dan lain-lain)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

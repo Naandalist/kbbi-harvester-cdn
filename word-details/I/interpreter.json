@@ -1,1 +1,68 @@
-{"word":"interpreter","authenticated":true,"entries":[{"id":"32156","nama":"in.ter.pre.ter","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menginterpretasikan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"sumber daya lunak pada komputer yang bertugas menerjemahkan bahasa komputer ke dalam bahasa mesin agar dapat dikerjakan oleh komputer","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"program yang mengambil setiap baris program sumber secara berurutan dan menerjemahkannya ke bentuk lain, yaitu kode mesin pada saat dijalankan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["interpreter simultan","interpreter wisata"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "interpreter",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32156",
+      "nama": "in.ter.pre.ter",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menginterpretasikan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sumber daya lunak pada komputer yang bertugas menerjemahkan bahasa komputer ke dalam bahasa mesin agar dapat dikerjakan oleh komputer",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "program yang mengambil setiap baris program sumber secara berurutan dan menerjemahkannya ke bentuk lain, yaitu kode mesin pada saat dijalankan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "interpreter simultan",
+          "interpreter wisata"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

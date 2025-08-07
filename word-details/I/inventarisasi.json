@@ -1,1 +1,70 @@
-{"word":"inventarisasi","authenticated":true,"entries":[{"id":"32267","nama":"in.ven.ta.ri.sa.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"}],"definisi":"pencatatan atau pendaftaran barang-barang milik kantor, (sekolah, rumah tangga, dan sebagainya) yang dipakai dalam melaksanakan tugas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Adm","nama":"Administrasi dan Kepegawaian","tipe":"lainnya"}],"definisi":"pencatatan atau pengumpulan data (tentang kegiatan, hasil yang dicapai, pendapat umum, persuratkabaran, kebudayaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"sekarang sedang diadakan -- bahasa daerah di Indonesia"},{"nomor":4,"teks":"pemerintah mengadakan -- tenaga asing"}]}],"terkait":{"kataTurunan":["menginventarisasi","menginventarisasikan","penginventarisasian","terinventarisasi"],"gabunganKata":["inventarisasi hutan","inventarisasi kosakata"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "inventarisasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32267",
+      "nama": "in.ven.ta.ri.sa.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pencatatan atau pendaftaran barang-barang milik kantor, (sekolah, rumah tangga, dan sebagainya) yang dipakai dalam melaksanakan tugas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Adm",
+              "nama": "Administrasi dan Kepegawaian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pencatatan atau pengumpulan data (tentang kegiatan, hasil yang dicapai, pendapat umum, persuratkabaran, kebudayaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekarang sedang diadakan -- bahasa daerah di Indonesia"
+            },
+            {
+              "nomor": 4,
+              "teks": "pemerintah mengadakan -- tenaga asing"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menginventarisasi",
+          "menginventarisasikan",
+          "penginventarisasian",
+          "terinventarisasi"
+        ],
+        "gabunganKata": [
+          "inventarisasi hutan",
+          "inventarisasi kosakata"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

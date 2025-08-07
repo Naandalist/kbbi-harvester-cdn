@@ -1,1 +1,211 @@
-{"word":"i","authenticated":true,"entries":[{"id":"30559","nama":"I","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huruf ke-9 abjad Indonesia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf i","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lambang bilangan I (dengan huruf kapital) angka Romawi","contoh":[]}]},{"id":"266059","nama":"I","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"lambang untuk iodin","contoh":[]}]},{"id":"182400","nama":"I","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"kata sandang yang dipakai di depan nama seseorang perempuan Bugis","contoh":[{"nomor":2,"teks":"[I] Siti memasak"}]}]},{"id":"30564","nama":"-i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk adjektiva","nama":"-","tipe":"lainnya"}],"definisi":"berkenaan dengan; berdasar pada","contoh":[{"nomor":2,"teks":"alami"},{"nomor":4,"teks":"alamiah"},{"nomor":6,"teks":"badani"},{"nomor":8,"teks":"badaniah"},{"nomor":10,"teks":"duniawi"},{"nomor":12,"teks":"duniawiah"},{"nomor":14,"teks":"surgawi"},{"nomor":16,"teks":"gerejani"}]}]},{"id":"30565","nama":"-i","nomor":"25","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk verba","nama":"-","tipe":"lainnya"}],"definisi":"memberikan","contoh":[{"nomor":2,"teks":"sampuli"},{"nomor":4,"teks":"selimuti"},{"nomor":6,"teks":"pagari"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk verba","nama":"-","tipe":"lainnya"}],"definisi":"berulang-ulang","contoh":[{"nomor":2,"teks":"lempari"},{"nomor":4,"teks":"pukuli"},{"nomor":6,"teks":"sirami"}]}]}]}
+{
+  "word": "i",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30559",
+      "nama": "I",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huruf ke-9 abjad Indonesia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf i",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lambang bilangan I (dengan huruf kapital) angka Romawi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "266059",
+      "nama": "I",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "lambang untuk iodin",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "182400",
+      "nama": "I",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata sandang yang dipakai di depan nama seseorang perempuan Bugis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "[I] Siti memasak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30564",
+      "nama": "-i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk adjektiva",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkenaan dengan; berdasar pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "alami"
+            },
+            {
+              "nomor": 4,
+              "teks": "alamiah"
+            },
+            {
+              "nomor": 6,
+              "teks": "badani"
+            },
+            {
+              "nomor": 8,
+              "teks": "badaniah"
+            },
+            {
+              "nomor": 10,
+              "teks": "duniawi"
+            },
+            {
+              "nomor": 12,
+              "teks": "duniawiah"
+            },
+            {
+              "nomor": 14,
+              "teks": "surgawi"
+            },
+            {
+              "nomor": 16,
+              "teks": "gerejani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30565",
+      "nama": "-i",
+      "nomor": "25",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk verba",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memberikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sampuli"
+            },
+            {
+              "nomor": 4,
+              "teks": "selimuti"
+            },
+            {
+              "nomor": 6,
+              "teks": "pagari"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk verba",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berulang-ulang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lempari"
+            },
+            {
+              "nomor": 4,
+              "teks": "pukuli"
+            },
+            {
+              "nomor": 6,
+              "teks": "sirami"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

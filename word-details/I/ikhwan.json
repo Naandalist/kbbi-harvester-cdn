@@ -1,1 +1,71 @@
-{"word":"ikhwan","authenticated":true,"entries":[{"id":"30972","nama":"ikh.wan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"saudara; teman","contoh":[{"nomor":2,"teks":"tidak seorang pun di antara --nya mengetahui hal itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"sebutan untuk laki-laki muslim","contoh":[]}],"etimologi":{"text":"[Arab إِخْوَانٌ ikhwān n pl m 'saudara; teman']","languages":["Arab"]},"terkait":{"kataTurunan":["seikhwan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ikhwan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30972",
+      "nama": "ikh.wan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "saudara; teman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak seorang pun di antara --nya mengetahui hal itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sebutan untuk laki-laki muslim",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab إِخْوَانٌ ikhwān n pl m 'saudara; teman']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "seikhwan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

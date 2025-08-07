@@ -1,1 +1,54 @@
-{"word":"indi","authenticated":true,"entries":[{"id":"94070","nama":"in.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perusahaan kecil dan mandiri, terutama yang berkaitan dengan musik atau film","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"karya seni yang diproduksi oleh perusahaan kecil dan independen","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkaitan dengan perusahaan kecil dan mandiri yang berkaitan dengan musik dan film atau dengan karya seni yang diproduksinya","contoh":[{"nomor":2,"teks":"musik --; film --"}]}]}]}
+{
+  "word": "indi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "94070",
+      "nama": "in.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perusahaan kecil dan mandiri, terutama yang berkaitan dengan musik atau film",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karya seni yang diproduksi oleh perusahaan kecil dan independen",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkaitan dengan perusahaan kecil dan mandiri yang berkaitan dengan musik dan film atau dengan karya seni yang diproduksinya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "musik --; film --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

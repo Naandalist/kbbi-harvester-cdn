@@ -1,1 +1,85 @@
-{"word":"imbang","authenticated":true,"entries":[{"id":"31321","nama":"im.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"setimbang; sebanding; sama (berat, derajat, ukuran, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["berimbang","berimbangan","imbang-imbangan","imbangan","keberimbangan","keimbangan","keseimbangan","ketidakseimbangan","memperimbang","memperseimbangkan","mengimbangi","mengimbangkan","menyeimbangkan","pengimbang","pengimbangan","penyeimbang","penyeimbangan","perimbangan","seimbang","mengimbang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"31337","nama":"im.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bimbang","contoh":[]}],"terkait":{"kataTurunan":["imbang-imbangan","mengimbang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "imbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31321",
+      "nama": "im.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "setimbang; sebanding; sama (berat, derajat, ukuran, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berimbang",
+          "berimbangan",
+          "imbang-imbangan",
+          "imbangan",
+          "keberimbangan",
+          "keimbangan",
+          "keseimbangan",
+          "ketidakseimbangan",
+          "memperimbang",
+          "memperseimbangkan",
+          "mengimbangi",
+          "mengimbangkan",
+          "menyeimbangkan",
+          "pengimbang",
+          "pengimbangan",
+          "penyeimbang",
+          "penyeimbangan",
+          "perimbangan",
+          "seimbang",
+          "mengimbang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "31337",
+      "nama": "im.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bimbang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "imbang-imbangan",
+          "mengimbang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

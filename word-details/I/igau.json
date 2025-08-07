@@ -1,1 +1,67 @@
-{"word":"igau","authenticated":true,"entries":[{"id":"30749","nama":"i.gau","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"racau; berkata-kata (dalam tidur) tanpa sadar","contoh":[]}],"terkait":{"kataTurunan":["igau-igauan","igauan","mengigau","mengigaukan","pengigau","terigau-igau","terigau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"30756","nama":"i.gau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hura-hura; gempar","contoh":[]}],"terkait":{"kataTurunan":["igau-igauan","terigau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "igau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30749",
+      "nama": "i.gau",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "racau; berkata-kata (dalam tidur) tanpa sadar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "igau-igauan",
+          "igauan",
+          "mengigau",
+          "mengigaukan",
+          "pengigau",
+          "terigau-igau",
+          "terigau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "30756",
+      "nama": "i.gau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hura-hura; gempar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "igau-igauan",
+          "terigau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

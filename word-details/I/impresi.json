@@ -1,1 +1,101 @@
-{"word":"impresi","authenticated":true,"entries":[{"id":"31455","nama":"im.pre.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kesan","contoh":[{"nomor":2,"teks":"saya mempunyai -- bahwa ia bukan orang yang dapat dipercaya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"efek pada indra","contoh":[{"nomor":2,"teks":"-- visual (melalui mata)"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"efek atau pengaruh yang dalam terhadap pikiran atau perasaan","contoh":[{"nomor":2,"teks":"pidatonya memberikan -- yang dalam pada hadirin"}]}],"terkait":{"kataTurunan":["mengimpresi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"31456","nama":"im.pre.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Anat","nama":"Anatomi","tipe":"lainnya"}],"definisi":"lekukan pada suatu struktur karena adanya tekanan struktur lain","contoh":[]}]}]}
+{
+  "word": "impresi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31455",
+      "nama": "im.pre.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya mempunyai -- bahwa ia bukan orang yang dapat dipercaya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "efek pada indra",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- visual (melalui mata)"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "efek atau pengaruh yang dalam terhadap pikiran atau perasaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pidatonya memberikan -- yang dalam pada hadirin"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengimpresi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "31456",
+      "nama": "im.pre.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Anat",
+              "nama": "Anatomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lekukan pada suatu struktur karena adanya tekanan struktur lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

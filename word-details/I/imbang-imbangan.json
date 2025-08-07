@@ -1,1 +1,56 @@
-{"word":"imbang-imbangan","authenticated":true,"entries":[{"id":"31327","nama":"im.bang-im.bang.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hampir sama beratnya (kuatnya, kuasanya, dan sebagainya)","contoh":[{"nomor":2,"teks":"kekuatan kedua petinju itu sebenarnya ~"}]}],"rootWord":"imbang¹"},{"id":"31339","nama":"im.bang-im.bang.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bimbang; ragu-ragu","contoh":[{"nomor":2,"teks":"hati di dalam ~"}]}],"rootWord":"imbang²"}]}
+{
+  "word": "imbang-imbangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31327",
+      "nama": "im.bang-im.bang.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampir sama beratnya (kuatnya, kuasanya, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kekuatan kedua petinju itu sebenarnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "imbang¹"
+    },
+    {
+      "id": "31339",
+      "nama": "im.bang-im.bang.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bimbang; ragu-ragu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati di dalam ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "imbang²"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"word":"intelek","authenticated":true,"entries":[{"id":"32060","nama":"in.te.lek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"daya atau proses pemikiran yang lebih tinggi yang berkenaan dengan pengetahuan; daya akal budi; kecerdasan berpikir","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terpelajar; cendekia","contoh":[{"nomor":2,"teks":"kaum --"}]}],"terkait":{"kataTurunan":["berintelek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "intelek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32060",
+      "nama": "in.te.lek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "daya atau proses pemikiran yang lebih tinggi yang berkenaan dengan pengetahuan; daya akal budi; kecerdasan berpikir",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terpelajar; cendekia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaum --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berintelek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

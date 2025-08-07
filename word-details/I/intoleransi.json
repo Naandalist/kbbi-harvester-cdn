@@ -1,1 +1,64 @@
-{"word":"intoleransi","authenticated":true,"entries":[{"id":"32211","nama":"in.to.le.ran.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ketiadaan tenggang rasa","contoh":[{"nomor":2,"teks":"tindak kekerasan itu dipicu oleh adanya -- di antara beberapa kelompok pemuda"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gz","nama":"Ilmu Gizi","tipe":"lainnya"}],"definisi":"ketakmampuan untuk makan atau minum makanan, bahan, atau zat tertentu, serta untuk mengonsumsi obat tertentu, tanpa reaksi alergi atau sakit","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["intoleransi disakarida","intoleransi fruktosa","intoleransi fruktosa herediter","intoleransi glukosa","intoleransi gluten","intoleransi histamin","intoleransi laktosa","intoleransi makanan","intoleransi pangan","intoleransi protein"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "intoleransi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32211",
+      "nama": "in.to.le.ran.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketiadaan tenggang rasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tindak kekerasan itu dipicu oleh adanya -- di antara beberapa kelompok pemuda"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gz",
+              "nama": "Ilmu Gizi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ketakmampuan untuk makan atau minum makanan, bahan, atau zat tertentu, serta untuk mengonsumsi obat tertentu, tanpa reaksi alergi atau sakit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "intoleransi disakarida",
+          "intoleransi fruktosa",
+          "intoleransi fruktosa herediter",
+          "intoleransi glukosa",
+          "intoleransi gluten",
+          "intoleransi histamin",
+          "intoleransi laktosa",
+          "intoleransi makanan",
+          "intoleransi pangan",
+          "intoleransi protein"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

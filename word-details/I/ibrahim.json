@@ -1,1 +1,48 @@
-{"word":"ibrahim","authenticated":true,"entries":[{"id":"145750","nama":"Ib.ra.him","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"nabi dan rasul keenam yang diutus Allah Swt., dikenal sebagai bapak para nabi, dan peletak pertama fondasi Ka'bah di Makkah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"surah ke-14 dalam Al-Qur'an","contoh":[]}],"etimologi":{"text":"[Arab إِبْرَاهِيْمُ ibrāhīm n sg m 'ayah Nabi Ismail']","languages":["Arab"]}}]}
+{
+  "word": "ibrahim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "145750",
+      "nama": "Ib.ra.him",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nabi dan rasul keenam yang diutus Allah Swt., dikenal sebagai bapak para nabi, dan peletak pertama fondasi Ka'bah di Makkah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surah ke-14 dalam Al-Qur'an",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab إِبْرَاهِيْمُ ibrāhīm n sg m 'ayah Nabi Ismail']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

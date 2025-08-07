@@ -1,1 +1,63 @@
-{"word":"ilas","authenticated":true,"entries":[{"id":"31103","nama":"i.las","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"injak sampai hancur","contoh":[]}],"terkait":{"kataTurunan":["mengilas","pengilas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"146360","nama":"i.las","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"perubahan tingkah laku seseorang menjelang kematian","contoh":[]}]}]}
+{
+  "word": "ilas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31103",
+      "nama": "i.las",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "injak sampai hancur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengilas",
+          "pengilas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "146360",
+      "nama": "i.las",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "perubahan tingkah laku seseorang menjelang kematian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

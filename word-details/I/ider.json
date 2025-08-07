@@ -1,1 +1,87 @@
-{"word":"ider","authenticated":true,"entries":[{"id":"186994","nama":"i.der","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berjualan dengan cara berkeliling","contoh":[]}],"terkait":{"kataTurunan":["ideran","pengider"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"115852","nama":"i.der","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"alat yang terbuat dari anyaman bilah bambu seperti ayakan berbentuk kotak kubus, terdapat pegangan di sisi kanan dan kiri, digunakan untuk memisahkan ikan besar dan ikan kecil","contoh":[]}]},{"id":"115855","nama":"i.der","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mencari dukungan dengan cara mendatangi satu per satu","contoh":[{"nomor":2,"teks":"untuk menjaring suara, calon kepala desa biasanya -- mengunjungi tokoh masyarakat"}]}]}]}
+{
+  "word": "ider",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "186994",
+      "nama": "i.der",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjualan dengan cara berkeliling",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ideran",
+          "pengider"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "115852",
+      "nama": "i.der",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat yang terbuat dari anyaman bilah bambu seperti ayakan berbentuk kotak kubus, terdapat pegangan di sisi kanan dan kiri, digunakan untuk memisahkan ikan besar dan ikan kecil",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "115855",
+      "nama": "i.der",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencari dukungan dengan cara mendatangi satu per satu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk menjaring suara, calon kepala desa biasanya -- mengunjungi tokoh masyarakat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
