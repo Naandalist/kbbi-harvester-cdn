@@ -1,1 +1,81 @@
-{"word":"galih","authenticated":true,"entries":[{"id":"24019","nama":"ga.lih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"teras kayu yang keras dan berwarna hitam karena tuanya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["galih kelor"],"peribahasa":[],"idiom":[]}},{"id":"201611","nama":"ga.lih","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bunga kunyit","contoh":[]}]},{"id":"282025","nama":"ga.lih","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"buah durian yang bagus tanpa cacat atau busuk","contoh":[]}]}]}
+{
+  "word": "galih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24019",
+      "nama": "ga.lih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teras kayu yang keras dan berwarna hitam karena tuanya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "galih kelor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "201611",
+      "nama": "ga.lih",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bunga kunyit",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "282025",
+      "nama": "ga.lih",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buah durian yang bagus tanpa cacat atau busuk",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

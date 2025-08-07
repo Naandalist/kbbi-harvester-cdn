@@ -1,1 +1,164 @@
-{"word":"gelar","authenticated":true,"entries":[{"id":"25259","nama":"ge.lar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sebutan kehormatan, kebangsawanan, atau kesarjanaan yang biasanya ditambahkan pada nama orang, seperti raden, tengku, doktor, sarjana ekonomi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama tambahan sesudah nikah atau setelah tua (sebagai kehormatan)","contoh":[{"nomor":2,"teks":"ia diberi -- sutan"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"julukan yang berhubungan dengan keadaan atau tabiat orang; sebutan","contoh":[{"nomor":2,"teks":"ia mendapat -- srikandi dari kawan-kawannya"}]}],"etimologi":{"text":"[Jawa Kuno gělar 'bentangan, susunan dan lain-lain; penyebaran (formasi) pasukan, gelar perang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bergelar","menggelari","gelaran","mempergelarkan","menggelar","menggelarkan","pegelaran","penggelaran","pergelaran","tergelar"],"gabunganKata":["gelar adat","gelar akademik","gelar akademis","gelar ganda","gelar hiburan","gelar keagamaan","gelar kehormatan","gelar liga","gelar mediasi","gelar pascasarjana","gelar perkara","gelar profesi","gelar pusaka","gelar vokasi","gelar griya","gelar tikar adat","gelar wicara"],"peribahasa":[],"idiom":["mengawinkan gelar","mengunci gelar juara","menyegel gelar juara"]}},{"id":"25265","nama":"ge.lar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hampar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penempatan dan penyebaran kekuatan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno gělar 'bentangan, susunan dan lain-lain; penyebaran (formasi) pasukan, gelar perang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["gelaran","mempergelarkan","menggelar","menggelarkan","pegelaran","penggelaran","pergelaran","tergelar"],"gabunganKata":["gelar griya","gelar tikar adat","gelar wicara"],"peribahasa":[],"idiom":["mengawinkan gelar","mengunci gelar juara","menyegel gelar juara"]}}]}
+{
+  "word": "gelar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25259",
+      "nama": "ge.lar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan kehormatan, kebangsawanan, atau kesarjanaan yang biasanya ditambahkan pada nama orang, seperti raden, tengku, doktor, sarjana ekonomi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama tambahan sesudah nikah atau setelah tua (sebagai kehormatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia diberi -- sutan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "julukan yang berhubungan dengan keadaan atau tabiat orang; sebutan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mendapat -- srikandi dari kawan-kawannya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno gělar 'bentangan, susunan dan lain-lain; penyebaran (formasi) pasukan, gelar perang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bergelar",
+          "menggelari",
+          "gelaran",
+          "mempergelarkan",
+          "menggelar",
+          "menggelarkan",
+          "pegelaran",
+          "penggelaran",
+          "pergelaran",
+          "tergelar"
+        ],
+        "gabunganKata": [
+          "gelar adat",
+          "gelar akademik",
+          "gelar akademis",
+          "gelar ganda",
+          "gelar hiburan",
+          "gelar keagamaan",
+          "gelar kehormatan",
+          "gelar liga",
+          "gelar mediasi",
+          "gelar pascasarjana",
+          "gelar perkara",
+          "gelar profesi",
+          "gelar pusaka",
+          "gelar vokasi",
+          "gelar griya",
+          "gelar tikar adat",
+          "gelar wicara"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "mengawinkan gelar",
+          "mengunci gelar juara",
+          "menyegel gelar juara"
+        ]
+      }
+    },
+    {
+      "id": "25265",
+      "nama": "ge.lar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penempatan dan penyebaran kekuatan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno gělar 'bentangan, susunan dan lain-lain; penyebaran (formasi) pasukan, gelar perang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "gelaran",
+          "mempergelarkan",
+          "menggelar",
+          "menggelarkan",
+          "pegelaran",
+          "penggelaran",
+          "pergelaran",
+          "tergelar"
+        ],
+        "gabunganKata": [
+          "gelar griya",
+          "gelar tikar adat",
+          "gelar wicara"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "mengawinkan gelar",
+          "mengunci gelar juara",
+          "menyegel gelar juara"
+        ]
+      }
+    }
+  ]
+}

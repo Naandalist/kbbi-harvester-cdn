@@ -1,1 +1,58 @@
-{"word":"gejos","authenticated":true,"entries":[{"id":"25095","nama":"ge.jos","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi mendesir, seperti bara yang disiram dengan air","contoh":[]}],"terkait":{"kataTurunan":["menggejos","menggejoskan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"281783","nama":"ge.jos","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"masakan yang terbuat dari kacang merah atau roay, disangrai, kemudian dimasukkan ke dalam air mendidih, dibumbui garam, gula, dan asam","contoh":[]}]}]}
+{
+  "word": "gejos",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25095",
+      "nama": "ge.jos",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi mendesir, seperti bara yang disiram dengan air",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggejos",
+          "menggejoskan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "281783",
+      "nama": "ge.jos",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "masakan yang terbuat dari kacang merah atau roay, disangrai, kemudian dimasukkan ke dalam air mendidih, dibumbui garam, gula, dan asam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

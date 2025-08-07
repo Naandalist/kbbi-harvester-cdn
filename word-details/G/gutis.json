@@ -1,1 +1,35 @@
-{"word":"gutis","authenticated":true,"entries":[{"id":"27990","nama":"gu.tis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"satu ikat besar","contoh":[{"nomor":2,"teks":"saya membawa satu -- padi"}]}]}]}
+{
+  "word": "gutis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27990",
+      "nama": "gu.tis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satu ikat besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya membawa satu -- padi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

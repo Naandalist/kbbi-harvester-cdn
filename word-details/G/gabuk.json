@@ -1,1 +1,85 @@
-{"word":"gabuk","authenticated":true,"entries":[{"id":"23653","nama":"ga.buk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hampa (tentang padi dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak dapat beranak; mandul","contoh":[]}]},{"id":"23654","nama":"ga.buk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"penganan kukus dibuat dari ketan yang dicetak dan ditaburi parutan kelapa","contoh":[]}]},{"id":"249764","nama":"ga.buk","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"serbuk gergaji","contoh":[]}]}]}
+{
+  "word": "gabuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23653",
+      "nama": "ga.buk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampa (tentang padi dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dapat beranak; mandul",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "23654",
+      "nama": "ga.buk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penganan kukus dibuat dari ketan yang dicetak dan ditaburi parutan kelapa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "249764",
+      "nama": "ga.buk",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "serbuk gergaji",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,215 @@
-{"word":"ganda","authenticated":true,"entries":[{"id":"24176","nama":"gan.da","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(tentang hitungan) kali; lipat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berbayang (seakan-akan ada dua)","contoh":[{"nomor":2,"teks":"dengan teknik pemotretan tertentu kita dapat menghasilkan gambar --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berpasangan (terdiri atas dua); berpasangan dua-dua (dalam bulu tangkis, tenis, dan sebagainya)","contoh":[{"nomor":2,"teks":"pemain --"}]}],"terkait":{"kataTurunan":["berganda","berganda-ganda","ganda-berganda","kegandaan","memperganda-gandakan","mempergandakan","mengganda","menggandakan","pengganda","penggandaan","pergandaan"],"gabunganKata":["ganda campuran","ganda putra","ganda putra remaja","ganda putri","ganda putri remaja","penggandaan sementara","ganda rasa"],"peribahasa":[],"idiom":[]}},{"id":"24188","nama":"gan.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bau","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ganda rasa"],"peribahasa":[],"idiom":[]}},{"id":"24190","nama":"gan.da","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berani melawan (meskipun tidak seimbang)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sanggup mengerjakan sesuatu dengan tenaga yang lebih sedikit (meremehkan)","contoh":[]}]},{"id":"215983","nama":"gan.da","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"kulit jagung kering","contoh":[]}]},{"id":"187624","nama":"gan.da","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Me","nama":"Moronene","tipe":"lainnya"}],"definisi":"perut yang buncit","contoh":[]}]},{"id":"278207","nama":"gan.da","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"kayu yang digunakan sebagai penyangga batu asah","contoh":[]}]}]}
+{
+  "word": "ganda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24176",
+      "nama": "gan.da",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(tentang hitungan) kali; lipat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbayang (seakan-akan ada dua)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan teknik pemotretan tertentu kita dapat menghasilkan gambar --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpasangan (terdiri atas dua); berpasangan dua-dua (dalam bulu tangkis, tenis, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemain --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berganda",
+          "berganda-ganda",
+          "ganda-berganda",
+          "kegandaan",
+          "memperganda-gandakan",
+          "mempergandakan",
+          "mengganda",
+          "menggandakan",
+          "pengganda",
+          "penggandaan",
+          "pergandaan"
+        ],
+        "gabunganKata": [
+          "ganda campuran",
+          "ganda putra",
+          "ganda putra remaja",
+          "ganda putri",
+          "ganda putri remaja",
+          "penggandaan sementara",
+          "ganda rasa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24188",
+      "nama": "gan.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bau",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ganda rasa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24190",
+      "nama": "gan.da",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berani melawan (meskipun tidak seimbang)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sanggup mengerjakan sesuatu dengan tenaga yang lebih sedikit (meremehkan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215983",
+      "nama": "gan.da",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kulit jagung kering",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "187624",
+      "nama": "gan.da",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Me",
+              "nama": "Moronene",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perut yang buncit",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "278207",
+      "nama": "gan.da",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu yang digunakan sebagai penyangga batu asah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

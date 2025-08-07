@@ -1,1 +1,115 @@
-{"word":"gedek","authenticated":true,"entries":[{"id":"25006","nama":"ge.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menggelengkan kepala","contoh":[]}],"terkait":{"kataTurunan":["bergedek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"25005","nama":"ge.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anyaman yang terbuat dari bilah-bilah bambu untuk dinding rumah dan sebagainya","contoh":[{"nomor":2,"teks":"dinding rumah sederhana itu terbuat dari --"}]}]},{"id":"223801","nama":"ge.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"tidak seimbang (tentang layang-layang) karena simpul tali teraju terlalu ke bawah","contoh":[]}]},{"id":"219764","nama":"ge.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"kesal","contoh":[]}]}]}
+{
+  "word": "gedek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25006",
+      "nama": "ge.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menggelengkan kepala",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergedek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "25005",
+      "nama": "ge.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anyaman yang terbuat dari bilah-bilah bambu untuk dinding rumah dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dinding rumah sederhana itu terbuat dari --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "223801",
+      "nama": "ge.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidak seimbang (tentang layang-layang) karena simpul tali teraju terlalu ke bawah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "219764",
+      "nama": "ge.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kesal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

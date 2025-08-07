@@ -1,1 +1,54 @@
-{"word":"gati","authenticated":true,"entries":[{"id":"184477","nama":"ga.ti","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"tenaga inti","contoh":[]}]},{"id":"210014","nama":"ga.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sh","nama":"Sahu","tipe":"lainnya"}],"definisi":"sumbangan berupa uang atau sembako untuk membantu kebutuhan tahlilan","contoh":[]}]}]}
+{
+  "word": "gati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "184477",
+      "nama": "ga.ti",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tenaga inti",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "210014",
+      "nama": "ga.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sh",
+              "nama": "Sahu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sumbangan berupa uang atau sembako untuk membantu kebutuhan tahlilan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

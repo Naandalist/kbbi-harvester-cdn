@@ -1,1 +1,54 @@
-{"word":"gup","authenticated":true,"entries":[{"id":"27875","nama":"gup","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi barang berat jatuh ke tanah","contoh":[]}]},{"id":"268388","nama":"GUP","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"ganti uang persediaan (dokumen yang diajukan oleh bendahara pengeluaran untuk permintaan pengganti uang persediaan yang tidak dapat dilakukan dengan pembayaran langsung)","contoh":[]}]}]}
+{
+  "word": "gup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27875",
+      "nama": "gup",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi barang berat jatuh ke tanah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "268388",
+      "nama": "GUP",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ganti uang persediaan (dokumen yang diajukan oleh bendahara pengeluaran untuk permintaan pengganti uang persediaan yang tidak dapat dilakukan dengan pembayaran langsung)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,140 @@
-{"word":"gunung","authenticated":true,"entries":[{"id":"27856","nama":"gu.nung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bukit yang sangat besar dan tinggi (biasanya tingginya lebih dari 600 m)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno gunuṅ 'gunung']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bergunung","bergunung-gunung","gunung-ganang","gunung-gemunung","gunung-gunungan","gunungan","menggunung","pegunungan","penggunungan","pergunungan","segunung"],"gabunganKata":["Gunung Anjasmoro","gunung api besi","gunung api es","gunung api perisai","Gunung Arjuna","gunung bawah laut","Gunung Bawakaraeng","gunung berapi","Gunung Ciremai","Gunung Dempo","gunung es","Gunung Everest","Gunung Galunggung","Gunung Gamalama","Gunung Gamkonora","Gunung Gede","Gunung Guntur","Gunung Halimun","gunung Ineilika","gunung istirahat","Gunung Karang","Gunung Kawi","Gunung Kelam","Gunung Kelimutu","Gunung Kelud","gunung kembar","Gunung Lakaan","Gunung Latimojong","Gunung Lewotolo","Gunung Lokon","gunung lumpur","Gunung Manglayang","gunung mati","Gunung Mekongga","Gunung Merapi","Gunung Padang","Gunung Pangrango","gunung pasir","Gunung Patuha","Gunung Penanggungan","Gunung Pesagi","Gunung Pesawaran","Gunung Prau","Gunung Pulosari","gunung purba","Gunung Putri","Gunung Rajabasa","Gunung Raung","Gunung Rinjani","Gunung Sago","Gunung Salak","Gunung Sanggabuana","Gunung Sanggar","Gunung Seblat","Gunung Semeru","Gunung Seminung","Gunung Sibayak","Gunung Sibela","Gunung Sinabung","Gunung Singgalang","Gunung Sipahabuabu","Gunung Slamet","gunung sulah","Gunung Sumbing","Gunung Sunda","Gunung Sunda Purba","Gunung Tambora","Gunung Tangkuban Perahu","Gunung Welirang","Pakuwaja","Sindoro"],"peribahasa":["ada jalan ke puncak gunung yang tinggi","adat gunung tempatan kabut, adat teluk timbunan kapal (kapar)","asam di darat, ikan di laut (garam di laut asam di gunung) bertemu dalam belanga","garam di laut, asam di gunung bertemu dalam belanga juga","gunung juga yang dilejang panas","ikan di laut, asam di gunung, bertemu dalam belanga","ke gunung tak dapat angin","maksud hati memeluk gunung, apa daya tangan tak sampai","masakan gunung akan runtuh walaupun seribu anjing menyalak","menambak gunung, menggarami air laut","menambak gunung, menggarami laut","rendah gunung, tinggi harapan","sekepal menjadi gunung, setitik menjadi laut","semut gatal gonggong gunung, bagaimana dunia takkan sunyi","tak akan (takkan) lari gunung dikejar, hilang kabut tampaklah dia","tak kan lari gunung dikejar, hilang kabut tampaklah dia","telaga di bawah gunung","tuah melambung tinggi, celaka menimpa, celaka sebesar gunung"],"idiom":[]}}]}
+{
+  "word": "gunung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27856",
+      "nama": "gu.nung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bukit yang sangat besar dan tinggi (biasanya tingginya lebih dari 600 m)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno gunuṅ 'gunung']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bergunung",
+          "bergunung-gunung",
+          "gunung-ganang",
+          "gunung-gemunung",
+          "gunung-gunungan",
+          "gunungan",
+          "menggunung",
+          "pegunungan",
+          "penggunungan",
+          "pergunungan",
+          "segunung"
+        ],
+        "gabunganKata": [
+          "Gunung Anjasmoro",
+          "gunung api besi",
+          "gunung api es",
+          "gunung api perisai",
+          "Gunung Arjuna",
+          "gunung bawah laut",
+          "Gunung Bawakaraeng",
+          "gunung berapi",
+          "Gunung Ciremai",
+          "Gunung Dempo",
+          "gunung es",
+          "Gunung Everest",
+          "Gunung Galunggung",
+          "Gunung Gamalama",
+          "Gunung Gamkonora",
+          "Gunung Gede",
+          "Gunung Guntur",
+          "Gunung Halimun",
+          "gunung Ineilika",
+          "gunung istirahat",
+          "Gunung Karang",
+          "Gunung Kawi",
+          "Gunung Kelam",
+          "Gunung Kelimutu",
+          "Gunung Kelud",
+          "gunung kembar",
+          "Gunung Lakaan",
+          "Gunung Latimojong",
+          "Gunung Lewotolo",
+          "Gunung Lokon",
+          "gunung lumpur",
+          "Gunung Manglayang",
+          "gunung mati",
+          "Gunung Mekongga",
+          "Gunung Merapi",
+          "Gunung Padang",
+          "Gunung Pangrango",
+          "gunung pasir",
+          "Gunung Patuha",
+          "Gunung Penanggungan",
+          "Gunung Pesagi",
+          "Gunung Pesawaran",
+          "Gunung Prau",
+          "Gunung Pulosari",
+          "gunung purba",
+          "Gunung Putri",
+          "Gunung Rajabasa",
+          "Gunung Raung",
+          "Gunung Rinjani",
+          "Gunung Sago",
+          "Gunung Salak",
+          "Gunung Sanggabuana",
+          "Gunung Sanggar",
+          "Gunung Seblat",
+          "Gunung Semeru",
+          "Gunung Seminung",
+          "Gunung Sibayak",
+          "Gunung Sibela",
+          "Gunung Sinabung",
+          "Gunung Singgalang",
+          "Gunung Sipahabuabu",
+          "Gunung Slamet",
+          "gunung sulah",
+          "Gunung Sumbing",
+          "Gunung Sunda",
+          "Gunung Sunda Purba",
+          "Gunung Tambora",
+          "Gunung Tangkuban Perahu",
+          "Gunung Welirang",
+          "Pakuwaja",
+          "Sindoro"
+        ],
+        "peribahasa": [
+          "ada jalan ke puncak gunung yang tinggi",
+          "adat gunung tempatan kabut, adat teluk timbunan kapal (kapar)",
+          "asam di darat, ikan di laut (garam di laut asam di gunung) bertemu dalam belanga",
+          "garam di laut, asam di gunung bertemu dalam belanga juga",
+          "gunung juga yang dilejang panas",
+          "ikan di laut, asam di gunung, bertemu dalam belanga",
+          "ke gunung tak dapat angin",
+          "maksud hati memeluk gunung, apa daya tangan tak sampai",
+          "masakan gunung akan runtuh walaupun seribu anjing menyalak",
+          "menambak gunung, menggarami air laut",
+          "menambak gunung, menggarami laut",
+          "rendah gunung, tinggi harapan",
+          "sekepal menjadi gunung, setitik menjadi laut",
+          "semut gatal gonggong gunung, bagaimana dunia takkan sunyi",
+          "tak akan (takkan) lari gunung dikejar, hilang kabut tampaklah dia",
+          "tak kan lari gunung dikejar, hilang kabut tampaklah dia",
+          "telaga di bawah gunung",
+          "tuah melambung tinggi, celaka menimpa, celaka sebesar gunung"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

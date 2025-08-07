@@ -1,1 +1,48 @@
-{"word":"guyonan","authenticated":true,"entries":[{"id":"27993","nama":"gu.yon.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gurauan","contoh":[{"nomor":2,"teks":"kami semua tertawa mendengar ~nya yang lucu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergurau","contoh":[{"nomor":2,"teks":"~ boleh, tetapi jangan menyinggung perasaan teman"}]}],"rootWord":"guyon"}]}
+{
+  "word": "guyonan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27993",
+      "nama": "gu.yon.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gurauan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami semua tertawa mendengar ~nya yang lucu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergurau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ boleh, tetapi jangan menyinggung perasaan teman"
+            }
+          ]
+        }
+      ],
+      "rootWord": "guyon"
+    }
+  ]
+}

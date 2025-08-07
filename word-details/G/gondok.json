@@ -1,1 +1,103 @@
-{"word":"gondok","authenticated":true,"entries":[{"id":"27231","nama":"gon.dok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"gemuk pendek (tentang badan, leher, barang)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit bengkak pada leher depan karena kelenjar yang menjadi besar; beguk","contoh":[{"nomor":2,"teks":"benjolan sebesar bengkuang tumbuh di lehernya karena penyakit --"}]}],"etimologi":{"text":"[Jawa Kuno goṇḍok 'tebal dan bulat; sebangsa cempaka (semak dengan bunga-bunga kuning muda)']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menggondokkan"],"gabunganKata":["gondok beracun","gondok multinodular","gondok nodular"],"peribahasa":[],"idiom":[]}},{"id":"27232","nama":"gon.dok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mendongkol; marah yang tertahan","contoh":[{"nomor":2,"teks":"tamu itu -- karena diperlakukan tidak sewajarnya"}]}],"etimologi":{"text":"[Jawa Kuno goṇḍok 'tebal dan bulat; sebangsa cempaka (semak dengan bunga-bunga kuning muda)']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menggondokkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gondok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27231",
+      "nama": "gon.dok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gemuk pendek (tentang badan, leher, barang)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit bengkak pada leher depan karena kelenjar yang menjadi besar; beguk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "benjolan sebesar bengkuang tumbuh di lehernya karena penyakit --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno goṇḍok 'tebal dan bulat; sebangsa cempaka (semak dengan bunga-bunga kuning muda)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menggondokkan"
+        ],
+        "gabunganKata": [
+          "gondok beracun",
+          "gondok multinodular",
+          "gondok nodular"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "27232",
+      "nama": "gon.dok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendongkol; marah yang tertahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tamu itu -- karena diperlakukan tidak sewajarnya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno goṇḍok 'tebal dan bulat; sebangsa cempaka (semak dengan bunga-bunga kuning muda)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menggondokkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"gacok","authenticated":true,"entries":[{"id":"23675","nama":"ga.cok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"joki3","contoh":[{"nomor":2,"teks":"di antara -- itu ada yang sarjana"}]}],"terkait":{"kataTurunan":["menggacok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"247007","nama":"ga.cok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cangkul berbentuk garpu; garu rumput","contoh":[]}]}]}
+{
+  "word": "gacok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23675",
+      "nama": "ga.cok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "joki3",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di antara -- itu ada yang sarjana"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggacok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "247007",
+      "nama": "ga.cok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cangkul berbentuk garpu; garu rumput",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

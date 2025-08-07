@@ -1,1 +1,131 @@
-{"word":"gelora","authenticated":true,"entries":[{"id":"25625","nama":"ge.lo.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gerakan gelombang yang hebat seperti dikarau; banjir besar","contoh":[{"nomor":2,"teks":"perahu kami pecah dipontang-pantingkan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hujan dan badai","contoh":[{"nomor":2,"teks":"pada musim -- pelayaran sangat berbahaya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"perasaan yang seakan-akan bergolak hebat","contoh":[{"nomor":2,"teks":"tenanglah, jangan kauturutkan -- hatimu"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"gejolak","contoh":[{"nomor":2,"teks":"tidak seorang pun dapat menentang -- semangat pemuda memberantas pemberontakan itu"}]}],"terkait":{"kataTurunan":["bergelora","menggelora","menggelorakan","penggelora"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"194287","nama":"ge.lo.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"gelanggang olahraga","contoh":[{"nomor":2,"teks":"-- Bung Karno"}]}]}]}
+{
+  "word": "gelora",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25625",
+      "nama": "ge.lo.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerakan gelombang yang hebat seperti dikarau; banjir besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu kami pecah dipontang-pantingkan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hujan dan badai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada musim -- pelayaran sangat berbahaya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perasaan yang seakan-akan bergolak hebat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tenanglah, jangan kauturutkan -- hatimu"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gejolak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak seorang pun dapat menentang -- semangat pemuda memberantas pemberontakan itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergelora",
+          "menggelora",
+          "menggelorakan",
+          "penggelora"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "194287",
+      "nama": "ge.lo.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelanggang olahraga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Bung Karno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

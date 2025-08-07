@@ -1,1 +1,57 @@
-{"word":"gaplek","authenticated":true,"entries":[{"id":"24469","nama":"gap.lek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ubi kayu (singkong) yang telah dikupas dan dikeringkan (dijemur)","contoh":[]}],"terkait":{"kataTurunan":["penggaplekan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"118143","nama":"gap.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"truk angkutan barang","contoh":[]}]}]}
+{
+  "word": "gaplek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24469",
+      "nama": "gap.lek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ubi kayu (singkong) yang telah dikupas dan dikeringkan (dijemur)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "penggaplekan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "118143",
+      "nama": "gap.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "truk angkutan barang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

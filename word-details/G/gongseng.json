@@ -1,1 +1,59 @@
-{"word":"gongseng","authenticated":true,"entries":[{"id":"27251","nama":"gong.seng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"goreng tanpa minyak; sangrai","contoh":[]}],"terkait":{"kataTurunan":["gongsengan","menggongseng","penggongsengan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"226795","nama":"gong.seng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"rangkaian genta kecil yang dilingkarkan di kaki penari, biasanya dipakai oleh penari topeng ireng","contoh":[]}]}]}
+{
+  "word": "gongseng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27251",
+      "nama": "gong.seng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "goreng tanpa minyak; sangrai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "gongsengan",
+          "menggongseng",
+          "penggongsengan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "226795",
+      "nama": "gong.seng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rangkaian genta kecil yang dilingkarkan di kaki penari, biasanya dipakai oleh penari topeng ireng",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

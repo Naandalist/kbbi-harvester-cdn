@@ -1,1 +1,107 @@
-{"word":"gendeng","authenticated":true,"entries":[{"id":"25954","nama":"gen.deng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"condong; miring; ereng","contoh":[]}],"terkait":{"kataTurunan":["bergendeng-gendengan","menggendengkan","tergendeng"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"216044","nama":"gen.deng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tembang yang dimainkan dengan menggunakan vokal manusia, misalnya lagu sinden dan senggakan","contoh":[]}]},{"id":"232846","nama":"gen.deng","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kata penggolong untuk petai","contoh":[]}]},{"id":"25958","nama":"gen.deng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kas","nama":"Kasar","tipe":"lainnya"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gila; tidak normal (ingatan, pikiran)","contoh":[]}]}]}
+{
+  "word": "gendeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25954",
+      "nama": "gen.deng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "condong; miring; ereng",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergendeng-gendengan",
+          "menggendengkan",
+          "tergendeng"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216044",
+      "nama": "gen.deng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tembang yang dimainkan dengan menggunakan vokal manusia, misalnya lagu sinden dan senggakan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "232846",
+      "nama": "gen.deng",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata penggolong untuk petai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "25958",
+      "nama": "gen.deng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kas",
+              "nama": "Kasar",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gila; tidak normal (ingatan, pikiran)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

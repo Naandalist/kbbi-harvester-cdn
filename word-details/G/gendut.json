@@ -1,1 +1,75 @@
-{"word":"gendut","authenticated":true,"entries":[{"id":"25978","nama":"gen.dut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"besar dan seakan-akan bergantung (tentang perut)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bunting","contoh":[{"nomor":2,"teks":"baru dua bulan menikah perutnya sudah --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"banyak mendapat keuntungan","contoh":[{"nomor":2,"teks":"dia yang -- dalam urusan barang itu"}]}],"terkait":{"kataTurunan":["kegendutan","menggendut","menggenduti","menggendutkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gendut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25978",
+      "nama": "gen.dut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar dan seakan-akan bergantung (tentang perut)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baru dua bulan menikah perutnya sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyak mendapat keuntungan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia yang -- dalam urusan barang itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kegendutan",
+          "menggendut",
+          "menggenduti",
+          "menggendutkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

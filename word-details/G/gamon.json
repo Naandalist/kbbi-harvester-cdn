@@ -1,1 +1,59 @@
-{"word":"gamon","authenticated":true,"entries":[{"id":"99087","nama":"ga.mon","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"substansi yang dikeluarkan gamet yang berfungsi untuk menarik gamet lawan jenisnya","contoh":[]}]},{"id":"198628","nama":"ga.mon","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"gagal move on; gagal melupakan seseorang atau kejadian istimewa tertentu","contoh":[]}]}]}
+{
+  "word": "gamon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "99087",
+      "nama": "ga.mon",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "substansi yang dikeluarkan gamet yang berfungsi untuk menarik gamet lawan jenisnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "198628",
+      "nama": "ga.mon",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gagal move on; gagal melupakan seseorang atau kejadian istimewa tertentu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

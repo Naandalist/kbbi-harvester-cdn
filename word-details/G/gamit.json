@@ -1,1 +1,67 @@
-{"word":"gamit","authenticated":true,"entries":[{"id":"24132","nama":"ga.mit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"colek1","contoh":[]}],"terkait":{"kataTurunan":["bergamit","bergamitan","gamit-gamitan","gamitan","menggamit","menggamit-gamitkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"113405","nama":"ga.mit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kejam terhadap binatang","contoh":[{"nomor":2,"teks":"orang yang -- biasanya tidak memiliki hati yang baik"}]}]}]}
+{
+  "word": "gamit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24132",
+      "nama": "ga.mit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "colek1",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergamit",
+          "bergamitan",
+          "gamit-gamitan",
+          "gamitan",
+          "menggamit",
+          "menggamit-gamitkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "113405",
+      "nama": "ga.mit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kejam terhadap binatang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang -- biasanya tidak memiliki hati yang baik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"word":"gawai","authenticated":true,"entries":[{"id":"24838","nama":"ga.wai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kerja; pekerjaan","contoh":[]}],"terkait":{"kataTurunan":["kepegawaian","pegawai"],"gabunganKata":["gawai raja","gawai pintar"],"peribahasa":[],"idiom":[]}},{"id":"24841","nama":"ga.wai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"alat; perkakas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peranti elektronik atau mekanik dengan fungsi praktis; gadget; acang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["gawai pintar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gawai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24838",
+      "nama": "ga.wai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerja; pekerjaan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kepegawaian",
+          "pegawai"
+        ],
+        "gabunganKata": [
+          "gawai raja",
+          "gawai pintar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24841",
+      "nama": "ga.wai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat; perkakas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peranti elektronik atau mekanik dengan fungsi praktis; gadget; acang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "gawai pintar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"gorek","authenticated":true,"entries":[{"id":"27301","nama":"go.rek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"korek2","contoh":[]}],"terkait":{"kataTurunan":["menggorek-gorek"],"gabunganKata":["gorek api"],"peribahasa":[],"idiom":[]}},{"id":"27303","nama":"gorek","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menggorek-gorek","contoh":[]}],"terkait":{"kataTurunan":["menggorek-gorek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gorek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27301",
+      "nama": "go.rek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "korek2",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggorek-gorek"
+        ],
+        "gabunganKata": [
+          "gorek api"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "27303",
+      "nama": "gorek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menggorek-gorek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggorek-gorek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

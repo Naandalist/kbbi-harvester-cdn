@@ -1,1 +1,43 @@
-{"word":"gempal","authenticated":true,"entries":[{"id":"25843","nama":"gem.pal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"padat berisi; sintal","contoh":[{"nomor":2,"teks":"ia bertubuh --, tidak kurus seperti abangnya"}]}]},{"id":"25844","nama":"gem.pal","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ gumpal","contoh":[]}]}]}
+{
+  "word": "gempal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25843",
+      "nama": "gem.pal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "padat berisi; sintal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bertubuh --, tidak kurus seperti abangnya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25844",
+      "nama": "gem.pal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ gumpal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

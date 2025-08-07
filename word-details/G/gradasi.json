@@ -1,1 +1,91 @@
-{"word":"gradasi","authenticated":true,"entries":[{"id":"27404","nama":"gra.da.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susunan derajat atau tingkat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tingkat dalam peralihan suatu keadaan ke keadaan lain; tingkat perubahan","contoh":[{"nomor":2,"teks":"dengan cermat ia dapat memerinci pelbagai warna dalam -- warna pada pelangi"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"penyusutan dan perataan bumi yang disebabkan oleh peristiwa erosi, pengangkutan, dan pengendapan","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tek","nama":"Teknik","tipe":"bidang_subjek"}],"definisi":"distribusi dari ukuran agregat","contoh":[]}],"terkait":{"kataTurunan":["bergradasi","menggradasi","tergradasi"],"gabunganKata":["gradasi agregat","gradasi eritema","gradasi senjang","gradasi tonal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gradasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27404",
+      "nama": "gra.da.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susunan derajat atau tingkat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tingkat dalam peralihan suatu keadaan ke keadaan lain; tingkat perubahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan cermat ia dapat memerinci pelbagai warna dalam -- warna pada pelangi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyusutan dan perataan bumi yang disebabkan oleh peristiwa erosi, pengangkutan, dan pengendapan",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tek",
+              "nama": "Teknik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "distribusi dari ukuran agregat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergradasi",
+          "menggradasi",
+          "tergradasi"
+        ],
+        "gabunganKata": [
+          "gradasi agregat",
+          "gradasi eritema",
+          "gradasi senjang",
+          "gradasi tonal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

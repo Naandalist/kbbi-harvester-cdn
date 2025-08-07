@@ -1,1 +1,67 @@
-{"word":"gentar","authenticated":true,"entries":[{"id":"26081","nama":"gen.tar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gerakan berulang-ulang yang cepat sekali (seperti kawat kecapi yang dipetik); getar","contoh":[{"nomor":2,"teks":"makin banyak --nya makin tinggi bunyinya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"takut","contoh":[{"nomor":2,"teks":"ia tidak -- melihat musuh"}]}],"terkait":{"kataTurunan":["bergentar","gentaran","kegentaran","menggentar","menggentari","menggentarkan","penggentar","penggentaran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gentar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "26081",
+      "nama": "gen.tar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerakan berulang-ulang yang cepat sekali (seperti kawat kecapi yang dipetik); getar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makin banyak --nya makin tinggi bunyinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "takut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak -- melihat musuh"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergentar",
+          "gentaran",
+          "kegentaran",
+          "menggentar",
+          "menggentari",
+          "menggentarkan",
+          "penggentar",
+          "penggentaran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

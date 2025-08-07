@@ -1,1 +1,131 @@
-{"word":"gas","authenticated":true,"entries":[{"id":"24727","nama":"gas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"zat ringan yang sifatnya seperti udara (dalam suhu biasa tidak menjadi cair)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"uap dari bensin (bensol dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"tingkat wujud zat yang molekul-molekulnya bergerak bebas sehingga seluruh massa cenderung mengembang dan menempati seluruh volume wadahnya","contoh":[]}],"terkait":{"kataTurunan":["bergas","mengegas"],"gabunganKata":["gas air","gas air mata","gas alam","gas alam cair","gas alam sintetik","gas basah","gas batu bara","gas bersin","gas bertekanan","gas biogenik","gas buang","gas buangan","gas bumi","gas elpiji","gas gelap","gas ideal","gas ikutan","gas karbit","gas karbon","gas kecut","gas kelumit","gas kilang","gas korosif","gas lamban","gas lembam","gas lembap","gas minyak cair","gas mulia","gas pemati lemas","gas pencerna","gas pencerna anaerob","gas penyesak napas","gas polutan","gas portabel","gas racun","gas rawa","gas rumah kaca","gas saraf","gas sintesis","gas spontan","gas tanur","gas tertawa","gas toksik"],"peribahasa":[],"idiom":[]}},{"id":"95994","nama":"GAS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"reaksi jangka pendek dan panjang tubuh terhadap stres; general adaptation syndrome","contoh":[]}]}]}
+{
+  "word": "gas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24727",
+      "nama": "gas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "zat ringan yang sifatnya seperti udara (dalam suhu biasa tidak menjadi cair)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uap dari bensin (bensol dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tingkat wujud zat yang molekul-molekulnya bergerak bebas sehingga seluruh massa cenderung mengembang dan menempati seluruh volume wadahnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergas",
+          "mengegas"
+        ],
+        "gabunganKata": [
+          "gas air",
+          "gas air mata",
+          "gas alam",
+          "gas alam cair",
+          "gas alam sintetik",
+          "gas basah",
+          "gas batu bara",
+          "gas bersin",
+          "gas bertekanan",
+          "gas biogenik",
+          "gas buang",
+          "gas buangan",
+          "gas bumi",
+          "gas elpiji",
+          "gas gelap",
+          "gas ideal",
+          "gas ikutan",
+          "gas karbit",
+          "gas karbon",
+          "gas kecut",
+          "gas kelumit",
+          "gas kilang",
+          "gas korosif",
+          "gas lamban",
+          "gas lembam",
+          "gas lembap",
+          "gas minyak cair",
+          "gas mulia",
+          "gas pemati lemas",
+          "gas pencerna",
+          "gas pencerna anaerob",
+          "gas penyesak napas",
+          "gas polutan",
+          "gas portabel",
+          "gas racun",
+          "gas rawa",
+          "gas rumah kaca",
+          "gas saraf",
+          "gas sintesis",
+          "gas spontan",
+          "gas tanur",
+          "gas tertawa",
+          "gas toksik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "95994",
+      "nama": "GAS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "reaksi jangka pendek dan panjang tubuh terhadap stres; general adaptation syndrome",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

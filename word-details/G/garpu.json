@@ -1,1 +1,80 @@
-{"word":"garpu","authenticated":true,"entries":[{"id":"24697","nama":"gar.pu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sendok yang bentuk ujungnya seperti jari-jari tangan, runcing, dan tajam untuk mencocok daging, lauk, dan sebagainya; porok","contoh":[]}],"etimologi":{"text":"[Portugis garfo garfo n sg m 'alat makan, biasanya bercabang tiga atau empat, untuk mengambil potongan makanan dan memasukkannya ke mulut']","languages":["Portugis"]},"terkait":{"kataTurunan":["menggarpu"],"gabunganKata":["garpu ikan","garpu jerami","garpu kue","garpu lobster","garpu pencuci mulut","garpu pohon","garpu replikasi","garpu salad","garpu tala","garpu tiram"],"peribahasa":[],"idiom":[]}},{"id":"228446","nama":"gar.pu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sekop yang bentuk ujungnya seperti jari-jari tangan, runcing, dan tajam, digunakan untuk mengambil kotoran sapi","contoh":[]}],"etimologi":{"text":"[Portugis garfo garfo n sg m 'alat makan, biasanya bercabang tiga atau empat, untuk mengambil potongan makanan dan memasukkannya ke mulut']","languages":["Portugis"]}}]}
+{
+  "word": "garpu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24697",
+      "nama": "gar.pu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sendok yang bentuk ujungnya seperti jari-jari tangan, runcing, dan tajam untuk mencocok daging, lauk, dan sebagainya; porok",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis garfo garfo n sg m 'alat makan, biasanya bercabang tiga atau empat, untuk mengambil potongan makanan dan memasukkannya ke mulut']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menggarpu"
+        ],
+        "gabunganKata": [
+          "garpu ikan",
+          "garpu jerami",
+          "garpu kue",
+          "garpu lobster",
+          "garpu pencuci mulut",
+          "garpu pohon",
+          "garpu replikasi",
+          "garpu salad",
+          "garpu tala",
+          "garpu tiram"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228446",
+      "nama": "gar.pu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sekop yang bentuk ujungnya seperti jari-jari tangan, runcing, dan tajam, digunakan untuk mengambil kotoran sapi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis garfo garfo n sg m 'alat makan, biasanya bercabang tiga atau empat, untuk mengambil potongan makanan dan memasukkannya ke mulut']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    }
+  ]
+}

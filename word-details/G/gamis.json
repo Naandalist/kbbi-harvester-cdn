@@ -1,1 +1,81 @@
-{"word":"gamis","authenticated":true,"entries":[{"id":"24131","nama":"ga.mis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemeja arab","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baju yang panjangnya semata kaki atau lebih menyerupai kemeja dengan potongan longgar","contoh":[]}],"etimologi":{"text":"[Arab قَمِيْصٌ qamīṣ n sg m 'baju dalam; kemeja; jubah']","languages":["Arab"]},"terkait":{"kataTurunan":["bergamis"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"244128","nama":"ga.mis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"jenis rotan yang tumbuh pendek dan batangnya tidak merambat tinggi〔Calamus〕","contoh":[]}],"etimologi":{"text":"[Arab قَمِيْصٌ qamīṣ n sg m 'baju dalam; kemeja; jubah']","languages":["Arab"]}}]}
+{
+  "word": "gamis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24131",
+      "nama": "ga.mis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemeja arab",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baju yang panjangnya semata kaki atau lebih menyerupai kemeja dengan potongan longgar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَمِيْصٌ qamīṣ n sg m 'baju dalam; kemeja; jubah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bergamis"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "244128",
+      "nama": "ga.mis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jenis rotan yang tumbuh pendek dan batangnya tidak merambat tinggi〔Calamus〕",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَمِيْصٌ qamīṣ n sg m 'baju dalam; kemeja; jubah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

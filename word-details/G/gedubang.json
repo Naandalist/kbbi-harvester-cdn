@@ -1,1 +1,54 @@
-{"word":"gedubang","authenticated":true,"entries":[{"id":"25026","nama":"ge.du.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelewang besar (di Aceh biasanya digunakan untuk berburu dan sebagainya)","contoh":[]}]},{"id":"133061","nama":"ge.du.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"ludah merah pertama ketika mengunyah sirih","contoh":[{"nomor":2,"teks":"-- dipercaya dapat mengobati penyakit"}]}]}]}
+{
+  "word": "gedubang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25026",
+      "nama": "ge.du.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelewang besar (di Aceh biasanya digunakan untuk berburu dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "133061",
+      "nama": "ge.du.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ludah merah pertama ketika mengunyah sirih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dipercaya dapat mengobati penyakit"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"gelayaran","authenticated":true,"entries":[{"id":"25308","nama":"ge.la.yar.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhuyung-huyung","contoh":[{"nomor":2,"teks":"dia ~ dan roboh terkena dorongan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kas","nama":"Kasar","tipe":"lainnya"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"berkeluyuran; berkeliaran","contoh":[]}],"rootWord":"gelayar"}]}
+{
+  "word": "gelayaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25308",
+      "nama": "ge.la.yar.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhuyung-huyung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ dan roboh terkena dorongan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kas",
+              "nama": "Kasar",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkeluyuran; berkeliaran",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelayar"
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"gober","authenticated":true,"entries":[{"id":"142788","nama":"go.ber","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"menuai padi yang disimpan di saung secara beramai-ramai","contoh":[]}]},{"id":"295060","nama":"go.ber","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sabit kecil untuk memotong rumput","contoh":[]}]}]}
+{
+  "word": "gober",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "142788",
+      "nama": "go.ber",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menuai padi yang disimpan di saung secara beramai-ramai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "295060",
+      "nama": "go.ber",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sabit kecil untuk memotong rumput",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

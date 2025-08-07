@@ -1,1 +1,80 @@
-{"word":"gaib","authenticated":true,"entries":[{"id":"23845","nama":"ga.ib","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak kelihatan; tersembunyi; tidak nyata","contoh":[{"nomor":2,"teks":"para ilmuwan mencoba meneliti hal-hal yang -- di alam semesta ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hilang; lenyap","contoh":[{"nomor":2,"teks":"sekalian dewa-dewa itu pun --lah"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak diketahui sebab-sebabnya (halnya dan sebagainya)","contoh":[{"nomor":2,"teks":"banyak peristiwa -- yang belum diselidiki"}]}],"etimologi":{"text":"[Arab غَيْبٌ gaib n sg m 'tidak kelihatan']","languages":["Arab"]},"terkait":{"kataTurunan":["kegaiban","menggaib","menggaibkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gaib",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23845",
+      "nama": "ga.ib",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak kelihatan; tersembunyi; tidak nyata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para ilmuwan mencoba meneliti hal-hal yang -- di alam semesta ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hilang; lenyap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekalian dewa-dewa itu pun --lah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak diketahui sebab-sebabnya (halnya dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak peristiwa -- yang belum diselidiki"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab غَيْبٌ gaib n sg m 'tidak kelihatan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kegaiban",
+          "menggaib",
+          "menggaibkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

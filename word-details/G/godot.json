@@ -1,1 +1,58 @@
-{"word":"godot","authenticated":true,"entries":[{"id":"27119","nama":"go.dot","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"iris2; kerat; potong","contoh":[]}],"terkait":{"kataTurunan":["menggodot","menggodot-godot"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"247405","nama":"go.dot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"pencak silat khas Karawang","contoh":[]}]}]}
+{
+  "word": "godot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27119",
+      "nama": "go.dot",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "iris2; kerat; potong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggodot",
+          "menggodot-godot"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "247405",
+      "nama": "go.dot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pencak silat khas Karawang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

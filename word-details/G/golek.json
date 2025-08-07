@@ -1,1 +1,65 @@
-{"word":"golek","authenticated":true,"entries":[{"id":"27155","nama":"go.lek","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial bergolek, bergolek-golek, bergolekan, menggolek, menggolekkan, tergolek, tergolek-golek","contoh":[]}],"terkait":{"kataTurunan":["bergolek","bergolek-golek","bergolekan","menggolek","menggolekkan","tergolek","tergolek-golek"],"gabunganKata":["golek gelantung","golek jenggel","golek jonggol"],"peribahasa":[],"idiom":[]}},{"id":"27165","nama":"go.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"boneka (biasanya dari kayu)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["golek jenggel","golek jonggol"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "golek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27155",
+      "nama": "go.lek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial bergolek, bergolek-golek, bergolekan, menggolek, menggolekkan, tergolek, tergolek-golek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergolek",
+          "bergolek-golek",
+          "bergolekan",
+          "menggolek",
+          "menggolekkan",
+          "tergolek",
+          "tergolek-golek"
+        ],
+        "gabunganKata": [
+          "golek gelantung",
+          "golek jenggel",
+          "golek jonggol"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "27165",
+      "nama": "go.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "boneka (biasanya dari kayu)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "golek jenggel",
+          "golek jonggol"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

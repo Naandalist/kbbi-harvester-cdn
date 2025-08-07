@@ -1,1 +1,52 @@
-{"word":"gaet","authenticated":true,"entries":[{"id":"23763","nama":"ga.et","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kait; gait; penggait","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"tindakan mengait (tentang hoki)","contoh":[]}],"terkait":{"kataTurunan":["gaetan","menggaet","penggaet"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gaet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23763",
+      "nama": "ga.et",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kait; gait; penggait",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tindakan mengait (tentang hoki)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "gaetan",
+          "menggaet",
+          "penggaet"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

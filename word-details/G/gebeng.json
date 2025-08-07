@@ -1,1 +1,88 @@
-{"word":"gebeng","authenticated":true,"entries":[{"id":"24940","nama":"ge.beng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bilik kecil (tentang perahu)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"besar; lebar (tentang dayung)","contoh":[{"nomor":2,"teks":"dayung --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"bagian yang gepeng dari dayung yang dikayuhkan ke air; daun dayung","contoh":[]}]},{"id":"233129","nama":"ge.beng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"sampan yang bagian ujungnya sangat runcing","contoh":[]}]}]}
+{
+  "word": "gebeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24940",
+      "nama": "ge.beng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bilik kecil (tentang perahu)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "besar; lebar (tentang dayung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dayung --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian yang gepeng dari dayung yang dikayuhkan ke air; daun dayung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "233129",
+      "nama": "ge.beng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sampan yang bagian ujungnya sangat runcing",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

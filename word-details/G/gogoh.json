@@ -1,1 +1,56 @@
-{"word":"gogoh","authenticated":true,"entries":[{"id":"27125","nama":"go.goh","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menggogoh","contoh":[]}],"terkait":{"kataTurunan":["menggogoh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"252884","nama":"go.goh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mencari ikan di gua, liang, atau lubang di dalam air dengan cara meraba-raba","contoh":[{"nomor":2,"teks":"anak itu -- di pantai bersama teman-temannya"}]}]}]}
+{
+  "word": "gogoh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27125",
+      "nama": "go.goh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menggogoh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggogoh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "252884",
+      "nama": "go.goh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencari ikan di gua, liang, atau lubang di dalam air dengan cara meraba-raba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu -- di pantai bersama teman-temannya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

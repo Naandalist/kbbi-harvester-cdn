@@ -1,1 +1,72 @@
-{"word":"gual-gail","authenticated":true,"entries":[{"id":"27498","nama":"gu.al-ga.il","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terhuyung-huyung berjalan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak serius; kurang memikirkan; kurang pertimbangan","contoh":[]}],"rootWord":"gual²"},{"id":"27500","nama":"gu.al-ga.il","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"goyang akan lepas atau tanggal","contoh":[{"nomor":2,"teks":"beberapa hari sebelum lepas, kaki depan kursi itu memang sudah ~"},{"nomor":4,"teks":"giginya ~"}]}],"rootWord":"gual³"}]}
+{
+  "word": "gual-gail",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27498",
+      "nama": "gu.al-ga.il",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhuyung-huyung berjalan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak serius; kurang memikirkan; kurang pertimbangan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gual²"
+    },
+    {
+      "id": "27500",
+      "nama": "gu.al-ga.il",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "goyang akan lepas atau tanggal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa hari sebelum lepas, kaki depan kursi itu memang sudah ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "giginya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gual³"
+    }
+  ]
+}

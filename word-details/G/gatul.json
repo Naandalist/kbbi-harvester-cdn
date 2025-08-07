@@ -1,1 +1,49 @@
-{"word":"gatul","authenticated":true,"entries":[{"id":"24812","nama":"ga.tul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan kepala timah","contoh":[]}]},{"id":"295033","nama":"ga.tul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pacul kecil yang kepalanya terbuat dari baja, pegangan dari kayu, berfungsi untuk melubangi tanah serta membersihkan rumput","contoh":[]}]}]}
+{
+  "word": "gatul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24812",
+      "nama": "ga.tul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan kepala timah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "295033",
+      "nama": "ga.tul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pacul kecil yang kepalanya terbuat dari baja, pegangan dari kayu, berfungsi untuk melubangi tanah serta membersihkan rumput",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

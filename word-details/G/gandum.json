@@ -1,1 +1,68 @@
-{"word":"gandum","authenticated":true,"entries":[{"id":"24262","nama":"gan.dum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"terna yang termasuk suku Poaceae, tingginya sekitar 1 m, berbatang beruas-ruas seperti padi, berdaun memita panjang, berbunga majemuk malai, berbiji bulir, hidup di daerah subtropis, dapat dimanfaatkan sebagai tepung terigu sebagai bahan makanan〔Triticum aestivum〕 atau 〔Triticum aestic〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"terigu (untuk membuat roti dan sebagainya)","contoh":[{"nomor":2,"teks":"kue itu dibuat dari tepung --"}]}],"etimologi":{"text":"[Persia گندم gandum n 'tumbuhan seperti padi yang hidup di daerah beriklim dingin yang menghasilkan terigu; Trificum sativum']","languages":["Persia"]},"terkait":{"kataTurunan":["gandum-ganduman"],"gabunganKata":["gandum durum","gandum fortifikasi","gandum gulung","gandum hitam","gandum kuda","gandum utuh"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gandum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24262",
+      "nama": "gan.dum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terna yang termasuk suku Poaceae, tingginya sekitar 1 m, berbatang beruas-ruas seperti padi, berdaun memita panjang, berbunga majemuk malai, berbiji bulir, hidup di daerah subtropis, dapat dimanfaatkan sebagai tepung terigu sebagai bahan makanan〔Triticum aestivum〕 atau 〔Triticum aestic〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terigu (untuk membuat roti dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kue itu dibuat dari tepung --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia گندم gandum n 'tumbuhan seperti padi yang hidup di daerah beriklim dingin yang menghasilkan terigu; Trificum sativum']",
+        "languages": [
+          "Persia"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "gandum-ganduman"
+        ],
+        "gabunganKata": [
+          "gandum durum",
+          "gandum fortifikasi",
+          "gandum gulung",
+          "gandum hitam",
+          "gandum kuda",
+          "gandum utuh"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

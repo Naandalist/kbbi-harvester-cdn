@@ -1,1 +1,67 @@
-{"word":"generik","authenticated":true,"entries":[{"id":"26008","nama":"ge.ne.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"umum; lazim","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkaitan dengan kekhasan sifat yang dimiliki oleh suatu kelompok","contoh":[{"nomor":2,"teks":"tidak semua nama biasa menjadi nama -- untuk suatu produk"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"kompatibel dengan seluruh keluarga perangkat keras atau perangkat lunak dari satu perusahaan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["generik palsu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "generik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "26008",
+      "nama": "ge.ne.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "umum; lazim",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkaitan dengan kekhasan sifat yang dimiliki oleh suatu kelompok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak semua nama biasa menjadi nama -- untuk suatu produk"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kompatibel dengan seluruh keluarga perangkat keras atau perangkat lunak dari satu perusahaan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "generik palsu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

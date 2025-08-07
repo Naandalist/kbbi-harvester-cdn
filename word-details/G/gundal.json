@@ -1,1 +1,96 @@
-{"word":"gundal","authenticated":true,"entries":[{"id":"27775","nama":"gun.dal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanda berupa simpul pada tali, coretan, takik untuk catatan penghitungan (barang, pekerjaan, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["bergundal","gundalan","pergundalan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"27778","nama":"gun.dal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"abdi; pengikut; kaki tangan","contoh":[]}],"terkait":{"kataTurunan":["pergundalan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"278223","nama":"gun.dal","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"melempar buah dengan kayu","contoh":[{"nomor":2,"teks":"saat kami sedang asik -- ternyata pemiliknya datang"}]}]}]}
+{
+  "word": "gundal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27775",
+      "nama": "gun.dal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanda berupa simpul pada tali, coretan, takik untuk catatan penghitungan (barang, pekerjaan, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergundal",
+          "gundalan",
+          "pergundalan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "27778",
+      "nama": "gun.dal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "abdi; pengikut; kaki tangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pergundalan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278223",
+      "nama": "gun.dal",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melempar buah dengan kayu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saat kami sedang asik -- ternyata pemiliknya datang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

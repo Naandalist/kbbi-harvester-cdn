@@ -1,1 +1,69 @@
-{"word":"gangsa","authenticated":true,"entries":[{"id":"24300","nama":"gang.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"logam perunggu (untuk membuat gamelan, genta, dan sebagainya)","contoh":[]}],"etimologi":{"text":"[Sanskerta कंस kaṃsa n m 'logam, kuningan, cangkir, mangkuk, piala']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["pegangsaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"24302","nama":"gang.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"angsa batu","contoh":[]}],"etimologi":{"text":"[Sanskerta कंस kaṃsa n m 'logam, kuningan, cangkir, mangkuk, piala']","languages":["Sanskerta"]}}]}
+{
+  "word": "gangsa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24300",
+      "nama": "gang.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "logam perunggu (untuk membuat gamelan, genta, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta कंस kaṃsa n m 'logam, kuningan, cangkir, mangkuk, piala']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "pegangsaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24302",
+      "nama": "gang.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angsa batu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta कंस kaṃsa n m 'logam, kuningan, cangkir, mangkuk, piala']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

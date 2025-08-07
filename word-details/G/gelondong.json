@@ -1,1 +1,67 @@
-{"word":"gelondong","authenticated":true,"entries":[{"id":"25609","nama":"ge.lon.dong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu batangan bulat yang utuh","contoh":[]}],"terkait":{"kataTurunan":["gelondongan","segelondong","penggelondongan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"25611","nama":"ge.lon.dong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ikn","nama":"Perikanan","tipe":"bidang_subjek"}],"definisi":"benih bandeng berukuran sebesar jari tangan, berusia sekitar 1—2 bulan","contoh":[]}],"terkait":{"kataTurunan":["penggelondongan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gelondong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25609",
+      "nama": "ge.lon.dong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu batangan bulat yang utuh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "gelondongan",
+          "segelondong",
+          "penggelondongan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "25611",
+      "nama": "ge.lon.dong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ikn",
+              "nama": "Perikanan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "benih bandeng berukuran sebesar jari tangan, berusia sekitar 1—2 bulan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "penggelondongan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

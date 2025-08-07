@@ -1,1 +1,88 @@
-{"word":"gorap","authenticated":true,"entries":[{"id":"27298","nama":"go.rap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perahu layar yang terbuat dari kayu, bercadik, dan bertutup, dilengkapi kayu-kayu yang berfungsi sebagai pelampung, digerakkan oleh dayung","contoh":[]}],"terkait":{"kataTurunan":["gorap-gorap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"113416","nama":"go.rap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"kayu penutup lubang gendang sebelah bawah yang diikat dengan rotan","contoh":[]}]},{"id":"203897","nama":"Go.rap","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Halmahera Utara dan Halmahera Barat, Provinsi Maluku Utara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yg dituturkan oleh suku Gorap","contoh":[]}]}]}
+{
+  "word": "gorap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27298",
+      "nama": "go.rap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perahu layar yang terbuat dari kayu, bercadik, dan bertutup, dilengkapi kayu-kayu yang berfungsi sebagai pelampung, digerakkan oleh dayung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "gorap-gorap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "113416",
+      "nama": "go.rap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kayu penutup lubang gendang sebelah bawah yang diikat dengan rotan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203897",
+      "nama": "Go.rap",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Halmahera Utara dan Halmahera Barat, Provinsi Maluku Utara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yg dituturkan oleh suku Gorap",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

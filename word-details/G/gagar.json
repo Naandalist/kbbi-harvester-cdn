@@ -1,1 +1,59 @@
-{"word":"gagar","authenticated":true,"entries":[{"id":"23816","nama":"ga.gar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Abr","nama":"Abrap","tipe":"lainnya"}],"definisi":"lantai rumah terbuat dari pohon palem","contoh":[]}]},{"id":"113728","nama":"ga.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"jatuh karena kematangan (tentang buah)","contoh":[{"nomor":2,"teks":"buah manggis itu sudah --"}]}]}]}
+{
+  "word": "gagar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23816",
+      "nama": "ga.gar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Abr",
+              "nama": "Abrap",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lantai rumah terbuat dari pohon palem",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "113728",
+      "nama": "ga.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jatuh karena kematangan (tentang buah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buah manggis itu sudah --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

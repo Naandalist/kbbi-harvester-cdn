@@ -1,1 +1,109 @@
-{"word":"garit","authenticated":true,"entries":[{"id":"24679","nama":"ga.rit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gores","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"garis memanjang hasil torehan benda tajam","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gundukan tanah yang memanjang menyerupai pematang yang akan ditanami","contoh":[{"nomor":2,"teks":"benih kacang panjang itu harus ditanam di atas --"}]}],"etimologi":{"text":"[Jawa Kuno garit 'menggurat, menyerempet']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["garitan","menggarit","menggaritkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"24681","nama":"ga.rit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gerak","contoh":[]}],"etimologi":{"text":"[Jawa Kuno garit 'menggurat, menyerempet']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menggarit","menggaritkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "garit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24679",
+      "nama": "ga.rit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gores",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis memanjang hasil torehan benda tajam",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gundukan tanah yang memanjang menyerupai pematang yang akan ditanami",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "benih kacang panjang itu harus ditanam di atas --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno garit 'menggurat, menyerempet']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "garitan",
+          "menggarit",
+          "menggaritkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24681",
+      "nama": "ga.rit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gerak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno garit 'menggurat, menyerempet']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menggarit",
+          "menggaritkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

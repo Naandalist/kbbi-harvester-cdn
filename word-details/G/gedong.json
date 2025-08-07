@@ -1,1 +1,67 @@
-{"word":"gedong","authenticated":true,"entries":[{"id":"25018","nama":"ge.dong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"gedung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"bangunan gaya Bali berbentuk mengecil ke atas, beratap alang-alang atau ijuk","contoh":[]}],"etimologi":{"text":"[Jawa Kuno gěḍoṅ 'gedung']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["gedongan"],"gabunganKata":["gedong jene","gedong patehan","gedong prabayeksa","gedong purwaretna","gedong simpen"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gedong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25018",
+      "nama": "ge.dong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gedung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bangunan gaya Bali berbentuk mengecil ke atas, beratap alang-alang atau ijuk",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno gěḍoṅ 'gedung']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "gedongan"
+        ],
+        "gabunganKata": [
+          "gedong jene",
+          "gedong patehan",
+          "gedong prabayeksa",
+          "gedong purwaretna",
+          "gedong simpen"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

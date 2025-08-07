@@ -1,1 +1,71 @@
-{"word":"gurab","authenticated":true,"entries":[{"id":"27877","nama":"gu.rab","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"},{"kode":"Par","nama":"Parsi","tipe":"lainnya"}],"definisi":"perahu layar berukuran panjang dan berbilik pada bagian tertentu","contoh":[]}],"etimologi":{"text":"[Persia غراب ghurāb n 'sejenis kapal']","languages":["Persia"]}},{"id":"27878","nama":"gu.rab","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"(burung) gagak","contoh":[]}],"etimologi":{"text":"[Persia غراب ghurāb n 'sejenis kapal']","languages":["Persia"]}}]}
+{
+  "word": "gurab",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27877",
+      "nama": "gu.rab",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Par",
+              "nama": "Parsi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perahu layar berukuran panjang dan berbilik pada bagian tertentu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia غراب ghurāb n 'sejenis kapal']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    },
+    {
+      "id": "27878",
+      "nama": "gu.rab",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(burung) gagak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia غراب ghurāb n 'sejenis kapal']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    }
+  ]
+}

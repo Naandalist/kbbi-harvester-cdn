@@ -1,1 +1,149 @@
-{"word":"gender","authenticated":true,"entries":[{"id":"179349","nama":"gen.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tali yang membelit pada pecut","contoh":[]}],"terkait":{"kataTurunan":["bergender","genderan","menggender"],"gabunganKata":["gender gramatikal","gender leksikal","gender sosial","gender pelog","gender perunggu","gender slendro"],"peribahasa":[],"idiom":[]}},{"id":"25959","nama":"gen.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jenis kelamin","contoh":[{"nomor":2,"teks":"iklan video itu menyasar pengguna berdasarkan usia dan --"}]}],"terkait":{"kataTurunan":["bergender","genderan","menggender"],"gabunganKata":["gender gramatikal","gender leksikal","gender sosial","gender pelog","gender perunggu","gender slendro"],"peribahasa":[],"idiom":[]}},{"id":"25960","nama":"gen.der","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"gamelan Jawa yang dibuat dari bilah-bilah logam berjumlah empat belas buah dengan penggema dari bambu","contoh":[]}],"terkait":{"kataTurunan":["genderan","menggender"],"gabunganKata":["gender pelog","gender perunggu","gender slendro"],"peribahasa":[],"idiom":[]}},{"id":"247394","nama":"gen.der","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"benang kasur yang menyatukan kain kasur kapuk bagian atas dan bawah hingga membentuk bulatan","contoh":[]}]}]}
+{
+  "word": "gender",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "179349",
+      "nama": "gen.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tali yang membelit pada pecut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergender",
+          "genderan",
+          "menggender"
+        ],
+        "gabunganKata": [
+          "gender gramatikal",
+          "gender leksikal",
+          "gender sosial",
+          "gender pelog",
+          "gender perunggu",
+          "gender slendro"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "25959",
+      "nama": "gen.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jenis kelamin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "iklan video itu menyasar pengguna berdasarkan usia dan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergender",
+          "genderan",
+          "menggender"
+        ],
+        "gabunganKata": [
+          "gender gramatikal",
+          "gender leksikal",
+          "gender sosial",
+          "gender pelog",
+          "gender perunggu",
+          "gender slendro"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "25960",
+      "nama": "gen.der",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "gamelan Jawa yang dibuat dari bilah-bilah logam berjumlah empat belas buah dengan penggema dari bambu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "genderan",
+          "menggender"
+        ],
+        "gabunganKata": [
+          "gender pelog",
+          "gender perunggu",
+          "gender slendro"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "247394",
+      "nama": "gen.der",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "benang kasur yang menyatukan kain kasur kapuk bagian atas dan bawah hingga membentuk bulatan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

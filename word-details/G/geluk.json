@@ -1,1 +1,65 @@
-{"word":"geluk","authenticated":true,"entries":[{"id":"25648","nama":"ge.luk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempurung (untuk tempat air); timba; sibur dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai geluk tinggal di air"],"idiom":[]}},{"id":"99109","nama":"ge.luk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"buah kering tak merekah yang memiliki satu biji dengan dinding buah yang keras, biasanya berasal dari bakal buah berongga satu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai geluk tinggal di air"],"idiom":[]}}]}
+{
+  "word": "geluk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25648",
+      "nama": "ge.luk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempurung (untuk tempat air); timba; sibur dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai geluk tinggal di air"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99109",
+      "nama": "ge.luk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buah kering tak merekah yang memiliki satu biji dengan dinding buah yang keras, biasanya berasal dari bakal buah berongga satu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai geluk tinggal di air"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

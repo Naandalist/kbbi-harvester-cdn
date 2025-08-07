@@ -1,1 +1,97 @@
-{"word":"gumbang","authenticated":true,"entries":[{"id":"27724","nama":"gum.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"guci besar","contoh":[]}]},{"id":"27725","nama":"gum.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baju pendek yang terbelah sedikit bagian belakangnya (di tengkuk)","contoh":[]}]},{"id":"257648","nama":"gum.bang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"jala yang memiliki dua pelampung dan dua pemberat pada bagian bawahnya, dipasang melawan arus laut","contoh":[]}]},{"id":"257650","nama":"gum.bang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"menggulung kain di pinggang (seperti pada kain sarung)","contoh":[{"nomor":2,"teks":"sebelum bekerja, dia -- terlebih dahulu kain sarungnya"}]}]}]}
+{
+  "word": "gumbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27724",
+      "nama": "gum.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "guci besar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "27725",
+      "nama": "gum.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baju pendek yang terbelah sedikit bagian belakangnya (di tengkuk)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257648",
+      "nama": "gum.bang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jala yang memiliki dua pelampung dan dua pemberat pada bagian bawahnya, dipasang melawan arus laut",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257650",
+      "nama": "gum.bang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggulung kain di pinggang (seperti pada kain sarung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum bekerja, dia -- terlebih dahulu kain sarungnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

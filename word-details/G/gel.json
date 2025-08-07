@@ -1,1 +1,63 @@
-{"word":"gel","authenticated":true,"entries":[{"id":"25100","nama":"gel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"larutan koloid setengah padat, terbentuk dari zat polimer yang tidak larut dalam air, misalnya larutan pati dalam air yang menyerupai lem","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"filter berwarna yang ketika ditempatkan di depan lampu akan memberi warna pada cahaya","contoh":[]}],"terkait":{"kataTurunan":["mengegel","pengegel","pengegelan"],"gabunganKata":["gel antiseptik","gel olahraga","gel rambut","gel sampo","gel topikal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25100",
+      "nama": "gel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "larutan koloid setengah padat, terbentuk dari zat polimer yang tidak larut dalam air, misalnya larutan pati dalam air yang menyerupai lem",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "filter berwarna yang ketika ditempatkan di depan lampu akan memberi warna pada cahaya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengegel",
+          "pengegel",
+          "pengegelan"
+        ],
+        "gabunganKata": [
+          "gel antiseptik",
+          "gel olahraga",
+          "gel rambut",
+          "gel sampo",
+          "gel topikal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

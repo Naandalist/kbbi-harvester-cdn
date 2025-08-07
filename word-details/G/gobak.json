@@ -1,1 +1,90 @@
-{"word":"gobak","authenticated":true,"entries":[{"id":"27083","nama":"go.bak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"permainan tradisional dengan menggunakan lapangan berbentuk segi empat berpetak-petak, setiap garis dijaga oleh pihak penjaga, pihak yang mau masuk harus melewati garis dan jika kena sentuh oleh penjaga, harus berganti menjadi penjaga","contoh":[]}],"terkait":{"kataTurunan":["menggobak"],"gabunganKata":["gobak bunder"],"peribahasa":[],"idiom":[]}},{"id":"147287","nama":"go.bak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menggobak","contoh":[]}],"terkait":{"kataTurunan":["menggobak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"298888","nama":"go.bak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"menggongseng sagu untuk dijadikan berbagai macam penganan","contoh":[{"nomor":2,"teks":"saya diajari -- oleh ibu"}]}]}]}
+{
+  "word": "gobak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27083",
+      "nama": "go.bak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "permainan tradisional dengan menggunakan lapangan berbentuk segi empat berpetak-petak, setiap garis dijaga oleh pihak penjaga, pihak yang mau masuk harus melewati garis dan jika kena sentuh oleh penjaga, harus berganti menjadi penjaga",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggobak"
+        ],
+        "gabunganKata": [
+          "gobak bunder"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "147287",
+      "nama": "go.bak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menggobak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menggobak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "298888",
+      "nama": "go.bak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggongseng sagu untuk dijadikan berbagai macam penganan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya diajari -- oleh ibu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

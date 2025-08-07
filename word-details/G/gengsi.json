@@ -1,1 +1,78 @@
-{"word":"gengsi","authenticated":true,"entries":[{"id":"26033","nama":"geng.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sanak keluarga (orang-orang yang masih ada hubungan keturunan); asal turunan","contoh":[{"nomor":2,"teks":"tidak ada --nya yang tinggal di sini"},{"nomor":4,"teks":"ia terlalu membanggakan ketinggian --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kehormatan dan pengaruh; harga diri; martabat","contoh":[{"nomor":2,"teks":"tindakannya hanya untuk menjaga --nya"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak mau melakukan sesuatu untuk menjaga martabat atau harga diri","contoh":[{"nomor":2,"teks":"ada orang yang -- ketika disuruh meminta maaf terlebih dahulu"}]}],"terkait":{"kataTurunan":["bergengsi","gengsi-gengsian","kegengsian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gengsi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "26033",
+      "nama": "geng.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sanak keluarga (orang-orang yang masih ada hubungan keturunan); asal turunan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ada --nya yang tinggal di sini"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia terlalu membanggakan ketinggian --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kehormatan dan pengaruh; harga diri; martabat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tindakannya hanya untuk menjaga --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mau melakukan sesuatu untuk menjaga martabat atau harga diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada orang yang -- ketika disuruh meminta maaf terlebih dahulu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bergengsi",
+          "gengsi-gengsian",
+          "kegengsian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

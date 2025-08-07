@@ -1,1 +1,59 @@
-{"word":"gelenak","authenticated":true,"entries":[{"id":"25383","nama":"ge.le.nak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"penganan seperti dodol yang terbuat dari adonan tepung ketan kasar, santan kental, gula merah, dan air jahe","contoh":[]}]},{"id":"231512","nama":"ge.le.nak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"terbuka sampai terlihat jelas isi di dalamnya (tentang makanan)","contoh":[{"nomor":2,"teks":"tolong lihat meja makan, jangan sampai lauk --"}]}]}]}
+{
+  "word": "gelenak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25383",
+      "nama": "ge.le.nak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penganan seperti dodol yang terbuat dari adonan tepung ketan kasar, santan kental, gula merah, dan air jahe",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "231512",
+      "nama": "ge.le.nak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terbuka sampai terlihat jelas isi di dalamnya (tentang makanan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tolong lihat meja makan, jangan sampai lauk --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,92 @@
-{"word":"gacor","authenticated":true,"entries":[{"id":"94027","nama":"ga.cor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkicau di setiap tempat dan waktu (tentang kicauan burung)","contoh":[]}],"terkait":{"kataTurunan":["kegacoran","penggacor"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"236127","nama":"ga.cor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sering memberikan hadiah utama (tentang judi daring)","contoh":[{"nomor":2,"teks":"situs judi --"}]}]},{"id":"236128","nama":"ga.cor","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sering mencetak gol (tentang sepak bola)","contoh":[{"nomor":2,"teks":"deretan striker -- menjadi rebutan klub-klub besar"}]}]}]}
+{
+  "word": "gacor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "94027",
+      "nama": "ga.cor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkicau di setiap tempat dan waktu (tentang kicauan burung)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kegacoran",
+          "penggacor"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "236127",
+      "nama": "ga.cor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sering memberikan hadiah utama (tentang judi daring)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "situs judi --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "236128",
+      "nama": "ga.cor",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sering mencetak gol (tentang sepak bola)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "deretan striker -- menjadi rebutan klub-klub besar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

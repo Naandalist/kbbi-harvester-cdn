@@ -1,1 +1,96 @@
-{"word":"gawang","authenticated":true,"entries":[{"id":"24845","nama":"ga.wang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dua tiang yang dihubungkan dengan kayu palang pada bagian ujung atas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"dua tiang yang berpalang sebagai tempat sasaran memasukkan bola (dalam permainan sepak bola dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"dua tiang berpalang sebagai rintangan yang harus dilompati dalam cabor atletik, terutama pada nomor lari gawang dan lari halang-rintang","contoh":[]}],"terkait":{"kataTurunan":["gawangan","menggawangi","penggawang"],"gabunganKata":["gawang kosong","gawang pintu"],"peribahasa":[],"idiom":[]}},{"id":"243121","nama":"ga.wang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Beng","nama":"Bengkulu","tipe":"lainnya"}],"definisi":"halaman yang bersih","contoh":[]}]}]}
+{
+  "word": "gawang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24845",
+      "nama": "ga.wang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dua tiang yang dihubungkan dengan kayu palang pada bagian ujung atas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dua tiang yang berpalang sebagai tempat sasaran memasukkan bola (dalam permainan sepak bola dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dua tiang berpalang sebagai rintangan yang harus dilompati dalam cabor atletik, terutama pada nomor lari gawang dan lari halang-rintang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "gawangan",
+          "menggawangi",
+          "penggawang"
+        ],
+        "gabunganKata": [
+          "gawang kosong",
+          "gawang pintu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "243121",
+      "nama": "ga.wang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Beng",
+              "nama": "Bengkulu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "halaman yang bersih",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

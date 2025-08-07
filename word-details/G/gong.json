@@ -1,1 +1,80 @@
-{"word":"gong","authenticated":true,"entries":[{"id":"27241","nama":"gong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"alat musik pukul paling besar di antara peranti gamelan sejenis, berbentuk bundar dengan tonjolan di tengahnya (tempat memukul)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"acara dan sebagainya yang terakhir (yang menarik perhatian)","contoh":[{"nomor":2,"teks":"acara lawakan itu dijadikan -- dari keseluruhan acara malam itu"}]}],"etimologi":{"text":"[Jawa Kuno goṅ 'gong']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["gong-gongan","mengegong"],"gabunganKata":["gong ageng","gong buluh","gong bumbung","gong genang","gong kayu","gong kebyar","gong kemodong","gong nekara","gong senen","gong siyem","gong suwukan","gong waning"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "gong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27241",
+      "nama": "gong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "alat musik pukul paling besar di antara peranti gamelan sejenis, berbentuk bundar dengan tonjolan di tengahnya (tempat memukul)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "acara dan sebagainya yang terakhir (yang menarik perhatian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara lawakan itu dijadikan -- dari keseluruhan acara malam itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno goṅ 'gong']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "gong-gongan",
+          "mengegong"
+        ],
+        "gabunganKata": [
+          "gong ageng",
+          "gong buluh",
+          "gong bumbung",
+          "gong genang",
+          "gong kayu",
+          "gong kebyar",
+          "gong kemodong",
+          "gong nekara",
+          "gong senen",
+          "gong siyem",
+          "gong suwukan",
+          "gong waning"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"word":"g","authenticated":true,"entries":[{"id":"23624","nama":"G","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huruf ke-7 abjad Indonesia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-5 dalam tangga nada diatonik C mayor","contoh":[]}]},{"id":"257688","nama":"G","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Prm","nama":"Pramuka","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"penggalang; pramuka yang berusia 11—15 tahun","contoh":[]}]},{"id":"270706","nama":"G","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kode pelat nomor kendaraan meliputi wilayah Pekalongan, Pemalang, Batang, Tegal, dan Brebes","contoh":[]}]}]}
+{
+  "word": "g",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23624",
+      "nama": "G",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huruf ke-7 abjad Indonesia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-5 dalam tangga nada diatonik C mayor",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257688",
+      "nama": "G",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Prm",
+              "nama": "Pramuka",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penggalang; pramuka yang berusia 11—15 tahun",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "270706",
+      "nama": "G",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode pelat nomor kendaraan meliputi wilayah Pekalongan, Pemalang, Batang, Tegal, dan Brebes",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

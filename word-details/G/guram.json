@@ -1,1 +1,90 @@
-{"word":"guram","authenticated":true,"entries":[{"id":"27884","nama":"gu.ram","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"suram; muram; tidak bercahaya","contoh":[{"nomor":2,"teks":"betapa sepi dan --nya hidup saya tahun-tahun terakhir ini"}]}],"terkait":{"kataTurunan":["keguraman","mengguram"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"27887","nama":"gu.ram","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tungau yang berkaki panjang, biasanya bertubuh putih keabu-abuan yang menjadi cokelat kemerahan saat membesar, ektoparasit pada unggas, nokturnal, merupakan vektor penyakit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kecil dan tidak bermutu; tidak diperhitungkan","contoh":[{"nomor":2,"teks":"dalam percaturan politik partai-partai -- biasanya tersisihkan"}]}]}]}
+{
+  "word": "guram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27884",
+      "nama": "gu.ram",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suram; muram; tidak bercahaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "betapa sepi dan --nya hidup saya tahun-tahun terakhir ini"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keguraman",
+          "mengguram"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "27887",
+      "nama": "gu.ram",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tungau yang berkaki panjang, biasanya bertubuh putih keabu-abuan yang menjadi cokelat kemerahan saat membesar, ektoparasit pada unggas, nokturnal, merupakan vektor penyakit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecil dan tidak bermutu; tidak diperhitungkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam percaturan politik partai-partai -- biasanya tersisihkan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

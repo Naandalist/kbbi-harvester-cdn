@@ -1,1 +1,54 @@
-{"word":"geder","authenticated":true,"entries":[{"id":"181162","nama":"ge.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"suara nyaring tinggi dan tidak enak didengar","contoh":[]}]},{"id":"228637","nama":"ge.der","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"getah pohon palem","contoh":[]}]}]}
+{
+  "word": "geder",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "181162",
+      "nama": "ge.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "suara nyaring tinggi dan tidak enak didengar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "228637",
+      "nama": "ge.der",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "getah pohon palem",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"gasak-gasakan","authenticated":true,"entries":[{"id":"24764","nama":"ga.sak-ga.sak.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpukul-pukulan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"saling bersaing; saling menjatuhkan (dalam persaingan)","contoh":[{"nomor":2,"teks":"iklim usaha cukup sulit, termasuk ~ antarpengusaha"}]}],"rootWord":"gasak"}]}
+{
+  "word": "gasak-gasakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24764",
+      "nama": "ga.sak-ga.sak.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpukul-pukulan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saling bersaing; saling menjatuhkan (dalam persaingan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "iklim usaha cukup sulit, termasuk ~ antarpengusaha"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gasak"
+    }
+  ]
+}
