@@ -1,1 +1,35 @@
-{"word":"floristik","authenticated":true,"entries":[{"id":"164491","nama":"flo.ris.tik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"berkaitan dengan floristika","contoh":[{"nomor":2,"teks":"vegetasi mempunyai ciri-ciri -- yang khas"}]}]}]}
+{
+  "word": "floristik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "164491",
+      "nama": "flo.ris.tik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berkaitan dengan floristika",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "vegetasi mempunyai ciri-ciri -- yang khas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

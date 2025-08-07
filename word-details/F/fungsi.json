@@ -1,1 +1,138 @@
-{"word":"fungsi","authenticated":true,"entries":[{"id":"23579","nama":"fung.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jabatan atau pekerjaan yang dilakukan","contoh":[{"nomor":2,"teks":"jika ketua tidak ada, wakil ketua melakukan -- ketua"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"faal1","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"besaran yang berhubungan, jika besaran yang satu berubah, besaran yang lain juga berubah","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"kegunaan suatu hal","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"peran sebuah unsur bahasa dalam satuan sintaksis yang lebih luas (seperti nomina berfungsi sebagai subjek)","contoh":[]}],"terkait":{"kataTurunan":["berfungsi","kefungsian","memfungsikan","pemfungsian","sefungsi"],"gabunganKata":["fungsi aljabar","fungsi eksokrin","fungsi eksponensial","fungsi ekspresif","fungsi endokrin","fungsi fatis","fungsi hutan","fungsi ideasional","fungsi interpersonal","fungsi invers","fungsi iterasi","fungsi kawasan","fungsi kebalikan","fungsi kendala","fungsi kognitif","fungsi komunikatif","fungsi konsumsi","fungsi kuadrat","fungsi laten","fungsi lingkungan","fungsi logaritmik","fungsi logistik","fungsi manifes","fungsi motorik","fungsi pembelian","fungsi pustaka","fungsi sosial","fungsi tekstual","fungsi tetap","fungsi transfer lingkaran terbuka","fungsi vital","fungsi yudikatif"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "fungsi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23579",
+      "nama": "fung.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jabatan atau pekerjaan yang dilakukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika ketua tidak ada, wakil ketua melakukan -- ketua"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "faal1",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "besaran yang berhubungan, jika besaran yang satu berubah, besaran yang lain juga berubah",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kegunaan suatu hal",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "peran sebuah unsur bahasa dalam satuan sintaksis yang lebih luas (seperti nomina berfungsi sebagai subjek)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berfungsi",
+          "kefungsian",
+          "memfungsikan",
+          "pemfungsian",
+          "sefungsi"
+        ],
+        "gabunganKata": [
+          "fungsi aljabar",
+          "fungsi eksokrin",
+          "fungsi eksponensial",
+          "fungsi ekspresif",
+          "fungsi endokrin",
+          "fungsi fatis",
+          "fungsi hutan",
+          "fungsi ideasional",
+          "fungsi interpersonal",
+          "fungsi invers",
+          "fungsi iterasi",
+          "fungsi kawasan",
+          "fungsi kebalikan",
+          "fungsi kendala",
+          "fungsi kognitif",
+          "fungsi komunikatif",
+          "fungsi konsumsi",
+          "fungsi kuadrat",
+          "fungsi laten",
+          "fungsi lingkungan",
+          "fungsi logaritmik",
+          "fungsi logistik",
+          "fungsi manifes",
+          "fungsi motorik",
+          "fungsi pembelian",
+          "fungsi pustaka",
+          "fungsi sosial",
+          "fungsi tekstual",
+          "fungsi tetap",
+          "fungsi transfer lingkaran terbuka",
+          "fungsi vital",
+          "fungsi yudikatif"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

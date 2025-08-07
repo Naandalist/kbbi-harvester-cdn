@@ -1,1 +1,73 @@
-{"word":"folio","authenticated":true,"entries":[{"id":"23329","nama":"fo.li.o","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran kertas lebih kurang 21,5 x 32,5 cm","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran selembar plano berukuran baku yang dilipat satu kali, ditulis dengan tanda 2°","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran kertas A-4 menurut ukuran satuan sistem A","contoh":[]}]},{"id":"195346","nama":"fo.li.o","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hot","nama":"Perhotelan","tipe":"lainnya"}],"definisi":"catatan akun tamu yang berisi tagihan selama menggunakan produk, fasilitas, dan layanan hotel","contoh":[]}]}]}
+{
+  "word": "folio",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23329",
+      "nama": "fo.li.o",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran kertas lebih kurang 21,5 x 32,5 cm",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran selembar plano berukuran baku yang dilipat satu kali, ditulis dengan tanda 2°",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran kertas A-4 menurut ukuran satuan sistem A",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "195346",
+      "nama": "fo.li.o",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hot",
+              "nama": "Perhotelan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "catatan akun tamu yang berisi tagihan selama menggunakan produk, fasilitas, dan layanan hotel",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

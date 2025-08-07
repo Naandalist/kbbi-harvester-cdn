@@ -1,1 +1,41 @@
-{"word":"fulus","authenticated":true,"entries":[{"id":"23563","nama":"fu.lus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"uang","contoh":[{"nomor":2,"teks":"banyak yang lebih mementingkan -- daripada tugas"}]}],"etimologi":{"text":"[Arab فُلُوْسٌ fulūs n pl f 'uang']","languages":["Arab"]}}]}
+{
+  "word": "fulus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23563",
+      "nama": "fu.lus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak yang lebih mementingkan -- daripada tugas"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فُلُوْسٌ fulūs n pl f 'uang']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

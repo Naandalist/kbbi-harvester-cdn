@@ -1,1 +1,64 @@
-{"word":"fertil","authenticated":true,"entries":[{"id":"23073","nama":"fer.til","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"subur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"berpotensi untuk membelah menjadi dua inti","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"isotop yang dapat diubah menjadi material yang dapat terbelah melalui penyinaran dalam reaktor nuklir","contoh":[]}]}]}
+{
+  "word": "fertil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23073",
+      "nama": "fer.til",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "subur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berpotensi untuk membelah menjadi dua inti",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "isotop yang dapat diubah menjadi material yang dapat terbelah melalui penyinaran dalam reaktor nuklir",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

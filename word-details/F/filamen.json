@@ -1,1 +1,54 @@
-{"word":"filamen","authenticated":true,"entries":[{"id":"23125","nama":"fi.la.men","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda yang berbentuk seperti benang yang tipis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"tangkai sari","contoh":[]}],"terkait":{"kataTurunan":["berfilamen"],"gabunganKata":["filamen poliester","filamen rayon","filamen terikat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "filamen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23125",
+      "nama": "fi.la.men",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda yang berbentuk seperti benang yang tipis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tangkai sari",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berfilamen"
+        ],
+        "gabunganKata": [
+          "filamen poliester",
+          "filamen rayon",
+          "filamen terikat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

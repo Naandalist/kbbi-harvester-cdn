@@ -1,1 +1,60 @@
-{"word":"formulir","authenticated":true,"entries":[{"id":"23384","nama":"for.mu.lir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lembar isian; surat isian","contoh":[{"nomor":2,"teks":"-- yang telah diisi harus diserahkan kepada bagian pendaftaran"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"halaman web yang memungkinkan pengguna untuk memasukkan data, yang kemudian dapat dikirim kembali ke server web tersebut","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["formulir lamaran","formulir pendaftaran","formulir permintaan perbaikan","formulir permohonan","formulir reservasi","formulir saran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "formulir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23384",
+      "nama": "for.mu.lir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lembar isian; surat isian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang telah diisi harus diserahkan kepada bagian pendaftaran"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "halaman web yang memungkinkan pengguna untuk memasukkan data, yang kemudian dapat dikirim kembali ke server web tersebut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "formulir lamaran",
+          "formulir pendaftaran",
+          "formulir permintaan perbaikan",
+          "formulir permohonan",
+          "formulir reservasi",
+          "formulir saran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

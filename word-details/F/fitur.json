@@ -1,1 +1,59 @@
-{"word":"fitur","authenticated":true,"entries":[{"id":"23244","nama":"fi.tur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"karakteristik khusus yang terdapat pada suatu alat (televisi, ponsel, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"fungsi, kemampuan, atau desain khusus dari perangkat keras atau perangkat lunak","contoh":[]}],"terkait":{"kataTurunan":["berfitur"],"gabunganKata":["fitur albedo","fitur invarian","fitur keamanan","fitur keselamatan","fitur pencarian","fitur premium","fitur tambahan","fitur utama"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "fitur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23244",
+      "nama": "fi.tur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karakteristik khusus yang terdapat pada suatu alat (televisi, ponsel, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "fungsi, kemampuan, atau desain khusus dari perangkat keras atau perangkat lunak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berfitur"
+        ],
+        "gabunganKata": [
+          "fitur albedo",
+          "fitur invarian",
+          "fitur keamanan",
+          "fitur keselamatan",
+          "fitur pencarian",
+          "fitur premium",
+          "fitur tambahan",
+          "fitur utama"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"fa","authenticated":true,"entries":[{"id":"22816","nama":"fa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf ke-20 abjad Arab","contoh":[]}],"etimologi":{"text":"[Arab فَاءٌ fā’ 'nama huruf ke-20 abjad Arab']","languages":["Arab"]}},{"id":"22817","nama":"fa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-4 pada urutan tangga nada diatonik, dilambangkan dengan angka 4","contoh":[]}],"etimologi":{"text":"[Arab فَاءٌ fā’ 'nama huruf ke-20 abjad Arab']","languages":["Arab"]}}]}
+{
+  "word": "fa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22816",
+      "nama": "fa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf ke-20 abjad Arab",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَاءٌ fā’ 'nama huruf ke-20 abjad Arab']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "22817",
+      "nama": "fa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-4 pada urutan tangga nada diatonik, dilambangkan dengan angka 4",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَاءٌ fā’ 'nama huruf ke-20 abjad Arab']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

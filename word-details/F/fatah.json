@@ -1,1 +1,79 @@
-{"word":"fatah","authenticated":true,"entries":[{"id":"22992","nama":"fa.tah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"penaklukan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"kemenangan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"pembuka: pembuka pintu gerbang kerahiman Allah ya pembuka segala hati","contoh":[{"nomor":2,"teks":"Alfatah"},{"nomor":4,"teks":"ya -- alkulub"}]}],"etimologi":{"text":"[Arab فَتْحٌ fatḥ n sg m 'pembukaan; penaklukan; kemenangan']","languages":["Arab"]}}]}
+{
+  "word": "fatah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22992",
+      "nama": "fa.tah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penaklukan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kemenangan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pembuka: pembuka pintu gerbang kerahiman Allah ya pembuka segala hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Alfatah"
+            },
+            {
+              "nomor": 4,
+              "teks": "ya -- alkulub"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab فَتْحٌ fatḥ n sg m 'pembukaan; penaklukan; kemenangan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

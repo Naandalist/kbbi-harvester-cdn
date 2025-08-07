@@ -1,1 +1,85 @@
-{"word":"f","authenticated":true,"entries":[{"id":"22815","nama":"F","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huruf ke-6 abjad Indonesia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-4 dalam tangga nada diatonik C mayor","contoh":[]}]},{"id":"266055","nama":"F","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"lambang untuk fluorin","contoh":[]}]},{"id":"270701","nama":"F","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kode pelat nomor kendaraan daerah Bogor, Cianjur, dan Sukabumi","contoh":[]}]}]}
+{
+  "word": "f",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22815",
+      "nama": "F",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huruf ke-6 abjad Indonesia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-4 dalam tangga nada diatonik C mayor",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "266055",
+      "nama": "F",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "lambang untuk fluorin",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "270701",
+      "nama": "F",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode pelat nomor kendaraan daerah Bogor, Cianjur, dan Sukabumi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"fohn","authenticated":true,"entries":[{"id":"99062","nama":"fohn","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hidm","nama":"Hidrometeorologi","tipe":"lainnya"}],"definisi":"angin yang kering dan panas di sisi bawah barisan gunung","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["fohn kerdil"],"peribahasa":[],"idiom":[]}},{"id":"97191","nama":"Föhn","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Jm","nama":"Jerman","tipe":"lainnya"}],"definisi":"angin panas yang turun (di Swiss)","contoh":[]}]}]}
+{
+  "word": "fohn",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "99062",
+      "nama": "fohn",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hidm",
+              "nama": "Hidrometeorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "angin yang kering dan panas di sisi bawah barisan gunung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "fohn kerdil"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "97191",
+      "nama": "Föhn",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jm",
+              "nama": "Jerman",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "angin panas yang turun (di Swiss)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

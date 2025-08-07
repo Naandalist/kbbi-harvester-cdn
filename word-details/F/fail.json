@@ -1,1 +1,48 @@
-{"word":"fail","authenticated":true,"entries":[{"id":"22850","nama":"fa.il","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rak untuk menyimpan dokumen","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dokumen; berkas","contoh":[]}],"terkait":{"kataTurunan":["berfail"],"gabunganKata":["fail komputer","fail terkunci"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "fail",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22850",
+      "nama": "fa.il",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rak untuk menyimpan dokumen",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dokumen; berkas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berfail"
+        ],
+        "gabunganKata": [
+          "fail komputer",
+          "fail terkunci"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

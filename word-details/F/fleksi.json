@@ -1,1 +1,83 @@
-{"word":"fleksi","authenticated":true,"entries":[{"id":"23259","nama":"flek.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"perubahan bentuk kata sesuai dengan perbedaan waktu, jenis kelamin, jumlah, dan sebagainya, misalnya terdapat pada bahasa Inggris dan Jerman","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"proses atau hasil penambahan afiks pada dasar atau pada akar untuk membatasi makna gramatikalnya","contoh":[]}]},{"id":"23260","nama":"flek.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Anat","nama":"Anatomi","tipe":"lainnya"}],"definisi":"gerakan lentur pada persendian","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gerakan bersama yang menyebabkan sudut antara dua anggota badan menurun dengan posisi batang leher membungkuk ke depan","contoh":[]}]}]}
+{
+  "word": "fleksi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23259",
+      "nama": "flek.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perubahan bentuk kata sesuai dengan perbedaan waktu, jenis kelamin, jumlah, dan sebagainya, misalnya terdapat pada bahasa Inggris dan Jerman",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "proses atau hasil penambahan afiks pada dasar atau pada akar untuk membatasi makna gramatikalnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "23260",
+      "nama": "flek.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Anat",
+              "nama": "Anatomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gerakan lentur pada persendian",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerakan bersama yang menyebabkan sudut antara dua anggota badan menurun dengan posisi batang leher membungkuk ke depan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

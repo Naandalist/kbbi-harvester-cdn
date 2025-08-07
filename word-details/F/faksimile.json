@@ -1,1 +1,47 @@
-{"word":"faksimile","authenticated":true,"entries":[{"id":"22866","nama":"fak.si.mi.le","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pesawat atau mesin untuk mengirim dan menerima berita dan gambar melalui telefoto atau komunikasi radio dengan sistem reproduksi fotografi","contoh":[{"nomor":2,"teks":"telah terjadi perkembangan teknologi informasi mulai dari telepon, --, sampai internet"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"teknik mengubah halaman surat kabar untuk ditransmisikan melalui satelit komunikasi dari percetakan di suatu negara ke percetakan di negara lain","contoh":[]}]}]}
+{
+  "word": "faksimile",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22866",
+      "nama": "fak.si.mi.le",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pesawat atau mesin untuk mengirim dan menerima berita dan gambar melalui telefoto atau komunikasi radio dengan sistem reproduksi fotografi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "telah terjadi perkembangan teknologi informasi mulai dari telepon, --, sampai internet"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "teknik mengubah halaman surat kabar untuk ditransmisikan melalui satelit komunikasi dari percetakan di suatu negara ke percetakan di negara lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
