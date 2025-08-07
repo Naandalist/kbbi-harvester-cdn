@@ -1,1 +1,76 @@
-{"word":"modulus","authenticated":true,"entries":[{"id":"54906","nama":"mo.du.lus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"bilangan yang membagi dua bilangan lain sehingga memperoleh sisa yang sama","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"nilai mutlak dari bilangan kompleks","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"tetapan yang membuat kesebandingan menjadi kesamaan (menyangkut pengukuran gaya atau massa dan sifat-sifat yang bersangkutan dengan gaya dan massa)","contoh":[]}],"terkait":{"kataTurunan":["bermodulus"],"gabunganKata":["modulus deformasi","modulus jarak","modulus Young"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "modulus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54906",
+      "nama": "mo.du.lus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bilangan yang membagi dua bilangan lain sehingga memperoleh sisa yang sama",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nilai mutlak dari bilangan kompleks",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tetapan yang membuat kesebandingan menjadi kesamaan (menyangkut pengukuran gaya atau massa dan sifat-sifat yang bersangkutan dengan gaya dan massa)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermodulus"
+        ],
+        "gabunganKata": [
+          "modulus deformasi",
+          "modulus jarak",
+          "modulus Young"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

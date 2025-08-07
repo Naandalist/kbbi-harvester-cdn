@@ -1,1 +1,69 @@
-{"word":"memasuki","authenticated":true,"entries":[{"id":"52657","nama":"me.ma.suk.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"masuk ke dalam","contoh":[{"nomor":2,"teks":"mereka harus ~ gua untuk mendapatkan sarang burung itu"},{"nomor":4,"teks":"tersesat ~ daerah terlarang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencampuri urusan orang lain","contoh":[{"nomor":2,"teks":"ia terkenal suka ~ urusan orang lain"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikuti (kursus, kuliah, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia berniat ~ kursus komputer"}]}],"rootWord":"masuk"}]}
+{
+  "word": "memasuki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52657",
+      "nama": "me.ma.suk.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk ke dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka harus ~ gua untuk mendapatkan sarang burung itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "tersesat ~ daerah terlarang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencampuri urusan orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia terkenal suka ~ urusan orang lain"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikuti (kursus, kuliah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berniat ~ kursus komputer"
+            }
+          ]
+        }
+      ],
+      "rootWord": "masuk"
+    }
+  ]
+}

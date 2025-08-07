@@ -1,1 +1,56 @@
-{"word":"meremang","authenticated":true,"entries":[{"id":"68450","nama":"me.re.mang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa seram; tegak (bulu badan)","contoh":[{"nomor":2,"teks":"~ bulu tengkuknya mendengar suara itu"}]}],"rootWord":"remang¹"},{"id":"68453","nama":"me.re.mang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"meleleh (air mata); bersimbah (peluh)","contoh":[]}],"rootWord":"remang²"}]}
+{
+  "word": "meremang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68450",
+      "nama": "me.re.mang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa seram; tegak (bulu badan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bulu tengkuknya mendengar suara itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "remang¹"
+    },
+    {
+      "id": "68453",
+      "nama": "me.re.mang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meleleh (air mata); bersimbah (peluh)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "remang²"
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"word":"menghanyutkan","authenticated":true,"entries":[{"id":"28574","nama":"meng.ha.nyut.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa hanyut; membawa mengalir; menyebabkan hanyut","contoh":[{"nomor":2,"teks":"banjir bandang ~ jembatan dan rumah-rumah penduduk"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membawa (diri) berangan-angan","contoh":[{"nomor":2,"teks":"~ diri dalam khayalan"}]}],"rootWord":"hanyut","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["air tenang (biasa) menghanyutkan","air tenang menghanyutkan"],"idiom":[]}}]}
+{
+  "word": "menghanyutkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28574",
+      "nama": "meng.ha.nyut.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa hanyut; membawa mengalir; menyebabkan hanyut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banjir bandang ~ jembatan dan rumah-rumah penduduk"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa (diri) berangan-angan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ diri dalam khayalan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hanyut",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air tenang (biasa) menghanyutkan",
+          "air tenang menghanyutkan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

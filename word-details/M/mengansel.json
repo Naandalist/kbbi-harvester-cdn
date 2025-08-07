@@ -1,1 +1,36 @@
-{"word":"mengansel","authenticated":true,"entries":[{"id":"36748","nama":"me.ngan.sel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"membatalkan","contoh":[{"nomor":2,"teks":"dia ~ perjalanannya ke luar kota karena ada keperluan mendadak"}]}],"rootWord":"kansel"}]}
+{
+  "word": "mengansel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36748",
+      "nama": "me.ngan.sel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membatalkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ perjalanannya ke luar kota karena ada keperluan mendadak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kansel"
+    }
+  ]
+}

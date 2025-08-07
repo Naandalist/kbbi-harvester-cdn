@@ -1,1 +1,52 @@
-{"word":"membuhul","authenticated":true,"entries":[{"id":"12921","nama":"mem.bu.hul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyimpul; mengikat (tali)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikat (perjanjian)","contoh":[]}],"rootWord":"buhul","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mengebat erat-erat, membuhul mati-mati","menggenggam erat, membuhul mati"],"idiom":[]}}]}
+{
+  "word": "membuhul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12921",
+      "nama": "mem.bu.hul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyimpul; mengikat (tali)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat (perjanjian)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "buhul",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mengebat erat-erat, membuhul mati-mati",
+          "menggenggam erat, membuhul mati"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

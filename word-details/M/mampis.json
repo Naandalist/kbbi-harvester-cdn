@@ -1,1 +1,71 @@
-{"word":"mampis","authenticated":true,"entries":[{"id":"117976","nama":"mam.pis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"masih sedikit buahnya (tentang pohon)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"mengambil sisa buah pohon","contoh":[]}]},{"id":"163018","nama":"mam.pis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sbw","nama":"Sumbawa","tipe":"lainnya"}],"definisi":"berbau harum (tentang tanah), merupakan pertanda baik untuk mendirikan rumah di atasnya","contoh":[]}]}]}
+{
+  "word": "mampis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "117976",
+      "nama": "mam.pis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "masih sedikit buahnya (tentang pohon)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengambil sisa buah pohon",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "163018",
+      "nama": "mam.pis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sbw",
+              "nama": "Sumbawa",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berbau harum (tentang tanah), merupakan pertanda baik untuk mendirikan rumah di atasnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

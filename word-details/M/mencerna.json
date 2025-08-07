@@ -1,1 +1,87 @@
-{"word":"mencerna","authenticated":true,"entries":[{"id":"15927","nama":"men.cer.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi hancur (luluh)","contoh":[{"nomor":2,"teks":"gadis itu ~ hati diimpit rindu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghancurkan (makanan hingga menjadi cair dan dapat menyerap ke dalam darah)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyerapkan (memasukkan) ke dalam hati, pikiran, dan sebagainya","contoh":[{"nomor":2,"teks":"ia ~ benar-benar semua nasihat ibunya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memahami; menyerapkan ke dalam pikiran","contoh":[{"nomor":2,"teks":"ia belum dapat ~ hal-hal yang telah diterangkan"}]}],"rootWord":"cerna"}]}
+{
+  "word": "mencerna",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15927",
+      "nama": "men.cer.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi hancur (luluh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu ~ hati diimpit rindu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghancurkan (makanan hingga menjadi cair dan dapat menyerap ke dalam darah)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerapkan (memasukkan) ke dalam hati, pikiran, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ benar-benar semua nasihat ibunya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memahami; menyerapkan ke dalam pikiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia belum dapat ~ hal-hal yang telah diterangkan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cerna"
+    }
+  ]
+}

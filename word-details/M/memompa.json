@@ -1,1 +1,56 @@
-{"word":"memompa","authenticated":true,"entries":[{"id":"64612","nama":"me.mom.pa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan pompa (untuk mengisi udara, mengambil air, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ ban sepedanya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisi (memberikan) banyak-banyak (tentang pelajaran atau sesuatu yang diajarkan)","contoh":[{"nomor":2,"teks":"guru itu ~ murid-muridnya dengan berbagai pelajaran untuk menghadapi ujian"}]}],"rootWord":"pompa","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["memompa semangat"]}}]}
+{
+  "word": "memompa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64612",
+      "nama": "me.mom.pa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan pompa (untuk mengisi udara, mengambil air, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ ban sepedanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisi (memberikan) banyak-banyak (tentang pelajaran atau sesuatu yang diajarkan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru itu ~ murid-muridnya dengan berbagai pelajaran untuk menghadapi ujian"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pompa",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "memompa semangat"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"word":"mahajana","authenticated":true,"entries":[{"id":"51029","nama":"ma.ha.ja.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"orang yang amat ternama; orang besar","contoh":[]}],"etimologi":{"text":"[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan जन jana 'orang, manusia, subjek, makhluk']","languages":["Sanskerta"]}},{"id":"51030","nama":"ma.ha.ja.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"masyarakat; umum: di depan umum","contoh":[{"nomor":2,"teks":"di --"},{"nomor":4,"teks":"jangan pula diajarkan segala masalah yang sulit-sulit di -- sekaliannya"}]}],"etimologi":{"text":"[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan जन jana 'orang, manusia, subjek, makhluk']","languages":["Sanskerta"]}}]}
+{
+  "word": "mahajana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51029",
+      "nama": "ma.ha.ja.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang amat ternama; orang besar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan जन jana 'orang, manusia, subjek, makhluk']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    },
+    {
+      "id": "51030",
+      "nama": "ma.ha.ja.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masyarakat; umum: di depan umum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di --"
+            },
+            {
+              "nomor": 4,
+              "teks": "jangan pula diajarkan segala masalah yang sulit-sulit di -- sekaliannya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan जन jana 'orang, manusia, subjek, makhluk']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

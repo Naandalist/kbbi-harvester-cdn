@@ -1,1 +1,51 @@
-{"word":"menyalang","authenticated":true,"entries":[{"id":"71345","nama":"me.nya.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menikam belikat sampai ke jantung dengan keris panjang (sebagai hukuman); menikam dengan salang","contoh":[]}],"rootWord":"salang¹"},{"id":"167242","nama":"me.nya.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbuka lebar-lebar (tentang mata)","contoh":[{"nomor":2,"teks":"matanya ~ penuh emosi"}]}],"rootWord":"nyalang"}]}
+{
+  "word": "menyalang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71345",
+      "nama": "me.nya.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menikam belikat sampai ke jantung dengan keris panjang (sebagai hukuman); menikam dengan salang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "salang¹"
+    },
+    {
+      "id": "167242",
+      "nama": "me.nya.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbuka lebar-lebar (tentang mata)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya ~ penuh emosi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "nyalang"
+    }
+  ]
+}

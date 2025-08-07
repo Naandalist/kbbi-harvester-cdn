@@ -1,1 +1,88 @@
-{"word":"marah","authenticated":true,"entries":[{"id":"52278","nama":"ma.rah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat tidak senang (karena dihina, diperlakukan tidak sepantasnya, dan sebagainya); berang; gusar","contoh":[]}],"etimologi":{"text":"[Jawa Kuno rah 'darah; marah: berdarah']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bermarahan","kemarah-marahan","kemarahan","marah-marah","marahan","memarah-marahi","memarahi","memarahkan","pemarah","semarah"],"gabunganKata":[],"peribahasa":["marah akan tikus, rengkiang dibakar"],"idiom":[]}},{"id":"52286","nama":"ma.rah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gelar anak sutan yang menikah dengan perempuan biasa atau putri (bangsawan) dengan laki-laki biasa","contoh":[]}],"etimologi":{"text":"[Jawa Kuno rah 'darah; marah: berdarah']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["marah akan tikus, rengkiang dibakar"],"idiom":[]}}]}
+{
+  "word": "marah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52278",
+      "nama": "ma.rah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat tidak senang (karena dihina, diperlakukan tidak sepantasnya, dan sebagainya); berang; gusar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rah 'darah; marah: berdarah']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bermarahan",
+          "kemarah-marahan",
+          "kemarahan",
+          "marah-marah",
+          "marahan",
+          "memarah-marahi",
+          "memarahi",
+          "memarahkan",
+          "pemarah",
+          "semarah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "marah akan tikus, rengkiang dibakar"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52286",
+      "nama": "ma.rah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gelar anak sutan yang menikah dengan perempuan biasa atau putri (bangsawan) dengan laki-laki biasa",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno rah 'darah; marah: berdarah']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "marah akan tikus, rengkiang dibakar"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

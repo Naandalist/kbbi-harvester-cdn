@@ -1,1 +1,48 @@
-{"word":"menyuap","authenticated":true,"entries":[{"id":"79103","nama":"me.nyu.ap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"makan dengan tangan (tidak dengan sendok dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memberi uang sogok; menyogok; menyuapi","contoh":[{"nomor":2,"teks":"sebenarnya uang sebanyak itu disediakan untuk ~ orang-orang yang berpengaruh"}]}],"rootWord":"suap"}]}
+{
+  "word": "menyuap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79103",
+      "nama": "me.nyu.ap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makan dengan tangan (tidak dengan sendok dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi uang sogok; menyogok; menyuapi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebenarnya uang sebanyak itu disediakan untuk ~ orang-orang yang berpengaruh"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suap"
+    }
+  ]
+}

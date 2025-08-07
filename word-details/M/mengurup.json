@@ -1,1 +1,53 @@
-{"word":"mengurup","authenticated":true,"entries":[{"id":"90088","nama":"meng.u.rup","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"menukar uang dengan uang (misalnya uang besar dengan uang kecil)","contoh":[{"nomor":2,"teks":"pada suatu hari datanglah Raja Alam kepada Kapitan Holanda hendak ~ rial"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menukar barang dengan barang; barter","contoh":[{"nomor":2,"teks":"penduduk desa itu pergi ke pasar untuk ~ hasil bumi dengan barang-barang keperluan sehari-hari"}]}],"rootWord":"urup¹"}]}
+{
+  "word": "mengurup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90088",
+      "nama": "meng.u.rup",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menukar uang dengan uang (misalnya uang besar dengan uang kecil)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada suatu hari datanglah Raja Alam kepada Kapitan Holanda hendak ~ rial"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menukar barang dengan barang; barter",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penduduk desa itu pergi ke pasar untuk ~ hasil bumi dengan barang-barang keperluan sehari-hari"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urup¹"
+    }
+  ]
+}

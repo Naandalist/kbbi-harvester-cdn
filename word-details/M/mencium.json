@@ -1,1 +1,146 @@
-{"word":"mencium","authenticated":true,"entries":[{"id":"16312","nama":"men.ci.um","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menangkap bau dengan hidung; membau","contoh":[{"nomor":2,"teks":"~ bau bangkai dalam onggokan sampah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghirup sesuatu dengan hidung untuk mengetahui baunya","contoh":[{"nomor":2,"teks":"ada binatang yang selalu ~ apa yang akan dimakannya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melekatkan hidung pada sesuatu (seperti pipi, tangan, kening) serta menghirupnya","contoh":[{"nomor":2,"teks":"ia pun berlutut sambil ~ tangan orang tuanya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mendapat endusan (kabar, keterangan, dan sebagainya); mengetahui (gelagat dan sebagainya)","contoh":[{"nomor":2,"teks":"~ adanya pemberontakan"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencari keterangan dan sebagainya; mengusut","contoh":[]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menabrak; membentur; menubruk","contoh":[{"nomor":2,"teks":"mobil itu ~ gerobak"}]}],"rootWord":"cium","terkait":{"kataTurunan":[],"gabunganKata":["mencium jejak","mencium kabar","mencium tanah","mencium telapak kaki"],"peribahasa":["geruh tak mencium bau"],"idiom":["mencium ketidakberesan"]}}]}
+{
+  "word": "mencium",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16312",
+      "nama": "men.ci.um",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menangkap bau dengan hidung; membau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bau bangkai dalam onggokan sampah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghirup sesuatu dengan hidung untuk mengetahui baunya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada binatang yang selalu ~ apa yang akan dimakannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melekatkan hidung pada sesuatu (seperti pipi, tangan, kening) serta menghirupnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pun berlutut sambil ~ tangan orang tuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendapat endusan (kabar, keterangan, dan sebagainya); mengetahui (gelagat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ adanya pemberontakan"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari keterangan dan sebagainya; mengusut",
+          "contoh": []
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menabrak; membentur; menubruk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mobil itu ~ gerobak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cium",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencium jejak",
+          "mencium kabar",
+          "mencium tanah",
+          "mencium telapak kaki"
+        ],
+        "peribahasa": [
+          "geruh tak mencium bau"
+        ],
+        "idiom": [
+          "mencium ketidakberesan"
+        ]
+      }
+    }
+  ]
+}

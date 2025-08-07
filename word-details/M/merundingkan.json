@@ -1,1 +1,48 @@
-{"word":"merundingkan","authenticated":true,"entries":[{"id":"70398","nama":"me.run.ding.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membicarakan atau memperkatakan sesuatu untuk memperoleh persetujuan (permufakatan)","contoh":[{"nomor":2,"teks":"mereka sedang ~ hari pernikahan anaknya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"memperhitungkan; memperkirakan","contoh":[]}],"rootWord":"runding"}]}
+{
+  "word": "merundingkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70398",
+      "nama": "me.run.ding.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membicarakan atau memperkatakan sesuatu untuk memperoleh persetujuan (permufakatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang ~ hari pernikahan anaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperhitungkan; memperkirakan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "runding"
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"merudu","authenticated":true,"entries":[{"id":"70098","nama":"me.ru.du","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(berjalan) membungkuk","contoh":[{"nomor":2,"teks":"nenekku jalannya ~ karena umurnya sudah hampir delapan puluh tahun"}]}],"rootWord":"rudu²"},{"id":"70100","nama":"me.ru.du","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melancar maju (seperti angsa berenang); berlari menuju atau mengarah (seperti itik)","contoh":[]}],"rootWord":"rudu³"}]}
+{
+  "word": "merudu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70098",
+      "nama": "me.ru.du",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(berjalan) membungkuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nenekku jalannya ~ karena umurnya sudah hampir delapan puluh tahun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rudu²"
+    },
+    {
+      "id": "70100",
+      "nama": "me.ru.du",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melancar maju (seperti angsa berenang); berlari menuju atau mengarah (seperti itik)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rudu³"
+    }
+  ]
+}

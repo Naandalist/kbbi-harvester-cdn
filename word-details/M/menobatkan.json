@@ -1,1 +1,68 @@
-{"word":"menobatkan","authenticated":true,"entries":[{"id":"57108","nama":"me.no.bat.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaikkan ke takhta kerajaan; melantik menjadi raja","contoh":[{"nomor":2,"teks":"Baginda ~ putra sulungnya menjadi raja menggantikan beliau"}]}],"rootWord":"nobat²"},{"id":"86615","nama":"me.no.bat.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan (menyebabkan) orang bertobat (menyesalkan dosanya dan kembali kepada Tuhan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"menjerakan; mengapokkan","contoh":[]}],"rootWord":"tobat"}]}
+{
+  "word": "menobatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57108",
+      "nama": "me.no.bat.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaikkan ke takhta kerajaan; melantik menjadi raja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Baginda ~ putra sulungnya menjadi raja menggantikan beliau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "nobat²"
+    },
+    {
+      "id": "86615",
+      "nama": "me.no.bat.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan (menyebabkan) orang bertobat (menyesalkan dosanya dan kembali kepada Tuhan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjerakan; mengapokkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tobat"
+    }
+  ]
+}

@@ -1,1 +1,129 @@
-{"word":"mengetam","authenticated":true,"entries":[{"id":"41112","nama":"me.nge.tam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatupkan rapat-rapat; menjepit","contoh":[]}],"rootWord":"ketam¹","terkait":{"kataTurunan":[],"gabunganKata":["mengetam mulut"],"peribahasa":[],"idiom":[]}},{"id":"41118","nama":"me.nge.tam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menuai (memotong) padi dengan ani-ani","contoh":[{"nomor":2,"teks":"pada waktu panen, ramailah orang di sawah ~ padi"}]}],"rootWord":"ketam²"},{"id":"41130","nama":"me.nge.tam","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melicinkan (meratakan) kayu dengan ketam","contoh":[]}],"rootWord":"ketam³"},{"id":"41142","nama":"me.nge.tam","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerat, memotong (kuku)","contoh":[{"nomor":2,"teks":"Ibu ~ kuku Adik"}]}],"rootWord":"ketam⁵"},{"id":"41144","nama":"me.nge.tam","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menciut secara berangsur","contoh":[{"nomor":2,"teks":"bulan ~ turun"}]}],"rootWord":"ketam⁶"}]}
+{
+  "word": "mengetam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41112",
+      "nama": "me.nge.tam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatupkan rapat-rapat; menjepit",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ketam¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengetam mulut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41118",
+      "nama": "me.nge.tam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menuai (memotong) padi dengan ani-ani",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada waktu panen, ramailah orang di sawah ~ padi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ketam²"
+    },
+    {
+      "id": "41130",
+      "nama": "me.nge.tam",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melicinkan (meratakan) kayu dengan ketam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ketam³"
+    },
+    {
+      "id": "41142",
+      "nama": "me.nge.tam",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerat, memotong (kuku)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Ibu ~ kuku Adik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ketam⁵"
+    },
+    {
+      "id": "41144",
+      "nama": "me.nge.tam",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menciut secara berangsur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bulan ~ turun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ketam⁶"
+    }
+  ]
+}

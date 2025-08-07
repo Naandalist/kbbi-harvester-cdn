@@ -1,1 +1,51 @@
-{"word":"mengakas","authenticated":true,"entries":[{"id":"35960","nama":"me.nga.kas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengais","contoh":[{"nomor":2,"teks":"ayam itu ~ sampah mencari makan"}]}],"rootWord":"kakas¹"},{"id":"35962","nama":"me.nga.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerasi; memaksa","contoh":[]}],"rootWord":"kakas²"}]}
+{
+  "word": "mengakas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35960",
+      "nama": "me.nga.kas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengais",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam itu ~ sampah mencari makan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kakas¹"
+    },
+    {
+      "id": "35962",
+      "nama": "me.nga.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerasi; memaksa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kakas²"
+    }
+  ]
+}

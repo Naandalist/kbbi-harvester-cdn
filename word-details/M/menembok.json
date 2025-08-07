@@ -1,1 +1,71 @@
-{"word":"menembok","authenticated":true,"entries":[{"id":"84391","nama":"me.nem.bok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendinding dengan tembok","contoh":[]}],"rootWord":"tembok¹"},{"id":"84393","nama":"me.nem.bok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membatik dengan melekatkan lilin pada bagian kain yang akan dibiarkan putih","contoh":[]}],"rootWord":"tembok²"},{"id":"84395","nama":"me.nem.bok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyejukkan air panas dengan jalan mengacaunya sampai dingin","contoh":[{"nomor":2,"teks":"ia ~ air kopi itu karena hendak diminumnya"}]}],"rootWord":"tembok³"}]}
+{
+  "word": "menembok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84391",
+      "nama": "me.nem.bok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendinding dengan tembok",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tembok¹"
+    },
+    {
+      "id": "84393",
+      "nama": "me.nem.bok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membatik dengan melekatkan lilin pada bagian kain yang akan dibiarkan putih",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tembok²"
+    },
+    {
+      "id": "84395",
+      "nama": "me.nem.bok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyejukkan air panas dengan jalan mengacaunya sampai dingin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ air kopi itu karena hendak diminumnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tembok³"
+    }
+  ]
+}

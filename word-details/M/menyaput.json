@@ -1,1 +1,60 @@
-{"word":"menyaput","authenticated":true,"entries":[{"id":"72345","nama":"me.nya.put","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup (membalut dan sebagainya) dengan apa saja yang merupakan lapisan tipis","contoh":[{"nomor":2,"teks":"awan tipis ~ bulan sehingga tampak redup cahayanya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meliputi","contoh":[{"nomor":2,"teks":"kalau malam, kabut tebal selalu ~ gunung itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki lapisan luar yang lebih keras daripada lapisan dalamnya","contoh":[]}],"rootWord":"saput¹"}]}
+{
+  "word": "menyaput",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72345",
+      "nama": "me.nya.put",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup (membalut dan sebagainya) dengan apa saja yang merupakan lapisan tipis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "awan tipis ~ bulan sehingga tampak redup cahayanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meliputi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau malam, kabut tebal selalu ~ gunung itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki lapisan luar yang lebih keras daripada lapisan dalamnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "saput¹"
+    }
+  ]
+}

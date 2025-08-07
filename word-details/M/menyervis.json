@@ -1,1 +1,73 @@
-{"word":"menyervis","authenticated":true,"entries":[{"id":"76264","nama":"me.nyer.vis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperbaiki barang yang rusak atau usang; merawat secara khusus suatu barang yang masa penggunaannya telah melampaui batas waktu tertentu","contoh":[{"nomor":2,"teks":"ia seorang wiraswasta yang menjual dan ~ barang elektronik berikut instalasinya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberikan layanan yang menyenangkan","contoh":[]}],"rootWord":"servis¹"},{"id":"199322","nama":"me.nyer.vis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"melakukan servis","contoh":[{"nomor":2,"teks":"akhirnya tim tuan rumah mendapat kesempatan ~ bola setelah berhasil mencetak angka"}]}],"rootWord":"servis²"}]}
+{
+  "word": "menyervis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76264",
+      "nama": "me.nyer.vis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbaiki barang yang rusak atau usang; merawat secara khusus suatu barang yang masa penggunaannya telah melampaui batas waktu tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia seorang wiraswasta yang menjual dan ~ barang elektronik berikut instalasinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan layanan yang menyenangkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "servis¹"
+    },
+    {
+      "id": "199322",
+      "nama": "me.nyer.vis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melakukan servis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akhirnya tim tuan rumah mendapat kesempatan ~ bola setelah berhasil mencetak angka"
+            }
+          ]
+        }
+      ],
+      "rootWord": "servis²"
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"menyempal","authenticated":true,"entries":[{"id":"74603","nama":"me.nyem.pal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyembul atau tersembul ke luar sebagian, seperti jantung pisang yang baru akan keluar, pusat yang bujal","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup dengan cara menjejalkan sesuatu; menyumpal","contoh":[{"nomor":2,"teks":"saya terpaksa ~ mulutnya agar tidak berteriak-teriak lagi"}]}],"rootWord":"sempal¹"},{"id":"74607","nama":"me.nyem.pal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mematahkan (cabang kayu, lengan, dan sebagainya)","contoh":[]}],"rootWord":"sempal²"}]}
+{
+  "word": "menyempal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74603",
+      "nama": "me.nyem.pal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyembul atau tersembul ke luar sebagian, seperti jantung pisang yang baru akan keluar, pusat yang bujal",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup dengan cara menjejalkan sesuatu; menyumpal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya terpaksa ~ mulutnya agar tidak berteriak-teriak lagi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sempal¹"
+    },
+    {
+      "id": "74607",
+      "nama": "me.nyem.pal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mematahkan (cabang kayu, lengan, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sempal²"
+    }
+  ]
+}

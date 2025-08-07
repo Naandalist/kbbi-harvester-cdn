@@ -1,1 +1,36 @@
-{"word":"merencana","authenticated":true,"entries":[{"id":"68606","nama":"me.ren.ca.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"bercerita","contoh":[{"nomor":2,"teks":"berdatang sembah ~"}]}],"rootWord":"rencana"}]}
+{
+  "word": "merencana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68606",
+      "nama": "me.ren.ca.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercerita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdatang sembah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rencana"
+    }
+  ]
+}

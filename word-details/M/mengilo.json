@@ -1,1 +1,61 @@
-{"word":"mengilo","authenticated":true,"entries":[{"id":"31269","nama":"meng.i.lo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"membaca dalam hati","contoh":[{"nomor":2,"teks":"anak-anak disuruh ~ bacaan oleh gurunya"}]}],"rootWord":"ilo¹"},{"id":"41772","nama":"me.ngi.lo","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimbang dengan timbangan","contoh":[{"nomor":2,"teks":"~ daging"}]}],"rootWord":"kilo"}]}
+{
+  "word": "mengilo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31269",
+      "nama": "meng.i.lo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membaca dalam hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak disuruh ~ bacaan oleh gurunya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ilo¹"
+    },
+    {
+      "id": "41772",
+      "nama": "me.ngi.lo",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimbang dengan timbangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ daging"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kilo"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"menata","authenticated":true,"entries":[{"id":"83076","nama":"me.na.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur; menyusun; membenahi","contoh":[{"nomor":2,"teks":"diumumkan persetujuan untuk ~ kembali hubungan kedua negara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengarang (bunga)","contoh":[{"nomor":2,"teks":"tiap hari Sabtu kami mendapat pelajaran ~ ruang dan ~ bunga"}]}],"rootWord":"tata¹"}]}
+{
+  "word": "menata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83076",
+      "nama": "me.na.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur; menyusun; membenahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diumumkan persetujuan untuk ~ kembali hubungan kedua negara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarang (bunga)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiap hari Sabtu kami mendapat pelajaran ~ ruang dan ~ bunga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tata¹"
+    }
+  ]
+}

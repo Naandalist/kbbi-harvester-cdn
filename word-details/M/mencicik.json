@@ -1,1 +1,48 @@
-{"word":"mencicik","authenticated":true,"entries":[{"id":"16084","nama":"men.ci.cik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendesis atau mendesing (seperti bunyi air mendidih)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengalir ke luar (tentang keringat)","contoh":[{"nomor":2,"teks":"walaupun ~ peluh di badan, ia bekerja terus"}]}],"rootWord":"cicik¹"}]}
+{
+  "word": "mencicik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16084",
+      "nama": "men.ci.cik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendesis atau mendesing (seperti bunyi air mendidih)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalir ke luar (tentang keringat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "walaupun ~ peluh di badan, ia bekerja terus"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cicik¹"
+    }
+  ]
+}

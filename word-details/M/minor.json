@@ -1,1 +1,100 @@
-{"word":"minor","authenticated":true,"entries":[{"id":"54470","nama":"mi.nor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"kecil (digunakan untuk selang, tangga nada, dan akor)","contoh":[{"nomor":2,"teks":"selang nada sekon --, tangga nada A --, dan akor C --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kecil; kurang penting","contoh":[{"nomor":2,"teks":"ia membawakan peran -- dalam drama itu"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"belum dewasa (tentang orang)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tambahan (tentang mata pelajaran, mata kuliah)","contoh":[]}]},{"id":"99957","nama":"mi.nor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"kelas ukuran daun yang menunjukkan ukuran lebih kecil","contoh":[]}]}]}
+{
+  "word": "minor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54470",
+      "nama": "mi.nor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kecil (digunakan untuk selang, tangga nada, dan akor)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selang nada sekon --, tangga nada A --, dan akor C --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecil; kurang penting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia membawakan peran -- dalam drama itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum dewasa (tentang orang)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tambahan (tentang mata pelajaran, mata kuliah)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "99957",
+      "nama": "mi.nor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kelas ukuran daun yang menunjukkan ukuran lebih kecil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

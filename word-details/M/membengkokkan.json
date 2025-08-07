@@ -1,1 +1,53 @@
-{"word":"membengkokkan","authenticated":true,"entries":[{"id":"10235","nama":"mem.beng.kok.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan bengkok; mengelukkan","contoh":[{"nomor":2,"teks":"tidak mungkin orang dapat ~ besi baja setebal ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengarahkan kepada yang tidak baik","contoh":[{"nomor":2,"teks":"siapa yang mencoba ~ hukum akan ditindak"}]}],"rootWord":"bengkok¹"}]}
+{
+  "word": "membengkokkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10235",
+      "nama": "mem.beng.kok.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan bengkok; mengelukkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak mungkin orang dapat ~ besi baja setebal ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarahkan kepada yang tidak baik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa yang mencoba ~ hukum akan ditindak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bengkok¹"
+    }
+  ]
+}

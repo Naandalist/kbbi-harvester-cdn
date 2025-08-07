@@ -1,1 +1,65 @@
-{"word":"mengancam","authenticated":true,"entries":[{"id":"3555","nama":"meng.an.cam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyatakan maksud (niat, rencana) untuk melakukan sesuatu yang merugikan, menyulitkan, menyusahkan, atau mencelakakan pihak lain","contoh":[{"nomor":2,"teks":"kaum buruh ~ akan melakukan pemogokan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi pertanda atau peringatan mengenai kemungkinan malapetaka yang bakal terjadi","contoh":[{"nomor":2,"teks":"dukungan negara lain terhadap kaum pemberontak di sini dapat ~ hubungan diplomatik antara kedua negara"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diperkirakan akan menimpa","contoh":[{"nomor":2,"teks":"penyakit pes sudah ~ daerah itu"}]}],"rootWord":"ancam"}]}
+{
+  "word": "mengancam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3555",
+      "nama": "meng.an.cam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyatakan maksud (niat, rencana) untuk melakukan sesuatu yang merugikan, menyulitkan, menyusahkan, atau mencelakakan pihak lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kaum buruh ~ akan melakukan pemogokan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi pertanda atau peringatan mengenai kemungkinan malapetaka yang bakal terjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dukungan negara lain terhadap kaum pemberontak di sini dapat ~ hubungan diplomatik antara kedua negara"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diperkirakan akan menimpa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyakit pes sudah ~ daerah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ancam"
+    }
+  ]
+}

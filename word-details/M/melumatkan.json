@@ -1,1 +1,53 @@
-{"word":"melumatkan","authenticated":true,"entries":[{"id":"50521","nama":"me.lu.mat.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menumbuk halus-halus","contoh":[{"nomor":2,"teks":"ia ~ beras hingga menjadi tepung"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menghancurkan","contoh":[{"nomor":2,"teks":"~ musuh"}]}],"rootWord":"lumat"}]}
+{
+  "word": "melumatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50521",
+      "nama": "me.lu.mat.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menumbuk halus-halus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ beras hingga menjadi tepung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghancurkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ musuh"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lumat"
+    }
+  ]
+}

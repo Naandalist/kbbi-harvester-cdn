@@ -1,1 +1,65 @@
-{"word":"mendamaikan","authenticated":true,"entries":[{"id":"17514","nama":"men.da.mai.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengusahakan agar kedua pihak berbaik kembali","contoh":[{"nomor":2,"teks":"kami akan mencoba ~ pertikaian mereka"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merundingkan supaya ada persesuaian","contoh":[{"nomor":2,"teks":"dia datang untuk ~ harga rumah itu dengan kita"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menenangkan","contoh":[{"nomor":2,"teks":"tidak ada orang yang dapat ~ hatiku, kecuali aku sendiri"}]}],"rootWord":"damai"}]}
+{
+  "word": "mendamaikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17514",
+      "nama": "men.da.mai.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengusahakan agar kedua pihak berbaik kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami akan mencoba ~ pertikaian mereka"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merundingkan supaya ada persesuaian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia datang untuk ~ harga rumah itu dengan kita"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menenangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ada orang yang dapat ~ hatiku, kecuali aku sendiri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "damai"
+    }
+  ]
+}

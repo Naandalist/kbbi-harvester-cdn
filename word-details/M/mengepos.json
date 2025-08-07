@@ -1,1 +1,81 @@
-{"word":"mengepos","authenticated":true,"entries":[{"id":"64765","nama":"me.nge.pos","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan sebagai pos (tempat berkumpul dan sebagainya)","contoh":[{"nomor":2,"teks":"para penjahat itu ~ di tempat pelacuran"}]}],"rootWord":"pos²"},{"id":"182819","nama":"menge.pos","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempublikasikan sesuatu (opini, pesan, gambar, video, dan sebagainya) secara daring pada media sosial","contoh":[{"nomor":2,"teks":"dia ~ opini yang memicu kontroversi pada media sosial"}]}],"rootWord":"pos¹"},{"id":"244821","nama":"me.nge.pos","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"}],"definisi":"memindahkan informasi keuangan berupa tanggal, nominal transaksi, dan sebagainya dari jurnal ke dalam buku besar, baik secara kronologis maupun periodik","contoh":[]}],"rootWord":"pos³"}]}
+{
+  "word": "mengepos",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64765",
+      "nama": "me.nge.pos",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan sebagai pos (tempat berkumpul dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para penjahat itu ~ di tempat pelacuran"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pos²"
+    },
+    {
+      "id": "182819",
+      "nama": "menge.pos",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempublikasikan sesuatu (opini, pesan, gambar, video, dan sebagainya) secara daring pada media sosial",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ opini yang memicu kontroversi pada media sosial"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pos¹"
+    },
+    {
+      "id": "244821",
+      "nama": "me.nge.pos",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memindahkan informasi keuangan berupa tanggal, nominal transaksi, dan sebagainya dari jurnal ke dalam buku besar, baik secara kronologis maupun periodik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pos³"
+    }
+  ]
+}

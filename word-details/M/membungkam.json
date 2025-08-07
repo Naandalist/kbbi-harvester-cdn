@@ -1,1 +1,48 @@
-{"word":"membungkam","authenticated":true,"entries":[{"id":"13466","nama":"mem.bung.kam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup mulut supaya diam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membuat tidak berbunyi (bersuara, berbicara)","contoh":[{"nomor":2,"teks":"peraturan itu telah ~ pers oposisi"}]}],"rootWord":"bungkam"}]}
+{
+  "word": "membungkam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13466",
+      "nama": "mem.bung.kam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup mulut supaya diam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat tidak berbunyi (bersuara, berbicara)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peraturan itu telah ~ pers oposisi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bungkam"
+    }
+  ]
+}

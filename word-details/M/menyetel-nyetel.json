@@ -1,1 +1,43 @@
-{"word":"menyetel-nyetel","authenticated":true,"entries":[{"id":"76415","nama":"me.nye.tel-nye.tel","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang-masang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencocok-cocokkan","contoh":[{"nomor":2,"teks":"ia sedang ~ kursi di ruang tamu"}]}],"rootWord":"setel²"}]}
+{
+  "word": "menyetel-nyetel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76415",
+      "nama": "me.nye.tel-nye.tel",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang-masang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencocok-cocokkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ kursi di ruang tamu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "setel²"
+    }
+  ]
+}

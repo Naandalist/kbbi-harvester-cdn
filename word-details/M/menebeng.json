@@ -1,1 +1,88 @@
-{"word":"menebeng","authenticated":true,"entries":[{"id":"83440","nama":"me.ne.beng","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memampangkan, merentangkan (kajang, layar, dan sebagainya) untuk pendinding","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membeberkan (membentangkan kain dan sebagainya) untuk diperlihatkan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menutup-nutupi kejahatan (kesalahan)","contoh":[]}],"rootWord":"tebeng¹","terkait":{"kataTurunan":[],"gabunganKata":["menebeng dada"],"peribahasa":[],"idiom":[]}},{"id":"83444","nama":"me.ne.beng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menumpang (makan, merokok, membaca surat kabar, dan sebagainya) tanpa membayar","contoh":[{"nomor":2,"teks":"ia membawa mobil dan kami ikut ~ keliling kota"}]}],"rootWord":"tebeng²"}]}
+{
+  "word": "menebeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83440",
+      "nama": "me.ne.beng",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memampangkan, merentangkan (kajang, layar, dan sebagainya) untuk pendinding",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membeberkan (membentangkan kain dan sebagainya) untuk diperlihatkan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup-nutupi kejahatan (kesalahan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tebeng¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menebeng dada"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83444",
+      "nama": "me.ne.beng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menumpang (makan, merokok, membaca surat kabar, dan sebagainya) tanpa membayar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia membawa mobil dan kami ikut ~ keliling kota"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebeng²"
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"mengucek","authenticated":true,"entries":[{"id":"88883","nama":"meng.u.cek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggosok dan menggilas (tentang mencuci pakaian)","contoh":[]}],"rootWord":"ucek"},{"id":"107849","nama":"me.ngu.cek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengaduk","contoh":[{"nomor":2,"teks":"~ mata dengan tangan dapat membahayakan kesehatan mata"}]}],"rootWord":"kucek"}]}
+{
+  "word": "mengucek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88883",
+      "nama": "meng.u.cek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggosok dan menggilas (tentang mencuci pakaian)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ucek"
+    },
+    {
+      "id": "107849",
+      "nama": "me.ngu.cek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengaduk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ mata dengan tangan dapat membahayakan kesehatan mata"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kucek"
+    }
+  ]
+}

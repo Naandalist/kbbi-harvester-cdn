@@ -1,1 +1,55 @@
-{"word":"mengagah","authenticated":true,"entries":[{"id":"820","nama":"meng.a.gah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memandangi muka (anak kecil untuk diajak tertawa dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menentang mata (mengajak berkelahi)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperhadapkan (supaya berkelahi)","contoh":[{"nomor":2,"teks":"~ ayam sabungan"}]}],"rootWord":"agah¹"}]}
+{
+  "word": "mengagah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "820",
+      "nama": "meng.a.gah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memandangi muka (anak kecil untuk diajak tertawa dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menentang mata (mengajak berkelahi)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperhadapkan (supaya berkelahi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ayam sabungan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "agah¹"
+    }
+  ]
+}

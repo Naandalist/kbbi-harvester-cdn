@@ -1,1 +1,85 @@
-{"word":"memulangkan","authenticated":true,"entries":[{"id":"65785","nama":"me.mu.lang.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa (mengirimkan dan sebagainya) pulang (ke tempat asalnya, ke rumah, dan sebagainya) mengembalikan","contoh":[{"nomor":2,"teks":"~ buku ke perpustakaan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulihkan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerahkan","contoh":[{"nomor":2,"teks":"~ persoalan itu kepada orang tua-tua"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatakan bahwa (yang membuat, melakukan, dan sebagainya) itu ...","contoh":[{"nomor":2,"teks":"di antaranya ada yang ~ permainan catur itu kepada bangsa India kuno"}]}],"rootWord":"pulang","terkait":{"kataTurunan":[],"gabunganKata":["memulangkan balas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "memulangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65785",
+      "nama": "me.mu.lang.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa (mengirimkan dan sebagainya) pulang (ke tempat asalnya, ke rumah, dan sebagainya) mengembalikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ buku ke perpustakaan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulihkan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ persoalan itu kepada orang tua-tua"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatakan bahwa (yang membuat, melakukan, dan sebagainya) itu ...",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di antaranya ada yang ~ permainan catur itu kepada bangsa India kuno"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pulang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memulangkan balas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

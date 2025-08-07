@@ -1,1 +1,60 @@
-{"word":"menguban","authenticated":true,"entries":[{"id":"88809","nama":"meng.u.ban","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi uban","contoh":[{"nomor":2,"teks":"rambutnya sudah ~ semua"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerupai (seperti) uban","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menjadi tertutup oleh bulu-bulu pendek yang merapat ke permukaan, sehingga yang terakhir kelihatan memutih","contoh":[]}],"rootWord":"uban"}]}
+{
+  "word": "menguban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88809",
+      "nama": "meng.u.ban",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi uban",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya sudah ~ semua"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai (seperti) uban",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menjadi tertutup oleh bulu-bulu pendek yang merapat ke permukaan, sehingga yang terakhir kelihatan memutih",
+          "contoh": []
+        }
+      ],
+      "rootWord": "uban"
+    }
+  ]
+}

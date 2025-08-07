@@ -1,1 +1,48 @@
-{"word":"membedakan","authenticated":true,"entries":[{"id":"9300","nama":"mem.be.da.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyatakan ada bedanya","contoh":[{"nomor":2,"teks":"dia belum dapat ~ mana yang benar dan mana yang salah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperlakukan berbeda (tidak sama); memisahkan","contoh":[{"nomor":2,"teks":"kita harus dapat ~ antara urusan pribadi dan urusan dinas"}]}],"rootWord":"beda"}]}
+{
+  "word": "membedakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9300",
+      "nama": "mem.be.da.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyatakan ada bedanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia belum dapat ~ mana yang benar dan mana yang salah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperlakukan berbeda (tidak sama); memisahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus dapat ~ antara urusan pribadi dan urusan dinas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "beda"
+    }
+  ]
+}

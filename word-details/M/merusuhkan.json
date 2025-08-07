@@ -1,1 +1,68 @@
-{"word":"merusuhkan","authenticated":true,"entries":[{"id":"70561","nama":"me.ru.suh.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan rusuh; menimbulkan huru-hara (kekacauan, keributan)","contoh":[]}],"rootWord":"rusuh¹"},{"id":"70567","nama":"me.ru.suh.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan (menimbulkan) rasa rusuh; menyusahkan; menggelisahkan","contoh":[{"nomor":2,"teks":"kematian suami itulah yang sangat ~ hatinya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengkhawatirkan akan sesuatu; selalu memikirkan","contoh":[{"nomor":2,"teks":"apa gunanya engkau ~ anakmu yang sudah meninggal dunia itu"}]}],"rootWord":"rusuh²"}]}
+{
+  "word": "merusuhkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70561",
+      "nama": "me.ru.suh.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan rusuh; menimbulkan huru-hara (kekacauan, keributan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rusuh¹"
+    },
+    {
+      "id": "70567",
+      "nama": "me.ru.suh.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan (menimbulkan) rasa rusuh; menyusahkan; menggelisahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kematian suami itulah yang sangat ~ hatinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengkhawatirkan akan sesuatu; selalu memikirkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apa gunanya engkau ~ anakmu yang sudah meninggal dunia itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rusuh²"
+    }
+  ]
+}

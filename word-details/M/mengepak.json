@@ -1,1 +1,91 @@
-{"word":"mengepak","authenticated":true,"entries":[{"id":"22415","nama":"meng.e.pak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengambil hak atas sesuatu yang mengeluarkan hasil dengan membayar uang sewa atau pajak","contoh":[]}],"rootWord":"epak"},{"id":"39913","nama":"me.nge.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggendong pada rusuk (sebelah kiri atau kanan)","contoh":[]}],"rootWord":"kepak¹"},{"id":"59157","nama":"me.nge.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membungkus (mengemas) barang-barang (dalam pak)","contoh":[]}],"rootWord":"pak²"},{"id":"59163","nama":"me.nge.pak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengusahakan sesuatu (seperti mengambil sarang burung) dengan membayar sewa (pajak) setiap tahun","contoh":[{"nomor":2,"teks":"saudagar-saudagar asing banyak yang ~ gua-gua sarang burung di daerah itu"}]}],"rootWord":"pak³"}]}
+{
+  "word": "mengepak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22415",
+      "nama": "meng.e.pak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil hak atas sesuatu yang mengeluarkan hasil dengan membayar uang sewa atau pajak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "epak"
+    },
+    {
+      "id": "39913",
+      "nama": "me.nge.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggendong pada rusuk (sebelah kiri atau kanan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kepak¹"
+    },
+    {
+      "id": "59157",
+      "nama": "me.nge.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membungkus (mengemas) barang-barang (dalam pak)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pak²"
+    },
+    {
+      "id": "59163",
+      "nama": "me.nge.pak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengusahakan sesuatu (seperti mengambil sarang burung) dengan membayar sewa (pajak) setiap tahun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saudagar-saudagar asing banyak yang ~ gua-gua sarang burung di daerah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pak³"
+    }
+  ]
+}

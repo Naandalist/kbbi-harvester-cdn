@@ -1,1 +1,48 @@
-{"word":"memaku","authenticated":true,"entries":[{"id":"59288","nama":"me.ma.ku","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melekatkan dengan paku","contoh":[{"nomor":2,"teks":"~ peti kemas (papan dan sebagainya)"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikat (tentang hati, perhatian, dan sebagainya)","contoh":[]}],"rootWord":"paku¹"}]}
+{
+  "word": "memaku",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59288",
+      "nama": "me.ma.ku",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melekatkan dengan paku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ peti kemas (papan dan sebagainya)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat (tentang hati, perhatian, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "paku¹"
+    }
+  ]
+}

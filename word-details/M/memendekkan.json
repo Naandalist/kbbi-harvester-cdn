@@ -1,1 +1,69 @@
-{"word":"memendekkan","authenticated":true,"entries":[{"id":"61820","nama":"me.men.dek.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengurangi (memotong dan sebagainya) supaya menjadi lebih pendek","contoh":[{"nomor":2,"teks":"~ lengan baju"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempersingkat (waktu)","contoh":[{"nomor":2,"teks":"~ waktu diskusi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meringkaskan; mengikhtisarkan; menyingkat","contoh":[{"nomor":2,"teks":"~ cerita"},{"nomor":4,"teks":"~ pembicaraan"}]}],"rootWord":"pendek"}]}
+{
+  "word": "memendekkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61820",
+      "nama": "me.men.dek.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengurangi (memotong dan sebagainya) supaya menjadi lebih pendek",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lengan baju"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempersingkat (waktu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ waktu diskusi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meringkaskan; mengikhtisarkan; menyingkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ cerita"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ pembicaraan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pendek"
+    }
+  ]
+}

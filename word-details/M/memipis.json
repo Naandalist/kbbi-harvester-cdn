@@ -1,1 +1,35 @@
-{"word":"memipis","authenticated":true,"entries":[{"id":"63875","nama":"me.mi.pis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghaluskan (melumatkan) dengan batu giling dan pipisan","contoh":[{"nomor":2,"teks":"~ ramuan jamu"},{"nomor":4,"teks":"~ lada"}]}],"rootWord":"pipis¹"}]}
+{
+  "word": "memipis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63875",
+      "nama": "me.mi.pis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghaluskan (melumatkan) dengan batu giling dan pipisan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ramuan jamu"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ lada"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pipis¹"
+    }
+  ]
+}

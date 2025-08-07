@@ -1,1 +1,52 @@
-{"word":"menemukan","authenticated":true,"entries":[{"id":"84629","nama":"me.ne.mu.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendapatkan sesuatu yang belum ada sebelumnya; mendapatkan; mendapati","contoh":[{"nomor":2,"teks":"siapa yang ~ pesawat radio"},{"nomor":4,"teks":"baru malam harinya ia ~ cara itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengalami; menderita (kegagalan dan sebagainya)","contoh":[{"nomor":2,"teks":"perundingan itu ~ jalan buntu"}]}],"rootWord":"temu¹"}]}
+{
+  "word": "menemukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84629",
+      "nama": "me.ne.mu.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendapatkan sesuatu yang belum ada sebelumnya; mendapatkan; mendapati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa yang ~ pesawat radio"
+            },
+            {
+              "nomor": 4,
+              "teks": "baru malam harinya ia ~ cara itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalami; menderita (kegagalan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perundingan itu ~ jalan buntu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "temu¹"
+    }
+  ]
+}

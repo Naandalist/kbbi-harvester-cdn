@@ -1,1 +1,51 @@
-{"word":"mengenap","authenticated":true,"entries":[{"id":"22090","nama":"meng.e.nap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengumpul pada dasar air (tentang bubuk atau ampas pada benda cair); mengendap","contoh":[{"nomor":2,"teks":"bubuk kopi yang diseduh dengan air dingin tidak dapat ~"}]}],"rootWord":"enap¹"},{"id":"22092","nama":"meng.e.nap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memikirkan (mempertimbangkan) dalam-dalam","contoh":[]}],"rootWord":"enap²"}]}
+{
+  "word": "mengenap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22090",
+      "nama": "meng.e.nap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengumpul pada dasar air (tentang bubuk atau ampas pada benda cair); mengendap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bubuk kopi yang diseduh dengan air dingin tidak dapat ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "enap¹"
+    },
+    {
+      "id": "22092",
+      "nama": "meng.e.nap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikirkan (mempertimbangkan) dalam-dalam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "enap²"
+    }
+  ]
+}

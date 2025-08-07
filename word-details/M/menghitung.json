@@ -1,1 +1,78 @@
-{"word":"menghitung","authenticated":true,"entries":[{"id":"29954","nama":"meng.hi.tung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencari jumlahnya (sisanya, pendapatannya) dengan menjumlahkan, mengurangi, dan sebagainya","contoh":[{"nomor":2,"teks":"pedagang itu sedang ~ keuntungannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membilang untuk mengetahui berapa jumlahnya (banyaknya)","contoh":[{"nomor":2,"teks":"panitia pemilihan umum ~ jumlah suara yang masuk untuk masing-masing kontestan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menentukan atau menetapkan menurut (berdasarkan) sesuatu","contoh":[{"nomor":2,"teks":"~ kenaikan gaji dari bulan Mei"},{"nomor":4,"teks":"~ harga barang dengan dolar"}]}],"rootWord":"hitung","terkait":{"kataTurunan":[],"gabunganKata":["menghitung pajak orang","menghitung pajak sendiri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menghitung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29954",
+      "nama": "meng.hi.tung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari jumlahnya (sisanya, pendapatannya) dengan menjumlahkan, mengurangi, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedagang itu sedang ~ keuntungannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membilang untuk mengetahui berapa jumlahnya (banyaknya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "panitia pemilihan umum ~ jumlah suara yang masuk untuk masing-masing kontestan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menentukan atau menetapkan menurut (berdasarkan) sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kenaikan gaji dari bulan Mei"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ harga barang dengan dolar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hitung",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menghitung pajak orang",
+          "menghitung pajak sendiri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

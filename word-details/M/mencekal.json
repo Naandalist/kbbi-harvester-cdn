@@ -1,1 +1,68 @@
-{"word":"mencekal","authenticated":true,"entries":[{"id":"15120","nama":"men.ce.kal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang","contoh":[{"nomor":2,"teks":"pendekar itu kembali ~ kedua tangan musuhnya sehingga musuhnya berteriak minta ampun"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menangkap (pencuri dan sebagainya)","contoh":[]}],"rootWord":"cekal²"},{"id":"15124","nama":"men.ce.kal","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencegah dan menangkal sehingga tidak dapat bepergian (terutama ke luar negeri)","contoh":[{"nomor":2,"teks":"pihak Imigrasi ~ beberapa pengusaha yang bermasalah"}]}],"rootWord":"cekal³"}]}
+{
+  "word": "mencekal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15120",
+      "nama": "men.ce.kal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pendekar itu kembali ~ kedua tangan musuhnya sehingga musuhnya berteriak minta ampun"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menangkap (pencuri dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cekal²"
+    },
+    {
+      "id": "15124",
+      "nama": "men.ce.kal",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencegah dan menangkal sehingga tidak dapat bepergian (terutama ke luar negeri)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pihak Imigrasi ~ beberapa pengusaha yang bermasalah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cekal³"
+    }
+  ]
+}

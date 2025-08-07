@@ -1,1 +1,77 @@
-{"word":"mencacak","authenticated":true,"entries":[{"id":"14018","nama":"men.ca.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdiri tegak lurus","contoh":[]}],"rootWord":"cacak¹","terkait":{"kataTurunan":[],"gabunganKata":["mencacak lari","mencacak tonggak"],"peribahasa":[],"idiom":[]}},{"id":"14025","nama":"men.ca.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mencubit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mencopet","contoh":[]}],"rootWord":"cacak²"}]}
+{
+  "word": "mencacak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14018",
+      "nama": "men.ca.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdiri tegak lurus",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cacak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencacak lari",
+          "mencacak tonggak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "14025",
+      "nama": "men.ca.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencubit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencopet",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cacak²"
+    }
+  ]
+}

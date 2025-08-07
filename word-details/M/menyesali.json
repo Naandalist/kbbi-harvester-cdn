@@ -1,1 +1,69 @@
-{"word":"menyesali","authenticated":true,"entries":[{"id":"76294","nama":"me.nye.sal.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa kecewa (tidak senang) akan; merasa menyesal","contoh":[{"nomor":2,"teks":"ia ~ perbuatannya yang terlalu gegabah itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempersalahkan","contoh":[{"nomor":2,"teks":"hampir semua keluarganya ~ dia mengirimkan anaknya ke Eropa"},{"nomor":4,"teks":"ia ~ dirinya sendiri"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa tidak senang kepada","contoh":[{"nomor":2,"teks":"aku ~nya, mengapa dia berbuat begitu"}]}],"rootWord":"sesal"}]}
+{
+  "word": "menyesali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76294",
+      "nama": "me.nye.sal.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa kecewa (tidak senang) akan; merasa menyesal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ perbuatannya yang terlalu gegabah itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempersalahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hampir semua keluarganya ~ dia mengirimkan anaknya ke Eropa"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia ~ dirinya sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa tidak senang kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku ~nya, mengapa dia berbuat begitu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sesal"
+    }
+  ]
+}

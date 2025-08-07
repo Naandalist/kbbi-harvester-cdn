@@ -1,1 +1,47 @@
-{"word":"menyeduh","authenticated":true,"entries":[{"id":"73171","nama":"me.nye.duh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyiram atau mencampur sesuatu dengan air panas","contoh":[{"nomor":2,"teks":"~ kopi"},{"nomor":4,"teks":"~ jamu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanaskan cairan (air, susu) tidak sampai mendidih","contoh":[]}],"rootWord":"seduh²"}]}
+{
+  "word": "menyeduh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73171",
+      "nama": "me.nye.duh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyiram atau mencampur sesuatu dengan air panas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kopi"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ jamu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanaskan cairan (air, susu) tidak sampai mendidih",
+          "contoh": []
+        }
+      ],
+      "rootWord": "seduh²"
+    }
+  ]
+}

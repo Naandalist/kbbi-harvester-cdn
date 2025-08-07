@@ -1,1 +1,51 @@
-{"word":"mengawali","authenticated":true,"entries":[{"id":"37930","nama":"me.nga.wal.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengawasi; mengontrol","contoh":[]}],"rootWord":"kawal"},{"id":"92014","nama":"meng.a.wal.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulai; mendahului","contoh":[{"nomor":2,"teks":"nyanyian bersama ~ api unggun itu"}]}],"rootWord":"awal"}]}
+{
+  "word": "mengawali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37930",
+      "nama": "me.nga.wal.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengawasi; mengontrol",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kawal"
+    },
+    {
+      "id": "92014",
+      "nama": "meng.a.wal.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulai; mendahului",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nyanyian bersama ~ api unggun itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "awal"
+    }
+  ]
+}

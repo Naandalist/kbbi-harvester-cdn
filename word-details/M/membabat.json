@@ -1,1 +1,85 @@
-{"word":"membabat","authenticated":true,"entries":[{"id":"6452","nama":"mem.ba.bat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menebas; merambah (pohon-pohon, semak belukar, rerumputan, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menghabiskan; menyikat habis (makanan dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"mengalahkan lawan-lawan (dalam pertandingan)","contoh":[{"nomor":2,"teks":"dalam babak penyisihan dia telah ~ semua lawannya tanpa kesukaran"}]}],"rootWord":"babat¹"},{"id":"6462","nama":"mem.ba.bat","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membebat","contoh":[]}],"rootWord":"babat⁴"}]}
+{
+  "word": "membabat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6452",
+      "nama": "mem.ba.bat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menebas; merambah (pohon-pohon, semak belukar, rerumputan, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghabiskan; menyikat habis (makanan dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengalahkan lawan-lawan (dalam pertandingan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam babak penyisihan dia telah ~ semua lawannya tanpa kesukaran"
+            }
+          ]
+        }
+      ],
+      "rootWord": "babat¹"
+    },
+    {
+      "id": "6462",
+      "nama": "mem.ba.bat",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membebat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "babat⁴"
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"word":"memunjung","authenticated":true,"entries":[{"id":"55738","nama":"me.mun.jung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"munjung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi munjung","contoh":[]}],"rootWord":"munjung¹"},{"id":"65968","nama":"me.mun.jung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganjur; membusung (ke depan)","contoh":[]}],"rootWord":"punjung²"}]}
+{
+  "word": "memunjung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55738",
+      "nama": "me.mun.jung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "munjung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi munjung",
+          "contoh": []
+        }
+      ],
+      "rootWord": "munjung¹"
+    },
+    {
+      "id": "65968",
+      "nama": "me.mun.jung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganjur; membusung (ke depan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "punjung²"
+    }
+  ]
+}

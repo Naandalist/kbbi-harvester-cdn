@@ -1,1 +1,35 @@
-{"word":"memiara","authenticated":true,"entries":[{"id":"63311","nama":"me.mi.a.ra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memelihara (tentang binatang atau tanaman)","contoh":[{"nomor":2,"teks":"~ ayam"},{"nomor":4,"teks":"~ pohon mawar"}]}],"rootWord":"piara"}]}
+{
+  "word": "memiara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63311",
+      "nama": "me.mi.a.ra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memelihara (tentang binatang atau tanaman)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ayam"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ pohon mawar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "piara"
+    }
+  ]
+}

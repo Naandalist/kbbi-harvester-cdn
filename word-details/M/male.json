@@ -1,1 +1,91 @@
-{"word":"male","authenticated":true,"entries":[{"id":"51686","nama":"ma.le","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"BgM","nama":"Bugis-Makassar","tipe":"lainnya"}],"definisi":"kertas berwarna-warni yang biasa digantung bersama telur berwarna-warni, biasa digunakan pada acara Maulid Nabi Muhammad saw.","contoh":[]}]},{"id":"149462","nama":"ma.le","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"sapaan hormat kepada wanita seusia orang tua kandung","contoh":[]}]},{"id":"251375","nama":"Ma.le","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"ibu kota negara Maladewa","contoh":[]}]},{"id":"51685","nama":"ma.le","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"kata sapaan kepada perempuan yang mandul","contoh":[]}]}]}
+{
+  "word": "male",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51686",
+      "nama": "ma.le",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "BgM",
+              "nama": "Bugis-Makassar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kertas berwarna-warni yang biasa digantung bersama telur berwarna-warni, biasa digunakan pada acara Maulid Nabi Muhammad saw.",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "149462",
+      "nama": "ma.le",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sapaan hormat kepada wanita seusia orang tua kandung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "251375",
+      "nama": "Ma.le",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "ibu kota negara Maladewa",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "51685",
+      "nama": "ma.le",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata sapaan kepada perempuan yang mandul",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

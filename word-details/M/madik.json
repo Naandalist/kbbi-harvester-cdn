@@ -1,1 +1,78 @@
-{"word":"madik","authenticated":true,"entries":[{"id":"50906","nama":"ma.dik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"utusan yang dikirim oleh pihak laki-laki untuk melamar gadis","contoh":[]}]},{"id":"282398","nama":"ma.dik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mencari jangkrik liar","contoh":[{"nomor":2,"teks":"paman -- di kebun belakang rumah"}]}]},{"id":"99771","nama":"Ma.dik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Sorong, Provinsi Papua Barat Daya","contoh":[]}]}]}
+{
+  "word": "madik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50906",
+      "nama": "ma.dik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "utusan yang dikirim oleh pihak laki-laki untuk melamar gadis",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "282398",
+      "nama": "ma.dik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencari jangkrik liar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman -- di kebun belakang rumah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99771",
+      "nama": "Ma.dik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Sorong, Provinsi Papua Barat Daya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

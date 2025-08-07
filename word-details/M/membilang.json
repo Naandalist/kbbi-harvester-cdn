@@ -1,1 +1,133 @@
-{"word":"membilang","authenticated":true,"entries":[{"id":"11438","nama":"mem.bi.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghitung (dengan menyebut satu per satu untuk mengetahui berapa banyaknya)","contoh":[{"nomor":2,"teks":"~ uang tabungannya"},{"nomor":4,"teks":"~ dari seratus sampai seribu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengingat akan; mengindahkan; memedulikan","contoh":[{"nomor":2,"teks":"dia hanya ~ orang terpandang saja"},{"nomor":4,"teks":"tiada ~ kaya dan miskin"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memandang sebagai; memasukkan dalam golongan (lingkungan)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperhitungkan nasib (untung malang, baik buruk hari, dan sebagainya)","contoh":[{"nomor":2,"teks":"dicarinya seorang dukun yang pandai ~ nasib"}]}],"rootWord":"bilang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["cerdik membilang kawan","menengadah membilang layar, menangkup membilang lantai"],"idiom":[]}},{"id":"11480","nama":"mem.bi.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengatakan","contoh":[{"nomor":2,"teks":"banyak orang yang ~ bahwa ongkos transpor dalam kota akan naik"}]}],"rootWord":"bilang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["cerdik membilang kawan","menengadah membilang layar, menangkup membilang lantai"],"idiom":[]}}]}
+{
+  "word": "membilang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11438",
+      "nama": "mem.bi.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghitung (dengan menyebut satu per satu untuk mengetahui berapa banyaknya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ uang tabungannya"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ dari seratus sampai seribu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengingat akan; mengindahkan; memedulikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia hanya ~ orang terpandang saja"
+            },
+            {
+              "nomor": 4,
+              "teks": "tiada ~ kaya dan miskin"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memandang sebagai; memasukkan dalam golongan (lingkungan)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperhitungkan nasib (untung malang, baik buruk hari, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dicarinya seorang dukun yang pandai ~ nasib"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bilang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "cerdik membilang kawan",
+          "menengadah membilang layar, menangkup membilang lantai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "11480",
+      "nama": "mem.bi.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak orang yang ~ bahwa ongkos transpor dalam kota akan naik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bilang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "cerdik membilang kawan",
+          "menengadah membilang layar, menangkup membilang lantai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

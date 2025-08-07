@@ -1,1 +1,100 @@
-{"word":"mencarak","authenticated":true,"entries":[{"id":"14731","nama":"men.ca.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meneguk (air) dengan mencucurkannya ke mulut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisap (telur ayam mentah)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengambil secara berlebihan (untung dan sebagainya)","contoh":[]}],"rootWord":"carak¹","terkait":{"kataTurunan":[],"gabunganKata":["mencarak benak"],"peribahasa":["mengisap (mencarak, mencucup) benak"],"idiom":[]}},{"id":"14736","nama":"men.ca.rak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai kelihatan (tentang matahari)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuka dan melihat (kartu)","contoh":[]}],"rootWord":"carak²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mengisap (mencarak, mencucup) benak"],"idiom":[]}}]}
+{
+  "word": "mencarak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14731",
+      "nama": "men.ca.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meneguk (air) dengan mencucurkannya ke mulut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisap (telur ayam mentah)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil secara berlebihan (untung dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "carak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencarak benak"
+        ],
+        "peribahasa": [
+          "mengisap (mencarak, mencucup) benak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "14736",
+      "nama": "men.ca.rak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai kelihatan (tentang matahari)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuka dan melihat (kartu)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "carak²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mengisap (mencarak, mencucup) benak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

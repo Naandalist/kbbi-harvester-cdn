@@ -1,1 +1,54 @@
-{"word":"membunga","authenticated":true,"entries":[{"id":"13432","nama":"mem.bu.nga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerupai bunga","contoh":[]}],"rootWord":"bunga¹","terkait":{"kataTurunan":[],"gabunganKata":["membunga bakung"],"peribahasa":[],"idiom":[]}},{"id":"13450","nama":"mem.bu.nga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi bunga (uang)","contoh":[]}],"rootWord":"bunga²"}]}
+{
+  "word": "membunga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13432",
+      "nama": "mem.bu.nga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai bunga",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bunga¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "membunga bakung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "13450",
+      "nama": "mem.bu.nga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi bunga (uang)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bunga²"
+    }
+  ]
+}

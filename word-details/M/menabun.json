@@ -1,1 +1,43 @@
-{"word":"menabun","authenticated":true,"entries":[{"id":"80738","nama":"me.na.bun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membubung berkepul-kepul (tentang asap)","contoh":[{"nomor":2,"teks":"berdentum bedil berbunyi, asap naik ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membakar timbunan sampah dan sebagainya; memasang api unggun","contoh":[]}],"rootWord":"tabun¹"}]}
+{
+  "word": "menabun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80738",
+      "nama": "me.na.bun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membubung berkepul-kepul (tentang asap)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdentum bedil berbunyi, asap naik ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membakar timbunan sampah dan sebagainya; memasang api unggun",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tabun¹"
+    }
+  ]
+}

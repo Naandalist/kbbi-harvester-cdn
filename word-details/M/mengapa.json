@@ -1,1 +1,43 @@
-{"word":"mengapa","authenticated":true,"entries":[{"id":"4728","nama":"meng.a.pa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menanyakan sebab, alasan, atau perbuatan","contoh":[{"nomor":2,"teks":"~ kawanmu tidak datang?"},{"nomor":4,"teks":"sedang ~ adikmu itu?"}]}],"rootWord":"apa¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["rasa tak mengapa, hidung dikeluani"],"idiom":[]}}]}
+{
+  "word": "mengapa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4728",
+      "nama": "meng.a.pa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menanyakan sebab, alasan, atau perbuatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kawanmu tidak datang?"
+            },
+            {
+              "nomor": 4,
+              "teks": "sedang ~ adikmu itu?"
+            }
+          ]
+        }
+      ],
+      "rootWord": "apa¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "rasa tak mengapa, hidung dikeluani"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"word":"mandek","authenticated":true,"entries":[{"id":"51916","nama":"man.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhenti","contoh":[{"nomor":2,"teks":"mobil itu -- di tengah jembatan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhambat; terhenti; tertahan; macet","contoh":[{"nomor":2,"teks":"lalu lintas -- beberapa jam"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menemui jalan buntu","contoh":[{"nomor":2,"teks":"soal itulah yang menyebabkan perundingan --"}]}],"etimologi":{"text":"[Jawa Kuno maṇḍěg 'berhenti, tinggal, tetap']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kemandekan","memandekkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mandek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51916",
+      "nama": "man.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mobil itu -- di tengah jembatan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhambat; terhenti; tertahan; macet",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lalu lintas -- beberapa jam"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menemui jalan buntu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "soal itulah yang menyebabkan perundingan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno maṇḍěg 'berhenti, tinggal, tetap']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemandekan",
+          "memandekkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

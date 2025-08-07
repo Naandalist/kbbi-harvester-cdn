@@ -1,1 +1,70 @@
-{"word":"membersihkan","authenticated":true,"entries":[{"id":"10813","nama":"mem.ber.sih.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat supaya bersih (dengan jalan mencuci, menyapu, menggosok, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membinasakan; melenyapkan","contoh":[{"nomor":2,"teks":"~ sisa-sisa gerombolan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memulihkan; mengembalikan (nama baik)","contoh":[{"nomor":2,"teks":"~ nama dari tuduhan palsu"}]}],"rootWord":"bersih"}]}
+{
+  "word": "membersihkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10813",
+      "nama": "mem.ber.sih.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat supaya bersih (dengan jalan mencuci, menyapu, menggosok, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membinasakan; melenyapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sisa-sisa gerombolan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulihkan; mengembalikan (nama baik)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ nama dari tuduhan palsu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bersih"
+    }
+  ]
+}

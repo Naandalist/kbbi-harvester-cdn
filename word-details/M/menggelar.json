@@ -1,1 +1,60 @@
-{"word":"menggelar","authenticated":true,"entries":[{"id":"25267","nama":"meng.ge.lar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghamparkan; membentangkan (tikar dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur terhampar","contoh":[{"nomor":2,"teks":"pedagang kaki lima itu ~ dagangannya di pinggir jalan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperagakan; mempertontonkan; memperkenalkan (kepada umum)","contoh":[]}],"rootWord":"gelar²"}]}
+{
+  "word": "menggelar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25267",
+      "nama": "meng.ge.lar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghamparkan; membentangkan (tikar dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur terhampar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedagang kaki lima itu ~ dagangannya di pinggir jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperagakan; mempertontonkan; memperkenalkan (kepada umum)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelar²"
+    }
+  ]
+}

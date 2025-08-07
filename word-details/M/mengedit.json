@@ -1,1 +1,60 @@
-{"word":"mengedit","authenticated":true,"entries":[{"id":"21053","nama":"meng.e.dit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempersiapkan naskah yang siap cetak atau siap terbit (dengan memperhatikan terutama segi ejaan, diksi, dan struktur kalimat); menyunting","contoh":[{"nomor":2,"teks":"dia ~ naskah buku buku yang akan diterbitkan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merencanakan dan mengarahkan penerbitan (surat kabar, majalah)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyusun (film, pita rekaman) dengan memotong dan memadukan kembali","contoh":[{"nomor":2,"teks":"dia ~ video pembelajaran sekolah dasar"}]}],"rootWord":"edit"}]}
+{
+  "word": "mengedit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21053",
+      "nama": "meng.e.dit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempersiapkan naskah yang siap cetak atau siap terbit (dengan memperhatikan terutama segi ejaan, diksi, dan struktur kalimat); menyunting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ naskah buku buku yang akan diterbitkan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merencanakan dan mengarahkan penerbitan (surat kabar, majalah)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyusun (film, pita rekaman) dengan memotong dan memadukan kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ video pembelajaran sekolah dasar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "edit"
+    }
+  ]
+}

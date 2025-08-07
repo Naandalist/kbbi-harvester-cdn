@@ -1,1 +1,149 @@
-{"word":"mengeram","authenticated":true,"entries":[{"id":"22503","nama":"meng.e.ram","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"duduk mendekam untuk memanaskan telur agar menetas (tentang ayam, burung)","contoh":[{"nomor":2,"teks":"beberapa ekor ayamnya sedang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"duduk menderum; mendekam","contoh":[{"nomor":2,"teks":"harimau ~ hendak menerkam mangsanya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turun; lengkung (tentang lantai, tanah, jalan)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tinggal dalam rumah (tidak pernah pergi ke luar rumah); mengurung diri di rumah","contoh":[{"nomor":2,"teks":"mari kita berjalan-jalan, jangan ~ saja"}]}],"rootWord":"eram","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["selama enggang mengeram"],"idiom":["selama enggang mengeram"]}},{"id":"40193","nama":"me.nge.ram","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tinggal saja (di rumah), tidak pergi ke mana-mana","contoh":[{"nomor":2,"teks":"dari pagi dia ~ saja di rumah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tinggal terkurung (di penjara)","contoh":[{"nomor":2,"teks":"selama dia ~ di penjara, istrinya membuka warung di depan rumahnya"}]}],"rootWord":"keram¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["selama enggang mengeram"],"idiom":["selama enggang mengeram"]}}]}
+{
+  "word": "mengeram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22503",
+      "nama": "meng.e.ram",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "duduk mendekam untuk memanaskan telur agar menetas (tentang ayam, burung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa ekor ayamnya sedang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "duduk menderum; mendekam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harimau ~ hendak menerkam mangsanya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun; lengkung (tentang lantai, tanah, jalan)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinggal dalam rumah (tidak pernah pergi ke luar rumah); mengurung diri di rumah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mari kita berjalan-jalan, jangan ~ saja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "eram",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "selama enggang mengeram"
+        ],
+        "idiom": [
+          "selama enggang mengeram"
+        ]
+      }
+    },
+    {
+      "id": "40193",
+      "nama": "me.nge.ram",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinggal saja (di rumah), tidak pergi ke mana-mana",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari pagi dia ~ saja di rumah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinggal terkurung (di penjara)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama dia ~ di penjara, istrinya membuka warung di depan rumahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "keram¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "selama enggang mengeram"
+        ],
+        "idiom": [
+          "selama enggang mengeram"
+        ]
+      }
+    }
+  ]
+}

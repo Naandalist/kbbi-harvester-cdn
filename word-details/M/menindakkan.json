@@ -1,1 +1,35 @@
-{"word":"menindakkan","authenticated":true,"entries":[{"id":"86170","nama":"me.nin.dak.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan; menjalankan","contoh":[{"nomor":2,"teks":"~ kekerasan"},{"nomor":4,"teks":"~ aturan"}]}],"rootWord":"tindak"}]}
+{
+  "word": "menindakkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86170",
+      "nama": "me.nin.dak.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan; menjalankan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kekerasan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ aturan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tindak"
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"mirik","authenticated":true,"entries":[{"id":"54671","nama":"mi.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meleleh","contoh":[{"nomor":2,"teks":"jika -- hendak dipalit"}]}]},{"id":"209277","nama":"mi.rik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"memanen ikan hasil tambak","contoh":[{"nomor":2,"teks":"mereka sedang -- bandeng"}]}]}]}
+{
+  "word": "mirik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54671",
+      "nama": "mi.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meleleh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika -- hendak dipalit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "209277",
+      "nama": "mi.rik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memanen ikan hasil tambak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang -- bandeng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

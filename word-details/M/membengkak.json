@@ -1,1 +1,53 @@
-{"word":"membengkak","authenticated":true,"entries":[{"id":"10197","nama":"mem.beng.kak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi bengkak","contoh":[{"nomor":2,"teks":"luka yang kemasukan kotoran atau kuman akan segera ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bertambah besar atau banyak (tentang biaya, anggaran, dan sebagainya)","contoh":[{"nomor":2,"teks":"biaya rumah tangganya tiap bulan makin ~ akibat kenaikan harga barang-barang"}]}],"rootWord":"bengkak"}]}
+{
+  "word": "membengkak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10197",
+      "nama": "mem.beng.kak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi bengkak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "luka yang kemasukan kotoran atau kuman akan segera ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertambah besar atau banyak (tentang biaya, anggaran, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "biaya rumah tangganya tiap bulan makin ~ akibat kenaikan harga barang-barang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bengkak"
+    }
+  ]
+}

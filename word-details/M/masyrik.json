@@ -1,1 +1,41 @@
-{"word":"masyrik","authenticated":true,"entries":[{"id":"52697","nama":"masy.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"timur (negeri-negeri sebelah timur)","contoh":[{"nomor":2,"teks":"dari -- sampai magrib"}]}],"etimologi":{"text":"[Arab مَشْرِقٌ masyriq n sg m 'timur']","languages":["Arab"]}}]}
+{
+  "word": "masyrik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52697",
+      "nama": "masy.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "timur (negeri-negeri sebelah timur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari -- sampai magrib"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَشْرِقٌ masyriq n sg m 'timur']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

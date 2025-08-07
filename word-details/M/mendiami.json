@@ -1,1 +1,56 @@
-{"word":"mendiami","authenticated":true,"entries":[{"id":"19604","nama":"men.di.am.i","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menempati (rumah, tempat tinggal, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia masih ~ rumah instansi"}]}],"rootWord":"diam²"},{"id":"162079","nama":"men.di.am.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak menegur (menyapa, dan sebagainya)","contoh":[{"nomor":2,"teks":"sudah tiga hari dia ~ku karena masalah itu"}]}],"rootWord":"diam¹"}]}
+{
+  "word": "mendiami",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19604",
+      "nama": "men.di.am.i",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menempati (rumah, tempat tinggal, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia masih ~ rumah instansi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diam²"
+    },
+    {
+      "id": "162079",
+      "nama": "men.di.am.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menegur (menyapa, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah tiga hari dia ~ku karena masalah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "diam¹"
+    }
+  ]
+}

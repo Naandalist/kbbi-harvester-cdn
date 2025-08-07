@@ -1,1 +1,77 @@
-{"word":"memepat","authenticated":true,"entries":[{"id":"62093","nama":"me.me.pat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memotong (mengerat) sampai rata","contoh":[{"nomor":2,"teks":"~ kuku"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendabung sampai rata (tentang gigi)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memangkas sampai rata (tentang rambut)","contoh":[{"nomor":2,"teks":"ia disuruh memelihara janggut dan ~ rambutnya baik-baik"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memaras (tentang isi sukatan)","contoh":[{"nomor":2,"teks":"~ beras dalam sukatan"}]}],"rootWord":"pepat¹"}]}
+{
+  "word": "memepat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62093",
+      "nama": "me.me.pat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memotong (mengerat) sampai rata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kuku"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendabung sampai rata (tentang gigi)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memangkas sampai rata (tentang rambut)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia disuruh memelihara janggut dan ~ rambutnya baik-baik"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memaras (tentang isi sukatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ beras dalam sukatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pepat¹"
+    }
+  ]
+}

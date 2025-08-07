@@ -1,1 +1,56 @@
-{"word":"mengitarkan","authenticated":true,"entries":[{"id":"42147","nama":"me.ngi.tar.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerakkan supaya berkitar; mengisarkan","contoh":[{"nomor":2,"teks":"~ jentera"}]}],"rootWord":"kitar¹"},{"id":"42155","nama":"me.ngi.tar.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menolakkan atau mendesakkan ke sisi (dengan lengan dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ orang yang ingin menghadangnya"}]}],"rootWord":"kitar²"}]}
+{
+  "word": "mengitarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42147",
+      "nama": "me.ngi.tar.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerakkan supaya berkitar; mengisarkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ jentera"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kitar¹"
+    },
+    {
+      "id": "42155",
+      "nama": "me.ngi.tar.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menolakkan atau mendesakkan ke sisi (dengan lengan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ orang yang ingin menghadangnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kitar²"
+    }
+  ]
+}

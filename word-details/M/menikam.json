@@ -1,1 +1,110 @@
-{"word":"menikam","authenticated":true,"entries":[{"id":"85880","nama":"me.ni.kam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menusuk dengan senjata tajam","contoh":[{"nomor":2,"teks":"ia berhasil ~ lambung lawannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melukai (hati, perasaan)","contoh":[{"nomor":2,"teks":"ucapannya itu benar-benar ~ hatiku"}]}],"rootWord":"tikam¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telunjuk mencocok (merosok, menikam) mata (jari)"],"idiom":[]}},{"id":"85891","nama":"me.ni.kam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang petaruh (dalam permainan tebak-tebakan, tombola, dan sebagainya); memasang lotre; membeli kupon undian","contoh":[]}],"rootWord":"tikam²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telunjuk mencocok (merosok, menikam) mata (jari)"],"idiom":[]}},{"id":"53584","nama":"me.ni.kam","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ manikam","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telunjuk mencocok (merosok, menikam) mata (jari)"],"idiom":[]}}]}
+{
+  "word": "menikam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85880",
+      "nama": "me.ni.kam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusuk dengan senjata tajam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berhasil ~ lambung lawannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melukai (hati, perasaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ucapannya itu benar-benar ~ hatiku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tikam¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telunjuk mencocok (merosok, menikam) mata (jari)"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "85891",
+      "nama": "me.ni.kam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang petaruh (dalam permainan tebak-tebakan, tombola, dan sebagainya); memasang lotre; membeli kupon undian",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tikam²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telunjuk mencocok (merosok, menikam) mata (jari)"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "53584",
+      "nama": "me.ni.kam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ manikam",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telunjuk mencocok (merosok, menikam) mata (jari)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

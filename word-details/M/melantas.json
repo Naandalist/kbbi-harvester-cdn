@@ -1,1 +1,56 @@
-{"word":"melantas","authenticated":true,"entries":[{"id":"46809","nama":"me.lan.tas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"langsung; terus","contoh":[{"nomor":2,"teks":"perahu ~ saja tanpa singgah-singgah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(langsung) menembus; (langsung) masuk","contoh":[{"nomor":2,"teks":"racun itu ~ ke dalam darah melalui lukanya"}]}],"rootWord":"lantas¹","terkait":{"kataTurunan":[],"gabunganKata":["melantas akal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "melantas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46809",
+      "nama": "me.lan.tas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "langsung; terus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu ~ saja tanpa singgah-singgah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(langsung) menembus; (langsung) masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "racun itu ~ ke dalam darah melalui lukanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lantas¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "melantas akal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

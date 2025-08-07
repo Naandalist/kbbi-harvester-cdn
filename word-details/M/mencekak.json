@@ -1,1 +1,56 @@
-{"word":"mencekak","authenticated":true,"entries":[{"id":"15104","nama":"men.ce.kak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang dengan ibu jari dan jari tengah atau telunjuk","contoh":[{"nomor":2,"teks":"ia ~ rambut anak itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencekik","contoh":[{"nomor":2,"teks":"ia ~ leher musuhnya"}]}],"rootWord":"cekak¹","terkait":{"kataTurunan":[],"gabunganKata":["mencekak pinggang"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mencekak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15104",
+      "nama": "men.ce.kak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang dengan ibu jari dan jari tengah atau telunjuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ rambut anak itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencekik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ leher musuhnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cekak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencekak pinggang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

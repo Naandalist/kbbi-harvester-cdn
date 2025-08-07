@@ -1,1 +1,48 @@
-{"word":"membayari","authenticated":true,"entries":[{"id":"9132","nama":"mem.ba.yar.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar berkali-kali","contoh":[{"nomor":2,"teks":"orang tua itu terpaksa ~ utang-utang anaknya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar untuk orang lain","contoh":[{"nomor":2,"teks":"sayalah yang ~ makannya"}]}],"rootWord":"bayar"}]}
+{
+  "word": "membayari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9132",
+      "nama": "mem.ba.yar.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar berkali-kali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang tua itu terpaksa ~ utang-utang anaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar untuk orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayalah yang ~ makannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bayar"
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"word":"memalangi","authenticated":true,"entries":[{"id":"51660","nama":"me.ma.lang.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merintangi jalan; terletak malang pada; menghalangi","contoh":[{"nomor":2,"teks":"sebatang pohon kenari tua telah roboh dan ~ jalan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyegani; menghormati","contoh":[{"nomor":2,"teks":"orang sekampung ~ orang tua yang arif itu"}]}],"rootWord":"malang¹"},{"id":"59335","nama":"me.ma.lang.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang palang pada","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merintangi","contoh":[]}],"rootWord":"palang"}]}
+{
+  "word": "memalangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51660",
+      "nama": "me.ma.lang.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merintangi jalan; terletak malang pada; menghalangi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebatang pohon kenari tua telah roboh dan ~ jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyegani; menghormati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang sekampung ~ orang tua yang arif itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "malang¹"
+    },
+    {
+      "id": "59335",
+      "nama": "me.ma.lang.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang palang pada",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merintangi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "palang"
+    }
+  ]
+}

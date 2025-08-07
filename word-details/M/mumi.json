@@ -1,1 +1,57 @@
-{"word":"mumi","authenticated":true,"entries":[{"id":"55666","nama":"mu.mi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mayat yang diawetkan dengan jalan pembalsaman (seperti pada orang Mesir Kuno)","contoh":[]}],"terkait":{"kataTurunan":["memumikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"55668","nama":"mu.mi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"buah kering yang mengerut karena suatu penyakit (merupakan sumber penularan pada musim berikutnya)","contoh":[]}]}]}
+{
+  "word": "mumi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55666",
+      "nama": "mu.mi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mayat yang diawetkan dengan jalan pembalsaman (seperti pada orang Mesir Kuno)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memumikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "55668",
+      "nama": "mu.mi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "buah kering yang mengerut karena suatu penyakit (merupakan sumber penularan pada musim berikutnya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

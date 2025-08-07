@@ -1,1 +1,50 @@
-{"word":"mengamus","authenticated":true,"entries":[{"id":"36530","nama":"me.nga.mus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyamak kulit","contoh":[]}],"rootWord":"kamus²"},{"id":"248394","nama":"me.nga.mus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Krc","nama":"Kerinci","tipe":"lainnya"}],"definisi":"menyantap makanan (sesuai dengan porsi) dengan waktu yang cepat","contoh":[]}]}]}
+{
+  "word": "mengamus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36530",
+      "nama": "me.nga.mus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyamak kulit",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kamus²"
+    },
+    {
+      "id": "248394",
+      "nama": "me.nga.mus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Krc",
+              "nama": "Kerinci",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyantap makanan (sesuai dengan porsi) dengan waktu yang cepat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

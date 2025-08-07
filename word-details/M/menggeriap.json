@@ -1,1 +1,68 @@
-{"word":"menggeriap","authenticated":true,"entries":[{"id":"26435","nama":"meng.ge.ri.ap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi kecil (tentang mata karena mengantuk, atau tentang nyala lampu karena kekurangan minyak, dan sebagainya)","contoh":[]}],"rootWord":"geriap¹"},{"id":"26437","nama":"meng.ge.ri.ap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"berdiri bulu roma karena terkejut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"terurai lepas (tentang rambut)","contoh":[]}],"rootWord":"geriap²"}]}
+{
+  "word": "menggeriap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "26435",
+      "nama": "meng.ge.ri.ap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi kecil (tentang mata karena mengantuk, atau tentang nyala lampu karena kekurangan minyak, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "geriap¹"
+    },
+    {
+      "id": "26437",
+      "nama": "meng.ge.ri.ap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berdiri bulu roma karena terkejut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terurai lepas (tentang rambut)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "geriap²"
+    }
+  ]
+}

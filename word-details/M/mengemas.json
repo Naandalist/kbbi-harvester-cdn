@@ -1,1 +1,80 @@
-{"word":"mengemas","authenticated":true,"entries":[{"id":"21796","nama":"meng.e.mas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerupai emas (tentang warna)","contoh":[{"nomor":2,"teks":"langit di ufuk timur mulai ~"}]}],"rootWord":"emas"},{"id":"39384","nama":"me.nge.mas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur rapi-rapi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membungkus-bungkus supaya ringkas","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberes-bereskan (tempat tidur, meja makan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia cepat-cepat ~ barang dagangannya karena hari akan hujan"}]}],"rootWord":"kemas"}]}
+{
+  "word": "mengemas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21796",
+      "nama": "meng.e.mas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai emas (tentang warna)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "langit di ufuk timur mulai ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "emas"
+    },
+    {
+      "id": "39384",
+      "nama": "me.nge.mas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur rapi-rapi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membungkus-bungkus supaya ringkas",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberes-bereskan (tempat tidur, meja makan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia cepat-cepat ~ barang dagangannya karena hari akan hujan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kemas"
+    }
+  ]
+}

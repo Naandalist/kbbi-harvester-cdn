@@ -1,1 +1,65 @@
-{"word":"menuam","authenticated":true,"entries":[{"id":"87450","nama":"me.nu.am","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenakan tuam pada","contoh":[{"nomor":2,"teks":"aku selalu ~ di perut saat menstruasi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghangatkan tubuh dengan tuam","contoh":[{"nomor":2,"teks":"kakak menyuruhku ~ jika udara mulai dingin"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengurut bagian tubuh yang sakit dengan tuam","contoh":[{"nomor":2,"teks":"pakai ini untuk ~ kakimu yang sakit"}]}],"rootWord":"tuam"}]}
+{
+  "word": "menuam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87450",
+      "nama": "me.nu.am",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenakan tuam pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku selalu ~ di perut saat menstruasi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghangatkan tubuh dengan tuam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakak menyuruhku ~ jika udara mulai dingin"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengurut bagian tubuh yang sakit dengan tuam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pakai ini untuk ~ kakimu yang sakit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tuam"
+    }
+  ]
+}

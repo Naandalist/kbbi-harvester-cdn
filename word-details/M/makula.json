@@ -1,1 +1,42 @@
-{"word":"makula","authenticated":true,"entries":[{"id":"94253","nama":"ma.ku.la","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bintik-bintik yang terdapat pada struktur, misalnya bintik kuning pada mata, bercak pada kulit berupa perubahan warna","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"kelainan kulit yang mengalami perubahan warna, tidak disertai penonjolan kulit, dan tidak ada lekukan pada kulit","contoh":[]}]}]}
+{
+  "word": "makula",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "94253",
+      "nama": "ma.ku.la",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bintik-bintik yang terdapat pada struktur, misalnya bintik kuning pada mata, bercak pada kulit berupa perubahan warna",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kelainan kulit yang mengalami perubahan warna, tidak disertai penonjolan kulit, dan tidak ada lekukan pada kulit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

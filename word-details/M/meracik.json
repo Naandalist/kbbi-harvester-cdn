@@ -1,1 +1,84 @@
-{"word":"meracik","authenticated":true,"entries":[{"id":"66532","nama":"me.ra.cik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiris (mengerat) tipis-tipis; merajang","contoh":[{"nomor":2,"teks":"ia ~ mentimun hingga menjadi potongan yang tipis-tipis"},{"nomor":4,"teks":"~ tembakau"}]}],"rootWord":"racik¹"},{"id":"66538","nama":"me.ra.cik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menangkap burung dengan racik","contoh":[]}],"rootWord":"racik²"},{"id":"66540","nama":"me.ra.cik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencampur bahan-bahan untuk dijadikan jamu (obat); meramu","contoh":[{"nomor":2,"teks":"~ jamu"},{"nomor":4,"teks":"~ obat"}]}],"rootWord":"racik³"}]}
+{
+  "word": "meracik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66532",
+      "nama": "me.ra.cik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiris (mengerat) tipis-tipis; merajang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ mentimun hingga menjadi potongan yang tipis-tipis"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ tembakau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "racik¹"
+    },
+    {
+      "id": "66538",
+      "nama": "me.ra.cik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menangkap burung dengan racik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "racik²"
+    },
+    {
+      "id": "66540",
+      "nama": "me.ra.cik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencampur bahan-bahan untuk dijadikan jamu (obat); meramu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ jamu"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ obat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "racik³"
+    }
+  ]
+}

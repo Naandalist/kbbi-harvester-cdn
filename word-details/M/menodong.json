@@ -1,1 +1,53 @@
-{"word":"menodong","authenticated":true,"entries":[{"id":"86627","nama":"me.no.dong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengarahkan senjata (pistol dan sebagainya) sebagai ancaman untuk merampok, merampas, dan sebagainya","contoh":[{"nomor":2,"teks":"dua orang bersenjata masuk, lalu ~ tuan rumah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyuruh dengan serta-merta (tanpa persetujuan sebelumnya)","contoh":[{"nomor":2,"teks":"masyarakat desa itu ~ gubernur DKI untuk ikut berjoget di panggung"}]}],"rootWord":"todong"}]}
+{
+  "word": "menodong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86627",
+      "nama": "me.no.dong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarahkan senjata (pistol dan sebagainya) sebagai ancaman untuk merampok, merampas, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua orang bersenjata masuk, lalu ~ tuan rumah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruh dengan serta-merta (tanpa persetujuan sebelumnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masyarakat desa itu ~ gubernur DKI untuk ikut berjoget di panggung"
+            }
+          ]
+        }
+      ],
+      "rootWord": "todong"
+    }
+  ]
+}

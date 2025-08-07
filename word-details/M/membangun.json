@@ -1,1 +1,90 @@
-{"word":"membangun","authenticated":true,"entries":[{"id":"8001","nama":"mem.ba.ngun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bangkit berdiri; naik (tentang awan dan sebagainya)","contoh":[{"nomor":2,"teks":"mega ~"}]}],"rootWord":"bangun¹"},{"id":"8011","nama":"mem.ba.ngun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendirikan (mengadakan gedung dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka sedang ~ benteng di tempat itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membina","contoh":[{"nomor":2,"teks":"kita harus ~ negara kesatuan kita"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(bersifat) memperbaiki","contoh":[{"nomor":2,"teks":"kritik yang ~ sangat diharapkan demi kemajuan bangsa"}]}],"rootWord":"bangun²"}]}
+{
+  "word": "membangun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8001",
+      "nama": "mem.ba.ngun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangkit berdiri; naik (tentang awan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mega ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bangun¹"
+    },
+    {
+      "id": "8011",
+      "nama": "mem.ba.ngun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendirikan (mengadakan gedung dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang ~ benteng di tempat itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membina",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus ~ negara kesatuan kita"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(bersifat) memperbaiki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kritik yang ~ sangat diharapkan demi kemajuan bangsa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bangun²"
+    }
+  ]
+}

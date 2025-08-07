@@ -1,1 +1,53 @@
-{"word":"memimpikan","authenticated":true,"entries":[{"id":"54397","nama":"me.mim.pi.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bermimpi akan sesuatu","contoh":[{"nomor":2,"teks":"ia ~ dirinya bisa terbang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencita-citakan (sesuatu yang susah atau tidak mungkin dicapai)","contoh":[{"nomor":2,"teks":"walaupun pendidikannya rendah ia selalu ~ jabatan yang tinggi"}]}],"rootWord":"mimpi"}]}
+{
+  "word": "memimpikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54397",
+      "nama": "me.mim.pi.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bermimpi akan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ dirinya bisa terbang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencita-citakan (sesuatu yang susah atau tidak mungkin dicapai)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "walaupun pendidikannya rendah ia selalu ~ jabatan yang tinggi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mimpi"
+    }
+  ]
+}

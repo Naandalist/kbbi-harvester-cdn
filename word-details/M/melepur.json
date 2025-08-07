@@ -1,1 +1,51 @@
-{"word":"melepur","authenticated":true,"entries":[{"id":"48815","nama":"me.le.pur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbenam dalam lumpur","contoh":[{"nomor":2,"teks":"kasihan, anak yang malang itu ~"}]}],"rootWord":"lepur¹"},{"id":"48817","nama":"me.le.pur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerang dengan memukulkan sayap","contoh":[]}],"rootWord":"lepur²"}]}
+{
+  "word": "melepur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48815",
+      "nama": "me.le.pur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbenam dalam lumpur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kasihan, anak yang malang itu ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lepur¹"
+    },
+    {
+      "id": "48817",
+      "nama": "me.le.pur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerang dengan memukulkan sayap",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lepur²"
+    }
+  ]
+}

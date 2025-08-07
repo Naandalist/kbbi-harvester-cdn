@@ -1,1 +1,35 @@
-{"word":"magna cum laude","authenticated":true,"entries":[{"id":"97580","nama":"magna cum laude","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Lt","nama":"Latin","tipe":"bahasa"}],"definisi":"dengan pujian tertinggi (tentang yudisium)","contoh":[{"nomor":2,"teks":"lulusan terbaik itu mendapat predikat --"}]}]}]}
+{
+  "word": "magna cum laude",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "97580",
+      "nama": "magna cum laude",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lt",
+              "nama": "Latin",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dengan pujian tertinggi (tentang yudisium)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lulusan terbaik itu mendapat predikat --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

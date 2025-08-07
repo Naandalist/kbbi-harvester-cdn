@@ -1,1 +1,65 @@
-{"word":"mengemplang","authenticated":true,"entries":[{"id":"39583","nama":"me.ngem.plang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memapas kepala keras-keras; menempeleng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menghindar dari keharusan membayar utang","contoh":[{"nomor":2,"teks":"gara-gara harga aluminium jatuh, perusahaan itu ~ 28 miliar rupiah kepada bank"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengambil yang bukan haknya dengan tidak memberitahukannya kepada yang berhak memiliki","contoh":[]}],"rootWord":"kemplang¹"}]}
+{
+  "word": "mengemplang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39583",
+      "nama": "me.ngem.plang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memapas kepala keras-keras; menempeleng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghindar dari keharusan membayar utang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gara-gara harga aluminium jatuh, perusahaan itu ~ 28 miliar rupiah kepada bank"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil yang bukan haknya dengan tidak memberitahukannya kepada yang berhak memiliki",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kemplang¹"
+    }
+  ]
+}

@@ -1,1 +1,68 @@
-{"word":"menyambat","authenticated":true,"entries":[{"id":"71638","nama":"me.nyam.bat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyambung; mengikat","contoh":[{"nomor":2,"teks":"ia ~ dua batang bambu sehingga menjadi galah yang panjang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul dengan tali (cambuk, rotan, dan sebagainya)","contoh":[{"nomor":2,"teks":"karena gemasnya, ia ~ anak yang nakal itu"}]}],"rootWord":"sambat¹"},{"id":"71643","nama":"me.nyam.bat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersambat","contoh":[]}],"rootWord":"sambat²"}]}
+{
+  "word": "menyambat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71638",
+      "nama": "me.nyam.bat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyambung; mengikat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ dua batang bambu sehingga menjadi galah yang panjang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul dengan tali (cambuk, rotan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena gemasnya, ia ~ anak yang nakal itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sambat¹"
+    },
+    {
+      "id": "71643",
+      "nama": "me.nyam.bat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersambat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sambat²"
+    }
+  ]
+}

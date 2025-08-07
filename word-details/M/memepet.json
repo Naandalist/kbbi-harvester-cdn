@@ -1,1 +1,70 @@
-{"word":"memepet","authenticated":true,"entries":[{"id":"53706","nama":"me.me.pet","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendesak","contoh":[]}],"rootWord":"mepet"},{"id":"62116","nama":"me.me.pet","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengimpit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendesak (ke sudut atau pinggir)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merapat","contoh":[]}],"rootWord":"pepet"}]}
+{
+  "word": "memepet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53706",
+      "nama": "me.me.pet",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendesak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "mepet"
+    },
+    {
+      "id": "62116",
+      "nama": "me.me.pet",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengimpit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendesak (ke sudut atau pinggir)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merapat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pepet"
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"meragas","authenticated":true,"entries":[{"id":"66773","nama":"me.ra.gas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencabut (rambut, rumput, dan sebagainya); menyentak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"memotong rambut; memangkas tanaman dan sebagainya","contoh":[]}],"rootWord":"ragas¹"},{"id":"66775","nama":"me.ra.gas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merambat; memanjat (tentang tumbuh-tumbuhan)","contoh":[]}],"rootWord":"ragas²"}]}
+{
+  "word": "meragas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66773",
+      "nama": "me.ra.gas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencabut (rambut, rumput, dan sebagainya); menyentak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memotong rambut; memangkas tanaman dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ragas¹"
+    },
+    {
+      "id": "66775",
+      "nama": "me.ra.gas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merambat; memanjat (tentang tumbuh-tumbuhan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ragas²"
+    }
+  ]
+}

@@ -1,1 +1,41 @@
-{"word":"mukmin","authenticated":true,"entries":[{"id":"55494","nama":"muk.min","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"orang yang beriman (percaya) kepada Allah Swt.","contoh":[{"nomor":2,"teks":"seorang -- yang taat akan selalu menjalankan perintah agama"}]}],"etimologi":{"text":"[Arab مُؤْمِنٌ mu’min n sg m 'orang yang memercayai sesuatu']","languages":["Arab"]}}]}
+{
+  "word": "mukmin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55494",
+      "nama": "muk.min",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang beriman (percaya) kepada Allah Swt.",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seorang -- yang taat akan selalu menjalankan perintah agama"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُؤْمِنٌ mu’min n sg m 'orang yang memercayai sesuatu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

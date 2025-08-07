@@ -1,1 +1,138 @@
-{"word":"m","authenticated":true,"entries":[{"id":"96074","nama":"m","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"meter","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"(ditulis dengan huruf kapital) Masehi","contoh":[]}]},{"id":"50800","nama":"M","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huruf ke-13 abjad Indonesia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(ditulis dengan huruf kapital) lambang bilangan 1.000 angka Romawi","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(ditulis dengan huruf kapital bergaris atas) lambang bilangan 1.000.000 angka Romawi","contoh":[]}]},{"id":"269226","nama":"M","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kode pelat nomor kendaraan meliputi wilayah Madura, Bangkalan, Pamekasan, Sumenep, dan Sampang","contoh":[]}]},{"id":"271036","nama":"M","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"simbol ukuran sedang untuk pakaian; medium","contoh":[]}]}]}
+{
+  "word": "m",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96074",
+      "nama": "m",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meter",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf kapital) Masehi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "50800",
+      "nama": "M",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huruf ke-13 abjad Indonesia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf kapital) lambang bilangan 1.000 angka Romawi",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf kapital bergaris atas) lambang bilangan 1.000.000 angka Romawi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269226",
+      "nama": "M",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kode pelat nomor kendaraan meliputi wilayah Madura, Bangkalan, Pamekasan, Sumenep, dan Sampang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "271036",
+      "nama": "M",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "simbol ukuran sedang untuk pakaian; medium",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

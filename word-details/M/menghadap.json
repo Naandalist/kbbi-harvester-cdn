@@ -1,1 +1,77 @@
-{"word":"menghadap","authenticated":true,"entries":[{"id":"28060","nama":"meng.ha.dap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaruh ke (muka atau bagian depannya)","contoh":[{"nomor":2,"teks":"rumahnya ~ ke barat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"datang bertemu dengan; datang menjumpai","contoh":[{"nomor":2,"teks":"murid yang datang terlambat harus ~ gurunya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"datang ke (kantor, pengadilan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia sudah menerima panggilan untuk ~ ke pengadilan"}]}],"rootWord":"hadap","terkait":{"kataTurunan":[],"gabunganKata":["menghadap surut"],"peribahasa":["berjalan selangkah menghadap surut, berkata sepatah dipikirkan","rongkong menghadap mudik","tingkalak menghadap mudik, lukah menghadap hilir"],"idiom":[]}}]}
+{
+  "word": "menghadap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28060",
+      "nama": "meng.ha.dap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaruh ke (muka atau bagian depannya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahnya ~ ke barat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang bertemu dengan; datang menjumpai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "murid yang datang terlambat harus ~ gurunya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang ke (kantor, pengadilan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah menerima panggilan untuk ~ ke pengadilan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hadap",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menghadap surut"
+        ],
+        "peribahasa": [
+          "berjalan selangkah menghadap surut, berkata sepatah dipikirkan",
+          "rongkong menghadap mudik",
+          "tingkalak menghadap mudik, lukah menghadap hilir"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

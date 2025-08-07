@@ -1,1 +1,53 @@
-{"word":"masjid","authenticated":true,"entries":[{"id":"52575","nama":"mas.jid","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rumah atau bangunan tempat beribadah umat Islam","contoh":[{"nomor":2,"teks":"setiap Jumat dilakukan salat bersama di --"}]}],"etimologi":{"text":"[Arab مَسْجِدٌ masjid n sg m 'tempat ibadah']","languages":["Arab"]},"terkait":{"kataTurunan":["kemasjidan","permasjidan"],"gabunganKata":["masjid agung","masjid besar","masjid jami","masjid nasional","masjid negara","masjid raya","Masjid Saka Tunggal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "masjid",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52575",
+      "nama": "mas.jid",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rumah atau bangunan tempat beribadah umat Islam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap Jumat dilakukan salat bersama di --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَسْجِدٌ masjid n sg m 'tempat ibadah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemasjidan",
+          "permasjidan"
+        ],
+        "gabunganKata": [
+          "masjid agung",
+          "masjid besar",
+          "masjid jami",
+          "masjid nasional",
+          "masjid negara",
+          "masjid raya",
+          "Masjid Saka Tunggal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

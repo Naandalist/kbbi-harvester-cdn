@@ -1,1 +1,56 @@
-{"word":"menyulam","authenticated":true,"entries":[{"id":"79508","nama":"me.nyu.lam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membordir; menyuji","contoh":[{"nomor":2,"teks":"~ taplak meja"}]}],"rootWord":"sulam¹"},{"id":"79512","nama":"me.nyu.lam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menukar (menyilih) tanaman yang mati dengan tanaman yang sehat","contoh":[{"nomor":2,"teks":"ia rajin ~ tanaman yang mati"}]}],"rootWord":"sulam²"}]}
+{
+  "word": "menyulam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79508",
+      "nama": "me.nyu.lam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membordir; menyuji",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ taplak meja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sulam¹"
+    },
+    {
+      "id": "79512",
+      "nama": "me.nyu.lam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menukar (menyilih) tanaman yang mati dengan tanaman yang sehat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia rajin ~ tanaman yang mati"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sulam²"
+    }
+  ]
+}

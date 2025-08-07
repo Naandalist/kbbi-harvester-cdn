@@ -1,1 +1,43 @@
-{"word":"memarak","authenticated":true,"entries":[{"id":"52289","nama":"me.ma.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyala","contoh":[{"nomor":2,"teks":"api mulai ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi ramai","contoh":[]}],"rootWord":"marak¹"}]}
+{
+  "word": "memarak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52289",
+      "nama": "me.ma.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "api mulai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi ramai",
+          "contoh": []
+        }
+      ],
+      "rootWord": "marak¹"
+    }
+  ]
+}

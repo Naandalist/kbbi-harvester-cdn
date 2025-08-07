@@ -1,1 +1,77 @@
-{"word":"magrib","authenticated":true,"entries":[{"id":"51012","nama":"mag.rib","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"arah barat matahari terbenam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu matahari terbenam","contoh":[{"nomor":2,"teks":"ia tiba di Jakarta menjelang --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu salat wajib menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"(ditulis dengan huruf awal kapital) salat wajib sebanyak tiga rakaat pada waktu menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat","contoh":[]}],"etimologi":{"text":"[Arab مَغْرِبٌ magrib n sg m 'arah barat; tempat atau waktu matahari terbenam']","languages":["Arab"]}}]}
+{
+  "word": "magrib",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51012",
+      "nama": "mag.rib",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "arah barat matahari terbenam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu matahari terbenam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tiba di Jakarta menjelang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu salat wajib menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf awal kapital) salat wajib sebanyak tiga rakaat pada waktu menjelang matahari terbenam sampai lenyapnya sinar merah di ufuk barat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَغْرِبٌ magrib n sg m 'arah barat; tempat atau waktu matahari terbenam']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

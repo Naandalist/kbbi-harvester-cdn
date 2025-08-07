@@ -1,1 +1,56 @@
-{"word":"menyayangi","authenticated":true,"entries":[{"id":"72852","nama":"me.nya.yang.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sayang akan (kepada); mengasihi; mencintai","contoh":[{"nomor":2,"teks":"kita harus ~ segenap makhluk"}]}],"rootWord":"sayang¹"},{"id":"72857","nama":"me.nya.yang.i","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa sayang (menyesal) pada; menyesali","contoh":[{"nomor":2,"teks":"karena sudah terlanjur, tidak perlu kita ~ perbuatan itu"}]}],"rootWord":"sayang²"}]}
+{
+  "word": "menyayangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72852",
+      "nama": "me.nya.yang.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sayang akan (kepada); mengasihi; mencintai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus ~ segenap makhluk"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sayang¹"
+    },
+    {
+      "id": "72857",
+      "nama": "me.nya.yang.i",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa sayang (menyesal) pada; menyesali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena sudah terlanjur, tidak perlu kita ~ perbuatan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sayang²"
+    }
+  ]
+}

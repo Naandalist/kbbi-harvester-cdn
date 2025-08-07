@@ -1,1 +1,73 @@
-{"word":"mengharukan","authenticated":true,"entries":[{"id":"28863","nama":"meng.ha.ru.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merawankan hati","contoh":[{"nomor":2,"teks":"kematiannya sangat ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memesonakan; mengesankan","contoh":[{"nomor":2,"teks":"dialah satu-satunya pembaca Alquran yang amat ~"}]}],"rootWord":"haru¹"},{"id":"28869","nama":"meng.ha.ru.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengacaukan; merusuhkan","contoh":[{"nomor":2,"teks":"gerombolan itu datang ~ kampung halaman kami"}]}],"rootWord":"haru²"}]}
+{
+  "word": "mengharukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28863",
+      "nama": "meng.ha.ru.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merawankan hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kematiannya sangat ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memesonakan; mengesankan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dialah satu-satunya pembaca Alquran yang amat ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "haru¹"
+    },
+    {
+      "id": "28869",
+      "nama": "meng.ha.ru.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengacaukan; merusuhkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gerombolan itu datang ~ kampung halaman kami"
+            }
+          ]
+        }
+      ],
+      "rootWord": "haru²"
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"merenggang","authenticated":true,"entries":[{"id":"68695","nama":"me.reng.gang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi renggang","contoh":[{"nomor":2,"teks":"hubungan yang mulai ~"}]}],"rootWord":"renggang¹"},{"id":"111277","nama":"me.reng.gang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"memerkosa","contoh":[]}],"rootWord":"renggang²"}]}
+{
+  "word": "merenggang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68695",
+      "nama": "me.reng.gang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi renggang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hubungan yang mulai ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "renggang¹"
+    },
+    {
+      "id": "111277",
+      "nama": "me.reng.gang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memerkosa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "renggang²"
+    }
+  ]
+}

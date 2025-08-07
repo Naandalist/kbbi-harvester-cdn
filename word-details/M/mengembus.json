@@ -1,1 +1,61 @@
-{"word":"mengembus","authenticated":true,"entries":[{"id":"21893","nama":"meng.em.bus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kabur; lari","contoh":[{"nomor":2,"teks":"semua penjahat habis ~"}]}],"rootWord":"embus¹"},{"id":"21895","nama":"meng.em.bus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meniup; bertiup","contoh":[{"nomor":2,"teks":"angin pun ~ dari sebelah barat"}]}],"rootWord":"embus²"}]}
+{
+  "word": "mengembus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21893",
+      "nama": "meng.em.bus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabur; lari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua penjahat habis ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "embus¹"
+    },
+    {
+      "id": "21895",
+      "nama": "meng.em.bus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meniup; bertiup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "angin pun ~ dari sebelah barat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "embus²"
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"memecah","authenticated":true,"entries":[{"id":"61114","nama":"me.me.cah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi pecah-pecah (tentang ombak dan sebagainya)","contoh":[{"nomor":2,"teks":"ombak ~ di pantai"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengganggu; merusak","contoh":[{"nomor":2,"teks":"aku tidak berani ~ suasana yang tenang itu"}]}],"rootWord":"pecah","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sebagai bisul hampir memecah"],"idiom":["memecah kebuntuan","memecah kesunyian"]}}]}
+{
+  "word": "memecah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61114",
+      "nama": "me.me.cah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi pecah-pecah (tentang ombak dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ombak ~ di pantai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengganggu; merusak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku tidak berani ~ suasana yang tenang itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pecah",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sebagai bisul hampir memecah"
+        ],
+        "idiom": [
+          "memecah kebuntuan",
+          "memecah kesunyian"
+        ]
+      }
+    }
+  ]
+}

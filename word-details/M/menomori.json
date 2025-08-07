@@ -1,1 +1,31 @@
-{"word":"menomori","authenticated":true,"entries":[{"id":"57177","nama":"me.no.mor.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi nomor","contoh":[{"nomor":2,"teks":"di perpustakaan dia bertugas ~ buku-buku perolehan baru"}]}],"rootWord":"nomor"}]}
+{
+  "word": "menomori",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57177",
+      "nama": "me.no.mor.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi nomor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di perpustakaan dia bertugas ~ buku-buku perolehan baru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "nomor"
+    }
+  ]
+}

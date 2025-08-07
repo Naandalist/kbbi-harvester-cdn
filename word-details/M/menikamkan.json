@@ -1,1 +1,53 @@
-{"word":"menikamkan","authenticated":true,"entries":[{"id":"85882","nama":"me.ni.kam.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menusukkan (senjata tajam) ke","contoh":[{"nomor":2,"teks":"salah seorang dari perampok itu ~ belatinya ke leher korbannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengajukan pertanyaan dan sebagainya dengan tiba-tiba (biasanya dengan keras atau pedas)","contoh":[{"nomor":2,"teks":"pemuda itu bangkit dan ~ pertanyaan"}]}],"rootWord":"tikam¹"}]}
+{
+  "word": "menikamkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85882",
+      "nama": "me.ni.kam.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusukkan (senjata tajam) ke",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "salah seorang dari perampok itu ~ belatinya ke leher korbannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengajukan pertanyaan dan sebagainya dengan tiba-tiba (biasanya dengan keras atau pedas)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemuda itu bangkit dan ~ pertanyaan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tikam¹"
+    }
+  ]
+}

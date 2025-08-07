@@ -1,1 +1,35 @@
-{"word":"memuat","authenticated":true,"entries":[{"id":"55252","nama":"me.mu.at","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berisi; mengandung","contoh":[{"nomor":2,"teks":"karung itu ~ seratus liter beras"},{"nomor":4,"teks":"majalah itu ~ esai, cerita pendek, dan puisi"}]}],"rootWord":"muat"}]}
+{
+  "word": "memuat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55252",
+      "nama": "me.mu.at",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berisi; mengandung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karung itu ~ seratus liter beras"
+            },
+            {
+              "nomor": 4,
+              "teks": "majalah itu ~ esai, cerita pendek, dan puisi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "muat"
+    }
+  ]
+}

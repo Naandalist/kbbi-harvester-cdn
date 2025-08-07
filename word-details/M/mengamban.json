@@ -1,1 +1,51 @@
-{"word":"mengamban","authenticated":true,"entries":[{"id":"36350","nama":"me.ngam.ban","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat","contoh":[{"nomor":2,"teks":"ia ~ beban itu di atas pelana kudanya"}]}],"rootWord":"kamban¹"},{"id":"36352","nama":"me.ngam.ban","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memeluk dari belakang","contoh":[]}],"rootWord":"kamban²"}]}
+{
+  "word": "mengamban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36350",
+      "nama": "me.ngam.ban",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ beban itu di atas pelana kudanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kamban¹"
+    },
+    {
+      "id": "36352",
+      "nama": "me.ngam.ban",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeluk dari belakang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kamban²"
+    }
+  ]
+}

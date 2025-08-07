@@ -1,1 +1,102 @@
-{"word":"melucutkan","authenticated":true,"entries":[{"id":"50377","nama":"me.lu.cut.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menanggalkan (pakaian, perhiasan, dan sebagainya); melepaskan (tali, ikatan, dan sebagainya); meluluskan (cincin, gelang, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"memberi (lawan dari memuat)","contoh":[{"nomor":2,"teks":"aki ~ arus listrik ke lampu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"mengeluarkan","contoh":[{"nomor":2,"teks":"penghantar itu ~ muatan listrik ke tanah setelah menyentuh tanah"}]}],"rootWord":"lucut¹"},{"id":"50386","nama":"me.lu.cut.kan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melenyapkan; menghilangkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencelakakan","contoh":[]}],"rootWord":"lucut³"}]}
+{
+  "word": "melucutkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50377",
+      "nama": "me.lu.cut.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanggalkan (pakaian, perhiasan, dan sebagainya); melepaskan (tali, ikatan, dan sebagainya); meluluskan (cincin, gelang, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memberi (lawan dari memuat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aki ~ arus listrik ke lampu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengeluarkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penghantar itu ~ muatan listrik ke tanah setelah menyentuh tanah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lucut¹"
+    },
+    {
+      "id": "50386",
+      "nama": "me.lu.cut.kan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melenyapkan; menghilangkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencelakakan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lucut³"
+    }
+  ]
+}

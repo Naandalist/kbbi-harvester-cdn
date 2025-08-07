@@ -1,1 +1,48 @@
-{"word":"menskors","authenticated":true,"entries":[{"id":"78132","nama":"men.skors","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memecat atau menghentikan untuk sementara waktu (dari jabatan, keanggotaan suatu perkumpulan, dan sebagainya)","contoh":[{"nomor":2,"teks":"gubernur ~ bawahannya selama satu bulan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menunda atau menghentikan untuk sementara (rapat, sidang pengadilan, dan sebagainya)","contoh":[{"nomor":2,"teks":"hakim ketua ~ sidang selama lima menit"}]}],"rootWord":"skors"}]}
+{
+  "word": "menskors",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78132",
+      "nama": "men.skors",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memecat atau menghentikan untuk sementara waktu (dari jabatan, keanggotaan suatu perkumpulan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gubernur ~ bawahannya selama satu bulan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menunda atau menghentikan untuk sementara (rapat, sidang pengadilan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hakim ketua ~ sidang selama lima menit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "skors"
+    }
+  ]
+}

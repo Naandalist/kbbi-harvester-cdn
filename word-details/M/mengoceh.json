@@ -1,1 +1,64 @@
-{"word":"mengoceh","authenticated":true,"entries":[{"id":"57719","nama":"meng.o.ceh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkata-kata yang bukan-bukan; meracau; berceloteh","contoh":[{"nomor":2,"teks":"kamu jangan terlalu banyak ~ di depanku"},{"nomor":4,"teks":"anaknya baru pandai ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkicau (tentang burung)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"mengulang-ulang suara yang sama secara terus-menerus","contoh":[]}],"rootWord":"oceh"}]}
+{
+  "word": "mengoceh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57719",
+      "nama": "meng.o.ceh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkata-kata yang bukan-bukan; meracau; berceloteh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kamu jangan terlalu banyak ~ di depanku"
+            },
+            {
+              "nomor": 4,
+              "teks": "anaknya baru pandai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkicau (tentang burung)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "mengulang-ulang suara yang sama secara terus-menerus",
+          "contoh": []
+        }
+      ],
+      "rootWord": "oceh"
+    }
+  ]
+}

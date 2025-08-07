@@ -1,1 +1,85 @@
-{"word":"mengacau","authenticated":true,"entries":[{"id":"324","nama":"meng.a.cau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkata tidak keruan; mengigau","contoh":[]}],"rootWord":"acau"},{"id":"35606","nama":"me.nga.cau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengaduk (mengocok dan sebagainya) hingga bercampur betul","contoh":[{"nomor":2,"teks":"ibu ~ telur dengan bumbu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimbulkan (ketakutan, ketidakberesan, dan sebagainya); mengganggu keamanan (tata tertib dan sebagainya)","contoh":[{"nomor":2,"teks":"diduga ada golongan tertentu yang hendak ~ negara kita ini"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merusuhkan (hati, pikiran)","contoh":[{"nomor":2,"teks":"kelakuan anak-anaknyalah yang ~ hatinya"}]}],"rootWord":"kacau"}]}
+{
+  "word": "mengacau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "324",
+      "nama": "meng.a.cau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkata tidak keruan; mengigau",
+          "contoh": []
+        }
+      ],
+      "rootWord": "acau"
+    },
+    {
+      "id": "35606",
+      "nama": "me.nga.cau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengaduk (mengocok dan sebagainya) hingga bercampur betul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu ~ telur dengan bumbu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimbulkan (ketakutan, ketidakberesan, dan sebagainya); mengganggu keamanan (tata tertib dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diduga ada golongan tertentu yang hendak ~ negara kita ini"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merusuhkan (hati, pikiran)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelakuan anak-anaknyalah yang ~ hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kacau"
+    }
+  ]
+}

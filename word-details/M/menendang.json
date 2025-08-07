@@ -1,1 +1,65 @@
-{"word":"menendang","authenticated":true,"entries":[{"id":"84721","nama":"me.nen.dang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyepak; mendepak (dengan kaki)","contoh":[{"nomor":2,"teks":"ia berusaha ~ bola ke arah gawang lawan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengusir; memecat; mengeluarkan (dari kantor, perusahaan, organisasi, dan sebagainya)","contoh":[{"nomor":2,"teks":"berdasarkan undang-undang perburuhan, setiap pemimpin tidak dapat ~ bawahannya begitu saja tanpa alasan yang kuat"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendesak (mendorong) kuat-kuat","contoh":[{"nomor":2,"teks":"bocoran pada pipa gas disebabkan oleh tekanan gas yang kuat yang ~ klep pipa hingga meletup"}]}],"rootWord":"tendang"}]}
+{
+  "word": "menendang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84721",
+      "nama": "me.nen.dang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyepak; mendepak (dengan kaki)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berusaha ~ bola ke arah gawang lawan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengusir; memecat; mengeluarkan (dari kantor, perusahaan, organisasi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berdasarkan undang-undang perburuhan, setiap pemimpin tidak dapat ~ bawahannya begitu saja tanpa alasan yang kuat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendesak (mendorong) kuat-kuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bocoran pada pipa gas disebabkan oleh tekanan gas yang kuat yang ~ klep pipa hingga meletup"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tendang"
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"menelangkai","authenticated":true,"entries":[{"id":"83943","nama":"me.ne.lang.kai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menanyakan (meminang) gadis untuk","contoh":[{"nomor":2,"teks":"dia ~ anaknya yang tertua"}]}],"rootWord":"telangkai¹"},{"id":"83946","nama":"me.ne.lang.kai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerbu; menyergap; menyerang","contoh":[]}],"rootWord":"telangkai²"}]}
+{
+  "word": "menelangkai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83943",
+      "nama": "me.ne.lang.kai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanyakan (meminang) gadis untuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ anaknya yang tertua"
+            }
+          ]
+        }
+      ],
+      "rootWord": "telangkai¹"
+    },
+    {
+      "id": "83946",
+      "nama": "me.ne.lang.kai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerbu; menyergap; menyerang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "telangkai²"
+    }
+  ]
+}

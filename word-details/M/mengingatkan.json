@@ -1,1 +1,65 @@
-{"word":"mengingatkan","authenticated":true,"entries":[{"id":"31789","nama":"meng.i.ngat.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengingat akan","contoh":[{"nomor":2,"teks":"aku bekerja karena kewajibanku dan karena ~ engkau juga"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi ingat; memberi nasihat (teguran dan sebagainya) supaya ingat akan kewajibannya dan sebagainya","contoh":[{"nomor":2,"teks":"meskipun ayahnya telah berkali-kali ~, ia tetap tidak mau belajar"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan ingat (terkenang) kepada","contoh":[{"nomor":2,"teks":"bunyi gemuruh itu ~ kita kepada serangan pesawat udara dahulu"}]}],"rootWord":"ingat"}]}
+{
+  "word": "mengingatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31789",
+      "nama": "meng.i.ngat.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengingat akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku bekerja karena kewajibanku dan karena ~ engkau juga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi ingat; memberi nasihat (teguran dan sebagainya) supaya ingat akan kewajibannya dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meskipun ayahnya telah berkali-kali ~, ia tetap tidak mau belajar"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan ingat (terkenang) kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunyi gemuruh itu ~ kita kepada serangan pesawat udara dahulu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ingat"
+    }
+  ]
+}

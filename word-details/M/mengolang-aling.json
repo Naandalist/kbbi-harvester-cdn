@@ -1,1 +1,51 @@
-{"word":"mengolang-aling","authenticated":true,"entries":[{"id":"57931","nama":"meng.o.lang-a.ling","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggoyang-goyangkan ke kiri dan ke kanan","contoh":[]}],"rootWord":"olang-aling¹"},{"id":"57935","nama":"meng.o.lang-a.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengulang-ulang","contoh":[{"nomor":2,"teks":"murid itu ~ pelajarannya"}]}],"rootWord":"olang-aling²"}]}
+{
+  "word": "mengolang-aling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57931",
+      "nama": "meng.o.lang-a.ling",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggoyang-goyangkan ke kiri dan ke kanan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "olang-aling¹"
+    },
+    {
+      "id": "57935",
+      "nama": "meng.o.lang-a.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengulang-ulang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "murid itu ~ pelajarannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "olang-aling²"
+    }
+  ]
+}

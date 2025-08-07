@@ -1,1 +1,56 @@
-{"word":"mengatakan","authenticated":true,"entries":[{"id":"37675","nama":"me.nga.ta.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"menyebutkan; menuturkan","contoh":[{"nomor":2,"teks":"dia tidak ~ begitu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"menceritakan; memberitahukan","contoh":[{"nomor":2,"teks":"jangan ~ kepada Ibu bahwa saya tidak pergi ke sekolah"}]}],"rootWord":"kata¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kuali mengatakan belanga hitam"],"idiom":[]}}]}
+{
+  "word": "mengatakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37675",
+      "nama": "me.nga.ta.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebutkan; menuturkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia tidak ~ begitu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menceritakan; memberitahukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan ~ kepada Ibu bahwa saya tidak pergi ke sekolah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kata¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kuali mengatakan belanga hitam"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

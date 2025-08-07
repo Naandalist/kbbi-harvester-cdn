@@ -1,1 +1,83 @@
-{"word":"mursal","authenticated":true,"entries":[{"id":"55817","nama":"mur.sal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"utusan; yang diutus (rasul)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"hadis yang diriwayatkan oleh para tabiin langsung dari Nabi Muhammad saw.","contoh":[]}],"etimologi":{"text":"[Arab مُرْسَلٌ mursal n sg m 'utusan']","languages":["Arab"]}},{"id":"55818","nama":"mur.sal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"berkelakuan tidak baik; suka berbuat yang menyimpang dari aturan","contoh":[]}],"etimologi":{"text":"[Arab مُرْسَلٌ mursal n sg m 'utusan']","languages":["Arab"]}}]}
+{
+  "word": "mursal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55817",
+      "nama": "mur.sal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "utusan; yang diutus (rasul)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hadis yang diriwayatkan oleh para tabiin langsung dari Nabi Muhammad saw.",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُرْسَلٌ mursal n sg m 'utusan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "55818",
+      "nama": "mur.sal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berkelakuan tidak baik; suka berbuat yang menyimpang dari aturan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُرْسَلٌ mursal n sg m 'utusan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

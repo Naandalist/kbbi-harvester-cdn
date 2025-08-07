@@ -1,1 +1,111 @@
-{"word":"materi","authenticated":true,"entries":[{"id":"52863","nama":"ma.te.ri","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda; bahan; segala sesuatu yang tampak","contoh":[{"nomor":2,"teks":"bantuan berupa --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang menjadi bahan (untuk diujikan, dipikirkan, dibicarakan, dikarangkan, dan sebagainya)","contoh":[{"nomor":2,"teks":"orang yang menyusun soal ujian harus tahu --nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"substansi yang menempati ruang dan memiliki massa","contoh":[]}],"terkait":{"kataTurunan":["pemateri","termateri"],"gabunganKata":["materi abu-abu","materi ajar","materi antarbintang","materi gelap","materi kepartikelan","materi kepartikelan organik","materi kepartikelan tersuspensi","materi organik","materi partikulat tersuspensi","materi pengajaran","materi pengenalan","materi promosi","materi putih","materi sirkumbintang","materi sosialisasi","materi tersuspensi"],"peribahasa":[],"idiom":[]}},{"id":"52869","nama":"ma.te.ri","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial termateri","contoh":[]}],"terkait":{"kataTurunan":["termateri"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "materi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52863",
+      "nama": "ma.te.ri",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda; bahan; segala sesuatu yang tampak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bantuan berupa --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang menjadi bahan (untuk diujikan, dipikirkan, dibicarakan, dikarangkan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang menyusun soal ujian harus tahu --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "substansi yang menempati ruang dan memiliki massa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pemateri",
+          "termateri"
+        ],
+        "gabunganKata": [
+          "materi abu-abu",
+          "materi ajar",
+          "materi antarbintang",
+          "materi gelap",
+          "materi kepartikelan",
+          "materi kepartikelan organik",
+          "materi kepartikelan tersuspensi",
+          "materi organik",
+          "materi partikulat tersuspensi",
+          "materi pengajaran",
+          "materi pengenalan",
+          "materi promosi",
+          "materi putih",
+          "materi sirkumbintang",
+          "materi sosialisasi",
+          "materi tersuspensi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52869",
+      "nama": "ma.te.ri",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial termateri",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "termateri"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"word":"metrik","authenticated":true,"entries":[{"id":"54169","nama":"met.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ilmu tentang irama (ritme) dalam puisi","contoh":[{"nomor":2,"teks":"penyelidikan -- pada baris-baris sanjak"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang berhubungan dengan ukuran; yang mengenai sistem desimal yang menggunakan meter sebagai ukuran panjang dan gram sebagai ukuran berat","contoh":[{"nomor":2,"teks":"produksi timah Indonesia 25.000 -- ton"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"abstraksi tentang jarak","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["metrik densitas","metrik gelombang","metrik kinerja","metrik komplemen","metrik perangkat lunak"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "metrik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54169",
+      "nama": "met.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ilmu tentang irama (ritme) dalam puisi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyelidikan -- pada baris-baris sanjak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang berhubungan dengan ukuran; yang mengenai sistem desimal yang menggunakan meter sebagai ukuran panjang dan gram sebagai ukuran berat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "produksi timah Indonesia 25.000 -- ton"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "abstraksi tentang jarak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "metrik densitas",
+          "metrik gelombang",
+          "metrik kinerja",
+          "metrik komplemen",
+          "metrik perangkat lunak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

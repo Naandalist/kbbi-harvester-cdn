@@ -1,1 +1,56 @@
-{"word":"melegam","authenticated":true,"entries":[{"id":"167494","nama":"me.le.gam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi hitam legam","contoh":[]}],"rootWord":"legam²"},{"id":"176764","nama":"me.le.gam","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"memadamkan api dengan cara meniupnya","contoh":[{"nomor":2,"teks":"ibu menyuruh adik ~ lilin di sepanjang pagar"}]}],"rootWord":"legam³"}]}
+{
+  "word": "melegam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "167494",
+      "nama": "me.le.gam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi hitam legam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "legam²"
+    },
+    {
+      "id": "176764",
+      "nama": "me.le.gam",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memadamkan api dengan cara meniupnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu menyuruh adik ~ lilin di sepanjang pagar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "legam³"
+    }
+  ]
+}

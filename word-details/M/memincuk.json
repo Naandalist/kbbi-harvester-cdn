@@ -1,1 +1,70 @@
-{"word":"memincuk","authenticated":true,"entries":[{"id":"63647","nama":"me.min.cuk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memikat (menggiurkan) hati","contoh":[{"nomor":2,"teks":"pedagang harus pandai ~ hati pembeli"}]}],"rootWord":"pincuk²","terkait":{"kataTurunan":[],"gabunganKata":["memincuk silang","memincuk tanam"],"peribahasa":[],"idiom":[]}},{"id":"266733","nama":"me.min.cuk","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"membungkus dengan daun (tentang makanan, penganan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ nasi untuk dijual"}]}],"rootWord":"pincuk³"}]}
+{
+  "word": "memincuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63647",
+      "nama": "me.min.cuk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikat (menggiurkan) hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedagang harus pandai ~ hati pembeli"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pincuk²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memincuk silang",
+          "memincuk tanam"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "266733",
+      "nama": "me.min.cuk",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membungkus dengan daun (tentang makanan, penganan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ nasi untuk dijual"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pincuk³"
+    }
+  ]
+}

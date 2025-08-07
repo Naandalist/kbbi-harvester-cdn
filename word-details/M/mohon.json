@@ -1,1 +1,62 @@
-{"word":"mohon","authenticated":true,"entries":[{"id":"54929","nama":"mo.hon","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"minta dengan hormat; berharap supaya mendapat sesuatu","contoh":[{"nomor":2,"teks":"ia -- agar permintaannya dikabulkan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ampunlah (untuk menyatakan maksud menolak atau mengingkari, jadi berarti tidak mau)","contoh":[{"nomor":2,"teks":"--, hamba membunuh saudara hamba"}]}],"terkait":{"kataTurunan":["bermohon","memohon","memohonkan","pemohon","permohonan","termohon"],"gabunganKata":["mohon diri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mohon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54929",
+      "nama": "mo.hon",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "minta dengan hormat; berharap supaya mendapat sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- agar permintaannya dikabulkan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ampunlah (untuk menyatakan maksud menolak atau mengingkari, jadi berarti tidak mau)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, hamba membunuh saudara hamba"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermohon",
+          "memohon",
+          "memohonkan",
+          "pemohon",
+          "permohonan",
+          "termohon"
+        ],
+        "gabunganKata": [
+          "mohon diri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

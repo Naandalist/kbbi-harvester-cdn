@@ -1,1 +1,60 @@
-{"word":"memuji","authenticated":true,"entries":[{"id":"65676","nama":"me.mu.ji","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melahirkan kekaguman dan penghargaan kepada sesuatu (yang dianggap baik, indah, gagah berani, dan sebagainya)","contoh":[{"nomor":2,"teks":"maksudnya tentu ~, tetapi di telingaku terdengar seperti suatu peringatan"},{"nomor":4,"teks":"ia ~ ketangkasan pengendara kuda itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memuliakan (nama Tuhan dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka ~ kebesaran Tuhan"}]}],"rootWord":"puji","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["siput memuji buntut"],"idiom":[]}}]}
+{
+  "word": "memuji",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65676",
+      "nama": "me.mu.ji",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melahirkan kekaguman dan penghargaan kepada sesuatu (yang dianggap baik, indah, gagah berani, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maksudnya tentu ~, tetapi di telingaku terdengar seperti suatu peringatan"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia ~ ketangkasan pengendara kuda itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memuliakan (nama Tuhan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ kebesaran Tuhan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "puji",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "siput memuji buntut"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

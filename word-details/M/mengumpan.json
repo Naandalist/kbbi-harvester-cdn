@@ -1,1 +1,77 @@
-{"word":"mengumpan","authenticated":true,"entries":[{"id":"89506","nama":"meng.um.pan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memikat (menangkap) dengan umpan","contoh":[{"nomor":2,"teks":"udang sangat baik untuk ~ ikan yang besar-besar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengumpankan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengumpani","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memancing (memikat, menjebak, dan sebagainya) dengan","contoh":[{"nomor":2,"teks":"dia melepaskan tembakan untuk ~ musuh"}]}],"rootWord":"umpan"}]}
+{
+  "word": "mengumpan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89506",
+      "nama": "meng.um.pan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikat (menangkap) dengan umpan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "udang sangat baik untuk ~ ikan yang besar-besar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengumpankan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengumpani",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memancing (memikat, menjebak, dan sebagainya) dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia melepaskan tembakan untuk ~ musuh"
+            }
+          ]
+        }
+      ],
+      "rootWord": "umpan"
+    }
+  ]
+}

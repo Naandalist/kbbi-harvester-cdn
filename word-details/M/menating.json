@@ -1,1 +1,72 @@
-{"word":"menating","authenticated":true,"entries":[{"id":"83172","nama":"me.na.ting","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa (mengangkat) di atas telapak tangan; menatang; menayang","contoh":[]}],"rootWord":"tating¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti menating minyak penuh"],"idiom":[]}},{"id":"147434","nama":"me.na.ting","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"mengangkat anak dengan cara memegang bagian bawah ketiak","contoh":[{"nomor":2,"teks":"ibu itu ~ anaknya dari lantai"}]}],"rootWord":"tating²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti menating minyak penuh"],"idiom":[]}}]}
+{
+  "word": "menating",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83172",
+      "nama": "me.na.ting",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa (mengangkat) di atas telapak tangan; menatang; menayang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tating¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti menating minyak penuh"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "147434",
+      "nama": "me.na.ting",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengangkat anak dengan cara memegang bagian bawah ketiak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu itu ~ anaknya dari lantai"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tating²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti menating minyak penuh"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

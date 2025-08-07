@@ -1,1 +1,253 @@
-{"word":"menebus","authenticated":true,"entries":[{"id":"83488","nama":"me.ne.bus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar dengan uang untuk mengambil kembali barang yang tergadai","contoh":[{"nomor":2,"teks":"ia ~ gelang itu dari pegadaian"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar dengan uang dan sebagainya untuk membebaskan (tawanan, sandera, budak belian, dan sebagainya)","contoh":[{"nomor":2,"teks":"penculik akan melepaskan anak itu jika orang tuanya mau ~nya dengan sejumlah uang"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membeli kembali","contoh":[{"nomor":2,"teks":"~ talak"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguangkan wesel (cek) ke bank","contoh":[{"nomor":2,"teks":"ia ~ wesel ke kantor pos"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengambil barang pembagian (distribusi dan sebagainya) dengan bon (kupon dan sebagainya) dan dengan membayarnya dengan uang","contoh":[{"nomor":2,"teks":"saya dapat pembagian sepeda, tetapi tidak dapat ~nya"}]}],"rootWord":"tebus¹","terkait":{"kataTurunan":[],"gabunganKata":["menebus istri","menebus talak","menebus darah","menebus dosa","menebus kehormatan"],"peribahasa":[],"idiom":[]}},{"id":"83496","nama":"me.ne.bus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperbaiki kesalahan (dosa dan sebagainya) dengan berbuat jasa, kebaikan","contoh":[{"nomor":2,"teks":"dengan sengaja ia hidup miskin untuk ~ segala dosanya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulihkan kekalahan (kerugian); memulihkan kehormatan (nama baik); menghapus (malu)","contoh":[{"nomor":2,"teks":"dikerahkan sepuluh divisi untuk ~ kekalahannya dalam serangannya yang gagal itu"},{"nomor":4,"teks":"ia bersedia berbuat apa pun untuk ~ kehormatan keluarganya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membalas (jasa, kebaikan, karunia) yang sudah diterima","contoh":[{"nomor":2,"teks":"ia ~ karunia yang dilimpahkan kepadanya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menepati atau menunaikan (janji, perkataan, cita-cita, nazar) yang telah terucapkan","contoh":[{"nomor":2,"teks":"malu rasanya kalau tidak dapat ~ janjiku"}]}],"rootWord":"tebus²","terkait":{"kataTurunan":[],"gabunganKata":["menebus darah","menebus dosa","menebus kehormatan"],"peribahasa":[],"idiom":[]}},{"id":"83498","nama":"me.ne.bus","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelamatkan (jiwa, hidup) orang lain","contoh":[{"nomor":2,"teks":"dengan jalan demikian, saya dapat ~ nyawa sahabatku itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperoleh sesuatu dengan pengorbanan (jiwa, harta, benda)","contoh":[{"nomor":2,"teks":"~ kemerdekaan dengan air mata dan darah"}]}],"rootWord":"tebus³","terkait":{"kataTurunan":[],"gabunganKata":["menebus darah","menebus dosa","menebus kehormatan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menebus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83488",
+      "nama": "me.ne.bus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar dengan uang untuk mengambil kembali barang yang tergadai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ gelang itu dari pegadaian"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar dengan uang dan sebagainya untuk membebaskan (tawanan, sandera, budak belian, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penculik akan melepaskan anak itu jika orang tuanya mau ~nya dengan sejumlah uang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membeli kembali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ talak"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguangkan wesel (cek) ke bank",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ wesel ke kantor pos"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil barang pembagian (distribusi dan sebagainya) dengan bon (kupon dan sebagainya) dan dengan membayarnya dengan uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya dapat pembagian sepeda, tetapi tidak dapat ~nya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebus¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menebus istri",
+          "menebus talak",
+          "menebus darah",
+          "menebus dosa",
+          "menebus kehormatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83496",
+      "nama": "me.ne.bus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbaiki kesalahan (dosa dan sebagainya) dengan berbuat jasa, kebaikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan sengaja ia hidup miskin untuk ~ segala dosanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulihkan kekalahan (kerugian); memulihkan kehormatan (nama baik); menghapus (malu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dikerahkan sepuluh divisi untuk ~ kekalahannya dalam serangannya yang gagal itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia bersedia berbuat apa pun untuk ~ kehormatan keluarganya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membalas (jasa, kebaikan, karunia) yang sudah diterima",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ karunia yang dilimpahkan kepadanya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menepati atau menunaikan (janji, perkataan, cita-cita, nazar) yang telah terucapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "malu rasanya kalau tidak dapat ~ janjiku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebus²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menebus darah",
+          "menebus dosa",
+          "menebus kehormatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83498",
+      "nama": "me.ne.bus",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelamatkan (jiwa, hidup) orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan jalan demikian, saya dapat ~ nyawa sahabatku itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperoleh sesuatu dengan pengorbanan (jiwa, harta, benda)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kemerdekaan dengan air mata dan darah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebus³",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menebus darah",
+          "menebus dosa",
+          "menebus kehormatan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

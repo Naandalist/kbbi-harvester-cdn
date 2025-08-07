@@ -1,1 +1,62 @@
-{"word":"melali","authenticated":true,"entries":[{"id":"46116","nama":"me.la.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan tidak sadar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan tidak berasa apa-apa (pada kulit dan sebagainya)","contoh":[]}],"rootWord":"lali"},{"id":"290395","nama":"me.la.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sky","nama":"Sekayu","tipe":"lainnya"}],"definisi":"pura-pura lupa","contoh":[]}]}]}
+{
+  "word": "melali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46116",
+      "nama": "me.la.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan tidak sadar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan tidak berasa apa-apa (pada kulit dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lali"
+    },
+    {
+      "id": "290395",
+      "nama": "me.la.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sky",
+              "nama": "Sekayu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pura-pura lupa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

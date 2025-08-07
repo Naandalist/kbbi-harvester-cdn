@@ -1,1 +1,58 @@
-{"word":"menggurita","authenticated":true,"entries":[{"id":"27921","nama":"meng.gu.ri.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melilit sesuatu dengan kuat (seperti tangan-tangan gurita)","contoh":[{"nomor":2,"teks":"bisnis anak pejabat itu besar dan ~ karena menjarah bank-bank swasta di negeri ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berakar dan menyebar ke mana-mana","contoh":[{"nomor":2,"teks":"tumor dalam tubuhnya sudah ~"}]}],"rootWord":"gurita¹"}]}
+{
+  "word": "menggurita",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27921",
+      "nama": "meng.gu.ri.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melilit sesuatu dengan kuat (seperti tangan-tangan gurita)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bisnis anak pejabat itu besar dan ~ karena menjarah bank-bank swasta di negeri ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berakar dan menyebar ke mana-mana",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tumor dalam tubuhnya sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gurita¹"
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"word":"mencatuk","authenticated":true,"entries":[{"id":"14893","nama":"men.ca.tuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencotok; memagut; mematuk","contoh":[{"nomor":2,"teks":"ayam ini suka benar ~ telurnya"},{"nomor":4,"teks":"apa sebabnya ular itu tidak mau ~ tangan tukang sulap itu?"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melukai dan sebagainya dengan ujung senjata; memarang; mencencang","contoh":[{"nomor":2,"teks":"ia ~ kepala orang itu dengan bayonet"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul; mengetuk","contoh":[{"nomor":2,"teks":"ia ~ dengan punggung lading"}]}],"rootWord":"catuk¹"}]}
+{
+  "word": "mencatuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14893",
+      "nama": "men.ca.tuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencotok; memagut; mematuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam ini suka benar ~ telurnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "apa sebabnya ular itu tidak mau ~ tangan tukang sulap itu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melukai dan sebagainya dengan ujung senjata; memarang; mencencang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kepala orang itu dengan bayonet"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul; mengetuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ dengan punggung lading"
+            }
+          ]
+        }
+      ],
+      "rootWord": "catuk¹"
+    }
+  ]
+}

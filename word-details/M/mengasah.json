@@ -1,1 +1,84 @@
-{"word":"mengasah","authenticated":true,"entries":[{"id":"5322","nama":"meng.a.sah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggosok pisau dan sebagainya pada benda keras (batu dan sebagainya) supaya tajam atau runcing","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendabung; memepat; meratakan (gigi dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghaluskan dan mengilapkan (intan, permata, dan sebagainya); menyerudi","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mempertajam (dengan latihan) pikiran dan sebagainya supaya memiliki kemampuan","contoh":[{"nomor":2,"teks":"mari kita mengisi teka-teki silang ini untuk ~ otak"}]}],"rootWord":"asah¹","terkait":{"kataTurunan":[],"gabunganKata":["mengasah bakat","mengasah budi","mengasah hati","mengasah otak","mengasah pikiran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mengasah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5322",
+      "nama": "meng.a.sah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggosok pisau dan sebagainya pada benda keras (batu dan sebagainya) supaya tajam atau runcing",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendabung; memepat; meratakan (gigi dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghaluskan dan mengilapkan (intan, permata, dan sebagainya); menyerudi",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempertajam (dengan latihan) pikiran dan sebagainya supaya memiliki kemampuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mari kita mengisi teka-teki silang ini untuk ~ otak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "asah¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengasah bakat",
+          "mengasah budi",
+          "mengasah hati",
+          "mengasah otak",
+          "mengasah pikiran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

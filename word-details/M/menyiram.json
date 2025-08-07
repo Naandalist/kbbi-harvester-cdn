@@ -1,1 +1,48 @@
-{"word":"menyiram","authenticated":true,"entries":[{"id":"77711","nama":"me.nyi.ram","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencurahkan air dan sebagainya pada; mengguyur; mendirus","contoh":[{"nomor":2,"teks":"dia ~ rambutnya dengan air santan supaya lemas"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membersihkan dengan mengguyurkan air pada","contoh":[{"nomor":2,"teks":"~ kamar kecil"}]}],"rootWord":"siram"}]}
+{
+  "word": "menyiram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77711",
+      "nama": "me.nyi.ram",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencurahkan air dan sebagainya pada; mengguyur; mendirus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ rambutnya dengan air santan supaya lemas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membersihkan dengan mengguyurkan air pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kamar kecil"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siram"
+    }
+  ]
+}

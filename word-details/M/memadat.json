@@ -1,1 +1,44 @@
-{"word":"memadat","authenticated":true,"entries":[{"id":"58873","nama":"me.ma.dat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjejal (menginjak-injak dan sebagainya) supaya padat","contoh":[{"nomor":2,"teks":"~ kasur"},{"nomor":4,"teks":"~ kuburan"}]}],"rootWord":"padat","terkait":{"kataTurunan":[],"gabunganKata":["memadat kasur","memadat perut"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "memadat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58873",
+      "nama": "me.ma.dat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjejal (menginjak-injak dan sebagainya) supaya padat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kasur"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kuburan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "padat",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memadat kasur",
+          "memadat perut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

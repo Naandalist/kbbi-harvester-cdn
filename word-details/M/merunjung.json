@@ -1,1 +1,43 @@
-{"word":"merunjung","authenticated":true,"entries":[{"id":"70454","nama":"me.run.jung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"makin ke atas makin lancip; mengerucut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"hampir mengerucut","contoh":[]}],"rootWord":"runjung"}]}
+{
+  "word": "merunjung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70454",
+      "nama": "me.run.jung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makin ke atas makin lancip; mengerucut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hampir mengerucut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "runjung"
+    }
+  ]
+}

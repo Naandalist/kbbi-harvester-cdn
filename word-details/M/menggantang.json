@@ -1,1 +1,82 @@
-{"word":"menggantang","authenticated":true,"entries":[{"id":"24373","nama":"meng.gan.tang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menakar atau menyukat dengan gantang","contoh":[{"nomor":2,"teks":"ia ~ beras yang hendak dijualnya"}]}],"rootWord":"gantang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menggantang anak ayam","menggantang asap, mengukir langit"],"idiom":["menggantang anak ayam","menggantang asap","penuh sudah bagai menggantang"]}},{"id":"107965","nama":"meng.gan.tang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"meletakkan sangkar burung di tempat yang tinggi","contoh":[]}],"rootWord":"gantang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menggantang anak ayam","menggantang asap, mengukir langit"],"idiom":["menggantang anak ayam","menggantang asap","penuh sudah bagai menggantang"]}}]}
+{
+  "word": "menggantang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24373",
+      "nama": "meng.gan.tang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menakar atau menyukat dengan gantang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ beras yang hendak dijualnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gantang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menggantang anak ayam",
+          "menggantang asap, mengukir langit"
+        ],
+        "idiom": [
+          "menggantang anak ayam",
+          "menggantang asap",
+          "penuh sudah bagai menggantang"
+        ]
+      }
+    },
+    {
+      "id": "107965",
+      "nama": "meng.gan.tang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "meletakkan sangkar burung di tempat yang tinggi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gantang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menggantang anak ayam",
+          "menggantang asap, mengukir langit"
+        ],
+        "idiom": [
+          "menggantang anak ayam",
+          "menggantang asap",
+          "penuh sudah bagai menggantang"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,116 @@
-{"word":"meraba","authenticated":true,"entries":[{"id":"66450","nama":"me.ra.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyentuh (memegang, menjamah) dengan telapak tangan karena hendak merasai atau mencari sesuatu","contoh":[{"nomor":2,"teks":"orang buta itu ~ tongkatnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencari sesuatu dalam saku; menggeledah","contoh":[{"nomor":2,"teks":"penjaga itu ~ saku orang yang dicurigainya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menduga; mengira-ngira","contoh":[{"nomor":2,"teks":"kami tidak dapat ~ isi hatinya"}]}],"rootWord":"raba¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telah meraba-raba tepi kain"],"idiom":[]}},{"id":"66460","nama":"me.ra.ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"marah","contoh":[]}],"rootWord":"raba²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["telah meraba-raba tepi kain"],"idiom":[]}}]}
+{
+  "word": "meraba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66450",
+      "nama": "me.ra.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyentuh (memegang, menjamah) dengan telapak tangan karena hendak merasai atau mencari sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang buta itu ~ tongkatnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari sesuatu dalam saku; menggeledah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjaga itu ~ saku orang yang dicurigainya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menduga; mengira-ngira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami tidak dapat ~ isi hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "raba¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telah meraba-raba tepi kain"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "66460",
+      "nama": "me.ra.ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "marah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "raba²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "telah meraba-raba tepi kain"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

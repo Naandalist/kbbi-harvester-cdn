@@ -1,1 +1,70 @@
-{"word":"mengilat","authenticated":true,"entries":[{"id":"41731","nama":"me.ngi.lat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerupai kilat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"cepat sekali; tampak sangat sebentar","contoh":[{"nomor":2,"teks":"pantas kudanya menjadi juara, larinya ~"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memancarkan cahaya seperti kilat","contoh":[{"nomor":2,"teks":"sepatunya sudah ~ setelah disemir"}]}],"rootWord":"kilat¹"}]}
+{
+  "word": "mengilat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41731",
+      "nama": "me.ngi.lat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai kilat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cepat sekali; tampak sangat sebentar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pantas kudanya menjadi juara, larinya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memancarkan cahaya seperti kilat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sepatunya sudah ~ setelah disemir"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kilat¹"
+    }
+  ]
+}

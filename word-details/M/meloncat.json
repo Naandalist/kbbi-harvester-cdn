@@ -1,1 +1,77 @@
-{"word":"meloncat","authenticated":true,"entries":[{"id":"50098","nama":"me.lon.cat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melompat dengan kedua atau keempat kaki bersama-sama (tentang katak dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meningkat tinggi; melentung","contoh":[{"nomor":2,"teks":"harga minyak ~"},{"nomor":4,"teks":"pernya tiba-tiba terlepas dan ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"beralih (berpindah) profesi dan sebagainya","contoh":[{"nomor":2,"teks":"dulu ia sebagai wartawan, sekarang ~ menjadi guru"}]}],"rootWord":"loncat","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sepandai-pandai tupai meloncat, sekali gawal (terjatuh) juga"],"idiom":[]}}]}
+{
+  "word": "meloncat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50098",
+      "nama": "me.lon.cat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melompat dengan kedua atau keempat kaki bersama-sama (tentang katak dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meningkat tinggi; melentung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harga minyak ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "pernya tiba-tiba terlepas dan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beralih (berpindah) profesi dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dulu ia sebagai wartawan, sekarang ~ menjadi guru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "loncat",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sepandai-pandai tupai meloncat, sekali gawal (terjatuh) juga"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

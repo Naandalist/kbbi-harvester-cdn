@@ -1,1 +1,58 @@
-{"word":"meredamkan","authenticated":true,"entries":[{"id":"68026","nama":"me.re.dam.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan redam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meredam","contoh":[]}],"rootWord":"redam¹"},{"id":"68035","nama":"me.re.dam.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meredam","contoh":[]}],"rootWord":"redam²"}]}
+{
+  "word": "meredamkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68026",
+      "nama": "me.re.dam.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan redam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meredam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "redam¹"
+    },
+    {
+      "id": "68035",
+      "nama": "me.re.dam.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meredam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "redam²"
+    }
+  ]
+}

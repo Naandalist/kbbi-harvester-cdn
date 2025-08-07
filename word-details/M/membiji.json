@@ -1,1 +1,36 @@
-{"word":"membiji","authenticated":true,"entries":[{"id":"11383","nama":"mem.bi.ji","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memberi nilai; menilai","contoh":[{"nomor":2,"teks":"beliau ~ enam untuk lukisan yang kubuat kemarin"}]}],"rootWord":"biji²"}]}
+{
+  "word": "membiji",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11383",
+      "nama": "mem.bi.ji",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi nilai; menilai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beliau ~ enam untuk lukisan yang kubuat kemarin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "biji²"
+    }
+  ]
+}

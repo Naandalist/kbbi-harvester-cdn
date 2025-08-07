@@ -1,1 +1,75 @@
-{"word":"melarikan","authenticated":true,"entries":[{"id":"47110","nama":"me.la.ri.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa lari","contoh":[{"nomor":2,"teks":"dia ditangkap karena ~ gadis di bawah umur"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjalankan kencang-kencang","contoh":[{"nomor":2,"teks":"dilarang ~ mobil kencang-kencang di tengah kota"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa cepat-cepat","contoh":[{"nomor":2,"teks":"mereka berusaha ~ semua miliknya sebelum musuh tiba"}]}],"rootWord":"lari¹","terkait":{"kataTurunan":[],"gabunganKata":["melarikan diri","melarikan nyawa","melarikan untung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "melarikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47110",
+      "nama": "me.la.ri.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa lari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ditangkap karena ~ gadis di bawah umur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjalankan kencang-kencang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dilarang ~ mobil kencang-kencang di tengah kota"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa cepat-cepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka berusaha ~ semua miliknya sebelum musuh tiba"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lari¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "melarikan diri",
+          "melarikan nyawa",
+          "melarikan untung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

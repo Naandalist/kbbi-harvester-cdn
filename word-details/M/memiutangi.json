@@ -1,1 +1,31 @@
-{"word":"memiutangi","authenticated":true,"entries":[{"id":"64098","nama":"me.mi.u.tang.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi pinjaman uang kepada","contoh":[{"nomor":2,"teks":"jika ia mau, saya dapat ~nya"}]}],"rootWord":"piutang"}]}
+{
+  "word": "memiutangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64098",
+      "nama": "me.mi.u.tang.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi pinjaman uang kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika ia mau, saya dapat ~nya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "piutang"
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"word":"misteri","authenticated":true,"entries":[{"id":"54736","nama":"mis.te.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang masih belum jelas (masih menjadi teka-teki; masih belum terbuka rahasianya)","contoh":[{"nomor":2,"teks":"mengapa dia terbunuh dan siapa yang membunuh masih merupakan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"kenyataan yang begitu luhur sehingga secara mendasar melampaui daya tangkap manusia, rahasia Allah yang tidak diketahui manusia kecuali diwahyukan, merupakan sesuatu yang akan dinyatakan, dimengerti, atau dihayati, tetapi tidak pernah ditangkap seluruhnya, misalnya Allah Tritunggal","contoh":[]}],"terkait":{"kataTurunan":["kemisterian"],"gabunganKata":["misteri Paskah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "misteri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54736",
+      "nama": "mis.te.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang masih belum jelas (masih menjadi teka-teki; masih belum terbuka rahasianya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mengapa dia terbunuh dan siapa yang membunuh masih merupakan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kenyataan yang begitu luhur sehingga secara mendasar melampaui daya tangkap manusia, rahasia Allah yang tidak diketahui manusia kecuali diwahyukan, merupakan sesuatu yang akan dinyatakan, dimengerti, atau dihayati, tetapi tidak pernah ditangkap seluruhnya, misalnya Allah Tritunggal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemisterian"
+        ],
+        "gabunganKata": [
+          "misteri Paskah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

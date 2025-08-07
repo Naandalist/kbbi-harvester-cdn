@@ -1,1 +1,48 @@
-{"word":"menyimpulkan","authenticated":true,"entries":[{"id":"77322","nama":"me.nyim.pul.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikatkan hingga menjadi simpul","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikhtisarkan (menetapkan, menyarikan pendapat, dan sebagainya) berdasarkan apa-apa yang diuraikan dalam karangan (pidato dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ bahwa dalam segala kritikan itu tersirat rasa kagum kepadanya"}]}],"rootWord":"simpul"}]}
+{
+  "word": "menyimpulkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77322",
+      "nama": "me.nyim.pul.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikatkan hingga menjadi simpul",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikhtisarkan (menetapkan, menyarikan pendapat, dan sebagainya) berdasarkan apa-apa yang diuraikan dalam karangan (pidato dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ bahwa dalam segala kritikan itu tersirat rasa kagum kepadanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "simpul"
+    }
+  ]
+}

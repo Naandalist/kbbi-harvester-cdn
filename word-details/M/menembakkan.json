@@ -1,1 +1,83 @@
-{"word":"menembakkan","authenticated":true,"entries":[{"id":"84290","nama":"me.nem.bak.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menembak dengan; melepaskan (peluru)","contoh":[{"nomor":2,"teks":"~ pistol"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menendang (bola) ke arah gawang","contoh":[{"nomor":2,"teks":"~ bola ke arah gawang lawan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membidik","contoh":[{"nomor":2,"teks":"~ kamera"},{"nomor":4,"teks":"~ pandangan"}]}],"rootWord":"tembak¹","terkait":{"kataTurunan":[],"gabunganKata":["menembakkan kamera","menembakkan pandangan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menembakkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84290",
+      "nama": "me.nem.bak.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menembak dengan; melepaskan (peluru)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pistol"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menendang (bola) ke arah gawang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bola ke arah gawang lawan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membidik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kamera"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ pandangan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tembak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menembakkan kamera",
+          "menembakkan pandangan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

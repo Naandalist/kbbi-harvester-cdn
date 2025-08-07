@@ -1,1 +1,65 @@
-{"word":"meniatkan","authenticated":true,"entries":[{"id":"56921","nama":"me.ni.at.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan sesuatu dengan niat (memaksudkan)","contoh":[{"nomor":2,"teks":"sejak dahulu saya memang sudah ~ semua itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menazarkan; mengaulkan","contoh":[{"nomor":2,"teks":"dia sudah ~ kalau anaknya sembuh, akan memotong kambing"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mendoakan; mengharapkan","contoh":[]}],"rootWord":"niat"}]}
+{
+  "word": "meniatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56921",
+      "nama": "me.ni.at.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan sesuatu dengan niat (memaksudkan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sejak dahulu saya memang sudah ~ semua itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menazarkan; mengaulkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sudah ~ kalau anaknya sembuh, akan memotong kambing"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mendoakan; mengharapkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "niat"
+    }
+  ]
+}

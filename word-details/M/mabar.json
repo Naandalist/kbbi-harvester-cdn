@@ -1,1 +1,69 @@
-{"word":"mabar","authenticated":true,"entries":[{"id":"183044","nama":"ma.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"main bareng","contoh":[{"nomor":2,"teks":"anak-anak -- gim untuk mengisi waktu liburan sekolah"}]}]},{"id":"191509","nama":"ma.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"main bareng","contoh":[]}]}]}
+{
+  "word": "mabar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "183044",
+      "nama": "ma.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "main bareng",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak -- gim untuk mengisi waktu liburan sekolah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "191509",
+      "nama": "ma.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "main bareng",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

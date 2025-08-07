@@ -1,1 +1,68 @@
-{"word":"menempur","authenticated":true,"entries":[{"id":"84595","nama":"me.nem.pur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerang; melanggar","contoh":[]}],"rootWord":"tempur¹"},{"id":"84603","nama":"me.nem.pur","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membeli beras untuk memenuhi kebutuhan sehari-hari","contoh":[{"nomor":2,"teks":"ia terpaksa ~ 5 kg dulu karena sediaan beras di rumah sudah habis"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"mencari dan membeli padi untuk dijual setelah menjadi beras","contoh":[]}],"rootWord":"tempur³"}]}
+{
+  "word": "menempur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84595",
+      "nama": "me.nem.pur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerang; melanggar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tempur¹"
+    },
+    {
+      "id": "84603",
+      "nama": "me.nem.pur",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membeli beras untuk memenuhi kebutuhan sehari-hari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia terpaksa ~ 5 kg dulu karena sediaan beras di rumah sudah habis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencari dan membeli padi untuk dijual setelah menjadi beras",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tempur³"
+    }
+  ]
+}

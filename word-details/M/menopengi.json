@@ -1,1 +1,48 @@
-{"word":"menopengi","authenticated":true,"entries":[{"id":"86970","nama":"me.no.peng.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi topeng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menutupi maksud sebenarnya","contoh":[{"nomor":2,"teks":"ia mencoba tersenyum untuk ~ perasaannya"}]}],"rootWord":"topeng"}]}
+{
+  "word": "menopengi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86970",
+      "nama": "me.no.peng.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi topeng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutupi maksud sebenarnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mencoba tersenyum untuk ~ perasaannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "topeng"
+    }
+  ]
+}

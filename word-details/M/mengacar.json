@@ -1,1 +1,98 @@
-{"word":"mengacar","authenticated":true,"entries":[{"id":"35599","nama":"me.nga.car","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memancing cumi-cumi dan sebagainya dengan kacar","contoh":[]}],"rootWord":"kacar¹"},{"id":"35601","nama":"me.nga.car","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meraba (mencari ikan di sela-sela batu dan sebagainya)","contoh":[{"nomor":2,"teks":"~ ikan di sungai"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menggeledah","contoh":[{"nomor":2,"teks":"penjaga pintu ~ semua orang yang keluar dari pabrik"}]}],"rootWord":"kacar²"},{"id":"108324","nama":"meng.a.car","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengawetkan bahan makanan dengan cara dibuat acar; membuat acar","contoh":[]}],"rootWord":"acar¹"}]}
+{
+  "word": "mengacar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35599",
+      "nama": "me.nga.car",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memancing cumi-cumi dan sebagainya dengan kacar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kacar¹"
+    },
+    {
+      "id": "35601",
+      "nama": "me.nga.car",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meraba (mencari ikan di sela-sela batu dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ikan di sungai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggeledah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjaga pintu ~ semua orang yang keluar dari pabrik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kacar²"
+    },
+    {
+      "id": "108324",
+      "nama": "meng.a.car",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengawetkan bahan makanan dengan cara dibuat acar; membuat acar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "acar¹"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"menikahkan","authenticated":true,"entries":[{"id":"56952","nama":"me.ni.kah.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan bersuami (beristri); mengawinkan","contoh":[{"nomor":2,"teks":"ia ~ anak perempuannya dengan seorang dokter muda"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadakan upacara pernikahan untuk","contoh":[{"nomor":2,"teks":"Pak Camat akan ~ anaknya pada akhir bulan ini"}]}],"rootWord":"nikah"}]}
+{
+  "word": "menikahkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56952",
+      "nama": "me.ni.kah.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan bersuami (beristri); mengawinkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ anak perempuannya dengan seorang dokter muda"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadakan upacara pernikahan untuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Pak Camat akan ~ anaknya pada akhir bulan ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "nikah"
+    }
+  ]
+}

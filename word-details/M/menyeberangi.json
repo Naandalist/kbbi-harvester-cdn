@@ -1,1 +1,48 @@
-{"word":"menyeberangi","authenticated":true,"entries":[{"id":"72994","nama":"me.nye.be.rang.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengarungi; melintasi; melalui (kali, jalan, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menempuh kesukaran (kesulitan dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ hidupnya yang pahit"}]}],"rootWord":"seberang"}]}
+{
+  "word": "menyeberangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72994",
+      "nama": "me.nye.be.rang.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarungi; melintasi; melalui (kali, jalan, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menempuh kesukaran (kesulitan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ hidupnya yang pahit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "seberang"
+    }
+  ]
+}

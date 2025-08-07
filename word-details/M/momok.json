@@ -1,1 +1,53 @@
-{"word":"momok","authenticated":true,"entries":[{"id":"54991","nama":"mo.mok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hantu (untuk menakut-nakuti anak)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu yang menakutkan karena berbahaya, ganas, dan sebagainya","contoh":[{"nomor":2,"teks":"penyakit paru-paru bukan lagi merupakan -- nomor satu"}]}],"etimologi":{"text":"[Jawa Kuno momo 'ganas, marah sekali, bengis, tidak dapat dikendalikan, dalam keadaan kalut, tanpa dipikir']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "momok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54991",
+      "nama": "mo.mok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hantu (untuk menakut-nakuti anak)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang menakutkan karena berbahaya, ganas, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyakit paru-paru bukan lagi merupakan -- nomor satu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno momo 'ganas, marah sekali, bengis, tidak dapat dikendalikan, dalam keadaan kalut, tanpa dipikir']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

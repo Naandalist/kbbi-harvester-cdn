@@ -1,1 +1,48 @@
-{"word":"mengeduk","authenticated":true,"entries":[{"id":"38499","nama":"me.nge.duk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeruk; mengorek; menggali","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengumpulkan uang; mengambil untung sebanyak-banyaknya","contoh":[{"nomor":2,"teks":"pengusaha dan pedagang jangan hanya ~ keuntungan, tetapi juga harus memperhatikan kepentingan konsumen"}]}],"rootWord":"keduk"}]}
+{
+  "word": "mengeduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38499",
+      "nama": "me.nge.duk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeruk; mengorek; menggali",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengumpulkan uang; mengambil untung sebanyak-banyaknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengusaha dan pedagang jangan hanya ~ keuntungan, tetapi juga harus memperhatikan kepentingan konsumen"
+            }
+          ]
+        }
+      ],
+      "rootWord": "keduk"
+    }
+  ]
+}

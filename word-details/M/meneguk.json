@@ -1,1 +1,35 @@
-{"word":"meneguk","authenticated":true,"entries":[{"id":"83632","nama":"me.ne.guk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminum (air, obat)","contoh":[{"nomor":2,"teks":"ia ~ obat"},{"nomor":4,"teks":"beliau menantikanku sambil ~ air teh sedikit-sedikit"}]}],"rootWord":"teguk¹"}]}
+{
+  "word": "meneguk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83632",
+      "nama": "me.ne.guk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminum (air, obat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ obat"
+            },
+            {
+              "nomor": 4,
+              "teks": "beliau menantikanku sambil ~ air teh sedikit-sedikit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "teguk¹"
+    }
+  ]
+}

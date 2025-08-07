@@ -1,1 +1,48 @@
-{"word":"menugaskan","authenticated":true,"entries":[{"id":"87585","nama":"me.nu.gas.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerahkan tugas, pekerjaan (kewajiban) kepada","contoh":[{"nomor":2,"teks":"saya ~ penyusunan laporan kepadanya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi tugas ke tempat lain","contoh":[{"nomor":2,"teks":"saya ~ dia ke daerah"}]}],"rootWord":"tugas¹"}]}
+{
+  "word": "menugaskan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87585",
+      "nama": "me.nu.gas.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerahkan tugas, pekerjaan (kewajiban) kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ penyusunan laporan kepadanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi tugas ke tempat lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ dia ke daerah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tugas¹"
+    }
+  ]
+}

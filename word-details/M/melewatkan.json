@@ -1,1 +1,65 @@
-{"word":"melewatkan","authenticated":true,"entries":[{"id":"49075","nama":"me.le.wat.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan terlewat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membiarkan supaya lewat","contoh":[{"nomor":2,"teks":"penambahan oksigen dengan ~ gelembung udara ke dalam air"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menghabiskan","contoh":[{"nomor":2,"teks":"~ masa tua di desa"}]}],"rootWord":"lewat"}]}
+{
+  "word": "melewatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49075",
+      "nama": "me.le.wat.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan terlewat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membiarkan supaya lewat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penambahan oksigen dengan ~ gelembung udara ke dalam air"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghabiskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ masa tua di desa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lewat"
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"word":"mengibai","authenticated":true,"entries":[{"id":"30581","nama":"meng.i.ba.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengasihani","contoh":[{"nomor":2,"teks":"ia ~ pengemis yang tua renta itu"}]}],"rootWord":"iba"},{"id":"236240","nama":"meng.i.bai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"membuang bulu binatang dengan menggunakan api","contoh":[{"nomor":2,"teks":"ayah sedang -- di belakang rumah"}]}]}]}
+{
+  "word": "mengibai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30581",
+      "nama": "meng.i.ba.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengasihani",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ pengemis yang tua renta itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "iba"
+    },
+    {
+      "id": "236240",
+      "nama": "meng.i.bai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membuang bulu binatang dengan menggunakan api",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah sedang -- di belakang rumah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

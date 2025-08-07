@@ -1,1 +1,68 @@
-{"word":"menggembleng","authenticated":true,"entries":[{"id":"25737","nama":"meng.gem.bleng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mempersatukan; mengumpulkan menjadi satu","contoh":[]}],"rootWord":"gembleng"},{"id":"25743","nama":"meng.gem.bleng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menempa (besi dan sebagainya supaya keras)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melatih dan mendidik supaya kuat dan berhati teguh","contoh":[{"nomor":2,"teks":"beliau sering berpidato dalam usaha ~ kader-kader bangsa agar menjadi pemimpin yang bertanggung jawab"}]}],"rootWord":"gembleng"}]}
+{
+  "word": "menggembleng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25737",
+      "nama": "meng.gem.bleng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempersatukan; mengumpulkan menjadi satu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gembleng"
+    },
+    {
+      "id": "25743",
+      "nama": "meng.gem.bleng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menempa (besi dan sebagainya supaya keras)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melatih dan mendidik supaya kuat dan berhati teguh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beliau sering berpidato dalam usaha ~ kader-kader bangsa agar menjadi pemimpin yang bertanggung jawab"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gembleng"
+    }
+  ]
+}

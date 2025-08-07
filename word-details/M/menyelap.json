@@ -1,1 +1,48 @@
-{"word":"menyelap","authenticated":true,"entries":[{"id":"73743","nama":"me.nye.lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"masuk ke dalam tubuh (tentang roh jahat dan sebagainya); merasuk","contoh":[{"nomor":2,"teks":"hantu dapat ~ orang yang lewat di bawah pohon itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimpa (tentang penyakit, kegelisahan, kemarahan, dan sebagainya); menyerang","contoh":[{"nomor":2,"teks":"bencana alam sering ~ daerah yang tandus itu"}]}],"rootWord":"selap¹"}]}
+{
+  "word": "menyelap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73743",
+      "nama": "me.nye.lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk ke dalam tubuh (tentang roh jahat dan sebagainya); merasuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hantu dapat ~ orang yang lewat di bawah pohon itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimpa (tentang penyakit, kegelisahan, kemarahan, dan sebagainya); menyerang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bencana alam sering ~ daerah yang tandus itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selap¹"
+    }
+  ]
+}

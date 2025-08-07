@@ -1,1 +1,80 @@
-{"word":"menggantungkan","authenticated":true,"entries":[{"id":"24421","nama":"meng.gan.tung.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyangkutkan pada","contoh":[{"nomor":2,"teks":"ia ~ peta itu pada dinding"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyandarkan (tentang kehidupan)","contoh":[{"nomor":2,"teks":"ia terpaksa ~ nasibnya kepada orang kaya itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membiarkan terbengkalai karena tidak digarap","contoh":[{"nomor":2,"teks":"ia dengan sengaja ~ pekerjaan itu"}]}],"rootWord":"gantung","terkait":{"kataTurunan":[],"gabunganKata":["menggantungkan hati"],"peribahasa":[],"idiom":["menggantungkan nasib"]}}]}
+{
+  "word": "menggantungkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24421",
+      "nama": "meng.gan.tung.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyangkutkan pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ peta itu pada dinding"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyandarkan (tentang kehidupan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia terpaksa ~ nasibnya kepada orang kaya itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membiarkan terbengkalai karena tidak digarap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dengan sengaja ~ pekerjaan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gantung",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menggantungkan hati"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "menggantungkan nasib"
+        ]
+      }
+    }
+  ]
+}

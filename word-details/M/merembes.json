@@ -1,1 +1,75 @@
-{"word":"merembes","authenticated":true,"entries":[{"id":"68481","nama":"me.rem.bes","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meresap ke luar atau ke dalam (tentang barang cair); tiris","contoh":[{"nomor":2,"teks":"karena kekurangan lapis semen, air dapat ~ ke luar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyusup (dengan diam-diam)","contoh":[{"nomor":2,"teks":"beberapa anggota gerombolan ~ masuk ke jantung kota"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjalar perlahan-lahan","contoh":[{"nomor":2,"teks":"“madat” barang terkutuk itu sekarang mulai ~ ke beberapa pelosok"}]}],"rootWord":"rembes"}]}
+{
+  "word": "merembes",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68481",
+      "nama": "me.rem.bes",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meresap ke luar atau ke dalam (tentang barang cair); tiris",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena kekurangan lapis semen, air dapat ~ ke luar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyusup (dengan diam-diam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa anggota gerombolan ~ masuk ke jantung kota"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjalar perlahan-lahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "“madat” barang terkutuk itu sekarang mulai ~ ke beberapa pelosok"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rembes"
+    }
+  ]
+}

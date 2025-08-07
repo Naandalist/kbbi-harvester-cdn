@@ -1,1 +1,48 @@
-{"word":"memanasi","authenticated":true,"entries":[{"id":"59611","nama":"me.ma.nas.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi atau memberikan panas pada; memanaskan","contoh":[{"nomor":2,"teks":"matahari ~ bumi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memanas-manasi","contoh":[]}],"rootWord":"panas"}]}
+{
+  "word": "memanasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59611",
+      "nama": "me.ma.nas.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi atau memberikan panas pada; memanaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matahari ~ bumi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanas-manasi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "panas"
+    }
+  ]
+}

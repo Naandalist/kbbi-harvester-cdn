@@ -1,1 +1,56 @@
-{"word":"mematuk","authenticated":true,"entries":[{"id":"60982","nama":"me.ma.tuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencatuk, mencotok, memagut (dengan paruh)","contoh":[{"nomor":2,"teks":"ayam itu ~ biji jagung yang ditaburkan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul (tentang picu bedil)","contoh":[{"nomor":2,"teks":"beberapa kali dipetiknya picu itu, tetapi tidak ~ juga"}]}],"rootWord":"patuk¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ada kepala tidak mematuk, ada buntut tidak melilit"],"idiom":[]}}]}
+{
+  "word": "mematuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60982",
+      "nama": "me.ma.tuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencatuk, mencotok, memagut (dengan paruh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam itu ~ biji jagung yang ditaburkan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul (tentang picu bedil)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa kali dipetiknya picu itu, tetapi tidak ~ juga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "patuk¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ada kepala tidak mematuk, ada buntut tidak melilit"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"melutu","authenticated":true,"entries":[{"id":"50779","nama":"me.lu.tu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerang (dengan ganas); memukul(i)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menimpa","contoh":[{"nomor":2,"teks":"fitnah dan bala datang ~"}]}],"rootWord":"lutu¹"}]}
+{
+  "word": "melutu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50779",
+      "nama": "me.lu.tu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerang (dengan ganas); memukul(i)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimpa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "fitnah dan bala datang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lutu¹"
+    }
+  ]
+}

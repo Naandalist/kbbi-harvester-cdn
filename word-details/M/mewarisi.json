@@ -1,1 +1,53 @@
-{"word":"mewarisi","authenticated":true,"entries":[{"id":"91080","nama":"me.wa.ris.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperoleh warisan dari","contoh":[{"nomor":2,"teks":"karena anak satu-satunya, dialah yang akan ~ seluruh harta kekayaan orang tuanya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperoleh sesuatu yang ditinggalkan oleh orang tuanya dan sebagainya","contoh":[{"nomor":2,"teks":"ia tidak saja memperoleh harta kekayaan, tetapi ia juga ~ utang-utang yang ditinggalkan almarhum"}]}],"rootWord":"waris¹"}]}
+{
+  "word": "mewarisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "91080",
+      "nama": "me.wa.ris.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperoleh warisan dari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena anak satu-satunya, dialah yang akan ~ seluruh harta kekayaan orang tuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperoleh sesuatu yang ditinggalkan oleh orang tuanya dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak saja memperoleh harta kekayaan, tetapi ia juga ~ utang-utang yang ditinggalkan almarhum"
+            }
+          ]
+        }
+      ],
+      "rootWord": "waris¹"
+    }
+  ]
+}

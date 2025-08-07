@@ -1,1 +1,31 @@
-{"word":"menyewa","authenticated":true,"entries":[{"id":"76571","nama":"me.nye.wa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai (meminjam, menampung dan sebagainya) dengan membayar uang sewa","contoh":[{"nomor":2,"teks":"kami terpaksa ~ bemo untuk membawa belanjaan ini ke rumah"}]}],"rootWord":"sewa¹"}]}
+{
+  "word": "menyewa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76571",
+      "nama": "me.nye.wa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai (meminjam, menampung dan sebagainya) dengan membayar uang sewa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami terpaksa ~ bemo untuk membawa belanjaan ini ke rumah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sewa¹"
+    }
+  ]
+}

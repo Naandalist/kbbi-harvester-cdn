@@ -1,1 +1,48 @@
-{"word":"menetapi","authenticated":true,"entries":[{"id":"85661","nama":"me.ne.tap.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menepati (janji dan sebagainya); menunaikan (nazar, niat, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ janjinya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memenuhi (kewajiban dan sebagainya); menjalankan (apa-apa yang tersebut dalam aturan dan sebagainya)","contoh":[{"nomor":2,"teks":"para pegawai hendaknya ~ kewajiban masing-masing"}]}],"rootWord":"tetap¹"}]}
+{
+  "word": "menetapi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85661",
+      "nama": "me.ne.tap.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menepati (janji dan sebagainya); menunaikan (nazar, niat, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ janjinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memenuhi (kewajiban dan sebagainya); menjalankan (apa-apa yang tersebut dalam aturan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para pegawai hendaknya ~ kewajiban masing-masing"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tetap¹"
+    }
+  ]
+}

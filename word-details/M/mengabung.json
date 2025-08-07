@@ -1,1 +1,55 @@
-{"word":"mengabung","authenticated":true,"entries":[{"id":"35473","nama":"me.nga.bung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerat; memenggal; memotong","contoh":[]}],"rootWord":"kabung⁴"},{"id":"273322","nama":"meng.a.bung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ldy","nama":"Lundayeh","tipe":"lainnya"}],"definisi":"mengelilingi kepala seseorang saat terbang (tentang serangga)","contoh":[{"nomor":2,"teks":"aku tidak nyaman karena banyak serangga --"}]}]}]}
+{
+  "word": "mengabung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35473",
+      "nama": "me.nga.bung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerat; memenggal; memotong",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kabung⁴"
+    },
+    {
+      "id": "273322",
+      "nama": "meng.a.bung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ldy",
+              "nama": "Lundayeh",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengelilingi kepala seseorang saat terbang (tentang serangga)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku tidak nyaman karena banyak serangga --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

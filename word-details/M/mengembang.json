@@ -1,1 +1,79 @@
-{"word":"mengembang","authenticated":true,"entries":[{"id":"39410","nama":"me.ngem.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melebar; berkembang","contoh":[]}],"rootWord":"kembang¹","terkait":{"kataTurunan":[],"gabunganKata":["mengembang tengkuknya","mengembang bakung"],"peribahasa":["mengembang ketiak amis"],"idiom":[]}},{"id":"39449","nama":"me.ngem.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi sebagai kembang (bunga)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meletakkan bunga di kubur","contoh":[]}],"rootWord":"kembang²","terkait":{"kataTurunan":[],"gabunganKata":["mengembang bakung"],"peribahasa":["mengembang ketiak amis"],"idiom":[]}}]}
+{
+  "word": "mengembang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39410",
+      "nama": "me.ngem.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melebar; berkembang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kembang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengembang tengkuknya",
+          "mengembang bakung"
+        ],
+        "peribahasa": [
+          "mengembang ketiak amis"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39449",
+      "nama": "me.ngem.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi sebagai kembang (bunga)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meletakkan bunga di kubur",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kembang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengembang bakung"
+        ],
+        "peribahasa": [
+          "mengembang ketiak amis"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

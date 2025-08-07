@@ -1,1 +1,103 @@
-{"word":"mabal","authenticated":true,"entries":[{"id":"50813","nama":"ma.bal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"menggunakan jalan yang tidak biasa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tersesat dari kepercayaan yang benar ke kepercayaan yang salah","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membolos sekolah","contoh":[{"nomor":2,"teks":"anak sekarang banyak yang sering --"}]}]},{"id":"92777","nama":"Ma.bal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Markas Besar TNI Angkatan Laut","contoh":[]}]}]}
+{
+  "word": "mabal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50813",
+      "nama": "ma.bal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menggunakan jalan yang tidak biasa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersesat dari kepercayaan yang benar ke kepercayaan yang salah",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membolos sekolah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak sekarang banyak yang sering --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92777",
+      "nama": "Ma.bal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Markas Besar TNI Angkatan Laut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

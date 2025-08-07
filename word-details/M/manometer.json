@@ -1,1 +1,51 @@
-{"word":"manometer","authenticated":true,"entries":[{"id":"52167","nama":"ma.no.me.ter","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk mengukur tekanan gas dan uap","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"alat untuk mengukur tekanan gas dan uap","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["manometer air","manometer merkuri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "manometer",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52167",
+      "nama": "ma.no.me.ter",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk mengukur tekanan gas dan uap",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "alat untuk mengukur tekanan gas dan uap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "manometer air",
+          "manometer merkuri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

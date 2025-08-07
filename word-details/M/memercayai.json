@@ -1,1 +1,48 @@
-{"word":"memercayai","authenticated":true,"entries":[{"id":"62367","nama":"me.mer.ca.ya.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganggap benar atau nyata; mengakui benar atau nyata","contoh":[{"nomor":2,"teks":"ia tiada ~ segala kata dan keterangan saksi itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengharapkan benar atau memastikan (bahwa akan dapat memenuhi harapannya dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ anak buahnya untuk membayar biaya pemasangan telepon"}]}],"rootWord":"percaya"}]}
+{
+  "word": "memercayai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62367",
+      "nama": "me.mer.ca.ya.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganggap benar atau nyata; mengakui benar atau nyata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tiada ~ segala kata dan keterangan saksi itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengharapkan benar atau memastikan (bahwa akan dapat memenuhi harapannya dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ anak buahnya untuk membayar biaya pemasangan telepon"
+            }
+          ]
+        }
+      ],
+      "rootWord": "percaya"
+    }
+  ]
+}

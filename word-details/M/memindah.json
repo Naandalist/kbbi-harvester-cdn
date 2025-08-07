@@ -1,1 +1,52 @@
-{"word":"memindah","authenticated":true,"entries":[{"id":"63668","nama":"me.min.dah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memindah-mindah; menular(-nular)","contoh":[{"nomor":2,"teks":"orang itu khawatir, jangan-jangan perasaan takutnya ~ ke anaknya"},{"nomor":4,"teks":"mula-mula anaknya yang tertimpa penyakit, kemudian ~ ke segenap penghuni rumah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memindahkan","contoh":[]}],"rootWord":"pindah¹"}]}
+{
+  "word": "memindah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63668",
+      "nama": "me.min.dah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memindah-mindah; menular(-nular)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang itu khawatir, jangan-jangan perasaan takutnya ~ ke anaknya"
+            },
+            {
+              "nomor": 4,
+              "teks": "mula-mula anaknya yang tertimpa penyakit, kemudian ~ ke segenap penghuni rumah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memindahkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pindah¹"
+    }
+  ]
+}

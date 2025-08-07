@@ -1,1 +1,31 @@
-{"word":"menomang","authenticated":true,"entries":[{"id":"86805","nama":"me.no.mang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyangka","contoh":[{"nomor":2,"teks":"dia ~ saya yang mengambil uangnya, padahal orang lain yang mengambilnya"}]}],"rootWord":"tomang¹"}]}
+{
+  "word": "menomang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86805",
+      "nama": "me.no.mang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyangka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ saya yang mengambil uangnya, padahal orang lain yang mengambilnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tomang¹"
+    }
+  ]
+}

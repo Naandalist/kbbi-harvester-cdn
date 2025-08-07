@@ -1,1 +1,53 @@
-{"word":"menggarap","authenticated":true,"entries":[{"id":"24544","nama":"meng.ga.rap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerjakan (sawah, laporan, dan sebagainya)","contoh":[{"nomor":2,"teks":"banyak petani yang ~ sawah atas dasar bagi hasil"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memerkosa","contoh":[{"nomor":2,"teks":"ia ditangkap karena telah ~ gadis tetangganya"}]}],"rootWord":"garap"}]}
+{
+  "word": "menggarap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24544",
+      "nama": "meng.ga.rap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerjakan (sawah, laporan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak petani yang ~ sawah atas dasar bagi hasil"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memerkosa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ditangkap karena telah ~ gadis tetangganya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "garap"
+    }
+  ]
+}

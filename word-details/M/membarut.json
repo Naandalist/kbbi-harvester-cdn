@@ -1,1 +1,63 @@
-{"word":"membarut","authenticated":true,"entries":[{"id":"8524","nama":"mem.ba.rut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membalut (luka dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membebat (bayi dan sebagainya)","contoh":[]}],"rootWord":"barut¹"},{"id":"8529","nama":"mem.ba.rut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membalur","contoh":[{"nomor":2,"teks":"tukang pijit ~ kaki orang yang terkilir itu dengan minyak"}]}],"rootWord":"barut²"}]}
+{
+  "word": "membarut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8524",
+      "nama": "mem.ba.rut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membalut (luka dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membebat (bayi dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "barut¹"
+    },
+    {
+      "id": "8529",
+      "nama": "mem.ba.rut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membalur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang pijit ~ kaki orang yang terkilir itu dengan minyak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "barut²"
+    }
+  ]
+}

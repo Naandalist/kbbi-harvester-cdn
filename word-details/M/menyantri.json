@@ -1,1 +1,31 @@
-{"word":"menyantri","authenticated":true,"entries":[{"id":"72245","nama":"me.nyan.tri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi santri","contoh":[{"nomor":2,"teks":"ia ~ di pondok itu"}]}],"rootWord":"santri"}]}
+{
+  "word": "menyantri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72245",
+      "nama": "me.nyan.tri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi santri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ di pondok itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "santri"
+    }
+  ]
+}

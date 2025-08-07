@@ -1,1 +1,51 @@
-{"word":"mengambal","authenticated":true,"entries":[{"id":"2816","nama":"meng.am.bal","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"membumbun (tanah); menambak","contoh":[]}],"rootWord":"ambal⁴"},{"id":"2818","nama":"meng.am.bal","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melihat dengan sudut mata; melirik; menjeling","contoh":[]}],"rootWord":"ambal⁵"}]}
+{
+  "word": "mengambal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2816",
+      "nama": "meng.am.bal",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membumbun (tanah); menambak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ambal⁴"
+    },
+    {
+      "id": "2818",
+      "nama": "meng.am.bal",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melihat dengan sudut mata; melirik; menjeling",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ambal⁵"
+    }
+  ]
+}

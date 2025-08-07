@@ -1,1 +1,89 @@
-{"word":"mayat","authenticated":true,"entries":[{"id":"53056","nama":"ma.yat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"badan atau tubuh orang yang sudah mati; jenazah","contoh":[{"nomor":2,"teks":"orang yang hilang itu ditemukan sudah menjadi --"}]}],"etimologi":{"text":"[Arab مَيِّتٌ mayīt n sg m 'orang yang kehilangan kekuatan; orang yang diam']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["mayat bernyawa","mayat hidup"],"peribahasa":["membalik-balik mayat di kubur","pucat seperti mayat","seperti mayat ditegakkan"],"idiom":[]}},{"id":"216199","nama":"ma.yat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"perjalanan irama yang bergerak ke irama cepat secara sedikit demi sedikit","contoh":[]}],"etimologi":{"text":"[Arab مَيِّتٌ mayīt n sg m 'orang yang kehilangan kekuatan; orang yang diam']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["membalik-balik mayat di kubur","pucat seperti mayat","seperti mayat ditegakkan"],"idiom":[]}}]}
+{
+  "word": "mayat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53056",
+      "nama": "ma.yat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "badan atau tubuh orang yang sudah mati; jenazah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang hilang itu ditemukan sudah menjadi --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَيِّتٌ mayīt n sg m 'orang yang kehilangan kekuatan; orang yang diam']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mayat bernyawa",
+          "mayat hidup"
+        ],
+        "peribahasa": [
+          "membalik-balik mayat di kubur",
+          "pucat seperti mayat",
+          "seperti mayat ditegakkan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216199",
+      "nama": "ma.yat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perjalanan irama yang bergerak ke irama cepat secara sedikit demi sedikit",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَيِّتٌ mayīt n sg m 'orang yang kehilangan kekuatan; orang yang diam']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "membalik-balik mayat di kubur",
+          "pucat seperti mayat",
+          "seperti mayat ditegakkan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

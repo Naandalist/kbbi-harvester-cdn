@@ -1,1 +1,36 @@
-{"word":"menyengko","authenticated":true,"entries":[{"id":"75111","nama":"me.nyeng.ko","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"bergerak agar berada pada satu sisi benda dari arah belakang","contoh":[{"nomor":2,"teks":"kucing itu suka sekali ~ ketika saya makan"}]}],"rootWord":"sengko"}]}
+{
+  "word": "menyengko",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75111",
+      "nama": "me.nyeng.ko",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bergerak agar berada pada satu sisi benda dari arah belakang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kucing itu suka sekali ~ ketika saya makan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sengko"
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"word":"merusuk","authenticated":true,"entries":[{"id":"70576","nama":"me.ru.suk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menohok (menikam) dari sisi atau pada lambung","contoh":[{"nomor":2,"teks":"ia ~ penunggang kuda itu dengan tombak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menurut sisi; menepi; menyusur (tepi); mendekat dari samping","contoh":[{"nomor":2,"teks":"berjalan ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertekankan tulang rusuk (misalnya merebahkan diri miring)","contoh":[{"nomor":2,"teks":"berbaring ~ di atas tempat tidur"},{"nomor":4,"teks":"orang sakit itu tidur ~"}]}],"rootWord":"rusuk¹"}]}
+{
+  "word": "merusuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70576",
+      "nama": "me.ru.suk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menohok (menikam) dari sisi atau pada lambung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ penunggang kuda itu dengan tombak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurut sisi; menepi; menyusur (tepi); mendekat dari samping",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berjalan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertekankan tulang rusuk (misalnya merebahkan diri miring)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berbaring ~ di atas tempat tidur"
+            },
+            {
+              "nomor": 4,
+              "teks": "orang sakit itu tidur ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rusuk¹"
+    }
+  ]
+}

@@ -1,1 +1,66 @@
-{"word":"memikul","authenticated":true,"entries":[{"id":"63511","nama":"me.mi.kul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa barang dengan menggantungkannya di tongkat (pikulan) yang ditaruh di atas bahu; menggandar","contoh":[{"nomor":2,"teks":"siapa yang akan ~ padi ini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menanggung","contoh":[{"nomor":2,"teks":"kita sekalian yang akan ~ ongkosnya"}]}],"rootWord":"pikul","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berapa berat mata memandang, berat juga bahu memikul","mata memandang apa hendak sakit, bahu memikul timpa perasaan (seberapa berat mata menentang, berat jua bahu memikul)","memikul di bahu, menjunjung di kepala","tangan mencencang (memetik, menetak) bahu memikul","tangan mencencang, bahu memikul","tangan menetak (mencencang), bahu memikul"],"idiom":[]}}]}
+{
+  "word": "memikul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63511",
+      "nama": "me.mi.kul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa barang dengan menggantungkannya di tongkat (pikulan) yang ditaruh di atas bahu; menggandar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa yang akan ~ padi ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanggung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita sekalian yang akan ~ ongkosnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pikul",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berapa berat mata memandang, berat juga bahu memikul",
+          "mata memandang apa hendak sakit, bahu memikul timpa perasaan (seberapa berat mata menentang, berat jua bahu memikul)",
+          "memikul di bahu, menjunjung di kepala",
+          "tangan mencencang (memetik, menetak) bahu memikul",
+          "tangan mencencang, bahu memikul",
+          "tangan menetak (mencencang), bahu memikul"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"mongkrong","authenticated":true,"entries":[{"id":"133430","nama":"mong.krong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kain yang dikenakan menutup punggung penari, sebagai penghias atau sebagai sayap","contoh":[]}]},{"id":"204276","nama":"mong.krong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbangun dari tidur secara tiba-tiba","contoh":[{"nomor":2,"teks":"ia -- saat mendengar suara keras dari arah dapur"}]}]}]}
+{
+  "word": "mongkrong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "133430",
+      "nama": "mong.krong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kain yang dikenakan menutup punggung penari, sebagai penghias atau sebagai sayap",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "204276",
+      "nama": "mong.krong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbangun dari tidur secara tiba-tiba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- saat mendengar suara keras dari arah dapur"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

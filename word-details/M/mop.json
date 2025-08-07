@@ -1,1 +1,35 @@
-{"word":"mop","authenticated":true,"entries":[{"id":"55118","nama":"mop","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bld","nama":"Belanda","tipe":"bahasa"}],"definisi":"lelucon","contoh":[{"nomor":2,"teks":"April --"}]}]}]}
+{
+  "word": "mop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55118",
+      "nama": "mop",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bld",
+              "nama": "Belanda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lelucon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "April --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"menyajikan","authenticated":true,"entries":[{"id":"71043","nama":"me.nya.ji.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyediakan (makanan dan sebagainya) makanan di atas meja dan sebagainya; menghidangkan (kepada)","contoh":[{"nomor":2,"teks":"ia ~ berbagai-bagai makanan kepada tamunya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengemukakan (soal-soal untuk dibahas)","contoh":[{"nomor":2,"teks":"pada rapat itu ia ~ beberapa hal yang penting"}]}],"rootWord":"saji"}]}
+{
+  "word": "menyajikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71043",
+      "nama": "me.nya.ji.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyediakan (makanan dan sebagainya) makanan di atas meja dan sebagainya; menghidangkan (kepada)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ berbagai-bagai makanan kepada tamunya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengemukakan (soal-soal untuk dibahas)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada rapat itu ia ~ beberapa hal yang penting"
+            }
+          ]
+        }
+      ],
+      "rootWord": "saji"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"merorod","authenticated":true,"entries":[{"id":"69890","nama":"me.ro.rod","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kedodoran; melorot","contoh":[{"nomor":2,"teks":"celananya ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuang tanaman liar yang mengganggu tanaman utama","contoh":[]}],"rootWord":"rorod"}]}
+{
+  "word": "merorod",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69890",
+      "nama": "me.ro.rod",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedodoran; melorot",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "celananya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuang tanaman liar yang mengganggu tanaman utama",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rorod"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"menggelanggang","authenticated":true,"entries":[{"id":"25225","nama":"meng.ge.lang.gang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadakan (menyelenggarakan) gelanggang penyabungan (ayam dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka hendak ~ tujuh hari lamanya sambil memotong kerbau tujuh ekor"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menggenang","contoh":[{"nomor":2,"teks":"air matanya ~ mendengar riwayat orang tuanya"}]}],"rootWord":"gelanggang"}]}
+{
+  "word": "menggelanggang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25225",
+      "nama": "meng.ge.lang.gang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadakan (menyelenggarakan) gelanggang penyabungan (ayam dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka hendak ~ tujuh hari lamanya sambil memotong kerbau tujuh ekor"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggenang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air matanya ~ mendengar riwayat orang tuanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gelanggang"
+    }
+  ]
+}

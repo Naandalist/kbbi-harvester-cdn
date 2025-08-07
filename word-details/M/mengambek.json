@@ -1,1 +1,56 @@
-{"word":"mengambek","authenticated":true,"entries":[{"id":"2853","nama":"meng.am.bek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"agak marah; merajuk","contoh":[]}],"rootWord":"ambek¹"},{"id":"2856","nama":"meng.am.bek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"sukar bernapas","contoh":[]}],"rootWord":"ambek²"}]}
+{
+  "word": "mengambek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2853",
+      "nama": "meng.am.bek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "agak marah; merajuk",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ambek¹"
+    },
+    {
+      "id": "2856",
+      "nama": "meng.am.bek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sukar bernapas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ambek²"
+    }
+  ]
+}

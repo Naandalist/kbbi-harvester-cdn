@@ -1,1 +1,64 @@
-{"word":"matra","authenticated":true,"entries":[{"id":"52950","nama":"mat.ra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran tinggi, panjang, atau lebar; dimensi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran banyaknya tekanan irama (dalam musik)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"bagan yang dipakai dalam penyusunan baris sajak yang berhubungan dengan jumlah, panjang, atau tekanan suku kata","contoh":[]}],"terkait":{"kataTurunan":["kematraan"],"gabunganKata":["matra longitudinal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "matra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52950",
+      "nama": "mat.ra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran tinggi, panjang, atau lebar; dimensi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran banyaknya tekanan irama (dalam musik)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bagan yang dipakai dalam penyusunan baris sajak yang berhubungan dengan jumlah, panjang, atau tekanan suku kata",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kematraan"
+        ],
+        "gabunganKata": [
+          "matra longitudinal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

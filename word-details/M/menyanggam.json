@@ -1,1 +1,55 @@
-{"word":"menyanggam","authenticated":true,"entries":[{"id":"72041","nama":"me.nyang.gam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminjam sebentar","contoh":[]}],"rootWord":"sanggam"},{"id":"252595","nama":"me.nyang.gam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"menetak sedikit agar mudah dibengkokkan (tentang bambu dan kayu)","contoh":[{"nomor":2,"teks":"paman -- bambu yang akan dibuat kursi"}]}]}]}
+{
+  "word": "menyanggam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72041",
+      "nama": "me.nyang.gam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminjam sebentar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sanggam"
+    },
+    {
+      "id": "252595",
+      "nama": "me.nyang.gam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menetak sedikit agar mudah dibengkokkan (tentang bambu dan kayu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman -- bambu yang akan dibuat kursi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

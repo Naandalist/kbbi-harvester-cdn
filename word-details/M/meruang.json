@@ -1,1 +1,52 @@
-{"word":"meruang","authenticated":true,"entries":[{"id":"70034","nama":"me.ru.ang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyucikan mayat (dengan jalan mengeluarkan kotoran dari dalam perut); membersihkan","contoh":[{"nomor":2,"teks":"di kampung kami hanya ada dua orang yang biasa memandikan dan ~ mayat"},{"nomor":4,"teks":"setiap minggu prajurit itu ~ senjata"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"menciptakan hubungan atau interaksi seseorang dengan ruang atau orang lain dalam suatu lingkup sosial","contoh":[]}],"rootWord":"ruang"}]}
+{
+  "word": "meruang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70034",
+      "nama": "me.ru.ang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyucikan mayat (dengan jalan mengeluarkan kotoran dari dalam perut); membersihkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di kampung kami hanya ada dua orang yang biasa memandikan dan ~ mayat"
+            },
+            {
+              "nomor": 4,
+              "teks": "setiap minggu prajurit itu ~ senjata"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menciptakan hubungan atau interaksi seseorang dengan ruang atau orang lain dalam suatu lingkup sosial",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ruang"
+    }
+  ]
+}

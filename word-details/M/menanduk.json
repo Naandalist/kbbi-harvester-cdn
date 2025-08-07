@@ -1,1 +1,86 @@
-{"word":"menanduk","authenticated":true,"entries":[{"id":"82161","nama":"me.nan.duk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyeruduk dengan tanduk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyundul dengan kepala","contoh":[{"nomor":2,"teks":"~ bola ke gawang lawan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"bertekstur keras, rapat, dapat dipotong (potongannya tidak rapuh)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menulang","contoh":[]}],"rootWord":"tanduk¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["diiringi menyepak, dikemudiankan menanduk","kerbau menanduk anak"],"idiom":[]}}]}
+{
+  "word": "menanduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82161",
+      "nama": "me.nan.duk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyeruduk dengan tanduk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyundul dengan kepala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bola ke gawang lawan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bertekstur keras, rapat, dapat dipotong (potongannya tidak rapuh)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menulang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tanduk¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "diiringi menyepak, dikemudiankan menanduk",
+          "kerbau menanduk anak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

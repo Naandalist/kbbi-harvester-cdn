@@ -1,1 +1,65 @@
-{"word":"mengentas","authenticated":true,"entries":[{"id":"22333","nama":"meng.en.tas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengangkat dari suatu tempat ke tempat lain","contoh":[{"nomor":2,"teks":"~ sayuran yang sedang direbus"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan dari lingkungan cairan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyadarkan; memperbaiki nasib","contoh":[{"nomor":2,"teks":"pemerintah berupaya ~ mereka yang terjerumus ke lembah kenistaan"}]}],"rootWord":"entas"}]}
+{
+  "word": "mengentas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22333",
+      "nama": "meng.en.tas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengangkat dari suatu tempat ke tempat lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ sayuran yang sedang direbus"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan dari lingkungan cairan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyadarkan; memperbaiki nasib",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah berupaya ~ mereka yang terjerumus ke lembah kenistaan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "entas"
+    }
+  ]
+}

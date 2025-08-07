@@ -1,1 +1,51 @@
-{"word":"menyarung","authenticated":true,"entries":[{"id":"72537","nama":"me.nya.rung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi sarung","contoh":[{"nomor":2,"teks":"ia ~ kerisnya"}]}],"rootWord":"sarung¹"},{"id":"72542","nama":"me.nya.rung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelang (perkataan orang)","contoh":[]}],"rootWord":"sarung²"}]}
+{
+  "word": "menyarung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72537",
+      "nama": "me.nya.rung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi sarung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kerisnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sarung¹"
+    },
+    {
+      "id": "72542",
+      "nama": "me.nya.rung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelang (perkataan orang)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sarung²"
+    }
+  ]
+}

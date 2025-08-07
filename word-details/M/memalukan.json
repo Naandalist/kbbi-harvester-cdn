@@ -1,1 +1,48 @@
-{"word":"memalukan","authenticated":true,"entries":[{"id":"51732","nama":"me.ma.lu.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan (menyebabkan, memberi) malu","contoh":[{"nomor":2,"teks":"kelakuan anak itu sangat ~ keluarganya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganggap malu; malu tentang sesuatu","contoh":[{"nomor":2,"teks":"ia ~ tindakannya"}]}],"rootWord":"malu¹"}]}
+{
+  "word": "memalukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51732",
+      "nama": "me.ma.lu.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan (menyebabkan, memberi) malu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelakuan anak itu sangat ~ keluarganya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganggap malu; malu tentang sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ tindakannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "malu¹"
+    }
+  ]
+}

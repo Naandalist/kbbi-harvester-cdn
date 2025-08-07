@@ -1,1 +1,70 @@
-{"word":"mahal","authenticated":true,"entries":[{"id":"51035","nama":"ma.hal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tinggi harganya","contoh":[{"nomor":2,"teks":"karena senangnya pada barang itu, biarpun -- dibelinya juga"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"jarang ada; sukar terdapat; tidak mudah","contoh":[{"nomor":2,"teks":"barang itu -- dibeli sukar dicari"},{"nomor":4,"teks":"-- mencari orang yang sebaik itu"}]}],"terkait":{"kataTurunan":["kemahalan","memahal","memahalkan","semahal","termahal"],"gabunganKata":["mahal bicara","mahal senyum"],"peribahasa":["mahal dibeli, sukar dijual (mahal tak dapat dibeli, murah tak dapat diminta)","murah di mulut, mahal di timbangan","semahal-mahal gading, kalau patah, tiada berguna"],"idiom":[]}}]}
+{
+  "word": "mahal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51035",
+      "nama": "ma.hal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinggi harganya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena senangnya pada barang itu, biarpun -- dibelinya juga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jarang ada; sukar terdapat; tidak mudah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang itu -- dibeli sukar dicari"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- mencari orang yang sebaik itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemahalan",
+          "memahal",
+          "memahalkan",
+          "semahal",
+          "termahal"
+        ],
+        "gabunganKata": [
+          "mahal bicara",
+          "mahal senyum"
+        ],
+        "peribahasa": [
+          "mahal dibeli, sukar dijual (mahal tak dapat dibeli, murah tak dapat diminta)",
+          "murah di mulut, mahal di timbangan",
+          "semahal-mahal gading, kalau patah, tiada berguna"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

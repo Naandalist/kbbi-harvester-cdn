@@ -1,1 +1,64 @@
-{"word":"melalak","authenticated":true,"entries":[{"id":"46093","nama":"me.la.lak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyala; meletup","contoh":[{"nomor":2,"teks":"korek api ini tiada ~"},{"nomor":4,"teks":"mesin itu ~ dengan tiba-tiba"}]}],"rootWord":"lalak"},{"id":"278097","nama":"me.la.lak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"sering menangis (tentang anak-anak yang selalu menangis di mana pun)","contoh":[{"nomor":2,"teks":"orang menganggap anak yang -- sering diganggu makhluk gaib"}]}]}]}
+{
+  "word": "melalak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46093",
+      "nama": "me.la.lak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyala; meletup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "korek api ini tiada ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "mesin itu ~ dengan tiba-tiba"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lalak"
+    },
+    {
+      "id": "278097",
+      "nama": "me.la.lak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sering menangis (tentang anak-anak yang selalu menangis di mana pun)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang menganggap anak yang -- sering diganggu makhluk gaib"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

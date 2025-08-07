@@ -1,1 +1,48 @@
-{"word":"memicu","authenticated":true,"entries":[{"id":"63356","nama":"me.mi.cu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menarik picu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menggerakkan sesuatu yang berakibat membahayakan","contoh":[{"nomor":2,"teks":"seperti telah diduga pemecatan itu bakal ~ gelombang demonstrasi baru"}]}],"rootWord":"picu"}]}
+{
+  "word": "memicu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63356",
+      "nama": "me.mi.cu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menarik picu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerakkan sesuatu yang berakibat membahayakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seperti telah diduga pemecatan itu bakal ~ gelombang demonstrasi baru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "picu"
+    }
+  ]
+}

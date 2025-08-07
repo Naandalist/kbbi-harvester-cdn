@@ -1,1 +1,73 @@
-{"word":"mengempapkan","authenticated":true,"entries":[{"id":"21957","nama":"meng.em.pap.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjatuhkan atau menimpakan barang berat kepada sesuatu","contoh":[{"nomor":2,"teks":"ia ~ peti itu ke tanah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukulkan dan sebagainya barang yang lebar dan pipih","contoh":[{"nomor":2,"teks":"~ telapak tangannya"}]}],"rootWord":"empap¹"},{"id":"21960","nama":"meng.em.pap.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengempaskan","contoh":[{"nomor":2,"teks":"~ badan"}]}],"rootWord":"empap²"}]}
+{
+  "word": "mengempapkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21957",
+      "nama": "meng.em.pap.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjatuhkan atau menimpakan barang berat kepada sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ peti itu ke tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukulkan dan sebagainya barang yang lebar dan pipih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ telapak tangannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "empap¹"
+    },
+    {
+      "id": "21960",
+      "nama": "meng.em.pap.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengempaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ badan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "empap²"
+    }
+  ]
+}

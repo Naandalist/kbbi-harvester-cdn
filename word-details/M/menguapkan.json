@@ -1,1 +1,48 @@
-{"word":"menguapkan","authenticated":true,"entries":[{"id":"88760","nama":"meng.u.ap.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasakkan (memanaskan dan sebagainya) di atas uap air panas; menguapi; mengukus","contoh":[{"nomor":2,"teks":"ia tidak menggoreng ikan itu, tetapi hanya ~nya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan menguap; mengeluarkan uapnya","contoh":[{"nomor":2,"teks":"perkakas itu gunanya untuk ~ air laut hingga tinggal garamnya saja"}]}],"rootWord":"uap¹"}]}
+{
+  "word": "menguapkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88760",
+      "nama": "meng.u.ap.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasakkan (memanaskan dan sebagainya) di atas uap air panas; menguapi; mengukus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak menggoreng ikan itu, tetapi hanya ~nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan menguap; mengeluarkan uapnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkakas itu gunanya untuk ~ air laut hingga tinggal garamnya saja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "uap¹"
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"word":"manual","authenticated":true,"entries":[{"id":"52219","nama":"ma.nu.al","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dilakukan dengan tangan","contoh":[{"nomor":2,"teks":"tenunan itu masih dikerjakan secara --"}]}],"terkait":{"kataTurunan":["memanualkan","pemanualan"],"gabunganKata":["manual pengguna"],"peribahasa":[],"idiom":[]}},{"id":"52220","nama":"ma.nu.al","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"buku petunjuk praktis tentang suatu jenis pekerjaan atau tentang cara kerja suatu alat atau peranti tertentu","contoh":[{"nomor":2,"teks":"-- radio"},{"nomor":4,"teks":"-- televisi"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["manual pengguna"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "manual",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52219",
+      "nama": "ma.nu.al",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dilakukan dengan tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tenunan itu masih dikerjakan secara --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memanualkan",
+          "pemanualan"
+        ],
+        "gabunganKata": [
+          "manual pengguna"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52220",
+      "nama": "ma.nu.al",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku petunjuk praktis tentang suatu jenis pekerjaan atau tentang cara kerja suatu alat atau peranti tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- radio"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- televisi"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "manual pengguna"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

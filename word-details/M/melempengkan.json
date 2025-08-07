@@ -1,1 +1,80 @@
-{"word":"melempengkan","authenticated":true,"entries":[{"id":"48322","nama":"me.lem.peng.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meluruskan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelaraskan dan sebagainya; menyesuaikan dan sebagainya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"menjadikan bulat (tentang jumlah uang)","contoh":[]}],"rootWord":"lempeng¹"},{"id":"209980","nama":"me.lem.peng.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat jadi lempeng(an)","contoh":[{"nomor":2,"teks":"ayah sedang ~ bijih besi tersebut"}]}],"rootWord":"lempeng"}]}
+{
+  "word": "melempengkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48322",
+      "nama": "me.lem.peng.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meluruskan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelaraskan dan sebagainya; menyesuaikan dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan bulat (tentang jumlah uang)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lempeng¹"
+    },
+    {
+      "id": "209980",
+      "nama": "me.lem.peng.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat jadi lempeng(an)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah sedang ~ bijih besi tersebut"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lempeng"
+    }
+  ]
+}

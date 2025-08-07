@@ -1,1 +1,56 @@
-{"word":"menyuruh","authenticated":true,"entries":[{"id":"80210","nama":"me.nyu.ruh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memerintah (supaya melakukan sesuatu)","contoh":[{"nomor":2,"teks":"dia ~ peragawati itu duduk dalam berbagai pose"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memerintah supaya pergi ke ... (untuk melakukan sesuatu); mengutus","contoh":[{"nomor":2,"teks":"ia ~ anaknya membelikan obat"}]}],"rootWord":"suruh¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["memakan habis-habisan, menyuruh hilang-hilang"],"idiom":[]}}]}
+{
+  "word": "menyuruh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80210",
+      "nama": "me.nyu.ruh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memerintah (supaya melakukan sesuatu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ peragawati itu duduk dalam berbagai pose"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memerintah supaya pergi ke ... (untuk melakukan sesuatu); mengutus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ anaknya membelikan obat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suruh¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "memakan habis-habisan, menyuruh hilang-hilang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

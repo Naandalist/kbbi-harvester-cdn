@@ -1,1 +1,66 @@
-{"word":"mangkak","authenticated":true,"entries":[{"id":"52036","nama":"mang.kak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"besar hati; bangga","contoh":[{"nomor":2,"teks":"dadanya kembang kempis karena -- mendengar kata-kata pujian itu"}]}],"etimologi":{"text":"[Jawa Kuno (u)maṅkak 'membengkak; berdiri (rambut)']","languages":["Jawa Kuno"]}},{"id":"296874","nama":"mang.kak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"setengah bodoh","contoh":[]}],"etimologi":{"text":"[Jawa Kuno (u)maṅkak 'membengkak; berdiri (rambut)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "mangkak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52036",
+      "nama": "mang.kak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar hati; bangga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dadanya kembang kempis karena -- mendengar kata-kata pujian itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno (u)maṅkak 'membengkak; berdiri (rambut)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "296874",
+      "nama": "mang.kak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "setengah bodoh",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno (u)maṅkak 'membengkak; berdiri (rambut)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

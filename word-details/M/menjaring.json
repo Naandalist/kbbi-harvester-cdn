@@ -1,1 +1,76 @@
-{"word":"menjaring","authenticated":true,"entries":[{"id":"33590","nama":"men.ja.ring","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menangkap ikan dan sebagainya dengan jaring","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"masuk ke dalam jala (tentang bola dan sebagainya)","contoh":[{"nomor":2,"teks":"bola ~ di sebelah kanan gawangnya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperoleh; menemukan; menyeleksi; menangkap","contoh":[]}],"rootWord":"jaring","terkait":{"kataTurunan":[],"gabunganKata":["menjaring bibit muda"],"peribahasa":["menjaring angin","sia-sia menjaring angin, terasa ada, tertangkap tidak"],"idiom":[]}}]}
+{
+  "word": "menjaring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33590",
+      "nama": "men.ja.ring",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menangkap ikan dan sebagainya dengan jaring",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk ke dalam jala (tentang bola dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bola ~ di sebelah kanan gawangnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperoleh; menemukan; menyeleksi; menangkap",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jaring",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menjaring bibit muda"
+        ],
+        "peribahasa": [
+          "menjaring angin",
+          "sia-sia menjaring angin, terasa ada, tertangkap tidak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

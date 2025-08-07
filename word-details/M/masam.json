@@ -1,1 +1,67 @@
-{"word":"masam","authenticated":true,"entries":[{"id":"52540","nama":"ma.sam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"asam (rasa seperti rasa cuka atau buah asam)","contoh":[{"nomor":2,"teks":"buah ini -- rasanya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bersungut; merengut, tidak ramah (tentang muka) karena marah dan sebagainya","contoh":[{"nomor":2,"teks":"mukanya -- saja karena diolok-olok"}]}],"terkait":{"kataTurunan":["kemasam-masaman","kemasaman","memasam","pemasam","pemasaman","termasam"],"gabunganKata":[],"peribahasa":["lewat dari manis, masam, lewat dari harum, busuk"],"idiom":[]}}]}
+{
+  "word": "masam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52540",
+      "nama": "ma.sam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asam (rasa seperti rasa cuka atau buah asam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buah ini -- rasanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersungut; merengut, tidak ramah (tentang muka) karena marah dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mukanya -- saja karena diolok-olok"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemasam-masaman",
+          "kemasaman",
+          "memasam",
+          "pemasam",
+          "pemasaman",
+          "termasam"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "lewat dari manis, masam, lewat dari harum, busuk"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"word":"menyuntikkan","authenticated":true,"entries":[{"id":"79950","nama":"me.nyun.tik.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasukkan cairan obat dan sebagainya dengan jarum","contoh":[{"nomor":2,"teks":"untuk mengatasi wabah itu dokter ~ serum ke dalam tubuh sapi yang sakit"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memberikan petunjuk (hasutan dan sebagainya)","contoh":[{"nomor":2,"teks":"sebelum menuju medan perang, komandan mengumpulkan anak buahnya untuk ~ keberanian"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menambah sesuatu (dana dan sebagainya) sebagai bantuan","contoh":[{"nomor":2,"teks":"~ dana"}]}],"rootWord":"suntik"}]}
+{
+  "word": "menyuntikkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79950",
+      "nama": "me.nyun.tik.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasukkan cairan obat dan sebagainya dengan jarum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk mengatasi wabah itu dokter ~ serum ke dalam tubuh sapi yang sakit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan petunjuk (hasutan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum menuju medan perang, komandan mengumpulkan anak buahnya untuk ~ keberanian"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menambah sesuatu (dana dan sebagainya) sebagai bantuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ dana"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suntik"
+    }
+  ]
+}

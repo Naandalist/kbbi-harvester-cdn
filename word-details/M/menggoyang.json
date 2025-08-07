@@ -1,1 +1,73 @@
-{"word":"menggoyang","authenticated":true,"entries":[{"id":"27385","nama":"meng.go.yang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggeleng; mengayun","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerakkan hingga bergoyang; mengguncang(kan); mengayunkan; melambai(-lambaikan)","contoh":[{"nomor":2,"teks":"ia ~ buaian itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyebabkan (menjadikan) tidak tetap","contoh":[{"nomor":2,"teks":"banyak faktor yang ~ kedudukannya"}]}],"rootWord":"goyang","terkait":{"kataTurunan":[],"gabunganKata":["menggoyang lidah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menggoyang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27385",
+      "nama": "meng.go.yang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggeleng; mengayun",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerakkan hingga bergoyang; mengguncang(kan); mengayunkan; melambai(-lambaikan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ buaian itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan (menjadikan) tidak tetap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak faktor yang ~ kedudukannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "goyang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menggoyang lidah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

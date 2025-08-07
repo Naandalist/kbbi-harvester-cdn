@@ -1,1 +1,48 @@
-{"word":"mengipuk","authenticated":true,"entries":[{"id":"32334","nama":"meng.i.puk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyemaikan (benih dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengusahakan supaya gembira, tenteram, dan sebagainya (tentang hati, perasaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ hati anak istri adalah kewajiban suami dalam keadaan yang serba sulit"}]}],"rootWord":"ipuk"}]}
+{
+  "word": "mengipuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32334",
+      "nama": "meng.i.puk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyemaikan (benih dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengusahakan supaya gembira, tenteram, dan sebagainya (tentang hati, perasaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hati anak istri adalah kewajiban suami dalam keadaan yang serba sulit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ipuk"
+    }
+  ]
+}

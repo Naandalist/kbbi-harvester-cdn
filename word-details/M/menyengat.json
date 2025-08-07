@@ -1,1 +1,92 @@
-{"word":"menyengat","authenticated":true,"entries":[{"id":"74957","nama":"me.nye.ngat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menusuk dengan sengat; mengantup","contoh":[{"nomor":2,"teks":"seekor kalajengking ~ dengan ekornya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memberikan rasa seperti tertusuk","contoh":[{"nomor":2,"teks":"sinar matahari ~ kulit"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menusuk; tajam (tentang kata-kata, sindiran, dan sebagainya)","contoh":[{"nomor":2,"teks":"kata-katanya ~ telingaku"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguar dengan sangat (tentang bau seperti bau durian atau nangka)","contoh":[{"nomor":2,"teks":"tamu hotel dilarang membawa durian karena baunya yang ~"}]}],"rootWord":"sengat"}]}
+{
+  "word": "menyengat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74957",
+      "nama": "me.nye.ngat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusuk dengan sengat; mengantup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seekor kalajengking ~ dengan ekornya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan rasa seperti tertusuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sinar matahari ~ kulit"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusuk; tajam (tentang kata-kata, sindiran, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-katanya ~ telingaku"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguar dengan sangat (tentang bau seperti bau durian atau nangka)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tamu hotel dilarang membawa durian karena baunya yang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sengat"
+    }
+  ]
+}

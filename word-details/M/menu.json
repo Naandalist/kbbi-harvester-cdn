@@ -1,1 +1,69 @@
-{"word":"menu","authenticated":true,"entries":[{"id":"53682","nama":"me.nu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daftar atau rangkaian jenis makanan dan minuman yang tersedia dan dapat dihidangkan","contoh":[{"nomor":2,"teks":"--nya sesuai dengan seleraku"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"daftar perintah atau pilihan yang terdapat pada layar monitor komputer","contoh":[]}],"terkait":{"kataTurunan":["bermenu"],"gabunganKata":["menu anak-anak","menu batang","menu empat bintang","menu gantung pintu","menu hierarkis","menu karyawan","menu kombinasi","menu layanan kamar","menu layar penuh","menu navigasi","menu sembul","menu set","menu tunggal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53682",
+      "nama": "me.nu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daftar atau rangkaian jenis makanan dan minuman yang tersedia dan dapat dihidangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya sesuai dengan seleraku"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daftar perintah atau pilihan yang terdapat pada layar monitor komputer",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermenu"
+        ],
+        "gabunganKata": [
+          "menu anak-anak",
+          "menu batang",
+          "menu empat bintang",
+          "menu gantung pintu",
+          "menu hierarkis",
+          "menu karyawan",
+          "menu kombinasi",
+          "menu layanan kamar",
+          "menu layar penuh",
+          "menu navigasi",
+          "menu sembul",
+          "menu set",
+          "menu tunggal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

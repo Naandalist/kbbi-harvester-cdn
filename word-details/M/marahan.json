@@ -1,1 +1,60 @@
-{"word":"marahan","authenticated":true,"entries":[{"id":"52283","nama":"ma.rah.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"tidak mau bergaul dan sebagainya karena marah","contoh":[]}],"rootWord":"marah¹"},{"id":"258995","nama":"ma.ra.han","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bkt","nama":"Bakatik","tipe":"lainnya"}],"definisi":"menggoda perempuan atau istri orang lain","contoh":[{"nomor":2,"teks":"dia kena hukum adat karena --"}]}]}]}
+{
+  "word": "marahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52283",
+      "nama": "ma.rah.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidak mau bergaul dan sebagainya karena marah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "marah¹"
+    },
+    {
+      "id": "258995",
+      "nama": "ma.ra.han",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bkt",
+              "nama": "Bakatik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggoda perempuan atau istri orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia kena hukum adat karena --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

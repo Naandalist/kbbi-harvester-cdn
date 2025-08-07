@@ -1,1 +1,64 @@
-{"word":"meruah","authenticated":true,"entries":[{"id":"69981","nama":"me.ru.ah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencurah; melimpah ruah","contoh":[]}],"rootWord":"ruah¹"},{"id":"69984","nama":"me.ru.ah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanggil (dari jauh); menyeru","contoh":[{"nomor":2,"teks":"ketua rombongan ~ anak buahnya untuk berkumpul"}]}],"rootWord":"ruah²"},{"id":"53907","nama":"me.ru.ah","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ muruah","contoh":[]}]}]}
+{
+  "word": "meruah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69981",
+      "nama": "me.ru.ah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencurah; melimpah ruah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ruah¹"
+    },
+    {
+      "id": "69984",
+      "nama": "me.ru.ah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanggil (dari jauh); menyeru",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketua rombongan ~ anak buahnya untuk berkumpul"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ruah²"
+    },
+    {
+      "id": "53907",
+      "nama": "me.ru.ah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ muruah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,82 @@
-{"word":"menegur","authenticated":true,"entries":[{"id":"83646","nama":"me.ne.gur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengajak bercakap-cakap (bertanya dan sebagainya); menyapa","contoh":[{"nomor":2,"teks":"sudah tiga hari ia tidak ~ saya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencela; mengkritik","contoh":[{"nomor":2,"teks":"ia tidak segan-segan ~ perbuatan anaknya yang keliru"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperingatkan; menasihatkan","contoh":[{"nomor":2,"teks":"saya ~nya sebab ia tidak mau melunasi utangnya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengganggu (tentang setan, hantu)","contoh":[{"nomor":2,"teks":"jangan bermain di bawah beringin itu, nanti ada yang ~mu"}]}],"rootWord":"tegur"}]}
+{
+  "word": "menegur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83646",
+      "nama": "me.ne.gur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengajak bercakap-cakap (bertanya dan sebagainya); menyapa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah tiga hari ia tidak ~ saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencela; mengkritik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak segan-segan ~ perbuatan anaknya yang keliru"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperingatkan; menasihatkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~nya sebab ia tidak mau melunasi utangnya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengganggu (tentang setan, hantu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan bermain di bawah beringin itu, nanti ada yang ~mu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tegur"
+    }
+  ]
+}

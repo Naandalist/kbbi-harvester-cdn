@@ -1,1 +1,76 @@
-{"word":"meletakkan","authenticated":true,"entries":[{"id":"48960","nama":"me.le.tak.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menempatkan; menaruh","contoh":[{"nomor":2,"teks":"ia ~ buku-bukunya di atas meja"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak melaksanakan lagi; melepaskan","contoh":[{"nomor":2,"teks":"karena gagal dalam pemerintahannya, perdana menteri itu ~ jabatan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menetapkan","contoh":[{"nomor":2,"teks":"pemerintah telah ~ undang-undang perpajakan terhadap barang-barang mewah"}]}],"rootWord":"letak","terkait":{"kataTurunan":[],"gabunganKata":["meletakkan batu pertama","meletakkan senjata"],"peribahasa":["meletakkan api di bubungan"],"idiom":[]}}]}
+{
+  "word": "meletakkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48960",
+      "nama": "me.le.tak.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menempatkan; menaruh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ buku-bukunya di atas meja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak melaksanakan lagi; melepaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena gagal dalam pemerintahannya, perdana menteri itu ~ jabatan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menetapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah telah ~ undang-undang perpajakan terhadap barang-barang mewah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "letak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "meletakkan batu pertama",
+          "meletakkan senjata"
+        ],
+        "peribahasa": [
+          "meletakkan api di bubungan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

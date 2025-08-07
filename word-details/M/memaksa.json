@@ -1,1 +1,48 @@
-{"word":"memaksa","authenticated":true,"entries":[{"id":"59256","nama":"me.mak.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperlakukan, menyuruh, meminta dengan paksa","contoh":[{"nomor":2,"teks":"para pembajak ~ pilot mendaratkan pesawatnya di pelabuhan udara itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat dengan kekerasan (mendesak, menekan); memerkosa","contoh":[{"nomor":2,"teks":"sudah dilarang masuk, tetapi mereka ~ juga"}]}],"rootWord":"paksa¹"}]}
+{
+  "word": "memaksa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59256",
+      "nama": "me.mak.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperlakukan, menyuruh, meminta dengan paksa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para pembajak ~ pilot mendaratkan pesawatnya di pelabuhan udara itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat dengan kekerasan (mendesak, menekan); memerkosa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah dilarang masuk, tetapi mereka ~ juga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "paksa¹"
+    }
+  ]
+}

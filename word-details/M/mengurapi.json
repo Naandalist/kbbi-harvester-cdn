@@ -1,1 +1,75 @@
-{"word":"mengurapi","authenticated":true,"entries":[{"id":"89997","nama":"meng.u.rap.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melumasi badan dengan urap (boreh dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengolesi; melumasi","contoh":[{"nomor":2,"teks":"~ bibir si sakit dengan teh manis"}]}],"rootWord":"urap¹"},{"id":"90002","nama":"meng.u.rap.i","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguduskan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi urapan","contoh":[]}],"rootWord":"urap³"}]}
+{
+  "word": "mengurapi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89997",
+      "nama": "meng.u.rap.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melumasi badan dengan urap (boreh dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengolesi; melumasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bibir si sakit dengan teh manis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urap¹"
+    },
+    {
+      "id": "90002",
+      "nama": "meng.u.rap.i",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguduskan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi urapan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "urap³"
+    }
+  ]
+}

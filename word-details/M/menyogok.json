@@ -1,1 +1,57 @@
-{"word":"menyogok","authenticated":true,"entries":[{"id":"78250","nama":"me.nyo.gok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merogoh; mencolok; menjolok (ke dalam liang dan sebagainya)","contoh":[{"nomor":2,"teks":"Ayah ~ tekak Adik supaya muntah"},{"nomor":4,"teks":"petugas itu sedang ~ saluran air dalam pipa yang mampat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyuap; memberi suap","contoh":[{"nomor":2,"teks":"dana yang sangat besar digunakan untuk ~ para petugas"}]}],"rootWord":"sogok"}]}
+{
+  "word": "menyogok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78250",
+      "nama": "me.nyo.gok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merogoh; mencolok; menjolok (ke dalam liang dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Ayah ~ tekak Adik supaya muntah"
+            },
+            {
+              "nomor": 4,
+              "teks": "petugas itu sedang ~ saluran air dalam pipa yang mampat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuap; memberi suap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dana yang sangat besar digunakan untuk ~ para petugas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sogok"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"mengiler","authenticated":true,"entries":[{"id":"31109","nama":"meng.i.ler","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan air liur","contoh":[{"nomor":2,"teks":"anak saya ~ waktu tidur karena giginya rusak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berselera; ingin sekali","contoh":[{"nomor":2,"teks":"saya ~ melihat pepes ikan yang dihidangkan itu"}]}],"rootWord":"iler"}]}
+{
+  "word": "mengiler",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31109",
+      "nama": "meng.i.ler",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan air liur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak saya ~ waktu tidur karena giginya rusak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berselera; ingin sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ melihat pepes ikan yang dihidangkan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "iler"
+    }
+  ]
+}

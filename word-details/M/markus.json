@@ -1,1 +1,54 @@
-{"word":"markus","authenticated":true,"entries":[{"id":"93301","nama":"mar.kus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"makelar kasus","contoh":[]}]},{"id":"109195","nama":"Mar.kus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"nama kitab Injil kedua dalam Alkitab Perjanjian Baru","contoh":[]}]}]}
+{
+  "word": "markus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93301",
+      "nama": "mar.kus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makelar kasus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "109195",
+      "nama": "Mar.kus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nama kitab Injil kedua dalam Alkitab Perjanjian Baru",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

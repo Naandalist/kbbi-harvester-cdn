@@ -1,1 +1,254 @@
-{"word":"masak","authenticated":true,"entries":[{"id":"52501","nama":"ma.sak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sudah tua dan sampai waktunya untuk dipetik, dimakan, dan sebagainya (tentang buah-buahan)","contoh":[{"nomor":2,"teks":"durian ini -- di pohon bukan -- karena diperam"},{"nomor":4,"teks":"jangan memetik mangga yang belum --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sudah matang (empuk, jadi) dan sampai waktunya untuk diambil, diangkat, dan sebagainya (tentang makanan)","contoh":[{"nomor":2,"teks":"nasi sudah --, makanlah dulu"},{"nomor":4,"teks":"adonan ini belum --"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sudah selesai dikerjakan (dididik dan sebagainya); sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui) bersama; sudah sempurna; sudah pada tingkatan yang terbaik (terakhir)","contoh":[{"nomor":2,"teks":"dia pemuda yang sudah -- sehingga dapat berpikir (bekerja) secara baik"},{"nomor":4,"teks":"perkara yang sudah -- jangan diulang-ulang lagi"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"matang (dalam berpikir)","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memasak","contoh":[]}],"terkait":{"kataTurunan":["bermasak-masak","kemasakan","masak-masak","masak-memasak","masakan","memasak","memasak-masak","memasakkan","pemasak","pemasakan"],"gabunganKata":["masak air","masak ajar","masak akal","masak besar","masak dini","masak kelamin","masak lambat","masak lum","masak masai","masak niat","masak peraman","masak pohon","masak pote","masak sambal","masak sekolah","masak tangan","masak tebang","masak timbangan","masak tumis"],"peribahasa":["bagai pisang masak separak","baik berjagung-jagung, sementara padi belum masak","celaka malang berayam, padi masak makan ke hutan","ingin buah manggis hutan, masak ranum tergantung tinggi","limau masak sebelah, perahu karam sekerat","makan masak mentah","masak buah rumbia","masak di luar, mentah di dalam","masak malam, mentah pagi (siang)","padi masak, jagung mengupih","sambil berdiang, nasi masak","seperti buah masak seulas","seperti limau masak seulas","seperti terung masak serumpun"],"idiom":[]}},{"id":"52528","nama":"ma.sak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mana boleh; masa","contoh":[]}],"terkait":{"kataTurunan":["masakan"],"gabunganKata":[],"peribahasa":["bagai pisang masak separak","baik berjagung-jagung, sementara padi belum masak","celaka malang berayam, padi masak makan ke hutan","ingin buah manggis hutan, masak ranum tergantung tinggi","limau masak sebelah, perahu karam sekerat","makan masak mentah","masak buah rumbia","masak di luar, mentah di dalam","masak malam, mentah pagi (siang)","padi masak, jagung mengupih","sambil berdiang, nasi masak","seperti buah masak seulas","seperti limau masak seulas","seperti terung masak serumpun"],"idiom":[]}},{"id":"155366","nama":"ma.sak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"menanam biji-bijian (di sawah atau kebun) dengan cara memasukkannya ke dalam tanah yang dilubangi menggunakan cangkul atau alat yang dibuat dari kayu yang ujungnya runcing","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai pisang masak separak","baik berjagung-jagung, sementara padi belum masak","celaka malang berayam, padi masak makan ke hutan","ingin buah manggis hutan, masak ranum tergantung tinggi","limau masak sebelah, perahu karam sekerat","makan masak mentah","masak buah rumbia","masak di luar, mentah di dalam","masak malam, mentah pagi (siang)","padi masak, jagung mengupih","sambil berdiang, nasi masak","seperti buah masak seulas","seperti limau masak seulas","seperti terung masak serumpun"],"idiom":[]}}]}
+{
+  "word": "masak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52501",
+      "nama": "ma.sak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah tua dan sampai waktunya untuk dipetik, dimakan, dan sebagainya (tentang buah-buahan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "durian ini -- di pohon bukan -- karena diperam"
+            },
+            {
+              "nomor": 4,
+              "teks": "jangan memetik mangga yang belum --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah matang (empuk, jadi) dan sampai waktunya untuk diambil, diangkat, dan sebagainya (tentang makanan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasi sudah --, makanlah dulu"
+            },
+            {
+              "nomor": 4,
+              "teks": "adonan ini belum --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah selesai dikerjakan (dididik dan sebagainya); sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui) bersama; sudah sempurna; sudah pada tingkatan yang terbaik (terakhir)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia pemuda yang sudah -- sehingga dapat berpikir (bekerja) secara baik"
+            },
+            {
+              "nomor": 4,
+              "teks": "perkara yang sudah -- jangan diulang-ulang lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "matang (dalam berpikir)",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermasak-masak",
+          "kemasakan",
+          "masak-masak",
+          "masak-memasak",
+          "masakan",
+          "memasak",
+          "memasak-masak",
+          "memasakkan",
+          "pemasak",
+          "pemasakan"
+        ],
+        "gabunganKata": [
+          "masak air",
+          "masak ajar",
+          "masak akal",
+          "masak besar",
+          "masak dini",
+          "masak kelamin",
+          "masak lambat",
+          "masak lum",
+          "masak masai",
+          "masak niat",
+          "masak peraman",
+          "masak pohon",
+          "masak pote",
+          "masak sambal",
+          "masak sekolah",
+          "masak tangan",
+          "masak tebang",
+          "masak timbangan",
+          "masak tumis"
+        ],
+        "peribahasa": [
+          "bagai pisang masak separak",
+          "baik berjagung-jagung, sementara padi belum masak",
+          "celaka malang berayam, padi masak makan ke hutan",
+          "ingin buah manggis hutan, masak ranum tergantung tinggi",
+          "limau masak sebelah, perahu karam sekerat",
+          "makan masak mentah",
+          "masak buah rumbia",
+          "masak di luar, mentah di dalam",
+          "masak malam, mentah pagi (siang)",
+          "padi masak, jagung mengupih",
+          "sambil berdiang, nasi masak",
+          "seperti buah masak seulas",
+          "seperti limau masak seulas",
+          "seperti terung masak serumpun"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52528",
+      "nama": "ma.sak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mana boleh; masa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "masakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pisang masak separak",
+          "baik berjagung-jagung, sementara padi belum masak",
+          "celaka malang berayam, padi masak makan ke hutan",
+          "ingin buah manggis hutan, masak ranum tergantung tinggi",
+          "limau masak sebelah, perahu karam sekerat",
+          "makan masak mentah",
+          "masak buah rumbia",
+          "masak di luar, mentah di dalam",
+          "masak malam, mentah pagi (siang)",
+          "padi masak, jagung mengupih",
+          "sambil berdiang, nasi masak",
+          "seperti buah masak seulas",
+          "seperti limau masak seulas",
+          "seperti terung masak serumpun"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "155366",
+      "nama": "ma.sak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menanam biji-bijian (di sawah atau kebun) dengan cara memasukkannya ke dalam tanah yang dilubangi menggunakan cangkul atau alat yang dibuat dari kayu yang ujungnya runcing",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pisang masak separak",
+          "baik berjagung-jagung, sementara padi belum masak",
+          "celaka malang berayam, padi masak makan ke hutan",
+          "ingin buah manggis hutan, masak ranum tergantung tinggi",
+          "limau masak sebelah, perahu karam sekerat",
+          "makan masak mentah",
+          "masak buah rumbia",
+          "masak di luar, mentah di dalam",
+          "masak malam, mentah pagi (siang)",
+          "padi masak, jagung mengupih",
+          "sambil berdiang, nasi masak",
+          "seperti buah masak seulas",
+          "seperti limau masak seulas",
+          "seperti terung masak serumpun"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

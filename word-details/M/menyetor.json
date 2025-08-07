@@ -1,1 +1,31 @@
-{"word":"menyetor","authenticated":true,"entries":[{"id":"76508","nama":"me.nye.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar; memasukkan; menyerahkan","contoh":[{"nomor":2,"teks":"perusahaan itu harus ~ pajak 10% dari hasil labanya setiap tahun"}]}],"rootWord":"setor"}]}
+{
+  "word": "menyetor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76508",
+      "nama": "me.nye.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar; memasukkan; menyerahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perusahaan itu harus ~ pajak 10% dari hasil labanya setiap tahun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "setor"
+    }
+  ]
+}

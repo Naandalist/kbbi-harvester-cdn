@@ -1,1 +1,48 @@
-{"word":"mempelajari","authenticated":true,"entries":[{"id":"1380","nama":"mem.pel.a.jar.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"belajar (sesuatu) dengan sungguh-sungguh; mendalami (sesuatu)","contoh":[{"nomor":2,"teks":"saya akan ~ ilmu akupunktur"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menelaah; menyelidiki","contoh":[{"nomor":2,"teks":"kami sedang ~ rancangan anggaran dasar"}]}],"rootWord":"ajar¹"}]}
+{
+  "word": "mempelajari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1380",
+      "nama": "mem.pel.a.jar.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belajar (sesuatu) dengan sungguh-sungguh; mendalami (sesuatu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya akan ~ ilmu akupunktur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menelaah; menyelidiki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami sedang ~ rancangan anggaran dasar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ajar¹"
+    }
+  ]
+}

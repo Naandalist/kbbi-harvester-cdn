@@ -1,1 +1,70 @@
-{"word":"memberaki","authenticated":true,"entries":[{"id":"10473","nama":"mem.be.rak.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengotori sesuatu dengan buang air besar di tempat itu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengakali (menipu dan sebagainya)","contoh":[{"nomor":2,"teks":"hati-hati dia suka ~ temannya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencemarkan; merendahkan","contoh":[{"nomor":2,"teks":"ia telah ~ keluarga dengan tindakan yang tidak terpuji"}]}],"rootWord":"berak"}]}
+{
+  "word": "memberaki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10473",
+      "nama": "mem.be.rak.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengotori sesuatu dengan buang air besar di tempat itu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengakali (menipu dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati-hati dia suka ~ temannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencemarkan; merendahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia telah ~ keluarga dengan tindakan yang tidak terpuji"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berak"
+    }
+  ]
+}

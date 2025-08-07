@@ -1,1 +1,48 @@
-{"word":"melayang-layang","authenticated":true,"entries":[{"id":"47488","nama":"me.la.yang-la.yang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melayang sambil bergerak ke sana kemari; melayang dengan berputar-putar","contoh":[{"nomor":2,"teks":"burung elang itu ~ di udara sebelum menyambar anak ayam"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak keruan (tentang pikiran, perkataan, dan sebagainya); tidak tentu arah","contoh":[{"nomor":2,"teks":"pikirannya ~ ketika ia ditanya"}]}],"rootWord":"layang¹"}]}
+{
+  "word": "melayang-layang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47488",
+      "nama": "me.la.yang-la.yang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melayang sambil bergerak ke sana kemari; melayang dengan berputar-putar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "burung elang itu ~ di udara sebelum menyambar anak ayam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak keruan (tentang pikiran, perkataan, dan sebagainya); tidak tentu arah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pikirannya ~ ketika ia ditanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "layang¹"
+    }
+  ]
+}

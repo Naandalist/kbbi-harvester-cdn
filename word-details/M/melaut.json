@@ -1,1 +1,68 @@
-{"word":"melaut","authenticated":true,"entries":[{"id":"47358","nama":"me.la.ut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menyerupai (sebagai) laut","contoh":[{"nomor":2,"teks":"akibat banjir besar, sawah-sawah di daerah itu ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pergi ke laut; berlayar","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencari ikan di laut","contoh":[{"nomor":2,"teks":"ia menjual sebagian hasil ~ untuk membeli beras"}]}],"rootWord":"laut¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tak sungguh seluang melaut, (akhirnya balik ke tepi juga)"],"idiom":[]}}]}
+{
+  "word": "melaut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47358",
+      "nama": "me.la.ut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai (sebagai) laut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akibat banjir besar, sawah-sawah di daerah itu ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pergi ke laut; berlayar",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari ikan di laut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menjual sebagian hasil ~ untuk membeli beras"
+            }
+          ]
+        }
+      ],
+      "rootWord": "laut¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tak sungguh seluang melaut, (akhirnya balik ke tepi juga)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

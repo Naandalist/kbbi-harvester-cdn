@@ -1,1 +1,100 @@
-{"word":"merisik","authenticated":true,"entries":[{"id":"69533","nama":"me.ri.sik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meraba-raba (ke dalam saku dan sebagainya)","contoh":[{"nomor":2,"teks":"dia ~ sakunya ketika melihat seorang pengemis"}]}],"rootWord":"risik¹"},{"id":"69535","nama":"me.ri.sik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan penyelidikan pendahuluan (dengan sembunyi-sembunyi)","contoh":[{"nomor":2,"teks":"sebelum meminang, kami ~ terlebih dulu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelidiki berhasil tidaknya pinangan; menyuruh orang menyampaikan pinangan","contoh":[]}],"rootWord":"risik²"},{"id":"69538","nama":"me.ri.sik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerisik (berbunyi seperti daun tertiup angin)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbisik-bisik","contoh":[]}],"rootWord":"risik³"}]}
+{
+  "word": "merisik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69533",
+      "nama": "me.ri.sik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meraba-raba (ke dalam saku dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ sakunya ketika melihat seorang pengemis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "risik¹"
+    },
+    {
+      "id": "69535",
+      "nama": "me.ri.sik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan penyelidikan pendahuluan (dengan sembunyi-sembunyi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum meminang, kami ~ terlebih dulu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelidiki berhasil tidaknya pinangan; menyuruh orang menyampaikan pinangan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "risik²"
+    },
+    {
+      "id": "69538",
+      "nama": "me.ri.sik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerisik (berbunyi seperti daun tertiup angin)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbisik-bisik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "risik³"
+    }
+  ]
+}

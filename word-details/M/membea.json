@@ -1,1 +1,31 @@
-{"word":"membea","authenticated":true,"entries":[{"id":"9186","nama":"mem.be.a","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenakan bea","contoh":[{"nomor":2,"teks":"petugas bea cukai wajib ~ barang yang masuk dari luar negeri"}]}],"rootWord":"bea¹"}]}
+{
+  "word": "membea",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9186",
+      "nama": "mem.be.a",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenakan bea",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petugas bea cukai wajib ~ barang yang masuk dari luar negeri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bea¹"
+    }
+  ]
+}

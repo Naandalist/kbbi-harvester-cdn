@@ -1,1 +1,53 @@
-{"word":"memberangkatkan","authenticated":true,"entries":[{"id":"10513","nama":"mem.be.rang.kat.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melepas(kan) supaya berangkat","contoh":[{"nomor":2,"teks":"kepala stasiun akan segera ~ kereta jurusan Bogor"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"membawa berangkat","contoh":[{"nomor":2,"teks":"mereka siap ~ kendaraannya"}]}],"rootWord":"berangkat"}]}
+{
+  "word": "memberangkatkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10513",
+      "nama": "mem.be.rang.kat.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melepas(kan) supaya berangkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kepala stasiun akan segera ~ kereta jurusan Bogor"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa berangkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka siap ~ kendaraannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berangkat"
+    }
+  ]
+}

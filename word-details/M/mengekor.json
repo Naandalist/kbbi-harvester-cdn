@@ -1,1 +1,65 @@
-{"word":"mengekor","authenticated":true,"entries":[{"id":"21301","nama":"meng.e.kor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergantung (berjuntai) seperti ekor","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikuti atau menyertai dari belakang; membuntuti","contoh":[{"nomor":2,"teks":"aku ~ abangku"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikuti pendapat (tingkah laku dan sebagainya) orang lain tanpa mempunyai pendapat sendiri","contoh":[{"nomor":2,"teks":"dia selalu menjilat dengan cara ~ pendapat orang lain"}]}],"rootWord":"ekor"}]}
+{
+  "word": "mengekor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21301",
+      "nama": "meng.e.kor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergantung (berjuntai) seperti ekor",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikuti atau menyertai dari belakang; membuntuti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku ~ abangku"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikuti pendapat (tingkah laku dan sebagainya) orang lain tanpa mempunyai pendapat sendiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia selalu menjilat dengan cara ~ pendapat orang lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ekor"
+    }
+  ]
+}

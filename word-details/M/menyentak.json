@@ -1,1 +1,68 @@
-{"word":"menyentak","authenticated":true,"entries":[{"id":"75270","nama":"me.nyen.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menarik kuat-kuat; mencabut (keris, pedang, dan sebagainya); merenggut","contoh":[{"nomor":2,"teks":"tiba-tiba ikan besar ~ tali kail itu"},{"nomor":4,"teks":"pencuri itu ~ kalung gadis itu hingga putus"}]}],"rootWord":"sentak¹","terkait":{"kataTurunan":[],"gabunganKata":["menyentak pedang"],"peribahasa":[],"idiom":[]}},{"id":"75277","nama":"me.nyen.tak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membentak; menghardik","contoh":[{"nomor":2,"teks":"guru yang biasa ~ murid-muridnya pasti tidak disenangi"}]}],"rootWord":"sentak²"}]}
+{
+  "word": "menyentak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75270",
+      "nama": "me.nyen.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menarik kuat-kuat; mencabut (keris, pedang, dan sebagainya); merenggut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba-tiba ikan besar ~ tali kail itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "pencuri itu ~ kalung gadis itu hingga putus"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sentak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menyentak pedang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "75277",
+      "nama": "me.nyen.tak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membentak; menghardik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru yang biasa ~ murid-muridnya pasti tidak disenangi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sentak²"
+    }
+  ]
+}

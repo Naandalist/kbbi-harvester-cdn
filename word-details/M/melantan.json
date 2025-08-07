@@ -1,1 +1,64 @@
-{"word":"melantan","authenticated":true,"entries":[{"id":"46792","nama":"me.lan.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjaga; memelihara","contoh":[{"nomor":2,"teks":"~ anak"},{"nomor":4,"teks":"~ badan"},{"nomor":6,"teks":"~ kain"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanjakan","contoh":[{"nomor":2,"teks":"Nenek selalu ~ cucunya"}]}],"rootWord":"lantan","terkait":{"kataTurunan":[],"gabunganKata":["melantan kain"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "melantan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46792",
+      "nama": "me.lan.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjaga; memelihara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ anak"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ badan"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ kain"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanjakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Nenek selalu ~ cucunya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lantan",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "melantan kain"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

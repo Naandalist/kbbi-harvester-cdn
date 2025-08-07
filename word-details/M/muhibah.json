@@ -1,1 +1,78 @@
-{"word":"muhibah","authenticated":true,"entries":[{"id":"55372","nama":"mu.hi.bah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cinta kasih; mahabah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perasaan persahabatan dan kasih","contoh":[{"nomor":2,"teks":"misi --"}]}],"etimologi":{"text":"[Arab مُحِبَّةٌ muḥibbah n sg f 'wanita yang mencintai']","languages":["Arab"]}},{"id":"55373","nama":"mu.hi.bah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Man","nama":"Manajemen","tipe":"lainnya"}],"definisi":"harta yang tidak berwujud dari suatu perusahaan yang ditaksir sebagai nilai tambahan dari perusahaan itu, misalnya nama baik dan ketenaran perusahaan itu","contoh":[]}],"etimologi":{"text":"[Arab مُحِبَّةٌ muḥibbah n sg f 'wanita yang mencintai']","languages":["Arab"]}}]}
+{
+  "word": "muhibah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55372",
+      "nama": "mu.hi.bah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cinta kasih; mahabah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perasaan persahabatan dan kasih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "misi --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُحِبَّةٌ muḥibbah n sg f 'wanita yang mencintai']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "55373",
+      "nama": "mu.hi.bah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Man",
+              "nama": "Manajemen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "harta yang tidak berwujud dari suatu perusahaan yang ditaksir sebagai nilai tambahan dari perusahaan itu, misalnya nama baik dan ketenaran perusahaan itu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُحِبَّةٌ muḥibbah n sg f 'wanita yang mencintai']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"melansir","authenticated":true,"entries":[{"id":"46754","nama":"me.lan.sir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melancarkan; menyiarkan; mengabarkan","contoh":[{"nomor":2,"teks":"surat izin terbit surat kabar itu dicabut karena telah ~ berita yang tidak dapat dipertanggungjawabkan"}]}],"rootWord":"lansir²"},{"id":"46761","nama":"me.lan.sir","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"membagi sama banyak","contoh":[]}],"rootWord":"lansir³"}]}
+{
+  "word": "melansir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46754",
+      "nama": "me.lan.sir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melancarkan; menyiarkan; mengabarkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "surat izin terbit surat kabar itu dicabut karena telah ~ berita yang tidak dapat dipertanggungjawabkan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lansir²"
+    },
+    {
+      "id": "46761",
+      "nama": "me.lan.sir",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membagi sama banyak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lansir³"
+    }
+  ]
+}

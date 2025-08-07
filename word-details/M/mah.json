@@ -1,1 +1,59 @@
-{"word":"mah","authenticated":true,"entries":[{"id":"51017","nama":"mah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"maha (misalnya mahraja, maharaja)","contoh":[]}]},{"id":"51018","nama":"mah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kata untuk menyatakan penegasan ucapan, biasanya digunakan setelah kata ganti orang; sih","contoh":[{"nomor":2,"teks":"dia -- jarang di rumah"}]}]}]}
+{
+  "word": "mah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51017",
+      "nama": "mah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maha (misalnya mahraja, maharaja)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "51018",
+      "nama": "mah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata untuk menyatakan penegasan ucapan, biasanya digunakan setelah kata ganti orang; sih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- jarang di rumah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

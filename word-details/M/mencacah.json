@@ -1,1 +1,100 @@
-{"word":"mencacah","authenticated":true,"entries":[{"id":"13993","nama":"men.ca.cah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menembuk-nembuk (mencocok-cocok) dengan jarum atau barang yang tajam atau runcing","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat gambar pada kulit dengan melukai atau mencocok-cocok dengan barang yang tajam atau runcing kemudian diberi warna; menato","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"menyuntik; menginjeksi","contoh":[]}],"rootWord":"cacah¹"},{"id":"14002","nama":"men.ca.cah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencencang (daging dan sebagainya) halus-halus","contoh":[{"nomor":2,"teks":"ia sedang ~ daging untuk membuat perkedel"}]}],"rootWord":"cacah²"},{"id":"14009","nama":"men.ca.cah","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjumlah","contoh":[]}],"rootWord":"cacah⁴"}]}
+{
+  "word": "mencacah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13993",
+      "nama": "men.ca.cah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menembuk-nembuk (mencocok-cocok) dengan jarum atau barang yang tajam atau runcing",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat gambar pada kulit dengan melukai atau mencocok-cocok dengan barang yang tajam atau runcing kemudian diberi warna; menato",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuntik; menginjeksi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cacah¹"
+    },
+    {
+      "id": "14002",
+      "nama": "men.ca.cah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencencang (daging dan sebagainya) halus-halus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ daging untuk membuat perkedel"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cacah²"
+    },
+    {
+      "id": "14009",
+      "nama": "men.ca.cah",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjumlah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cacah⁴"
+    }
+  ]
+}

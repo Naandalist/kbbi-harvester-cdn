@@ -1,1 +1,91 @@
-{"word":"menyerah","authenticated":true,"entries":[{"id":"75637","nama":"me.nye.rah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berserah; pasrah","contoh":[{"nomor":2,"teks":"kita tidak mampu berbuat apa-apa selain dari ~ kepada Tuhan Yang Maha Kuasa"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberikan dirinya kepada yang berwenang","contoh":[{"nomor":2,"teks":"anggota gerombolan yang ~ akan diampuni"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menurut saja (sekehendak orang); tidak melawan","contoh":[{"nomor":2,"teks":"pendek kata, saya ~ saja dan bersedia melakukan apa pun"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengaku kalah; tunduk (tidak akan melawan lagi)","contoh":[{"nomor":2,"teks":"mereka tidak mau ~ mentah-mentah"},{"nomor":4,"teks":"sesudah habis pelurunya, barulah mereka ~ kalah"}]}],"rootWord":"serah¹"}]}
+{
+  "word": "menyerah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75637",
+      "nama": "me.nye.rah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berserah; pasrah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita tidak mampu berbuat apa-apa selain dari ~ kepada Tuhan Yang Maha Kuasa"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan dirinya kepada yang berwenang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anggota gerombolan yang ~ akan diampuni"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurut saja (sekehendak orang); tidak melawan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pendek kata, saya ~ saja dan bersedia melakukan apa pun"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengaku kalah; tunduk (tidak akan melawan lagi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka tidak mau ~ mentah-mentah"
+            },
+            {
+              "nomor": 4,
+              "teks": "sesudah habis pelurunya, barulah mereka ~ kalah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "serah¹"
+    }
+  ]
+}

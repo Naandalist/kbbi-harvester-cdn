@@ -1,1 +1,99 @@
-{"word":"meremas","authenticated":true,"entries":[{"id":"68459","nama":"me.re.mas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengepal-ngepal dan memerah-merah (kelapa, adonan)","contoh":[{"nomor":2,"teks":"~ tepung"},{"nomor":4,"teks":"~ kerupuk"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulas dan memerah (kain basah dan sebagainya); memeras","contoh":[{"nomor":2,"teks":"~ kain basah"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merenyukkan; mengumalkan","contoh":[{"nomor":2,"teks":"ia ~ surat itu, lalu dibuangnya ke keranjang sampah"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memijit-mijit; mengurut","contoh":[{"nomor":2,"teks":"ia ~ kakinya yang keram itu"}]}],"rootWord":"remas","terkait":{"kataTurunan":[],"gabunganKata":["meremas bibir","meremas jantung","meremas mulut","meremas perut"],"peribahasa":["meremas santan di kuku"],"idiom":[]}}]}
+{
+  "word": "meremas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68459",
+      "nama": "me.re.mas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengepal-ngepal dan memerah-merah (kelapa, adonan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tepung"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kerupuk"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulas dan memerah (kain basah dan sebagainya); memeras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kain basah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merenyukkan; mengumalkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ surat itu, lalu dibuangnya ke keranjang sampah"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memijit-mijit; mengurut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kakinya yang keram itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "remas",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "meremas bibir",
+          "meremas jantung",
+          "meremas mulut",
+          "meremas perut"
+        ],
+        "peribahasa": [
+          "meremas santan di kuku"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

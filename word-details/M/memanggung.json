@@ -1,1 +1,51 @@
-{"word":"memanggung","authenticated":true,"entries":[{"id":"59858","nama":"me.mang.gung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tampil (bernyanyi, bermain drama, dan sebagainya) di panggung; berpentas","contoh":[]}],"rootWord":"panggung¹"},{"id":"59864","nama":"me.mang.gung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersuara; berkicau (tentang burung ketitiran, balam)","contoh":[{"nomor":2,"teks":"perkutut itu sering ~ kalau sangkarnya ditaruh di halaman"}]}],"rootWord":"panggung²"}]}
+{
+  "word": "memanggung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59858",
+      "nama": "me.mang.gung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tampil (bernyanyi, bermain drama, dan sebagainya) di panggung; berpentas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "panggung¹"
+    },
+    {
+      "id": "59864",
+      "nama": "me.mang.gung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersuara; berkicau (tentang burung ketitiran, balam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkutut itu sering ~ kalau sangkarnya ditaruh di halaman"
+            }
+          ]
+        }
+      ],
+      "rootWord": "panggung²"
+    }
+  ]
+}

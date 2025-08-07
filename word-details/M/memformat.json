@@ -1,1 +1,35 @@
-{"word":"memformat","authenticated":true,"entries":[{"id":"109847","nama":"mem.for.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat format","contoh":[{"nomor":2,"teks":"mereka ~ teks menjadi kecil"},{"nomor":4,"teks":"parpol harus ~ ulang agenda politik"}]}],"rootWord":"format"}]}
+{
+  "word": "memformat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109847",
+      "nama": "mem.for.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat format",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ teks menjadi kecil"
+            },
+            {
+              "nomor": 4,
+              "teks": "parpol harus ~ ulang agenda politik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "format"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"memulut","authenticated":true,"entries":[{"id":"65856","nama":"me.mu.lut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggetah (burung dan sebagainya)","contoh":[{"nomor":2,"teks":"~ burung beo"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memikat hati; membujuk-bujuk","contoh":[{"nomor":2,"teks":"dengan uangnya yang banyak saudagar itu berhasil ~ janda muda itu"}]}],"rootWord":"pulut¹"}]}
+{
+  "word": "memulut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65856",
+      "nama": "me.mu.lut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggetah (burung dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ burung beo"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikat hati; membujuk-bujuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan uangnya yang banyak saudagar itu berhasil ~ janda muda itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pulut¹"
+    }
+  ]
+}

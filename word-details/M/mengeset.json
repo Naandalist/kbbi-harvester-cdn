@@ -1,1 +1,56 @@
-{"word":"mengeset","authenticated":true,"entries":[{"id":"41049","nama":"me.nge.set","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membeset; menguliti (binatang)","contoh":[{"nomor":2,"teks":"~ kambing yang telah disembelih"}]}],"rootWord":"keset"},{"id":"76357","nama":"me.nge.set","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menata, mengatur (tentang rambut, susunan huruf dalam mesin cetak, dan sebagainya)","contoh":[{"nomor":2,"teks":"sudah menjadi kebiasaannya, ia ~ rambut setiap pergi ke pesta"}]}],"rootWord":"set²"}]}
+{
+  "word": "mengeset",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41049",
+      "nama": "me.nge.set",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membeset; menguliti (binatang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kambing yang telah disembelih"
+            }
+          ]
+        }
+      ],
+      "rootWord": "keset"
+    },
+    {
+      "id": "76357",
+      "nama": "me.nge.set",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menata, mengatur (tentang rambut, susunan huruf dalam mesin cetak, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah menjadi kebiasaannya, ia ~ rambut setiap pergi ke pesta"
+            }
+          ]
+        }
+      ],
+      "rootWord": "set²"
+    }
+  ]
+}

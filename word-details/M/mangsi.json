@@ -1,1 +1,89 @@
-{"word":"mangsi","authenticated":true,"entries":[{"id":"52065","nama":"mang.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tinta; dawat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"tepung arang untuk menghitamkan gigi","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tarum","contoh":[]}],"etimologi":{"text":"[Sanskerta मसि masi n mf 'tinta']","languages":["Sanskerta"]}},{"id":"52066","nama":"mang.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat ikan","contoh":[]}],"etimologi":{"text":"[Sanskerta मसि masi n mf 'tinta']","languages":["Sanskerta"]}}]}
+{
+  "word": "mangsi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52065",
+      "nama": "mang.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinta; dawat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepung arang untuk menghitamkan gigi",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tarum",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta मसि masi n mf 'tinta']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    },
+    {
+      "id": "52066",
+      "nama": "mang.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat ikan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta मसि masi n mf 'tinta']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

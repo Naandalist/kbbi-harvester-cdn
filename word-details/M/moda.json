@@ -1,1 +1,67 @@
-{"word":"moda","authenticated":true,"entries":[{"id":"54828","nama":"mo.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk atau jenis (tentang transportasi)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["moda air","moda angkutan","moda darat","moda pertandingan","moda transportasi","moda udara"],"peribahasa":[],"idiom":[]}},{"id":"234667","nama":"mo.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ke","nama":"Kenyah","tipe":"lainnya"}],"definisi":"membelah perut ikan","contoh":[{"nomor":2,"teks":"ibu -- lalu membuang isinya"}]}]}]}
+{
+  "word": "moda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54828",
+      "nama": "mo.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk atau jenis (tentang transportasi)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "moda air",
+          "moda angkutan",
+          "moda darat",
+          "moda pertandingan",
+          "moda transportasi",
+          "moda udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "234667",
+      "nama": "mo.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ke",
+              "nama": "Kenyah",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membelah perut ikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- lalu membuang isinya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

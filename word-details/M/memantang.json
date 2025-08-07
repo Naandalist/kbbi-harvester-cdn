@@ -1,1 +1,48 @@
-{"word":"memantang","authenticated":true,"entries":[{"id":"60090","nama":"me.man.tang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(sengaja) tidak mau menggunakan (melakukan, memakan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia harus ~ garam supaya tekanan darahnya tidak naik"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menampik","contoh":[{"nomor":2,"teks":"ia tidak ~ lawan, siapa pun akan dihadapinya"}]}],"rootWord":"pantang"}]}
+{
+  "word": "memantang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60090",
+      "nama": "me.man.tang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(sengaja) tidak mau menggunakan (melakukan, memakan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia harus ~ garam supaya tekanan darahnya tidak naik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menampik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak ~ lawan, siapa pun akan dihadapinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pantang"
+    }
+  ]
+}

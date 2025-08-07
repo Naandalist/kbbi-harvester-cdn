@@ -1,1 +1,53 @@
-{"word":"morat-marit","authenticated":true,"entries":[{"id":"55132","nama":"mo.rat-ma.rit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"porak-poranda; cerai-berai; berantakan; kacau balau","contoh":[{"nomor":2,"teks":"barang-barang yang di dalam gudang itu --, tidak teratur letaknya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak beres keadaannya; kocar-kacir","contoh":[{"nomor":2,"teks":"rumah tangganya --"}]}],"etimologi":{"text":"[Jawa Kuno amurat-marit 'menghamburkan, memberai-beraikan, menyebabkan kekacauan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "morat-marit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55132",
+      "nama": "mo.rat-ma.rit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "porak-poranda; cerai-berai; berantakan; kacau balau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang-barang yang di dalam gudang itu --, tidak teratur letaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak beres keadaannya; kocar-kacir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah tangganya --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno amurat-marit 'menghamburkan, memberai-beraikan, menyebabkan kekacauan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

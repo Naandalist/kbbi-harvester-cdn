@@ -1,1 +1,48 @@
-{"word":"mengudar","authenticated":true,"entries":[{"id":"88930","nama":"meng.u.dar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengurai(kan) rambut, tali, dan sebagainya (dari simpulnya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membahas; menyelesaikan","contoh":[{"nomor":2,"teks":"mereka sedang mencoba ~ soal permintaan pengunduran diri teman sejawatnya"}]}],"rootWord":"udar"}]}
+{
+  "word": "mengudar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88930",
+      "nama": "meng.u.dar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengurai(kan) rambut, tali, dan sebagainya (dari simpulnya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membahas; menyelesaikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang mencoba ~ soal permintaan pengunduran diri teman sejawatnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "udar"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"menakutkan","authenticated":true,"entries":[{"id":"81369","nama":"me.na.kut.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan takut akan","contoh":[{"nomor":2,"teks":"anak-anak ~ film yang sangat mengerikan itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membangkitkan perasaan takut","contoh":[{"nomor":2,"teks":"ular kobra itu sangat ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa khawatir akan","contoh":[{"nomor":2,"teks":"kami ~ nasib para korban kecelakaan pesawat terbang itu"}]}],"rootWord":"takut"}]}
+{
+  "word": "menakutkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81369",
+      "nama": "me.na.kut.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan takut akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak ~ film yang sangat mengerikan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membangkitkan perasaan takut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular kobra itu sangat ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa khawatir akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami ~ nasib para korban kecelakaan pesawat terbang itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "takut"
+    }
+  ]
+}

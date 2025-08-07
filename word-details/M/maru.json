@@ -1,1 +1,61 @@
-{"word":"maru","authenticated":true,"entries":[{"id":"52423","nama":"ma.ru","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"hantu yang suka mengganggu","contoh":[]}],"etimologi":{"text":"[Sanskerta मार māra n m 'halangan, rintangan, kematian']","languages":["Sanskerta"]}},{"id":"209923","nama":"ma.ru","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perempuan lain yang menjadi istri dari suami","contoh":[]}],"etimologi":{"text":"[Sanskerta मार māra n m 'halangan, rintangan, kematian']","languages":["Sanskerta"]}}]}
+{
+  "word": "maru",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52423",
+      "nama": "ma.ru",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hantu yang suka mengganggu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta मार māra n m 'halangan, rintangan, kematian']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    },
+    {
+      "id": "209923",
+      "nama": "ma.ru",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perempuan lain yang menjadi istri dari suami",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta मार māra n m 'halangan, rintangan, kematian']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

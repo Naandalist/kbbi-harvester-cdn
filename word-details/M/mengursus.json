@@ -1,1 +1,36 @@
-{"word":"mengursus","authenticated":true,"entries":[{"id":"45317","nama":"me.ngur.sus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memberi kursus","contoh":[{"nomor":2,"teks":"ibu guru ~ jahit-menjahit, membuat kue, dan merangkai bunga"}]}],"rootWord":"kursus"}]}
+{
+  "word": "mengursus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45317",
+      "nama": "me.ngur.sus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi kursus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu guru ~ jahit-menjahit, membuat kue, dan merangkai bunga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kursus"
+    }
+  ]
+}

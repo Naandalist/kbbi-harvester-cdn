@@ -1,1 +1,49 @@
-{"word":"maria","authenticated":true,"entries":[{"id":"52343","nama":"ma.ri.a","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mare","contoh":[]}]},{"id":"187633","nama":"Ma.ri.a","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"ibu dari Yesus, dikenal sebagai Perawan Maria, Bunda Maria, atau Santa Maria, menurut Injil merupakan seorang perawan yang mengandung Yesus dengan kuasa Roh Kudus","contoh":[]}]}]}
+{
+  "word": "maria",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52343",
+      "nama": "ma.ri.a",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mare",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "187633",
+      "nama": "Ma.ri.a",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ibu dari Yesus, dikenal sebagai Perawan Maria, Bunda Maria, atau Santa Maria, menurut Injil merupakan seorang perawan yang mengandung Yesus dengan kuasa Roh Kudus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

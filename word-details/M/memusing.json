@@ -1,1 +1,35 @@
-{"word":"memusing","authenticated":true,"entries":[{"id":"66199","nama":"me.mu.sing","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memutar","contoh":[{"nomor":2,"teks":"~ dadu"},{"nomor":4,"teks":"~ sekrup"}]}],"rootWord":"pusing"}]}
+{
+  "word": "memusing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66199",
+      "nama": "me.mu.sing",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memutar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ dadu"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ sekrup"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pusing"
+    }
+  ]
+}

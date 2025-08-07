@@ -1,1 +1,63 @@
-{"word":"meretih","authenticated":true,"entries":[{"id":"69135","nama":"me.re.tih","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbunyi seperti daun-daunan basah dibakar; mendedas","contoh":[]}],"rootWord":"retih¹"},{"id":"69137","nama":"me.re.tih","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tampak berbutir-butir pada kulit (seperti keringat, bintik-bintik berair)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"berloncatan (seperti udang ditangguk)","contoh":[]}],"rootWord":"retih²"}]}
+{
+  "word": "meretih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69135",
+      "nama": "me.re.tih",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbunyi seperti daun-daunan basah dibakar; mendedas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "retih¹"
+    },
+    {
+      "id": "69137",
+      "nama": "me.re.tih",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tampak berbutir-butir pada kulit (seperti keringat, bintik-bintik berair)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berloncatan (seperti udang ditangguk)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "retih²"
+    }
+  ]
+}

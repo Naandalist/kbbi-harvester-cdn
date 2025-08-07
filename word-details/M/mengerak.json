@@ -1,1 +1,63 @@
-{"word":"mengerak","authenticated":true,"entries":[{"id":"22500","nama":"meng.e.rak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bererak","contoh":[]}],"rootWord":"erak"},{"id":"40178","nama":"me.nge.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi kerak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"tekstur lembaran benda yang menempel, keras, tipis, dan rapuh","contoh":[]}],"rootWord":"kerak¹"}]}
+{
+  "word": "mengerak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22500",
+      "nama": "meng.e.rak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bererak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "erak"
+    },
+    {
+      "id": "40178",
+      "nama": "me.nge.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi kerak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tekstur lembaran benda yang menempel, keras, tipis, dan rapuh",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kerak¹"
+    }
+  ]
+}

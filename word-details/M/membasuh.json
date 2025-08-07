@@ -1,1 +1,40 @@
-{"word":"membasuh","authenticated":true,"entries":[{"id":"8613","nama":"mem.ba.suh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencuci (membersihkan) dengan air","contoh":[{"nomor":2,"teks":"~ kaki"}]}],"rootWord":"basuh","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["membasuh muka dengan air liur","membasuh najis dengan malu"],"idiom":[]}}]}
+{
+  "word": "membasuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8613",
+      "nama": "mem.ba.suh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencuci (membersihkan) dengan air",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kaki"
+            }
+          ]
+        }
+      ],
+      "rootWord": "basuh",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "membasuh muka dengan air liur",
+          "membasuh najis dengan malu"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

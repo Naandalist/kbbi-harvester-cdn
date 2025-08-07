@@ -1,1 +1,51 @@
-{"word":"melayut","authenticated":true,"entries":[{"id":"47608","nama":"me.la.yut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melentur; melendut (tentang dahan pohon yang lebat buahnya)","contoh":[]}],"rootWord":"layut¹"},{"id":"47610","nama":"me.la.yut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersambung-sambung, mendayu-dayu (tentang suara)","contoh":[{"nomor":2,"teks":"bunyi sorak-sorai orang ~"}]}],"rootWord":"layut²"}]}
+{
+  "word": "melayut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47608",
+      "nama": "me.la.yut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melentur; melendut (tentang dahan pohon yang lebat buahnya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layut¹"
+    },
+    {
+      "id": "47610",
+      "nama": "me.la.yut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersambung-sambung, mendayu-dayu (tentang suara)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunyi sorak-sorai orang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "layut²"
+    }
+  ]
+}

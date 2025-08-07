@@ -1,1 +1,48 @@
-{"word":"menyinggir","authenticated":true,"entries":[{"id":"77476","nama":"me.nying.gir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuka (menyingkap dan sebagainya) tutup (selubung dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperlihatkan (menunjukkan, memberi tahu, dan sebagainya)","contoh":[{"nomor":2,"teks":"purnawirawan itu ~ kewajiban suci bagi segenap kusuma bangsa"}]}],"rootWord":"singgir"}]}
+{
+  "word": "menyinggir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77476",
+      "nama": "me.nying.gir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuka (menyingkap dan sebagainya) tutup (selubung dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperlihatkan (menunjukkan, memberi tahu, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "purnawirawan itu ~ kewajiban suci bagi segenap kusuma bangsa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "singgir"
+    }
+  ]
+}

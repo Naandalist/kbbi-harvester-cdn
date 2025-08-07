@@ -1,1 +1,58 @@
-{"word":"menggarang","authenticated":true,"entries":[{"id":"24530","nama":"meng.ga.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi garang (galak, ganas)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghebat","contoh":[]}],"rootWord":"garang¹"},{"id":"24534","nama":"meng.ga.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanaskan (mengeringkan, memasak) di atas bara api; memanggang; mengganggang","contoh":[]}],"rootWord":"garang²"}]}
+{
+  "word": "menggarang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24530",
+      "nama": "meng.ga.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi garang (galak, ganas)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghebat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "garang¹"
+    },
+    {
+      "id": "24534",
+      "nama": "meng.ga.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanaskan (mengeringkan, memasak) di atas bara api; memanggang; mengganggang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "garang²"
+    }
+  ]
+}

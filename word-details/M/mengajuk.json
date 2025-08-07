@@ -1,1 +1,63 @@
-{"word":"mengajuk","authenticated":true,"entries":[{"id":"1422","nama":"meng.a.juk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menduga (kedalaman laut dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memeriksa atau hendak mengetahui (isi hati, perasaan, atau pikiran orang)","contoh":[{"nomor":2,"teks":"pertanyaan itu hanya untuk ~ hatinya"}]}],"rootWord":"ajuk¹"},{"id":"1428","nama":"meng.a.juk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meniru tingkah laku orang (dengan maksud mengejek dan sebagainya)","contoh":[]}],"rootWord":"ajuk²"}]}
+{
+  "word": "mengajuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1422",
+      "nama": "meng.a.juk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menduga (kedalaman laut dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeriksa atau hendak mengetahui (isi hati, perasaan, atau pikiran orang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertanyaan itu hanya untuk ~ hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ajuk¹"
+    },
+    {
+      "id": "1428",
+      "nama": "meng.a.juk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meniru tingkah laku orang (dengan maksud mengejek dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ajuk²"
+    }
+  ]
+}

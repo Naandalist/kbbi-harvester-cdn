@@ -1,1 +1,65 @@
-{"word":"menggarit","authenticated":true,"entries":[{"id":"24680","nama":"meng.ga.rit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggores","contoh":[]}],"rootWord":"garit¹"},{"id":"24682","nama":"meng.ga.rit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergerak","contoh":[{"nomor":2,"teks":"sedikit saja aku ~, celakalah aku"}]}],"rootWord":"garit²"},{"id":"24685","nama":"meng.ga.rit","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus","contoh":[]}],"rootWord":"garit³"}]}
+{
+  "word": "menggarit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24680",
+      "nama": "meng.ga.rit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggores",
+          "contoh": []
+        }
+      ],
+      "rootWord": "garit¹"
+    },
+    {
+      "id": "24682",
+      "nama": "meng.ga.rit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergerak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sedikit saja aku ~, celakalah aku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "garit²"
+    },
+    {
+      "id": "24685",
+      "nama": "meng.ga.rit",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus",
+          "contoh": []
+        }
+      ],
+      "rootWord": "garit³"
+    }
+  ]
+}

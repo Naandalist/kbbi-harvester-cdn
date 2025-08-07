@@ -1,1 +1,48 @@
-{"word":"mengakses","authenticated":true,"entries":[{"id":"1798","nama":"meng.ak.ses","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat (membuka) akses","contoh":[{"nomor":2,"teks":"kita belum memiliki jaringan untuk ~ negara yang baru merdeka itu"}]},{"nomor":"2","kelasKata":[{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"mendapatkan akses ke atau memanggil informasi dari peranti penyimpanan data, aplikasi, dan sebagainya","contoh":[{"nomor":2,"teks":"belum semua warga dapat ~ pelayanan publik berbasis digital"}]}],"rootWord":"akses"}]}
+{
+  "word": "mengakses",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1798",
+      "nama": "meng.ak.ses",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat (membuka) akses",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita belum memiliki jaringan untuk ~ negara yang baru merdeka itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendapatkan akses ke atau memanggil informasi dari peranti penyimpanan data, aplikasi, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "belum semua warga dapat ~ pelayanan publik berbasis digital"
+            }
+          ]
+        }
+      ],
+      "rootWord": "akses"
+    }
+  ]
+}

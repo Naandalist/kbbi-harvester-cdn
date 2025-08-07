@@ -1,1 +1,48 @@
-{"word":"merayan","authenticated":true,"entries":[{"id":"67835","nama":"me.ra.yan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengigau; meracau","contoh":[{"nomor":2,"teks":"ia ~ karena demam panas"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mimpi yang berhubungan dengan pengalaman pada siang hari atau yang berhubungan dengan peristiwa yang selalu mengganggu pikiran","contoh":[{"nomor":2,"teks":"siang menjadi angan-angan, malam menjadi ~"}]}],"rootWord":"rayan"}]}
+{
+  "word": "merayan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67835",
+      "nama": "me.ra.yan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengigau; meracau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ karena demam panas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mimpi yang berhubungan dengan pengalaman pada siang hari atau yang berhubungan dengan peristiwa yang selalu mengganggu pikiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siang menjadi angan-angan, malam menjadi ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rayan"
+    }
+  ]
+}

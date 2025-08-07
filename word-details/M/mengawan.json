@@ -1,1 +1,90 @@
-{"word":"mengawan","authenticated":true,"entries":[{"id":"6172","nama":"meng.a.wan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi awan; menyerupai awan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik ke awan; membubung tinggi","contoh":[{"nomor":2,"teks":"tinggi ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"merasai sesuatu yang menyenangkan atau membahagiakan","contoh":[{"nomor":2,"teks":"berita tentang kelahiran anaknya membuat hatinya ~"}]}],"rootWord":"awan¹"},{"id":"37947","nama":"me.nga.wan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bersetubuh (tentang binatang)","contoh":[]}],"rootWord":"kawan"}]}
+{
+  "word": "mengawan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6172",
+      "nama": "meng.a.wan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi awan; menyerupai awan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik ke awan; membubung tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tinggi ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasai sesuatu yang menyenangkan atau membahagiakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berita tentang kelahiran anaknya membuat hatinya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "awan¹"
+    },
+    {
+      "id": "37947",
+      "nama": "me.nga.wan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersetubuh (tentang binatang)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kawan"
+    }
+  ]
+}

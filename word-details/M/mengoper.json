@@ -1,1 +1,58 @@
-{"word":"mengoper","authenticated":true,"entries":[{"id":"58191","nama":"meng.o.per","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengambil alih; menggantikan","contoh":[{"nomor":2,"teks":"ia tidak mau ~ pekerjaan kawannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memindahkan; mengirim","contoh":[{"nomor":2,"teks":"sebagai kepala kantor, saya dapat ~ Anda ke bagian lain"}]}],"rootWord":"oper"}]}
+{
+  "word": "mengoper",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58191",
+      "nama": "meng.o.per",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil alih; menggantikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak mau ~ pekerjaan kawannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memindahkan; mengirim",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebagai kepala kantor, saya dapat ~ Anda ke bagian lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "oper"
+    }
+  ]
+}

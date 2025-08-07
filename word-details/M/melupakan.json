@@ -1,1 +1,74 @@
-{"word":"melupakan","authenticated":true,"entries":[{"id":"50699","nama":"me.lu.pa.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lupa akan; tidak ingat akan","contoh":[{"nomor":2,"teks":"sekali-kali tidak boleh ~ nasihat orang tua"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan lupa; menghapus dari ingatan","contoh":[{"nomor":2,"teks":"saya harap Saudara dapat ~ perselisihan kita itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melalaikan; tidak mengindahkan","contoh":[{"nomor":2,"teks":"dia dipecat karena telah ~ kewajibannya"}]}],"rootWord":"lupa","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["pelanduk melupakan jerat, tetapi jerat tak melupakan pelanduk","pelanduk melupakan jerat, tetapi jerat tidak melupakan pelanduk"],"idiom":[]}}]}
+{
+  "word": "melupakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50699",
+      "nama": "me.lu.pa.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lupa akan; tidak ingat akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekali-kali tidak boleh ~ nasihat orang tua"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan lupa; menghapus dari ingatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya harap Saudara dapat ~ perselisihan kita itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melalaikan; tidak mengindahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia dipecat karena telah ~ kewajibannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lupa",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "pelanduk melupakan jerat, tetapi jerat tak melupakan pelanduk",
+          "pelanduk melupakan jerat, tetapi jerat tidak melupakan pelanduk"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

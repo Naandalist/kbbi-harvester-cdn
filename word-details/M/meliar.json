@@ -1,1 +1,60 @@
-{"word":"meliar","authenticated":true,"entries":[{"id":"49116","nama":"me.li.ar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Zool","nama":"Zoologi","tipe":"lainnya"}],"definisi":"melarikan diri dari penjinakan atau penangkaran dan kembali menjadi liar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi liar","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tumbuh tanpa ada yang memelihara (tentang tumbuhan)","contoh":[{"nomor":2,"teks":"rumput-rumput yang ~"}]}],"rootWord":"liar"}]}
+{
+  "word": "meliar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49116",
+      "nama": "me.li.ar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Zool",
+              "nama": "Zoologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melarikan diri dari penjinakan atau penangkaran dan kembali menjadi liar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi liar",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tumbuh tanpa ada yang memelihara (tentang tumbuhan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumput-rumput yang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "liar"
+    }
+  ]
+}

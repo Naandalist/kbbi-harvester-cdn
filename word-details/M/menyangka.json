@@ -1,1 +1,48 @@
-{"word":"menyangka","authenticated":true,"entries":[{"id":"72095","nama":"me.nyang.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menduga; mengira","contoh":[{"nomor":2,"teks":"kami ~ dia orang Belanda, nyatanya orang Jerman"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencurigai; menaruh syak","contoh":[{"nomor":2,"teks":"polisi ~ pemuda itu terlibat dalam penyalahgunaan narkotik"}]}],"rootWord":"sangka¹"}]}
+{
+  "word": "menyangka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72095",
+      "nama": "me.nyang.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menduga; mengira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami ~ dia orang Belanda, nyatanya orang Jerman"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencurigai; menaruh syak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi ~ pemuda itu terlibat dalam penyalahgunaan narkotik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangka¹"
+    }
+  ]
+}

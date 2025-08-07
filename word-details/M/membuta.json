@@ -1,1 +1,60 @@
-{"word":"membuta","authenticated":true,"entries":[{"id":"13866","nama":"mem.bu.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlaku sebagai orang buta; berpura-pura buta","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berbuat sesuka hati (tidak peduli, apa-apa, main serampangan saja)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidur nyenyak","contoh":[]}],"rootWord":"buta¹"}]}
+{
+  "word": "membuta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13866",
+      "nama": "mem.bu.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlaku sebagai orang buta; berpura-pura buta",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat sesuka hati (tidak peduli, apa-apa, main serampangan saja)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidur nyenyak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "buta¹"
+    }
+  ]
+}

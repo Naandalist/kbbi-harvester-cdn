@@ -1,1 +1,53 @@
-{"word":"merujak","authenticated":true,"entries":[{"id":"142622","nama":"me.ru.jak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakan rujak","contoh":[{"nomor":2,"teks":"mereka mengisi waktu luang dengan ~ di taman"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melumat; merundung","contoh":[{"nomor":2,"teks":"warganet ~ dia karena unggahan negatifnya"}]}],"rootWord":"rujak"}]}
+{
+  "word": "merujak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "142622",
+      "nama": "me.ru.jak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakan rujak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka mengisi waktu luang dengan ~ di taman"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melumat; merundung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "warganet ~ dia karena unggahan negatifnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rujak"
+    }
+  ]
+}

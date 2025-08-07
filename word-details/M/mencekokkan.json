@@ -1,1 +1,53 @@
-{"word":"mencekokkan","authenticated":true,"entries":[{"id":"15197","nama":"men.ce.kok.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminumkan dengan paksa","contoh":[{"nomor":2,"teks":"setiap waktu yang telah ditentukan dia ~ obat ini kepada anaknya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengajarkan atau memberikan pengetahuan (ajaran, paham, dan sebagainya) secara terus-menerus","contoh":[{"nomor":2,"teks":"tokoh-tokoh partai telah berhasil ~ paham politik partainya kepada anggotanya"}]}],"rootWord":"cekok"}]}
+{
+  "word": "mencekokkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15197",
+      "nama": "men.ce.kok.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminumkan dengan paksa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap waktu yang telah ditentukan dia ~ obat ini kepada anaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengajarkan atau memberikan pengetahuan (ajaran, paham, dan sebagainya) secara terus-menerus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tokoh-tokoh partai telah berhasil ~ paham politik partainya kepada anggotanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cekok"
+    }
+  ]
+}

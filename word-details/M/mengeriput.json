@@ -1,1 +1,48 @@
-{"word":"mengeriput","authenticated":true,"entries":[{"id":"40581","nama":"me.nge.ri.put","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi keriput","contoh":[{"nomor":2,"teks":"wajah ibunya sudah ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"berkerut dan terlipat-lipat ke segala arah secara takberaturan","contoh":[]}],"rootWord":"keriput"}]}
+{
+  "word": "mengeriput",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40581",
+      "nama": "me.nge.ri.put",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi keriput",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wajah ibunya sudah ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berkerut dan terlipat-lipat ke segala arah secara takberaturan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "keriput"
+    }
+  ]
+}

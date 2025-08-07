@@ -1,1 +1,65 @@
-{"word":"merampas","authenticated":true,"entries":[{"id":"67142","nama":"me.ram.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengambil dengan paksa (dengan kekerasan); merebut","contoh":[{"nomor":2,"teks":"pencopet ~ kalung gadis itu sewaktu ia turun dari bus"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyamun; membegal; menyabot","contoh":[{"nomor":2,"teks":"ia ~ uang dan kopor orang itu di jalan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyita","contoh":[{"nomor":2,"teks":"bank ~ rumah dan surat berharga karena ia tidak sanggup membayar utang yang sudah jatuh tempo"}]}],"rootWord":"rampas¹"}]}
+{
+  "word": "merampas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67142",
+      "nama": "me.ram.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil dengan paksa (dengan kekerasan); merebut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pencopet ~ kalung gadis itu sewaktu ia turun dari bus"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyamun; membegal; menyabot",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ uang dan kopor orang itu di jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bank ~ rumah dan surat berharga karena ia tidak sanggup membayar utang yang sudah jatuh tempo"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rampas¹"
+    }
+  ]
+}

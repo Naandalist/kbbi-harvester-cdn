@@ -1,1 +1,61 @@
-{"word":"maharaja","authenticated":true,"entries":[{"id":"51056","nama":"ma.ha.ra.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"raja besar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"sebutan untuk orang besar","contoh":[{"nomor":2,"teks":"Tumenggung Seri --"}]}],"etimologi":{"text":"[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan राजन् rājan 'raja, pemimpin']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["kemaharajaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "maharaja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51056",
+      "nama": "ma.ha.ra.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "raja besar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan untuk orang besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Tumenggung Seri --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta महत् mahat 'besar, hebat, tinggi, agung, kuat' dan राजन् rājan 'raja, pemimpin']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemaharajaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

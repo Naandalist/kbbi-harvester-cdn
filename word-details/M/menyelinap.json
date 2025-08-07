@@ -1,1 +1,85 @@
-{"word":"menyelinap","authenticated":true,"entries":[{"id":"73990","nama":"me.nye.li.nap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuruk (menyusup, menyelundup, dan sebagainya) lekas-lekas","contoh":[{"nomor":2,"teks":"ular ~ ke dalam semak-semak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melantas ke dalam; masuk meresap; masuk terus","contoh":[{"nomor":2,"teks":"nasihat itu ~ ke dalam hati sanubari"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghindarkan diri dengan segera; mengendap (menyembunyikan diri dan sebagainya)","contoh":[{"nomor":2,"teks":"buru-buru mereka ~ dan bersembunyi"}]}],"rootWord":"selinap¹"},{"id":"73995","nama":"me.nye.li.nap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyiangi (ikan dan sebagainya); membersihkan (ayam yang disembelih dan sebagainya)","contoh":[]}],"rootWord":"selinap²"}]}
+{
+  "word": "menyelinap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73990",
+      "nama": "me.nye.li.nap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruk (menyusup, menyelundup, dan sebagainya) lekas-lekas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular ~ ke dalam semak-semak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melantas ke dalam; masuk meresap; masuk terus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasihat itu ~ ke dalam hati sanubari"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghindarkan diri dengan segera; mengendap (menyembunyikan diri dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buru-buru mereka ~ dan bersembunyi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selinap¹"
+    },
+    {
+      "id": "73995",
+      "nama": "me.nye.li.nap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyiangi (ikan dan sebagainya); membersihkan (ayam yang disembelih dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "selinap²"
+    }
+  ]
+}

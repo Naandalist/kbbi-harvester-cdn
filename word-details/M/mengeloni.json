@@ -1,1 +1,51 @@
-{"word":"mengeloni","authenticated":true,"entries":[{"id":"21718","nama":"meng.e.lon.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memihak kepada; memenangkan (salah satu pihak)","contoh":[{"nomor":2,"teks":"orang yang sedang menengahi perselisihan harus bertindak adil dengan tidak ~ salah satu pihak"}]}],"rootWord":"elon¹"},{"id":"39205","nama":"me.nge.lon.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memeluk (anak dan sebagainya) dengan kasih sayang sambil berbaring supaya tidur","contoh":[]}],"rootWord":"kelon"}]}
+{
+  "word": "mengeloni",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21718",
+      "nama": "meng.e.lon.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memihak kepada; memenangkan (salah satu pihak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang sedang menengahi perselisihan harus bertindak adil dengan tidak ~ salah satu pihak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "elon¹"
+    },
+    {
+      "id": "39205",
+      "nama": "me.nge.lon.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeluk (anak dan sebagainya) dengan kasih sayang sambil berbaring supaya tidur",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kelon"
+    }
+  ]
+}

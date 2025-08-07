@@ -1,1 +1,48 @@
-{"word":"memberkas","authenticated":true,"entries":[{"id":"10748","nama":"mem.ber.kas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat menjadi satu","contoh":[{"nomor":2,"teks":"~ rumput kering"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengumpul menjadi","contoh":[{"nomor":2,"teks":"cahaya ~ di balik pohon"}]}],"rootWord":"berkas"}]}
+{
+  "word": "memberkas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10748",
+      "nama": "mem.ber.kas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat menjadi satu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ rumput kering"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengumpul menjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cahaya ~ di balik pohon"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berkas"
+    }
+  ]
+}

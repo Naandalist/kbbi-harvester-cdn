@@ -1,1 +1,90 @@
-{"word":"menyerampang","authenticated":true,"entries":[{"id":"75690","nama":"me.nye.ram.pang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menombak dengan serampang (dengan cara ditusukkan atau dilemparkan)","contoh":[]}],"rootWord":"serampang¹"},{"id":"75695","nama":"me.nye.ram.pang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melempar secara melintang dan seakan-akan sejajar dengan tanah (tentang barang yang berukuran panjang)","contoh":[{"nomor":2,"teks":"ia ~ kaki anjing itu dengan alu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul (menyerang) dan sebagainya dengan sembarangan saja; merawak; merambang (mengawur)","contoh":[{"nomor":2,"teks":"pikir dulu, jangan asal ~ saja"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mencuri dengan sembarangan saja; menyerobot","contoh":[{"nomor":2,"teks":"ia telah ~ apa saja yang tertinggal di luar"}]}],"rootWord":"serampang³"}]}
+{
+  "word": "menyerampang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75690",
+      "nama": "me.nye.ram.pang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menombak dengan serampang (dengan cara ditusukkan atau dilemparkan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "serampang¹"
+    },
+    {
+      "id": "75695",
+      "nama": "me.nye.ram.pang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melempar secara melintang dan seakan-akan sejajar dengan tanah (tentang barang yang berukuran panjang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kaki anjing itu dengan alu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul (menyerang) dan sebagainya dengan sembarangan saja; merawak; merambang (mengawur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pikir dulu, jangan asal ~ saja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencuri dengan sembarangan saja; menyerobot",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia telah ~ apa saja yang tertinggal di luar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "serampang³"
+    }
+  ]
+}

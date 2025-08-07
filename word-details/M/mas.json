@@ -1,1 +1,108 @@
-{"word":"mas","authenticated":true,"entries":[{"id":"52429","nama":"mas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"emas","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["mas manah","mas tempawan","mas adipati","mas ajeng","mas ayu","mas bagus","mas lara","mas mirah","mas tumenggung"],"peribahasa":[],"idiom":[]}},{"id":"52432","nama":"mas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada saudara tua laki-laki atau laki-laki yang dianggap lebih tua","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan hormat untuk laki-laki, tanpa memandang usia","contoh":[{"nomor":2,"teks":"apa kabar, --?"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"panggilan karib istri kepada suami; bang; kak","contoh":[{"nomor":2,"teks":"--, kemarin Ibu datang"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["mas adipati","mas ajeng","mas ayu","mas bagus","mas lara","mas mirah","mas tumenggung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52429",
+      "nama": "mas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "emas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mas manah",
+          "mas tempawan",
+          "mas adipati",
+          "mas ajeng",
+          "mas ayu",
+          "mas bagus",
+          "mas lara",
+          "mas mirah",
+          "mas tumenggung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52432",
+      "nama": "mas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada saudara tua laki-laki atau laki-laki yang dianggap lebih tua",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan hormat untuk laki-laki, tanpa memandang usia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apa kabar, --?"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panggilan karib istri kepada suami; bang; kak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, kemarin Ibu datang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mas adipati",
+          "mas ajeng",
+          "mas ayu",
+          "mas bagus",
+          "mas lara",
+          "mas mirah",
+          "mas tumenggung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

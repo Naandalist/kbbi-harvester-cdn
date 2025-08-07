@@ -1,1 +1,48 @@
-{"word":"menuding","authenticated":true,"entries":[{"id":"87543","nama":"me.nu.ding","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menunjuk ke suatu arah (dengan jari, tongkat, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menuduh","contoh":[{"nomor":2,"teks":"mereka ~ Tuan sebagai orang yang harus bertanggung jawab atas kejadian itu"}]}],"rootWord":"tuding²"}]}
+{
+  "word": "menuding",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87543",
+      "nama": "me.nu.ding",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menunjuk ke suatu arah (dengan jari, tongkat, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menuduh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ Tuan sebagai orang yang harus bertanggung jawab atas kejadian itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tuding²"
+    }
+  ]
+}

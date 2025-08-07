@@ -1,1 +1,63 @@
-{"word":"mengirik","authenticated":true,"entries":[{"id":"32382","nama":"meng.i.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menginjak","contoh":[{"nomor":2,"teks":"ia ~ barang itu sehingga terbenam ke air"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menginjak atau menebah agar terlepas dari tangkainya (tentang padi kering, kacang, dan sebagainya)","contoh":[]}],"rootWord":"irik"},{"id":"42030","nama":"me.ngi.rik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdiri bulu roma","contoh":[]}],"rootWord":"kirik¹"}]}
+{
+  "word": "mengirik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32382",
+      "nama": "meng.i.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menginjak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ barang itu sehingga terbenam ke air"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menginjak atau menebah agar terlepas dari tangkainya (tentang padi kering, kacang, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "irik"
+    },
+    {
+      "id": "42030",
+      "nama": "me.ngi.rik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdiri bulu roma",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kirik¹"
+    }
+  ]
+}

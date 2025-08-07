@@ -1,1 +1,65 @@
-{"word":"mengampu","authenticated":true,"entries":[{"id":"3177","nama":"meng.am.pu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyangga (dengan telapak tangan); menyokong dari bawah (supaya tidak runtuh)","contoh":[{"nomor":2,"teks":"para hamba sahaya ~ pakaian raja"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengangkat; menyanjung","contoh":[{"nomor":2,"teks":"siapa pandai ~nya akan mendapat segala sesuatu darinya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengampukan","contoh":[]}],"rootWord":"ampu¹"}]}
+{
+  "word": "mengampu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3177",
+      "nama": "meng.am.pu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyangga (dengan telapak tangan); menyokong dari bawah (supaya tidak runtuh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para hamba sahaya ~ pakaian raja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengangkat; menyanjung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa pandai ~nya akan mendapat segala sesuatu darinya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengampukan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ampu¹"
+    }
+  ]
+}

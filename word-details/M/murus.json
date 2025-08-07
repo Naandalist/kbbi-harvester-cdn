@@ -1,1 +1,36 @@
-{"word":"murus","authenticated":true,"entries":[{"id":"55829","nama":"mu.rus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"buang-buang air; berak-berak; menceret","contoh":[{"nomor":2,"teks":"karena banyak makan rujak, ia sakit perut dan --"}]}],"etimologi":{"text":"[Jawa Kuno murus 'meluap, melimpah']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "murus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55829",
+      "nama": "mu.rus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buang-buang air; berak-berak; menceret",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena banyak makan rujak, ia sakit perut dan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno murus 'meluap, melimpah']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

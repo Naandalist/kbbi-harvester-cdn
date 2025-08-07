@@ -1,1 +1,61 @@
-{"word":"mengelus","authenticated":true,"entries":[{"id":"21734","nama":"meng.e.lus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengusap-usap dengan rasa sayang; membelai-belai","contoh":[{"nomor":2,"teks":"anak kecil itu ~ kucingnya dengan penuh rasa sayang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperlakukan dengan baik untuk memikat hati (supaya menurut); membujuk","contoh":[{"nomor":2,"teks":"dia selalu ~ kamu, maksudnya supaya kamu mau menjadi kaki tangannya"}]}],"rootWord":"elus","terkait":{"kataTurunan":[],"gabunganKata":["mengelus dada"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mengelus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21734",
+      "nama": "meng.e.lus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengusap-usap dengan rasa sayang; membelai-belai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak kecil itu ~ kucingnya dengan penuh rasa sayang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperlakukan dengan baik untuk memikat hati (supaya menurut); membujuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia selalu ~ kamu, maksudnya supaya kamu mau menjadi kaki tangannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "elus",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengelus dada"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

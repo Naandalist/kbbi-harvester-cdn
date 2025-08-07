@@ -1,1 +1,63 @@
-{"word":"menyendal","authenticated":true,"entries":[{"id":"74819","nama":"me.nyen.dal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menarik (mengambil) dengan paksa; menyentak; merenggut","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjambret; mencopet","contoh":[]}],"rootWord":"sendal²"},{"id":"74825","nama":"me.nyen.dal","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengganjal untuk meratakan letak sesuatu","contoh":[{"nomor":2,"teks":"ia ~ kaki meja agar tidak miring letaknya"}]}],"rootWord":"sendal³"}]}
+{
+  "word": "menyendal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74819",
+      "nama": "me.nyen.dal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menarik (mengambil) dengan paksa; menyentak; merenggut",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjambret; mencopet",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sendal²"
+    },
+    {
+      "id": "74825",
+      "nama": "me.nyen.dal",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengganjal untuk meratakan letak sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kaki meja agar tidak miring letaknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sendal³"
+    }
+  ]
+}

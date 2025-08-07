@@ -1,1 +1,95 @@
-{"word":"makbul","authenticated":true,"entries":[{"id":"51419","nama":"mak.bul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"diluluskan (tentang permintaan, doa); terkabul","contoh":[{"nomor":2,"teks":"mudah-mudahan doa Ananda --"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"berhasil; tercapai (tentang maksud)","contoh":[{"nomor":2,"teks":"selama cita-citanya belum --, ia tidak akan pulang ke kampung"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"manjur (tentang obat, guna-guna, dan sebagainya)","contoh":[{"nomor":2,"teks":"semoga obatnya --"}]}],"etimologi":{"text":"[Arab مَقْبُوْلٌ maqbūl n sg m 'hal yang diterima; diluluskan']","languages":["Arab"]},"terkait":{"kataTurunan":["kemakbulan","memakbulkan","pemakbulan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "makbul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51419",
+      "nama": "mak.bul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "diluluskan (tentang permintaan, doa); terkabul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mudah-mudahan doa Ananda --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berhasil; tercapai (tentang maksud)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama cita-citanya belum --, ia tidak akan pulang ke kampung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "manjur (tentang obat, guna-guna, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semoga obatnya --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَقْبُوْلٌ maqbūl n sg m 'hal yang diterima; diluluskan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemakbulan",
+          "memakbulkan",
+          "pemakbulan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

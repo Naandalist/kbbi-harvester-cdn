@@ -1,1 +1,78 @@
-{"word":"menetak","authenticated":true,"entries":[{"id":"85635","nama":"me.ne.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memotong dan sebagainya dengan barang yang tajam yang dipukulkan keras-keras; membacok","contoh":[{"nomor":2,"teks":"dengan sekuat tenaga ia ~ leher serigala yang akan menerkamnya"}]}],"rootWord":"tetak¹","terkait":{"kataTurunan":[],"gabunganKata":["menetak meramu"],"peribahasa":["menunjukkan ilmu kepada orang menetak","tangan mencencang (memetik, menetak) bahu memikul","tangan menetak (mencencang), bahu memikul"],"idiom":[]}},{"id":"85642","nama":"me.ne.tak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menentukan; memastikan; menetapkan","contoh":[{"nomor":2,"teks":"para tetua berunding untuk ~ hari pernikahan bagi calon mempelai itu"}]}],"rootWord":"tetak²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menunjukkan ilmu kepada orang menetak","tangan mencencang (memetik, menetak) bahu memikul","tangan menetak (mencencang), bahu memikul"],"idiom":[]}}]}
+{
+  "word": "menetak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85635",
+      "nama": "me.ne.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memotong dan sebagainya dengan barang yang tajam yang dipukulkan keras-keras; membacok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan sekuat tenaga ia ~ leher serigala yang akan menerkamnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tetak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menetak meramu"
+        ],
+        "peribahasa": [
+          "menunjukkan ilmu kepada orang menetak",
+          "tangan mencencang (memetik, menetak) bahu memikul",
+          "tangan menetak (mencencang), bahu memikul"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "85642",
+      "nama": "me.ne.tak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menentukan; memastikan; menetapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para tetua berunding untuk ~ hari pernikahan bagi calon mempelai itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tetak²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menunjukkan ilmu kepada orang menetak",
+          "tangan mencencang (memetik, menetak) bahu memikul",
+          "tangan menetak (mencencang), bahu memikul"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

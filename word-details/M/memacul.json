@@ -1,1 +1,51 @@
-{"word":"memacul","authenticated":true,"entries":[{"id":"58787","nama":"me.ma.cul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggali atau membalik tanah dengan pacul; mencangkul","contoh":[]}],"rootWord":"pacul¹"},{"id":"58789","nama":"me.ma.cul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memijit (menekan) supaya keluar isi","contoh":[{"nomor":2,"teks":"tabib ~ bisul pasiennya untuk mengeluarkan nanah"}]}],"rootWord":"pacul²"}]}
+{
+  "word": "memacul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58787",
+      "nama": "me.ma.cul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggali atau membalik tanah dengan pacul; mencangkul",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pacul¹"
+    },
+    {
+      "id": "58789",
+      "nama": "me.ma.cul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memijit (menekan) supaya keluar isi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tabib ~ bisul pasiennya untuk mengeluarkan nanah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pacul²"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"mengoprek","authenticated":true,"entries":[{"id":"102023","nama":"me.ngo.prek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membongkar; mengutak-atik","contoh":[{"nomor":2,"teks":"mereka berhasil ~ sistem operasi komputer keluaran terbaru itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memodifikasi","contoh":[{"nomor":2,"teks":"mereka ~ mesin sepeda motornya agar tenaganya prima"}]}],"rootWord":"koprek"}]}
+{
+  "word": "mengoprek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102023",
+      "nama": "me.ngo.prek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membongkar; mengutak-atik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka berhasil ~ sistem operasi komputer keluaran terbaru itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memodifikasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ mesin sepeda motornya agar tenaganya prima"
+            }
+          ]
+        }
+      ],
+      "rootWord": "koprek"
+    }
+  ]
+}

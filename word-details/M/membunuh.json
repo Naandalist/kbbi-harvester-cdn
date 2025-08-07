@@ -1,1 +1,57 @@
-{"word":"membunuh","authenticated":true,"entries":[{"id":"13571","nama":"mem.bu.nuh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghilangkan (menghabisi; mencabut) nyawa; mematikan","contoh":[{"nomor":2,"teks":"ia dihukum mati karena merampok dan ~ beberapa orang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghapus (tulisan); memadamkan (api dan sebagainya); menutup (yang bocor, pancuran, dan sebagainya)","contoh":[]}],"rootWord":"bunuh","terkait":{"kataTurunan":[],"gabunganKata":["membunuh diri (bunuh diri)"],"peribahasa":["misai bertaring bagai panglima, sebulan sekali tak membunuh orang","umpat tidak membunuh, puji tidak mengenyang"],"idiom":["membunuh semangat","membunuh waktu"]}}]}
+{
+  "word": "membunuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13571",
+      "nama": "mem.bu.nuh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghilangkan (menghabisi; mencabut) nyawa; mematikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dihukum mati karena merampok dan ~ beberapa orang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghapus (tulisan); memadamkan (api dan sebagainya); menutup (yang bocor, pancuran, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bunuh",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "membunuh diri (bunuh diri)"
+        ],
+        "peribahasa": [
+          "misai bertaring bagai panglima, sebulan sekali tak membunuh orang",
+          "umpat tidak membunuh, puji tidak mengenyang"
+        ],
+        "idiom": [
+          "membunuh semangat",
+          "membunuh waktu"
+        ]
+      }
+    }
+  ]
+}

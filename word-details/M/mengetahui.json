@@ -1,1 +1,68 @@
-{"word":"mengetahui","authenticated":true,"entries":[{"id":"81048","nama":"me.nge.ta.hu.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memaklumi; menyaksikan; tahu akan","contoh":[{"nomor":2,"teks":"kami belum ~ sebabnya dia tidak datang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tahu dengan menilik ciri-ciri (tanda-tanda dan sebagainya); mengenal","contoh":[{"nomor":2,"teks":"saya ~ Ali dari suaranya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyadari; menginsafi","contoh":[]}],"rootWord":"tahu¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tiada mengetahui hulu hilirnya"],"idiom":[]}}]}
+{
+  "word": "mengetahui",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81048",
+      "nama": "me.nge.ta.hu.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memaklumi; menyaksikan; tahu akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami belum ~ sebabnya dia tidak datang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tahu dengan menilik ciri-ciri (tanda-tanda dan sebagainya); mengenal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ Ali dari suaranya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyadari; menginsafi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tahu¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tiada mengetahui hulu hilirnya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

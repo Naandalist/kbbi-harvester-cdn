@@ -1,1 +1,70 @@
-{"word":"menyeruak","authenticated":true,"entries":[{"id":"76200","nama":"me.nye.ru.ak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berjalan menyusup dengan menguakkan (menyibakkan) sesuatu yang menghalanginya ke kiri dan kanan (dalam kerumunan orang, semak-semak, tempat yang sempit, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia masuk ~ orang banyak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjorok masuk","contoh":[{"nomor":2,"teks":"dagunya bercelah, dan matanya yang biru ~ ke dalam"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menembus (tentang tatapan mata)","contoh":[{"nomor":2,"teks":"tatapan matanya tajam ~"}]}],"rootWord":"seruak¹"}]}
+{
+  "word": "menyeruak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76200",
+      "nama": "me.nye.ru.ak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjalan menyusup dengan menguakkan (menyibakkan) sesuatu yang menghalanginya ke kiri dan kanan (dalam kerumunan orang, semak-semak, tempat yang sempit, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia masuk ~ orang banyak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjorok masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dagunya bercelah, dan matanya yang biru ~ ke dalam"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menembus (tentang tatapan mata)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tatapan matanya tajam ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "seruak¹"
+    }
+  ]
+}

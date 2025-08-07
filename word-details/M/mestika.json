@@ -1,1 +1,70 @@
-{"word":"mestika","authenticated":true,"entries":[{"id":"54021","nama":"mes.ti.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batu hablur yang sakti (terdapat dalam kepala ular, teripang, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batu permata yang berharga (seperti intan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"yang terelok; yang tercantik","contoh":[{"nomor":2,"teks":"elok sekali seperti -- gamat"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["mestika embun","mestika gamat"],"peribahasa":["laksana mestika gamat"],"idiom":[]}}]}
+{
+  "word": "mestika",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54021",
+      "nama": "mes.ti.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batu hablur yang sakti (terdapat dalam kepala ular, teripang, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batu permata yang berharga (seperti intan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang terelok; yang tercantik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "elok sekali seperti -- gamat"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mestika embun",
+          "mestika gamat"
+        ],
+        "peribahasa": [
+          "laksana mestika gamat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

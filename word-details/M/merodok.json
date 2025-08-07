@@ -1,1 +1,75 @@
-{"word":"merodok","authenticated":true,"entries":[{"id":"69641","nama":"me.ro.dok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menikamkan atau menusukkan (barang yang panjang) ke atas atau ke depan; menjolok","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"vul","nama":"Vulgar","tipe":"lainnya"}],"definisi":"meniduri","contoh":[]}],"rootWord":"rodok¹"},{"id":"69643","nama":"me.ro.dok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlari dengan menjulurkan leher ke muka (seperti angsa hendak menyudu)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat sesuatu dengan membabi buta","contoh":[]}],"rootWord":"rodok²"}]}
+{
+  "word": "merodok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69641",
+      "nama": "me.ro.dok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menikamkan atau menusukkan (barang yang panjang) ke atas atau ke depan; menjolok",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "vul",
+              "nama": "Vulgar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meniduri",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rodok¹"
+    },
+    {
+      "id": "69643",
+      "nama": "me.ro.dok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlari dengan menjulurkan leher ke muka (seperti angsa hendak menyudu)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat sesuatu dengan membabi buta",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rodok²"
+    }
+  ]
+}

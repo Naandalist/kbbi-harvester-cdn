@@ -1,1 +1,53 @@
-{"word":"muhadat","authenticated":true,"entries":[{"id":"55360","nama":"mu.ha.dat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"terbatas, tidak luas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"menguraikan dengan jelas","contoh":[]}],"etimologi":{"text":"[Arab مُحَدَّدٌ muḥaddad n sg m 'yang dibatasi']","languages":["Arab"]}}]}
+{
+  "word": "muhadat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55360",
+      "nama": "mu.ha.dat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terbatas, tidak luas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menguraikan dengan jelas",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُحَدَّدٌ muḥaddad n sg m 'yang dibatasi']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

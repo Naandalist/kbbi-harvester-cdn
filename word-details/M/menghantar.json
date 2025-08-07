@@ -1,1 +1,56 @@
-{"word":"menghantar","authenticated":true,"entries":[{"id":"28518","nama":"meng.han.tar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meletakkan di tanah dan sebagainya dengan sembarang letak; menggeletakkan","contoh":[{"nomor":2,"teks":"mereka biasa ~ barang-barang yang tidak dipakai lagi di pinggir jalan"}]}],"rootWord":"hantar¹"},{"id":"28523","nama":"meng.han.tar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa (ke); meneruskan; menghantarkan; menyalurkan","contoh":[{"nomor":2,"teks":"fungsi sel saraf sensorik adalah ~ impuls dari reseptor ke sistem saraf pusat"}]}],"rootWord":"hantar²"}]}
+{
+  "word": "menghantar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28518",
+      "nama": "meng.han.tar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meletakkan di tanah dan sebagainya dengan sembarang letak; menggeletakkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka biasa ~ barang-barang yang tidak dipakai lagi di pinggir jalan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hantar¹"
+    },
+    {
+      "id": "28523",
+      "nama": "meng.han.tar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa (ke); meneruskan; menghantarkan; menyalurkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "fungsi sel saraf sensorik adalah ~ impuls dari reseptor ke sistem saraf pusat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hantar²"
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"word":"melanyak","authenticated":true,"entries":[{"id":"46876","nama":"me.la.nyak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melumat-lumat tanah dengan diinjak-injak supaya gembur atau berlumpur","contoh":[{"nomor":2,"teks":"untuk ~ sawah itu diperlukan beberapa ekor kerbau"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak memedulikan; melecehkan","contoh":[{"nomor":2,"teks":"anak durhaka itu ~ petuah orang tuanya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memukul kuat-kuat","contoh":[{"nomor":2,"teks":"ia ~ adiknya sampai menangis kesakitan"}]}],"rootWord":"lanyak¹"}]}
+{
+  "word": "melanyak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46876",
+      "nama": "me.la.nyak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melumat-lumat tanah dengan diinjak-injak supaya gembur atau berlumpur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk ~ sawah itu diperlukan beberapa ekor kerbau"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak memedulikan; melecehkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak durhaka itu ~ petuah orang tuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul kuat-kuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ adiknya sampai menangis kesakitan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lanyak¹"
+    }
+  ]
+}

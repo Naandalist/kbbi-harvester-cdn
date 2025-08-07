@@ -1,1 +1,48 @@
-{"word":"membagi-bagi","authenticated":true,"entries":[{"id":"200832","nama":"mem.ba.gi-ba.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membagi (dalam jumlah banyak)","contoh":[{"nomor":2,"teks":"dia ~ berkas berdasarkan jenis kegiatan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membagikan","contoh":[{"nomor":2,"teks":"polisi ~ takjil pada pengendara motor di jalan"}]}],"rootWord":"bagi²"}]}
+{
+  "word": "membagi-bagi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200832",
+      "nama": "mem.ba.gi-ba.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membagi (dalam jumlah banyak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ berkas berdasarkan jenis kegiatan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membagikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi ~ takjil pada pengendara motor di jalan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bagi²"
+    }
+  ]
+}

@@ -1,1 +1,60 @@
-{"word":"menggandakan","authenticated":true,"entries":[{"id":"24179","nama":"meng.gan.da.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melipatkan beberapa kali; memperbanyak","contoh":[{"nomor":2,"teks":"~ hasil usaha"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengalikan (tentang hitungan perkalian)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"membuat sesuatu yang serupa dengan aslinya","contoh":[]}],"rootWord":"ganda¹"}]}
+{
+  "word": "menggandakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24179",
+      "nama": "meng.gan.da.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melipatkan beberapa kali; memperbanyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hasil usaha"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalikan (tentang hitungan perkalian)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "membuat sesuatu yang serupa dengan aslinya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ganda¹"
+    }
+  ]
+}

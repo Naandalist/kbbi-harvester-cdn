@@ -1,1 +1,83 @@
-{"word":"meragu","authenticated":true,"entries":[{"id":"66796","nama":"me.ra.gu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mengganggu; mengacau","contoh":[{"nomor":2,"teks":"jangan ~ di sini, mari pulang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"menampilkan rekaman dalam format yang cocok untuk melihat secara cepat pada layar","contoh":[]}],"rootWord":"ragu²"},{"id":"192293","nama":"me.ra.gu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa ragu","contoh":[{"nomor":2,"teks":"dia sempat ~ dengan segala yang didengarnya"}]}],"rootWord":"ragu¹"}]}
+{
+  "word": "meragu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66796",
+      "nama": "me.ra.gu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengganggu; mengacau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan ~ di sini, mari pulang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menampilkan rekaman dalam format yang cocok untuk melihat secara cepat pada layar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ragu²"
+    },
+    {
+      "id": "192293",
+      "nama": "me.ra.gu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa ragu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sempat ~ dengan segala yang didengarnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ragu¹"
+    }
+  ]
+}

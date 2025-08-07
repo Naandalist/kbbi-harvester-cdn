@@ -1,1 +1,55 @@
-{"word":"merawang","authenticated":true,"entries":[{"id":"67792","nama":"me.ra.wang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerjakan sesuatu secara tidak teratur; mengawur; merawak; merambang","contoh":[]}],"rootWord":"rawang²"},{"id":"111764","nama":"me.ra.wang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"makan bersama di alam terbuka","contoh":[{"nomor":2,"teks":"mari -- di pinggir kolam"}]}]}]}
+{
+  "word": "merawang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67792",
+      "nama": "me.ra.wang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerjakan sesuatu secara tidak teratur; mengawur; merawak; merambang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rawang²"
+    },
+    {
+      "id": "111764",
+      "nama": "me.ra.wang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makan bersama di alam terbuka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mari -- di pinggir kolam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

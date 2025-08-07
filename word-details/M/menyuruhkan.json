@@ -1,1 +1,56 @@
-{"word":"menyuruhkan","authenticated":true,"entries":[{"id":"80211","nama":"me.nyu.ruh.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuruh mengerjakan sesuatu; memerintahkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"menyuruh pergi ke ...; mengutus","contoh":[{"nomor":2,"teks":"~ segala hamba sahayanya menghadap Baginda"}]}],"rootWord":"suruh¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ketam menyuruhkan anaknya berjalan betul"],"idiom":[]}}]}
+{
+  "word": "menyuruhkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80211",
+      "nama": "me.nyu.ruh.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruh mengerjakan sesuatu; memerintahkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruh pergi ke ...; mengutus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ segala hamba sahayanya menghadap Baginda"
+            }
+          ]
+        }
+      ],
+      "rootWord": "suruh¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ketam menyuruhkan anaknya berjalan betul"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

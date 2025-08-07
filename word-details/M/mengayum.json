@@ -1,1 +1,55 @@
-{"word":"mengayum","authenticated":true,"entries":[{"id":"6363","nama":"meng.a.yum","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"membantu (perbuatan jahat)","contoh":[]}],"rootWord":"ayum¹"},{"id":"227860","nama":"meng.a.yum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"mengganti benih padi yang rusak atau mati","contoh":[]}]}]}
+{
+  "word": "mengayum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6363",
+      "nama": "meng.a.yum",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membantu (perbuatan jahat)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ayum¹"
+    },
+    {
+      "id": "227860",
+      "nama": "meng.a.yum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengganti benih padi yang rusak atau mati",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

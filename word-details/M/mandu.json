@@ -1,1 +1,49 @@
-{"word":"mandu","authenticated":true,"entries":[{"id":"51982","nama":"man.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pendirian; kaidah","contoh":[]}]},{"id":"195108","nama":"man.du","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kor","nama":"Korea","tipe":"lainnya"}],"definisi":"pangsit khas Korea, biasanya menggunakan tofu","contoh":[]}]}]}
+{
+  "word": "mandu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51982",
+      "nama": "man.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pendirian; kaidah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "195108",
+      "nama": "man.du",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kor",
+              "nama": "Korea",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pangsit khas Korea, biasanya menggunakan tofu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

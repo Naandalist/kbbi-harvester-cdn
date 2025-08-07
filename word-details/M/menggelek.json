@@ -1,1 +1,85 @@
-{"word":"menggelek","authenticated":true,"entries":[{"id":"25356","nama":"meng.ge.lek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggilas; melindas; menggiling","contoh":[{"nomor":2,"teks":"truk itu menabrak dan ~ orang mabuk hingga mati"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berguling; bergolek","contoh":[{"nomor":2,"teks":"bola besi yang berat itu ~ perlahan-lahan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggulung-gulungkan (sagu, lilin, dan sebagainya) supaya bangunnya bulat torak","contoh":[{"nomor":2,"teks":"~ lilin"}]}],"rootWord":"gelek¹"},{"id":"25358","nama":"meng.ge.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencenderungkan diri (mengubah sikap) supaya tidak kena pukulan dan sebagainya; mengelak","contoh":[]}],"rootWord":"gelek²"}]}
+{
+  "word": "menggelek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25356",
+      "nama": "meng.ge.lek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggilas; melindas; menggiling",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "truk itu menabrak dan ~ orang mabuk hingga mati"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berguling; bergolek",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bola besi yang berat itu ~ perlahan-lahan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggulung-gulungkan (sagu, lilin, dan sebagainya) supaya bangunnya bulat torak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lilin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gelek¹"
+    },
+    {
+      "id": "25358",
+      "nama": "meng.ge.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencenderungkan diri (mengubah sikap) supaya tidak kena pukulan dan sebagainya; mengelak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelek²"
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"word":"menyendi","authenticated":true,"entries":[{"id":"74868","nama":"me.nyen.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi sendi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyalut","contoh":[]}],"rootWord":"sendi¹"},{"id":"74875","nama":"me.nyen.di","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaruh batu sendi di bawah tiang dan sebagainya","contoh":[]}],"rootWord":"sendi²"}]}
+{
+  "word": "menyendi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74868",
+      "nama": "me.nyen.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi sendi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyalut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sendi¹"
+    },
+    {
+      "id": "74875",
+      "nama": "me.nyen.di",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaruh batu sendi di bawah tiang dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sendi²"
+    }
+  ]
+}

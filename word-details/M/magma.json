@@ -1,1 +1,59 @@
-{"word":"magma","authenticated":true,"entries":[{"id":"50976","nama":"mag.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"lelehan batuan pada kerak bumi yang sangat panas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"senyawa silikat pijar di bawah permukaan bumi yang terjadi akibat dari tekanan suhu dan tekanan tinggi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["magma asam","magma basa","magma basaltik","magma pijar","magma toleitik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "magma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50976",
+      "nama": "mag.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "lelehan batuan pada kerak bumi yang sangat panas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "senyawa silikat pijar di bawah permukaan bumi yang terjadi akibat dari tekanan suhu dan tekanan tinggi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "magma asam",
+          "magma basa",
+          "magma basaltik",
+          "magma pijar",
+          "magma toleitik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

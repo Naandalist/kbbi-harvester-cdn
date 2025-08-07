@@ -1,1 +1,75 @@
-{"word":"mungkar","authenticated":true,"entries":[{"id":"55720","nama":"mung.kar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"durhaka (melanggar perintah Tuhan)","contoh":[{"nomor":2,"teks":"semua perbuatan yang -- harus dijauhi"}]}],"etimologi":{"text":"[Arab مُنْكَرٌ munkar n sg m 'aktivitas yang melanggar aturan Tuhan; tradisi buruk']","languages":["Arab"]},"terkait":{"kataTurunan":["kemungkaran","memungkari"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"295766","nama":"mung.kar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"panen madu","contoh":[]}],"etimologi":{"text":"[Arab مُنْكَرٌ munkar n sg m 'aktivitas yang melanggar aturan Tuhan; tradisi buruk']","languages":["Arab"]}}]}
+{
+  "word": "mungkar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55720",
+      "nama": "mung.kar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "durhaka (melanggar perintah Tuhan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua perbuatan yang -- harus dijauhi"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُنْكَرٌ munkar n sg m 'aktivitas yang melanggar aturan Tuhan; tradisi buruk']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemungkaran",
+          "memungkari"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "295766",
+      "nama": "mung.kar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "panen madu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُنْكَرٌ munkar n sg m 'aktivitas yang melanggar aturan Tuhan; tradisi buruk']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

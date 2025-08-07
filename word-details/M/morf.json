@@ -1,1 +1,50 @@
-{"word":"morf","authenticated":true,"entries":[{"id":"55140","nama":"morf","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"fonem atau untaian fonem yang berasosiasi dengan suatu makna","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anggota morfem yang tidak dikaitkan dengan distribusinya (seperti i pada kata kenai)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["morf zero"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "morf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55140",
+      "nama": "morf",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "fonem atau untaian fonem yang berasosiasi dengan suatu makna",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anggota morfem yang tidak dikaitkan dengan distribusinya (seperti i pada kata kenai)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "morf zero"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"word":"melukiskan","authenticated":true,"entries":[{"id":"50443","nama":"me.lu.kis.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melukis untuk orang lain","contoh":[{"nomor":2,"teks":"ia sedang ~ adiknya pemandangan sebuah danau"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menceritakan (membayangkan, menggambarkan) sesuatu","contoh":[{"nomor":2,"teks":"kenangan itu demikian indah sehingga sulit bagiku untuk ~nya dengan kata-kata"},{"nomor":4,"teks":"karangan itu ~ kehidupan desa yang aman dan damai"}]}],"rootWord":"lukis"}]}
+{
+  "word": "melukiskan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50443",
+      "nama": "me.lu.kis.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melukis untuk orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ adiknya pemandangan sebuah danau"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menceritakan (membayangkan, menggambarkan) sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kenangan itu demikian indah sehingga sulit bagiku untuk ~nya dengan kata-kata"
+            },
+            {
+              "nomor": 4,
+              "teks": "karangan itu ~ kehidupan desa yang aman dan damai"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lukis"
+    }
+  ]
+}

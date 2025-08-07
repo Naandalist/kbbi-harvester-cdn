@@ -1,1 +1,43 @@
-{"word":"memalak","authenticated":true,"entries":[{"id":"59317","nama":"me.ma.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyusahkan; mengganggu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminta secara paksa; memeras","contoh":[{"nomor":2,"teks":"pemuda itu ~ pejalan kaki"}]}],"rootWord":"palak¹"}]}
+{
+  "word": "memalak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59317",
+      "nama": "me.ma.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyusahkan; mengganggu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminta secara paksa; memeras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemuda itu ~ pejalan kaki"
+            }
+          ]
+        }
+      ],
+      "rootWord": "palak¹"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"menyetir","authenticated":true,"entries":[{"id":"76487","nama":"me.nye.tir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang setir; mengemudikan (mobil)","contoh":[{"nomor":2,"teks":"pekerjaan ~, sudah lama dilakukannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengendalikan (kegiatan dan sebagainya) tanpa menampakkan diri","contoh":[{"nomor":2,"teks":"dialah yang ~ kup itu"}]}],"rootWord":"setir"}]}
+{
+  "word": "menyetir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76487",
+      "nama": "me.nye.tir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang setir; mengemudikan (mobil)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pekerjaan ~, sudah lama dilakukannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengendalikan (kegiatan dan sebagainya) tanpa menampakkan diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dialah yang ~ kup itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "setir"
+    }
+  ]
+}

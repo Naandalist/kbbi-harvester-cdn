@@ -1,1 +1,82 @@
-{"word":"meninggi","authenticated":true,"entries":[{"id":"86244","nama":"me.ning.gi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi tinggi; naik tinggi-tinggi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"muluk-muluk","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjadi sombong (angkuh)","contoh":[{"nomor":2,"teks":"jika berbicara dengan orang jangan ~ terus, lebih baik merendah"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjauh","contoh":[{"nomor":2,"teks":"karena sikapnya yang pelit itu, rezekinya ~"}]}],"rootWord":"tinggi"}]}
+{
+  "word": "meninggi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86244",
+      "nama": "me.ning.gi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi tinggi; naik tinggi-tinggi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "muluk-muluk",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi sombong (angkuh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika berbicara dengan orang jangan ~ terus, lebih baik merendah"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjauh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena sikapnya yang pelit itu, rezekinya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tinggi"
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"maha-","authenticated":true,"entries":[{"id":"51019","nama":"maha-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"sangat; amat; teramat","contoh":[{"nomor":2,"teks":"mahabesar"},{"nomor":4,"teks":"mahamulia"}]},{"nomor":"2","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"besar","contoh":[{"nomor":2,"teks":"mahaguru"},{"nomor":4,"teks":"mahasiswa"}]}],"etimologi":{"text":"[Sanskerta महत् mahat a 'besar, hebat, tinggi, agung, kuat']","languages":["Sanskerta"]}}]}
+{
+  "word": "maha-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51019",
+      "nama": "maha-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat; amat; teramat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mahabesar"
+            },
+            {
+              "nomor": 4,
+              "teks": "mahamulia"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mahaguru"
+            },
+            {
+              "nomor": 4,
+              "teks": "mahasiswa"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta महत् mahat a 'besar, hebat, tinggi, agung, kuat']",
+        "languages": [
+          "Sanskerta"
+        ]
+      }
+    }
+  ]
+}

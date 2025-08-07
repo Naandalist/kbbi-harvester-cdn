@@ -1,1 +1,48 @@
-{"word":"merut","authenticated":true,"entries":[{"id":"195603","nama":"me.rut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"buang air sembarangan","contoh":[{"nomor":2,"teks":"jangan -- di hutan"}]}]},{"id":"53912","nama":"me.rut","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat kerut1","contoh":[]}]}]}
+{
+  "word": "merut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "195603",
+      "nama": "me.rut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buang air sembarangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan -- di hutan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53912",
+      "nama": "me.rut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat kerut1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

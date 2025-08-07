@@ -1,1 +1,51 @@
-{"word":"mencuil","authenticated":true,"entries":[{"id":"16787","nama":"men.cu.il","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyentuh dengan ujung jari (untuk memberi isyarat); menggamit","contoh":[{"nomor":2,"teks":"ia ~ anaknya seraya menunjuk laki-laki yang datang menuju mereka"}]}],"rootWord":"cuil¹"},{"id":"16789","nama":"men.cu.il","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merompalkan sedikit pada bagian pinggirnya atau luarnya","contoh":[]}],"rootWord":"cuil²"}]}
+{
+  "word": "mencuil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16787",
+      "nama": "men.cu.il",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyentuh dengan ujung jari (untuk memberi isyarat); menggamit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ anaknya seraya menunjuk laki-laki yang datang menuju mereka"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cuil¹"
+    },
+    {
+      "id": "16789",
+      "nama": "men.cu.il",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merompalkan sedikit pada bagian pinggirnya atau luarnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cuil²"
+    }
+  ]
+}

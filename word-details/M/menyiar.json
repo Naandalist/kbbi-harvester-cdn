@@ -1,1 +1,75 @@
-{"word":"menyiar","authenticated":true,"entries":[{"id":"76731","nama":"me.nyi.ar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membakar","contoh":[{"nomor":2,"teks":"~ hutan"},{"nomor":4,"teks":"~ ladang"},{"nomor":6,"teks":"~ besi"},{"nomor":8,"teks":"pandai besi ~ besi batangan itu"}]}],"rootWord":"siar²"},{"id":"76738","nama":"me.nyi.ar","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melepa atau menampalkan sambungan antara batu bata dan batu bata","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mematri","contoh":[]}],"rootWord":"siar⁴"}]}
+{
+  "word": "menyiar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76731",
+      "nama": "me.nyi.ar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membakar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hutan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ ladang"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ besi"
+            },
+            {
+              "nomor": 8,
+              "teks": "pandai besi ~ besi batangan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siar²"
+    },
+    {
+      "id": "76738",
+      "nama": "me.nyi.ar",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melepa atau menampalkan sambungan antara batu bata dan batu bata",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mematri",
+          "contoh": []
+        }
+      ],
+      "rootWord": "siar⁴"
+    }
+  ]
+}

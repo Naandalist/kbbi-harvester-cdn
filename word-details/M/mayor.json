@@ -1,1 +1,81 @@
-{"word":"mayor","authenticated":true,"entries":[{"id":"53064","nama":"ma.yor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pangkat perwira menengah peringkat terendah dalam ketentaraan, satu tingkat di bawah letnan kolonel, satu tingkat di atas kapten (tanda pangkatnya sekuntum melati emas yang ditempatkan di bahu baju)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang utama; yang besar","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["mayor jenderal TNI"],"peribahasa":[],"idiom":[]}},{"id":"53066","nama":"ma.yor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"utama, besar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"lebih tinggi setengah nada daripada minor","contoh":[]}]}]}
+{
+  "word": "mayor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53064",
+      "nama": "ma.yor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pangkat perwira menengah peringkat terendah dalam ketentaraan, satu tingkat di bawah letnan kolonel, satu tingkat di atas kapten (tanda pangkatnya sekuntum melati emas yang ditempatkan di bahu baju)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang utama; yang besar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mayor jenderal TNI"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "53066",
+      "nama": "ma.yor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "utama, besar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "lebih tinggi setengah nada daripada minor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"mengurap","authenticated":true,"entries":[{"id":"89996","nama":"meng.u.rap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengurapi","contoh":[]}],"rootWord":"urap¹"},{"id":"90000","nama":"meng.u.rap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi urap","contoh":[{"nomor":2,"teks":"dia sedang ~ ketan"}]}],"rootWord":"urap²"}]}
+{
+  "word": "mengurap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89996",
+      "nama": "meng.u.rap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengurapi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "urap¹"
+    },
+    {
+      "id": "90000",
+      "nama": "meng.u.rap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi urap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sedang ~ ketan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urap²"
+    }
+  ]
+}

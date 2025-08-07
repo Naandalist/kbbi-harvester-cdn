@@ -1,1 +1,65 @@
-{"word":"menganan","authenticated":true,"entries":[{"id":"36561","nama":"me.nga.nan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengarah ke sebelah kanan","contoh":[{"nomor":2,"teks":"setelah melewati jembatan, kita harus ~ menyusuri jalan setapak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Pol","nama":"Politik dan Pemerintahan","tipe":"bidang_subjek"}],"definisi":"berpindah haluan ke partai kanan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hidm","nama":"Hidrometeorologi","tipe":"lainnya"}],"definisi":"perubahan arah angin mengikuti putaran jarum jam (misalnya dari selatan ke barat daya atau barat) di kedua belahan bumi","contoh":[]}],"rootWord":"kanan"}]}
+{
+  "word": "menganan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36561",
+      "nama": "me.nga.nan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengarah ke sebelah kanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah melewati jembatan, kita harus ~ menyusuri jalan setapak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pol",
+              "nama": "Politik dan Pemerintahan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berpindah haluan ke partai kanan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hidm",
+              "nama": "Hidrometeorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perubahan arah angin mengikuti putaran jarum jam (misalnya dari selatan ke barat daya atau barat) di kedua belahan bumi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kanan"
+    }
+  ]
+}

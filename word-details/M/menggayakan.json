@@ -1,1 +1,63 @@
-{"word":"menggayakan","authenticated":true,"entries":[{"id":"24870","nama":"meng.ga.ya.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi gaya (kekuatan)","contoh":[]}],"rootWord":"gaya¹"},{"id":"24885","nama":"meng.ga.ya.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperbuat atau membuat-buat supaya elok (bergaya tertentu)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melagukan (membacakan)","contoh":[{"nomor":2,"teks":"ia sedang ~ puisi yang ditulisnya sendiri"}]}],"rootWord":"gaya²"}]}
+{
+  "word": "menggayakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24870",
+      "nama": "meng.ga.ya.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi gaya (kekuatan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gaya¹"
+    },
+    {
+      "id": "24885",
+      "nama": "meng.ga.ya.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbuat atau membuat-buat supaya elok (bergaya tertentu)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melagukan (membacakan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ puisi yang ditulisnya sendiri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gaya²"
+    }
+  ]
+}

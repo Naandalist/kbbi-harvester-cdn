@@ -1,1 +1,51 @@
-{"word":"membilangkan","authenticated":true,"entries":[{"id":"11439","nama":"mem.bi.lang.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengingat akan; mengindahkan; memedulikan","contoh":[]}],"rootWord":"bilang¹"},{"id":"11482","nama":"mem.bi.lang.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengatakan; memberitahukan","contoh":[]}],"rootWord":"bilang²"}]}
+{
+  "word": "membilangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11439",
+      "nama": "mem.bi.lang.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengingat akan; mengindahkan; memedulikan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bilang¹"
+    },
+    {
+      "id": "11482",
+      "nama": "mem.bi.lang.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatakan; memberitahukan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bilang²"
+    }
+  ]
+}

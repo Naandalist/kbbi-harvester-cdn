@@ -1,1 +1,53 @@
-{"word":"menjerumuskan","authenticated":true,"entries":[{"id":"34533","nama":"men.je.ru.mus.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendorong hingga jatuh tersungkur, atau jatuh masuk lubang, dan sebagainya","contoh":[{"nomor":2,"teks":"sampai hati ia ~ anak itu ke selokan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyesatkan; mencelakakan","contoh":[{"nomor":2,"teks":"ajakanmu hanya hendak ~ kami"}]}],"rootWord":"jerumus"}]}
+{
+  "word": "menjerumuskan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34533",
+      "nama": "men.je.ru.mus.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendorong hingga jatuh tersungkur, atau jatuh masuk lubang, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sampai hati ia ~ anak itu ke selokan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyesatkan; mencelakakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ajakanmu hanya hendak ~ kami"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jerumus"
+    }
+  ]
+}

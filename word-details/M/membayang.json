@@ -1,1 +1,56 @@
-{"word":"membayang","authenticated":true,"entries":[{"id":"9108","nama":"mem.ba.yang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kelihatan seperti bayang-bayang; kelihatan samar-samar","contoh":[{"nomor":2,"teks":"kemejanya tipis dan kaus kutangnya kelihatan ~"},{"nomor":4,"teks":"wajahnya selalu ~ dalam ingatanku"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dilihat; dapat ditangkap; tergambar","contoh":[{"nomor":2,"teks":"senyum ragu-ragu ~ pada wajahnya"},{"nomor":4,"teks":"sifat demokrasi ~ dalam susunan masyarakat itu"}]}],"rootWord":"bayang¹"}]}
+{
+  "word": "membayang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9108",
+      "nama": "mem.ba.yang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelihatan seperti bayang-bayang; kelihatan samar-samar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemejanya tipis dan kaus kutangnya kelihatan ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "wajahnya selalu ~ dalam ingatanku"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dilihat; dapat ditangkap; tergambar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "senyum ragu-ragu ~ pada wajahnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "sifat demokrasi ~ dalam susunan masyarakat itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bayang¹"
+    }
+  ]
+}

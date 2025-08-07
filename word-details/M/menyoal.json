@@ -1,1 +1,31 @@
-{"word":"menyoal","authenticated":true,"entries":[{"id":"78172","nama":"me.nyo.al","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengemukakan pertanyaan (yang sulit); menanyakan sesuatu (dalam ujian) dan sebagainya","contoh":[{"nomor":2,"teks":"ketika ia ~ matematika, saya tidak dapat berkutik"}]}],"rootWord":"soal"}]}
+{
+  "word": "menyoal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "78172",
+      "nama": "me.nyo.al",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengemukakan pertanyaan (yang sulit); menanyakan sesuatu (dalam ujian) dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika ia ~ matematika, saya tidak dapat berkutik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "soal"
+    }
+  ]
+}

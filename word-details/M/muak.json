@@ -1,1 +1,73 @@
-{"word":"muak","authenticated":true,"entries":[{"id":"55227","nama":"mu.ak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sudah jemu (karena sudah kerap kali makan dan sebagainya)","contoh":[{"nomor":2,"teks":"tiap hari diberi makan tempe, -- sudah"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merasa jijik sampai hendak muntah","contoh":[{"nomor":2,"teks":"-- aku melihat kotoran manusia tidak disiram"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merasa bosan atau jijik mendengar atau melihat","contoh":[{"nomor":2,"teks":"aku -- melihat tingkah lakunya"}]}],"terkait":{"kataTurunan":["kemuakan","memuakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "muak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55227",
+      "nama": "mu.ak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah jemu (karena sudah kerap kali makan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiap hari diberi makan tempe, -- sudah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa jijik sampai hendak muntah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- aku melihat kotoran manusia tidak disiram"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa bosan atau jijik mendengar atau melihat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku -- melihat tingkah lakunya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemuakan",
+          "memuakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

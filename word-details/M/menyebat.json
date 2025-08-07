@@ -1,1 +1,53 @@
-{"word":"menyebat","authenticated":true,"entries":[{"id":"72974","nama":"me.nye.bat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul dengan barang yang kecil dan tidak kaku","contoh":[{"nomor":2,"teks":"ia ~ kucingnya dengan rotan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mencuri (menyerobot, mencopet, dan sebagainya)","contoh":[{"nomor":2,"teks":"laki-laki yang ~ dompet wanita itu tertangkap"}]}],"rootWord":"sebat¹"}]}
+{
+  "word": "menyebat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72974",
+      "nama": "me.nye.bat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul dengan barang yang kecil dan tidak kaku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kucingnya dengan rotan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencuri (menyerobot, mencopet, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "laki-laki yang ~ dompet wanita itu tertangkap"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sebat¹"
+    }
+  ]
+}

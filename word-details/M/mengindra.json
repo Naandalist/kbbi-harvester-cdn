@@ -1,1 +1,43 @@
-{"word":"mengindra","authenticated":true,"entries":[{"id":"31634","nama":"meng.in.dra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbuat untuk merasakan sesuatu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"mengukur berbagai sifat fisik benda dengan cara tidak menyentuhnya","contoh":[]}],"rootWord":"indra¹"}]}
+{
+  "word": "mengindra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31634",
+      "nama": "meng.in.dra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbuat untuk merasakan sesuatu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "mengukur berbagai sifat fisik benda dengan cara tidak menyentuhnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "indra¹"
+    }
+  ]
+}

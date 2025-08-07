@@ -1,1 +1,241 @@
-{"word":"membuka","authenticated":true,"entries":[{"id":"12979","nama":"mem.bu.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan tidak tertutup atau tidak bertutup (seperti menyingkap penutupnya, tudungnya, pagarnya)","contoh":[{"nomor":2,"teks":"setiap pukul 05.00 pagi ia sudah ~ jendela"},{"nomor":4,"teks":"jika ~ lemari jangan lupa menutupnya kembali"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menanggalkan","contoh":[{"nomor":2,"teks":"~ baju"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengangkat","contoh":[{"nomor":2,"teks":"~ topi"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membentangkan; mengembangkan","contoh":[{"nomor":2,"teks":"~ tangan"},{"nomor":4,"teks":"~ layar"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengurai; meretas","contoh":[{"nomor":2,"teks":"~ tali"},{"nomor":4,"teks":"~ simpul"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merintis","contoh":[{"nomor":2,"teks":"~ jalan"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat","contoh":[{"nomor":2,"teks":"~ jembatan"}]},{"nomor":"8","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadakan atau memberi (kesempatan)","contoh":[{"nomor":2,"teks":"~ kesempatan belajar"}]},{"nomor":"9","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memulai; mengusahakan; menyelenggarakan","contoh":[{"nomor":2,"teks":"~ bicara"},{"nomor":4,"teks":"~ sidang"}]},{"nomor":"10","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengembangkan","contoh":[{"nomor":2,"teks":"~ pikiran"},{"nomor":4,"teks":"~ hati"}]},{"nomor":"11","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengungkapkan; memperlihatkan","contoh":[{"nomor":2,"teks":"~ rahasia"},{"nomor":4,"teks":"~ warna"}]}],"rootWord":"buka¹","terkait":{"kataTurunan":[],"gabunganKata":["membuka lahan"],"peribahasa":["membuka tambo lama"],"idiom":["membuka hati","membuka keran","membuka lembaran baru","membuka pintu","membuka ruang"]}}]}
+{
+  "word": "membuka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12979",
+      "nama": "mem.bu.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan tidak tertutup atau tidak bertutup (seperti menyingkap penutupnya, tudungnya, pagarnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap pukul 05.00 pagi ia sudah ~ jendela"
+            },
+            {
+              "nomor": 4,
+              "teks": "jika ~ lemari jangan lupa menutupnya kembali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanggalkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ baju"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengangkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ topi"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membentangkan; mengembangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tangan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ layar"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengurai; meretas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tali"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ simpul"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merintis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ jembatan"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadakan atau memberi (kesempatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kesempatan belajar"
+            }
+          ]
+        },
+        {
+          "nomor": "9",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memulai; mengusahakan; menyelenggarakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bicara"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ sidang"
+            }
+          ]
+        },
+        {
+          "nomor": "10",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengembangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pikiran"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ hati"
+            }
+          ]
+        },
+        {
+          "nomor": "11",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengungkapkan; memperlihatkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ rahasia"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ warna"
+            }
+          ]
+        }
+      ],
+      "rootWord": "buka¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "membuka lahan"
+        ],
+        "peribahasa": [
+          "membuka tambo lama"
+        ],
+        "idiom": [
+          "membuka hati",
+          "membuka keran",
+          "membuka lembaran baru",
+          "membuka pintu",
+          "membuka ruang"
+        ]
+      }
+    }
+  ]
+}

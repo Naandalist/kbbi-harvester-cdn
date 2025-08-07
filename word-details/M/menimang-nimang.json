@@ -1,1 +1,48 @@
-{"word":"menimang-nimang","authenticated":true,"entries":[{"id":"85999","nama":"me.ni.mang-ni.mang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menimbang-nimbang; mempertimbangkan baik-baik","contoh":[{"nomor":2,"teks":"ia selalu ~ segala sesuatu yang akan dikerjakan"}]}],"rootWord":"timang¹"}]}
+{
+  "word": "menimang-nimang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85999",
+      "nama": "me.ni.mang-ni.mang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimbang-nimbang; mempertimbangkan baik-baik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia selalu ~ segala sesuatu yang akan dikerjakan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "timang¹"
+    }
+  ]
+}

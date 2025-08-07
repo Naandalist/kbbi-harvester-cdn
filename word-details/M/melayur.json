@@ -1,1 +1,48 @@
-{"word":"melayur","authenticated":true,"entries":[{"id":"47605","nama":"me.la.yur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanaskan di atas (dekat) api (supaya kering, layu, hangat, dan sebagainya); memanggang","contoh":[{"nomor":2,"teks":"ia sedang ~ ikan (daging) di atas bara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membakar (dengan sinar matahari)","contoh":[{"nomor":2,"teks":"sinar matahari ~ kulitnya sampai hitam"}]}],"rootWord":"layur¹"}]}
+{
+  "word": "melayur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47605",
+      "nama": "me.la.yur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanaskan di atas (dekat) api (supaya kering, layu, hangat, dan sebagainya); memanggang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ ikan (daging) di atas bara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membakar (dengan sinar matahari)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sinar matahari ~ kulitnya sampai hitam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "layur¹"
+    }
+  ]
+}

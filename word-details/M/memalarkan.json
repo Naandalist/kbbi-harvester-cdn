@@ -1,1 +1,52 @@
-{"word":"memalarkan","authenticated":true,"entries":[{"id":"59339","nama":"me.ma.lar.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengharapkan","contoh":[{"nomor":2,"teks":"~ pertolongan sahabat"},{"nomor":4,"teks":"~ keuntungan yang belum di tangan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganggap lumayan (daripada tidak memperoleh apa-apa)","contoh":[{"nomor":2,"teks":"walaupun sedikit, ia ~ juga"}]}],"rootWord":"palar¹"}]}
+{
+  "word": "memalarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59339",
+      "nama": "me.ma.lar.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengharapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pertolongan sahabat"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ keuntungan yang belum di tangan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganggap lumayan (daripada tidak memperoleh apa-apa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "walaupun sedikit, ia ~ juga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "palar¹"
+    }
+  ]
+}

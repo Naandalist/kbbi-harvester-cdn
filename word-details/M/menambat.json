@@ -1,1 +1,56 @@
-{"word":"menambat","authenticated":true,"entries":[{"id":"81693","nama":"me.nam.bat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat dengan tali yang dikenakan pada tiang (pancang dan sebagainya)","contoh":[{"nomor":2,"teks":"gembala itu ~ kerbaunya pada batang pohon"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikat (memikat, menawan, menarik) hati","contoh":[]}],"rootWord":"tambat¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menambat tidak bertali"],"idiom":[]}}]}
+{
+  "word": "menambat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81693",
+      "nama": "me.nam.bat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat dengan tali yang dikenakan pada tiang (pancang dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gembala itu ~ kerbaunya pada batang pohon"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat (memikat, menawan, menarik) hati",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tambat¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menambat tidak bertali"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

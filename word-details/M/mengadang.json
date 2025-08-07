@@ -1,1 +1,135 @@
-{"word":"mengadang","authenticated":true,"entries":[{"id":"421","nama":"meng.a.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghalangi (merintangi orang berjalan dan sebagainya) dengan cara mendepang","contoh":[{"nomor":2,"teks":"jangan engkau ~ orang itu, biarkan dia lewat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menunggu di tempat yang sunyi (biasanya dengan maksud jahat, seperti membunuh, merampok, menyamun); mencegat","contoh":[{"nomor":2,"teks":"gerombolan bersenjata ~ iring-iringan mobil"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menuju; memaksudkan; menghadapi","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menempuh (menantang) bahaya (kesukaran dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka berani ~ bahaya maut"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"menunggu durian jatuh dari pohon","contoh":[{"nomor":2,"teks":"mereka ~ durian semalaman di kebun"}]}],"rootWord":"adang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berlayar menentang (mengadang, menuju) pulau"],"idiom":[]}},{"id":"35662","nama":"me.nga.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeringkan (membuang) air nasi dari periuk (supaya lekas kering)","contoh":[]}],"rootWord":"kadang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["berlayar menentang (mengadang, menuju) pulau"],"idiom":[]}}]}
+{
+  "word": "mengadang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "421",
+      "nama": "meng.a.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghalangi (merintangi orang berjalan dan sebagainya) dengan cara mendepang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan engkau ~ orang itu, biarkan dia lewat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menunggu di tempat yang sunyi (biasanya dengan maksud jahat, seperti membunuh, merampok, menyamun); mencegat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gerombolan bersenjata ~ iring-iringan mobil"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menuju; memaksudkan; menghadapi",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menempuh (menantang) bahaya (kesukaran dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka berani ~ bahaya maut"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menunggu durian jatuh dari pohon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ durian semalaman di kebun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "adang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berlayar menentang (mengadang, menuju) pulau"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "35662",
+      "nama": "me.nga.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeringkan (membuang) air nasi dari periuk (supaya lekas kering)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kadang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "berlayar menentang (mengadang, menuju) pulau"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

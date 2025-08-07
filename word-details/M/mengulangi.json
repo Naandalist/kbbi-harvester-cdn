@@ -1,1 +1,56 @@
-{"word":"mengulangi","authenticated":true,"entries":[{"id":"89196","nama":"meng.u.lang.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beberapa kali atau selalu mengulang; melakukan kembali hal yang dahulu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"selalu datang menengok dan sebagainya: mendatangi berkali-kali","contoh":[{"nomor":2,"teks":"dia ~ kubur istrinya setiap Kamis"}]}],"rootWord":"ulang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anjing mengulangi bangkai"],"idiom":[]}}]}
+{
+  "word": "mengulangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89196",
+      "nama": "meng.u.lang.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beberapa kali atau selalu mengulang; melakukan kembali hal yang dahulu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selalu datang menengok dan sebagainya: mendatangi berkali-kali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ kubur istrinya setiap Kamis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ulang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anjing mengulangi bangkai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

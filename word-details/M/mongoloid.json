@@ -1,1 +1,49 @@
-{"word":"mongoloid","authenticated":true,"entries":[{"id":"55024","nama":"mo.ngo.lo.id","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkenaan dengan karakteristik yang dimiliki oleh orang-orang ras Mongol","contoh":[]}]},{"id":"55025","nama":"mo.ngo.lo.id","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"penyakit bawaan dengan gejala kepala kecil, mata sipit miring ke atas samping, lidah tebal, dan retardasi mental; mongolisme; sindrom Down","contoh":[]}]}]}
+{
+  "word": "mongoloid",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55024",
+      "nama": "mo.ngo.lo.id",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkenaan dengan karakteristik yang dimiliki oleh orang-orang ras Mongol",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "55025",
+      "nama": "mo.ngo.lo.id",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyakit bawaan dengan gejala kepala kecil, mata sipit miring ke atas samping, lidah tebal, dan retardasi mental; mongolisme; sindrom Down",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

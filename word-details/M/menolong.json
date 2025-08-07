@@ -1,1 +1,91 @@
-{"word":"menolong","authenticated":true,"entries":[{"id":"86791","nama":"me.no.long","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membantu untuk meringankan beban (penderitaan, kesukaran, dan sebagainya)","contoh":[{"nomor":2,"teks":"saya mencari badan atau yayasan yang sudi ~ penderitaan saya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membantu supaya dapat melakukan sesuatu","contoh":[{"nomor":2,"teks":"kalau Anda tidak mau ~(ku), tidak akan selesai pekerjaanku ini"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melepaskan diri dari (bahaya, bencana, dan sebagainya); menyelamatkan","contoh":[{"nomor":2,"teks":"dialah yang ~ jiwaku sehingga aku terlepas dari bahaya maut"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat meringankan (penderitaan dan sebagainya); dapat menyembuhkan (penyakit dan sebagainya); dapat melepaskan dari (bahaya dan sebagainya)","contoh":[{"nomor":2,"teks":"berbagai obat diminumnya, tetapi tidak ~ juga"}]}],"rootWord":"tolong","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["adat hidup tolong-menolong, syariat palu-memalu","menolong kerbau ditangkap harimau"],"idiom":[]}}]}
+{
+  "word": "menolong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86791",
+      "nama": "me.no.long",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membantu untuk meringankan beban (penderitaan, kesukaran, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya mencari badan atau yayasan yang sudi ~ penderitaan saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membantu supaya dapat melakukan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau Anda tidak mau ~(ku), tidak akan selesai pekerjaanku ini"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melepaskan diri dari (bahaya, bencana, dan sebagainya); menyelamatkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dialah yang ~ jiwaku sehingga aku terlepas dari bahaya maut"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat meringankan (penderitaan dan sebagainya); dapat menyembuhkan (penyakit dan sebagainya); dapat melepaskan dari (bahaya dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berbagai obat diminumnya, tetapi tidak ~ juga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tolong",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "adat hidup tolong-menolong, syariat palu-memalu",
+          "menolong kerbau ditangkap harimau"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

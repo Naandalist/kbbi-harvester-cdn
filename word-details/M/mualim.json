@@ -1,1 +1,68 @@
-{"word":"mualim","authenticated":true,"entries":[{"id":"55236","nama":"mu.a.lim","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ahli agama; guru agama","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penunjuk jalan","contoh":[]}],"etimologi":{"text":"[Arab مُعَلِّمٌ mu‘allim n sg m 'pengajar']","languages":["Arab"]}},{"id":"55237","nama":"mu.a.lim","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perwira kapal berijazah pelayaran niaga nautika","contoh":[]}],"etimologi":{"text":"[Arab مُعَلِّمٌ mu‘allim n sg m 'pengajar']","languages":["Arab"]}}]}
+{
+  "word": "mualim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55236",
+      "nama": "mu.a.lim",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ahli agama; guru agama",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penunjuk jalan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُعَلِّمٌ mu‘allim n sg m 'pengajar']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "55237",
+      "nama": "mu.a.lim",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perwira kapal berijazah pelayaran niaga nautika",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُعَلِّمٌ mu‘allim n sg m 'pengajar']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

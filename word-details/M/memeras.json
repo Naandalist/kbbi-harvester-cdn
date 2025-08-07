@@ -1,1 +1,87 @@
-{"word":"memeras","authenticated":true,"entries":[{"id":"62327","nama":"me.me.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memijit (menekan dan sebagainya) supaya keluar airnya; memerah","contoh":[{"nomor":2,"teks":"~ susu lembu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengambil untung banyak-banyak dari orang lain","contoh":[{"nomor":2,"teks":"dia dituduh ~ buruh-buruhnya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meminta uang dan sebagainya dengan ancaman","contoh":[{"nomor":2,"teks":"ia dipersalahkan karena ~ seorang pedagang di pasar itu"}]}],"rootWord":"peras¹","terkait":{"kataTurunan":[],"gabunganKata":["memeras keringat","memeras otak","memeras tenaga"],"peribahasa":[],"idiom":["memeras keringat"]}}]}
+{
+  "word": "memeras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62327",
+      "nama": "me.me.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memijit (menekan dan sebagainya) supaya keluar airnya; memerah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ susu lembu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil untung banyak-banyak dari orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia dituduh ~ buruh-buruhnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminta uang dan sebagainya dengan ancaman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dipersalahkan karena ~ seorang pedagang di pasar itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "peras¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memeras keringat",
+          "memeras otak",
+          "memeras tenaga"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "memeras keringat"
+        ]
+      }
+    }
+  ]
+}

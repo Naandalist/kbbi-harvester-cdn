@@ -1,1 +1,51 @@
-{"word":"menderum","authenticated":true,"entries":[{"id":"19237","nama":"men.de.rum","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlutut dengan kedua kaki depan atau dengan keempat kakinya (tentang binatang besar seperti lembu, kerbau)","contoh":[{"nomor":2,"teks":"kerbau ~ di dalam kandangnya"}]}],"rootWord":"derum¹"},{"id":"19240","nama":"men.de.rum","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berderum","contoh":[]}],"rootWord":"derum²"}]}
+{
+  "word": "menderum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19237",
+      "nama": "men.de.rum",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlutut dengan kedua kaki depan atau dengan keempat kakinya (tentang binatang besar seperti lembu, kerbau)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kerbau ~ di dalam kandangnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "derum¹"
+    },
+    {
+      "id": "19240",
+      "nama": "men.de.rum",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berderum",
+          "contoh": []
+        }
+      ],
+      "rootWord": "derum²"
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"midi","authenticated":true,"entries":[{"id":"54221","nama":"mi.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(ukuran) sedang (tidak panjang dan tidak pendek); di antara maksi dan mini","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pakaian atau gaun yang panjangnya sampai di tengah-tengah betis","contoh":[]}]},{"id":"224487","nama":"MIDI","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"teknik standar yang umum digunakan untuk menghubungkan alat musik elektronik dan komputer; Musical Instrument Digital Interface","contoh":[]}]}]}
+{
+  "word": "midi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54221",
+      "nama": "mi.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(ukuran) sedang (tidak panjang dan tidak pendek); di antara maksi dan mini",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pakaian atau gaun yang panjangnya sampai di tengah-tengah betis",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "224487",
+      "nama": "MIDI",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "teknik standar yang umum digunakan untuk menghubungkan alat musik elektronik dan komputer; Musical Instrument Digital Interface",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"melantarkan","authenticated":true,"entries":[{"id":"46802","nama":"me.lan.tar.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyebabkan (pertikaian, kerugian, dan sebagainya)","contoh":[{"nomor":2,"teks":"perlu diselidiki hal yang ~ penderitaan rakyat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyampaikan (usul, permintaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"tugas kami hanya ~ usul Saudara"}]}],"rootWord":"lantar¹"}]}
+{
+  "word": "melantarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46802",
+      "nama": "me.lan.tar.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan (pertikaian, kerugian, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perlu diselidiki hal yang ~ penderitaan rakyat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyampaikan (usul, permintaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tugas kami hanya ~ usul Saudara"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lantar¹"
+    }
+  ]
+}

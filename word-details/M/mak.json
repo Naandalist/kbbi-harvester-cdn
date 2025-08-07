@@ -1,1 +1,105 @@
-{"word":"mak","authenticated":true,"entries":[{"id":"51266","nama":"mak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ibu","contoh":[{"nomor":2,"teks":"sambil menangis anak kecil itu memanggil-manggil --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada perempuan yang patut disebut ibu atau dianggap sepadan dengan ibu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["mak andam","mak angkat","mak berang","mak bungsu","mak cik","mak inang","mak inang terejun","mak kandung","mak kecil","mak kopek","mak lung","mak muda","mak ngah","mak saudara","mak su","mak tiri","mak tua","mak ua","mak uda","mak panggung"],"peribahasa":["bagai mak mandul baru beranak"],"idiom":[]}},{"id":"51282","nama":"mak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mamak","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["mak panggung"],"peribahasa":["bagai mak mandul baru beranak"],"idiom":[]}}]}
+{
+  "word": "mak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51266",
+      "nama": "mak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sambil menangis anak kecil itu memanggil-manggil --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada perempuan yang patut disebut ibu atau dianggap sepadan dengan ibu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mak andam",
+          "mak angkat",
+          "mak berang",
+          "mak bungsu",
+          "mak cik",
+          "mak inang",
+          "mak inang terejun",
+          "mak kandung",
+          "mak kecil",
+          "mak kopek",
+          "mak lung",
+          "mak muda",
+          "mak ngah",
+          "mak saudara",
+          "mak su",
+          "mak tiri",
+          "mak tua",
+          "mak ua",
+          "mak uda",
+          "mak panggung"
+        ],
+        "peribahasa": [
+          "bagai mak mandul baru beranak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "51282",
+      "nama": "mak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mamak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mak panggung"
+        ],
+        "peribahasa": [
+          "bagai mak mandul baru beranak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

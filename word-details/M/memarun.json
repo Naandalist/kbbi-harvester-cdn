@@ -1,1 +1,31 @@
-{"word":"memarun","authenticated":true,"entries":[{"id":"60595","nama":"me.ma.run","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membakar barang-barang yang tidak berguna lagi, seperti sampah dan daun-daun kering","contoh":[{"nomor":2,"teks":"ia ~ rumput-rumput kering di kebunnya"}]}],"rootWord":"parun"}]}
+{
+  "word": "memarun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60595",
+      "nama": "me.ma.run",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membakar barang-barang yang tidak berguna lagi, seperti sampah dan daun-daun kering",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ rumput-rumput kering di kebunnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "parun"
+    }
+  ]
+}

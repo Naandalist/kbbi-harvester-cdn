@@ -1,1 +1,56 @@
-{"word":"menyaingi","authenticated":true,"entries":[{"id":"70974","nama":"me.nya.ing.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berusaha melawan (menyamai, mengatasi, mendahului)","contoh":[{"nomor":2,"teks":"untuk merebut pasaran, pedagang itu berusaha membanting harga untuk ~ lawan dagangnya"}]}],"rootWord":"saing¹"},{"id":"70987","nama":"me.nya.ing.i","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiringi (tentang perahu); membarengi","contoh":[{"nomor":2,"teks":"dua buah galing ~ kapal itu"}]}],"rootWord":"saing²"}]}
+{
+  "word": "menyaingi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70974",
+      "nama": "me.nya.ing.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berusaha melawan (menyamai, mengatasi, mendahului)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk merebut pasaran, pedagang itu berusaha membanting harga untuk ~ lawan dagangnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "saing¹"
+    },
+    {
+      "id": "70987",
+      "nama": "me.nya.ing.i",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiringi (tentang perahu); membarengi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua buah galing ~ kapal itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "saing²"
+    }
+  ]
+}

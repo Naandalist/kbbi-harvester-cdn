@@ -1,1 +1,57 @@
-{"word":"membidani","authenticated":true,"entries":[{"id":"11271","nama":"mem.bi.dan.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertindak sebagai bidan; menolong orang melahirkan","contoh":[{"nomor":2,"teks":"meskipun dokter, ia tidak sanggup kalau harus ~ istrinya sendiri"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencetuskan gagasan lahirnya sesuatu (forum, organisasi, dan sebagainya); memelopori","contoh":[{"nomor":2,"teks":"tokoh reformasi itu telah ~ kekuatan pengimbang di antara dua kubu calon presiden"},{"nomor":4,"teks":"Bung Karno telah ~ negara Republik Indonesia"}]}],"rootWord":"bidan"}]}
+{
+  "word": "membidani",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11271",
+      "nama": "mem.bi.dan.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertindak sebagai bidan; menolong orang melahirkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meskipun dokter, ia tidak sanggup kalau harus ~ istrinya sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencetuskan gagasan lahirnya sesuatu (forum, organisasi, dan sebagainya); memelopori",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tokoh reformasi itu telah ~ kekuatan pengimbang di antara dua kubu calon presiden"
+            },
+            {
+              "nomor": 4,
+              "teks": "Bung Karno telah ~ negara Republik Indonesia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bidan"
+    }
+  ]
+}

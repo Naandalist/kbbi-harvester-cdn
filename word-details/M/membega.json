@@ -1,1 +1,46 @@
-{"word":"membega","authenticated":true,"entries":[{"id":"9380","nama":"mem.be.ga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbega","contoh":[]}],"rootWord":"bega¹"},{"id":"9384","nama":"mem.be.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membidik","contoh":[]}],"rootWord":"bega²"}]}
+{
+  "word": "membega",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9380",
+      "nama": "mem.be.ga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbega",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bega¹"
+    },
+    {
+      "id": "9384",
+      "nama": "mem.be.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membidik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bega²"
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"mengacarakan","authenticated":true,"entries":[{"id":"314","nama":"meng.a.ca.ra.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencantumkan di dalam acara; menjadikan acara (rapat dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadukan (perkara); memerkarakan","contoh":[]}],"rootWord":"acara¹"},{"id":"319","nama":"meng.a.ca.ra.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mempersilakan (duduk, makan, dan sebagainya)","contoh":[]}],"rootWord":"acara²"}]}
+{
+  "word": "mengacarakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "314",
+      "nama": "meng.a.ca.ra.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencantumkan di dalam acara; menjadikan acara (rapat dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadukan (perkara); memerkarakan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "acara¹"
+    },
+    {
+      "id": "319",
+      "nama": "meng.a.ca.ra.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mempersilakan (duduk, makan, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "acara²"
+    }
+  ]
+}

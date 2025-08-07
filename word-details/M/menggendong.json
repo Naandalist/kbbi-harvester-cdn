@@ -1,1 +1,56 @@
-{"word":"menggendong","authenticated":true,"entries":[{"id":"25973","nama":"meng.gen.dong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"gendong","contoh":[{"nomor":2,"teks":"posisi yang salah saat ~ bayi dapat membahayakan tulang bayi"}]}],"rootWord":"gendong¹"},{"id":"25976","nama":"meng.gen.dong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"vul","nama":"Vulgar","tipe":"lainnya"}],"definisi":"bersanggama","contoh":[]}],"rootWord":"gendong²"}]}
+{
+  "word": "menggendong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25973",
+      "nama": "meng.gen.dong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gendong",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "posisi yang salah saat ~ bayi dapat membahayakan tulang bayi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gendong¹"
+    },
+    {
+      "id": "25976",
+      "nama": "meng.gen.dong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "vul",
+              "nama": "Vulgar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bersanggama",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gendong²"
+    }
+  ]
+}

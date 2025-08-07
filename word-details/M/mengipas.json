@@ -1,1 +1,60 @@
-{"word":"mengipas","authenticated":true,"entries":[{"id":"41951","nama":"me.ngi.pas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(pipih) menyerupai kipas (tentang bentuk)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"bergerak-gerak (tentang jantung); berkembang kempis","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"menggerak-gerakkan kipas","contoh":[]}],"rootWord":"kipas"}]}
+{
+  "word": "mengipas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41951",
+      "nama": "me.ngi.pas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(pipih) menyerupai kipas (tentang bentuk)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bergerak-gerak (tentang jantung); berkembang kempis",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menggerak-gerakkan kipas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kipas"
+    }
+  ]
+}

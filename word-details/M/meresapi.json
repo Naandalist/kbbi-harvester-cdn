@@ -1,1 +1,48 @@
-{"word":"meresapi","authenticated":true,"entries":[{"id":"68983","nama":"me.re.sap.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"masuk ke dalam bidang atau sesuatu dengan rata atau datar dan semua bidang atau sesuatu itu mendapat bagian yang sama; meresap ke dalam","contoh":[{"nomor":2,"teks":"air tidak dapat ~ lantai yang dibuat istimewa itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menikmati","contoh":[]}],"rootWord":"resap"}]}
+{
+  "word": "meresapi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68983",
+      "nama": "me.re.sap.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk ke dalam bidang atau sesuatu dengan rata atau datar dan semua bidang atau sesuatu itu mendapat bagian yang sama; meresap ke dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air tidak dapat ~ lantai yang dibuat istimewa itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menikmati",
+          "contoh": []
+        }
+      ],
+      "rootWord": "resap"
+    }
+  ]
+}

@@ -1,1 +1,46 @@
-{"word":"menyetik","authenticated":true,"entries":[{"id":"76462","nama":"me.nye.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjengkal","contoh":[]}],"rootWord":"setik¹"},{"id":"76478","nama":"me.nye.tik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat setik","contoh":[]}],"rootWord":"setik²"}]}
+{
+  "word": "menyetik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76462",
+      "nama": "me.nye.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjengkal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "setik¹"
+    },
+    {
+      "id": "76478",
+      "nama": "me.nye.tik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat setik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "setik²"
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"word":"mardumon","authenticated":true,"entries":[{"id":"125866","nama":"mar.du.mon","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"memakan beras (biasanya saat membersihkan beras)","contoh":[{"nomor":2,"teks":"nenek selalu -- saat menampi  beras"}]}]}]}
+{
+  "word": "mardumon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "125866",
+      "nama": "mar.du.mon",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memakan beras (biasanya saat membersihkan beras)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nenek selalu -- saat menampi  beras"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

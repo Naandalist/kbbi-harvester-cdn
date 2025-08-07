@@ -1,1 +1,43 @@
-{"word":"melombar","authenticated":true,"entries":[{"id":"50048","nama":"me.lom.bar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengulur (tali dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menurutkan kehendak anak dan sebagainya","contoh":[]}],"rootWord":"lombar¹"}]}
+{
+  "word": "melombar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50048",
+      "nama": "me.lom.bar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengulur (tali dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurutkan kehendak anak dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lombar¹"
+    }
+  ]
+}

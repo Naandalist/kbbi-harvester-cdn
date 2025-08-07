@@ -1,1 +1,68 @@
-{"word":"membubul","authenticated":true,"entries":[{"id":"12791","nama":"mem.bu.bul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperbaiki atau menambal jala, jaring, dan sebagainya","contoh":[{"nomor":2,"teks":"nelayan itu sedang asyik ~ jaring dan pukat"}]}],"rootWord":"bubul²"},{"id":"12793","nama":"mem.bu.bul","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik; membubung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar bersama-sama banyak-banyak","contoh":[{"nomor":2,"teks":"bagai anai-anai ~ dari liangnya"}]}],"rootWord":"bubul³"}]}
+{
+  "word": "membubul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12791",
+      "nama": "mem.bu.bul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbaiki atau menambal jala, jaring, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nelayan itu sedang asyik ~ jaring dan pukat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bubul²"
+    },
+    {
+      "id": "12793",
+      "nama": "mem.bu.bul",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik; membubung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar bersama-sama banyak-banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bagai anai-anai ~ dari liangnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bubul³"
+    }
+  ]
+}

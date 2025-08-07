@@ -1,1 +1,62 @@
-{"word":"mendebik","authenticated":true,"entries":[{"id":"18217","nama":"men.de.bik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menepuk; menampar","contoh":[]}],"rootWord":"debik¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mendebik mata parang"],"idiom":[]}},{"id":"18220","nama":"men.de.bik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengembik (tentang bunyi kambing)","contoh":[]}],"rootWord":"debik²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mendebik mata parang"],"idiom":[]}}]}
+{
+  "word": "mendebik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18217",
+      "nama": "men.de.bik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menepuk; menampar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "debik¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mendebik mata parang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "18220",
+      "nama": "men.de.bik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengembik (tentang bunyi kambing)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "debik²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mendebik mata parang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

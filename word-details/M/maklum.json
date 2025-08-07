@@ -1,1 +1,65 @@
-{"word":"maklum","authenticated":true,"entries":[{"id":"51454","nama":"mak.lum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"paham; mengerti; tahu","contoh":[{"nomor":2,"teks":"saya -- akan hal itu"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dapat dipahami (dimengerti)","contoh":[{"nomor":2,"teks":"-- orang desa belum mengerti adat kota"}]}],"etimologi":{"text":"[Arab مَعْلُوْمٌ ma‘lūm n sg m 'hal yang dipahami']","languages":["Arab"]},"terkait":{"kataTurunan":["kemakluman","memaklumi","memaklumkan","mempermaklumkan","pemakluman"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "maklum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51454",
+      "nama": "mak.lum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paham; mengerti; tahu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya -- akan hal itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dipahami (dimengerti)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- orang desa belum mengerti adat kota"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَعْلُوْمٌ ma‘lūm n sg m 'hal yang dipahami']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemakluman",
+          "memaklumi",
+          "memaklumkan",
+          "mempermaklumkan",
+          "pemakluman"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

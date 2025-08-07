@@ -1,1 +1,51 @@
-{"word":"mengisut","authenticated":true,"entries":[{"id":"42117","nama":"me.ngi.sut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai kisut; menjadi kisut; mengeriput","contoh":[{"nomor":2,"teks":"pipinya sudah ~, begitu pula kulit tangan dan kulit kakinya"}]}],"rootWord":"kisut¹"},{"id":"42120","nama":"me.ngi.sut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengayak","contoh":[]}],"rootWord":"kisut²"}]}
+{
+  "word": "mengisut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42117",
+      "nama": "me.ngi.sut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai kisut; menjadi kisut; mengeriput",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pipinya sudah ~, begitu pula kulit tangan dan kulit kakinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kisut¹"
+    },
+    {
+      "id": "42120",
+      "nama": "me.ngi.sut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengayak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kisut²"
+    }
+  ]
+}

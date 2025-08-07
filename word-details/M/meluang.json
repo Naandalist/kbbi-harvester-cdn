@@ -1,1 +1,60 @@
-{"word":"meluang","authenticated":true,"entries":[{"id":"50292","nama":"me.lu.ang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berasa pegal (ngilu) sekujur badan","contoh":[{"nomor":2,"teks":"dua tiga hari ini badan terasa ~ saja"}]}],"rootWord":"luang²"},{"id":"168724","nama":"me.lu. ang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bsm","nama":"Basemah","tipe":"lainnya"}],"definisi":"berkata terlalu kasar sehingga membuat lawan bicara menangis atau bahkan menjadi marah","contoh":[{"nomor":2,"teks":"saya tidak suka orang yang suka --"}]}]}]}
+{
+  "word": "meluang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50292",
+      "nama": "me.lu.ang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasa pegal (ngilu) sekujur badan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua tiga hari ini badan terasa ~ saja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "luang²"
+    },
+    {
+      "id": "168724",
+      "nama": "me.lu. ang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bsm",
+              "nama": "Basemah",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkata terlalu kasar sehingga membuat lawan bicara menangis atau bahkan menjadi marah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya tidak suka orang yang suka --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

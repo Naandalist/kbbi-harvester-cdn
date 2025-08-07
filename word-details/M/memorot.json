@@ -1,1 +1,60 @@
-{"word":"memorot","authenticated":true,"entries":[{"id":"64737","nama":"me.mo.rot","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerek; menggigit; meretas (karung beras dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencuri (beras dalam karung dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memeras (menguras) dengan cara yang licik hingga habis (uang atau benda milik orang lain)","contoh":[{"nomor":2,"teks":"kata temanku, orang itu akan ~ uangku"}]}],"rootWord":"porot"}]}
+{
+  "word": "memorot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64737",
+      "nama": "me.mo.rot",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerek; menggigit; meretas (karung beras dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencuri (beras dalam karung dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeras (menguras) dengan cara yang licik hingga habis (uang atau benda milik orang lain)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata temanku, orang itu akan ~ uangku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "porot"
+    }
+  ]
+}

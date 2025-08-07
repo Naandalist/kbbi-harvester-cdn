@@ -1,1 +1,70 @@
-{"word":"menghidangkan","authenticated":true,"entries":[{"id":"29402","nama":"meng.hi.dang.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuguhkan (tentang makanan, minuman, dan sebagainya) kepada orang lain; menyajikan; menyediakan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengemukakan (membentangkan dan sebagainya) dalam rapat, surat kabar, dan sebagainya","contoh":[{"nomor":2,"teks":"majalah hiburan itu ~ bacaan segar"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mempertontonkan; memperagakan (tentang tontonan, permainan, dan sebagainya)","contoh":[{"nomor":2,"teks":"Prancis telah ~ permainan bola yang menarik"}]}],"rootWord":"hidang"}]}
+{
+  "word": "menghidangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29402",
+      "nama": "meng.hi.dang.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuguhkan (tentang makanan, minuman, dan sebagainya) kepada orang lain; menyajikan; menyediakan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengemukakan (membentangkan dan sebagainya) dalam rapat, surat kabar, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "majalah hiburan itu ~ bacaan segar"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempertontonkan; memperagakan (tentang tontonan, permainan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Prancis telah ~ permainan bola yang menarik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hidang"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"mengguit","authenticated":true,"entries":[{"id":"27612","nama":"meng.gu.it","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyentuh sesuatu dengan jari (kaki dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ temannya sebagai tanda mengajak keluar dari tempat yang ramai itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyinggung","contoh":[{"nomor":2,"teks":"anjuran itu dianggapnya ~ haknya"}]}],"rootWord":"guit"}]}
+{
+  "word": "mengguit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27612",
+      "nama": "meng.gu.it",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyentuh sesuatu dengan jari (kaki dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ temannya sebagai tanda mengajak keluar dari tempat yang ramai itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyinggung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anjuran itu dianggapnya ~ haknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "guit"
+    }
+  ]
+}

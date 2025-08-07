@@ -1,1 +1,48 @@
-{"word":"membengkok","authenticated":true,"entries":[{"id":"10234","nama":"mem.beng.kok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi bengkok","contoh":[{"nomor":2,"teks":"tiang listrik itu ~ terlanggar truk"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berubah arah; berbelok","contoh":[{"nomor":2,"teks":"tiba di kaki bukit, jalan itu ~ ke kiri"}]}],"rootWord":"bengkok¹"}]}
+{
+  "word": "membengkok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10234",
+      "nama": "mem.beng.kok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi bengkok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiang listrik itu ~ terlanggar truk"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berubah arah; berbelok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba di kaki bukit, jalan itu ~ ke kiri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bengkok¹"
+    }
+  ]
+}

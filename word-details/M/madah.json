@@ -1,1 +1,89 @@
-{"word":"madah","authenticated":true,"entries":[{"id":"50882","nama":"ma.dah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata-kata pujian","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kata","contoh":[{"nomor":2,"teks":"berpanjang --"}]}],"etimologi":{"text":"[Arab مَدْحٌ madḥ n sg m 'pujian']","languages":["Arab"]},"terkait":{"kataTurunan":["bermadah","bermadah-madah","memadahkan","pemadah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"50886","nama":"ma.dah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mad","contoh":[]}],"etimologi":{"text":"[Arab مَدْحٌ madḥ n sg m 'pujian']","languages":["Arab"]}}]}
+{
+  "word": "madah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50882",
+      "nama": "ma.dah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata-kata pujian",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berpanjang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَدْحٌ madḥ n sg m 'pujian']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bermadah",
+          "bermadah-madah",
+          "memadahkan",
+          "pemadah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "50886",
+      "nama": "ma.dah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mad",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَدْحٌ madḥ n sg m 'pujian']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

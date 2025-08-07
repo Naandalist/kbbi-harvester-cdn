@@ -1,1 +1,48 @@
-{"word":"marah-marah","authenticated":true,"entries":[{"id":"52279","nama":"ma.rah-ma.rah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkali-kali marah","contoh":[{"nomor":2,"teks":"hari ini Ibu ~ saja"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan kata-kata menunjukkan rasa marah","contoh":[{"nomor":2,"teks":"pagi-pagi ia sudah ~ kepada tukang koran"}]}],"rootWord":"marah¹"}]}
+{
+  "word": "marah-marah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52279",
+      "nama": "ma.rah-ma.rah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkali-kali marah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari ini Ibu ~ saja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan kata-kata menunjukkan rasa marah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pagi-pagi ia sudah ~ kepada tukang koran"
+            }
+          ]
+        }
+      ],
+      "rootWord": "marah¹"
+    }
+  ]
+}

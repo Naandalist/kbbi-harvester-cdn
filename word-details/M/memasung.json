@@ -1,1 +1,60 @@
-{"word":"memasung","authenticated":true,"entries":[{"id":"60841","nama":"me.ma.sung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membelenggu seseorang dengan pasung; memasang pasung pada...","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasukkan ke dalam kurungan (penjara)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membatasi (menghambat) ruang gerak","contoh":[{"nomor":2,"teks":"peraturan itu ~ kreativitas anak-anak"}]}],"rootWord":"pasung¹"}]}
+{
+  "word": "memasung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "60841",
+      "nama": "me.ma.sung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membelenggu seseorang dengan pasung; memasang pasung pada...",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasukkan ke dalam kurungan (penjara)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membatasi (menghambat) ruang gerak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peraturan itu ~ kreativitas anak-anak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pasung¹"
+    }
+  ]
+}

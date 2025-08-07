@@ -1,1 +1,55 @@
-{"word":"menyuarakan","authenticated":true,"entries":[{"id":"79132","nama":"me.nyu.a.ra.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatakan; melisankan; mengucapkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyanyikan (lagu)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mewakili untuk mengemukakan sesuatu","contoh":[]}],"rootWord":"suara"}]}
+{
+  "word": "menyuarakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79132",
+      "nama": "me.nyu.a.ra.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatakan; melisankan; mengucapkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyanyikan (lagu)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mewakili untuk mengemukakan sesuatu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "suara"
+    }
+  ]
+}

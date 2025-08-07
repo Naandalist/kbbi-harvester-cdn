@@ -1,1 +1,58 @@
-{"word":"mengolak","authenticated":true,"entries":[{"id":"42657","nama":"me.ngo.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasak kolak","contoh":[]}],"rootWord":"kolak¹"},{"id":"57923","nama":"meng.o.lak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melanting kembali; terpental lagi (karena tidak tembus dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"enggan atau tidak mau lagi (makan sesuatu)","contoh":[]}],"rootWord":"olak⁴"}]}
+{
+  "word": "mengolak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42657",
+      "nama": "me.ngo.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasak kolak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kolak¹"
+    },
+    {
+      "id": "57923",
+      "nama": "meng.o.lak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melanting kembali; terpental lagi (karena tidak tembus dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "enggan atau tidak mau lagi (makan sesuatu)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "olak⁴"
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"mengangan","authenticated":true,"entries":[{"id":"3732","nama":"meng.a.ngan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berpikir-pikir; termenung-menung memikirkan sesuatu","contoh":[{"nomor":2,"teks":"daripada duduk ~, lebih baik kita bekerja"}]}],"rootWord":"angan¹"},{"id":"3740","nama":"meng.a.ngan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"melihat dengan memanjangkan leher; melongok","contoh":[]}],"rootWord":"angan²"}]}
+{
+  "word": "mengangan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3732",
+      "nama": "meng.a.ngan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpikir-pikir; termenung-menung memikirkan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daripada duduk ~, lebih baik kita bekerja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "angan¹"
+    },
+    {
+      "id": "3740",
+      "nama": "meng.a.ngan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "melihat dengan memanjangkan leher; melongok",
+          "contoh": []
+        }
+      ],
+      "rootWord": "angan²"
+    }
+  ]
+}

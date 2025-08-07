@@ -1,1 +1,51 @@
-{"word":"membelek","authenticated":true,"entries":[{"id":"9735","nama":"mem.be.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meretas panjang dan dalam dengan benda tajam sehingga kelihatan bagian dalamnya (isinya); membelah; membedah","contoh":[{"nomor":2,"teks":"Ibu sedang ~ perut ikan"}]}],"rootWord":"belek²"},{"id":"9739","nama":"mem.be.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melihat dengan teliti; mengincar; membidik","contoh":[]}],"rootWord":"belek²"}]}
+{
+  "word": "membelek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9735",
+      "nama": "mem.be.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meretas panjang dan dalam dengan benda tajam sehingga kelihatan bagian dalamnya (isinya); membelah; membedah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Ibu sedang ~ perut ikan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "belek²"
+    },
+    {
+      "id": "9739",
+      "nama": "mem.be.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melihat dengan teliti; mengincar; membidik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "belek²"
+    }
+  ]
+}

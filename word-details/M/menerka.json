@@ -1,1 +1,51 @@
-{"word":"menerka","authenticated":true,"entries":[{"id":"85406","nama":"me.ner.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menebak; menduga; mengira","contoh":[{"nomor":2,"teks":"dapatkah kalian ~, apa yang terdapat di dalam jaring itu?"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menuduh; menyangka; mendakwa","contoh":[]}],"rootWord":"terka","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["menerka ayam di dalam telur"],"idiom":[]}}]}
+{
+  "word": "menerka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85406",
+      "nama": "me.ner.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menebak; menduga; mengira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dapatkah kalian ~, apa yang terdapat di dalam jaring itu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menuduh; menyangka; mendakwa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "terka",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "menerka ayam di dalam telur"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"mengejan","authenticated":true,"entries":[{"id":"21175","nama":"meng.e.jan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan tekanan di dalam tubuh bagian bawah (perut) seperti ketika hendak buang air besar, akan melahirkan anak; meneran; merejan","contoh":[{"nomor":2,"teks":"~ membutuhkan banyak tenaga yang kuat dan koordinasi otot yang baik"}]}],"rootWord":"ejan¹"},{"id":"21177","nama":"meng.e.jan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memaksa (memaksa-maksa)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencari (mencari-cari)","contoh":[]}],"rootWord":"ejan²"},{"id":"38534","nama":"me.nge.jan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menekan dengan menahan napas (seperti orang hendak melahirkan); meneran; merejan","contoh":[]}],"rootWord":"kejan"}]}
+{
+  "word": "mengejan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21175",
+      "nama": "meng.e.jan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan tekanan di dalam tubuh bagian bawah (perut) seperti ketika hendak buang air besar, akan melahirkan anak; meneran; merejan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ membutuhkan banyak tenaga yang kuat dan koordinasi otot yang baik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ejan¹"
+    },
+    {
+      "id": "21177",
+      "nama": "meng.e.jan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memaksa (memaksa-maksa)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencari (mencari-cari)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ejan²"
+    },
+    {
+      "id": "38534",
+      "nama": "me.nge.jan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menekan dengan menahan napas (seperti orang hendak melahirkan); meneran; merejan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kejan"
+    }
+  ]
+}

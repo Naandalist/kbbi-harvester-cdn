@@ -1,1 +1,56 @@
-{"word":"mendidis","authenticated":true,"entries":[{"id":"19703","nama":"men.di.dis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiris tipis-tipis; menyayat","contoh":[{"nomor":2,"teks":"ia sedang ~ daging untuk dendeng"}]}],"rootWord":"didis¹"},{"id":"19705","nama":"men.di.dis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mencari kutu kepala; mengutui; menyelisik","contoh":[]}],"rootWord":"didis²"}]}
+{
+  "word": "mendidis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19703",
+      "nama": "men.di.dis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiris tipis-tipis; menyayat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ daging untuk dendeng"
+            }
+          ]
+        }
+      ],
+      "rootWord": "didis¹"
+    },
+    {
+      "id": "19705",
+      "nama": "men.di.dis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencari kutu kepala; mengutui; menyelisik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "didis²"
+    }
+  ]
+}

@@ -1,1 +1,64 @@
-{"word":"mencocok","authenticated":true,"entries":[{"id":"16369","nama":"men.co.cok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenai sesuatu dengan barang runcing (dan tajam); menusuk","contoh":[{"nomor":2,"teks":"~ bisul dengan jarum"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merangkai-rangkaikan (dengan tusuk)","contoh":[{"nomor":2,"teks":"~ satai"},{"nomor":4,"teks":"~ kajang"}]}],"rootWord":"cocok¹","terkait":{"kataTurunan":[],"gabunganKata":["mencocok hidung lembu","mencocok mata","mencocok tanda gambar"],"peribahasa":["telunjuk mencocok (merosok, menikam) mata (jari)"],"idiom":[]}}]}
+{
+  "word": "mencocok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16369",
+      "nama": "men.co.cok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenai sesuatu dengan barang runcing (dan tajam); menusuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bisul dengan jarum"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merangkai-rangkaikan (dengan tusuk)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ satai"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kajang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cocok¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencocok hidung lembu",
+          "mencocok mata",
+          "mencocok tanda gambar"
+        ],
+        "peribahasa": [
+          "telunjuk mencocok (merosok, menikam) mata (jari)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

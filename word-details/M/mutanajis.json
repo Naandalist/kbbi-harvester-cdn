@@ -1,1 +1,35 @@
-{"word":"mutanajis","authenticated":true,"entries":[{"id":"198727","nama":"mu.ta.na.jis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"bercampur dengan najis","contoh":[{"nomor":2,"teks":"air --"}]}]}]}
+{
+  "word": "mutanajis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198727",
+      "nama": "mu.ta.na.jis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bercampur dengan najis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

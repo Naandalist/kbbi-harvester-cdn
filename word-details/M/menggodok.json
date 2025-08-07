@@ -1,1 +1,53 @@
-{"word":"menggodok","authenticated":true,"entries":[{"id":"27115","nama":"meng.go.dok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merebus","contoh":[{"nomor":2,"teks":"menjelang Idulfitri hampir setiap ibu rumah tangga ~ ketupat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mematangkan; mengolah","contoh":[{"nomor":2,"teks":"pemerintah saat ini sedang ~ ide pembinaan kesehatan pedesaan"}]}],"rootWord":"godok"}]}
+{
+  "word": "menggodok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27115",
+      "nama": "meng.go.dok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merebus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menjelang Idulfitri hampir setiap ibu rumah tangga ~ ketupat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mematangkan; mengolah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah saat ini sedang ~ ide pembinaan kesehatan pedesaan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "godok"
+    }
+  ]
+}

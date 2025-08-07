@@ -1,1 +1,69 @@
-{"word":"mengganjur","authenticated":true,"entries":[{"id":"24357","nama":"meng.gan.jur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menombak","contoh":[]}],"rootWord":"ganjur¹","terkait":{"kataTurunan":[],"gabunganKata":["mengganjur diri","mengganjur surut"],"peribahasa":[],"idiom":[]}},{"id":"24360","nama":"meng.gan.jur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menarik; menyentak","contoh":[{"nomor":2,"teks":"~ tali layang-layang"}]}],"rootWord":"ganjur²","terkait":{"kataTurunan":[],"gabunganKata":["mengganjur diri","mengganjur surut"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mengganjur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24357",
+      "nama": "meng.gan.jur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menombak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ganjur¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengganjur diri",
+          "mengganjur surut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "24360",
+      "nama": "meng.gan.jur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menarik; menyentak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tali layang-layang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ganjur²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengganjur diri",
+          "mengganjur surut"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

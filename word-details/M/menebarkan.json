@@ -1,1 +1,86 @@
-{"word":"menebarkan","authenticated":true,"entries":[{"id":"83411","nama":"me.ne.bar.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencampakkan (jala) supaya terbentang; mengembangkan (jala)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menabur(kan); menyebar(kan); menghamburkan","contoh":[{"nomor":2,"teks":"~ benih"},{"nomor":4,"teks":"timbunan sampah ~ bau yang tidak sedap"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerak-nyerakkan","contoh":[{"nomor":2,"teks":"tukang kayu itu ~ perkakasnya di lantai"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyiarkan (agama, maklumat, dan sebagainya)","contoh":[{"nomor":2,"teks":"Pak Lurah sudah ~ maklumat kepada seluruh warga"}]}],"rootWord":"tebar"}]}
+{
+  "word": "menebarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83411",
+      "nama": "me.ne.bar.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencampakkan (jala) supaya terbentang; mengembangkan (jala)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menabur(kan); menyebar(kan); menghamburkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ benih"
+            },
+            {
+              "nomor": 4,
+              "teks": "timbunan sampah ~ bau yang tidak sedap"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerak-nyerakkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang kayu itu ~ perkakasnya di lantai"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyiarkan (agama, maklumat, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Pak Lurah sudah ~ maklumat kepada seluruh warga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebar"
+    }
+  ]
+}

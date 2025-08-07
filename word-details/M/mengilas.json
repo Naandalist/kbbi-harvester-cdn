@@ -1,1 +1,63 @@
-{"word":"mengilas","authenticated":true,"entries":[{"id":"31104","nama":"meng.i.las","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menginjak-injak sampai hancur dan sebagainya","contoh":[{"nomor":2,"teks":"jangan biarkan kambing itu ~ rumput yang baru saja ditanam"}]}],"rootWord":"ilas"},{"id":"41713","nama":"me.ngi.las","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang kilas; mengencangkan ikatan (tali) dengan pengukil","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggulung kain di pinggang (ketika memakainya atau memasangnya)","contoh":[]}],"rootWord":"kilas¹"}]}
+{
+  "word": "mengilas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31104",
+      "nama": "meng.i.las",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menginjak-injak sampai hancur dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan biarkan kambing itu ~ rumput yang baru saja ditanam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ilas"
+    },
+    {
+      "id": "41713",
+      "nama": "me.ngi.las",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang kilas; mengencangkan ikatan (tali) dengan pengukil",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggulung kain di pinggang (ketika memakainya atau memasangnya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kilas¹"
+    }
+  ]
+}

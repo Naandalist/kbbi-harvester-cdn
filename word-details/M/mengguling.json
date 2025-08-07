@@ -1,1 +1,71 @@
-{"word":"mengguling","authenticated":true,"entries":[{"id":"27673","nama":"meng.gu.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berguling; bergolek; berbelok miring (tentang perahu)","contoh":[]}],"rootWord":"guling²"},{"id":"27684","nama":"meng.gu.ling","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat guling; memanggang (kambing, babi, dan sebagainya) utuh-utuh (sambil diputar-putar)","contoh":[]}],"rootWord":"guling⁴"},{"id":"101846","nama":"meng.gu.ling","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menyerupai guling atau sosis","contoh":[]}],"rootWord":"guling¹"}]}
+{
+  "word": "mengguling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27673",
+      "nama": "meng.gu.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berguling; bergolek; berbelok miring (tentang perahu)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "guling²"
+    },
+    {
+      "id": "27684",
+      "nama": "meng.gu.ling",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat guling; memanggang (kambing, babi, dan sebagainya) utuh-utuh (sambil diputar-putar)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "guling⁴"
+    },
+    {
+      "id": "101846",
+      "nama": "meng.gu.ling",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menyerupai guling atau sosis",
+          "contoh": []
+        }
+      ],
+      "rootWord": "guling¹"
+    }
+  ]
+}

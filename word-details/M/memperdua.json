@@ -1,1 +1,53 @@
-{"word":"memperdua","authenticated":true,"entries":[{"id":"20627","nama":"mem.per.dua","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membagi atas dua bagian","contoh":[{"nomor":2,"teks":"mereka ~ hasilnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"memiara (ternak) atau mengerjakan sawah orang lain dengan perjanjian dengan mendapat bagian keuntungan separuhnya","contoh":[{"nomor":2,"teks":"banyak petani yang tidak bertanah meminta ~ sawah tuan tanah itu"}]}],"rootWord":"dua¹"}]}
+{
+  "word": "memperdua",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20627",
+      "nama": "mem.per.dua",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membagi atas dua bagian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ hasilnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "memiara (ternak) atau mengerjakan sawah orang lain dengan perjanjian dengan mendapat bagian keuntungan separuhnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak petani yang tidak bertanah meminta ~ sawah tuan tanah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dua¹"
+    }
+  ]
+}

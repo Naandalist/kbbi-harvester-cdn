@@ -1,1 +1,65 @@
-{"word":"mengayun","authenticated":true,"entries":[{"id":"6367","nama":"meng.a.yun","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berayun; bergoyang; berbuai-buai","contoh":[{"nomor":2,"teks":"ranting-ranting kayu pun ~ bagaikan tangan melambai"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turun (tentang matahari)","contoh":[{"nomor":2,"teks":"matahari telah ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerakkan supaya berayun","contoh":[{"nomor":2,"teks":"~ lenggang"}]}],"rootWord":"ayun"}]}
+{
+  "word": "mengayun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6367",
+      "nama": "meng.a.yun",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berayun; bergoyang; berbuai-buai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ranting-ranting kayu pun ~ bagaikan tangan melambai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun (tentang matahari)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matahari telah ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerakkan supaya berayun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lenggang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ayun"
+    }
+  ]
+}

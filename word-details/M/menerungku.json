@@ -1,1 +1,48 @@
-{"word":"menerungku","authenticated":true,"entries":[{"id":"85574","nama":"me.ne.rung.ku","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memenjarakan; menahan dalam penjara","contoh":[{"nomor":2,"teks":"raja itu ~ panglima yang berkhianat dalam penjara di bawah tanah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menguasai","contoh":[]}],"rootWord":"terungku"}]}
+{
+  "word": "menerungku",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85574",
+      "nama": "me.ne.rung.ku",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memenjarakan; menahan dalam penjara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "raja itu ~ panglima yang berkhianat dalam penjara di bawah tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguasai",
+          "contoh": []
+        }
+      ],
+      "rootWord": "terungku"
+    }
+  ]
+}

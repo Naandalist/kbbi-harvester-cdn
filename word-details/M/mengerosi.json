@@ -1,1 +1,51 @@
-{"word":"mengerosi","authenticated":true,"entries":[{"id":"40806","nama":"me.nge.ro.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menduduki","contoh":[]}],"rootWord":"kerosi"},{"id":"239201","nama":"meng.e.ro.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyebabkan erosi","contoh":[{"nomor":2,"teks":"asam sitrat dapat ~ email gigi"}]}],"rootWord":"erosi"}]}
+{
+  "word": "mengerosi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40806",
+      "nama": "me.nge.ro.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menduduki",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kerosi"
+    },
+    {
+      "id": "239201",
+      "nama": "meng.e.ro.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan erosi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "asam sitrat dapat ~ email gigi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "erosi"
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"menjalang","authenticated":true,"entries":[{"id":"33068","nama":"men.ja.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi liar; membuas","contoh":[]}],"rootWord":"jalang¹"},{"id":"33071","nama":"men.ja.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berkunjung; pergi ke","contoh":[{"nomor":2,"teks":"keluarga pengantin wanita ~ besannya"}]}],"rootWord":"jalang²"}]}
+{
+  "word": "menjalang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33068",
+      "nama": "men.ja.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi liar; membuas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jalang¹"
+    },
+    {
+      "id": "33071",
+      "nama": "men.ja.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berkunjung; pergi ke",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keluarga pengantin wanita ~ besannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jalang²"
+    }
+  ]
+}

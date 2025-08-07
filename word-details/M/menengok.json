@@ -1,1 +1,87 @@
-{"word":"menengok","authenticated":true,"entries":[{"id":"84910","nama":"me.ne.ngok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjenguk; mengunjungi","contoh":[{"nomor":2,"teks":"sudah lama kami tidak ~ sanak saudara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melihat; menonton","contoh":[{"nomor":2,"teks":"mereka senang ~ ke luar jendela itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menilik; memperhatikan","contoh":[{"nomor":2,"teks":"jika ~ paras mukanya, tentulah ia seorang bangsawan"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meramalkan","contoh":[{"nomor":2,"teks":"ia pandai ~ peruntungan orang"}]}],"rootWord":"tengok"}]}
+{
+  "word": "menengok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84910",
+      "nama": "me.ne.ngok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjenguk; mengunjungi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah lama kami tidak ~ sanak saudara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melihat; menonton",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka senang ~ ke luar jendela itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menilik; memperhatikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jika ~ paras mukanya, tentulah ia seorang bangsawan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meramalkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pandai ~ peruntungan orang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tengok"
+    }
+  ]
+}

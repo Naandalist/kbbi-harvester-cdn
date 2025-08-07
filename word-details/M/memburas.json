@@ -1,1 +1,75 @@
-{"word":"memburas","authenticated":true,"entries":[{"id":"13622","nama":"mem.bu.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membual","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membujuk-bujuk dengan perkataan yang muluk-muluk","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengobrol; beromong-omong; bercakap-cakap","contoh":[]}],"rootWord":"buras¹"},{"id":"13627","nama":"mem.bu.ras","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"menghapus; menghapuskan","contoh":[]}],"rootWord":"buras³"}]}
+{
+  "word": "memburas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13622",
+      "nama": "mem.bu.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membual",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membujuk-bujuk dengan perkataan yang muluk-muluk",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengobrol; beromong-omong; bercakap-cakap",
+          "contoh": []
+        }
+      ],
+      "rootWord": "buras¹"
+    },
+    {
+      "id": "13627",
+      "nama": "mem.bu.ras",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghapus; menghapuskan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "buras³"
+    }
+  ]
+}

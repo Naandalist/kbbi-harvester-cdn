@@ -1,1 +1,93 @@
-{"word":"merapat","authenticated":true,"entries":[{"id":"67535","nama":"me.ra.pat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi rapat; mendekat","contoh":[{"nomor":2,"teks":"ia duduk ~ ke ayahnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlabuh dekat pangkalan dan sebagainya","contoh":[{"nomor":2,"teks":"perlahan-lahan perahu itu pun ~lah"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi (berusaha) supaya akrab, erat (tentang persahabatan)","contoh":[{"nomor":2,"teks":"keluarga yang berselisih itu mulai ~"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"tumbuh dekat secara menyeluruh pada sumbu sambil menuju ke atas atau menaik dengan sudut kurang dari 15°","contoh":[]}],"rootWord":"rapat¹","terkait":{"kataTurunan":[],"gabunganKata":["merapat naik","merapat turun"],"peribahasa":["merapat sambil berlayar (berlayar sambil memapan)"],"idiom":[]}}]}
+{
+  "word": "merapat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67535",
+      "nama": "me.ra.pat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi rapat; mendekat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia duduk ~ ke ayahnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlabuh dekat pangkalan dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perlahan-lahan perahu itu pun ~lah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi (berusaha) supaya akrab, erat (tentang persahabatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keluarga yang berselisih itu mulai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tumbuh dekat secara menyeluruh pada sumbu sambil menuju ke atas atau menaik dengan sudut kurang dari 15°",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rapat¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "merapat naik",
+          "merapat turun"
+        ],
+        "peribahasa": [
+          "merapat sambil berlayar (berlayar sambil memapan)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

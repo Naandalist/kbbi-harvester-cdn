@@ -1,1 +1,73 @@
-{"word":"mengebut","authenticated":true,"entries":[{"id":"38232","nama":"me.nge.but","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghilangkan debu (nyamuk dan sebagainya) dengan menggunakan bulu ayam, sapu, dan sebagainya","contoh":[{"nomor":2,"teks":"setiap pagi pembantu kami ~ kursi"}]}],"rootWord":"kebut¹"},{"id":"38237","nama":"me.nge.but","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjalankan kendaraan dengan kecepatan tinggi","contoh":[{"nomor":2,"teks":"sebelum diadakan penertiban, banyak bus kota yang ~ di jalan dan saling menyusul"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengerjakan sesuatu dengan cepat","contoh":[]}],"rootWord":"kebut²"}]}
+{
+  "word": "mengebut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38232",
+      "nama": "me.nge.but",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghilangkan debu (nyamuk dan sebagainya) dengan menggunakan bulu ayam, sapu, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap pagi pembantu kami ~ kursi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kebut¹"
+    },
+    {
+      "id": "38237",
+      "nama": "me.nge.but",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjalankan kendaraan dengan kecepatan tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum diadakan penertiban, banyak bus kota yang ~ di jalan dan saling menyusul"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerjakan sesuatu dengan cepat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kebut²"
+    }
+  ]
+}

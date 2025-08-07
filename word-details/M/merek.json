@@ -1,1 +1,66 @@
-{"word":"merek","authenticated":true,"entries":[{"id":"53815","nama":"me.rek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanda yang dikenakan oleh pengusaha (pabrik, produsen, dan sebagainya) pada barang yang dihasilkan sebagai tanda pengenal; cap (tanda) yang menjadi pengenal untuk menyatakan nama dan sebagainya","contoh":[{"nomor":2,"teks":"pisau ini tidak ada --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kegagahan; keunggulan; kualitas","contoh":[]}],"terkait":{"kataTurunan":["bermerek","memerekkan","pemerekan","permerekan"],"gabunganKata":["merek air","merek dagang","merek eksklusif","merek kambangan","merek kolektif","merek perusahaan","merek ternama"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "merek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53815",
+      "nama": "me.rek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanda yang dikenakan oleh pengusaha (pabrik, produsen, dan sebagainya) pada barang yang dihasilkan sebagai tanda pengenal; cap (tanda) yang menjadi pengenal untuk menyatakan nama dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pisau ini tidak ada --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kegagahan; keunggulan; kualitas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermerek",
+          "memerekkan",
+          "pemerekan",
+          "permerekan"
+        ],
+        "gabunganKata": [
+          "merek air",
+          "merek dagang",
+          "merek eksklusif",
+          "merek kambangan",
+          "merek kolektif",
+          "merek perusahaan",
+          "merek ternama"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

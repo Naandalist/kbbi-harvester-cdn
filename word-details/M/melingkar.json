@@ -1,1 +1,60 @@
-{"word":"melingkar","authenticated":true,"entries":[{"id":"49572","nama":"me.ling.kar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merupakan lingkar","contoh":[{"nomor":2,"teks":"stadion itu berbentuk ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggulung berlingkar-lingkar (tentang kawat dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membelit","contoh":[{"nomor":2,"teks":"ular ~ mangsanya"}]}],"rootWord":"lingkar"}]}
+{
+  "word": "melingkar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49572",
+      "nama": "me.ling.kar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merupakan lingkar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "stadion itu berbentuk ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggulung berlingkar-lingkar (tentang kawat dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membelit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular ~ mangsanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lingkar"
+    }
+  ]
+}

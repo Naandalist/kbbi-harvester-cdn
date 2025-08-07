@@ -1,1 +1,35 @@
-{"word":"monoatom","authenticated":true,"entries":[{"id":"55035","nama":"mo.no.a.tom","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"hanya mengandung satu atom","contoh":[{"nomor":2,"teks":"molekul --"}]}]}]}
+{
+  "word": "monoatom",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55035",
+      "nama": "mo.no.a.tom",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hanya mengandung satu atom",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "molekul --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

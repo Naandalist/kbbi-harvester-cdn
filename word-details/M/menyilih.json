@@ -1,1 +1,104 @@
-{"word":"menyilih","authenticated":true,"entries":[{"id":"77137","nama":"me.nyi.lih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengganti; menukar","contoh":[{"nomor":2,"teks":"~ baju"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi ganti (kerugian dan sebagainya)","contoh":[{"nomor":2,"teks":"~ rugi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertukar kulit (tentang ular, kadal, dan sebagainya)","contoh":[{"nomor":2,"teks":"ular ~"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berubah menjadi","contoh":[{"nomor":2,"teks":"tidak kusangka hatimu bisa ~ sekejam itu"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"meminjam","contoh":[{"nomor":2,"teks":"~ uang orang"}]}],"rootWord":"silih"}]}
+{
+  "word": "menyilih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77137",
+      "nama": "me.nyi.lih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengganti; menukar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ baju"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi ganti (kerugian dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ rugi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertukar kulit (tentang ular, kadal, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berubah menjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak kusangka hatimu bisa ~ sekejam itu"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "meminjam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ uang orang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "silih"
+    }
+  ]
+}

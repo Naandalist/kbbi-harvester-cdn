@@ -1,1 +1,96 @@
-{"word":"matan","authenticated":true,"entries":[{"id":"52843","nama":"ma.tan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mata kayu; teras (inti) kayu","contoh":[]}],"etimologi":{"text":"[Arab مَتْنٌ matn n sg m 'bukit; teks hadis']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bersua baji dengan matan (tahan baji oleh kelidai)","ketemu baji dengan matan"],"idiom":[]}},{"id":"52844","nama":"ma.tan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"arti (maksud) kalimat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"materi atau teks hadis, berupa ucapan, perbuatan dan takrir yang terletak setelah sanad terakhir","contoh":[]}],"etimologi":{"text":"[Arab مَتْنٌ matn n sg m 'bukit; teks hadis']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bersua baji dengan matan (tahan baji oleh kelidai)","ketemu baji dengan matan"],"idiom":[]}}]}
+{
+  "word": "matan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52843",
+      "nama": "ma.tan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mata kayu; teras (inti) kayu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَتْنٌ matn n sg m 'bukit; teks hadis']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bersua baji dengan matan (tahan baji oleh kelidai)",
+          "ketemu baji dengan matan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52844",
+      "nama": "ma.tan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "arti (maksud) kalimat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "materi atau teks hadis, berupa ucapan, perbuatan dan takrir yang terletak setelah sanad terakhir",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَتْنٌ matn n sg m 'bukit; teks hadis']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bersua baji dengan matan (tahan baji oleh kelidai)",
+          "ketemu baji dengan matan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"word":"membedaki","authenticated":true,"entries":[{"id":"9332","nama":"mem.be.dak.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi bedak (pada)","contoh":[{"nomor":2,"teks":"ibu itu sedang ~ bayi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memperbaiki (memperindah, mempercantik) di sana sini","contoh":[{"nomor":2,"teks":"menjelang peringatan HUT Jakarta Raya, pekerjaan ~ ibu kota terlihat di mana-mana"}]}],"rootWord":"bedak"}]}
+{
+  "word": "membedaki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9332",
+      "nama": "mem.be.dak.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi bedak (pada)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu itu sedang ~ bayi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbaiki (memperindah, mempercantik) di sana sini",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menjelang peringatan HUT Jakarta Raya, pekerjaan ~ ibu kota terlihat di mana-mana"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bedak"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"melebihi","authenticated":true,"entries":[{"id":"47671","nama":"me.le.bih.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatasi, lebih (besar, banyak, dan sebagainya)","contoh":[{"nomor":2,"teks":"kekayaannya tidak akan dapat ~ kekayaan saudagar itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menambah supaya menjadi lebih","contoh":[{"nomor":2,"teks":"aku telah ~ Rp50.000,00 dari jumlah uang yang dimintanya"}]}],"rootWord":"lebih"}]}
+{
+  "word": "melebihi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47671",
+      "nama": "me.le.bih.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatasi, lebih (besar, banyak, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kekayaannya tidak akan dapat ~ kekayaan saudagar itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menambah supaya menjadi lebih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku telah ~ Rp50.000,00 dari jumlah uang yang dimintanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lebih"
+    }
+  ]
+}

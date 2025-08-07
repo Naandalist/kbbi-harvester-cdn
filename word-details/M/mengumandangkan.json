@@ -1,1 +1,53 @@
-{"word":"mengumandangkan","authenticated":true,"entries":[{"id":"44874","nama":"me.ngu.man.dang.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan suara (bunyi) yang bergema","contoh":[{"nomor":2,"teks":"sebelum salat Idulfitri, jemaah ~ takbir dan tahmid"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mendengungkan; menggembar-gemborkan","contoh":[{"nomor":2,"teks":"di mana saja berpidato ia selalu ~ janji muluknya"}]}],"rootWord":"kumandang"}]}
+{
+  "word": "mengumandangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44874",
+      "nama": "me.ngu.man.dang.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan suara (bunyi) yang bergema",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum salat Idulfitri, jemaah ~ takbir dan tahmid"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendengungkan; menggembar-gemborkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di mana saja berpidato ia selalu ~ janji muluknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kumandang"
+    }
+  ]
+}

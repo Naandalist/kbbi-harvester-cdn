@@ -1,1 +1,68 @@
-{"word":"mengampai","authenticated":true,"entries":[{"id":"3123","nama":"meng.am.pai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergantung seperti disampirkan; menyampai","contoh":[{"nomor":2,"teks":"bangkai ular itu ~ di dahan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperanginkan supaya kering (tentang pakaian, tembakau, dan sebagainya); menjemur","contoh":[{"nomor":2,"teks":"~ tembakau"}]}],"rootWord":"ampai²"},{"id":"3129","nama":"meng.am.pai","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul (dengan rotan dan sebagainya)","contoh":[]}],"rootWord":"ampai³"}]}
+{
+  "word": "mengampai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3123",
+      "nama": "meng.am.pai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergantung seperti disampirkan; menyampai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bangkai ular itu ~ di dahan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperanginkan supaya kering (tentang pakaian, tembakau, dan sebagainya); menjemur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tembakau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ampai²"
+    },
+    {
+      "id": "3129",
+      "nama": "meng.am.pai",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul (dengan rotan dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ampai³"
+    }
+  ]
+}

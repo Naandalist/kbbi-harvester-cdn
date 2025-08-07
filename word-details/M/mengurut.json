@@ -1,1 +1,118 @@
-{"word":"mengurut","authenticated":true,"entries":[{"id":"90119","nama":"meng.u.rut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memijit (badan dan sebagainya) orang secara menggosok (tangan memegang, menekan, lalu mengangsurkan)","contoh":[{"nomor":2,"teks":"orang itu terkenal karena pandai ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memetik (melepaskan dan sebagainya) dengan dipijit atau digenggam lalu diangsurkan","contoh":[{"nomor":2,"teks":"~ satai"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"memosisikan dayung pada sisi jalur atau sampan agar jalannya tetap lurus","contoh":[{"nomor":2,"teks":"tukang kemudi jalur itu ~ agar jalurnya tetap lurus"}]}],"rootWord":"urut¹","terkait":{"kataTurunan":[],"gabunganKata":["mengurut dada","mengurut hati","mengurut kuduk","mengurut kacang","mengurut naik","mengurut turun"],"peribahasa":[],"idiom":[]}},{"id":"90127","nama":"meng.u.rut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"menelusuri","contoh":[{"nomor":2,"teks":"polisi sedang ~ peristiwa dari awal sebelum menetapkan dia sebagai terdakwa"}]}],"rootWord":"urut²","terkait":{"kataTurunan":[],"gabunganKata":["mengurut kacang","mengurut naik","mengurut turun"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mengurut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90119",
+      "nama": "meng.u.rut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memijit (badan dan sebagainya) orang secara menggosok (tangan memegang, menekan, lalu mengangsurkan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang itu terkenal karena pandai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memetik (melepaskan dan sebagainya) dengan dipijit atau digenggam lalu diangsurkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ satai"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memosisikan dayung pada sisi jalur atau sampan agar jalannya tetap lurus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang kemudi jalur itu ~ agar jalurnya tetap lurus"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urut¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengurut dada",
+          "mengurut hati",
+          "mengurut kuduk",
+          "mengurut kacang",
+          "mengurut naik",
+          "mengurut turun"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "90127",
+      "nama": "meng.u.rut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menelusuri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi sedang ~ peristiwa dari awal sebelum menetapkan dia sebagai terdakwa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urut²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengurut kacang",
+          "mengurut naik",
+          "mengurut turun"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"makruf","authenticated":true,"entries":[{"id":"51536","nama":"mak.ruf","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"perbuatan baik; jasa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"terkenal; masyhur","contoh":[]}],"etimologi":{"text":"[Arab مَعْرُوْفٌ ma‘rūf n sg m 'tradisi baik']","languages":["Arab"]},"terkait":{"kataTurunan":["kemakrufan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "makruf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51536",
+      "nama": "mak.ruf",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perbuatan baik; jasa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terkenal; masyhur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَعْرُوْفٌ ma‘rūf n sg m 'tradisi baik']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kemakrufan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

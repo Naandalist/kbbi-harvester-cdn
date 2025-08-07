@@ -1,1 +1,43 @@
-{"word":"melondong","authenticated":true,"entries":[{"id":"50121","nama":"me.lon.dong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghanyutkan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mencelakakan; membinasakan","contoh":[]}],"rootWord":"londong"}]}
+{
+  "word": "melondong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50121",
+      "nama": "me.lon.dong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghanyutkan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencelakakan; membinasakan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "londong"
+    }
+  ]
+}

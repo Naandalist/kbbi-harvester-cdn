@@ -1,1 +1,68 @@
-{"word":"menuai","authenticated":true,"entries":[{"id":"87426","nama":"me.nu.ai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memotong padi (dengan ani-ani); mengetam padi","contoh":[{"nomor":2,"teks":"~ dengan ani-ani membutuhkan waktu lama"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjalankan panen; memanen; memetik hasil","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menanggung akibat perbuatan sendiri","contoh":[]}],"rootWord":"tuai","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["belalang dapat menuai"],"idiom":[]}}]}
+{
+  "word": "menuai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87426",
+      "nama": "me.nu.ai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memotong padi (dengan ani-ani); mengetam padi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ dengan ani-ani membutuhkan waktu lama"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjalankan panen; memanen; memetik hasil",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanggung akibat perbuatan sendiri",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tuai",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "belalang dapat menuai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

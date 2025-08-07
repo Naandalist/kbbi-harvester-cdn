@@ -1,1 +1,31 @@
-{"word":"menelinga","authenticated":true,"entries":[{"id":"84130","nama":"me.ne.li.nga","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendengar: diam tetapi mendengar","contoh":[{"nomor":2,"teks":"diam ~"}]}],"rootWord":"telinga"}]}
+{
+  "word": "menelinga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84130",
+      "nama": "me.ne.li.nga",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendengar: diam tetapi mendengar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diam ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "telinga"
+    }
+  ]
+}

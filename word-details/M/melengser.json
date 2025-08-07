@@ -1,1 +1,77 @@
-{"word":"melengser","authenticated":true,"entries":[{"id":"48573","nama":"me.leng.ser","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turun dari jabatan","contoh":[{"nomor":2,"teks":"mantan Presiden kedua RI ~ setelah mendapat tekanan dari berbagai pihak, terutama dari mahasiswa"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggelincir ke bawah atau ke sisi; meluncur","contoh":[{"nomor":2,"teks":"matahari telah ~"},{"nomor":4,"teks":"sarangnya ~"}]}],"rootWord":"lengser¹"},{"id":"48575","nama":"me.leng.ser","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengoles (dengan); menyapukan sesuatu pada","contoh":[{"nomor":2,"teks":"ia ~ daun pisang dengan minyak supaya kue bugis yang dibungkus tidak lekat pada daun"}]}],"rootWord":"lengser²"}]}
+{
+  "word": "melengser",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48573",
+      "nama": "me.leng.ser",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun dari jabatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mantan Presiden kedua RI ~ setelah mendapat tekanan dari berbagai pihak, terutama dari mahasiswa"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggelincir ke bawah atau ke sisi; meluncur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matahari telah ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "sarangnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lengser¹"
+    },
+    {
+      "id": "48575",
+      "nama": "me.leng.ser",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengoles (dengan); menyapukan sesuatu pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ daun pisang dengan minyak supaya kue bugis yang dibungkus tidak lekat pada daun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lengser²"
+    }
+  ]
+}

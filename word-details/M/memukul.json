@@ -1,1 +1,139 @@
-{"word":"memukul","authenticated":true,"entries":[{"id":"65727","nama":"me.mu.kul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenakan suatu benda yang keras atau berat dengan kekuatan (untuk mengetuk, memalu, meninju, menokok, menempa, dan sebagainya): membunyikan beduk dan sebagainya dengan alat pemalu mengecap","contoh":[{"nomor":2,"teks":"tiba-tiba ia ~ lenganku"},{"nomor":4,"teks":"~ beduk (tabuh, gendang, genderang, tambur, dan sebagainya)"},{"nomor":6,"teks":"~ besi"},{"nomor":8,"teks":"~ cap (stempel)"},{"nomor":10,"teks":"~ gamelan (gong, canang, saron, dan sebagainya)"},{"nomor":12,"teks":"~ kawat"},{"nomor":14,"teks":"~ roboh"},{"nomor":16,"teks":"~ telepon"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyerang; menempuh; mengalahkan: menyerang hingga musuh mundur","contoh":[{"nomor":2,"teks":"~ musuh"},{"nomor":4,"teks":"~ mundur"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengambil (mendapat) untung terlalu banyak","contoh":[{"nomor":2,"teks":"menaikkan harga dagangan bukan menolong, melainkan ~"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memakan atau membunuh (dalam permainan catur)","contoh":[{"nomor":2,"teks":"bidak ~ kuda"}]}],"rootWord":"pukul¹","terkait":{"kataTurunan":[],"gabunganKata":["memukul kawat"],"peribahasa":["memukul canang ke luar kota"],"idiom":[]}}]}
+{
+  "word": "memukul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "65727",
+      "nama": "me.mu.kul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenakan suatu benda yang keras atau berat dengan kekuatan (untuk mengetuk, memalu, meninju, menokok, menempa, dan sebagainya): membunyikan beduk dan sebagainya dengan alat pemalu mengecap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba-tiba ia ~ lenganku"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ beduk (tabuh, gendang, genderang, tambur, dan sebagainya)"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ besi"
+            },
+            {
+              "nomor": 8,
+              "teks": "~ cap (stempel)"
+            },
+            {
+              "nomor": 10,
+              "teks": "~ gamelan (gong, canang, saron, dan sebagainya)"
+            },
+            {
+              "nomor": 12,
+              "teks": "~ kawat"
+            },
+            {
+              "nomor": 14,
+              "teks": "~ roboh"
+            },
+            {
+              "nomor": 16,
+              "teks": "~ telepon"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerang; menempuh; mengalahkan: menyerang hingga musuh mundur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ musuh"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ mundur"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil (mendapat) untung terlalu banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menaikkan harga dagangan bukan menolong, melainkan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakan atau membunuh (dalam permainan catur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bidak ~ kuda"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pukul¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memukul kawat"
+        ],
+        "peribahasa": [
+          "memukul canang ke luar kota"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

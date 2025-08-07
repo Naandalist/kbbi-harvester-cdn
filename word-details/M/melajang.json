@@ -1,1 +1,56 @@
-{"word":"melajang","authenticated":true,"entries":[{"id":"45912","nama":"me.la.jang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hidup sebagai lajang; membujang","contoh":[{"nomor":2,"teks":"keseriusannya berkarier itulah rupanya yang membuat ia tetap ~ hingga sekarang"}]}],"rootWord":"lajang¹"},{"id":"45914","nama":"me.la.jang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"melompat; menerjang","contoh":[]}],"rootWord":"lajang²"}]}
+{
+  "word": "melajang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45912",
+      "nama": "me.la.jang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hidup sebagai lajang; membujang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keseriusannya berkarier itulah rupanya yang membuat ia tetap ~ hingga sekarang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lajang¹"
+    },
+    {
+      "id": "45914",
+      "nama": "me.la.jang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "melompat; menerjang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lajang²"
+    }
+  ]
+}

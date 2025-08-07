@@ -1,1 +1,196 @@
-{"word":"masuk","authenticated":true,"entries":[{"id":"52641","nama":"ma.suk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"datang (pergi) ke dalam (ruangan, kamar, lingkungan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia -- ke kamarnya kemudian menguncinya dari dalam"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"datang (pergi) ke tempat bekerja (sekolah dan sebagainya)","contoh":[{"nomor":2,"teks":"ia -- agak siang karena harus pergi berobat ke rumah sakit"},{"nomor":4,"teks":"hari ini ia tidak -- kerja"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tergolong; terhitung; terbilang; tercantum","contoh":[{"nomor":2,"teks":"ia -- dalam penilaian ibu rumah tangga teladan"},{"nomor":4,"teks":"hal itu tidak -- dalam acara rapat"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi (anggota perkumpulan, prajurit, penganut agama, warga negara, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- Islam (Kristen, Buddha, Hindu, dan sebagainya)"},{"nomor":4,"teks":"-- warga negara Indonesia"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turut serta, mengikuti; turut campur","contoh":[{"nomor":2,"teks":"-- perang"},{"nomor":4,"teks":"-- ujian"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diterima; didapat","contoh":[{"nomor":2,"teks":"uang yang -- bulan ini lebih kecil daripada bulan yang lalu"},{"nomor":4,"teks":"surat-surat yang -- harus segera dicatat dan dijawab"}]}],"terkait":{"kataTurunan":["kemasukan","masukan","memasuki","memasukkan","pemasukan","termasuk"],"gabunganKata":["masuk ajar","masuk angin","masuk buku","masuk bursa","masuk daun","masuk hitungan","masuk kerja","masuk kotak","masuk langsung","masuk Melayu","masuk sekolah","masuk Serani","masuk serdadu","masuk suluk","masuk tentara","masuk ulur"],"peribahasa":["bagaikan rama-rama masuk api","dengar cakap enggang, makan buah beluluk, dengar cakap orang, terjun masuk lubuk","ke hulu masuk lukah ke muara masuk bubu","keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil)","masuk ambung, tak masuk bilang","masuk dalam kawanan gajah berdering","masuk dari kuping kiri, keluar lewat kuping kanan","masuk kandang kambing mengembik, masuk kandang kerbau menguak","masuk ke telinga kanan, keluar ke telinga kiri","masuk langau ke mulutnya","masuk lima, keluar sepuluh","masuk meliang penjahit, keluar meliang tabuh","masuk sarang harimau","masuk tak genap, keluar tak ganjil","masuk tidak manjadi laba, keluar tidak membawa rugi","masuk tiga, keluar empat","pasang masuk muara","seperti gajah masuk kampung","seperti kelekatu masuk api","seperti rusa masuk kampung","seperti tikus masuk perangkap","seperti tikus masuk rumah","sudah masuk angin","tebu masuk di mulut gajah","tebu setuntung masuk geraham gajah","upah lalu, bandar tak masuk"],"idiom":["masuk ke sarang laba-laba","masuk peti es","tidak masuk buku"]}}]}
+{
+  "word": "masuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52641",
+      "nama": "ma.suk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang (pergi) ke dalam (ruangan, kamar, lingkungan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- ke kamarnya kemudian menguncinya dari dalam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang (pergi) ke tempat bekerja (sekolah dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- agak siang karena harus pergi berobat ke rumah sakit"
+            },
+            {
+              "nomor": 4,
+              "teks": "hari ini ia tidak -- kerja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tergolong; terhitung; terbilang; tercantum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- dalam penilaian ibu rumah tangga teladan"
+            },
+            {
+              "nomor": 4,
+              "teks": "hal itu tidak -- dalam acara rapat"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi (anggota perkumpulan, prajurit, penganut agama, warga negara, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Islam (Kristen, Buddha, Hindu, dan sebagainya)"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- warga negara Indonesia"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turut serta, mengikuti; turut campur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- perang"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- ujian"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diterima; didapat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang yang -- bulan ini lebih kecil daripada bulan yang lalu"
+            },
+            {
+              "nomor": 4,
+              "teks": "surat-surat yang -- harus segera dicatat dan dijawab"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemasukan",
+          "masukan",
+          "memasuki",
+          "memasukkan",
+          "pemasukan",
+          "termasuk"
+        ],
+        "gabunganKata": [
+          "masuk ajar",
+          "masuk angin",
+          "masuk buku",
+          "masuk bursa",
+          "masuk daun",
+          "masuk hitungan",
+          "masuk kerja",
+          "masuk kotak",
+          "masuk langsung",
+          "masuk Melayu",
+          "masuk sekolah",
+          "masuk Serani",
+          "masuk serdadu",
+          "masuk suluk",
+          "masuk tentara",
+          "masuk ulur"
+        ],
+        "peribahasa": [
+          "bagaikan rama-rama masuk api",
+          "dengar cakap enggang, makan buah beluluk, dengar cakap orang, terjun masuk lubuk",
+          "ke hulu masuk lukah ke muara masuk bubu",
+          "keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil)",
+          "masuk ambung, tak masuk bilang",
+          "masuk dalam kawanan gajah berdering",
+          "masuk dari kuping kiri, keluar lewat kuping kanan",
+          "masuk kandang kambing mengembik, masuk kandang kerbau menguak",
+          "masuk ke telinga kanan, keluar ke telinga kiri",
+          "masuk langau ke mulutnya",
+          "masuk lima, keluar sepuluh",
+          "masuk meliang penjahit, keluar meliang tabuh",
+          "masuk sarang harimau",
+          "masuk tak genap, keluar tak ganjil",
+          "masuk tidak manjadi laba, keluar tidak membawa rugi",
+          "masuk tiga, keluar empat",
+          "pasang masuk muara",
+          "seperti gajah masuk kampung",
+          "seperti kelekatu masuk api",
+          "seperti rusa masuk kampung",
+          "seperti tikus masuk perangkap",
+          "seperti tikus masuk rumah",
+          "sudah masuk angin",
+          "tebu masuk di mulut gajah",
+          "tebu setuntung masuk geraham gajah",
+          "upah lalu, bandar tak masuk"
+        ],
+        "idiom": [
+          "masuk ke sarang laba-laba",
+          "masuk peti es",
+          "tidak masuk buku"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"mercu","authenticated":true,"entries":[{"id":"53788","nama":"mer.cu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang tertinggi (paling atas); puncak","contoh":[{"nomor":2,"teks":"-- gunung"},{"nomor":4,"teks":"-- tiang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"menara","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["mercu api","mercu banjir","mercu bendung","mercu gunung","mercu kepala","mercu minyak","mercu tanda","mercu tiang"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mercu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53788",
+      "nama": "mer.cu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang tertinggi (paling atas); puncak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- gunung"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- tiang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mercu api",
+          "mercu banjir",
+          "mercu bendung",
+          "mercu gunung",
+          "mercu kepala",
+          "mercu minyak",
+          "mercu tanda",
+          "mercu tiang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

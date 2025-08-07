@@ -1,1 +1,92 @@
-{"word":"menyandang","authenticated":true,"entries":[{"id":"71925","nama":"me.nyan.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa sesuatu dengan sandang","contoh":[{"nomor":2,"teks":"prajurit itu ~ bedil dengan tegapnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meletakkan di bahu; memanggul","contoh":[{"nomor":2,"teks":"petani itu ~ pacul"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menderita","contoh":[{"nomor":2,"teks":"ia ~ cacat"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memiliki","contoh":[{"nomor":2,"teks":"ia sudah ~ gelar sarjana"}]}],"rootWord":"sandang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai menyandang galas tiga","menyandang lemang hangat orang","menyandang lukah tiga"],"idiom":[]}}]}
+{
+  "word": "menyandang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71925",
+      "nama": "me.nyan.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa sesuatu dengan sandang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "prajurit itu ~ bedil dengan tegapnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meletakkan di bahu; memanggul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petani itu ~ pacul"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menderita",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ cacat"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memiliki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah ~ gelar sarjana"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sandang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai menyandang galas tiga",
+          "menyandang lemang hangat orang",
+          "menyandang lukah tiga"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

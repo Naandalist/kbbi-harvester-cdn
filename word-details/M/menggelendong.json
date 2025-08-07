@@ -1,1 +1,51 @@
-{"word":"menggelendong","authenticated":true,"entries":[{"id":"25389","nama":"meng.ge.len.dong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggulung benang (kawat, tali plastik, dan sebagainya) dengan gelendong","contoh":[]}],"rootWord":"gelendong¹"},{"id":"101833","nama":"meng.ge.len.dong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menjadi bentuk menjorong panjang dengan bagian terlebar di tengah dan berangsur-angsur meruncing hingga ke kedua ujungnya","contoh":[]}],"rootWord":"gelendong²"}]}
+{
+  "word": "menggelendong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25389",
+      "nama": "meng.ge.len.dong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggulung benang (kawat, tali plastik, dan sebagainya) dengan gelendong",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelendong¹"
+    },
+    {
+      "id": "101833",
+      "nama": "meng.ge.len.dong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menjadi bentuk menjorong panjang dengan bagian terlebar di tengah dan berangsur-angsur meruncing hingga ke kedua ujungnya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelendong²"
+    }
+  ]
+}

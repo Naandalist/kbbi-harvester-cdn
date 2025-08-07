@@ -1,1 +1,56 @@
-{"word":"meradang","authenticated":true,"entries":[{"id":"66577","nama":"me.ra.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"marah sekali; geram; jengkel sekali","contoh":[{"nomor":2,"teks":"dia pergi meninggalkan kami dengan ~"}]}],"rootWord":"radang¹"},{"id":"66590","nama":"me.ra.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi bengkak dan keluar getah bening (darah, rajah) disertai demam","contoh":[{"nomor":2,"teks":"luka pada kakinya ~"}]}],"rootWord":"radang²"}]}
+{
+  "word": "meradang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66577",
+      "nama": "me.ra.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "marah sekali; geram; jengkel sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia pergi meninggalkan kami dengan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "radang¹"
+    },
+    {
+      "id": "66590",
+      "nama": "me.ra.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi bengkak dan keluar getah bening (darah, rajah) disertai demam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "luka pada kakinya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "radang²"
+    }
+  ]
+}

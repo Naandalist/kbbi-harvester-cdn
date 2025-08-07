@@ -1,1 +1,51 @@
-{"word":"menjilati","authenticated":true,"entries":[{"id":"198138","nama":"men.ji.lat.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjilat berulang-ulang","contoh":[{"nomor":2,"teks":"kucing itu ~ tubuhnya"}]}],"rootWord":"jilat"},{"id":"198388","nama":"men.ji.la.ti","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjilat berkali-kali","contoh":[]}],"rootWord":"jilat"}]}
+{
+  "word": "menjilati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198138",
+      "nama": "men.ji.lat.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjilat berulang-ulang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kucing itu ~ tubuhnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jilat"
+    },
+    {
+      "id": "198388",
+      "nama": "men.ji.la.ti",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjilat berkali-kali",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jilat"
+    }
+  ]
+}

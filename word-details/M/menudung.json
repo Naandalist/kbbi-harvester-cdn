@@ -1,1 +1,48 @@
-{"word":"menudung","authenticated":true,"entries":[{"id":"87566","nama":"me.nu.dung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup dengan tudung; memberi tudung","contoh":[{"nomor":2,"teks":"ibu itu ~ anaknya dengan kain"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"melekuk ke dalam seperti tudung (bagian sisi)","contoh":[]}],"rootWord":"tudung"}]}
+{
+  "word": "menudung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87566",
+      "nama": "me.nu.dung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup dengan tudung; memberi tudung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu itu ~ anaknya dengan kain"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "melekuk ke dalam seperti tudung (bagian sisi)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tudung"
+    }
+  ]
+}

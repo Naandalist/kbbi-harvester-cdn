@@ -1,1 +1,53 @@
-{"word":"menekur","authenticated":true,"entries":[{"id":"83880","nama":"me.ne.kur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melihat ke bawah sambil memikirkan sesuatu; menunduk","contoh":[{"nomor":2,"teks":"ia ~ ke tanah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"mengalah","contoh":[{"nomor":2,"teks":"semenjak itu sikapnya sudah ~"}]}],"rootWord":"tekur"}]}
+{
+  "word": "menekur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83880",
+      "nama": "me.ne.kur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melihat ke bawah sambil memikirkan sesuatu; menunduk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ ke tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semenjak itu sikapnya sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tekur"
+    }
+  ]
+}

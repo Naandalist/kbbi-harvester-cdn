@@ -1,1 +1,78 @@
-{"word":"menggiring","authenticated":true,"entries":[{"id":"26948","nama":"meng.gi.ring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghalau binatang ke suatu tempat","contoh":[{"nomor":2,"teks":"ia ~ lembu ke kandang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengantarkan (membawa) penjahat dan sebagainya ke suatu tempat","contoh":[{"nomor":2,"teks":"polisi itu ~ para penjahat ke rumah tahanan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"membawa lari bola dengan kaki","contoh":[{"nomor":2,"teks":"ia mendapat bola dan terus ~nya ke gawang lawan"}]}],"rootWord":"giring²","terkait":{"kataTurunan":[],"gabunganKata":["menggiring opini"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menggiring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "26948",
+      "nama": "meng.gi.ring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghalau binatang ke suatu tempat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ lembu ke kandang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengantarkan (membawa) penjahat dan sebagainya ke suatu tempat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi itu ~ para penjahat ke rumah tahanan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa lari bola dengan kaki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mendapat bola dan terus ~nya ke gawang lawan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "giring²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menggiring opini"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,114 @@
-{"word":"menyisir","authenticated":true,"entries":[{"id":"77891","nama":"me.nyi.sir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merapikan (rambut) dengan sisir","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggaru (tanah); meratakan (tanah) dengan garu dan sebagainya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"memiliki segmen yang banyak, rapat, dan sempit sehingga menyerupai sisir","contoh":[]}],"rootWord":"sisir¹"},{"id":"77894","nama":"me.nyi.sir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyusur (pantai dan sebagainya); berjalan dan sebagainya sepanjang tepi","contoh":[{"nomor":2,"teks":"mereka berjalan ~ semenanjung"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyerempet","contoh":[{"nomor":2,"teks":"peluru hanya ~ lengannya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memeriksa satu per satu","contoh":[{"nomor":2,"teks":"pemerintah ~ dana yang tersisa untuk dialihkan ke penanganan kesehatan"}]}],"rootWord":"sisir²"}]}
+{
+  "word": "menyisir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77891",
+      "nama": "me.nyi.sir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merapikan (rambut) dengan sisir",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggaru (tanah); meratakan (tanah) dengan garu dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "memiliki segmen yang banyak, rapat, dan sempit sehingga menyerupai sisir",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sisir¹"
+    },
+    {
+      "id": "77894",
+      "nama": "me.nyi.sir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyusur (pantai dan sebagainya); berjalan dan sebagainya sepanjang tepi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka berjalan ~ semenanjung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerempet",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peluru hanya ~ lengannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memeriksa satu per satu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah ~ dana yang tersisa untuk dialihkan ke penanganan kesehatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sisir²"
+    }
+  ]
+}

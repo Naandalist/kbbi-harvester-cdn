@@ -1,1 +1,75 @@
-{"word":"mempersunting","authenticated":true,"entries":[{"id":"79961","nama":"mem.per.sun.ting","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memakai sesuatu sebagai sunting; menyuntingkan","contoh":[{"nomor":2,"teks":"ibarat ~ bunga layu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meminang dengan tujuan memperistri","contoh":[{"nomor":2,"teks":"banyak pemuda yang berhasrat ~ gadis itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berusaha memperoleh (sesuatu yang sangat berguna)","contoh":[{"nomor":2,"teks":"mereka meninggalkan keluarga di tanah air untuk ~ ilmu di negeri orang"}]}],"rootWord":"sunting¹"}]}
+{
+  "word": "mempersunting",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79961",
+      "nama": "mem.per.sun.ting",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memakai sesuatu sebagai sunting; menyuntingkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibarat ~ bunga layu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminang dengan tujuan memperistri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak pemuda yang berhasrat ~ gadis itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berusaha memperoleh (sesuatu yang sangat berguna)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka meninggalkan keluarga di tanah air untuk ~ ilmu di negeri orang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sunting¹"
+    }
+  ]
+}

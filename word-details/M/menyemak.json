@@ -1,1 +1,99 @@
-{"word":"menyemak","authenticated":true,"entries":[{"id":"74266","nama":"me.nye.mak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menyerupai semak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tumbuh sebagai atau menjadi semak","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kotor karena banyak semaknya","contoh":[{"nomor":2,"teks":"tanaman bunga-bungaan itu ~ karena tidak terurus"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kusut-kusut tidak keruan; tidak teratur (tersusun)","contoh":[{"nomor":2,"teks":"rambutnya ~"}]},{"nomor":"5","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kusut kacau (pikiran); bingung; gelisah; susah hati","contoh":[{"nomor":2,"teks":"~ pelbagai pikiran datang mendesak dari kiri kanan"}]}],"rootWord":"semak¹"}]}
+{
+  "word": "menyemak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74266",
+      "nama": "me.nye.mak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyerupai semak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tumbuh sebagai atau menjadi semak",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotor karena banyak semaknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanaman bunga-bungaan itu ~ karena tidak terurus"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kusut-kusut tidak keruan; tidak teratur (tersusun)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kusut kacau (pikiran); bingung; gelisah; susah hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pelbagai pikiran datang mendesak dari kiri kanan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "semak¹"
+    }
+  ]
+}

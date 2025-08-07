@@ -1,1 +1,84 @@
-{"word":"magang","authenticated":true,"entries":[{"id":"50952","nama":"ma.gang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"calon pegawai (yang belum diangkat secara tetap serta belum menerima gaji atau upah karena dianggap masih dalam taraf belajar)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"calon ahli","contoh":[{"nomor":2,"teks":"ia sudah cukup lama menjadi -- di kantor itu"}]}],"terkait":{"kataTurunan":["bermagang","memagang","pemagang","pemagangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"50957","nama":"ma.gang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlalu masak (tentang buah-buahan); ranum","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"hampir masam (tentang nira)","contoh":[]}]}]}
+{
+  "word": "magang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50952",
+      "nama": "ma.gang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon pegawai (yang belum diangkat secara tetap serta belum menerima gaji atau upah karena dianggap masih dalam taraf belajar)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon ahli",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah cukup lama menjadi -- di kantor itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermagang",
+          "memagang",
+          "pemagang",
+          "pemagangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "50957",
+      "nama": "ma.gang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu masak (tentang buah-buahan); ranum",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hampir masam (tentang nira)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,77 @@
-{"word":"melata","authenticated":true,"entries":[{"id":"47242","nama":"me.la.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berjalan dengan menempelkan perut ke tanah","contoh":[{"nomor":2,"teks":"ular (cacing dan sebagainya) termasuk hewan ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"tumbuh merata dengan permukaan tanah","contoh":[]}],"rootWord":"lata¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kundur tidak melata pergi, labu tidak melata mari"],"idiom":[]}},{"id":"53307","nama":"me.la.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat lata1","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kundur tidak melata pergi, labu tidak melata mari"],"idiom":[]}}]}
+{
+  "word": "melata",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47242",
+      "nama": "me.la.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berjalan dengan menempelkan perut ke tanah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular (cacing dan sebagainya) termasuk hewan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tumbuh merata dengan permukaan tanah",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lata¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kundur tidak melata pergi, labu tidak melata mari"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "53307",
+      "nama": "me.la.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat lata1",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kundur tidak melata pergi, labu tidak melata mari"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

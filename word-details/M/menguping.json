@@ -1,1 +1,48 @@
-{"word":"menguping","authenticated":true,"entries":[{"id":"45158","nama":"me.ngu.ping","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendengarkan secara diam-diam","contoh":[{"nomor":2,"teks":"dia terlihat sedang ~ percakapan orang tuanya di balik pintu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"memiliki bagian pangkal berupa sepasang cuping membundar seperti daun telinga","contoh":[]}],"rootWord":"kuping"}]}
+{
+  "word": "menguping",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45158",
+      "nama": "me.ngu.ping",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendengarkan secara diam-diam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia terlihat sedang ~ percakapan orang tuanya di balik pintu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "memiliki bagian pangkal berupa sepasang cuping membundar seperti daun telinga",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kuping"
+    }
+  ]
+}

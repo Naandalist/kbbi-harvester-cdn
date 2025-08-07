@@ -1,1 +1,69 @@
-{"word":"menyentil","authenticated":true,"entries":[{"id":"75310","nama":"me.nyen.til","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjentik; menggetik","contoh":[{"nomor":2,"teks":"~ gundu"},{"nomor":4,"teks":"~ kuping"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyinggung; menyentuh","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menegur (dalam arti memarahi); mengkritik","contoh":[{"nomor":2,"teks":"mereka berkali-kali ~ perbuatan yang telah merugikan masyarakat"}]}],"rootWord":"sentil²"}]}
+{
+  "word": "menyentil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75310",
+      "nama": "me.nyen.til",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjentik; menggetik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ gundu"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kuping"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyinggung; menyentuh",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menegur (dalam arti memarahi); mengkritik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka berkali-kali ~ perbuatan yang telah merugikan masyarakat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sentil²"
+    }
+  ]
+}

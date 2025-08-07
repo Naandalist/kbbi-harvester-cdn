@@ -1,1 +1,90 @@
-{"word":"menyerang","authenticated":true,"entries":[{"id":"75719","nama":"me.nye.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendatangi untuk melawan (melukai, memerangi, dan sebagainya); menyerbu","contoh":[{"nomor":2,"teks":"penjahat yang ~ polisi itu sudah tertangkap"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimpa (tentang bencana, penyakit, dan sebagainya); melanda; melanggar","contoh":[{"nomor":2,"teks":"banjir bandang baru-baru ini telah ~ kota itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menentang (seperti melancarkan kritik)","contoh":[{"nomor":2,"teks":"ada yang membela, ada pula yang ~ kebijakan pemerintah"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"menekan atau memberi serangan pada lawan","contoh":[]}],"rootWord":"serang¹","terkait":{"kataTurunan":[],"gabunganKata":["menyerang hari"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menyerang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75719",
+      "nama": "me.nye.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendatangi untuk melawan (melukai, memerangi, dan sebagainya); menyerbu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penjahat yang ~ polisi itu sudah tertangkap"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimpa (tentang bencana, penyakit, dan sebagainya); melanda; melanggar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banjir bandang baru-baru ini telah ~ kota itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menentang (seperti melancarkan kritik)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada yang membela, ada pula yang ~ kebijakan pemerintah"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menekan atau memberi serangan pada lawan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "serang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menyerang hari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

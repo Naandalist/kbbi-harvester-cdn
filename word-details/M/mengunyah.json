@@ -1,1 +1,75 @@
-{"word":"mengunyah","authenticated":true,"entries":[{"id":"45104","nama":"me.ngu.nyah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghancurkan atau melumatkan (makanan dan sebagainya) dalam mulut dengan gigi; memamah","contoh":[{"nomor":2,"teks":"ia susah ~ makanan karena giginya sakit"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memikirkan (memahami dan sebagainya) baik-baik (tentang pelajaran, pengetahuan, dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berulang-ulang mengatakan (menyebutkan)","contoh":[]}],"rootWord":"kunyah","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["belum bergigi, hendak mengunyah (menggigit)","mengunyah orang bergigi","seperti anjing mengunyah tulang"],"idiom":[]}}]}
+{
+  "word": "mengunyah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45104",
+      "nama": "me.ngu.nyah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghancurkan atau melumatkan (makanan dan sebagainya) dalam mulut dengan gigi; memamah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia susah ~ makanan karena giginya sakit"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikirkan (memahami dan sebagainya) baik-baik (tentang pelajaran, pengetahuan, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berulang-ulang mengatakan (menyebutkan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kunyah",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "belum bergigi, hendak mengunyah (menggigit)",
+          "mengunyah orang bergigi",
+          "seperti anjing mengunyah tulang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,68 @@
-{"word":"menebaskan","authenticated":true,"entries":[{"id":"83426","nama":"me.ne.bas.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menebas untuk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menetakkan; memarangkan","contoh":[{"nomor":2,"teks":"petani itu ~ parang ke batang pisang"}]}],"rootWord":"tebas¹"},{"id":"83431","nama":"me.ne.bas.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memborongkan hasil tanaman (misalnya padi, buah-buahan) sebelum dituai atau dipetik","contoh":[{"nomor":2,"teks":"banyak pemilik kebun ~ hasil kebunnya kepada tengkulak"}]}],"rootWord":"tebas²"}]}
+{
+  "word": "menebaskan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83426",
+      "nama": "me.ne.bas.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menebas untuk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menetakkan; memarangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petani itu ~ parang ke batang pisang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebas¹"
+    },
+    {
+      "id": "83431",
+      "nama": "me.ne.bas.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memborongkan hasil tanaman (misalnya padi, buah-buahan) sebelum dituai atau dipetik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak pemilik kebun ~ hasil kebunnya kepada tengkulak"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebas²"
+    }
+  ]
+}

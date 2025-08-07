@@ -1,1 +1,48 @@
-{"word":"menghantu","authenticated":true,"entries":[{"id":"28564","nama":"meng.han.tu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi hantu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menimbulkan rasa takut (resah, gelisah)","contoh":[{"nomor":2,"teks":"di daerah yang terpencil ini malam terasa ~"}]}],"rootWord":"hantu"}]}
+{
+  "word": "menghantu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28564",
+      "nama": "meng.han.tu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi hantu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimbulkan rasa takut (resah, gelisah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di daerah yang terpencil ini malam terasa ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hantu"
+    }
+  ]
+}

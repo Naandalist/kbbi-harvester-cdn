@@ -1,1 +1,51 @@
-{"word":"membengisi","authenticated":true,"entries":[{"id":"10186","nama":"mem.be.ngis.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperlakukan dengan bengis; menganiaya","contoh":[]}],"rootWord":"bengis¹"},{"id":"10190","nama":"mem.be.ngis.i","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memarahi; menggusari","contoh":[{"nomor":2,"teks":"ia harus ~ anak-anak berandalan itu sebab jika tidak demikian, mereka itu akan terus mengganggu"}]}],"rootWord":"bengis²"}]}
+{
+  "word": "membengisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10186",
+      "nama": "mem.be.ngis.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperlakukan dengan bengis; menganiaya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bengis¹"
+    },
+    {
+      "id": "10190",
+      "nama": "mem.be.ngis.i",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memarahi; menggusari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia harus ~ anak-anak berandalan itu sebab jika tidak demikian, mereka itu akan terus mengganggu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bengis²"
+    }
+  ]
+}

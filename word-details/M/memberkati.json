@@ -1,1 +1,65 @@
-{"word":"memberkati","authenticated":true,"entries":[{"id":"10756","nama":"mem.ber.kat.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi berkat (tentang Tuhan)","contoh":[{"nomor":2,"teks":"semoga Allah ~ usaha kita"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendoakan supaya Tuhan mendatangkan berkah","contoh":[{"nomor":2,"teks":"penghulu itu ~ kedua pengantin"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendatangkan kebaikan, keselamatan, dan sebagainya","contoh":[{"nomor":2,"teks":"barang curian tidak akan ~"}]}],"rootWord":"berkat¹"}]}
+{
+  "word": "memberkati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10756",
+      "nama": "mem.ber.kat.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi berkat (tentang Tuhan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semoga Allah ~ usaha kita"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendoakan supaya Tuhan mendatangkan berkah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penghulu itu ~ kedua pengantin"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendatangkan kebaikan, keselamatan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang curian tidak akan ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "berkat¹"
+    }
+  ]
+}

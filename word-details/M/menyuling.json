@@ -1,1 +1,46 @@
-{"word":"menyuling","authenticated":true,"entries":[{"id":"79548","nama":"me.nyu.ling","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meniup suling","contoh":[]}],"rootWord":"suling¹"},{"id":"79551","nama":"me.nyu.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat uap menjadi cairan","contoh":[]}],"rootWord":"suling²"}]}
+{
+  "word": "menyuling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79548",
+      "nama": "me.nyu.ling",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meniup suling",
+          "contoh": []
+        }
+      ],
+      "rootWord": "suling¹"
+    },
+    {
+      "id": "79551",
+      "nama": "me.nyu.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat uap menjadi cairan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "suling²"
+    }
+  ]
+}

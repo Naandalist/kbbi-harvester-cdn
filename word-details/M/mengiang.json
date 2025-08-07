@@ -1,1 +1,67 @@
-{"word":"mengiang","authenticated":true,"entries":[{"id":"56891","nama":"me.ngi.ang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbunyi mendenging","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terdengar berdenging","contoh":[{"nomor":2,"teks":"di telingaku seakan-akan masih ~ ucapannya"}]}],"rootWord":"ngiang"},{"id":"53540","nama":"me.ngi.ang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"pelangi; ular mengiang","contoh":[]}]}]}
+{
+  "word": "mengiang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56891",
+      "nama": "me.ngi.ang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbunyi mendenging",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdengar berdenging",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di telingaku seakan-akan masih ~ ucapannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ngiang"
+    },
+    {
+      "id": "53540",
+      "nama": "me.ngi.ang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pelangi; ular mengiang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

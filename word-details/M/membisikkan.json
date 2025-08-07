@@ -1,1 +1,53 @@
-{"word":"membisikkan","authenticated":true,"entries":[{"id":"11889","nama":"mem.bi.sik.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberitahukan (sesuatu) dengan berbisik-bisik (diam-diam)","contoh":[{"nomor":2,"teks":"kakak tadi ~ apa kepadamu?"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memberi ilham","contoh":[{"nomor":2,"teks":"bunga-bungaan yang elok itu seakan-akan ~ sesuatu yang gaib kepada penyair itu"}]}],"rootWord":"bisik"}]}
+{
+  "word": "membisikkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11889",
+      "nama": "mem.bi.sik.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberitahukan (sesuatu) dengan berbisik-bisik (diam-diam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakak tadi ~ apa kepadamu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi ilham",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunga-bungaan yang elok itu seakan-akan ~ sesuatu yang gaib kepada penyair itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bisik"
+    }
+  ]
+}

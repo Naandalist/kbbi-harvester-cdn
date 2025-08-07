@@ -1,1 +1,51 @@
-{"word":"maskulin","authenticated":true,"entries":[{"id":"52599","nama":"mas.ku.lin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersifat jantan","contoh":[{"nomor":2,"teks":"laki-laki yang dadanya berbulu akan tampak lebih --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jenis laki-laki","contoh":[]}],"terkait":{"kataTurunan":["kemaskulinan","memaskulinkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "maskulin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52599",
+      "nama": "mas.ku.lin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersifat jantan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "laki-laki yang dadanya berbulu akan tampak lebih --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jenis laki-laki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemaskulinan",
+          "memaskulinkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

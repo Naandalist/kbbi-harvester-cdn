@@ -1,1 +1,60 @@
-{"word":"mencampakkan","authenticated":true,"entries":[{"id":"14387","nama":"men.cam.pak.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melemparkan (membuang) kuat-kuat","contoh":[{"nomor":2,"teks":"ia melepas bajunya, lalu ~nya ke arah belukar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membanting; mengempaskan","contoh":[{"nomor":2,"teks":"ia ~ kopiahnya ke tanah"},{"nomor":4,"teks":"ia ~ dirinya ke atas kursi"}]}],"rootWord":"campak¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mencampakkan batu ke luar"],"idiom":[]}}]}
+{
+  "word": "mencampakkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14387",
+      "nama": "men.cam.pak.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melemparkan (membuang) kuat-kuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia melepas bajunya, lalu ~nya ke arah belukar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membanting; mengempaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kopiahnya ke tanah"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia ~ dirinya ke atas kursi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "campak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mencampakkan batu ke luar"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

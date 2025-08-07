@@ -1,1 +1,53 @@
-{"word":"menjabarkan","authenticated":true,"entries":[{"id":"32736","nama":"men.ja.bar.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menerangkan (menguraikan) secara terperinci","contoh":[{"nomor":2,"teks":"dia ~ jadwal penelitian itu dalam bentuk matriks"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"mengubah (pecahan, ukuran, dan sebagainya) supaya menjadi bentuk lain yang lebih sederhana atau menjadi golongan bentuk aljabar yang sederhana","contoh":[{"nomor":2,"teks":"~ pecahan"}]}],"rootWord":"jabar²"}]}
+{
+  "word": "menjabarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32736",
+      "nama": "men.ja.bar.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menerangkan (menguraikan) secara terperinci",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ jadwal penelitian itu dalam bentuk matriks"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "mengubah (pecahan, ukuran, dan sebagainya) supaya menjadi bentuk lain yang lebih sederhana atau menjadi golongan bentuk aljabar yang sederhana",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pecahan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jabar²"
+    }
+  ]
+}

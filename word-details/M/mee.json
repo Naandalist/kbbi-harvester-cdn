@@ -1,1 +1,90 @@
-{"word":"mee","authenticated":true,"entries":[{"id":"152710","nama":"me.e","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ke","nama":"Kenyah","tipe":"lainnya"}],"definisi":"meraut rotan","contoh":[{"nomor":2,"teks":"bapak -- di belakang rumah"}]}]},{"id":"206186","nama":"Me.e","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Paniai, Provinsi Papua Tengah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yg dituturkan oleh suku Mee","contoh":[]}]},{"id":"92793","nama":"MEE","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Masyarakat Ekonomi Eropa (organisasi di wilayah Eropa yang bertujuan mengintegrasikan perekonomian negara-negara anggotanya)","contoh":[]}]}]}
+{
+  "word": "mee",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "152710",
+      "nama": "me.e",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ke",
+              "nama": "Kenyah",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meraut rotan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak -- di belakang rumah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "206186",
+      "nama": "Me.e",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Paniai, Provinsi Papua Tengah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yg dituturkan oleh suku Mee",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "92793",
+      "nama": "MEE",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Masyarakat Ekonomi Eropa (organisasi di wilayah Eropa yang bertujuan mengintegrasikan perekonomian negara-negara anggotanya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

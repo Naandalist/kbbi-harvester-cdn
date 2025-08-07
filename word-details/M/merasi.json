@@ -1,1 +1,50 @@
-{"word":"merasi","authenticated":true,"entries":[{"id":"67647","nama":"me.ra.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meramalkan nasib, jodoh seseorang dengan menilik perhitungan bintang kelahiran (mimpi dan sebagainya)","contoh":[]}],"rootWord":"rasi¹"},{"id":"53769","nama":"me.ra.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gugur semua daunnya (tentang pohon); merarasi","contoh":[]}]}]}
+{
+  "word": "merasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67647",
+      "nama": "me.ra.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meramalkan nasib, jodoh seseorang dengan menilik perhitungan bintang kelahiran (mimpi dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rasi¹"
+    },
+    {
+      "id": "53769",
+      "nama": "me.ra.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gugur semua daunnya (tentang pohon); merarasi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

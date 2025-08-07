@@ -1,1 +1,73 @@
-{"word":"menyigi","authenticated":true,"entries":[{"id":"76910","nama":"me.nyi.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuluh dengan sigi; menerangi","contoh":[{"nomor":2,"teks":"ia sedang ~ ikan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyelidiki dengan teliti","contoh":[{"nomor":2,"teks":"~ perkara"}]}],"rootWord":"sigi¹"},{"id":"76914","nama":"me.nyi.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjolok (mencungkil, mengorek) lubang atau liang","contoh":[]}],"rootWord":"sigi²"}]}
+{
+  "word": "menyigi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "76910",
+      "nama": "me.nyi.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuluh dengan sigi; menerangi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang ~ ikan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelidiki dengan teliti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ perkara"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sigi¹"
+    },
+    {
+      "id": "76914",
+      "nama": "me.nyi.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjolok (mencungkil, mengorek) lubang atau liang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sigi²"
+    }
+  ]
+}

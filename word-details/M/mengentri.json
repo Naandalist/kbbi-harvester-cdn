@@ -1,1 +1,31 @@
-{"word":"mengentri","authenticated":true,"entries":[{"id":"109092","nama":"meng.en.tri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasukkan data (nama, alamat, dan sebagainya) ke dalam pangkalan data","contoh":[{"nomor":2,"teks":"dibutuhkan waktu yang cukup lama untuk ~ data ini"}]}],"rootWord":"entri"}]}
+{
+  "word": "mengentri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109092",
+      "nama": "meng.en.tri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasukkan data (nama, alamat, dan sebagainya) ke dalam pangkalan data",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dibutuhkan waktu yang cukup lama untuk ~ data ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "entri"
+    }
+  ]
+}

@@ -1,1 +1,184 @@
-{"word":"man","authenticated":true,"entries":[{"id":"51805","nama":"man","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"satuan ukuran berat sama dengan 80 pon atau 36,2874 kg","contoh":[]}],"etimologi":{"text":"[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']","languages":["Arab"]}},{"id":"51806","nama":"man","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"paman","contoh":[]}],"etimologi":{"text":"[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']","languages":["Arab"]}},{"id":"92786","nama":"MAN","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"madrasah aliah negeri","contoh":[]}],"etimologi":{"text":"[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']","languages":["Arab"]}},{"id":"90991","nama":"-wan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang ahli dalam bidang","contoh":[{"nomor":2,"teks":"ilmuwan"},{"nomor":4,"teks":"budayawan"},{"nomor":6,"teks":"seniman"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang bergerak dalam","contoh":[{"nomor":2,"teks":"karyawati"},{"nomor":4,"teks":"wartawan"}]},{"nomor":"3","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"orang yang memiliki barang atau sifat khusus","contoh":[{"nomor":2,"teks":"dermawan"},{"nomor":4,"teks":"hartawan"},{"nomor":6,"teks":"rupawan"},{"nomor":8,"teks":"bangsawan"}]}],"etimologi":{"text":"[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']","languages":["Arab"]}}]}
+{
+  "word": "man",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51805",
+      "nama": "man",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan ukuran berat sama dengan 80 pon atau 36,2874 kg",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "51806",
+      "nama": "man",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paman",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "92786",
+      "nama": "MAN",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "madrasah aliah negeri",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "90991",
+      "nama": "-wan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang ahli dalam bidang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ilmuwan"
+            },
+            {
+              "nomor": 4,
+              "teks": "budayawan"
+            },
+            {
+              "nomor": 6,
+              "teks": "seniman"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang bergerak dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karyawati"
+            },
+            {
+              "nomor": 4,
+              "teks": "wartawan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang memiliki barang atau sifat khusus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dermawan"
+            },
+            {
+              "nomor": 4,
+              "teks": "hartawan"
+            },
+            {
+              "nomor": 6,
+              "teks": "rupawan"
+            },
+            {
+              "nomor": 8,
+              "teks": "bangsawan"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَنٌّ mann n sg m 'satuan ukuran berat di jazirah Arab pada masa lalu (lebih sering diucapkan manā dalam bahasa Arab)']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

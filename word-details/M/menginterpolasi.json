@@ -1,1 +1,36 @@
-{"word":"menginterpolasi","authenticated":true,"entries":[{"id":"101881","nama":"meng.in.ter.po.la.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"memperkirakan nilai tengah antara dua nilai yang dikenal secara berurutan","contoh":[{"nomor":2,"teks":"mereka sedang ~ nilai yang ada"}]}],"rootWord":"interpolasi"}]}
+{
+  "word": "menginterpolasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101881",
+      "nama": "meng.in.ter.po.la.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memperkirakan nilai tengah antara dua nilai yang dikenal secara berurutan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang ~ nilai yang ada"
+            }
+          ]
+        }
+      ],
+      "rootWord": "interpolasi"
+    }
+  ]
+}

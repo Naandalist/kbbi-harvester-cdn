@@ -1,1 +1,73 @@
-{"word":"memasifkan","authenticated":true,"entries":[{"id":"186773","nama":"me.ma.sif.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan masif; memperluas (tentang jangkauan, sebaran, dan sebagainya)","contoh":[{"nomor":2,"teks":"penting untuk mengenalkan dan ~ penggunaan TIK agar warga sekolah tidak gagap teknologi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memperbanyak","contoh":[{"nomor":2,"teks":"guna ~ jumlah pengusaha muda di Indonesia, menurutnya perlu kebijakan afirmatif dari pemerintah"}]}],"rootWord":"masif"},{"id":"293562","nama":"me.ma.sif.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan pasif","contoh":[{"nomor":2,"teks":"awalan di- berfungsi ~ verba berawalan meng-"}]}],"rootWord":"pasif"}]}
+{
+  "word": "memasifkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "186773",
+      "nama": "me.ma.sif.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan masif; memperluas (tentang jangkauan, sebaran, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penting untuk mengenalkan dan ~ penggunaan TIK agar warga sekolah tidak gagap teknologi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memperbanyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guna ~ jumlah pengusaha muda di Indonesia, menurutnya perlu kebijakan afirmatif dari pemerintah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "masif"
+    },
+    {
+      "id": "293562",
+      "nama": "me.ma.sif.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan pasif",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "awalan di- berfungsi ~ verba berawalan meng-"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pasif"
+    }
+  ]
+}

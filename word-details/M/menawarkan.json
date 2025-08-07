@@ -1,1 +1,97 @@
-{"word":"menawarkan","authenticated":true,"entries":[{"id":"83282","nama":"me.na.war.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyebabkan (menjadikan) tawar","contoh":[{"nomor":2,"teks":"zat kimia tertentu dapat ~ vitamin C sehingga rasa masamnya hilang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan tawar hatinya","contoh":[]}],"rootWord":"tawar¹","terkait":{"kataTurunan":[],"gabunganKata":["menawarkan hati","menawarkan diri"],"peribahasa":[],"idiom":[]}},{"id":"83295","nama":"me.na.war.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengunjukkan sesuatu kepada (dengan maksud supaya dibeli, dikontrak, diambil, dipakai)","contoh":[{"nomor":2,"teks":"dia ~ rumahnya kepada saya untuk dikontrakkan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang harga (mengemukakan harga yang diminta)","contoh":[]}],"rootWord":"tawar²","terkait":{"kataTurunan":[],"gabunganKata":["menawarkan diri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menawarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83282",
+      "nama": "me.na.war.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan (menjadikan) tawar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "zat kimia tertentu dapat ~ vitamin C sehingga rasa masamnya hilang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan tawar hatinya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tawar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menawarkan hati",
+          "menawarkan diri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83295",
+      "nama": "me.na.war.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengunjukkan sesuatu kepada (dengan maksud supaya dibeli, dikontrak, diambil, dipakai)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ rumahnya kepada saya untuk dikontrakkan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang harga (mengemukakan harga yang diminta)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tawar²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menawarkan diri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

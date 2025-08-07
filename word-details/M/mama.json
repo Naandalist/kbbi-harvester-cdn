@@ -1,1 +1,115 @@
-{"word":"mama","authenticated":true,"entries":[{"id":"51742","nama":"ma.ma","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang tua perempuan; ibu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada ibu","contoh":[]}],"etimologi":{"text":"[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']","languages":["Portugis"]},"terkait":{"kataTurunan":["bermama"],"gabunganKata":["mama adik","mama sarani","mama tua"],"peribahasa":[],"idiom":[]}},{"id":"51743","nama":"ma.ma","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"kelenjar susu","contoh":[]}],"etimologi":{"text":"[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']","languages":["Portugis"]}},{"id":"51744","nama":"ma.ma","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Met","nama":"Meteorologi","tipe":"lainnya"}],"definisi":"bentuk-bentuk menonjol pada bagian bawah awan yang sering ditemukan pada awan sirus, sirokumulus, altostratus, altokumulus, stratokumulus, dan kumulonimbus","contoh":[]}],"etimologi":{"text":"[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']","languages":["Portugis"]}}]}
+{
+  "word": "mama",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51742",
+      "nama": "ma.ma",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang tua perempuan; ibu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada ibu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bermama"
+        ],
+        "gabunganKata": [
+          "mama adik",
+          "mama sarani",
+          "mama tua"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "51743",
+      "nama": "ma.ma",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kelenjar susu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    },
+    {
+      "id": "51744",
+      "nama": "ma.ma",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Met",
+              "nama": "Meteorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bentuk-bentuk menonjol pada bagian bawah awan yang sering ditemukan pada awan sirus, sirokumulus, altostratus, altokumulus, stratokumulus, dan kumulonimbus",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis mamã mamã n sg f 'mami, mak, ibu, bunda']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    }
+  ]
+}

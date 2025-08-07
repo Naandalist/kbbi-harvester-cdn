@@ -1,1 +1,56 @@
-{"word":"mengeret","authenticated":true,"entries":[{"id":"22539","nama":"meng.e.ret","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyeret; menghela kuat-kuat","contoh":[{"nomor":2,"teks":"ia ~ istrinya dari dalam rumah yang mulai terbakar"},{"nomor":4,"teks":"kulihat dia sedang ~ lembu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memikat hati orang lain dengan tujuan menguras uang atau harta benda orang itu sehingga habis; menipu","contoh":[{"nomor":2,"teks":"pernah dia ~ anak orang kaya"},{"nomor":4,"teks":"ia suka ~ laki-laki"}]}],"rootWord":"eret"}]}
+{
+  "word": "mengeret",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22539",
+      "nama": "meng.e.ret",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyeret; menghela kuat-kuat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ istrinya dari dalam rumah yang mulai terbakar"
+            },
+            {
+              "nomor": 4,
+              "teks": "kulihat dia sedang ~ lembu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memikat hati orang lain dengan tujuan menguras uang atau harta benda orang itu sehingga habis; menipu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pernah dia ~ anak orang kaya"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia suka ~ laki-laki"
+            }
+          ]
+        }
+      ],
+      "rootWord": "eret"
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"word":"menghilangkan","authenticated":true,"entries":[{"id":"29629","nama":"meng.hi.lang.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melenyapkan; membuat supaya hilang","contoh":[{"nomor":2,"teks":"~ jejak"},{"nomor":4,"teks":"~ aib"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghapus(kan); membersihkan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuang supaya tidak ada lagi; meniadakan","contoh":[{"nomor":2,"teks":"~ kesedihan hati"},{"nomor":4,"teks":"~ malu"}]}],"rootWord":"hilang","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["harum menghilangkan bau"],"idiom":[]}}]}
+{
+  "word": "menghilangkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29629",
+      "nama": "meng.hi.lang.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melenyapkan; membuat supaya hilang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ jejak"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ aib"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghapus(kan); membersihkan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuang supaya tidak ada lagi; meniadakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kesedihan hati"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ malu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "hilang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "harum menghilangkan bau"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

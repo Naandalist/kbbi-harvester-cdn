@@ -1,1 +1,53 @@
-{"word":"menjelut","authenticated":true,"entries":[{"id":"34035","nama":"men.je.lut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"berasa sakit (pada perut)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mendongkol; kesal","contoh":[]}],"rootWord":"jelut¹"}]}
+{
+  "word": "menjelut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34035",
+      "nama": "men.je.lut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berasa sakit (pada perut)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendongkol; kesal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "jelut¹"
+    }
+  ]
+}

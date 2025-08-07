@@ -1,1 +1,78 @@
-{"word":"malah","authenticated":true,"entries":[{"id":"51593","nama":"ma.lah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"bahkan; makin (bertambah)","contoh":[{"nomor":2,"teks":"setelah minum obat itu, ia tidak menjadi baik -- bertambah sakitnya"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"bahkan sebaliknya","contoh":[{"nomor":2,"teks":"disuruh duduk, -- berdiri"}]},{"nomor":"3","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"justru","contoh":[{"nomor":2,"teks":"-- kamu yang harus datang, bukan orang tuamu"}]}],"etimologi":{"text":"[Jawa Kuno malah 'bahkan, sampai pada, sampai titik, sampai, jika waktu telah tiba, akhirnya, seluruhnya (waktu), jauh ke dalam']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["malahan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "malah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51593",
+      "nama": "ma.lah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahkan; makin (bertambah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah minum obat itu, ia tidak menjadi baik -- bertambah sakitnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahkan sebaliknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "disuruh duduk, -- berdiri"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "justru",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kamu yang harus datang, bukan orang tuamu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno malah 'bahkan, sampai pada, sampai titik, sampai, jika waktu telah tiba, akhirnya, seluruhnya (waktu), jauh ke dalam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "malahan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

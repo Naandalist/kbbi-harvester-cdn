@@ -1,1 +1,83 @@
-{"word":"mat","authenticated":true,"entries":[{"id":"52699","nama":"mat","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ emat2","contoh":[]}],"terkait":{"kataTurunan":["mat-matan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"52700","nama":"mat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"enak sekali; nikmat","contoh":[]}],"terkait":{"kataTurunan":["mat-matan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"52702","nama":"mat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"irama","contoh":[]}]}]}
+{
+  "word": "mat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52699",
+      "nama": "mat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ emat2",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mat-matan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52700",
+      "nama": "mat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "enak sekali; nikmat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mat-matan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52702",
+      "nama": "mat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "irama",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

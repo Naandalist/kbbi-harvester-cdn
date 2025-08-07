@@ -1,1 +1,48 @@
-{"word":"memahami","authenticated":true,"entries":[{"id":"59042","nama":"me.ma.ham.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengerti benar (akan); mengetahui benar","contoh":[{"nomor":2,"teks":"ia ~ bahasa dan kebudayaan Arab"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memaklumi; mengetahui","contoh":[{"nomor":2,"teks":"pemimpin harus dapat ~ kehendak rakyat"}]}],"rootWord":"paham"}]}
+{
+  "word": "memahami",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59042",
+      "nama": "me.ma.ham.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengerti benar (akan); mengetahui benar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ bahasa dan kebudayaan Arab"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memaklumi; mengetahui",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemimpin harus dapat ~ kehendak rakyat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "paham"
+    }
+  ]
+}

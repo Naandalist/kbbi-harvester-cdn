@@ -1,1 +1,56 @@
-{"word":"mengepel","authenticated":true,"entries":[{"id":"61409","nama":"me.nge.pel","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membersihkan (mengeringkan) lantai dengan kain pel","contoh":[]}],"rootWord":"pel¹"},{"id":"241716","nama":"me.nge.pel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MBl","nama":"Melayu Belitung","tipe":"lainnya"}],"definisi":"mencubit besar pada pinggang","contoh":[{"nomor":2,"teks":"dia ~ anaknya sampai menangis"}]}],"rootWord":"kepel"}]}
+{
+  "word": "mengepel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61409",
+      "nama": "me.nge.pel",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membersihkan (mengeringkan) lantai dengan kain pel",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pel¹"
+    },
+    {
+      "id": "241716",
+      "nama": "me.nge.pel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBl",
+              "nama": "Melayu Belitung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencubit besar pada pinggang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ anaknya sampai menangis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kepel"
+    }
+  ]
+}

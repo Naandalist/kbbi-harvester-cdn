@@ -1,1 +1,60 @@
-{"word":"menyaring","authenticated":true,"entries":[{"id":"72462","nama":"me.nya.ring","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membersihkan barang cair dengan memakai alat yang berlubang halus-halus (seperti kain); menapis","contoh":[{"nomor":2,"teks":"~ air sungai berkali-kali hingga bersih benar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membersihkan (minyak tanah dari pengeboran) hingga dapat dipakai","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memilih (untuk mencari mana yang baik, yang berkemampuan, dan sebagainya); menyeleksi","contoh":[]}],"rootWord":"saring¹"}]}
+{
+  "word": "menyaring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72462",
+      "nama": "me.nya.ring",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membersihkan barang cair dengan memakai alat yang berlubang halus-halus (seperti kain); menapis",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ air sungai berkali-kali hingga bersih benar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membersihkan (minyak tanah dari pengeboran) hingga dapat dipakai",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memilih (untuk mencari mana yang baik, yang berkemampuan, dan sebagainya); menyeleksi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "saring¹"
+    }
+  ]
+}

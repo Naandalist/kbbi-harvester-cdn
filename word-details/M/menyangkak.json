@@ -1,1 +1,90 @@
-{"word":"menyangkak","authenticated":true,"entries":[{"id":"72108","nama":"me.nyang.kak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merinding (berdiri bulu roma karena takut, terkejut, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ bulu romanya mendengar cerita yang menyeramkan itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"marah; mendongkol","contoh":[{"nomor":2,"teks":"~ hatinya mendengar olok-olok itu"}]}],"rootWord":"sangkak²"},{"id":"72110","nama":"me.nyang.kak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merintangi; menegah; mencegah","contoh":[{"nomor":2,"teks":"ia berusaha ~ niatnya yang buruk itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menentang; melawan","contoh":[{"nomor":2,"teks":"perahu itu ~ angin"}]}],"rootWord":"sangkak³"}]}
+{
+  "word": "menyangkak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72108",
+      "nama": "me.nyang.kak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merinding (berdiri bulu roma karena takut, terkejut, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bulu romanya mendengar cerita yang menyeramkan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "marah; mendongkol",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hatinya mendengar olok-olok itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangkak²"
+    },
+    {
+      "id": "72110",
+      "nama": "me.nyang.kak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merintangi; menegah; mencegah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berusaha ~ niatnya yang buruk itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menentang; melawan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu itu ~ angin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangkak³"
+    }
+  ]
+}

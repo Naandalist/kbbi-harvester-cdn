@@ -1,1 +1,68 @@
-{"word":"maklumat","authenticated":true,"entries":[{"id":"51459","nama":"mak.lu.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pemberitahuan; pengumuman","contoh":[{"nomor":2,"teks":"rakyat menyambut -- itu dengan gembira"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengetahuan; mualamat","contoh":[{"nomor":2,"teks":"mereka tidak mempunyai -- yang cukup atas segala hal yang bersangkut paut dengan perkataan itu"}]}],"etimologi":{"text":"[Arab مَعْلُوْمَاتٌ ma‘lūmāt n pl f 'informasi']","languages":["Arab"]},"terkait":{"kataTurunan":["bermaklumat","memaklumatkan","pemaklumat","pemaklumatan"],"gabunganKata":["maklumat pelayanan","maklumat pemerintah","maklumat presiden"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "maklumat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51459",
+      "nama": "mak.lu.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemberitahuan; pengumuman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rakyat menyambut -- itu dengan gembira"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengetahuan; mualamat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka tidak mempunyai -- yang cukup atas segala hal yang bersangkut paut dengan perkataan itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مَعْلُوْمَاتٌ ma‘lūmāt n pl f 'informasi']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bermaklumat",
+          "memaklumatkan",
+          "pemaklumat",
+          "pemaklumatan"
+        ],
+        "gabunganKata": [
+          "maklumat pelayanan",
+          "maklumat pemerintah",
+          "maklumat presiden"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

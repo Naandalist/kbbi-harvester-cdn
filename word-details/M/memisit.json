@@ -1,1 +1,48 @@
-{"word":"memisit","authenticated":true,"entries":[{"id":"64023","nama":"me.mi.sit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memijit; menekan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menanyai dengan teliti atau dengan ancaman (supaya mengaku, membuka rahasia, dan sebagainya)","contoh":[{"nomor":2,"teks":"dengan cara ~ si pencuri, polisi memperoleh keterangan tentang peristiwa pencurian itu"}]}],"rootWord":"pisit²"}]}
+{
+  "word": "memisit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64023",
+      "nama": "me.mi.sit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memijit; menekan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanyai dengan teliti atau dengan ancaman (supaya mengaku, membuka rahasia, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan cara ~ si pencuri, polisi memperoleh keterangan tentang peristiwa pencurian itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pisit²"
+    }
+  ]
+}

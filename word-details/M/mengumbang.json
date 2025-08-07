@@ -1,1 +1,51 @@
-{"word":"mengumbang","authenticated":true,"entries":[{"id":"44915","nama":"me.ngum.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berbunyi berdengung-dengung seperti kumbang","contoh":[]}],"rootWord":"kumbang¹"},{"id":"89431","nama":"meng.um.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"mengapung","contoh":[]}],"rootWord":"umbang¹"}]}
+{
+  "word": "mengumbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44915",
+      "nama": "me.ngum.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbunyi berdengung-dengung seperti kumbang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kumbang¹"
+    },
+    {
+      "id": "89431",
+      "nama": "meng.um.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengapung",
+          "contoh": []
+        }
+      ],
+      "rootWord": "umbang¹"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"merunjang","authenticated":true,"entries":[{"id":"70450","nama":"me.run.jang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menusuk (merodok, mencocok) ke dalam lubang dan sebagainya; menjolok","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"meraba-raba; mencari-cari (ke sana kemari)","contoh":[{"nomor":2,"teks":"orang yang baru datang dari desa itu ~ ke sana kemari"}]}],"rootWord":"runjang"}]}
+{
+  "word": "merunjang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70450",
+      "nama": "me.run.jang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusuk (merodok, mencocok) ke dalam lubang dan sebagainya; menjolok",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meraba-raba; mencari-cari (ke sana kemari)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang baru datang dari desa itu ~ ke sana kemari"
+            }
+          ]
+        }
+      ],
+      "rootWord": "runjang"
+    }
+  ]
+}

@@ -1,1 +1,160 @@
-{"word":"mengarang","authenticated":true,"entries":[{"id":"5008","nama":"meng.a.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi arang","contoh":[{"nomor":2,"teks":"tidak semua kayu dapat ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hangus terbakar","contoh":[{"nomor":2,"teks":"dengan pilu dipandangnya bekas rumahnya yang sudah ~"}]}],"rootWord":"arang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai ayam mengarang telur"],"idiom":[]}},{"id":"37100","nama":"me.nga.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi karang","contoh":[{"nomor":2,"teks":"kotoran itu ~ di giginya"}]}],"rootWord":"karang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai ayam mengarang telur"],"idiom":[]}},{"id":"37104","nama":"me.nga.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyusun, merangkai bunga dan sebagainya","contoh":[{"nomor":2,"teks":"ada perlombaan ~ bunga"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencocokkan atau mengikat permata dan intan","contoh":[{"nomor":2,"teks":"pandai emas itu sedang ~ intan pada cincin"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menulis dan menyusun sebuah cerita, buku, sajak, dan sebagainya","contoh":[{"nomor":2,"teks":"ia sedang sibuk ~ buku cerita kanak-kanak"},{"nomor":4,"teks":"siapa yang ~ lagu dan syair yang berjudul “Damai tapi Gersang?”"}]}],"rootWord":"karang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai ayam mengarang telur"],"idiom":[]}}]}
+{
+  "word": "mengarang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5008",
+      "nama": "meng.a.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi arang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak semua kayu dapat ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hangus terbakar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan pilu dipandangnya bekas rumahnya yang sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "arang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai ayam mengarang telur"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "37100",
+      "nama": "me.nga.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi karang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kotoran itu ~ di giginya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "karang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai ayam mengarang telur"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "37104",
+      "nama": "me.nga.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyusun, merangkai bunga dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada perlombaan ~ bunga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencocokkan atau mengikat permata dan intan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pandai emas itu sedang ~ intan pada cincin"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menulis dan menyusun sebuah cerita, buku, sajak, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang sibuk ~ buku cerita kanak-kanak"
+            },
+            {
+              "nomor": 4,
+              "teks": "siapa yang ~ lagu dan syair yang berjudul “Damai tapi Gersang?”"
+            }
+          ]
+        }
+      ],
+      "rootWord": "karang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai ayam mengarang telur"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

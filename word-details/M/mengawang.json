@@ -1,1 +1,84 @@
-{"word":"mengawang","authenticated":true,"entries":[{"id":"6184","nama":"meng.a.wang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik tinggi-tinggi; berjalan di awang-awang; melangit","contoh":[{"nomor":2,"teks":"balon gas itu lenyap ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merambang; merawak; mengawur","contoh":[{"nomor":2,"teks":"bidik baik-baik, jangan ~ saja"}]}],"rootWord":"awang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["pikirannya mengawang"]}},{"id":"37957","nama":"me.nga.wang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat kedua ujung sarung dan sebagainya di dada","contoh":[]}],"rootWord":"kawang²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["pikirannya mengawang"]}}]}
+{
+  "word": "mengawang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6184",
+      "nama": "meng.a.wang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik tinggi-tinggi; berjalan di awang-awang; melangit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "balon gas itu lenyap ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merambang; merawak; mengawur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bidik baik-baik, jangan ~ saja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "awang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "pikirannya mengawang"
+        ]
+      }
+    },
+    {
+      "id": "37957",
+      "nama": "me.nga.wang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat kedua ujung sarung dan sebagainya di dada",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kawang²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "pikirannya mengawang"
+        ]
+      }
+    }
+  ]
+}

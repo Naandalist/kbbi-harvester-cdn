@@ -1,1 +1,31 @@
-{"word":"menyampo","authenticated":true,"entries":[{"id":"71845","nama":"me.nyam.po","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencuci rambut dengan sampo","contoh":[{"nomor":2,"teks":"ia hampir setiap hari ~ rambutnya"}]}],"rootWord":"sampo"}]}
+{
+  "word": "menyampo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71845",
+      "nama": "me.nyam.po",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencuci rambut dengan sampo",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia hampir setiap hari ~ rambutnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sampo"
+    }
+  ]
+}

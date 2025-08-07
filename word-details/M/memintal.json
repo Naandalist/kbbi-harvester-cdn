@@ -1,1 +1,52 @@
-{"word":"memintal","authenticated":true,"entries":[{"id":"63770","nama":"me.min.tal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memilin untuk membuat tali","contoh":[{"nomor":2,"teks":"~ tali ijuk"},{"nomor":4,"teks":"orang itu ~ sabut kelapa untuk dibuat tali"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengantih (membuat benang)","contoh":[{"nomor":2,"teks":"alat itu dipakai untuk ~ benang sutra"}]}],"rootWord":"pintal"}]}
+{
+  "word": "memintal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63770",
+      "nama": "me.min.tal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memilin untuk membuat tali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tali ijuk"
+            },
+            {
+              "nomor": 4,
+              "teks": "orang itu ~ sabut kelapa untuk dibuat tali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengantih (membuat benang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "alat itu dipakai untuk ~ benang sutra"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pintal"
+    }
+  ]
+}

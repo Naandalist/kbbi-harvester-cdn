@@ -1,1 +1,69 @@
-{"word":"menduga","authenticated":true,"entries":[{"id":"20708","nama":"men.du.ga","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengukur dalamnya laut (sungai dan sebagainya)","contoh":[{"nomor":2,"teks":"kami harus ~ lebih dulu dalamnya muara sungai itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyangka; memperkirakan (akan terjadi sesuatu)","contoh":[{"nomor":2,"teks":"saya ~ dia akan marah"},{"nomor":4,"teks":"mereka ~ bahwa kita buta akan kecurangan-kecurangan mereka"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hendak mengetahui (isi hati dan sebagainya)","contoh":[{"nomor":2,"teks":"berbagai pertanyaan kuajukan untuk ~ isi hatinya"}]}],"rootWord":"duga"}]}
+{
+  "word": "menduga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20708",
+      "nama": "men.du.ga",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengukur dalamnya laut (sungai dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami harus ~ lebih dulu dalamnya muara sungai itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyangka; memperkirakan (akan terjadi sesuatu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ dia akan marah"
+            },
+            {
+              "nomor": 4,
+              "teks": "mereka ~ bahwa kita buta akan kecurangan-kecurangan mereka"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hendak mengetahui (isi hati dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berbagai pertanyaan kuajukan untuk ~ isi hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "duga"
+    }
+  ]
+}

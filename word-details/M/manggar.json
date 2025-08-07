@@ -1,1 +1,66 @@
-{"word":"manggar","authenticated":true,"entries":[{"id":"52023","nama":"mang.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(tangkai) mayang kelapa","contoh":[{"nomor":2,"teks":"kami berhasil mengusir kera-kera itu dengan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pangkal pelepah (nyiur dan sebagainya)","contoh":[]}]},{"id":"52024","nama":"mang.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"jangkar sampan atau perahu yang dibuat dari batu dan kayu berkait","contoh":[]}]}]}
+{
+  "word": "manggar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52023",
+      "nama": "mang.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(tangkai) mayang kelapa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami berhasil mengusir kera-kera itu dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pangkal pelepah (nyiur dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "52024",
+      "nama": "mang.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jangkar sampan atau perahu yang dibuat dari batu dan kayu berkait",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

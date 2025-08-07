@@ -1,1 +1,48 @@
-{"word":"menggojlok","authenticated":true,"entries":[{"id":"27137","nama":"meng.goj.lok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggerakkan sesuatu dengan mengguncang-guncangkan tempatnya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengacau perasaan orang lain dengan kata-kata kasar yang menyakitkan hati","contoh":[{"nomor":2,"teks":"para mahasiswa senior ~ calon-calon mahasiswa selama satu jam lebih"}]}],"rootWord":"gojlok"}]}
+{
+  "word": "menggojlok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "27137",
+      "nama": "meng.goj.lok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggerakkan sesuatu dengan mengguncang-guncangkan tempatnya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengacau perasaan orang lain dengan kata-kata kasar yang menyakitkan hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para mahasiswa senior ~ calon-calon mahasiswa selama satu jam lebih"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gojlok"
+    }
+  ]
+}

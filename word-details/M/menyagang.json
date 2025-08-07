@@ -1,1 +1,73 @@
-{"word":"menyagang","authenticated":true,"entries":[{"id":"70852","nama":"me.nya.gang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyandarkan (tombak, senjata, dan sebagainya)","contoh":[{"nomor":2,"teks":"prajurit itu ~ senjatanya pada batang pohon"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menopang; menunjang (dengan bambu, kayu, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ senjatanya dengan kayu"}]}],"rootWord":"sagang¹"},{"id":"70855","nama":"me.nya.gang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang; menangkis; mengelakkan","contoh":[{"nomor":2,"teks":"ia ~ senjata lawannya dengan cekatan"}]}],"rootWord":"sagang²"}]}
+{
+  "word": "menyagang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70852",
+      "nama": "me.nya.gang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyandarkan (tombak, senjata, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "prajurit itu ~ senjatanya pada batang pohon"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menopang; menunjang (dengan bambu, kayu, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ senjatanya dengan kayu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sagang¹"
+    },
+    {
+      "id": "70855",
+      "nama": "me.nya.gang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang; menangkis; mengelakkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ senjata lawannya dengan cekatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sagang²"
+    }
+  ]
+}

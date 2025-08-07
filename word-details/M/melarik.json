@@ -1,1 +1,63 @@
-{"word":"melarik","authenticated":true,"entries":[{"id":"47133","nama":"me.la.rik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat bulat dan licin dengan bindu dan sebagainya (tentang kayu dan sebagainya); membubut","contoh":[{"nomor":2,"teks":"tukang kayu sedang ~ kaki kursi (kaki lemari, gading, dan sebagainya)"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melubangi (dengan bor dan sebagainya)","contoh":[]}],"rootWord":"larik¹"},{"id":"47138","nama":"me.la.rik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur menjadi larik-larik; mengatur berderet-deret; menderet-deretkan","contoh":[]}],"rootWord":"larik²"}]}
+{
+  "word": "melarik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47133",
+      "nama": "me.la.rik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat bulat dan licin dengan bindu dan sebagainya (tentang kayu dan sebagainya); membubut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tukang kayu sedang ~ kaki kursi (kaki lemari, gading, dan sebagainya)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melubangi (dengan bor dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "larik¹"
+    },
+    {
+      "id": "47138",
+      "nama": "me.la.rik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur menjadi larik-larik; mengatur berderet-deret; menderet-deretkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "larik²"
+    }
+  ]
+}

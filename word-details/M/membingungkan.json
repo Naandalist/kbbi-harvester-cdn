@@ -1,1 +1,48 @@
-{"word":"membingungkan","authenticated":true,"entries":[{"id":"11634","nama":"mem.bi.ngung.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyebabkan bingung (hilang akal dan sebagainya)","contoh":[{"nomor":2,"teks":"peraturan ini sangat ~ sebab saling bertentangan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merasa bingung (kurang jelas, kurang mengerti, dan sebagainya) tentang sesuatu","contoh":[{"nomor":2,"teks":"mengapa engkau ~ masalah yang begitu sederhana?"}]}],"rootWord":"bingung"}]}
+{
+  "word": "membingungkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11634",
+      "nama": "mem.bi.ngung.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyebabkan bingung (hilang akal dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peraturan ini sangat ~ sebab saling bertentangan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa bingung (kurang jelas, kurang mengerti, dan sebagainya) tentang sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mengapa engkau ~ masalah yang begitu sederhana?"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bingung"
+    }
+  ]
+}

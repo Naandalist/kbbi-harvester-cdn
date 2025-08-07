@@ -1,1 +1,53 @@
-{"word":"menghabisi","authenticated":true,"entries":[{"id":"28022","nama":"meng.ha.bis.i","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengakhiri; menyudahi","contoh":[{"nomor":2,"teks":"beliau ~ pidatonya dengan harapan agar hadirin dapat membantu usaha itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menghilangkan nyawa; membunuh","contoh":[{"nomor":2,"teks":"perampok telah ~ penghuni rumah itu"}]}],"rootWord":"habis¹"}]}
+{
+  "word": "menghabisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28022",
+      "nama": "meng.ha.bis.i",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengakhiri; menyudahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beliau ~ pidatonya dengan harapan agar hadirin dapat membantu usaha itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghilangkan nyawa; membunuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perampok telah ~ penghuni rumah itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "habis¹"
+    }
+  ]
+}

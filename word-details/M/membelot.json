@@ -1,1 +1,48 @@
-{"word":"membelot","authenticated":true,"entries":[{"id":"9900","nama":"mem.be.lot","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lari (dari pihaknya, golongannya, kaumnya, bangsanya) lalu, memihak kepada musuh","contoh":[{"nomor":2,"teks":"sekalipun kami disiksa, kami tidak akan mau ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"meninggalkan agamanya (keyakinannya); murtad","contoh":[]}],"rootWord":"belot"}]}
+{
+  "word": "membelot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9900",
+      "nama": "mem.be.lot",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lari (dari pihaknya, golongannya, kaumnya, bangsanya) lalu, memihak kepada musuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekalipun kami disiksa, kami tidak akan mau ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meninggalkan agamanya (keyakinannya); murtad",
+          "contoh": []
+        }
+      ],
+      "rootWord": "belot"
+    }
+  ]
+}

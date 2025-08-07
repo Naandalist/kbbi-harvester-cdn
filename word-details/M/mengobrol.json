@@ -1,1 +1,48 @@
-{"word":"mengobrol","authenticated":true,"entries":[{"id":"57695","nama":"meng.ob.rol","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bercakap-cakap atau berbincang-bincang secara santai tanpa pokok pembicaraan tertentu","contoh":[{"nomor":2,"teks":"setiap pagi mereka ~ di warung kopi itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"bertukar pesan dalam waktu nyata dengan pengguna komputer lain","contoh":[]}],"rootWord":"obrol"}]}
+{
+  "word": "mengobrol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57695",
+      "nama": "meng.ob.rol",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bercakap-cakap atau berbincang-bincang secara santai tanpa pokok pembicaraan tertentu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap pagi mereka ~ di warung kopi itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bertukar pesan dalam waktu nyata dengan pengguna komputer lain",
+          "contoh": []
+        }
+      ],
+      "rootWord": "obrol"
+    }
+  ]
+}

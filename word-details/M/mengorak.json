@@ -1,1 +1,72 @@
-{"word":"mengorak","authenticated":true,"entries":[{"id":"58299","nama":"meng.o.rak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguraikan, membuka, mengungkai (tali, lingkar, gelung, dan sebagainya)","contoh":[]}],"rootWord":"orak¹","terkait":{"kataTurunan":[],"gabunganKata":["mengorak pura","mengorak selimut","mengorak senyum","mengorak sila"],"peribahasa":[],"idiom":["segan mengorak lingkar"]}},{"id":"58308","nama":"meng.o.rak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimba","contoh":[{"nomor":2,"teks":"kelasi itu ~ air dari perahu"}]}],"rootWord":"orak²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["segan mengorak lingkar"]}}]}
+{
+  "word": "mengorak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "58299",
+      "nama": "meng.o.rak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguraikan, membuka, mengungkai (tali, lingkar, gelung, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "orak¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengorak pura",
+          "mengorak selimut",
+          "mengorak senyum",
+          "mengorak sila"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "segan mengorak lingkar"
+        ]
+      }
+    },
+    {
+      "id": "58308",
+      "nama": "meng.o.rak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelasi itu ~ air dari perahu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "orak²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "segan mengorak lingkar"
+        ]
+      }
+    }
+  ]
+}

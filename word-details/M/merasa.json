@@ -1,1 +1,59 @@
-{"word":"merasa","authenticated":true,"entries":[{"id":"67609","nama":"me.ra.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengalami rangsangan yang mengenai (menyentuh) indra (seperti yang dialami lidah, kulit, atau badan)","contoh":[{"nomor":2,"teks":"setelah ~ pahit, obat itu diludahkannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengalami rasa dalam hati (batin)","contoh":[{"nomor":2,"teks":"~ terhina"}]}],"rootWord":"rasa¹","terkait":{"kataTurunan":[],"gabunganKata":["merasa hati"],"peribahasa":["babi merasa gulai","kaki terdorong badan merasa, lidah terdorong emas padahannya"],"idiom":[]}}]}
+{
+  "word": "merasa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67609",
+      "nama": "me.ra.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalami rangsangan yang mengenai (menyentuh) indra (seperti yang dialami lidah, kulit, atau badan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah ~ pahit, obat itu diludahkannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalami rasa dalam hati (batin)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ terhina"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rasa¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "merasa hati"
+        ],
+        "peribahasa": [
+          "babi merasa gulai",
+          "kaki terdorong badan merasa, lidah terdorong emas padahannya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

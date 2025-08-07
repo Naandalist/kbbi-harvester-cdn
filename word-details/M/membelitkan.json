@@ -1,1 +1,53 @@
-{"word":"membelitkan","authenticated":true,"entries":[{"id":"9849","nama":"mem.be.lit.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan membelit","contoh":[{"nomor":2,"teks":"gajah itu ~ belalainya pada batang pohon yang akan ditumbangkannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjadikan kusut dan rumit dengan jalan menyangkutkannya ke dalam perkara lain; menjadikan berbelit-belit","contoh":[{"nomor":2,"teks":"dia sengaja ~ perkara itu"}]}],"rootWord":"belit¹"}]}
+{
+  "word": "membelitkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9849",
+      "nama": "mem.be.lit.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan membelit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gajah itu ~ belalainya pada batang pohon yang akan ditumbangkannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan kusut dan rumit dengan jalan menyangkutkannya ke dalam perkara lain; menjadikan berbelit-belit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sengaja ~ perkara itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "belit¹"
+    }
+  ]
+}

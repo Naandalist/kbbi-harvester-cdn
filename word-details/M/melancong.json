@@ -1,1 +1,48 @@
-{"word":"melancong","authenticated":true,"entries":[{"id":"46437","nama":"me.lan.cong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bepergian untuk bersenang-senang; bertamasya; pesiar","contoh":[{"nomor":2,"teks":"~ ke luar negeri"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Antr","nama":"Antropologi","tipe":"lainnya"}],"definisi":"kunjungan laki-laki ke rumah pacarnya yang hanya boleh bertemu melalui jeruji jendela seturut adat Betawi","contoh":[]}],"rootWord":"lancong"}]}
+{
+  "word": "melancong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46437",
+      "nama": "me.lan.cong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bepergian untuk bersenang-senang; bertamasya; pesiar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ ke luar negeri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Antr",
+              "nama": "Antropologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kunjungan laki-laki ke rumah pacarnya yang hanya boleh bertemu melalui jeruji jendela seturut adat Betawi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lancong"
+    }
+  ]
+}

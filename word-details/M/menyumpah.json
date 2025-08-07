@@ -1,1 +1,90 @@
-{"word":"menyumpah","authenticated":true,"entries":[{"id":"79708","nama":"me.nyum.pah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengangkat sumpah; bersumpah; menyatakan sesuatu dengan sumpah","contoh":[{"nomor":2,"teks":"ia ~ demi Allah dan Rasulnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuruh bersumpah; mengambil sumpah; menyumpahi","contoh":[{"nomor":2,"teks":"pejabat itu bertugas ~ para pegawai negeri sipil yang baru diangkat"}]}],"rootWord":"sumpah¹"},{"id":"79721","nama":"me.nyum.pah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan kata-kata kotor (kutuk dan sebagainya); memaki-maki","contoh":[{"nomor":2,"teks":"ia ~ pengemudi yang menyerempet mobilnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengenakan perkataan (harapan dan sebagainya) yang tidak baik kepada; mengutuk; menyumpahi","contoh":[{"nomor":2,"teks":"tidak akan orang tua ~ anaknya"}]}],"rootWord":"sumpah²"}]}
+{
+  "word": "menyumpah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "79708",
+      "nama": "me.nyum.pah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengangkat sumpah; bersumpah; menyatakan sesuatu dengan sumpah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ demi Allah dan Rasulnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruh bersumpah; mengambil sumpah; menyumpahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pejabat itu bertugas ~ para pegawai negeri sipil yang baru diangkat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sumpah¹"
+    },
+    {
+      "id": "79721",
+      "nama": "me.nyum.pah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan kata-kata kotor (kutuk dan sebagainya); memaki-maki",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ pengemudi yang menyerempet mobilnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengenakan perkataan (harapan dan sebagainya) yang tidak baik kepada; mengutuk; menyumpahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak akan orang tua ~ anaknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sumpah²"
+    }
+  ]
+}

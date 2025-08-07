@@ -1,1 +1,56 @@
-{"word":"mengencang","authenticated":true,"entries":[{"id":"22103","nama":"meng.en.cang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menginjak secara tidak sengaja","contoh":[{"nomor":2,"teks":"ia ~ pecahan beling hingga kakinya luka"}]}],"rootWord":"encang¹"},{"id":"22105","nama":"meng.en.cang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul sesuatu dengan keras","contoh":[{"nomor":2,"teks":"dia ~ pintu itu hingga hancur berantakan"}]}],"rootWord":"encang²"}]}
+{
+  "word": "mengencang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22103",
+      "nama": "meng.en.cang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menginjak secara tidak sengaja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ pecahan beling hingga kakinya luka"
+            }
+          ]
+        }
+      ],
+      "rootWord": "encang¹"
+    },
+    {
+      "id": "22105",
+      "nama": "meng.en.cang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul sesuatu dengan keras",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ pintu itu hingga hancur berantakan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "encang²"
+    }
+  ]
+}

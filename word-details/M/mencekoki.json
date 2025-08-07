@@ -1,1 +1,48 @@
-{"word":"mencekoki","authenticated":true,"entries":[{"id":"15196","nama":"men.ce.kok.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi minum cekok secara rutin atau terus-menerus","contoh":[{"nomor":2,"teks":"ibu-ibu di desa biasa ~ anaknya supaya tetap sehat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"memberikan ajaran atau ilmu secara terus-menerus supaya diterima begitu saja oleh yang diberi ajaran","contoh":[]}],"rootWord":"cekok"}]}
+{
+  "word": "mencekoki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15196",
+      "nama": "men.ce.kok.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi minum cekok secara rutin atau terus-menerus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu-ibu di desa biasa ~ anaknya supaya tetap sehat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan ajaran atau ilmu secara terus-menerus supaya diterima begitu saja oleh yang diberi ajaran",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cekok"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"memayungi","authenticated":true,"entries":[{"id":"61099","nama":"me.ma.yung.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melindungi dengan payung","contoh":[{"nomor":2,"teks":"ia bertugas ~ mempelai pada perarakan itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melindungi","contoh":[{"nomor":2,"teks":"pemerintah selalu ~ rakyatnya"}]}],"rootWord":"payung"}]}
+{
+  "word": "memayungi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "61099",
+      "nama": "me.ma.yung.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melindungi dengan payung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia bertugas ~ mempelai pada perarakan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melindungi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah selalu ~ rakyatnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "payung"
+    }
+  ]
+}

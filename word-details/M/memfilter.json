@@ -1,1 +1,36 @@
-{"word":"memfilter","authenticated":true,"entries":[{"id":"23178","nama":"mem.fil.ter","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"menyaring","contoh":[{"nomor":2,"teks":"masyarakat diminta mampu ~ budaya asing"}]}],"rootWord":"filter"}]}
+{
+  "word": "memfilter",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "23178",
+      "nama": "mem.fil.ter",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyaring",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masyarakat diminta mampu ~ budaya asing"
+            }
+          ]
+        }
+      ],
+      "rootWord": "filter"
+    }
+  ]
+}

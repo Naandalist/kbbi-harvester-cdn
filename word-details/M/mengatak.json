@@ -1,1 +1,43 @@
-{"word":"mengatak","authenticated":true,"entries":[{"id":"5784","nama":"meng.a.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur tata letak huruf yang akan dicetak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengatur (menata) sesuai dengan komposisi yang baik","contoh":[{"nomor":2,"teks":"mereka sibuk ~ pelaminan"}]}],"rootWord":"atak¹"}]}
+{
+  "word": "mengatak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5784",
+      "nama": "meng.a.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur tata letak huruf yang akan dicetak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengatur (menata) sesuai dengan komposisi yang baik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sibuk ~ pelaminan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "atak¹"
+    }
+  ]
+}

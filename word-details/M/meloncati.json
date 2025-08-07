@@ -1,1 +1,43 @@
-{"word":"meloncati","authenticated":true,"entries":[{"id":"50100","nama":"me.lon.cat.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meloncat di atasnya; meloncat melangkahi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melompati","contoh":[{"nomor":2,"teks":"pencuri masuk dengan ~ pagar pekarangan"}]}],"rootWord":"loncat"}]}
+{
+  "word": "meloncati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50100",
+      "nama": "me.lon.cat.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meloncat di atasnya; meloncat melangkahi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melompati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pencuri masuk dengan ~ pagar pekarangan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "loncat"
+    }
+  ]
+}

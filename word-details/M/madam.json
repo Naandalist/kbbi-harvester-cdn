@@ -1,1 +1,59 @@
-{"word":"madam","authenticated":true,"entries":[{"id":"50889","nama":"ma.dam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"nyonya","contoh":[]}]},{"id":"267814","nama":"ma.dam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"tinggal di hutan selama berhari-hari ketika berburu","contoh":[{"nomor":2,"teks":"ayah dan rombongan pemburu lainnya  -- hingga seminggu lamanya"}]}]}]}
+{
+  "word": "madam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50889",
+      "nama": "ma.dam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyonya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "267814",
+      "nama": "ma.dam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tinggal di hutan selama berhari-hari ketika berburu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah dan rombongan pemburu lainnya  -- hingga seminggu lamanya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

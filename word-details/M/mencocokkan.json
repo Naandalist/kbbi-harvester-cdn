@@ -1,1 +1,75 @@
-{"word":"mencocokkan","authenticated":true,"entries":[{"id":"16375","nama":"men.co.cok.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menusukkan; menyematkan","contoh":[]}],"rootWord":"cocok¹"},{"id":"16381","nama":"men.co.cok.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membandingkan untuk mengetahui cocok tidaknya (benar tidaknya dan sebagainya)","contoh":[{"nomor":2,"teks":"~ alamat yang diberikan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan cocok (setuju dan sebagainya); mengakurkan; menyesuaikan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyesuaikan jarum jam dengan waktu tertentu atau jam lain","contoh":[]}],"rootWord":"cocok²"}]}
+{
+  "word": "mencocokkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16375",
+      "nama": "men.co.cok.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menusukkan; menyematkan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cocok¹"
+    },
+    {
+      "id": "16381",
+      "nama": "men.co.cok.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membandingkan untuk mengetahui cocok tidaknya (benar tidaknya dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ alamat yang diberikan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan cocok (setuju dan sebagainya); mengakurkan; menyesuaikan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyesuaikan jarum jam dengan waktu tertentu atau jam lain",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cocok²"
+    }
+  ]
+}

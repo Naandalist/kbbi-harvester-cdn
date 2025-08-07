@@ -1,1 +1,60 @@
-{"word":"menoreh","authenticated":true,"entries":[{"id":"87019","nama":"me.no.reh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiris tidak terlalu dalam (pada kulit kayu dan sebagainya); menggores","contoh":[{"nomor":2,"teks":"~ kulit kayu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiris (meretas) supaya terbuka; membelek","contoh":[{"nomor":2,"teks":"~ perut ikan"},{"nomor":4,"teks":"~ bantal"}]}],"rootWord":"toreh","terkait":{"kataTurunan":[],"gabunganKata":["menoreh getah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "menoreh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87019",
+      "nama": "me.no.reh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiris tidak terlalu dalam (pada kulit kayu dan sebagainya); menggores",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kulit kayu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiris (meretas) supaya terbuka; membelek",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ perut ikan"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ bantal"
+            }
+          ]
+        }
+      ],
+      "rootWord": "toreh",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "menoreh getah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

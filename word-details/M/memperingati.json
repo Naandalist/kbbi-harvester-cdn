@@ -1,1 +1,65 @@
-{"word":"memperingati","authenticated":true,"entries":[{"id":"31796","nama":"mem.per.i.ngat.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengadakan kegiatan (seperti perayaan, selamatan) untuk mengenangkan atau memuliakan suatu peristiwa","contoh":[{"nomor":2,"teks":"didirikan sebuah tugu untuk ~ jasa-jasa para pahlawan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencatat (dalam buku catatan)","contoh":[{"nomor":2,"teks":"dia selalu ~ kata-kata yang sukar dalam buku yang khusus itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi peringatan (teguran, nasihat) supaya ingat akan kewajiban dan sebagainya","contoh":[{"nomor":2,"teks":"Ibu ~ pesan Ayah kepada anak-anaknya untuk berdoa sebelum tidur"}]}],"rootWord":"ingat"}]}
+{
+  "word": "memperingati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "31796",
+      "nama": "mem.per.i.ngat.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengadakan kegiatan (seperti perayaan, selamatan) untuk mengenangkan atau memuliakan suatu peristiwa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "didirikan sebuah tugu untuk ~ jasa-jasa para pahlawan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencatat (dalam buku catatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia selalu ~ kata-kata yang sukar dalam buku yang khusus itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi peringatan (teguran, nasihat) supaya ingat akan kewajiban dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Ibu ~ pesan Ayah kepada anak-anaknya untuk berdoa sebelum tidur"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ingat"
+    }
+  ]
+}

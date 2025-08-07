@@ -1,1 +1,106 @@
-{"word":"manortor","authenticated":true,"entries":[{"id":"1","nama":"ma.nor.tor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menari dengan gerakan yang lembut dan anggun","contoh":[{"nomor":1,"teks":"penari itu ~ di atas panggung dengan sangat cantik"}]}],"rootWord":"manortormanortor"},{"id":"2","nama":"ma.nor.tor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seni tari yang berasal dari Bali","contoh":[{"nomor":1,"teks":"~ adalah salah satu warisan budaya Indonesia yang paling berharga"}]}],"rootWord":"manortormanortor"},{"id":"3","nama":"ma.nor.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan gerakan tari dengan luwes dan ekspresif","contoh":[{"nomor":1,"teks":"ia ~ dengan sangat luwes sehingga menghipnotis penonton"}]}],"rootWord":"manortormanortor"},{"id":"4","nama":"ma.nor.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penari profesional yang menghibur penonton","contoh":[{"nomor":1,"teks":"~ di acara itu menampilkan koreografi yang sangat rumit"}]}],"rootWord":"manortormanortor"}]}
+{
+  "word": "manortor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ma.nor.tor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menari dengan gerakan yang lembut dan anggun",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "penari itu ~ di atas panggung dengan sangat cantik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "manortormanortor"
+    },
+    {
+      "id": "2",
+      "nama": "ma.nor.tor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seni tari yang berasal dari Bali",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "~ adalah salah satu warisan budaya Indonesia yang paling berharga"
+            }
+          ]
+        }
+      ],
+      "rootWord": "manortormanortor"
+    },
+    {
+      "id": "3",
+      "nama": "ma.nor.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan gerakan tari dengan luwes dan ekspresif",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "ia ~ dengan sangat luwes sehingga menghipnotis penonton"
+            }
+          ]
+        }
+      ],
+      "rootWord": "manortormanortor"
+    },
+    {
+      "id": "4",
+      "nama": "ma.nor.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penari profesional yang menghibur penonton",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "~ di acara itu menampilkan koreografi yang sangat rumit"
+            }
+          ]
+        }
+      ],
+      "rootWord": "manortormanortor"
+    }
+  ]
+}

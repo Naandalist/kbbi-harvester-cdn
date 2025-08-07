@@ -1,1 +1,63 @@
-{"word":"mendarab","authenticated":true,"entries":[{"id":"17795","nama":"men.da.rab","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul keras-keras","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memacu kuda atau melarikan kuda cepat-cepat","contoh":[{"nomor":2,"teks":"sang wazir ~ kudanya pergi menjauh"}]}],"rootWord":"darab¹"},{"id":"17797","nama":"men.da.rab","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengalikan; memperkalikan","contoh":[]}],"rootWord":"darab²"}]}
+{
+  "word": "mendarab",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17795",
+      "nama": "men.da.rab",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul keras-keras",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memacu kuda atau melarikan kuda cepat-cepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sang wazir ~ kudanya pergi menjauh"
+            }
+          ]
+        }
+      ],
+      "rootWord": "darab¹"
+    },
+    {
+      "id": "17797",
+      "nama": "men.da.rab",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengalikan; memperkalikan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "darab²"
+    }
+  ]
+}

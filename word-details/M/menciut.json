@@ -1,1 +1,53 @@
-{"word":"menciut","authenticated":true,"entries":[{"id":"16326","nama":"men.ci.ut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi kecil (sempit); menyusut; mengerut","contoh":[{"nomor":2,"teks":"dana yang tersedia makin ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjadi tawar atau takut (tentang hati, perasaan)","contoh":[{"nomor":2,"teks":"hatinya ~ mendengar bentakan itu"}]}],"rootWord":"ciut¹"}]}
+{
+  "word": "menciut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16326",
+      "nama": "men.ci.ut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi kecil (sempit); menyusut; mengerut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dana yang tersedia makin ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi tawar atau takut (tentang hati, perasaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya ~ mendengar bentakan itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ciut¹"
+    }
+  ]
+}

@@ -1,1 +1,283 @@
-{"word":"merah","authenticated":true,"entries":[{"id":"53712","nama":"me.rah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"warna dasar yang serupa dengan warna darah","contoh":[{"nomor":2,"teks":"warna bajunya --, sedangkan rok bawahnya hitam"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mengandung atau memperlihatkan warna yang serupa dengan merah","contoh":[{"nomor":2,"teks":"mukanya -- tersipu-sipu"}]}],"terkait":{"kataTurunan":["kemerah-merahan","kemerahan","memerah","memerahi","memerahkan","pemerah","semerah"],"gabunganKata":["merah anggur","merah api","merah bata","merah beranang","merah bungsu","merah bungur","merah cabai","merah dadu","merah darah","merah delima","merah genting","merah hati","merah jadam","merah jambu","merah jingga","merah karat","merah kesumba","merah lak","merah lembayung","merah lombok","merah manggis","merah marak","merah marun","merah masak","merah menyala","merah merang","merah merona","merah muda","merah muka","merah murup","merah saga","merah sepang","merah serah","merah tedas","merah telinga","merah tua","merah udang"],"peribahasa":["bagai pinang tua merah ekor","di luar merah, di dalam pahit","dikati sama berat, diuji sama merah","diuji sama merah, dalam hati (ditail) sama berat","laksana bunga dadap, sungguh merah berbau tidak","laksana bunga dedap, sungguh merah, berbau tidak","yang merah saga, yang kurik kundi"],"idiom":["merah putih"]}},{"id":"109943","nama":"me.rah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanaman yang termasuk dalam keluarga pandan-pandanan, tingginya mencapai 16 m, berakar tunjang〔Pandanan conoideus〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buah berbentuk lonjong dengan kuncup tertutup, warnanya merah, cokelat, atau cokelat kekuningan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai pinang tua merah ekor","di luar merah, di dalam pahit","dikati sama berat, diuji sama merah","diuji sama merah, dalam hati (ditail) sama berat","laksana bunga dadap, sungguh merah berbau tidak","laksana bunga dedap, sungguh merah, berbau tidak","yang merah saga, yang kurik kundi"],"idiom":["merah putih"]}},{"id":"53745","nama":"me.rah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelar penghulu atau raja-raja kecil pada zaman dahulu","contoh":[{"nomor":2,"teks":"-- Silu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelar di Minangkabau (lebih rendah daripada sutan); marah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai pinang tua merah ekor","di luar merah, di dalam pahit","dikati sama berat, diuji sama merah","diuji sama merah, dalam hati (ditail) sama berat","laksana bunga dadap, sungguh merah berbau tidak","laksana bunga dedap, sungguh merah, berbau tidak","yang merah saga, yang kurik kundi"],"idiom":["merah putih"]}},{"id":"53746","nama":"me.rah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"molek; bagus","contoh":[{"nomor":2,"teks":"anak itu amat --"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai pinang tua merah ekor","di luar merah, di dalam pahit","dikati sama berat, diuji sama merah","diuji sama merah, dalam hati (ditail) sama berat","laksana bunga dadap, sungguh merah berbau tidak","laksana bunga dedap, sungguh merah, berbau tidak","yang merah saga, yang kurik kundi"],"idiom":["merah putih"]}},{"id":"53747","nama":"me.rah","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ungar","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai pinang tua merah ekor","di luar merah, di dalam pahit","dikati sama berat, diuji sama merah","diuji sama merah, dalam hati (ditail) sama berat","laksana bunga dadap, sungguh merah berbau tidak","laksana bunga dedap, sungguh merah, berbau tidak","yang merah saga, yang kurik kundi"],"idiom":["merah putih"]}}]}
+{
+  "word": "merah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53712",
+      "nama": "me.rah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "warna dasar yang serupa dengan warna darah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "warna bajunya --, sedangkan rok bawahnya hitam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengandung atau memperlihatkan warna yang serupa dengan merah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mukanya -- tersipu-sipu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemerah-merahan",
+          "kemerahan",
+          "memerah",
+          "memerahi",
+          "memerahkan",
+          "pemerah",
+          "semerah"
+        ],
+        "gabunganKata": [
+          "merah anggur",
+          "merah api",
+          "merah bata",
+          "merah beranang",
+          "merah bungsu",
+          "merah bungur",
+          "merah cabai",
+          "merah dadu",
+          "merah darah",
+          "merah delima",
+          "merah genting",
+          "merah hati",
+          "merah jadam",
+          "merah jambu",
+          "merah jingga",
+          "merah karat",
+          "merah kesumba",
+          "merah lak",
+          "merah lembayung",
+          "merah lombok",
+          "merah manggis",
+          "merah marak",
+          "merah marun",
+          "merah masak",
+          "merah menyala",
+          "merah merang",
+          "merah merona",
+          "merah muda",
+          "merah muka",
+          "merah murup",
+          "merah saga",
+          "merah sepang",
+          "merah serah",
+          "merah tedas",
+          "merah telinga",
+          "merah tua",
+          "merah udang"
+        ],
+        "peribahasa": [
+          "bagai pinang tua merah ekor",
+          "di luar merah, di dalam pahit",
+          "dikati sama berat, diuji sama merah",
+          "diuji sama merah, dalam hati (ditail) sama berat",
+          "laksana bunga dadap, sungguh merah berbau tidak",
+          "laksana bunga dedap, sungguh merah, berbau tidak",
+          "yang merah saga, yang kurik kundi"
+        ],
+        "idiom": [
+          "merah putih"
+        ]
+      }
+    },
+    {
+      "id": "109943",
+      "nama": "me.rah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanaman yang termasuk dalam keluarga pandan-pandanan, tingginya mencapai 16 m, berakar tunjang〔Pandanan conoideus〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buah berbentuk lonjong dengan kuncup tertutup, warnanya merah, cokelat, atau cokelat kekuningan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pinang tua merah ekor",
+          "di luar merah, di dalam pahit",
+          "dikati sama berat, diuji sama merah",
+          "diuji sama merah, dalam hati (ditail) sama berat",
+          "laksana bunga dadap, sungguh merah berbau tidak",
+          "laksana bunga dedap, sungguh merah, berbau tidak",
+          "yang merah saga, yang kurik kundi"
+        ],
+        "idiom": [
+          "merah putih"
+        ]
+      }
+    },
+    {
+      "id": "53745",
+      "nama": "me.rah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelar penghulu atau raja-raja kecil pada zaman dahulu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Silu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelar di Minangkabau (lebih rendah daripada sutan); marah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pinang tua merah ekor",
+          "di luar merah, di dalam pahit",
+          "dikati sama berat, diuji sama merah",
+          "diuji sama merah, dalam hati (ditail) sama berat",
+          "laksana bunga dadap, sungguh merah berbau tidak",
+          "laksana bunga dedap, sungguh merah, berbau tidak",
+          "yang merah saga, yang kurik kundi"
+        ],
+        "idiom": [
+          "merah putih"
+        ]
+      }
+    },
+    {
+      "id": "53746",
+      "nama": "me.rah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "molek; bagus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu amat --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pinang tua merah ekor",
+          "di luar merah, di dalam pahit",
+          "dikati sama berat, diuji sama merah",
+          "diuji sama merah, dalam hati (ditail) sama berat",
+          "laksana bunga dadap, sungguh merah berbau tidak",
+          "laksana bunga dedap, sungguh merah, berbau tidak",
+          "yang merah saga, yang kurik kundi"
+        ],
+        "idiom": [
+          "merah putih"
+        ]
+      }
+    },
+    {
+      "id": "53747",
+      "nama": "me.rah",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ungar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai pinang tua merah ekor",
+          "di luar merah, di dalam pahit",
+          "dikati sama berat, diuji sama merah",
+          "diuji sama merah, dalam hati (ditail) sama berat",
+          "laksana bunga dadap, sungguh merah berbau tidak",
+          "laksana bunga dedap, sungguh merah, berbau tidak",
+          "yang merah saga, yang kurik kundi"
+        ],
+        "idiom": [
+          "merah putih"
+        ]
+      }
+    }
+  ]
+}

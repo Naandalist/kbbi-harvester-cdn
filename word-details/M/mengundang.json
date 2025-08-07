@@ -1,1 +1,55 @@
-{"word":"mengundang","authenticated":true,"entries":[{"id":"45028","nama":"me.ngun.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"selalu membawa ke mana saja","contoh":[]}],"rootWord":"kundang¹"},{"id":"89591","nama":"meng.un.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanggil supaya datang; mempersilakan hadir (dalam rapat, perjamuan, dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka ~ kita makan malam"},{"nomor":4,"teks":"kami ~ Tuan menginap di rumah kami"}]}],"rootWord":"undang¹"}]}
+{
+  "word": "mengundang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45028",
+      "nama": "me.ngun.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "selalu membawa ke mana saja",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kundang¹"
+    },
+    {
+      "id": "89591",
+      "nama": "meng.un.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanggil supaya datang; mempersilakan hadir (dalam rapat, perjamuan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ kita makan malam"
+            },
+            {
+              "nomor": 4,
+              "teks": "kami ~ Tuan menginap di rumah kami"
+            }
+          ]
+        }
+      ],
+      "rootWord": "undang¹"
+    }
+  ]
+}

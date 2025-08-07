@@ -1,1 +1,88 @@
-{"word":"melayap","authenticated":true,"entries":[{"id":"47504","nama":"me.la.yap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pergi tanpa arah dan tujuan","contoh":[]}],"rootWord":"layap¹"},{"id":"47507","nama":"me.la.yap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbang rendah sekali","contoh":[{"nomor":2,"teks":"burung-burung laut terbang ~ di atas air laut yang tenang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merambat terbawa oleh angin (tentang suara)","contoh":[]}],"rootWord":"layap²"},{"id":"47514","nama":"me.la.yap","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"mulai hendak tidur; tidur-tidur ayam; di antara jaga dan tidur","contoh":[]}],"rootWord":"layap³"}]}
+{
+  "word": "melayap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47504",
+      "nama": "me.la.yap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pergi tanpa arah dan tujuan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layap¹"
+    },
+    {
+      "id": "47507",
+      "nama": "me.la.yap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbang rendah sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "burung-burung laut terbang ~ di atas air laut yang tenang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merambat terbawa oleh angin (tentang suara)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layap²"
+    },
+    {
+      "id": "47514",
+      "nama": "me.la.yap",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mulai hendak tidur; tidur-tidur ayam; di antara jaga dan tidur",
+          "contoh": []
+        }
+      ],
+      "rootWord": "layap³"
+    }
+  ]
+}

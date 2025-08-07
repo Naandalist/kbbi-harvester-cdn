@@ -1,1 +1,53 @@
-{"word":"mutakalim","authenticated":true,"entries":[{"id":"56004","nama":"mu.ta.ka.lim","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"pembicara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"ahli ilmu kalam (teologi)","contoh":[]}],"etimologi":{"text":"[Arab مُتَكَلِّمٌ mutakallim n sg m 'pembicara; ahli teologi']","languages":["Arab"]}}]}
+{
+  "word": "mutakalim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "56004",
+      "nama": "mu.ta.ka.lim",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pembicara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ahli ilmu kalam (teologi)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab مُتَكَلِّمٌ mutakallim n sg m 'pembicara; ahli teologi']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

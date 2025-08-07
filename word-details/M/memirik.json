@@ -1,1 +1,64 @@
-{"word":"memirik","authenticated":true,"entries":[{"id":"63922","nama":"me.mi.rik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memipis; menumbuk lumat-lumat; melumatkan","contoh":[{"nomor":2,"teks":"~ cabai"},{"nomor":4,"teks":"~ kopi"},{"nomor":6,"teks":"~ lada"}]}],"rootWord":"pirik¹"},{"id":"63924","nama":"me.mi.rik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencubit; menjepit","contoh":[{"nomor":2,"teks":"~ orang"}]}],"rootWord":"pirik²"}]}
+{
+  "word": "memirik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63922",
+      "nama": "me.mi.rik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memipis; menumbuk lumat-lumat; melumatkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ cabai"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ kopi"
+            },
+            {
+              "nomor": 6,
+              "teks": "~ lada"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pirik¹"
+    },
+    {
+      "id": "63924",
+      "nama": "me.mi.rik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencubit; menjepit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ orang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pirik²"
+    }
+  ]
+}

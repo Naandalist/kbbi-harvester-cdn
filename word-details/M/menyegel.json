@@ -1,1 +1,69 @@
-{"word":"menyegel","authenticated":true,"entries":[{"id":"73218","nama":"me.nye.gel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membubuhkan meterai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membubuhkan cap (dengan lak dan sebagainya) pada surat rahasia","contoh":[{"nomor":2,"teks":"supaya aman, mereka harus ~ surat rahasia itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup rumah (bangunan, barang, dan sebagainya) yang disita dengan menempelkan segel pada pintu dan sebagainya","contoh":[{"nomor":2,"teks":"mereka telah ~ bangunan itu karena statusnya tidak jelas"}]}],"rootWord":"segel","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["menyegel gelar juara","menyegel tiket"]}}]}
+{
+  "word": "menyegel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73218",
+      "nama": "me.nye.gel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membubuhkan meterai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membubuhkan cap (dengan lak dan sebagainya) pada surat rahasia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "supaya aman, mereka harus ~ surat rahasia itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup rumah (bangunan, barang, dan sebagainya) yang disita dengan menempelkan segel pada pintu dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka telah ~ bangunan itu karena statusnya tidak jelas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "segel",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "menyegel gelar juara",
+          "menyegel tiket"
+        ]
+      }
+    }
+  ]
+}

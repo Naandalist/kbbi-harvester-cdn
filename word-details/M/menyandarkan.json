@@ -1,1 +1,73 @@
-{"word":"menyandarkan","authenticated":true,"entries":[{"id":"71935","nama":"me.nyan.dar.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meletakkan dan sebagainya bersandar pada","contoh":[{"nomor":2,"teks":"ia ~ sepedanya pada tembok"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggantungkan hidup pada; memercayakan hidup pada","contoh":[{"nomor":2,"teks":"laki-laki itu ~ hidup keluarganya pada hasil berjualan rokok"}]}],"rootWord":"sandar¹"},{"id":"71945","nama":"me.nyan.dar.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberikan barang sebagai sandar","contoh":[{"nomor":2,"teks":"saya mau ~ cincin ini"}]}],"rootWord":"sandar²"}]}
+{
+  "word": "menyandarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71935",
+      "nama": "me.nyan.dar.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meletakkan dan sebagainya bersandar pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ sepedanya pada tembok"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggantungkan hidup pada; memercayakan hidup pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "laki-laki itu ~ hidup keluarganya pada hasil berjualan rokok"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sandar¹"
+    },
+    {
+      "id": "71945",
+      "nama": "me.nyan.dar.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberikan barang sebagai sandar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya mau ~ cincin ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sandar²"
+    }
+  ]
+}

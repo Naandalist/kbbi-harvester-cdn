@@ -1,1 +1,48 @@
-{"word":"menyedang","authenticated":true,"entries":[{"id":"73058","nama":"me.nye.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencoba pakaian dan sebagainya untuk mengetahui sedang tidaknya","contoh":[{"nomor":2,"teks":"~ baju"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"mencukupi; memadai; sedang-menyedang","contoh":[]}],"rootWord":"sedang²"}]}
+{
+  "word": "menyedang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73058",
+      "nama": "me.nye.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencoba pakaian dan sebagainya untuk mengetahui sedang tidaknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ baju"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mencukupi; memadai; sedang-menyedang",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sedang²"
+    }
+  ]
+}

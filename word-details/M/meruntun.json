@@ -1,1 +1,53 @@
-{"word":"meruntun","authenticated":true,"entries":[{"id":"70478","nama":"me.run.tun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menarik kuat-kuat; menyentak; merenggut","contoh":[{"nomor":2,"teks":"wanita itu menangis terisak-isak sambil ~ rambut"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"merebut; merampas","contoh":[{"nomor":2,"teks":"pangeran hendak ~ negeri itu dari tangan maharaja"}]}],"rootWord":"runtun¹"}]}
+{
+  "word": "meruntun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "70478",
+      "nama": "me.run.tun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menarik kuat-kuat; menyentak; merenggut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wanita itu menangis terisak-isak sambil ~ rambut"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merebut; merampas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pangeran hendak ~ negeri itu dari tangan maharaja"
+            }
+          ]
+        }
+      ],
+      "rootWord": "runtun¹"
+    }
+  ]
+}

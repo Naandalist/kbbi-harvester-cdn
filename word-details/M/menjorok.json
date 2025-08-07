@@ -1,1 +1,36 @@
-{"word":"menjorok","authenticated":true,"entries":[{"id":"34869","nama":"men.jo.rok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"menganjur (ke luar atau ke dalam)","contoh":[{"nomor":2,"teks":"tanah yang ~ ke laut"}]}],"rootWord":"jorok¹"}]}
+{
+  "word": "menjorok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34869",
+      "nama": "men.jo.rok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menganjur (ke luar atau ke dalam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanah yang ~ ke laut"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jorok¹"
+    }
+  ]
+}

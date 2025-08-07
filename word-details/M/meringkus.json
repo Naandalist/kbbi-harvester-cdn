@@ -1,1 +1,48 @@
-{"word":"meringkus","authenticated":true,"entries":[{"id":"69456","nama":"me.ring.kus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat kaki dan tangan (atau kaki binatang yang akan disembelih)","contoh":[{"nomor":2,"teks":"pagi-pagi benar para jagal sudah ~ kaki sapi yang akan dipotong"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menangkap; membekuk (pencuri)","contoh":[{"nomor":2,"teks":"polisi berhasil ~ penjahat itu"}]}],"rootWord":"ringkus"}]}
+{
+  "word": "meringkus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69456",
+      "nama": "me.ring.kus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat kaki dan tangan (atau kaki binatang yang akan disembelih)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pagi-pagi benar para jagal sudah ~ kaki sapi yang akan dipotong"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menangkap; membekuk (pencuri)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "polisi berhasil ~ penjahat itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ringkus"
+    }
+  ]
+}

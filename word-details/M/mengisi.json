@@ -1,1 +1,61 @@
-{"word":"mengisi","authenticated":true,"entries":[{"id":"32471","nama":"meng.i.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi isi; memasukkan sesuatu ke dalam","contoh":[{"nomor":2,"teks":"kakak ~ termos dengan air panas"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"mengirim berkas, data, atau program dari tempat penyimpanan komputer induk ke sekunder agar dapat dijalankan","contoh":[]}],"rootWord":"isi","terkait":{"kataTurunan":[],"gabunganKata":["mengisi adat","mengisi perut","mengisi waktu"],"peribahasa":["mengisi gantang pesuk","mengisi perian bubus"],"idiom":[]}}]}
+{
+  "word": "mengisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32471",
+      "nama": "meng.i.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi isi; memasukkan sesuatu ke dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakak ~ termos dengan air panas"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengirim berkas, data, atau program dari tempat penyimpanan komputer induk ke sekunder agar dapat dijalankan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "isi",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengisi adat",
+          "mengisi perut",
+          "mengisi waktu"
+        ],
+        "peribahasa": [
+          "mengisi gantang pesuk",
+          "mengisi perian bubus"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

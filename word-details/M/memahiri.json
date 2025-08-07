@@ -1,1 +1,55 @@
-{"word":"memahiri","authenticated":true,"entries":[{"id":"51088","nama":"me.ma.hir.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melatih diri supaya mahir; mempelajari dengan sungguh-sungguh","contoh":[{"nomor":2,"teks":"dia sedang ~ bahasa Arab"}]}],"rootWord":"mahir"},{"id":"284216","nama":"me.ma.hi.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ram","nama":"Rampi","tipe":"lainnya"}],"definisi":"miring (tentang posisi tidur)","contoh":[]}]}]}
+{
+  "word": "memahiri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51088",
+      "nama": "me.ma.hir.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melatih diri supaya mahir; mempelajari dengan sungguh-sungguh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sedang ~ bahasa Arab"
+            }
+          ]
+        }
+      ],
+      "rootWord": "mahir"
+    },
+    {
+      "id": "284216",
+      "nama": "me.ma.hi.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ram",
+              "nama": "Rampi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "miring (tentang posisi tidur)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

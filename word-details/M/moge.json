@@ -1,1 +1,54 @@
-{"word":"moge","authenticated":true,"entries":[{"id":"54921","nama":"mo.ge","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ekr","nama":"Ekari","tipe":"lainnya"}],"definisi":"cawat untuk perempuan yang terbuat dari pintalan serat kulit kayu","contoh":[]}]},{"id":"92850","nama":"mo.ge","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"motor gede","contoh":[]}]}]}
+{
+  "word": "moge",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54921",
+      "nama": "mo.ge",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ekr",
+              "nama": "Ekari",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "cawat untuk perempuan yang terbuat dari pintalan serat kulit kayu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "92850",
+      "nama": "mo.ge",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "motor gede",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

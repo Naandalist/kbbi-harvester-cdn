@@ -1,1 +1,71 @@
-{"word":"mesum","authenticated":true,"entries":[{"id":"54027","nama":"me.sum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kotor; cemar (tentang pakaian, badan, dan sebagainya)","contoh":[{"nomor":2,"teks":"pakaiannya telah --"},{"nomor":4,"teks":"tempat yang --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak senonoh; tidak patut; keji sekali (tentang perbuatan, kelakuan, dan sebagainya); cabul","contoh":[{"nomor":2,"teks":"bacaan yang isinya sangat --"},{"nomor":4,"teks":"perbuatan yang --"}]}],"terkait":{"kataTurunan":["bermesum","kemesuman","memesumi","permesuman"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mesum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54027",
+      "nama": "me.sum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotor; cemar (tentang pakaian, badan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pakaiannya telah --"
+            },
+            {
+              "nomor": 4,
+              "teks": "tempat yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak senonoh; tidak patut; keji sekali (tentang perbuatan, kelakuan, dan sebagainya); cabul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bacaan yang isinya sangat --"
+            },
+            {
+              "nomor": 4,
+              "teks": "perbuatan yang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermesum",
+          "kemesuman",
+          "memesumi",
+          "permesuman"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

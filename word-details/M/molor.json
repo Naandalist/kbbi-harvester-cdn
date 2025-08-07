@@ -1,1 +1,81 @@
-{"word":"molor","authenticated":true,"entries":[{"id":"54974","nama":"mo.lor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tidur","contoh":[]}]},{"id":"54975","nama":"mo.lor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bertambah panjang (tentang karet dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bertambah lama; mundur","contoh":[{"nomor":2,"teks":"menurut rencana, rapat berakhir pukul 19.00, tetapi ternyata -- sampai pukul 20.00"}]}]}]}
+{
+  "word": "molor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54974",
+      "nama": "mo.lor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "54975",
+      "nama": "mo.lor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertambah panjang (tentang karet dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertambah lama; mundur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menurut rencana, rapat berakhir pukul 19.00, tetapi ternyata -- sampai pukul 20.00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

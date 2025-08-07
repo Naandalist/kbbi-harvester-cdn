@@ -1,1 +1,49 @@
-{"word":"manakan","authenticated":true,"entries":[{"id":"51862","nama":"ma.na.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"bagaimana akan boleh (dapat); bagaimana","contoh":[]}]},{"id":"51863","nama":"ma.na.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kemenakan","contoh":[]}]}]}
+{
+  "word": "manakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51862",
+      "nama": "ma.na.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagaimana akan boleh (dapat); bagaimana",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "51863",
+      "nama": "ma.na.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemenakan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

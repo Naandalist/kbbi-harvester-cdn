@@ -1,1 +1,43 @@
-{"word":"memocok","authenticated":true,"entries":[{"id":"64272","nama":"me.mo.cok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memenggal; menebas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengambil","contoh":[]}],"rootWord":"pocok"}]}
+{
+  "word": "memocok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "64272",
+      "nama": "me.mo.cok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memenggal; menebas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pocok"
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"word":"mantra","authenticated":true,"entries":[{"id":"52200","nama":"man.tra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkataan atau ucapan yang memiliki kekuatan gaib (misalnya dapat menyembuhkan, mendatangkan celaka, dan sebagainya)","contoh":[{"nomor":2,"teks":"upacara itu dimulai dengan pembacaan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susunan kata berunsur puisi (seperti rima, irama) yang dianggap mengandung kekuatan gaib, biasanya diucapkan oleh dukun atau pawang untuk menandingi kekuatan gaib yang lain","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"kata atau frasa yang diulang-ulang untuk tujuan pengobatan","contoh":[]}],"terkait":{"kataTurunan":["bermantrakan","memantrai","memantrakan","pemantraan","termantrai"],"gabunganKata":["mantra gajah","mantra kejahatan","mantra keselamatan","mantra penawar","mantra penenang","mantra pitanggang","mantra tantra"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mantra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52200",
+      "nama": "man.tra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkataan atau ucapan yang memiliki kekuatan gaib (misalnya dapat menyembuhkan, mendatangkan celaka, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "upacara itu dimulai dengan pembacaan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susunan kata berunsur puisi (seperti rima, irama) yang dianggap mengandung kekuatan gaib, biasanya diucapkan oleh dukun atau pawang untuk menandingi kekuatan gaib yang lain",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kata atau frasa yang diulang-ulang untuk tujuan pengobatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bermantrakan",
+          "memantrai",
+          "memantrakan",
+          "pemantraan",
+          "termantrai"
+        ],
+        "gabunganKata": [
+          "mantra gajah",
+          "mantra kejahatan",
+          "mantra keselamatan",
+          "mantra penawar",
+          "mantra penenang",
+          "mantra pitanggang",
+          "mantra tantra"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

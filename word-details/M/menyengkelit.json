@@ -1,1 +1,51 @@
-{"word":"menyengkelit","authenticated":true,"entries":[{"id":"75092","nama":"me.nyeng.ke.lit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendesak masuk; mendesak-desak","contoh":[]}],"rootWord":"sengkelit²"},{"id":"75095","nama":"me.nyeng.ke.lit","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menyisipkan (keris, golok, dan sebagainya) di pinggang atau di bagian belakang tubuh","contoh":[]}],"rootWord":"sengkelit³"}]}
+{
+  "word": "menyengkelit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75092",
+      "nama": "me.nyeng.ke.lit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendesak masuk; mendesak-desak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sengkelit²"
+    },
+    {
+      "id": "75095",
+      "nama": "me.nyeng.ke.lit",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menyisipkan (keris, golok, dan sebagainya) di pinggang atau di bagian belakang tubuh",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sengkelit³"
+    }
+  ]
+}

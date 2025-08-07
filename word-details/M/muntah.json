@@ -1,1 +1,108 @@
-{"word":"muntah","authenticated":true,"entries":[{"id":"55742","nama":"mun.tah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar kembali (tentang makanan, minuman, dan sebagainya) yang telah masuk ke dalam mulut atau perut","contoh":[{"nomor":2,"teks":"begitu tercium bau busuk, --lah ia"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barang yang dimuntahkan; muntahan","contoh":[{"nomor":2,"teks":"setelah diperiksa, -- itu mengandung alkohol dan larutan obat penenang"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"luntur (tentang warna)","contoh":[{"nomor":2,"teks":"baju ini sekali dicuci sudah --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"lepas dari","contoh":[{"nomor":2,"teks":"tendangan bola yang keras itu -- dari tangan penjaga gawang"}]}],"terkait":{"kataTurunan":["dimuntahkan","memuntahi","memuntahkan","muntahan","pemuntahan"],"gabunganKata":["muntah berak","muntah darah"],"peribahasa":[],"idiom":["menjilat muntah sendiri"]}}]}
+{
+  "word": "muntah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55742",
+      "nama": "mun.tah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar kembali (tentang makanan, minuman, dan sebagainya) yang telah masuk ke dalam mulut atau perut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "begitu tercium bau busuk, --lah ia"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang yang dimuntahkan; muntahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah diperiksa, -- itu mengandung alkohol dan larutan obat penenang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "luntur (tentang warna)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baju ini sekali dicuci sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lepas dari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tendangan bola yang keras itu -- dari tangan penjaga gawang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "dimuntahkan",
+          "memuntahi",
+          "memuntahkan",
+          "muntahan",
+          "pemuntahan"
+        ],
+        "gabunganKata": [
+          "muntah berak",
+          "muntah darah"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "menjilat muntah sendiri"
+        ]
+      }
+    }
+  ]
+}

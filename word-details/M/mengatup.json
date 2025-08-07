@@ -1,1 +1,43 @@
-{"word":"mengatup","authenticated":true,"entries":[{"id":"37840","nama":"me.nga.tup","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup rapat-rapat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"dalam keadaan kedua sisinya tergulung secara adaksial atau abaksial dan bersinggungan","contoh":[]}],"rootWord":"katup"}]}
+{
+  "word": "mengatup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37840",
+      "nama": "me.nga.tup",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup rapat-rapat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "dalam keadaan kedua sisinya tergulung secara adaksial atau abaksial dan bersinggungan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "katup"
+    }
+  ]
+}

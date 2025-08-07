@@ -1,1 +1,51 @@
-{"word":"mengekop","authenticated":true,"entries":[{"id":"43531","nama":"me.nge.kop","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyundul (bola) pada sepak bola dan sebagainya","contoh":[{"nomor":2,"teks":"pemain jangkung itu berhasil ~ tendangan pojok ke gawang lawan"}]}],"rootWord":"kop²"},{"id":"43533","nama":"me.nge.kop","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan darah dengan cara menyungkupkan mangkuk yang dipanaskan (dengan meletakkan pada bagian tubuh, biasanya di kepala yang akan disedot darahnya); membekam","contoh":[]}],"rootWord":"kop³"}]}
+{
+  "word": "mengekop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43531",
+      "nama": "me.nge.kop",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyundul (bola) pada sepak bola dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemain jangkung itu berhasil ~ tendangan pojok ke gawang lawan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kop²"
+    },
+    {
+      "id": "43533",
+      "nama": "me.nge.kop",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan darah dengan cara menyungkupkan mangkuk yang dipanaskan (dengan meletakkan pada bagian tubuh, biasanya di kepala yang akan disedot darahnya); membekam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kop³"
+    }
+  ]
+}

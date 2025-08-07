@@ -1,1 +1,48 @@
-{"word":"meringkaskan","authenticated":true,"entries":[{"id":"69444","nama":"me.ring.kas.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan ringkas (tidak banyak memerlukan tempat)","contoh":[{"nomor":2,"teks":"ia ~ barang-barang itu supaya dapat masuk ke dalam peti"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memendekkan (cerita, pembicaraan); mengikhtisarkan; mengambil inti sarinya saja","contoh":[{"nomor":2,"teks":"~ pembicaraan"}]}],"rootWord":"ringkas"}]}
+{
+  "word": "meringkaskan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69444",
+      "nama": "me.ring.kas.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan ringkas (tidak banyak memerlukan tempat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ barang-barang itu supaya dapat masuk ke dalam peti"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memendekkan (cerita, pembicaraan); mengikhtisarkan; mengambil inti sarinya saja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pembicaraan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ringkas"
+    }
+  ]
+}

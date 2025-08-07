@@ -1,1 +1,51 @@
-{"word":"melawas","authenticated":true,"entries":[{"id":"47419","nama":"me.la.was","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"luas, lapang, lega (tentang pemandangan dan sebagainya)","contoh":[]}],"rootWord":"lawas¹"},{"id":"47421","nama":"me.la.was","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mulai habis (tentang buah-buahan dan sebagainya)","contoh":[{"nomor":2,"teks":"buah rambutan sudah ~ karena musimnya hampir habis"}]}],"rootWord":"lawas²"}]}
+{
+  "word": "melawas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47419",
+      "nama": "me.la.was",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "luas, lapang, lega (tentang pemandangan dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lawas¹"
+    },
+    {
+      "id": "47421",
+      "nama": "me.la.was",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulai habis (tentang buah-buahan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buah rambutan sudah ~ karena musimnya hampir habis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lawas²"
+    }
+  ]
+}

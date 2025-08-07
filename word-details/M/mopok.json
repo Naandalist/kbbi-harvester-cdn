@@ -1,1 +1,54 @@
-{"word":"mopok","authenticated":true,"entries":[{"id":"55123","nama":"mo.pok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"sifat kayu yang terlihat utuh di luar, tetapi bagian dalamnya hancur oleh serangga","contoh":[]}]},{"id":"247076","nama":"mo.pok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"merapikan galangan sawah dengan cara melapisinya dengan lumpur atau tanah sawah yang dibalikan dengan cangkul","contoh":[]}]}]}
+{
+  "word": "mopok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55123",
+      "nama": "mo.pok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sifat kayu yang terlihat utuh di luar, tetapi bagian dalamnya hancur oleh serangga",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "247076",
+      "nama": "mo.pok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "merapikan galangan sawah dengan cara melapisinya dengan lumpur atau tanah sawah yang dibalikan dengan cangkul",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

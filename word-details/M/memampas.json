@@ -1,1 +1,47 @@
-{"word":"memampas","authenticated":true,"entries":[{"id":"59549","nama":"me.mam.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengganti rugi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar denda (karena melukai, merusak, dan sebagainya)","contoh":[{"nomor":2,"teks":"mencencang tidak ~, membunuh tidak membangun"},{"nomor":4,"teks":"negara itu telah ~ segala barang yang telah dihancurkan pada masa perang"}]}],"rootWord":"pampas¹"}]}
+{
+  "word": "memampas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59549",
+      "nama": "me.mam.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengganti rugi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar denda (karena melukai, merusak, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mencencang tidak ~, membunuh tidak membangun"
+            },
+            {
+              "nomor": 4,
+              "teks": "negara itu telah ~ segala barang yang telah dihancurkan pada masa perang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pampas¹"
+    }
+  ]
+}

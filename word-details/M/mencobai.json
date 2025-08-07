@@ -1,1 +1,53 @@
-{"word":"mencobai","authenticated":true,"entries":[{"id":"16350","nama":"men.co.ba.i","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencoba berkali-kali (baju, sepatu, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"menguji untuk memupuk ketekunan dan kesetiaan umat","contoh":[{"nomor":2,"teks":"Tuhan ~ umat untuk mengetahui apakah mereka setia kepada perintah-Nya"}]}],"rootWord":"coba"}]}
+{
+  "word": "mencobai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16350",
+      "nama": "men.co.ba.i",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencoba berkali-kali (baju, sepatu, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menguji untuk memupuk ketekunan dan kesetiaan umat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Tuhan ~ umat untuk mengetahui apakah mereka setia kepada perintah-Nya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "coba"
+    }
+  ]
+}

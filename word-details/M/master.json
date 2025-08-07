@@ -1,1 +1,98 @@
-{"word":"master","authenticated":true,"entries":[{"id":"52629","nama":"mas.ter","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang memimpin orang lain","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang utama, yang paling tinggi (pandai, cakap, dan sebagainya) di antara yang lain; juara (olahraga catur)","contoh":[{"nomor":2,"teks":"dari sekian puluh jago catur, hanya satu dua orang yang menjadi --"}]}],"terkait":{"kataTurunan":["masteran","memaster","memasterkan","pemaster","pemasteran"],"gabunganKata":["master internasional","master kicauan","master kopling","master rem","master silinder"],"peribahasa":[],"idiom":[]}},{"id":"52631","nama":"mas.ter","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"acuan untuk pencetakan lebih lanjut; disket yang menjadi dasar untuk memperbanyak rekaman","contoh":[]}]},{"id":"52632","nama":"mas.ter","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"magister","contoh":[]}]}]}
+{
+  "word": "master",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52629",
+      "nama": "mas.ter",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang memimpin orang lain",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang utama, yang paling tinggi (pandai, cakap, dan sebagainya) di antara yang lain; juara (olahraga catur)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari sekian puluh jago catur, hanya satu dua orang yang menjadi --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "masteran",
+          "memaster",
+          "memasterkan",
+          "pemaster",
+          "pemasteran"
+        ],
+        "gabunganKata": [
+          "master internasional",
+          "master kicauan",
+          "master kopling",
+          "master rem",
+          "master silinder"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "52631",
+      "nama": "mas.ter",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "acuan untuk pencetakan lebih lanjut; disket yang menjadi dasar untuk memperbanyak rekaman",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "52632",
+      "nama": "mas.ter",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "magister",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

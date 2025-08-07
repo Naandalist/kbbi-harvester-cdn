@@ -1,1 +1,62 @@
-{"word":"memakan","authenticated":true,"entries":[{"id":"51359","nama":"me.ma.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"makan (biasanya mengandung arti lebih aktif)","contoh":[{"nomor":2,"teks":"kucing ~ daging"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengakibatkan, menyebabkan","contoh":[{"nomor":2,"teks":"patah tulang ~ korban terbanyak dalam gempa ini"}]}],"rootWord":"makan¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["memakan habis-habisan, menyuruh hilang-hilang","menyuruk hilang-hilang, memakan habis-habis"],"idiom":[]}}]}
+{
+  "word": "memakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51359",
+      "nama": "me.ma.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makan (biasanya mengandung arti lebih aktif)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kucing ~ daging"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengakibatkan, menyebabkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "patah tulang ~ korban terbanyak dalam gempa ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "makan¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "memakan habis-habisan, menyuruh hilang-hilang",
+          "menyuruk hilang-hilang, memakan habis-habis"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

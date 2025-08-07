@@ -1,1 +1,56 @@
-{"word":"mengganggang","authenticated":true,"entries":[{"id":"24268","nama":"meng.gang.gang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanggang","contoh":[{"nomor":2,"teks":"mereka sedang ~ opak di dapur"}]}],"rootWord":"ganggang¹"},{"id":"24271","nama":"meng.gang.gang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi bercelah atau renggang","contoh":[{"nomor":2,"teks":"papan kayu ~"}]}],"rootWord":"ganggang²"}]}
+{
+  "word": "mengganggang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24268",
+      "nama": "meng.gang.gang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanggang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka sedang ~ opak di dapur"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ganggang¹"
+    },
+    {
+      "id": "24271",
+      "nama": "meng.gang.gang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi bercelah atau renggang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "papan kayu ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ganggang²"
+    }
+  ]
+}

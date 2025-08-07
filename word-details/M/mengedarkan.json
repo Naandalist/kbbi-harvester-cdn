@@ -1,1 +1,65 @@
-{"word":"mengedarkan","authenticated":true,"entries":[{"id":"21030","nama":"meng.e.dar.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa (menyampaikan) surat dan sebagainya dari orang yang satu kepada yang lain; membawa berkeliling","contoh":[{"nomor":2,"teks":"siapa gadis manis yang ~ talam berisi kue tadi?"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyampaikan surat dan sebagainya ke alamat-alamat yang dituju","contoh":[{"nomor":2,"teks":"ia telah selesai ~ surat undangan itu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengeluarkan uang untuk dipakai masyarakat","contoh":[{"nomor":2,"teks":"Pemerintah telah ~ uang kertas baru bernilai Rp10.000,00"}]}],"rootWord":"edar"}]}
+{
+  "word": "mengedarkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21030",
+      "nama": "meng.e.dar.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa (menyampaikan) surat dan sebagainya dari orang yang satu kepada yang lain; membawa berkeliling",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa gadis manis yang ~ talam berisi kue tadi?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyampaikan surat dan sebagainya ke alamat-alamat yang dituju",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia telah selesai ~ surat undangan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengeluarkan uang untuk dipakai masyarakat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Pemerintah telah ~ uang kertas baru bernilai Rp10.000,00"
+            }
+          ]
+        }
+      ],
+      "rootWord": "edar"
+    }
+  ]
+}

@@ -1,1 +1,36 @@
-{"word":"memita","authenticated":true,"entries":[{"id":"102112","nama":"me.mi.ta","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menyerupai empat persegi panjang yang sempit dengan nisbah panjang dan lebar melebihi 21:1","contoh":[{"nomor":1,"teks":"1"}]}],"rootWord":"pita¹"}]}
+{
+  "word": "memita",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102112",
+      "nama": "me.mi.ta",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menyerupai empat persegi panjang yang sempit dengan nisbah panjang dan lebar melebihi 21:1",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "1"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pita¹"
+    }
+  ]
+}

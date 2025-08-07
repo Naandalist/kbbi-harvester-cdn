@@ -1,1 +1,65 @@
-{"word":"menyela","authenticated":true,"entries":[{"id":"73596","nama":"me.nye.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terletak (tersisip dan sebagainya) di antara dua benda dan sebagainya","contoh":[{"nomor":2,"teks":"beberapa rumah model kuno ~ di antara gedung-gedung yang modern"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menaruh (menyisipkan dan sebagainya) sesuatu di antara dua benda dan sebagainya","contoh":[{"nomor":2,"teks":"tanaman kacang dapat dimanfaatkan untuk ~ pohon cengkih yang belum besar"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelang","contoh":[{"nomor":2,"teks":"~ percakapan orang lain adalah perbuatan yang kurang sopan"}]}],"rootWord":"sela¹"}]}
+{
+  "word": "menyela",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73596",
+      "nama": "me.nye.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terletak (tersisip dan sebagainya) di antara dua benda dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "beberapa rumah model kuno ~ di antara gedung-gedung yang modern"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menaruh (menyisipkan dan sebagainya) sesuatu di antara dua benda dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanaman kacang dapat dimanfaatkan untuk ~ pohon cengkih yang belum besar"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ percakapan orang lain adalah perbuatan yang kurang sopan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sela¹"
+    }
+  ]
+}

@@ -1,1 +1,36 @@
-{"word":"mengalem","authenticated":true,"entries":[{"id":"162713","nama":"meng.a.lem","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"memanjakan","contoh":[{"nomor":2,"teks":"sebaiknya kamu jangan terlalu ~ anakmu"}]}],"rootWord":"alem"}]}
+{
+  "word": "mengalem",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "162713",
+      "nama": "meng.a.lem",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanjakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebaiknya kamu jangan terlalu ~ anakmu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "alem"
+    }
+  ]
+}

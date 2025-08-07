@@ -1,1 +1,109 @@
-{"word":"mengurah","authenticated":true,"entries":[{"id":"89966","nama":"meng.u.rah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"membongkar (timbunan dan sebagainya)","contoh":[{"nomor":2,"teks":"~ lumbung"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"membuka jahitan, ikatan, dan sebagainya","contoh":[{"nomor":2,"teks":"~ bantal"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"menceritakan (pengalaman, penderitaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ tambo lama"}]}],"rootWord":"urah"},{"id":"238625","nama":"me.ngu.rah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menuangi wadah atau cobek dengan air agar sisa-sisa bumbu atau makanan yang tersisa dapat disatukan dengan masakan","contoh":[{"nomor":2,"teks":"juru masak -- bumbu di cobek agar tidak terbuang sia-sia"}]}]}]}
+{
+  "word": "mengurah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89966",
+      "nama": "meng.u.rah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membongkar (timbunan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ lumbung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membuka jahitan, ikatan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bantal"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menceritakan (pengalaman, penderitaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ tambo lama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "urah"
+    },
+    {
+      "id": "238625",
+      "nama": "me.ngu.rah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menuangi wadah atau cobek dengan air agar sisa-sisa bumbu atau makanan yang tersisa dapat disatukan dengan masakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "juru masak -- bumbu di cobek agar tidak terbuang sia-sia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

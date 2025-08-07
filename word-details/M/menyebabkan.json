@@ -1,1 +1,52 @@
-{"word":"menyebabkan","authenticated":true,"entries":[{"id":"72930","nama":"me.nye.bab.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mendatangkan (menimbulkan, menerbitkan) adanya suatu hal; menjadikan sebab","contoh":[{"nomor":2,"teks":"kelengahannya ~ terjadinya kecelakaan itu"},{"nomor":4,"teks":"kata-kata yang kurang tepat sering kali ~ salah paham"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi (menjadi) lantaran","contoh":[{"nomor":2,"teks":"benar, hanya perkara ini yang ~ terjadinya perkelahian itu"}]}],"rootWord":"sebab"}]}
+{
+  "word": "menyebabkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72930",
+      "nama": "me.nye.bab.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendatangkan (menimbulkan, menerbitkan) adanya suatu hal; menjadikan sebab",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelengahannya ~ terjadinya kecelakaan itu"
+            },
+            {
+              "nomor": 4,
+              "teks": "kata-kata yang kurang tepat sering kali ~ salah paham"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi (menjadi) lantaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "benar, hanya perkara ini yang ~ terjadinya perkelahian itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sebab"
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"word":"membebek","authenticated":true,"entries":[{"id":"9251","nama":"mem.be.bek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berlaku seperti bebek","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mengikuti saja pendapat orang tanpa berpikir (hanya meniru orang lain)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"beristri banyak","contoh":[]}],"rootWord":"bebek¹"},{"id":"9254","nama":"mem.be.bek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengembik","contoh":[]}],"rootWord":"bebek²"}]}
+{
+  "word": "membebek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9251",
+      "nama": "mem.be.bek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlaku seperti bebek",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikuti saja pendapat orang tanpa berpikir (hanya meniru orang lain)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beristri banyak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bebek¹"
+    },
+    {
+      "id": "9254",
+      "nama": "mem.be.bek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengembik",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bebek²"
+    }
+  ]
+}

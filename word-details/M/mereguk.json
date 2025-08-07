@@ -1,1 +1,57 @@
-{"word":"mereguk","authenticated":true,"entries":[{"id":"68168","nama":"me.re.guk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meneguk; meminum","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"merasai (nikmat dan sebagainya)","contoh":[{"nomor":2,"teks":"mereka dapat ~ kesenangan hidup pada zaman kemerdekaan ini"}]}],"rootWord":"reguk","terkait":{"kataTurunan":[],"gabunganKata":["mereguk cuan","mereguk liur"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "mereguk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68168",
+      "nama": "me.re.guk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meneguk; meminum",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasai (nikmat dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka dapat ~ kesenangan hidup pada zaman kemerdekaan ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "reguk",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mereguk cuan",
+          "mereguk liur"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

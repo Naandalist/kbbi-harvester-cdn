@@ -1,1 +1,70 @@
-{"word":"menyalin","authenticated":true,"entries":[{"id":"71430","nama":"me.nya.lin","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menukar (mengganti) dengan yang lain","contoh":[{"nomor":2,"teks":"artis biasanya ~ nama dengan nama yang populer"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menurun (tulisan); menulis kembali; meniru","contoh":[{"nomor":2,"teks":"ia terpaksa harus ~ pelajaran itu dari buku temannya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"menerjemahkan","contoh":[{"nomor":2,"teks":"ia telah ~ beberapa buku Inggris ke dalam bahasa Indonesia"}]}],"rootWord":"salin¹"}]}
+{
+  "word": "menyalin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71430",
+      "nama": "me.nya.lin",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menukar (mengganti) dengan yang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "artis biasanya ~ nama dengan nama yang populer"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menurun (tulisan); menulis kembali; meniru",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia terpaksa harus ~ pelajaran itu dari buku temannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menerjemahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia telah ~ beberapa buku Inggris ke dalam bahasa Indonesia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "salin¹"
+    }
+  ]
+}

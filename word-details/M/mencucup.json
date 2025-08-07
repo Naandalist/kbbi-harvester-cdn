@@ -1,1 +1,53 @@
-{"word":"mencucup","authenticated":true,"entries":[{"id":"16755","nama":"men.cu.cup","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisap","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencium; mengecup (mengucup)","contoh":[{"nomor":2,"teks":"ia ~ cucunya"}]}],"rootWord":"cucup","terkait":{"kataTurunan":[],"gabunganKata":["mencucup benak"],"peribahasa":["mengisap (mencarak, mencucup) benak"],"idiom":[]}}]}
+{
+  "word": "mencucup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16755",
+      "nama": "men.cu.cup",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisap",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencium; mengecup (mengucup)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ cucunya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cucup",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mencucup benak"
+        ],
+        "peribahasa": [
+          "mengisap (mencarak, mencucup) benak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

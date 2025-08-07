@@ -1,1 +1,52 @@
-{"word":"mengoreksi","authenticated":true,"entries":[{"id":"43682","nama":"me.ngo.rek.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membetulkan (memperbaiki) kesalahan","contoh":[{"nomor":2,"teks":"salah satu tugas pemimpin ialah ~ anak buahnya"},{"nomor":4,"teks":"jangan cepat menyalahkan orang lain sebelum ~ diri sendiri"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dik","nama":"Pendidikan","tipe":"lainnya"}],"definisi":"memeriksa pekerjaan murid dengan melihat benar salahnya (untuk menentukan nilai pekerjaan itu)","contoh":[]}],"rootWord":"koreksi"}]}
+{
+  "word": "mengoreksi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43682",
+      "nama": "me.ngo.rek.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membetulkan (memperbaiki) kesalahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "salah satu tugas pemimpin ialah ~ anak buahnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "jangan cepat menyalahkan orang lain sebelum ~ diri sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dik",
+              "nama": "Pendidikan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memeriksa pekerjaan murid dengan melihat benar salahnya (untuk menentukan nilai pekerjaan itu)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "koreksi"
+    }
+  ]
+}

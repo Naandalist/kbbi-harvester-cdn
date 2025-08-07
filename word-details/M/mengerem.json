@@ -1,1 +1,48 @@
-{"word":"mengerem","authenticated":true,"entries":[{"id":"68430","nama":"me.nge.rem","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggunakan rem supaya berhenti","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menahan; mengekang (hawa nafsu, kemauan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia dapat ~ amarahnya"}]}],"rootWord":"rem"}]}
+{
+  "word": "mengerem",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68430",
+      "nama": "me.nge.rem",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggunakan rem supaya berhenti",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menahan; mengekang (hawa nafsu, kemauan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia dapat ~ amarahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rem"
+    }
+  ]
+}

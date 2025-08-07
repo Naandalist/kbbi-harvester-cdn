@@ -1,1 +1,70 @@
-{"word":"menjentik","authenticated":true,"entries":[{"id":"34285","nama":"men.jen.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjepit dengan ibu jari dan jari yang lain; mencubit","contoh":[{"nomor":2,"teks":"ia berkata sambil ~ dagu istrinya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul dengan belakang ujung jari yang dibidaskan dengan jempol; menyentil","contoh":[{"nomor":2,"teks":"guru itu ~ telinga muridnya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menegur; memarahi","contoh":[{"nomor":2,"teks":"ia berkali-kali ~ bawahannya yang selalu datang terlambat"}]}],"rootWord":"jentik¹"}]}
+{
+  "word": "menjentik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34285",
+      "nama": "men.jen.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjepit dengan ibu jari dan jari yang lain; mencubit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berkata sambil ~ dagu istrinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul dengan belakang ujung jari yang dibidaskan dengan jempol; menyentil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru itu ~ telinga muridnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menegur; memarahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berkali-kali ~ bawahannya yang selalu datang terlambat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jentik¹"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"mengembat","authenticated":true,"entries":[{"id":"21837","nama":"meng.em.bat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memukul dengan benda panjang tipis seperti rotan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengambil dengan cara yang tidak sah (mencuri, mencopet)","contoh":[{"nomor":2,"teks":"pencoleng telah ~ barang-barang pedagang itu"}]}],"rootWord":"embat¹"}]}
+{
+  "word": "mengembat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21837",
+      "nama": "meng.em.bat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memukul dengan benda panjang tipis seperti rotan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengambil dengan cara yang tidak sah (mencuri, mencopet)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pencoleng telah ~ barang-barang pedagang itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "embat¹"
+    }
+  ]
+}

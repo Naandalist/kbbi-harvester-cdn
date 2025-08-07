@@ -1,1 +1,56 @@
-{"word":"membantah","authenticated":true,"entries":[{"id":"8101","nama":"mem.ban.tah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak menerima; menolak","contoh":[{"nomor":2,"teks":"tidak ada yang berani ~ perintah raja"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak membenarkan","contoh":[{"nomor":2,"teks":"juru bicara perusahaan itu ~ kabar yang telah tersiar di masyarakat"}]}],"rootWord":"bantah","terkait":{"kataTurunan":[],"gabunganKata":["membantah janji"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "membantah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8101",
+      "nama": "mem.ban.tah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menerima; menolak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ada yang berani ~ perintah raja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak membenarkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "juru bicara perusahaan itu ~ kabar yang telah tersiar di masyarakat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bantah",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "membantah janji"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

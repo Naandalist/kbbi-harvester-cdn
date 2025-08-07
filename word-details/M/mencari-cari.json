@@ -1,1 +1,48 @@
-{"word":"mencari-cari","authenticated":true,"entries":[{"id":"14789","nama":"men.ca.ri-ca.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sengaja membuat-buat lantaran (alasan dan sebagainya); mengada-adakan sesuatu yang sebenarnya tidak ada","contoh":[{"nomor":2,"teks":"ia cuma ~ alasan yang tidak masuk akal sebagai pelarian"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berusaha mencari (untuk menemukan)","contoh":[{"nomor":2,"teks":"hari-hari berikutnya berkali-kali dia ~ apakah masih ada yang dapat diubahnya"}]}],"rootWord":"cari"}]}
+{
+  "word": "mencari-cari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14789",
+      "nama": "men.ca.ri-ca.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sengaja membuat-buat lantaran (alasan dan sebagainya); mengada-adakan sesuatu yang sebenarnya tidak ada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia cuma ~ alasan yang tidak masuk akal sebagai pelarian"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berusaha mencari (untuk menemukan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari-hari berikutnya berkali-kali dia ~ apakah masih ada yang dapat diubahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cari"
+    }
+  ]
+}

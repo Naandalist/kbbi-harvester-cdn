@@ -1,1 +1,56 @@
-{"word":"mengasetkan","authenticated":true,"entries":[{"id":"37472","nama":"me.nga.set.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengisi suara ke dalam kaset","contoh":[{"nomor":2,"teks":"mubalig itu selalu ~ ceramahnya"}]}],"rootWord":"kaset"},{"id":"182197","nama":"meng.a.set.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadikan sebagai aset","contoh":[{"nomor":2,"teks":"pemerintah daerah telah ~ kendaraan dinas"}]}],"rootWord":"aset"}]}
+{
+  "word": "mengasetkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37472",
+      "nama": "me.nga.set.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengisi suara ke dalam kaset",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mubalig itu selalu ~ ceramahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kaset"
+    },
+    {
+      "id": "182197",
+      "nama": "meng.a.set.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadikan sebagai aset",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah daerah telah ~ kendaraan dinas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "aset"
+    }
+  ]
+}

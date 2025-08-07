@@ -1,1 +1,53 @@
-{"word":"membungkuk-bungkuk","authenticated":true,"entries":[{"id":"13482","nama":"mem.bung.kuk-bung.kuk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membungkuk; merunduk-runduk","contoh":[{"nomor":2,"teks":"ia ~ di antara pohon-pohon teh supaya tidak kelihatan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sangat merendahkan diri; sangat hormat","contoh":[{"nomor":2,"teks":"tidak sudi aku ~ terhadap kaum penjajah"}]}],"rootWord":"bungkuk"}]}
+{
+  "word": "membungkuk-bungkuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "13482",
+      "nama": "mem.bung.kuk-bung.kuk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membungkuk; merunduk-runduk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ di antara pohon-pohon teh supaya tidak kelihatan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat merendahkan diri; sangat hormat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak sudi aku ~ terhadap kaum penjajah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bungkuk"
+    }
+  ]
+}

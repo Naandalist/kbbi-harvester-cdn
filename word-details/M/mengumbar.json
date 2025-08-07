@@ -1,1 +1,53 @@
-{"word":"mengumbar","authenticated":true,"entries":[{"id":"89438","nama":"meng.um.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membiarkan lepas (bebas)","contoh":[{"nomor":2,"teks":"~ anak kuda di lapangan agar cepat besar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membiarkan berbuat sekehendak hatinya; membiarkan terlepas","contoh":[{"nomor":2,"teks":"~ hawa nafsu"}]}],"rootWord":"umbar"}]}
+{
+  "word": "mengumbar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89438",
+      "nama": "meng.um.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membiarkan lepas (bebas)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ anak kuda di lapangan agar cepat besar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membiarkan berbuat sekehendak hatinya; membiarkan terlepas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hawa nafsu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "umbar"
+    }
+  ]
+}

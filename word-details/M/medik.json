@@ -1,1 +1,58 @@
-{"word":"medik","authenticated":true,"entries":[{"id":"53134","nama":"me.dik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"juru rawat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["medik reproduksi","medik veteriner"],"peribahasa":[],"idiom":[]}},{"id":"237006","nama":"me.dik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"anak cacing tanah","contoh":[]}]}]}
+{
+  "word": "medik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "53134",
+      "nama": "me.dik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "juru rawat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "medik reproduksi",
+          "medik veteriner"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "237006",
+      "nama": "me.dik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "anak cacing tanah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

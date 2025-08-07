@@ -1,1 +1,41 @@
-{"word":"mengacangi","authenticated":true,"entries":[{"id":"163991","nama":"me.nga.cang.i","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak menghiraukan perkataan atau keberadaan orang lain","contoh":[{"nomor":2,"teks":"sudah panjang lebar aku berbicara, dia malah ~ku"}]}],"rootWord":"kacang²"}]}
+{
+  "word": "mengacangi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "163991",
+      "nama": "me.nga.cang.i",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menghiraukan perkataan atau keberadaan orang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah panjang lebar aku berbicara, dia malah ~ku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kacang²"
+    }
+  ]
+}

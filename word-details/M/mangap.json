@@ -1,1 +1,63 @@
-{"word":"mangap","authenticated":true,"entries":[{"id":"52008","nama":"ma.ngap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"membuka mulut; menganga (tentang mulut)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berbicara","contoh":[{"nomor":2,"teks":"jangan asal -- saja!"}]}],"etimologi":{"text":"[Jawa Kuno maṅap 'menganga; terbuka lebar; diperluas; menelan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "mangap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52008",
+      "nama": "ma.ngap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membuka mulut; menganga (tentang mulut)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbicara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan asal -- saja!"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno maṅap 'menganga; terbuka lebar; diperluas; menelan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

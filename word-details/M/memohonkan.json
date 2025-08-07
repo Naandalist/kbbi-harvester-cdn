@@ -1,1 +1,51 @@
-{"word":"memohonkan","authenticated":true,"entries":[{"id":"54931","nama":"me.mo.hon.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memohon untuk (kepentingan dan sebagainya) orang lain","contoh":[]}],"rootWord":"mohon"},{"id":"64321","nama":"me.mo.hon.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memintakan dengan hormat","contoh":[{"nomor":2,"teks":"~ kemurahan hati Baginda"}]}],"rootWord":"pohon²"}]}
+{
+  "word": "memohonkan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54931",
+      "nama": "me.mo.hon.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memohon untuk (kepentingan dan sebagainya) orang lain",
+          "contoh": []
+        }
+      ],
+      "rootWord": "mohon"
+    },
+    {
+      "id": "64321",
+      "nama": "me.mo.hon.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memintakan dengan hormat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kemurahan hati Baginda"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pohon²"
+    }
+  ]
+}

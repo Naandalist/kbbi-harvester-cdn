@@ -1,1 +1,81 @@
-{"word":"merencanakan","authenticated":true,"entries":[{"id":"68607","nama":"me.ren.ca.na.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membuat rencana; mengonsep (membuat, menyusun konsep)","contoh":[{"nomor":2,"teks":"~ surat"},{"nomor":4,"teks":"~ cerita"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"merancang; mereka-reka; mengupayakan","contoh":[{"nomor":2,"teks":"~ pembangunan kota"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menguraikan; menceritakan; melaporkan (menyusun laporan risalah)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memaksudkan; mencadangkan","contoh":[{"nomor":2,"teks":"~ uang ini untuk membeli beras"}]}],"rootWord":"rencana"}]}
+{
+  "word": "merencanakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68607",
+      "nama": "me.ren.ca.na.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membuat rencana; mengonsep (membuat, menyusun konsep)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ surat"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ cerita"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merancang; mereka-reka; mengupayakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pembangunan kota"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menguraikan; menceritakan; melaporkan (menyusun laporan risalah)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memaksudkan; mencadangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ uang ini untuk membeli beras"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rencana"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"menyayung","authenticated":true,"entries":[{"id":"72901","nama":"me.nya.yung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengiris (menetak dan sebagainya) secara menyerong; merancung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menyindir","contoh":[]}],"rootWord":"sayung"}]}
+{
+  "word": "menyayung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72901",
+      "nama": "me.nya.yung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengiris (menetak dan sebagainya) secara menyerong; merancung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyindir",
+          "contoh": []
+        }
+      ],
+      "rootWord": "sayung"
+    }
+  ]
+}

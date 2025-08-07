@@ -1,1 +1,85 @@
-{"word":"melantai","authenticated":true,"entries":[{"id":"46775","nama":"me.lan.tai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memasang lantai","contoh":[{"nomor":2,"teks":"sebelum ~, bangunan harus diberi atap dahulu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berdansa","contoh":[{"nomor":2,"teks":"acara ~ merupakan acara rutin pada pesta muda-mudi"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"rata dan datar (menyerupai lantai)","contoh":[{"nomor":2,"teks":"pada beberapa tempat kelihatan bentuk karang yang ~ karena kikisan air laut"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"masuk pasar saham; masuk bursa saham","contoh":[]}],"rootWord":"lantai¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sudah lulus maka hendak melantai"],"idiom":[]}}]}
+{
+  "word": "melantai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46775",
+      "nama": "me.lan.tai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memasang lantai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum ~, bangunan harus diberi atap dahulu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdansa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara ~ merupakan acara rutin pada pesta muda-mudi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rata dan datar (menyerupai lantai)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada beberapa tempat kelihatan bentuk karang yang ~ karena kikisan air laut"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masuk pasar saham; masuk bursa saham",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lantai¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sudah lulus maka hendak melantai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

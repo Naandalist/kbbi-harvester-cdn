@@ -1,1 +1,51 @@
-{"word":"mencuca","authenticated":true,"entries":[{"id":"16708","nama":"men.cu.ca","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"mencerca; mengumpat","contoh":[]}],"rootWord":"cuca¹"},{"id":"16710","nama":"men.cu.ca","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memantrai (untuk menawar bisa, menyembuhkan luka, mengebalkan tubuh, dan sebagainya)","contoh":[]}],"rootWord":"cuca²"}]}
+{
+  "word": "mencuca",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16708",
+      "nama": "men.cu.ca",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencerca; mengumpat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cuca¹"
+    },
+    {
+      "id": "16710",
+      "nama": "men.cu.ca",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memantrai (untuk menawar bisa, menyembuhkan luka, mengebalkan tubuh, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cuca²"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"word":"mengontan","authenticated":true,"entries":[{"id":"43377","nama":"me.ngon.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar dengan tunai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"menjawab (membalas dan sebagainya) seketika itu juga","contoh":[]}],"rootWord":"kontan"}]}
+{
+  "word": "mengontan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43377",
+      "nama": "me.ngon.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar dengan tunai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjawab (membalas dan sebagainya) seketika itu juga",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kontan"
+    }
+  ]
+}

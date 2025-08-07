@@ -1,1 +1,70 @@
-{"word":"merompes","authenticated":true,"entries":[{"id":"69780","nama":"me.rom.pes","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"membuang sekaligus kaki binatang yang tidak akan ikut dimakan (kaki kepiting dan lain-lain)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"memotong sayuran dan membuang bagian yang tidak akan dimakan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"memotong dan membuang daun atau ranting agar tanaman cepat berbuah","contoh":[{"nomor":2,"teks":"ibu sedang ~ tanaman di kebun"}]}],"rootWord":"rompes²"}]}
+{
+  "word": "merompes",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "69780",
+      "nama": "me.rom.pes",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membuang sekaligus kaki binatang yang tidak akan ikut dimakan (kaki kepiting dan lain-lain)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memotong sayuran dan membuang bagian yang tidak akan dimakan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memotong dan membuang daun atau ranting agar tanaman cepat berbuah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu sedang ~ tanaman di kebun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rompes²"
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"menduri","authenticated":true,"entries":[{"id":"20905","nama":"men.du.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"seperti duri","contoh":[{"nomor":2,"teks":"rambutnya ~ landak"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tajam; menyakiti hati","contoh":[{"nomor":2,"teks":"ucapan-ucapannya ~"}]}],"rootWord":"duri"}]}
+{
+  "word": "menduri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20905",
+      "nama": "men.du.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seperti duri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya ~ landak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tajam; menyakiti hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ucapan-ucapannya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "duri"
+    }
+  ]
+}

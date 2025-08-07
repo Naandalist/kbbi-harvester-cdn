@@ -1,1 +1,64 @@
-{"word":"mando","authenticated":true,"entries":[{"id":"134863","nama":"man.do","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"menundukkan kepala sebagai tanda penghormatan","contoh":[]}]},{"id":"218878","nama":"man.do","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"membuka kedua tangan dengan lebar seperti ketika berdoa","contoh":[{"nomor":2,"teks":"mari -- seraya berdoa agar Tuhan merahmati kita"}]}]}]}
+{
+  "word": "mando",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "134863",
+      "nama": "man.do",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menundukkan kepala sebagai tanda penghormatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "218878",
+      "nama": "man.do",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membuka kedua tangan dengan lebar seperti ketika berdoa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mari -- seraya berdoa agar Tuhan merahmati kita"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"merajakan","authenticated":true,"entries":[{"id":"66874","nama":"me.ra.ja.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"mengangkat menjadi raja; menjadikan raja","contoh":[{"nomor":2,"teks":"Anakanda tiada ingin menjadi raja, baiklah Ayahanda ~ Adinda"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menganggap sebagai raja; mengutamakan","contoh":[{"nomor":2,"teks":"~ uang dan pangkat"}]}],"rootWord":"raja"}]}
+{
+  "word": "merajakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66874",
+      "nama": "me.ra.ja.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengangkat menjadi raja; menjadikan raja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Anakanda tiada ingin menjadi raja, baiklah Ayahanda ~ Adinda"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menganggap sebagai raja; mengutamakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ uang dan pangkat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "raja"
+    }
+  ]
+}

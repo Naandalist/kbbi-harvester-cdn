@@ -1,1 +1,78 @@
-{"word":"mengandung","authenticated":true,"entries":[{"id":"36649","nama":"me.ngan.dung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membawa sesuatu yang ditaruh di dalam angkin (dalam perut, dalam saku, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia tidak ~ uang sesen pun"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tercantum di dalamnya; memuat; berisi","contoh":[{"nomor":2,"teks":"makanan kaleng pada umumnya ~ bahan pengawet"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hamil","contoh":[{"nomor":2,"teks":"istrinya sedang ~ tua"}]}],"rootWord":"kandung","terkait":{"kataTurunan":[],"gabunganKata":["mengandung hati"],"peribahasa":["harum semerbak mengandung mala","putih mengandung awan, kelam baja mengandung hujan"],"idiom":["mengandung bawang"]}}]}
+{
+  "word": "mengandung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36649",
+      "nama": "me.ngan.dung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membawa sesuatu yang ditaruh di dalam angkin (dalam perut, dalam saku, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak ~ uang sesen pun"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tercantum di dalamnya; memuat; berisi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makanan kaleng pada umumnya ~ bahan pengawet"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hamil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "istrinya sedang ~ tua"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kandung",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "mengandung hati"
+        ],
+        "peribahasa": [
+          "harum semerbak mengandung mala",
+          "putih mengandung awan, kelam baja mengandung hujan"
+        ],
+        "idiom": [
+          "mengandung bawang"
+        ]
+      }
+    }
+  ]
+}

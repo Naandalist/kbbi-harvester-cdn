@@ -1,1 +1,48 @@
-{"word":"mengartikan","authenticated":true,"entries":[{"id":"5201","nama":"meng.ar.ti.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi arti; menafsirkan","contoh":[{"nomor":2,"teks":"mereka ~ isyarat itu sebagai tanda menyerah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menerangkan maksud sesuatu","contoh":[{"nomor":2,"teks":"ia ~ “reformasi” sebagai perubahan radikal"}]}],"rootWord":"arti"}]}
+{
+  "word": "mengartikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5201",
+      "nama": "meng.ar.ti.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi arti; menafsirkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ isyarat itu sebagai tanda menyerah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menerangkan maksud sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ “reformasi” sebagai perubahan radikal"
+            }
+          ]
+        }
+      ],
+      "rootWord": "arti"
+    }
+  ]
+}

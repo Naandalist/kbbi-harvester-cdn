@@ -1,1 +1,73 @@
-{"word":"mendaki","authenticated":true,"entries":[{"id":"17403","nama":"men.da.ki","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memanjat; menaiki (gunung, bukit, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ bukit, menuruni lurah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menanjak naik","contoh":[{"nomor":2,"teks":"jalannya berliku-liku, menurun, dan ~"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naik (tentang matahari)","contoh":[{"nomor":2,"teks":"matahari mulai ~"}]}],"rootWord":"daki²","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ke bukit sama mendaki, ke lurah sama menurun"],"idiom":[]}}]}
+{
+  "word": "mendaki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17403",
+      "nama": "men.da.ki",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memanjat; menaiki (gunung, bukit, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ bukit, menuruni lurah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menanjak naik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jalannya berliku-liku, menurun, dan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik (tentang matahari)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matahari mulai ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "daki²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ke bukit sama mendaki, ke lurah sama menurun"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

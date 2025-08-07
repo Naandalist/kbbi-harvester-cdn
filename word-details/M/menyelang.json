@@ -1,1 +1,90 @@
-{"word":"menyelang","authenticated":true,"entries":[{"id":"73710","nama":"me.nye.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyelipi","contoh":[{"nomor":2,"teks":"ia ~ pekerjaannya dengan kesibukan lain sehingga tidak lekas selesai"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memotong (perkataan, pembicaraan, dan sebagainya); menyelingi; menyela","contoh":[{"nomor":2,"teks":"jangan ~ perkataan orang yang sedang bicara"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengantarai; menengahi","contoh":[{"nomor":2,"teks":"guru itu datang ~ ketika muridnya bertengkar"}]}],"rootWord":"selang¹"},{"id":"73717","nama":"me.nye.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meminjam","contoh":[{"nomor":2,"teks":"ia ~ uang kepada tetangganya"}]}],"rootWord":"selang²"}]}
+{
+  "word": "menyelang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73710",
+      "nama": "me.nye.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyelipi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ pekerjaannya dengan kesibukan lain sehingga tidak lekas selesai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memotong (perkataan, pembicaraan, dan sebagainya); menyelingi; menyela",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan ~ perkataan orang yang sedang bicara"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengantarai; menengahi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru itu datang ~ ketika muridnya bertengkar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selang¹"
+    },
+    {
+      "id": "73717",
+      "nama": "me.nye.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meminjam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ uang kepada tetangganya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selang²"
+    }
+  ]
+}

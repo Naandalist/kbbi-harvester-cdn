@@ -1,1 +1,73 @@
-{"word":"merenung","authenticated":true,"entries":[{"id":"68828","nama":"me.re.nung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memandang; menatap","contoh":[{"nomor":2,"teks":"ia tiada berani menentang mata A yang selalu ~nya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjenguk","contoh":[{"nomor":2,"teks":"ia ~ ke luar jendela"}]}],"rootWord":"renung¹"},{"id":"68831","nama":"me.re.nung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diam memikirkan sesuatu; termenung; termangu","contoh":[{"nomor":2,"teks":"lama ia duduk ~"}]}],"rootWord":"renung²"}]}
+{
+  "word": "merenung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "68828",
+      "nama": "me.re.nung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memandang; menatap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tiada berani menentang mata A yang selalu ~nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjenguk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ ke luar jendela"
+            }
+          ]
+        }
+      ],
+      "rootWord": "renung¹"
+    },
+    {
+      "id": "68831",
+      "nama": "me.re.nung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diam memikirkan sesuatu; termenung; termangu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lama ia duduk ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "renung²"
+    }
+  ]
+}

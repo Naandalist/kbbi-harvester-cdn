@@ -1,1 +1,54 @@
-{"word":"maroko","authenticated":true,"entries":[{"id":"279581","nama":"ma.ro.ko","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bm","nama":"Bima","tipe":"lainnya"}],"definisi":"berjaga semalam suntuk sambil menabuh gendang, menari, dan menyanyi untuk mengisi kesaktian alat upacara adat","contoh":[{"nomor":2,"teks":"bapak -- kemarin hingga kelelahan"}]}]},{"id":"166794","nama":"Ma.ro.ko","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"negara yang terletak di Afrika Barat Laut, beribu kota Rabat","contoh":[]}]}]}
+{
+  "word": "maroko",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "279581",
+      "nama": "ma.ro.ko",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bm",
+              "nama": "Bima",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berjaga semalam suntuk sambil menabuh gendang, menari, dan menyanyi untuk mengisi kesaktian alat upacara adat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak -- kemarin hingga kelelahan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "166794",
+      "nama": "Ma.ro.ko",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "negara yang terletak di Afrika Barat Laut, beribu kota Rabat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

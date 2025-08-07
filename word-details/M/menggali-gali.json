@@ -1,1 +1,48 @@
-{"word":"menggali-gali","authenticated":true,"entries":[{"id":"24005","nama":"meng.ga.li-ga.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggali berkali-kali","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"membangkit-bangkit; menggugat","contoh":[{"nomor":2,"teks":"~ perkara lama"}]}],"rootWord":"gali¹"}]}
+{
+  "word": "menggali-gali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "24005",
+      "nama": "meng.ga.li-ga.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggali berkali-kali",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membangkit-bangkit; menggugat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ perkara lama"
+            }
+          ]
+        }
+      ],
+      "rootWord": "gali¹"
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"word":"mengoyak","authenticated":true,"entries":[{"id":"43934","nama":"me.ngo.yak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencabik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memecah(kan); mengganggu","contoh":[{"nomor":2,"teks":"suara ledakan dahsyat tiba-tiba ~ kesunyian malam"}]}],"rootWord":"koyak"},{"id":"58707","nama":"meng.o.yak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengejar","contoh":[]}],"rootWord":"oyak²"}]}
+{
+  "word": "mengoyak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43934",
+      "nama": "me.ngo.yak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencabik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memecah(kan); mengganggu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "suara ledakan dahsyat tiba-tiba ~ kesunyian malam"
+            }
+          ]
+        }
+      ],
+      "rootWord": "koyak"
+    },
+    {
+      "id": "58707",
+      "nama": "meng.o.yak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengejar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "oyak²"
+    }
+  ]
+}

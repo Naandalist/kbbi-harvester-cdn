@@ -1,1 +1,63 @@
-{"word":"mengacah","authenticated":true,"entries":[{"id":"278","nama":"meng.a.cah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan gerak yang menyesatkan lawan sebelum mengadakan serangan yang sebenarnya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melakukan sesuatu dengan berpura-pura","contoh":[]}],"rootWord":"acah¹"},{"id":"281","nama":"meng.a.cah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melanggar","contoh":[{"nomor":2,"teks":"orang yang ~ perintah akan dihukum"}]}],"rootWord":"acah²"}]}
+{
+  "word": "mengacah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "278",
+      "nama": "meng.a.cah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan gerak yang menyesatkan lawan sebelum mengadakan serangan yang sebenarnya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan sesuatu dengan berpura-pura",
+          "contoh": []
+        }
+      ],
+      "rootWord": "acah¹"
+    },
+    {
+      "id": "281",
+      "nama": "meng.a.cah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melanggar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang yang ~ perintah akan dihukum"
+            }
+          ]
+        }
+      ],
+      "rootWord": "acah²"
+    }
+  ]
+}

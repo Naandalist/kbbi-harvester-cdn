@@ -1,1 +1,91 @@
-{"word":"mengampuh","authenticated":true,"entries":[{"id":"3185","nama":"meng.am.puh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menggenangi; meliputi (dengan air)","contoh":[{"nomor":2,"teks":"air hujan telah ~ sawah ladangnya"}]}],"rootWord":"ampuh²"},{"id":"145223","nama":"me.ngam.puh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"membuka daging atau biji buah dengan cara menekan buah itu pada kedua telapak tangan","contoh":[{"nomor":2,"teks":"ayah ~ manggis untuk adik"}]}],"rootWord":"kampuh²"},{"id":"169579","nama":"me.ngam.puh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"menjahit atau menyambungkan dua helai kain atau lebih menjadi satu","contoh":[{"nomor":2,"teks":"dia ~ potongan kain lengan pada bagian badan"}]}],"rootWord":"kampuh¹"}]}
+{
+  "word": "mengampuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3185",
+      "nama": "meng.am.puh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggenangi; meliputi (dengan air)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "air hujan telah ~ sawah ladangnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ampuh²"
+    },
+    {
+      "id": "145223",
+      "nama": "me.ngam.puh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membuka daging atau biji buah dengan cara menekan buah itu pada kedua telapak tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah ~ manggis untuk adik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kampuh²"
+    },
+    {
+      "id": "169579",
+      "nama": "me.ngam.puh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menjahit atau menyambungkan dua helai kain atau lebih menjadi satu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ potongan kain lengan pada bagian badan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kampuh¹"
+    }
+  ]
+}

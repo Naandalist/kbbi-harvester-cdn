@@ -1,1 +1,57 @@
-{"word":"memesan","authenticated":true,"entries":[{"id":"62956","nama":"me.me.san","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memberi pesan (nasihat, petunjuk, dan sebagainya)","contoh":[{"nomor":2,"teks":"saya ~ dia agar segera bercukur"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menyuruh (meminta) supaya dikirim (disediakan, dibuatkan) sesuatu","contoh":[{"nomor":2,"teks":"ia ~ kopi lima gelas"}]}],"rootWord":"pesan¹","terkait":{"kataTurunan":[],"gabunganKata":["memesan buku","memesan tempat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "memesan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "62956",
+      "nama": "me.me.san",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memberi pesan (nasihat, petunjuk, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya ~ dia agar segera bercukur"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menyuruh (meminta) supaya dikirim (disediakan, dibuatkan) sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ kopi lima gelas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pesan¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "memesan buku",
+          "memesan tempat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

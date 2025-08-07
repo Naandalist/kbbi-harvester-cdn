@@ -1,1 +1,75 @@
-{"word":"merambak","authenticated":true,"entries":[{"id":"67056","nama":"me.ram.bak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjalar ke segala penjuru (tumbuh-tumbuhan yang menjalar)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertambah banyak; bertambah luas","contoh":[]}],"rootWord":"rambak¹"},{"id":"102164","nama":"me.ram.bak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi seperti rambak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"menyerupai lembaran yang kering dan melisut","contoh":[]}],"rootWord":"rambak²"}]}
+{
+  "word": "merambak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "67056",
+      "nama": "me.ram.bak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjalar ke segala penjuru (tumbuh-tumbuhan yang menjalar)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertambah banyak; bertambah luas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rambak¹"
+    },
+    {
+      "id": "102164",
+      "nama": "me.ram.bak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi seperti rambak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "menyerupai lembaran yang kering dan melisut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "rambak²"
+    }
+  ]
+}

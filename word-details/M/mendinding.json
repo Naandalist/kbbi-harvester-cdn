@@ -1,1 +1,73 @@
-{"word":"mendinding","authenticated":true,"entries":[{"id":"19883","nama":"men.din.ding","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi dinding (penyekat, pelindung, dan sebagainya) sebagai dinding","contoh":[{"nomor":2,"teks":"bukti-bukti itu ~ sekeliling kita"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghalangi; melindungi","contoh":[{"nomor":2,"teks":"ia ~ matanya dengan kacamata hitam supaya tidak silau"}]}],"rootWord":"dinding¹"},{"id":"19891","nama":"men.din.ding","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"bentuk perkawinan adat Batak yang mengharuskan suami bekerja untuk orang tua istrinya karena tidak sanggup membayar mahar","contoh":[]}],"rootWord":"dinding²"}]}
+{
+  "word": "mendinding",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "19883",
+      "nama": "men.din.ding",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi dinding (penyekat, pelindung, dan sebagainya) sebagai dinding",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bukti-bukti itu ~ sekeliling kita"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghalangi; melindungi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ matanya dengan kacamata hitam supaya tidak silau"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dinding¹"
+    },
+    {
+      "id": "19891",
+      "nama": "men.din.ding",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bentuk perkawinan adat Batak yang mengharuskan suami bekerja untuk orang tua istrinya karena tidak sanggup membayar mahar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "dinding²"
+    }
+  ]
+}
