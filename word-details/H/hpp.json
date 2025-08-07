@@ -1,1 +1,54 @@
-{"word":"hpp","authenticated":true,"entries":[{"id":"92481","nama":"HPP","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"harga pembelian pemerintah","contoh":[]}]},{"id":"205049","nama":"HPP","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"hasil pemeriksaan psikologis","contoh":[]}]}]}
+{
+  "word": "hpp",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92481",
+      "nama": "HPP",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "harga pembelian pemerintah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "205049",
+      "nama": "HPP",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hasil pemeriksaan psikologis",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

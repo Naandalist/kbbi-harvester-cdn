@@ -1,1 +1,30 @@
-{"word":"http","authenticated":true,"entries":[{"id":"93339","nama":"HTTP","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"protokol yang digunakan untuk membawa permintaan dari peramban ke server web dan untuk mengangkut halaman dari server web kembali ke peramban yang meminta; Hypertext Transfer Protocol","contoh":[]}]}]}
+{
+  "word": "http",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93339",
+      "nama": "HTTP",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "protokol yang digunakan untuk membawa permintaan dari peramban ke server web dan untuk mengangkut halaman dari server web kembali ke peramban yang meminta; Hypertext Transfer Protocol",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,92 @@
-{"word":"halo","authenticated":true,"entries":[{"id":"28310","nama":"ha.lo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata yang digunakan untuk mengawali percakapan melalui telepon","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata seru untuk menarik perhatian (seseorang)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"ucapan salam untuk menyapa (seseorang)","contoh":[]}],"terkait":{"kataTurunan":["berhalo-halo"],"gabunganKata":["halo besar","halo bulan","halo galaksi","halo matahari"],"peribahasa":[],"idiom":[]}},{"id":"28312","nama":"ha.lo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lingkaran atau berkas sinar di sekeliling benda angkasa yang berkilauan (matahari, bulan, dan sebagainya), sebagai akibat dari pantulan atau pembiasan sumber cahaya itu sendiri","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["halo besar","halo bulan","halo galaksi","halo matahari"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "halo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28310",
+      "nama": "ha.lo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata yang digunakan untuk mengawali percakapan melalui telepon",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru untuk menarik perhatian (seseorang)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ucapan salam untuk menyapa (seseorang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhalo-halo"
+        ],
+        "gabunganKata": [
+          "halo besar",
+          "halo bulan",
+          "halo galaksi",
+          "halo matahari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "28312",
+      "nama": "ha.lo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lingkaran atau berkas sinar di sekeliling benda angkasa yang berkilauan (matahari, bulan, dan sebagainya), sebagai akibat dari pantulan atau pembiasan sumber cahaya itu sendiri",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "halo besar",
+          "halo bulan",
+          "halo galaksi",
+          "halo matahari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

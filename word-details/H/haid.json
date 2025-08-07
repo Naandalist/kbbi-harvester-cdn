@@ -1,1 +1,61 @@
-{"word":"haid","authenticated":true,"entries":[{"id":"28126","nama":"ha.id","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"peristiwa fisiologis dan siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim sebagai akibat pelepasan selaput lendir rahim; menstruasi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar darah dari rahim wanita dewasa setiap bulan sebagai bagian dari siklus hidup biologisnya; datang bulan; mendapat kain kotor","contoh":[{"nomor":2,"teks":"wanita yang sedang -- tidak diizinkan melakukan salat"}]}],"etimologi":{"text":"[Arab حَيْضٌ ḥaiḍ n sg m 'siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim pada waktu tertentu; datang bulan']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["haid pertama"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "haid",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28126",
+      "nama": "ha.id",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "peristiwa fisiologis dan siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim sebagai akibat pelepasan selaput lendir rahim; menstruasi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar darah dari rahim wanita dewasa setiap bulan sebagai bagian dari siklus hidup biologisnya; datang bulan; mendapat kain kotor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wanita yang sedang -- tidak diizinkan melakukan salat"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَيْضٌ ḥaiḍ n sg m 'siklus pada wanita dalam masa reproduksi dengan keluarnya darah dari rahim pada waktu tertentu; datang bulan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "haid pertama"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

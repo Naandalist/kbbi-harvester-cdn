@@ -1,1 +1,77 @@
-{"word":"hawar","authenticated":true,"entries":[{"id":"29038","nama":"ha.war","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"(musim) penyakit yang menular (terutama pada binatang ternak)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit yang serentak menyerang penduduk di daerah tertentu (seperti malaria, kolera)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["hawar beludru","hawar daun Amerika Selatan","hawar ekor kuda","hawar lepuh"],"peribahasa":[],"idiom":[]}},{"id":"217708","nama":"ha.war","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tht","nama":"Tehit","tipe":"lainnya"}],"definisi":"orang yang melanggar aturan, dihukum berdasarkan hukum adat yang berlaku","contoh":[]}]}]}
+{
+  "word": "hawar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29038",
+      "nama": "ha.war",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(musim) penyakit yang menular (terutama pada binatang ternak)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit yang serentak menyerang penduduk di daerah tertentu (seperti malaria, kolera)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "hawar beludru",
+          "hawar daun Amerika Selatan",
+          "hawar ekor kuda",
+          "hawar lepuh"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "217708",
+      "nama": "ha.war",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tht",
+              "nama": "Tehit",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang yang melanggar aturan, dihukum berdasarkan hukum adat yang berlaku",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"word":"hajar","authenticated":true,"entries":[{"id":"28136","nama":"ha.jar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hantam","contoh":[]}],"etimologi":{"text":"[Arab حَجَرٌ ḥajar n sg m 'batu']","languages":["Arab"]},"terkait":{"kataTurunan":["hajaran","menghajar"],"gabunganKata":["hajar Aswad"],"peribahasa":[],"idiom":[]}},{"id":"28139","nama":"ha.jar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"batu","contoh":[]}],"etimologi":{"text":"[Arab حَجَرٌ ḥajar n sg m 'batu']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["hajar Aswad"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "hajar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28136",
+      "nama": "ha.jar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hantam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَجَرٌ ḥajar n sg m 'batu']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "hajaran",
+          "menghajar"
+        ],
+        "gabunganKata": [
+          "hajar Aswad"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "28139",
+      "nama": "ha.jar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "batu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَجَرٌ ḥajar n sg m 'batu']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "hajar Aswad"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

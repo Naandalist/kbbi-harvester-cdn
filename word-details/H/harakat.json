@@ -1,1 +1,62 @@
-{"word":"harakat","authenticated":true,"entries":[{"id":"28608","nama":"ha.ra.kat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"baris tanda bunyi a (fatah), i (kasrah), u (damah), untuk menandai an, in, un (tanwin)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"(huruf --) huruf hidup (a, i, u)","contoh":[]}],"etimologi":{"text":"[Arab حَرَكَاتٌ ḥarakāt n pl f 'gerak; pergerakan; baris tanda bunyi a (fatah), i (kasrah), u (damah)']","languages":["Arab"]},"terkait":{"kataTurunan":["berharakat","mengharakati"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "harakat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28608",
+      "nama": "ha.ra.kat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "baris tanda bunyi a (fatah), i (kasrah), u (damah), untuk menandai an, in, un (tanwin)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(huruf --) huruf hidup (a, i, u)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَرَكَاتٌ ḥarakāt n pl f 'gerak; pergerakan; baris tanda bunyi a (fatah), i (kasrah), u (damah)']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berharakat",
+          "mengharakati"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

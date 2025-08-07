@@ -1,1 +1,53 @@
-{"word":"hilal","authenticated":true,"entries":[{"id":"29602","nama":"hi.lal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bulan sabit; bulan yang terbit pada tanggal satu bulan Kamariah","contoh":[{"nomor":2,"teks":"diikhtiarkan untuk melihat -- bulan Ramadan dari puncak Monumen Nasional"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"bulan sabit muda pertama yang terbentuk setelah konjungsi atau bulan baru, diamati setelah matahari terbenam","contoh":[]}],"etimologi":{"text":"[Arab هِلَالٌ hilāl n sg m 'bulan sabit']","languages":["Arab"]}}]}
+{
+  "word": "hilal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29602",
+      "nama": "hi.lal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bulan sabit; bulan yang terbit pada tanggal satu bulan Kamariah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "diikhtiarkan untuk melihat -- bulan Ramadan dari puncak Monumen Nasional"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bulan sabit muda pertama yang terbentuk setelah konjungsi atau bulan baru, diamati setelah matahari terbenam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab هِلَالٌ hilāl n sg m 'bulan sabit']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

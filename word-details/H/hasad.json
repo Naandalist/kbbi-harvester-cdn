@@ -1,1 +1,61 @@
-{"word":"hasad","authenticated":true,"entries":[{"id":"28893","nama":"ha.sad","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"dengki","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"kedengkian","contoh":[]}],"etimologi":{"text":"[Arab حَسَدَ ḥasad n sg m 'dengki']","languages":["Arab"]},"terkait":{"kataTurunan":["menghasad"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "hasad",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28893",
+      "nama": "ha.sad",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dengki",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kedengkian",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَسَدَ ḥasad n sg m 'dengki']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menghasad"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,229 @@
-{"word":"hukum","authenticated":true,"entries":[{"id":"30279","nama":"hu.kum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peraturan atau adat yang secara resmi dianggap mengikat, dikukuhkan oleh penguasa atau pemerintah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"undang-undang, peraturan, dan sebagainya untuk mengatur pergaulan hidup masyarakat","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"patokan (kaidah, ketentuan) mengenai peristiwa (alam dan sebagainya) yang tertentu","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keputusan (pertimbangan) yang ditetapkan oleh hakim (dalam pengadilan); vonis","contoh":[]}],"etimologi":{"text":"[Arab حُكْمٌ ḥukm n sg m 'pengetahuan; kebijaksanaan; penghukuman dengan adil']","languages":["Arab"]},"terkait":{"kataTurunan":["berhukum","hukuman","kehukuman","menghukum","menghukumkan","penghukum","penghukuman","terhukum"],"gabunganKata":["ahkam iktikad","hukum acara","hukum acara perdata","hukum acara pidana","hukum adat","hukum adat laot","hukum administrasi","hukum afinitas","hukum agraria","hukum alam","hukum Allah","hukum angkasa","hukum antargolongan","hukum Archimedes","hukum arus Kirchhoff","hukum asasi","hukum asosiasi","hukum Avogadro","hukum badai","hukum balas","hukum benda","hukum Bernouilli","hukum bilangan besar","hukum Bouger","hukum Boyle","hukum cambuk","hukum Charles","hukum Coulomb","hukum dagang","hukum Dalton","hukum darurat","hukum dasar","hukum daya dan latihan","hukum disiplin tentara","hukum distribusi","hukum DM","hukum dunia maya","hukum Ebbinghaus","hukum Faraday","hukum Ferrel","hukum fiskal","hukum Fitt","hukum Fitts","hukum formal","hukum gantung","hukum Gay Lussac","hukum gereja","hukum Graham","hukum harta kekayaan","hukum Henry","hukum Hick","hukum hidrostatik","hukum humaniter","hukum inersia","hukum intergentil","hukum internasional","hukum Islam","hukum Jakob","hukum jemur","hukum jinayah","hukum kanonik","hukum karma","hukum keagenan","hukum kedua Fick","hukum kekekalan energi","hukum kekekalan momentum","hukum kelembapan","hukum keluarga","hukum ketertarikan","hukum kibal","hukum Kirchhoff","hukum kisas","hukum kolisi","hukum konservasi energi mekanik","hukum kontrak","hukum kuantum","hukum Lambert","hukum laut","hukum Lenz","hukum Miller","hukum mungkal","hukum negara","hukum Newton","hukum objektif","hukum Ohm","hukum oktaf Newland","hukum pajak","hukum pancung","hukum Pascal","hukum pemancaran sinonim","hukum pembiasan","hukum pembiasan Snellius","hukum pemisahan","hukum pemodelan kembali tulang","hukum pemusatan sinonim","hukum penawaran","hukum peralihan","hukum perang","hukum perbuatan","hukum percepatan","hukum perdata","hukum perdata antardaerah","hukum perdata antargolongan","hukum perdata formal","hukum perdata materiel","hukum perikatan","hukum periodik","hukum perkawinan","hukum permintaan","hukum pidana","hukum pidana formal","hukum pidana Islam","hukum pidana materiel","hukum pidana subjektif","hukum Planck","hukum polis asuransi","hukum politik","hukum positif","hukum pribadi","hukum primer","hukum privat","hukum publik internasional","hukum Raoult","hukum reaksi","hukum resam","hukum rimba","hukum siber","hukum sipil","hukum syarak","hukum syariah Islam","hukum taklifi","hukum taktertulis","hukum tata negara","hukum tata usaha","hukum tegangan Kirchhoff","hukum tersier","hukum Tesler","hukum tua","hukum Tuhan","hukum waris","hukum waris perdata","hukum wesel","hukum yurisprudensi","tersangkut hukum"],"peribahasa":[],"idiom":["kebal hukum"]}}]}
+{
+  "word": "hukum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30279",
+      "nama": "hu.kum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peraturan atau adat yang secara resmi dianggap mengikat, dikukuhkan oleh penguasa atau pemerintah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "undang-undang, peraturan, dan sebagainya untuk mengatur pergaulan hidup masyarakat",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "patokan (kaidah, ketentuan) mengenai peristiwa (alam dan sebagainya) yang tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keputusan (pertimbangan) yang ditetapkan oleh hakim (dalam pengadilan); vonis",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حُكْمٌ ḥukm n sg m 'pengetahuan; kebijaksanaan; penghukuman dengan adil']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berhukum",
+          "hukuman",
+          "kehukuman",
+          "menghukum",
+          "menghukumkan",
+          "penghukum",
+          "penghukuman",
+          "terhukum"
+        ],
+        "gabunganKata": [
+          "ahkam iktikad",
+          "hukum acara",
+          "hukum acara perdata",
+          "hukum acara pidana",
+          "hukum adat",
+          "hukum adat laot",
+          "hukum administrasi",
+          "hukum afinitas",
+          "hukum agraria",
+          "hukum alam",
+          "hukum Allah",
+          "hukum angkasa",
+          "hukum antargolongan",
+          "hukum Archimedes",
+          "hukum arus Kirchhoff",
+          "hukum asasi",
+          "hukum asosiasi",
+          "hukum Avogadro",
+          "hukum badai",
+          "hukum balas",
+          "hukum benda",
+          "hukum Bernouilli",
+          "hukum bilangan besar",
+          "hukum Bouger",
+          "hukum Boyle",
+          "hukum cambuk",
+          "hukum Charles",
+          "hukum Coulomb",
+          "hukum dagang",
+          "hukum Dalton",
+          "hukum darurat",
+          "hukum dasar",
+          "hukum daya dan latihan",
+          "hukum disiplin tentara",
+          "hukum distribusi",
+          "hukum DM",
+          "hukum dunia maya",
+          "hukum Ebbinghaus",
+          "hukum Faraday",
+          "hukum Ferrel",
+          "hukum fiskal",
+          "hukum Fitt",
+          "hukum Fitts",
+          "hukum formal",
+          "hukum gantung",
+          "hukum Gay Lussac",
+          "hukum gereja",
+          "hukum Graham",
+          "hukum harta kekayaan",
+          "hukum Henry",
+          "hukum Hick",
+          "hukum hidrostatik",
+          "hukum humaniter",
+          "hukum inersia",
+          "hukum intergentil",
+          "hukum internasional",
+          "hukum Islam",
+          "hukum Jakob",
+          "hukum jemur",
+          "hukum jinayah",
+          "hukum kanonik",
+          "hukum karma",
+          "hukum keagenan",
+          "hukum kedua Fick",
+          "hukum kekekalan energi",
+          "hukum kekekalan momentum",
+          "hukum kelembapan",
+          "hukum keluarga",
+          "hukum ketertarikan",
+          "hukum kibal",
+          "hukum Kirchhoff",
+          "hukum kisas",
+          "hukum kolisi",
+          "hukum konservasi energi mekanik",
+          "hukum kontrak",
+          "hukum kuantum",
+          "hukum Lambert",
+          "hukum laut",
+          "hukum Lenz",
+          "hukum Miller",
+          "hukum mungkal",
+          "hukum negara",
+          "hukum Newton",
+          "hukum objektif",
+          "hukum Ohm",
+          "hukum oktaf Newland",
+          "hukum pajak",
+          "hukum pancung",
+          "hukum Pascal",
+          "hukum pemancaran sinonim",
+          "hukum pembiasan",
+          "hukum pembiasan Snellius",
+          "hukum pemisahan",
+          "hukum pemodelan kembali tulang",
+          "hukum pemusatan sinonim",
+          "hukum penawaran",
+          "hukum peralihan",
+          "hukum perang",
+          "hukum perbuatan",
+          "hukum percepatan",
+          "hukum perdata",
+          "hukum perdata antardaerah",
+          "hukum perdata antargolongan",
+          "hukum perdata formal",
+          "hukum perdata materiel",
+          "hukum perikatan",
+          "hukum periodik",
+          "hukum perkawinan",
+          "hukum permintaan",
+          "hukum pidana",
+          "hukum pidana formal",
+          "hukum pidana Islam",
+          "hukum pidana materiel",
+          "hukum pidana subjektif",
+          "hukum Planck",
+          "hukum polis asuransi",
+          "hukum politik",
+          "hukum positif",
+          "hukum pribadi",
+          "hukum primer",
+          "hukum privat",
+          "hukum publik internasional",
+          "hukum Raoult",
+          "hukum reaksi",
+          "hukum resam",
+          "hukum rimba",
+          "hukum siber",
+          "hukum sipil",
+          "hukum syarak",
+          "hukum syariah Islam",
+          "hukum taklifi",
+          "hukum taktertulis",
+          "hukum tata negara",
+          "hukum tata usaha",
+          "hukum tegangan Kirchhoff",
+          "hukum tersier",
+          "hukum Tesler",
+          "hukum tua",
+          "hukum Tuhan",
+          "hukum waris",
+          "hukum waris perdata",
+          "hukum wesel",
+          "hukum yurisprudensi",
+          "tersangkut hukum"
+        ],
+        "peribahasa": [],
+        "idiom": [
+          "kebal hukum"
+        ]
+      }
+    }
+  ]
+}

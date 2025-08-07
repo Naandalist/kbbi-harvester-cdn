@@ -1,1 +1,83 @@
-{"word":"hobo","authenticated":true,"entries":[{"id":"29986","nama":"ho.bo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"alat musik tiup dari kayu, berbentuk tabung sepanjang 65 cm dengan rongga sempit berbentuk kerucut, kolom udara digetarkan melalui klep tiup ganda","contoh":[]}]},{"id":"29987","nama":"ho.bo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"rawa yang ditumbuhi rumput yang terapung","contoh":[]}]},{"id":"168865","nama":"ho.bo","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kai","nama":"Kaiely","tipe":"lainnya"}],"definisi":"mencuci piring","contoh":[{"nomor":2,"teks":"ibu -- pada malam hari"}]}]}]}
+{
+  "word": "hobo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29986",
+      "nama": "ho.bo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "alat musik tiup dari kayu, berbentuk tabung sepanjang 65 cm dengan rongga sempit berbentuk kerucut, kolom udara digetarkan melalui klep tiup ganda",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "29987",
+      "nama": "ho.bo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rawa yang ditumbuhi rumput yang terapung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "168865",
+      "nama": "ho.bo",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kai",
+              "nama": "Kaiely",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencuci piring",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- pada malam hari"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

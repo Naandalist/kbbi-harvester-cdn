@@ -1,1 +1,183 @@
-{"word":"hujan","authenticated":true,"entries":[{"id":"30210","nama":"hu.jan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"titik-titik air yang berjatuhan dari udara karena proses pendinginan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"yang datang dan sebagainya banyak-banyak","contoh":[{"nomor":2,"teks":"-- uang"},{"nomor":4,"teks":"-- peluru"},{"nomor":6,"teks":"-- tinju"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"turun hujan","contoh":[]}],"terkait":{"kataTurunan":["berhujan","berhujan-hujan","hujan jarah","hujan-hujan","hujan-hujanan","kehujanan","memperhujankan","menghujan","menghujan-hujankan","menghujani","menghujankan","penghujan","penghujanan"],"gabunganKata":["hujan abu","hujan air mata","hujan angkut-angkut","hujan asam","hujan badai","hujan batu","hujan beku","hujan berlian","hujan buatan","hujan bubuk","hujan curah","hujan curah massa udara","hujan darah","hujan deras","hujan ekstrem","hujan ekuinoks","hujan emas","hujan es","hujan frontal","hujan gerimis","hujan halau mentua","hujan konveksi","hujan kuning","hujan lalu","hujan lari","hujan lebat","hujan lokal","hujan lumpur","hujan matahari","hujan merah","hujan meteor","hujan monsun","hujan musiman","hujan orografis","hujan pegunungan","hujan peluru","hujan plasma","hujan poyan","hujan puruk","hujan renyai","hujan ringan","hujan rintik-rintik","hujan riris","hujan salju","hujan sedang","hujan serak","hujan setempat","hujan siklonal","hujan silantang","hujan sporadis","hujan suri","hujan susulan","hujan terpencar","hujan tropis","hujan zenital"],"peribahasa":["ada angin, ada pohonnya (hujan berpohon, panas berasal)","ada hujan ada panas, ada hari boleh balas","badai reda, hujan pun teduh","bagai cendawan (tumbuh) di musim hujan","bumi mana yang tak kena hujan","disangka panas sampai petang, kiranya hujan tengah hari","emping terserak hari hujan","hari guruh takkan hujan","hilang kabus, teduh hujan","hinggap bak langau, titik bak hujan","hujan berbalik ke langit","hujan berpohon, panas berasal","hujan emas di negeri orang, hujan batu di negeri sendiri, baik jua di negeri sendiri","hujan jatuh ke pasir","hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita","hujan menimpa bumi","hujan panas permainan hari, senang susah permainan hidup","hujan tak sekali jatuh, simpai tak sekali erat","hujan tempat berteduh, panas tempat berlindung","hujan turun, kambing lari","imam yang adil lebih baik daripada hujan yang lebat","ke mana tumpah hujan dari bubungan, kalau tidak ke cucuran atap","laksana jentayu menantikan hujan","laut mana yang tak berombak, bumi mana yang tak ditimpa hujan","mengharapkan hujan di langit, air di tempayan ditumpahkan","panas setahun dihapuskan oleh hujan sehari","pucuk layu disiram hujan","putih mengandung awan, kelam baja mengandung hujan","sedia payung sebelum hujan","sedikit hujan banyak yang basah","selama hujan, akan panas jua","tak air hujan ditampung","tak lapuk di hujan, tak lekang di panas","tak lekang oleh panas, tak lapuk oleh hujan","tampak gabak di hulu (gabak di hulu tanda akan hujan)","terang kabut, teduh hujan","tidak hujan lagi becek, ini pula hujan"],"idiom":["hujan gol"]}}]}
+{
+  "word": "hujan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30210",
+      "nama": "hu.jan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "titik-titik air yang berjatuhan dari udara karena proses pendinginan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang datang dan sebagainya banyak-banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- uang"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- peluru"
+            },
+            {
+              "nomor": 6,
+              "teks": "-- tinju"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turun hujan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhujan",
+          "berhujan-hujan",
+          "hujan jarah",
+          "hujan-hujan",
+          "hujan-hujanan",
+          "kehujanan",
+          "memperhujankan",
+          "menghujan",
+          "menghujan-hujankan",
+          "menghujani",
+          "menghujankan",
+          "penghujan",
+          "penghujanan"
+        ],
+        "gabunganKata": [
+          "hujan abu",
+          "hujan air mata",
+          "hujan angkut-angkut",
+          "hujan asam",
+          "hujan badai",
+          "hujan batu",
+          "hujan beku",
+          "hujan berlian",
+          "hujan buatan",
+          "hujan bubuk",
+          "hujan curah",
+          "hujan curah massa udara",
+          "hujan darah",
+          "hujan deras",
+          "hujan ekstrem",
+          "hujan ekuinoks",
+          "hujan emas",
+          "hujan es",
+          "hujan frontal",
+          "hujan gerimis",
+          "hujan halau mentua",
+          "hujan konveksi",
+          "hujan kuning",
+          "hujan lalu",
+          "hujan lari",
+          "hujan lebat",
+          "hujan lokal",
+          "hujan lumpur",
+          "hujan matahari",
+          "hujan merah",
+          "hujan meteor",
+          "hujan monsun",
+          "hujan musiman",
+          "hujan orografis",
+          "hujan pegunungan",
+          "hujan peluru",
+          "hujan plasma",
+          "hujan poyan",
+          "hujan puruk",
+          "hujan renyai",
+          "hujan ringan",
+          "hujan rintik-rintik",
+          "hujan riris",
+          "hujan salju",
+          "hujan sedang",
+          "hujan serak",
+          "hujan setempat",
+          "hujan siklonal",
+          "hujan silantang",
+          "hujan sporadis",
+          "hujan suri",
+          "hujan susulan",
+          "hujan terpencar",
+          "hujan tropis",
+          "hujan zenital"
+        ],
+        "peribahasa": [
+          "ada angin, ada pohonnya (hujan berpohon, panas berasal)",
+          "ada hujan ada panas, ada hari boleh balas",
+          "badai reda, hujan pun teduh",
+          "bagai cendawan (tumbuh) di musim hujan",
+          "bumi mana yang tak kena hujan",
+          "disangka panas sampai petang, kiranya hujan tengah hari",
+          "emping terserak hari hujan",
+          "hari guruh takkan hujan",
+          "hilang kabus, teduh hujan",
+          "hinggap bak langau, titik bak hujan",
+          "hujan berbalik ke langit",
+          "hujan berpohon, panas berasal",
+          "hujan emas di negeri orang, hujan batu di negeri sendiri, baik jua di negeri sendiri",
+          "hujan jatuh ke pasir",
+          "hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita",
+          "hujan menimpa bumi",
+          "hujan panas permainan hari, senang susah permainan hidup",
+          "hujan tak sekali jatuh, simpai tak sekali erat",
+          "hujan tempat berteduh, panas tempat berlindung",
+          "hujan turun, kambing lari",
+          "imam yang adil lebih baik daripada hujan yang lebat",
+          "ke mana tumpah hujan dari bubungan, kalau tidak ke cucuran atap",
+          "laksana jentayu menantikan hujan",
+          "laut mana yang tak berombak, bumi mana yang tak ditimpa hujan",
+          "mengharapkan hujan di langit, air di tempayan ditumpahkan",
+          "panas setahun dihapuskan oleh hujan sehari",
+          "pucuk layu disiram hujan",
+          "putih mengandung awan, kelam baja mengandung hujan",
+          "sedia payung sebelum hujan",
+          "sedikit hujan banyak yang basah",
+          "selama hujan, akan panas jua",
+          "tak air hujan ditampung",
+          "tak lapuk di hujan, tak lekang di panas",
+          "tak lekang oleh panas, tak lapuk oleh hujan",
+          "tampak gabak di hulu (gabak di hulu tanda akan hujan)",
+          "terang kabut, teduh hujan",
+          "tidak hujan lagi becek, ini pula hujan"
+        ],
+        "idiom": [
+          "hujan gol"
+        ]
+      }
+    }
+  ]
+}

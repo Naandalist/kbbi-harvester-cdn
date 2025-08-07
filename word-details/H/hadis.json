@@ -1,1 +1,85 @@
-{"word":"hadis","authenticated":true,"entries":[{"id":"28095","nama":"ha.dis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"sabda, perbuatan, takrir (ketetapan) Nabi Muhammad saw. yang diriwayatkan atau diceritakan oleh sahabat untuk menjelaskan dan menetapkan hukum Islam","contoh":[{"nomor":2,"teks":"-- itu diriwayatkan oleh sahabat Nabi terdekat"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"sumber ajaran Islam yang kedua setelah Al-Qur'an","contoh":[{"nomor":2,"teks":"untuk lebih mendalami Islam, ia sangat tekun membaca -- Nabi Muhammad saw. di samping menghafal ayat-ayat Al-Qur'an"}]}],"etimologi":{"text":"[Arab حَدِيْثٌ ḥadīṡ n sg m 'cerita; perkataan, perbuatan, dan ketetapan yang berkaitan dengan Nabi Muhammad saw.']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["hadis ahad","hadis daif","hadis fikli","hadis hasan","hadis kauli","hadis maktuk","hadis marfuk","hadis maukuf","hadis mursal","hadis musalsal","hadis mutawatir","hadis palsu","hadis qudsi","hadis sahih","hadis takriri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "hadis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28095",
+      "nama": "ha.dis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sabda, perbuatan, takrir (ketetapan) Nabi Muhammad saw. yang diriwayatkan atau diceritakan oleh sahabat untuk menjelaskan dan menetapkan hukum Islam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- itu diriwayatkan oleh sahabat Nabi terdekat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sumber ajaran Islam yang kedua setelah Al-Qur'an",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk lebih mendalami Islam, ia sangat tekun membaca -- Nabi Muhammad saw. di samping menghafal ayat-ayat Al-Qur'an"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَدِيْثٌ ḥadīṡ n sg m 'cerita; perkataan, perbuatan, dan ketetapan yang berkaitan dengan Nabi Muhammad saw.']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "hadis ahad",
+          "hadis daif",
+          "hadis fikli",
+          "hadis hasan",
+          "hadis kauli",
+          "hadis maktuk",
+          "hadis marfuk",
+          "hadis maukuf",
+          "hadis mursal",
+          "hadis musalsal",
+          "hadis mutawatir",
+          "hadis palsu",
+          "hadis qudsi",
+          "hadis sahih",
+          "hadis takriri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,44 @@
-{"word":"homo sapiens","authenticated":true,"entries":[{"id":"97298","nama":"homo sapiens","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Lt","nama":"Latin","tipe":"bahasa"}],"definisi":"manusia berakal (nama ilmiah)","contoh":[]}]},{"id":"30037","nama":"homo Sapiens","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"manusia yang hidup di bumi pada masa kini; manusia yang berpikir","contoh":[]}],"rootWord":"homo¹"}]}
+{
+  "word": "homo sapiens",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "97298",
+      "nama": "homo sapiens",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lt",
+              "nama": "Latin",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "manusia berakal (nama ilmiah)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "30037",
+      "nama": "homo Sapiens",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "manusia yang hidup di bumi pada masa kini; manusia yang berpikir",
+          "contoh": []
+        }
+      ],
+      "rootWord": "homo¹"
+    }
+  ]
+}

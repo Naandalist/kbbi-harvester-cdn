@@ -1,1 +1,83 @@
-{"word":"humor","authenticated":true,"entries":[{"id":"30427","nama":"hu.mor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang lucu","contoh":[{"nomor":2,"teks":"ia mempunyai rasa --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan (dalam cerita dan sebagainya) yang menggelikan hati; kejenakaan; kelucuan","contoh":[]}],"terkait":{"kataTurunan":["berhumor","pehumor"],"gabunganKata":["humor gelap","humor akuos","humor bening"],"peribahasa":[],"idiom":[]}},{"id":"30430","nama":"hu.mor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cairan atau zat setengah cair dalam tubuh","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["humor akuos","humor bening"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "humor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30427",
+      "nama": "hu.mor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang lucu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mempunyai rasa --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan (dalam cerita dan sebagainya) yang menggelikan hati; kejenakaan; kelucuan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhumor",
+          "pehumor"
+        ],
+        "gabunganKata": [
+          "humor gelap",
+          "humor akuos",
+          "humor bening"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "30430",
+      "nama": "hu.mor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cairan atau zat setengah cair dalam tubuh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "humor akuos",
+          "humor bening"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

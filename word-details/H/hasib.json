@@ -1,1 +1,53 @@
-{"word":"hasib","authenticated":true,"entries":[{"id":"28897","nama":"ha.sib","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"(huruf awal ditulis kapital) salah satu nama Allah Swt. yang berarti 'Yang Maha Mencukupi'","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"ahli berhitung; ahli pemeriksaan pembukuan","contoh":[]}],"etimologi":{"text":"[Arab حَاسِبٌ ḥāsib n sg m 'penghitung']","languages":["Arab"]}}]}
+{
+  "word": "hasib",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28897",
+      "nama": "ha.sib",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "(huruf awal ditulis kapital) salah satu nama Allah Swt. yang berarti 'Yang Maha Mencukupi'",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ahli berhitung; ahli pemeriksaan pembukuan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَاسِبٌ ḥāsib n sg m 'penghitung']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

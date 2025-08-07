@@ -1,1 +1,67 @@
-{"word":"halwa","authenticated":true,"entries":[{"id":"28347","nama":"hal.wa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"manisan buah-buahan","contoh":[{"nomor":2,"teks":"-- pala"},{"nomor":4,"teks":"-- sirsak"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"segala yang menyenangkan","contoh":[]}],"etimologi":{"text":"[Arab حُلْوَى ḥulwā n sg f 'manisan']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["halwa mata","halwa nikmat","halwa telinga"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "halwa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28347",
+      "nama": "hal.wa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "manisan buah-buahan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pala"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- sirsak"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "segala yang menyenangkan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حُلْوَى ḥulwā n sg f 'manisan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "halwa mata",
+          "halwa nikmat",
+          "halwa telinga"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

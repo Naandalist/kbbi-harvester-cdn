@@ -1,1 +1,71 @@
-{"word":"hun","authenticated":true,"entries":[{"id":"30438","nama":"hun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"satuan ukuran berat, sama dengan 1/100 tahil atau 0,378 g","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 分 hun 'ukuran berat']","languages":["Hokkien dialek Xiamen"]}},{"id":"261115","nama":"hun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"makan atau minum satu porsi bersama-sama","contoh":[{"nomor":2,"teks":"tidak usah pesan makanan lagi, kita -- saja"}]}],"etimologi":{"text":"[Hokkien dialek Xiamen 分 hun 'ukuran berat']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "hun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30438",
+      "nama": "hun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satuan ukuran berat, sama dengan 1/100 tahil atau 0,378 g",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 分 hun 'ukuran berat']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "261115",
+      "nama": "hun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makan atau minum satu porsi bersama-sama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak usah pesan makanan lagi, kita -- saja"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 分 hun 'ukuran berat']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

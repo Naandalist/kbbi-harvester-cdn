@@ -1,1 +1,54 @@
-{"word":"hi","authenticated":true,"entries":[{"id":"29359","nama":"hi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata seru untuk menyatakan jijik atau ngeri","contoh":[]}]},{"id":"181910","nama":"hi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kur","nama":"Kur","tipe":"lainnya"}],"definisi":"daging buah kelapa","contoh":[]}]}]}
+{
+  "word": "hi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29359",
+      "nama": "hi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru untuk menyatakan jijik atau ngeri",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "181910",
+      "nama": "hi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kur",
+              "nama": "Kur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daging buah kelapa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

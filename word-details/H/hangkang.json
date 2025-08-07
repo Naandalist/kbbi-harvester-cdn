@@ -1,1 +1,35 @@
-{"word":"hangkang","authenticated":true,"entries":[{"id":"129219","nama":"hang.kang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"berjalan tidak wajar karena terdapat gangguan pada selangkangan","contoh":[{"nomor":2,"teks":"ia -- karena tumbuh bisul di selangkangannya"}]}]}]}
+{
+  "word": "hangkang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "129219",
+      "nama": "hang.kang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berjalan tidak wajar karena terdapat gangguan pada selangkangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- karena tumbuh bisul di selangkangannya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

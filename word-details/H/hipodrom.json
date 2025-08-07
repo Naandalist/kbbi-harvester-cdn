@@ -1,1 +1,54 @@
-{"word":"hipodrom","authenticated":true,"entries":[{"id":"29800","nama":"hi.po.drom","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kandang kuda","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat pacuan kuda","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"gedung teater yang dibangun di Inggris tahun 1901","contoh":[]}]}]}
+{
+  "word": "hipodrom",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29800",
+      "nama": "hi.po.drom",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kandang kuda",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat pacuan kuda",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gedung teater yang dibangun di Inggris tahun 1901",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

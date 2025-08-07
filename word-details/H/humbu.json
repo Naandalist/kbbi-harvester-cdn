@@ -1,1 +1,59 @@
-{"word":"humbu","authenticated":true,"entries":[{"id":"203328","nama":"hum.bu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Wl","nama":"Wolio","tipe":"lainnya"}],"definisi":"bakul yang dibuat dari anyaman daun lontar, digunakan sebagai tempat pakaian, selimut, seprai, dan lain-lain","contoh":[]}]},{"id":"121683","nama":"hum.bu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mu","nama":"Muna","tipe":"lainnya"}],"definisi":"membicarakan kejelekan orang; gibah; bergunjing","contoh":[{"nomor":2,"teks":"ia -- tetangga"}]}]}]}
+{
+  "word": "humbu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "203328",
+      "nama": "hum.bu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Wl",
+              "nama": "Wolio",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bakul yang dibuat dari anyaman daun lontar, digunakan sebagai tempat pakaian, selimut, seprai, dan lain-lain",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "121683",
+      "nama": "hum.bu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mu",
+              "nama": "Muna",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membicarakan kejelekan orang; gibah; bergunjing",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- tetangga"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

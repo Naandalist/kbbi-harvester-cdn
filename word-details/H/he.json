@@ -1,1 +1,70 @@
-{"word":"he","authenticated":true,"entries":[{"id":"29049","nama":"he","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata seru untuk menyapa, menegur, mengingatkan, dan sebagainya","contoh":[{"nomor":2,"teks":"--, mau ke mana kau?"},{"nomor":4,"teks":"-- cepat, bus sudah tiba"}]}],"etimologi":{"text":"[Jawa Kuno he 'kata seru (seruan kepada seseorang)']","languages":["Jawa Kuno"]}},{"id":"262111","nama":"he","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suara orang tertawa kecil","contoh":[]}],"etimologi":{"text":"[Jawa Kuno he 'kata seru (seruan kepada seseorang)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "he",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "29049",
+      "nama": "he",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru untuk menyapa, menegur, mengingatkan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, mau ke mana kau?"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- cepat, bus sudah tiba"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno he 'kata seru (seruan kepada seseorang)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "262111",
+      "nama": "he",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suara orang tertawa kecil",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno he 'kata seru (seruan kepada seseorang)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

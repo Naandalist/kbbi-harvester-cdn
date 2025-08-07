@@ -1,1 +1,95 @@
-{"word":"huni","authenticated":true,"entries":[{"id":"30440","nama":"hu.ni","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghuni","contoh":[]}],"terkait":{"kataTurunan":["berhuni","berpenghuni","hunian","kepenghunian","keterhunian","menghuni","menghunikan","penghuni","penghunian","terhuni"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"129001","nama":"hu.ni","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"jalan kecil di sekitar kebun","contoh":[]}]},{"id":"149071","nama":"hu.ni","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Let","nama":"Letti","tipe":"lainnya"}],"definisi":"memasak nira kira-kira 3—4 jam untuk menghasilkan gula merah","contoh":[{"nomor":2,"teks":"mereka -- sambil menyiapkan cetakan"}]}]}]}
+{
+  "word": "huni",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30440",
+      "nama": "hu.ni",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghuni",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhuni",
+          "berpenghuni",
+          "hunian",
+          "kepenghunian",
+          "keterhunian",
+          "menghuni",
+          "menghunikan",
+          "penghuni",
+          "penghunian",
+          "terhuni"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "129001",
+      "nama": "hu.ni",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "jalan kecil di sekitar kebun",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "149071",
+      "nama": "hu.ni",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Let",
+              "nama": "Letti",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memasak nira kira-kira 3—4 jam untuk menghasilkan gula merah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka -- sambil menyiapkan cetakan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

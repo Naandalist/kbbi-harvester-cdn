@@ -1,1 +1,66 @@
-{"word":"hut","authenticated":true,"entries":[{"id":"30511","nama":"Hut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"Pises","contoh":[]}],"etimologi":{"text":"[Arab حُوْتٌ ḥūt n sg m 'pises; ikan paus']","languages":["Arab"]}},{"id":"92488","nama":"HUT","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"hari ulang tahun","contoh":[]}],"etimologi":{"text":"[Arab حُوْتٌ ḥūt n sg m 'pises; ikan paus']","languages":["Arab"]}}]}
+{
+  "word": "hut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30511",
+      "nama": "Hut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "Pises",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حُوْتٌ ḥūt n sg m 'pises; ikan paus']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "92488",
+      "nama": "HUT",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hari ulang tahun",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حُوْتٌ ḥūt n sg m 'pises; ikan paus']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

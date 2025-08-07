@@ -1,1 +1,64 @@
-{"word":"hop","authenticated":true,"entries":[{"id":"30096","nama":"hop","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bld","nama":"Belanda","tipe":"bahasa"}],"definisi":"kepala","contoh":[{"nomor":2,"teks":"-- regu"}]}]},{"id":"202974","nama":"hop","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Bld","nama":"Belanda","tipe":"bahasa"}],"definisi":"berhenti","contoh":[]}]}]}
+{
+  "word": "hop",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30096",
+      "nama": "hop",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bld",
+              "nama": "Belanda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kepala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- regu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "202974",
+      "nama": "hop",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bld",
+              "nama": "Belanda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berhenti",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

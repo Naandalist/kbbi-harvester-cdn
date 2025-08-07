@@ -1,1 +1,51 @@
-{"word":"harian","authenticated":true,"entries":[{"id":"28758","nama":"ha.ri.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"setiap hari","contoh":[{"nomor":2,"teks":"di pabrik itu ia dibayar ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"surat kabar atau koran yang terbit tiap hari","contoh":[]}],"rootWord":"hari¹","terkait":{"kataTurunan":[],"gabunganKata":["harian lepas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "harian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28758",
+      "nama": "ha.ri.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "setiap hari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di pabrik itu ia dibayar ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "surat kabar atau koran yang terbit tiap hari",
+          "contoh": []
+        }
+      ],
+      "rootWord": "hari¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "harian lepas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

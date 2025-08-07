@@ -1,1 +1,35 @@
-{"word":"huh","authenticated":true,"entries":[{"id":"30205","nama":"huh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata seru untuk menyatakan rasa kesal hati","contoh":[{"nomor":2,"teks":"--, sudah sore, belum datang juga anak itu"}]}]}]}
+{
+  "word": "huh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30205",
+      "nama": "huh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru untuk menyatakan rasa kesal hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, sudah sore, belum datang juga anak itu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

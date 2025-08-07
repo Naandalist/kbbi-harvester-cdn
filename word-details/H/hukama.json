@@ -1,1 +1,58 @@
-{"word":"hukama","authenticated":true,"entries":[{"id":"30278","nama":"hu.ka.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"orang-orang cerdik pandai","contoh":[{"nomor":2,"teks":"majelis itu mengeluarkan fatwa keagamaan yang dipatuhi oleh segala -- dan ulama"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"(bentuk jamak) hakim","contoh":[]}],"etimologi":{"text":"[Arab حُكَمَاءُ ḥukamā’ n pl m 'orang yang bijaksana']","languages":["Arab"]}}]}
+{
+  "word": "hukama",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30278",
+      "nama": "hu.ka.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang-orang cerdik pandai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "majelis itu mengeluarkan fatwa keagamaan yang dipatuhi oleh segala -- dan ulama"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(bentuk jamak) hakim",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حُكَمَاءُ ḥukamā’ n pl m 'orang yang bijaksana']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

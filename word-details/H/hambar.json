@@ -1,1 +1,61 @@
-{"word":"hambar","authenticated":true,"entries":[{"id":"28376","nama":"ham.bar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak ada rasanya; tawar","contoh":[{"nomor":2,"teks":"sup ini rasanya --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kurang bergairah (bersemangat)","contoh":[{"nomor":2,"teks":"kedatangan saudaranya diterima dengan --"}]}],"terkait":{"kataTurunan":["kehambaran","terhambar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "hambar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28376",
+      "nama": "ham.bar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak ada rasanya; tawar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sup ini rasanya --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang bergairah (bersemangat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedatangan saudaranya diterima dengan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kehambaran",
+          "terhambar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

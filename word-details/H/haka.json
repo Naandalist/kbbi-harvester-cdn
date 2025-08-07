@@ -1,1 +1,88 @@
-{"word":"haka","authenticated":true,"entries":[{"id":"124997","nama":"ha.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"pahat tipis yang digunakan suku Pakpak utk menyadap nira","contoh":[]}]},{"id":"235067","nama":"ha.ka","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"hajar kanan (membeli saham di harga penawaran tertinggi sehingga investor tidak perlu mengantre)","contoh":[{"nomor":2,"teks":"investor bisa -- jika sudah melakukan analisis secara matang"}]}]},{"id":"296594","nama":"ha.ka","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bc","nama":"Bacan","tipe":"lainnya"}],"definisi":"napoleon; nuri-nuri","contoh":[]}]}]}
+{
+  "word": "haka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "124997",
+      "nama": "ha.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pahat tipis yang digunakan suku Pakpak utk menyadap nira",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "235067",
+      "nama": "ha.ka",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hajar kanan (membeli saham di harga penawaran tertinggi sehingga investor tidak perlu mengantre)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "investor bisa -- jika sudah melakukan analisis secara matang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "296594",
+      "nama": "ha.ka",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bc",
+              "nama": "Bacan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "napoleon; nuri-nuri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

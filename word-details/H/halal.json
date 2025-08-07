@@ -1,1 +1,86 @@
-{"word":"halal","authenticated":true,"entries":[{"id":"28268","nama":"ha.lal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"diizinkan (tidak dilarang oleh syarak)","contoh":[{"nomor":2,"teks":"makanan ini --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(yang diperoleh atau diperbuat dengan) sah","contoh":[{"nomor":2,"teks":"uang --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"izin; ampun","contoh":[{"nomor":2,"teks":"menyembah minta -- akan segala pengajarannya"}]}],"etimologi":{"text":"[Arab حَلَالٌ ḥalāl n sg m 'boleh']","languages":["Arab"]},"terkait":{"kataTurunan":["kehalalan","menghalalkan","penghalal","penghalalan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "halal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28268",
+      "nama": "ha.lal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diizinkan (tidak dilarang oleh syarak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makanan ini --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(yang diperoleh atau diperbuat dengan) sah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "izin; ampun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menyembah minta -- akan segala pengajarannya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab حَلَالٌ ḥalāl n sg m 'boleh']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kehalalan",
+          "menghalalkan",
+          "penghalal",
+          "penghalalan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

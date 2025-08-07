@@ -1,1 +1,79 @@
-{"word":"hambat","authenticated":true,"entries":[{"id":"28378","nama":"ham.bat","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghambat","contoh":[]}],"terkait":{"kataTurunan":["berhambatan","hambatan","keterhambatan","menghambat","menghambatkan","penghambat","penghambatan","terhambat","terhambat-hambat","memperhambat"],"gabunganKata":["hambat ganda","hambatan samping","penghambat alfa","penghambat beta"],"peribahasa":["anak badak dihambat-hambat"],"idiom":[]}},{"id":"28385","nama":"ham.bat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghambat","contoh":[]}],"terkait":{"kataTurunan":["memperhambat","menghambat"],"gabunganKata":[],"peribahasa":["anak badak dihambat-hambat"],"idiom":[]}}]}
+{
+  "word": "hambat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28378",
+      "nama": "ham.bat",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghambat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhambatan",
+          "hambatan",
+          "keterhambatan",
+          "menghambat",
+          "menghambatkan",
+          "penghambat",
+          "penghambatan",
+          "terhambat",
+          "terhambat-hambat",
+          "memperhambat"
+        ],
+        "gabunganKata": [
+          "hambat ganda",
+          "hambatan samping",
+          "penghambat alfa",
+          "penghambat beta"
+        ],
+        "peribahasa": [
+          "anak badak dihambat-hambat"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "28385",
+      "nama": "ham.bat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghambat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "memperhambat",
+          "menghambat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anak badak dihambat-hambat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

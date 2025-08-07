@@ -1,1 +1,69 @@
-{"word":"hala","authenticated":true,"entries":[{"id":"28261","nama":"ha.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"arah","contoh":[{"nomor":2,"teks":"maka, raja itu pun berlayarlah -- ke timur"}]}],"terkait":{"kataTurunan":["berhala","menghala","menghalakan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"295778","nama":"ha.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"sarang burung yang dibuat di tanah, berupa lubang yang dalam, biasanya ditutupi dengan ranting dan daun","contoh":[]}]}]}
+{
+  "word": "hala",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "28261",
+      "nama": "ha.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "arah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maka, raja itu pun berlayarlah -- ke timur"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berhala",
+          "menghala",
+          "menghalakan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "295778",
+      "nama": "ha.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sarang burung yang dibuat di tanah, berupa lubang yang dalam, biasanya ditutupi dengan ranting dan daun",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
