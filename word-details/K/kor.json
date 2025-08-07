@@ -1,1 +1,85 @@
-{"word":"kor","authenticated":true,"entries":[{"id":"43635","nama":"kor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"paduan suara; nyanyian bersama","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"sekelompok aktor pendukung pemeran utama dalam sebuah produksi","contoh":[]}]},{"id":"43636","nama":"kor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran isi untuk barang cair sebesar 10 bat","contoh":[]}]},{"id":"123728","nama":"kor","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kutu rambut yang masih kecil","contoh":[]}]}]}
+{
+  "word": "kor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43635",
+      "nama": "kor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paduan suara; nyanyian bersama",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sekelompok aktor pendukung pemeran utama dalam sebuah produksi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "43636",
+      "nama": "kor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran isi untuk barang cair sebesar 10 bat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "123728",
+      "nama": "kor",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kutu rambut yang masih kecil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

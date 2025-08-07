@@ -1,1 +1,43 @@
-{"word":"keasinan","authenticated":true,"entries":[{"id":"5554","nama":"ke.a.sin.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlalu asin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal rasa asin","contoh":[{"nomor":2,"teks":"tingkat ~ air itu sangat rendah"}]}],"rootWord":"asin"}]}
+{
+  "word": "keasinan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5554",
+      "nama": "ke.a.sin.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu asin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal rasa asin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tingkat ~ air itu sangat rendah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "asin"
+    }
+  ]
+}

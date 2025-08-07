@@ -1,1 +1,116 @@
-{"word":"kelong","authenticated":true,"entries":[{"id":"144054","nama":"ke.long","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"memegang tulang kemaluan","contoh":[]}],"terkait":{"kataTurunan":["berkelong"],"gabunganKata":["kelong apung","kelong besar","kelong cacak","kelong karang","kelong tangkul","kelong tanjur"],"peribahasa":[],"idiom":[]}},{"id":"39209","nama":"ke.long","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"belat besar yang di dalamnya menggunakan sekatan (kurung)","contoh":[{"nomor":2,"teks":"ikan-ikan yang masuk ke dalam -- itu terperangkap di dalamnya"}]}],"terkait":{"kataTurunan":["berkelong"],"gabunganKata":["kelong apung","kelong besar","kelong cacak","kelong karang","kelong tangkul","kelong tanjur"],"peribahasa":[],"idiom":[]}},{"id":"39210","nama":"ke.long","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"pantun Bugis","contoh":[]}],"terkait":{"kataTurunan":["berkelong"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kelong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "144054",
+      "nama": "ke.long",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memegang tulang kemaluan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkelong"
+        ],
+        "gabunganKata": [
+          "kelong apung",
+          "kelong besar",
+          "kelong cacak",
+          "kelong karang",
+          "kelong tangkul",
+          "kelong tanjur"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39209",
+      "nama": "ke.long",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belat besar yang di dalamnya menggunakan sekatan (kurung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ikan-ikan yang masuk ke dalam -- itu terperangkap di dalamnya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkelong"
+        ],
+        "gabunganKata": [
+          "kelong apung",
+          "kelong besar",
+          "kelong cacak",
+          "kelong karang",
+          "kelong tangkul",
+          "kelong tanjur"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39210",
+      "nama": "ke.long",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pantun Bugis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkelong"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

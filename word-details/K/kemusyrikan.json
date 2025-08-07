@@ -1,1 +1,51 @@
-{"word":"kemusyrikan","authenticated":true,"entries":[{"id":"55991","nama":"ke.syi.rik.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal syirik","contoh":[{"nomor":2,"teks":"jangan sampai umat beragama mudah tergelincir ke dalam ~"}]}],"rootWord":"syirik"},{"id":"110923","nama":"ke.musy.rik.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kesyirikan","contoh":[]}],"rootWord":"musyrik"}]}
+{
+  "word": "kemusyrikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55991",
+      "nama": "ke.syi.rik.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal syirik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan sampai umat beragama mudah tergelincir ke dalam ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "syirik"
+    },
+    {
+      "id": "110923",
+      "nama": "ke.musy.rik.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesyirikan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "musyrik"
+    }
+  ]
+}

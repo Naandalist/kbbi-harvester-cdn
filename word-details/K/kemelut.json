@@ -1,1 +1,53 @@
-{"word":"kemelut","authenticated":true,"entries":[{"id":"39497","nama":"ke.me.lut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan yang berbahaya (tentang menderita penyakit, terutama penyakit demam)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan genting (berbahaya, kritis)","contoh":[{"nomor":2,"teks":"negara-negara itu menghadapi -- politik baru"}]}],"terkait":{"kataTurunan":["berkemelut"],"gabunganKata":["kemelut naik","kemelut turun"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kemelut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39497",
+      "nama": "ke.me.lut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan yang berbahaya (tentang menderita penyakit, terutama penyakit demam)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan genting (berbahaya, kritis)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "negara-negara itu menghadapi -- politik baru"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkemelut"
+        ],
+        "gabunganKata": [
+          "kemelut naik",
+          "kemelut turun"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

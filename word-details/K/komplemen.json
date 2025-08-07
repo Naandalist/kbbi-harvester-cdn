@@ -1,1 +1,67 @@
-{"word":"komplemen","authenticated":true,"entries":[{"id":"42953","nama":"kom.ple.men","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang melengkapi atau menyempurnakan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kata atau frasa yang secara gramatikal melengkapi kata atau frasa lain; pelengkap","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"dua komoditas yang digunakan secara bersama-sama satu sama lain","contoh":[]}],"terkait":{"kataTurunan":["mengomplemen"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "komplemen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42953",
+      "nama": "kom.ple.men",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang melengkapi atau menyempurnakan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kata atau frasa yang secara gramatikal melengkapi kata atau frasa lain; pelengkap",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "dua komoditas yang digunakan secara bersama-sama satu sama lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengomplemen"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

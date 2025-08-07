@@ -1,1 +1,65 @@
-{"word":"kamban","authenticated":true,"entries":[{"id":"36349","nama":"kam.ban","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ikat","contoh":[]}],"terkait":{"kataTurunan":["mengamban"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"36351","nama":"kam.ban","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"peluk dari belakang","contoh":[]}],"terkait":{"kataTurunan":["mengamban"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kamban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36349",
+      "nama": "kam.ban",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengamban"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "36351",
+      "nama": "kam.ban",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "peluk dari belakang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengamban"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

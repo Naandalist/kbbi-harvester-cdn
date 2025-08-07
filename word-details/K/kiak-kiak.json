@@ -1,1 +1,54 @@
-{"word":"kiak-kiak","authenticated":true,"entries":[{"id":"41507","nama":"ki.ak-ki.ak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelengkiak","contoh":[]}]},{"id":"257319","nama":"ki.ak-ki.ak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bkt","nama":"Bakatik","tipe":"lainnya"}],"definisi":"berjalan dengan mengangkang","contoh":[{"nomor":2,"teks":"karena terjatuh, adik --"}]}]}]}
+{
+  "word": "kiak-kiak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41507",
+      "nama": "ki.ak-ki.ak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelengkiak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "257319",
+      "nama": "ki.ak-ki.ak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bkt",
+              "nama": "Bakatik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berjalan dengan mengangkang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena terjatuh, adik --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

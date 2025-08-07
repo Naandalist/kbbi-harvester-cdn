@@ -1,1 +1,61 @@
-{"word":"kemarin","authenticated":true,"entries":[{"id":"39379","nama":"ke.ma.rin","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hari sebelum hari ini","contoh":[{"nomor":2,"teks":"sekarang hari Jumat, -- hari Kamis"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(beberapa) waktu yang lalu","contoh":[{"nomor":2,"teks":"dalam rapat -- kami sudah membahas hal ini"},{"nomor":4,"teks":"pada hari Jumat -- aku tidak bisa hadir, tetapi Jumat ini aku akan hadir"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["kemarin dulu","kemarin lusa","kemarin sore"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kemarin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39379",
+      "nama": "ke.ma.rin",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hari sebelum hari ini",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekarang hari Jumat, -- hari Kamis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(beberapa) waktu yang lalu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam rapat -- kami sudah membahas hal ini"
+            },
+            {
+              "nomor": 4,
+              "teks": "pada hari Jumat -- aku tidak bisa hadir, tetapi Jumat ini aku akan hadir"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kemarin dulu",
+          "kemarin lusa",
+          "kemarin sore"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

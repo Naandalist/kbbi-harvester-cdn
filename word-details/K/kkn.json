@@ -1,1 +1,54 @@
-{"word":"kkn","authenticated":true,"entries":[{"id":"92636","nama":"KKN","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kuliah kerja nyata","contoh":[]}]},{"id":"192014","nama":"KKN","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"korupsi, kolusi, dan nepotisme","contoh":[]}]}]}
+{
+  "word": "kkn",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92636",
+      "nama": "KKN",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kuliah kerja nyata",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "192014",
+      "nama": "KKN",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "korupsi, kolusi, dan nepotisme",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

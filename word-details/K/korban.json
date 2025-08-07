@@ -1,1 +1,67 @@
-{"word":"korban","authenticated":true,"entries":[{"id":"43651","nama":"kor.ban","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pemberian untuk menyatakan kebaktian, kesetiaan, dan sebagainya; kurban","contoh":[{"nomor":2,"teks":"jangankan harta, jiwa sekalipun kami berikan sebagai --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang, binatang, dan sebagainya yang menjadi menderita (mati dan sebagainya) akibat suatu kejadian, perbuatan jahat, dan sebagainya","contoh":[{"nomor":2,"teks":"sepuluh orang -- tabrakan itu dirawat di rumah sakit Bogor"}]}],"etimologi":{"text":"[Arab قُرْبَانٌ qurbān n sg m 'persembahan pada Allah sebagai bentuk ketaatan dan wasilah; penyembelihan hewan ternak sebagai bentuk ketaatan pada Allah']","languages":["Arab"]},"terkait":{"kataTurunan":["berkorban","mengorbankan","pengorbanan"],"gabunganKata":["korban jiwa","korban nyawa","korban selamat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "korban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43651",
+      "nama": "kor.ban",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemberian untuk menyatakan kebaktian, kesetiaan, dan sebagainya; kurban",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangankan harta, jiwa sekalipun kami berikan sebagai --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang, binatang, dan sebagainya yang menjadi menderita (mati dan sebagainya) akibat suatu kejadian, perbuatan jahat, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sepuluh orang -- tabrakan itu dirawat di rumah sakit Bogor"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قُرْبَانٌ qurbān n sg m 'persembahan pada Allah sebagai bentuk ketaatan dan wasilah; penyembelihan hewan ternak sebagai bentuk ketaatan pada Allah']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkorban",
+          "mengorbankan",
+          "pengorbanan"
+        ],
+        "gabunganKata": [
+          "korban jiwa",
+          "korban nyawa",
+          "korban selamat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"word":"kartel","authenticated":true,"entries":[{"id":"37303","nama":"kar.tel","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gabungan perusahaan sejenis yang bertujuan mengendalikan produksi, persaingan, dan harga","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pol","nama":"Politik dan Pemerintahan","tipe":"bidang_subjek"}],"definisi":"gabungan partai politik yang memiliki tujuan yang sama","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"persekutuan antara dua pihak atau lebih","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kartel narkotika","kartel oligarki","kartel sitasi"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kartel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37303",
+      "nama": "kar.tel",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gabungan perusahaan sejenis yang bertujuan mengendalikan produksi, persaingan, dan harga",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pol",
+              "nama": "Politik dan Pemerintahan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "gabungan partai politik yang memiliki tujuan yang sama",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "persekutuan antara dua pihak atau lebih",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kartel narkotika",
+          "kartel oligarki",
+          "kartel sitasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

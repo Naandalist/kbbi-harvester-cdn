@@ -1,1 +1,57 @@
-{"word":"kolek","authenticated":true,"entries":[{"id":"42681","nama":"ko.lek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perahu kecil, dibuat dari batang kayu bertiang satu, berlayar, digunakan untuk mengangkut orang","contoh":[]}],"terkait":{"kataTurunan":["berkolek-kolek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"263134","nama":"ko.lek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"sampah di laut yang ikut terjaring saat menangkap ikan","contoh":[]}]}]}
+{
+  "word": "kolek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42681",
+      "nama": "ko.lek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perahu kecil, dibuat dari batang kayu bertiang satu, berlayar, digunakan untuk mengangkut orang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkolek-kolek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "263134",
+      "nama": "ko.lek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sampah di laut yang ikut terjaring saat menangkap ikan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,58 @@
-{"word":"kolaps","authenticated":true,"entries":[{"id":"42671","nama":"ko.laps","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jatuh; roboh","contoh":[{"nomor":2,"teks":"perusahaan itu -- setelah jumlah penjualan terus menurun"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pingsan","contoh":[{"nomor":2,"teks":"cuaca panas menyebabkan atlet itu --"}]}],"terkait":{"kataTurunan":["mengolapskan"],"gabunganKata":["kolaps kardiovaskular","kolaps kemacetan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kolaps",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42671",
+      "nama": "ko.laps",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jatuh; roboh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perusahaan itu -- setelah jumlah penjualan terus menurun"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pingsan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cuaca panas menyebabkan atlet itu --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengolapskan"
+        ],
+        "gabunganKata": [
+          "kolaps kardiovaskular",
+          "kolaps kemacetan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

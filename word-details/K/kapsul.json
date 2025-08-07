@@ -1,1 +1,85 @@
-{"word":"kapsul","authenticated":true,"entries":[{"id":"37023","nama":"kap.sul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pembungkus kecil dari sejenis agar-agar tempat obat yang harus ditelan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang khusus yang bertekanan udara tertentu yang digunakan oleh penerbang ruang angkasa (astronaut) dalam penerbangan ke angkasa luar","contoh":[{"nomor":2,"teks":"para astronaut bersiap-siap masuk ke dalam -- setelah persiapan untuk melakukan penerbangan selesai"}]}],"terkait":{"kataTurunan":["mengapsulkan","pengapsulan"],"gabunganKata":["kapsul aneroid","kapsul antariksa","kapsul artikular","kapsul bakteri","kapsul endoskopi","kapsul lensa","kapsul penyelamat","kapsul renik","kapsul sendi"],"peribahasa":[],"idiom":[]}},{"id":"99372","nama":"kap.sul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"buah kering beruangan sebanyak daun buah yang membentuknya, merekah, dan berbiji banyak","contoh":[]}]}]}
+{
+  "word": "kapsul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37023",
+      "nama": "kap.sul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pembungkus kecil dari sejenis agar-agar tempat obat yang harus ditelan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang khusus yang bertekanan udara tertentu yang digunakan oleh penerbang ruang angkasa (astronaut) dalam penerbangan ke angkasa luar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para astronaut bersiap-siap masuk ke dalam -- setelah persiapan untuk melakukan penerbangan selesai"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengapsulkan",
+          "pengapsulan"
+        ],
+        "gabunganKata": [
+          "kapsul aneroid",
+          "kapsul antariksa",
+          "kapsul artikular",
+          "kapsul bakteri",
+          "kapsul endoskopi",
+          "kapsul lensa",
+          "kapsul penyelamat",
+          "kapsul renik",
+          "kapsul sendi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99372",
+      "nama": "kap.sul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buah kering beruangan sebanyak daun buah yang membentuknya, merekah, dan berbiji banyak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,74 @@
-{"word":"korespondensi","authenticated":true,"entries":[{"id":"43706","nama":"ko.res.pon.den.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal surat-menyurat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"perihal hubungan antara bunyi yang satu dan yang lain dalam sajak","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"hubungan antara bentuk dan isi","contoh":[]}],"terkait":{"kataTurunan":["berkorespondensi"],"gabunganKata":["korespondensi berganda","korespondensi bunyi","korespondensi diplomatik","korespondensi fonemis","korespondensi relasional","korespondensi satu-satu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "korespondensi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43706",
+      "nama": "ko.res.pon.den.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal surat-menyurat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perihal hubungan antara bunyi yang satu dan yang lain dalam sajak",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "hubungan antara bentuk dan isi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkorespondensi"
+        ],
+        "gabunganKata": [
+          "korespondensi berganda",
+          "korespondensi bunyi",
+          "korespondensi diplomatik",
+          "korespondensi fonemis",
+          "korespondensi relasional",
+          "korespondensi satu-satu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

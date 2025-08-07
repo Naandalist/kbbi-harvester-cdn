@@ -1,1 +1,78 @@
-{"word":"kawung","authenticated":true,"entries":[{"id":"38037","nama":"ka.wung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"enau","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"rokok dengan daun enau sebagai pembungkusnya","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kawuṅ 'kaung; enau; rokok dengan daun enau sebagai pembungkusnya']","languages":["Jawa Kuno"]}},{"id":"38038","nama":"ka.wung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"motif (corak) batik","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kawuṅ 'kaung; enau; rokok dengan daun enau sebagai pembungkusnya']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "kawung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38037",
+      "nama": "ka.wung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "enau",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rokok dengan daun enau sebagai pembungkusnya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kawuṅ 'kaung; enau; rokok dengan daun enau sebagai pembungkusnya']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "38038",
+      "nama": "ka.wung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "motif (corak) batik",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kawuṅ 'kaung; enau; rokok dengan daun enau sebagai pembungkusnya']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

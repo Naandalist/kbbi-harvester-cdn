@@ -1,1 +1,148 @@
-{"word":"kembung","authenticated":true,"entries":[{"id":"39479","nama":"kem.bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menjadi gembung; melembung (karena kemasukan angin)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"senak dan terasa seperti berisi angin (tentang perut)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"membesar (tentang perut) karena berisi gas hasil fermentasi yang tidak dapat dikeluarkan melalui mulut","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["mengembungkan"],"gabunganKata":["kembung kempis","kembung betina","kembung jantan"],"peribahasa":["bagai buntal kembung"],"idiom":[]}},{"id":"39482","nama":"kem.bung","nomor":"22","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan laut, panjang mencapai 35 cm, umur mencapai 4 tahun, hidup di perairan tropis dengan kedalaman 20–90 m, tersebar di perairan Indo-Pasifik Barat (Laut Merah dan Afrika Timur sampai Indonesia, utara sampai Kepulauan Ryukyu dan Tiongkok, Australia Selatan, Melanesia dan Samoa)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":["kembung betina","kembung jantan"],"peribahasa":["bagai buntal kembung"],"idiom":[]}},{"id":"39485","nama":"kem.bung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lumbung","contoh":[{"nomor":2,"teks":"-- padi"}]}],"etimologi":{"text":"[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai buntal kembung"],"idiom":[]}}]}
+{
+  "word": "kembung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39479",
+      "nama": "kem.bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi gembung; melembung (karena kemasukan angin)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "senak dan terasa seperti berisi angin (tentang perut)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "membesar (tentang perut) karena berisi gas hasil fermentasi yang tidak dapat dikeluarkan melalui mulut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengembungkan"
+        ],
+        "gabunganKata": [
+          "kembung kempis",
+          "kembung betina",
+          "kembung jantan"
+        ],
+        "peribahasa": [
+          "bagai buntal kembung"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39482",
+      "nama": "kem.bung",
+      "nomor": "22",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan laut, panjang mencapai 35 cm, umur mencapai 4 tahun, hidup di perairan tropis dengan kedalaman 20–90 m, tersebar di perairan Indo-Pasifik Barat (Laut Merah dan Afrika Timur sampai Indonesia, utara sampai Kepulauan Ryukyu dan Tiongkok, Australia Selatan, Melanesia dan Samoa)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kembung betina",
+          "kembung jantan"
+        ],
+        "peribahasa": [
+          "bagai buntal kembung"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39485",
+      "nama": "kem.bung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lumbung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- padi"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěmbuṅ 'jenis ikan yang khas']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai buntal kembung"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

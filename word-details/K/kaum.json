@@ -1,1 +1,209 @@
-{"word":"kaum","authenticated":true,"entries":[{"id":"37865","nama":"ka.um","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa","contoh":[{"nomor":2,"teks":"dahulu perang antar-- sering terjadi di pedalaman"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sanak saudara; kerabat; keluarga","contoh":[{"nomor":2,"teks":"ia hidup terasing dari --nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"golongan (orang yang sekerja, sepaham, sepangkat, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- terpelajar"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"lebai; modin","contoh":[{"nomor":2,"teks":"perbatin, penggawa, atau -- hanya berhenti sebab mati"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"keluarga garis matrilineal","contoh":[]}],"etimologi":{"text":"[Arab قَوْمٌ qaum n pl m 'masyarakat']","languages":["Arab"]},"terkait":{"kataTurunan":["berkaum","kauman","perkauman","sekaum"],"gabunganKata":["kaum adam","kaum awam","kaum bendoro","kaum buruh","kaum cendekiawan","kaum dagang","kaum dahrian","kaum demokrat","kaum eksekutif","kaum ekstremis","kaum elite","kaum fasik","kaum halai balai","kaum hawa","kaum ibu","kaum idealis","kaum intelek","kaum jahiliah","kaum kafir","kaum kolot","kaum komunis","kaum konfederasi","kaum kristiani","kaum lelaki","kaum lemah","kaum liberal","kaum mapan","kaum marginal","kaum mendang-mending","kaum migran","kaum milenial","kaum muda","kaum muslim","kaum muslimin","kaum musyrikin","kaum nasrani","kaum non","kaum pagan","kaum papa","kaum pekerja","kaum pelangi","kaum pemberontak","kaum pengangguran","kaum penjajah","kaum radikal","kaum rebahan","kaum rendahan","kaum revolusioner","kaum sarungan","kaum sosialis","kaum tani","kaum terbelakang","kaum terpelajar","kaum terpinggirkan","kaum unionis","kaum urakan","kaum urban","kaum wanita"],"peribahasa":[],"idiom":[]}},{"id":"228580","nama":"ka.um","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"penengah dalam kauman, bertugas memutuskan kebenaran tebakan lawan","contoh":[]}],"etimologi":{"text":"[Arab قَوْمٌ qaum n pl m 'masyarakat']","languages":["Arab"]}}]}
+{
+  "word": "kaum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37865",
+      "nama": "ka.um",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dahulu perang antar-- sering terjadi di pedalaman"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sanak saudara; kerabat; keluarga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia hidup terasing dari --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "golongan (orang yang sekerja, sepaham, sepangkat, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- terpelajar"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lebai; modin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perbatin, penggawa, atau -- hanya berhenti sebab mati"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluarga garis matrilineal",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَوْمٌ qaum n pl m 'masyarakat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkaum",
+          "kauman",
+          "perkauman",
+          "sekaum"
+        ],
+        "gabunganKata": [
+          "kaum adam",
+          "kaum awam",
+          "kaum bendoro",
+          "kaum buruh",
+          "kaum cendekiawan",
+          "kaum dagang",
+          "kaum dahrian",
+          "kaum demokrat",
+          "kaum eksekutif",
+          "kaum ekstremis",
+          "kaum elite",
+          "kaum fasik",
+          "kaum halai balai",
+          "kaum hawa",
+          "kaum ibu",
+          "kaum idealis",
+          "kaum intelek",
+          "kaum jahiliah",
+          "kaum kafir",
+          "kaum kolot",
+          "kaum komunis",
+          "kaum konfederasi",
+          "kaum kristiani",
+          "kaum lelaki",
+          "kaum lemah",
+          "kaum liberal",
+          "kaum mapan",
+          "kaum marginal",
+          "kaum mendang-mending",
+          "kaum migran",
+          "kaum milenial",
+          "kaum muda",
+          "kaum muslim",
+          "kaum muslimin",
+          "kaum musyrikin",
+          "kaum nasrani",
+          "kaum non",
+          "kaum pagan",
+          "kaum papa",
+          "kaum pekerja",
+          "kaum pelangi",
+          "kaum pemberontak",
+          "kaum pengangguran",
+          "kaum penjajah",
+          "kaum radikal",
+          "kaum rebahan",
+          "kaum rendahan",
+          "kaum revolusioner",
+          "kaum sarungan",
+          "kaum sosialis",
+          "kaum tani",
+          "kaum terbelakang",
+          "kaum terpelajar",
+          "kaum terpinggirkan",
+          "kaum unionis",
+          "kaum urakan",
+          "kaum urban",
+          "kaum wanita"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "228580",
+      "nama": "ka.um",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penengah dalam kauman, bertugas memutuskan kebenaran tebakan lawan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَوْمٌ qaum n pl m 'masyarakat']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

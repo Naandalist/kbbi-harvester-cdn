@@ -1,1 +1,90 @@
-{"word":"kelah","authenticated":true,"entries":[{"id":"38697","nama":"ke.lah","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"piknik","contoh":[]}],"terkait":{"kataTurunan":["berkelah","mengelah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"38695","nama":"ke.lah","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pemberitahuan yang disertai permintaan oleh pihak yang berkepentingan kepada pejabat yang berwenang untuk menindak, menurut hukum, orang yang melakukan perbuatan yang hanya dapat dituntut berdasarkan aduan; pengaduan","contoh":[]}],"terkait":{"kataTurunan":["mengelah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"120027","nama":"ke.lah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"kayu yang dijadikan jembatan untuk berpindah dari satu dahan ke dahan yang lain","contoh":[]}]}]}
+{
+  "word": "kelah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38697",
+      "nama": "ke.lah",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "piknik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkelah",
+          "mengelah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "38695",
+      "nama": "ke.lah",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemberitahuan yang disertai permintaan oleh pihak yang berkepentingan kepada pejabat yang berwenang untuk menindak, menurut hukum, orang yang melakukan perbuatan yang hanya dapat dituntut berdasarkan aduan; pengaduan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengelah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120027",
+      "nama": "ke.lah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu yang dijadikan jembatan untuk berpindah dari satu dahan ke dahan yang lain",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

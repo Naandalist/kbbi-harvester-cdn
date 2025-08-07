@@ -1,1 +1,52 @@
-{"word":"kemasukan","authenticated":true,"entries":[{"id":"52662","nama":"ke.ma.suk.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dimasuki (dirasuki) roh halus (setan, hantu, dan sebagainya)","contoh":[{"nomor":2,"teks":"matanya tampak merah membeliak seperti orang yang ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dimasuki (oleh); ada sesuatu yang masuk","contoh":[{"nomor":2,"teks":"telinganya ~ air"},{"nomor":4,"teks":"rumahnya ~ pencuri"}]}],"rootWord":"masuk"}]}
+{
+  "word": "kemasukan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52662",
+      "nama": "ke.ma.suk.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dimasuki (dirasuki) roh halus (setan, hantu, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "matanya tampak merah membeliak seperti orang yang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dimasuki (oleh); ada sesuatu yang masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "telinganya ~ air"
+            },
+            {
+              "nomor": 4,
+              "teks": "rumahnya ~ pencuri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "masuk"
+    }
+  ]
+}

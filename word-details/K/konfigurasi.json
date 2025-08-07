@@ -1,1 +1,96 @@
-{"word":"konfigurasi","authenticated":true,"entries":[{"id":"43121","nama":"kon.fi.gu.ra.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk; wujud (untuk menggambarkan orang atau benda)","contoh":[{"nomor":2,"teks":"ribuan pelajar SLTP di Stadion Utama Senayan membentuk -- kata ASEAN"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"bentuk horizontal dan vertikal bagian bumi","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"kedudukan atom yang satu terhadap atom yang lain dalam molekul","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"bentuk geometri atau kombinasi unsur geometri, seperti titik, garis, lengkung, dan permukaan","contoh":[]}],"terkait":{"kataTurunan":["berkonfigurasi","mengonfigurasi","mengonfigurasikan"],"gabunganKata":["konfigurasi elektron","konfigurasi elektron atom","konfigurasi jaringan","konfigurasi planet"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "konfigurasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43121",
+      "nama": "kon.fi.gu.ra.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk; wujud (untuk menggambarkan orang atau benda)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ribuan pelajar SLTP di Stadion Utama Senayan membentuk -- kata ASEAN"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bentuk horizontal dan vertikal bagian bumi",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kedudukan atom yang satu terhadap atom yang lain dalam molekul",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bentuk geometri atau kombinasi unsur geometri, seperti titik, garis, lengkung, dan permukaan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkonfigurasi",
+          "mengonfigurasi",
+          "mengonfigurasikan"
+        ],
+        "gabunganKata": [
+          "konfigurasi elektron",
+          "konfigurasi elektron atom",
+          "konfigurasi jaringan",
+          "konfigurasi planet"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

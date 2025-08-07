@@ -1,1 +1,56 @@
-{"word":"kecanduan","authenticated":true,"entries":[{"id":"14504","nama":"ke.can.du.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kejangkitan suatu kegemaran (hingga lupa hal-hal yang lain)","contoh":[{"nomor":2,"teks":"~nya pada segala macam permainan tampak menonjol"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ketagihan akan sesuatu hingga menjadi ketergantungan (pada obat-obatan, minuman, dan sebagainya)","contoh":[{"nomor":2,"teks":"banyak pemuda yang hancur masa depannya karena ~ morfin"}]}],"rootWord":"candu","terkait":{"kataTurunan":[],"gabunganKata":["kecanduan obat keras"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kecanduan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14504",
+      "nama": "ke.can.du.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kejangkitan suatu kegemaran (hingga lupa hal-hal yang lain)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~nya pada segala macam permainan tampak menonjol"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketagihan akan sesuatu hingga menjadi ketergantungan (pada obat-obatan, minuman, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak pemuda yang hancur masa depannya karena ~ morfin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "candu",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kecanduan obat keras"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

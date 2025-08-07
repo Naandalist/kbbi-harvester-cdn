@@ -1,1 +1,58 @@
-{"word":"kedapatan","authenticated":true,"entries":[{"id":"17775","nama":"ke.da.pat.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"terdapat; didapati; ditemukan","contoh":[{"nomor":2,"teks":"di tempat itu ~ anak-anak sedang bermain gaple"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"diketahui","contoh":[{"nomor":2,"teks":"ia ~ menggelapkan uang negara"}]}],"rootWord":"dapat"}]}
+{
+  "word": "kedapatan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17775",
+      "nama": "ke.da.pat.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdapat; didapati; ditemukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di tempat itu ~ anak-anak sedang bermain gaple"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diketahui",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ menggelapkan uang negara"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dapat"
+    }
+  ]
+}

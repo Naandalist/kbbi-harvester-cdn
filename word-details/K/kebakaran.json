@@ -1,1 +1,75 @@
-{"word":"kebakaran","authenticated":true,"entries":[{"id":"7267","nama":"ke.ba.kar.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peristiwa terbakarnya sesuatu (rumah, hutan, dan sebagainya)","contoh":[{"nomor":2,"teks":"~ hutan sering terjadi dalam musim kemarau"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"terbakar; mengalami keadaan terbakar","contoh":[{"nomor":2,"teks":"ia tidak mempunyai tempat berteduh karena rumahnya ~"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahaya api","contoh":[]}],"rootWord":"bakar","terkait":{"kataTurunan":[],"gabunganKata":["kebakaran janggut","kebakaran jenggot","kebakaran tajuk"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kebakaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "7267",
+      "nama": "ke.ba.kar.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peristiwa terbakarnya sesuatu (rumah, hutan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hutan sering terjadi dalam musim kemarau"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbakar; mengalami keadaan terbakar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tidak mempunyai tempat berteduh karena rumahnya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahaya api",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bakar",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kebakaran janggut",
+          "kebakaran jenggot",
+          "kebakaran tajuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

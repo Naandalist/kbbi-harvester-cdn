@@ -1,1 +1,48 @@
-{"word":"keintiman","authenticated":true,"entries":[{"id":"32195","nama":"ke.in.tim.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"intimasi; keakraban; kemesraan","contoh":[{"nomor":2,"teks":"dalam waktu singkat telah terjadi ~ antara dua anak muda itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"kedekatan dengan orang lain melalui proses membuka diri","contoh":[]}],"rootWord":"intim"}]}
+{
+  "word": "keintiman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32195",
+      "nama": "ke.in.tim.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "intimasi; keakraban; kemesraan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam waktu singkat telah terjadi ~ antara dua anak muda itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kedekatan dengan orang lain melalui proses membuka diri",
+          "contoh": []
+        }
+      ],
+      "rootWord": "intim"
+    }
+  ]
+}

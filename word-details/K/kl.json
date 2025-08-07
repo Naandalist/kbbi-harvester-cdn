@@ -1,1 +1,54 @@
-{"word":"kl","authenticated":true,"entries":[{"id":"96048","nama":"kl","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kiloliter","contoh":[]}]},{"id":"209483","nama":"KL","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Kuala Lumpur (ibu kota Malaysia)","contoh":[]}]}]}
+{
+  "word": "kl",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96048",
+      "nama": "kl",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kiloliter",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "209483",
+      "nama": "KL",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kuala Lumpur (ibu kota Malaysia)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

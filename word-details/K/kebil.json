@@ -1,1 +1,67 @@
-{"word":"kebil","authenticated":true,"entries":[{"id":"163490","nama":"ke.bil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"berkedip-kedip karena keheranan (tentang mata)","contoh":[]}],"terkait":{"kataTurunan":["terkebil-kebil"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"254010","nama":"ke.bil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"cubit dengan ujung kelingking dan jempol","contoh":[{"nomor":2,"teks":"karena gemas, ia -- adiknya"}]}]}]}
+{
+  "word": "kebil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "163490",
+      "nama": "ke.bil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berkedip-kedip karena keheranan (tentang mata)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terkebil-kebil"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "254010",
+      "nama": "ke.bil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "cubit dengan ujung kelingking dan jempol",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena gemas, ia -- adiknya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

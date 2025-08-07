@@ -1,1 +1,64 @@
-{"word":"kdr","authenticated":true,"entries":[{"id":"183825","nama":"KDR","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kerja dari rumah (melaksanakan pekerjaan dari kediaman dan bukan dari kantor, karena alasan tertentu yang bersifat sementara, seperti penyebaran wabah)","contoh":[{"nomor":2,"teks":"ia memilih untuk -- atau kerja dari rumah"}]}]},{"id":"208169","nama":"KDR","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"katalog dalam terbitan (katalog yang digunakan sebagai alat bantu dalam menemukan subjek buku)","contoh":[{"nomor":2,"teks":"-- terletak di bagian awal buku"}]}]}]}
+{
+  "word": "kdr",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "183825",
+      "nama": "KDR",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerja dari rumah (melaksanakan pekerjaan dari kediaman dan bukan dari kantor, karena alasan tertentu yang bersifat sementara, seperti penyebaran wabah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memilih untuk -- atau kerja dari rumah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "208169",
+      "nama": "KDR",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "katalog dalam terbitan (katalog yang digunakan sebagai alat bantu dalam menemukan subjek buku)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- terletak di bagian awal buku"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

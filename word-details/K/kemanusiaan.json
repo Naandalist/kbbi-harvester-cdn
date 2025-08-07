@@ -1,1 +1,60 @@
-{"word":"kemanusiaan","authenticated":true,"entries":[{"id":"52239","nama":"ke.ma.nu.si.a.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sifat-sifat manusia","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal manusia","contoh":[{"nomor":2,"teks":"perasaan ~ kita senantiasa mencegah kita melakukan tindakan terkutuk itu"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"sifat yang melandasi hubungan antarmanusia","contoh":[]}],"rootWord":"manusia"}]}
+{
+  "word": "kemanusiaan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "52239",
+      "nama": "ke.ma.nu.si.a.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sifat-sifat manusia",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perasaan ~ kita senantiasa mencegah kita melakukan tindakan terkutuk itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sifat yang melandasi hubungan antarmanusia",
+          "contoh": []
+        }
+      ],
+      "rootWord": "manusia"
+    }
+  ]
+}

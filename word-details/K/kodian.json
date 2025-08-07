@@ -1,1 +1,60 @@
-{"word":"kodian","authenticated":true,"entries":[{"id":"42498","nama":"ko.di.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hasil menghitung; yang dijual (dikeluarkan, diproduksi) dalam jumlah besar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kurang baik buatannya (tentang barang dagangan); cacat","contoh":[{"nomor":2,"teks":"kemeja ~ itu dijual dengan harga lebih murah"}]},{"nomor":"3","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"berkodi-kodi","contoh":[]}],"rootWord":"kodi"}]}
+{
+  "word": "kodian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42498",
+      "nama": "ko.di.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil menghitung; yang dijual (dikeluarkan, diproduksi) dalam jumlah besar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang baik buatannya (tentang barang dagangan); cacat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemeja ~ itu dijual dengan harga lebih murah"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkodi-kodi",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kodi"
+    }
+  ]
+}

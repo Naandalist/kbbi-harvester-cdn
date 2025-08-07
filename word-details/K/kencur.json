@@ -1,1 +1,101 @@
-{"word":"kencur","authenticated":true,"entries":[{"id":"39743","nama":"ken.cur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"terna berimpang yang berdaun hijau muda lonjong melebar, berbunga putih atau ungu, rimpangnya berkulit cokelat, berdaging putih, beraroma khas biasanya digunakan sebagai bahan rempah〔Kaempferia galanga〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"umbi kencur","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"belum banyak pengalaman; belum banyak mengetahui dunia luar","contoh":[{"nomor":2,"teks":"anak itu masih bau -- belum tahu liku-liku dunia ini"}]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"belum dewasa; di bawah umur","contoh":[{"nomor":2,"teks":"anak masih bau -- sudah berpacaran"}]}],"etimologi":{"text":"[Jawa Kuno kěcur 'kencur, Kaempferia galanga']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":["kencur hitam","kencur hutan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kencur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39743",
+      "nama": "ken.cur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terna berimpang yang berdaun hijau muda lonjong melebar, berbunga putih atau ungu, rimpangnya berkulit cokelat, berdaging putih, beraroma khas biasanya digunakan sebagai bahan rempah〔Kaempferia galanga〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "umbi kencur",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum banyak pengalaman; belum banyak mengetahui dunia luar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu masih bau -- belum tahu liku-liku dunia ini"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belum dewasa; di bawah umur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak masih bau -- sudah berpacaran"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěcur 'kencur, Kaempferia galanga']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kencur hitam",
+          "kencur hutan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

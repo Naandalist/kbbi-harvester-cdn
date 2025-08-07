@@ -1,1 +1,60 @@
-{"word":"kontan","authenticated":true,"entries":[{"id":"43376","nama":"kon.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"tunai (tentang pembayaran)","contoh":[{"nomor":2,"teks":"membayar --"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"pada ketika itu juga; langsung sekaligus","contoh":[{"nomor":2,"teks":"begitu musuhnya datang, -- diusirnya"}]}],"terkait":{"kataTurunan":["mengontan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kontan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43376",
+      "nama": "kon.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tunai (tentang pembayaran)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "membayar --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pada ketika itu juga; langsung sekaligus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "begitu musuhnya datang, -- diusirnya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengontan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

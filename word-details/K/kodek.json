@@ -1,1 +1,59 @@
-{"word":"kodek","authenticated":true,"entries":[{"id":"42494","nama":"ko.dek","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perangkat yang mengodekan dan mendekodekan sinyal elektronik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"sirkuit terpadu atau keping yang melakukan konversi dari analog ke digital dan sebaliknya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"sarung; rok; bawahan","contoh":[]}]}]}
+{
+  "word": "kodek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42494",
+      "nama": "ko.dek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perangkat yang mengodekan dan mendekodekan sinyal elektronik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sirkuit terpadu atau keping yang melakukan konversi dari analog ke digital dan sebaliknya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sarung; rok; bawahan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

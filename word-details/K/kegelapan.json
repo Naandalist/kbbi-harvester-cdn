@@ -1,1 +1,90 @@
-{"word":"kegelapan","authenticated":true,"entries":[{"id":"25255","nama":"ke.ge.lap.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertimpa (mengalami) gelap (malam); kemalaman","contoh":[{"nomor":2,"teks":"karena kendaraannya mogok, terpaksa ia pulang ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat dan sebagainya yang gelap","contoh":[{"nomor":2,"teks":"berbahaya berjalan sendiri di ~"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kericuhan; kesulitan mencari jalan pemecahan","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"terlalu gelap (tentang warna)","contoh":[]}],"rootWord":"gelap","terkait":{"kataTurunan":[],"gabunganKata":["kegelapan batin"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kegelapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25255",
+      "nama": "ke.ge.lap.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertimpa (mengalami) gelap (malam); kemalaman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena kendaraannya mogok, terpaksa ia pulang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat dan sebagainya yang gelap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berbahaya berjalan sendiri di ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kericuhan; kesulitan mencari jalan pemecahan",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu gelap (tentang warna)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "gelap",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kegelapan batin"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

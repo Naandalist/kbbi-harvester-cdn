@@ -1,1 +1,56 @@
-{"word":"kolang-kaling","authenticated":true,"entries":[{"id":"42669","nama":"ko.lang-ka.ling","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buah enau (yang sudah dikupas), bentuknya kecil agak bulat, berwarna putih bening, untuk bahan campuran kolak, es campur, dan sebagainya","contoh":[]}]},{"id":"42670","nama":"ko.lang-ka.ling","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pulang pergi; ulang-alik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(bergerak) naik turun","contoh":[]}]}]}
+{
+  "word": "kolang-kaling",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42669",
+      "nama": "ko.lang-ka.ling",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buah enau (yang sudah dikupas), bentuknya kecil agak bulat, berwarna putih bening, untuk bahan campuran kolak, es campur, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "42670",
+      "nama": "ko.lang-ka.ling",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pulang pergi; ulang-alik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(bergerak) naik turun",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

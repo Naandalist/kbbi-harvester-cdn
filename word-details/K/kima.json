@@ -1,1 +1,99 @@
-{"word":"kima","authenticated":true,"entries":[{"id":"41791","nama":"ki.ma","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"siput besar〔Chama gigas〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kulit lokan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kima gebang","kima kelereng"],"peribahasa":[],"idiom":[]}},{"id":"167426","nama":"ki.ma","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mil","nama":"Kemiliteran","tipe":"lainnya"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"kompi markas","contoh":[]}]},{"id":"234202","nama":"ki.ma","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bgk","nama":"Bungku","tipe":"lainnya"}],"definisi":"karang yang cangkangnya berbentuk mirip kipas setengah lingkaran, bibirnya bergerigi","contoh":[]}]}]}
+{
+  "word": "kima",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41791",
+      "nama": "ki.ma",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siput besar〔Chama gigas〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kulit lokan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kima gebang",
+          "kima kelereng"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "167426",
+      "nama": "ki.ma",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mil",
+              "nama": "Kemiliteran",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kompi markas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "234202",
+      "nama": "ki.ma",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bgk",
+              "nama": "Bungku",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "karang yang cangkangnya berbentuk mirip kipas setengah lingkaran, bibirnya bergerigi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,145 @@
-{"word":"kodok","authenticated":true,"entries":[{"id":"42504","nama":"ko.dok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"katak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mobil kecil merek VW (Volkswagen)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kodok 'kodok']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kodok-kodokan","mengodok"],"gabunganKata":["kodok buduk","kodok gastrik broder","kodok hijau","kodok mata biru","kodok merah","kodok puru","kodok sawah","kodok setan","kodok ungaran"],"peribahasa":["kodok dapat bunga sekuntum","seperti kodok ditimpa kemarau"],"idiom":[]}},{"id":"42510","nama":"ko.dok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"raba-raba","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kodok 'kodok']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["mengodok"],"gabunganKata":[],"peribahasa":["kodok dapat bunga sekuntum","seperti kodok ditimpa kemarau"],"idiom":[]}},{"id":"288167","nama":"ko.dok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"ukuran panjang dari ujung jari sampai ketiak","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kodok 'kodok']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kodok dapat bunga sekuntum","seperti kodok ditimpa kemarau"],"idiom":[]}}]}
+{
+  "word": "kodok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42504",
+      "nama": "ko.dok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "katak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mobil kecil merek VW (Volkswagen)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kodok 'kodok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kodok-kodokan",
+          "mengodok"
+        ],
+        "gabunganKata": [
+          "kodok buduk",
+          "kodok gastrik broder",
+          "kodok hijau",
+          "kodok mata biru",
+          "kodok merah",
+          "kodok puru",
+          "kodok sawah",
+          "kodok setan",
+          "kodok ungaran"
+        ],
+        "peribahasa": [
+          "kodok dapat bunga sekuntum",
+          "seperti kodok ditimpa kemarau"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "42510",
+      "nama": "ko.dok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "raba-raba",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kodok 'kodok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengodok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kodok dapat bunga sekuntum",
+          "seperti kodok ditimpa kemarau"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "288167",
+      "nama": "ko.dok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ukuran panjang dari ujung jari sampai ketiak",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kodok 'kodok']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kodok dapat bunga sekuntum",
+          "seperti kodok ditimpa kemarau"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

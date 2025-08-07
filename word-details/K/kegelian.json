@@ -1,1 +1,53 @@
-{"word":"kegelian","authenticated":true,"entries":[{"id":"25460","nama":"ke.ge.li.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal geli (hati); rasa geli hati; rasa hendak tertawa","contoh":[{"nomor":2,"teks":"~ku tidak habis-habisnya melihat tingkahnya yang lucu itu"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sangat geli","contoh":[{"nomor":2,"teks":"ia tertawa ~"}]}],"rootWord":"geli¹"}]}
+{
+  "word": "kegelian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "25460",
+      "nama": "ke.ge.li.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal geli (hati); rasa geli hati; rasa hendak tertawa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ku tidak habis-habisnya melihat tingkahnya yang lucu itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat geli",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia tertawa ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "geli¹"
+    }
+  ]
+}

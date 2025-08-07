@@ -1,1 +1,88 @@
-{"word":"ketil","authenticated":true,"entries":[{"id":"41241","nama":"ke.til","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"potong (iris, karat, robek, sayat) sedikit-sedikit","contoh":[]}],"terkait":{"kataTurunan":["berketil-ketil","mengetil","seketil"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"215298","nama":"ke.til","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"mencubit kecil","contoh":[]}]},{"id":"254256","nama":"ke.til","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"berputar tidak stabil (tentang gasing)","contoh":[{"nomor":2,"teks":"gasingku -- sehingga cepat berhenti berputar"}]}]}]}
+{
+  "word": "ketil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41241",
+      "nama": "ke.til",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "potong (iris, karat, robek, sayat) sedikit-sedikit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berketil-ketil",
+          "mengetil",
+          "seketil"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "215298",
+      "nama": "ke.til",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencubit kecil",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "254256",
+      "nama": "ke.til",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berputar tidak stabil (tentang gasing)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gasingku -- sehingga cepat berhenti berputar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,103 @@
-{"word":"kutil","authenticated":true,"entries":[{"id":"45451","nama":"ku.til","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bintil merah kecil, seperti jerawat pada kulit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sisa kecil kelapa yang diparut","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kutil 'menderita bintil-bintil']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kutilan","mengutil","pengutil","sekutil"],"gabunganKata":["kutil dubur","kutil kelamin","kutil kemaluan","kutil pikun","kutil plantar","kutil jumput"],"peribahasa":[],"idiom":[]}},{"id":"45453","nama":"ku.til","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"ambil sedikit-sedikit","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kutil 'menderita bintil-bintil']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["mengutil","pengutil","sekutil"],"gabunganKata":["kutil jumput"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kutil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45451",
+      "nama": "ku.til",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bintil merah kecil, seperti jerawat pada kulit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sisa kecil kelapa yang diparut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kutil 'menderita bintil-bintil']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kutilan",
+          "mengutil",
+          "pengutil",
+          "sekutil"
+        ],
+        "gabunganKata": [
+          "kutil dubur",
+          "kutil kelamin",
+          "kutil kemaluan",
+          "kutil pikun",
+          "kutil plantar",
+          "kutil jumput"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "45453",
+      "nama": "ku.til",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ambil sedikit-sedikit",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kutil 'menderita bintil-bintil']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengutil",
+          "pengutil",
+          "sekutil"
+        ],
+        "gabunganKata": [
+          "kutil jumput"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

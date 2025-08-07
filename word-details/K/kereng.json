@@ -1,1 +1,100 @@
-{"word":"kereng","authenticated":true,"entries":[{"id":"40419","nama":"ke.reng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"wadah ikan tangkapan, dibuat dari bambu yang dianyam jarang-jarang","contoh":[]}]},{"id":"130511","nama":"ke.reng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mp","nama":"Massenrengpulu","tipe":"lainnya"}],"definisi":"terlihat tulang rusuknya karena terlalu kurus","contoh":[]}]},{"id":"40418","nama":"ke.reng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"keras segala perintahnya (terhadap anak dan sebagainya); garang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"hitam pekat (tentang pensil dan sebagainya); tebal (sehingga tampak seperti orang pemarah)","contoh":[{"nomor":2,"teks":"hidungnya mancung, alisnya --"}]}]}]}
+{
+  "word": "kereng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40419",
+      "nama": "ke.reng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah ikan tangkapan, dibuat dari bambu yang dianyam jarang-jarang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "130511",
+      "nama": "ke.reng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mp",
+              "nama": "Massenrengpulu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terlihat tulang rusuknya karena terlalu kurus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "40418",
+      "nama": "ke.reng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keras segala perintahnya (terhadap anak dan sebagainya); garang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hitam pekat (tentang pensil dan sebagainya); tebal (sehingga tampak seperti orang pemarah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hidungnya mancung, alisnya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

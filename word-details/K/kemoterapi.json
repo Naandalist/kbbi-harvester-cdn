@@ -1,1 +1,61 @@
-{"word":"kemoterapi","authenticated":true,"entries":[{"id":"39556","nama":"ke.mo.te.ra.pi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"pencegahan dan penyembuhan terhadap suatu penyakit dengan memasukkan bahan kimia ke dalam tubuh","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"pengobatan dengan menggunakan zat-zat kimiawi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kemoterapi adjuvan","kemoterapi induksi","kemoterapi intravena","kemoterapi neoadjuvan","kemoterapi oral","kemoterapi paliatif","kemoterapi sitotoksik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kemoterapi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39556",
+      "nama": "ke.mo.te.ra.pi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pencegahan dan penyembuhan terhadap suatu penyakit dengan memasukkan bahan kimia ke dalam tubuh",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengobatan dengan menggunakan zat-zat kimiawi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kemoterapi adjuvan",
+          "kemoterapi induksi",
+          "kemoterapi intravena",
+          "kemoterapi neoadjuvan",
+          "kemoterapi oral",
+          "kemoterapi paliatif",
+          "kemoterapi sitotoksik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

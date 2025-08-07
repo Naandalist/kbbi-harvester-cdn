@@ -1,1 +1,49 @@
-{"word":"kambu","authenticated":true,"entries":[{"id":"36396","nama":"kam.bu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bakul","contoh":[]}]},{"id":"187675","nama":"kam.bu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Me","nama":"Moronene","tipe":"lainnya"}],"definisi":"kaki serangga","contoh":[]}]}]}
+{
+  "word": "kambu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36396",
+      "nama": "kam.bu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bakul",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "187675",
+      "nama": "kam.bu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Me",
+              "nama": "Moronene",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kaki serangga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

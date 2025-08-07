@@ -1,1 +1,57 @@
-{"word":"kabupaten","authenticated":true,"entries":[{"id":"35476","nama":"ka.bu.pa.ten","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daerah swatantra tingkat II yang dikepalai oleh bupati, setingkat dengan kota (madya), merupakan bagian langsung dari provinsi yang terdiri atas beberapa kecamatan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kantor tempat kerja bupati","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rumah tempat tinggal bupati","contoh":[]}],"terkait":{"kataTurunan":["sekabupaten"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kabupaten",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35476",
+      "nama": "ka.bu.pa.ten",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daerah swatantra tingkat II yang dikepalai oleh bupati, setingkat dengan kota (madya), merupakan bagian langsung dari provinsi yang terdiri atas beberapa kecamatan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kantor tempat kerja bupati",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rumah tempat tinggal bupati",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "sekabupaten"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

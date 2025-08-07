@@ -1,1 +1,61 @@
-{"word":"kertau","authenticated":true,"entries":[{"id":"40904","nama":"ker.tau","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"andalas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"murbei","contoh":[]}]},{"id":"40905","nama":"ker.tau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"roh jahat","contoh":[]}]}]}
+{
+  "word": "kertau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40904",
+      "nama": "ker.tau",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "andalas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "murbei",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "40905",
+      "nama": "ker.tau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roh jahat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

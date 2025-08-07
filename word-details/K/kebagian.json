@@ -1,1 +1,40 @@
-{"word":"kebagian","authenticated":true,"entries":[{"id":"6776","nama":"ke.ba.gi.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"mendapat (memperoleh) bagian","contoh":[{"nomor":2,"teks":"saya hanya ~ seribu rupiah"},{"nomor":4,"teks":"yang datang belakangan tidak ~"}]}],"rootWord":"bagi²"}]}
+{
+  "word": "kebagian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6776",
+      "nama": "ke.ba.gi.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendapat (memperoleh) bagian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya hanya ~ seribu rupiah"
+            },
+            {
+              "nomor": 4,
+              "teks": "yang datang belakangan tidak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bagi²"
+    }
+  ]
+}

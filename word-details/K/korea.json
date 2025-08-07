@@ -1,1 +1,73 @@
-{"word":"korea","authenticated":true,"entries":[{"id":"213526","nama":"ko.re.a","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"masyarakat miskin yang memiliki perjuangan luar biasa untuk keluar dari belenggu kemiskinan","contoh":[]}]},{"id":"215497","nama":"ko.re.a","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"kelainan saraf otot yang menyebabkan gerakan tubuh yang tidak disadari dan tidak terkendali","contoh":[]}]},{"id":"197432","nama":"Ko.re.a","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan di Korea Utara dan Korea Selatan","contoh":[]}]}]}
+{
+  "word": "korea",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "213526",
+      "nama": "ko.re.a",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "masyarakat miskin yang memiliki perjuangan luar biasa untuk keluar dari belenggu kemiskinan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215497",
+      "nama": "ko.re.a",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kelainan saraf otot yang menyebabkan gerakan tubuh yang tidak disadari dan tidak terkendali",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "197432",
+      "nama": "Ko.re.a",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan di Korea Utara dan Korea Selatan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

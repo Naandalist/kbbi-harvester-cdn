@@ -1,1 +1,62 @@
-{"word":"kondang","authenticated":true,"entries":[{"id":"43073","nama":"kon.dang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terkenal; ternama","contoh":[{"nomor":2,"teks":"penyair dan dramawan -- itu tampaknya masih menyimpan karisma"}]}],"terkait":{"kataTurunan":["terkondang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"227882","nama":"kon.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kuning muda (tentang warna bulu hewan atau buah)","contoh":[]}]}]}
+{
+  "word": "kondang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43073",
+      "nama": "kon.dang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkenal; ternama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyair dan dramawan -- itu tampaknya masih menyimpan karisma"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terkondang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227882",
+      "nama": "kon.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kuning muda (tentang warna bulu hewan atau buah)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

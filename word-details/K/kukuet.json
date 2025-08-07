@@ -1,1 +1,115 @@
-{"word":"kukuet","authenticated":true,"entries":[{"id":"1","nama":"ku.kuet","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sangat erat saling bergandengan (ttg berpegangan tangan, berangkulan, dan sebagainya)","contoh":[{"nomor":1,"teks":"kedua tangannya -- dipegang orang"},{"nomor":2,"teks":"orang itu berjalan -- di samping pengantin"}]}],"rootWord":"kukuetkukuet"},{"id":"2","nama":"ku.kuet","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pegangan yang sangat erat","contoh":[{"nomor":1,"teks":"-- tangan kadang-kadang sangat diperlukan bagi seseorang"}]}],"rootWord":"kukuetkukuet"},{"id":"3","nama":"ku.kuet","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memegang atau menarik dengan sangat erat","contoh":[{"nomor":1,"teks":"saya -- kakaknya supaya tidak pergi"}]}],"rootWord":"kukuetkukuet"},{"id":"4","nama":"ku.kuet","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"dengan sangat erat","contoh":[{"nomor":1,"teks":"ia memeluk anaknya dengan --"}]}],"rootWord":"kukuetkukuet"}]}
+{
+  "word": "kukuet",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ku.kuet",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat erat saling bergandengan (ttg berpegangan tangan, berangkulan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "kedua tangannya -- dipegang orang"
+            },
+            {
+              "nomor": 2,
+              "teks": "orang itu berjalan -- di samping pengantin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kukuetkukuet"
+    },
+    {
+      "id": "2",
+      "nama": "ku.kuet",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pegangan yang sangat erat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "-- tangan kadang-kadang sangat diperlukan bagi seseorang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kukuetkukuet"
+    },
+    {
+      "id": "3",
+      "nama": "ku.kuet",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memegang atau menarik dengan sangat erat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "saya -- kakaknya supaya tidak pergi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kukuetkukuet"
+    },
+    {
+      "id": "4",
+      "nama": "ku.kuet",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan sangat erat",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "ia memeluk anaknya dengan --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kukuetkukuet"
+    }
+  ]
+}

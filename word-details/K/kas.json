@@ -1,1 +1,174 @@
-{"word":"kas","authenticated":true,"entries":[{"id":"37409","nama":"kas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat menyimpan uang","contoh":[{"nomor":2,"teks":"uang iuran sudah dimasukkan ke dalam --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat membayar dan menerima uang","contoh":[{"nomor":2,"teks":"-- dibuka setiap hari dari pukul 08.00 hingga pukul 12.00"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keluar masuknya uang","contoh":[{"nomor":2,"teks":"buku catatan --"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["kas besar","kas daerah","kas desa","kas haji","kas harian","kas kecil","kas keliling","kas keluar","kas kredit","kas kurang","kas lebih","kas negara","kas opname","kas terkomputerisasi"],"peribahasa":[],"idiom":[]}},{"id":"37416","nama":"kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peti kayu untuk mengirimkan barang","contoh":[{"nomor":2,"teks":"-- itu jangan dibuang karena akan dibuat kandang ayam"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bak (wadah) tempat mesin arloji beserta tutupnya","contoh":[{"nomor":2,"teks":"kemarin arloji saya jatuh sehingga --nya retak"}]}]},{"id":"190692","nama":"kas","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klb","nama":"Kalabra","tipe":"lainnya"}],"definisi":"daun yang digunakan sebagai pewarna merah alami","contoh":[]}]},{"id":"213052","nama":"KAS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Kerajaan Arab Saudi","contoh":[]}]}]}
+{
+  "word": "kas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37409",
+      "nama": "kas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat menyimpan uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang iuran sudah dimasukkan ke dalam --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat membayar dan menerima uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dibuka setiap hari dari pukul 08.00 hingga pukul 12.00"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar masuknya uang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku catatan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kas besar",
+          "kas daerah",
+          "kas desa",
+          "kas haji",
+          "kas harian",
+          "kas kecil",
+          "kas keliling",
+          "kas keluar",
+          "kas kredit",
+          "kas kurang",
+          "kas lebih",
+          "kas negara",
+          "kas opname",
+          "kas terkomputerisasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "37416",
+      "nama": "kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peti kayu untuk mengirimkan barang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- itu jangan dibuang karena akan dibuat kandang ayam"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bak (wadah) tempat mesin arloji beserta tutupnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemarin arloji saya jatuh sehingga --nya retak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "190692",
+      "nama": "kas",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klb",
+              "nama": "Kalabra",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun yang digunakan sebagai pewarna merah alami",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "213052",
+      "nama": "KAS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kerajaan Arab Saudi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

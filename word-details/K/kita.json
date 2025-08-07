@@ -1,1 +1,62 @@
-{"word":"kita","authenticated":true,"entries":[{"id":"42125","nama":"ki.ta","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"pronomina persona pertama jamak, yang berbicara bersama dengan orang lain termasuk yang diajak bicara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"saya","contoh":[]}],"terkait":{"kataTurunan":["kekitaan"],"gabunganKata":["kita orang","kita sama kita"],"peribahasa":["asak kata kita, angsur kata dia","bagai bertemu alu dengan lesung, beras kita yang terserak, ayam orang yang kenyang","hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita","isi lemak dapat ke orang, tulang bulu pulang ke kita","kerja raja dijunjung, kerja kita dikelek","kita di pangkal merawal dia di ujung merawal","kita semua mati, tetapi kubur masing-masing","minyak duyung perendang duyung (minyak kita jua yang digorengkannya)"],"idiom":[]}}]}
+{
+  "word": "kita",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42125",
+      "nama": "ki.ta",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pronomina persona pertama jamak, yang berbicara bersama dengan orang lain termasuk yang diajak bicara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kekitaan"
+        ],
+        "gabunganKata": [
+          "kita orang",
+          "kita sama kita"
+        ],
+        "peribahasa": [
+          "asak kata kita, angsur kata dia",
+          "bagai bertemu alu dengan lesung, beras kita yang terserak, ayam orang yang kenyang",
+          "hujan keris lembing di negeri kita, hujan emas perak di negeri orang, baik jua di negeri kita",
+          "isi lemak dapat ke orang, tulang bulu pulang ke kita",
+          "kerja raja dijunjung, kerja kita dikelek",
+          "kita di pangkal merawal dia di ujung merawal",
+          "kita semua mati, tetapi kubur masing-masing",
+          "minyak duyung perendang duyung (minyak kita jua yang digorengkannya)"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

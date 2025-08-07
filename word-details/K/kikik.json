@@ -1,1 +1,84 @@
-{"word":"kikik","authenticated":true,"entries":[{"id":"41649","nama":"ki.kik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi ‘kik, kik’ seperti orang tertawa dengan tenggorok tertekan","contoh":[]}],"terkait":{"kataTurunan":["berkikikan","kikikan","mengikik","terkikik-kikik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"253316","nama":"ki.kik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Rt","nama":"Rote","tipe":"lainnya"}],"definisi":"sikat yang terbuat dari pelepah pohon lontar yang dikerat ujungnya menjadi serat lembut menyerupai kuas, digunakan untuk membersihkan haik","contoh":[]}]},{"id":"259195","nama":"ki.kik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"stoples kecil yang terbuat dari anyaman daun bengkuang, digunakan untuk tempat gula atau garam","contoh":[]}]}]}
+{
+  "word": "kikik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41649",
+      "nama": "ki.kik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi ‘kik, kik’ seperti orang tertawa dengan tenggorok tertekan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkikikan",
+          "kikikan",
+          "mengikik",
+          "terkikik-kikik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "253316",
+      "nama": "ki.kik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Rt",
+              "nama": "Rote",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sikat yang terbuat dari pelepah pohon lontar yang dikerat ujungnya menjadi serat lembut menyerupai kuas, digunakan untuk membersihkan haik",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259195",
+      "nama": "ki.kik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "stoples kecil yang terbuat dari anyaman daun bengkuang, digunakan untuk tempat gula atau garam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,111 @@
-{"word":"kejam","authenticated":true,"entries":[{"id":"38525","nama":"ke.jam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak menaruh belas kasihan; bengis; zalim","contoh":[{"nomor":2,"teks":"ketika berkuasa, pemimpin sangat -- terhadap rakyatnya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat kikir","contoh":[{"nomor":2,"teks":"majikan itu sangat --, tidak mau menaikkan upah buruhnya barang sedikit juga"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak menaruh belas kasihan; bengis; zalim; brutal","contoh":[{"nomor":2,"teks":"ketika berkuasa, pemimpin sangat -- terhadap rakyatnya"}]}],"terkait":{"kataTurunan":["kekejaman","mengejami","terkejam (1)","mengejam","mengejamkan","terkejam"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"38528","nama":"ke.jam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertutup rapat (tentang mata); pejam","contoh":[{"nomor":2,"teks":"sungguhpun setiap hari matanya --, ia tidak tidur"}]}],"terkait":{"kataTurunan":["mengejam","mengejamkan","terkejam"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kejam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38525",
+      "nama": "ke.jam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menaruh belas kasihan; bengis; zalim",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika berkuasa, pemimpin sangat -- terhadap rakyatnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat kikir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "majikan itu sangat --, tidak mau menaikkan upah buruhnya barang sedikit juga"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak menaruh belas kasihan; bengis; zalim; brutal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika berkuasa, pemimpin sangat -- terhadap rakyatnya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kekejaman",
+          "mengejami",
+          "terkejam (1)",
+          "mengejam",
+          "mengejamkan",
+          "terkejam"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "38528",
+      "nama": "ke.jam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertutup rapat (tentang mata); pejam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sungguhpun setiap hari matanya --, ia tidak tidur"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengejam",
+          "mengejamkan",
+          "terkejam"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

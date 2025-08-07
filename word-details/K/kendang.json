@@ -1,1 +1,89 @@
-{"word":"kendang","authenticated":true,"entries":[{"id":"39767","nama":"ken.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gendang1","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kěṇḍaṅ 'kendang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berkendang","kendangan","mengendang","mengendangi","pengendang","sekendang"],"gabunganKata":["kendang bumbung","kendang ciblon","kendang indung","kendang jaipong","kendang kalih","kendang kempul"],"peribahasa":[],"idiom":[]}},{"id":"39769","nama":"ken.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemasan kertas berisi antara 480–500 helai; rim1","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kěṇḍaṅ 'kendang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["sekendang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kendang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39767",
+      "nama": "ken.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gendang1",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěṇḍaṅ 'kendang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkendang",
+          "kendangan",
+          "mengendang",
+          "mengendangi",
+          "pengendang",
+          "sekendang"
+        ],
+        "gabunganKata": [
+          "kendang bumbung",
+          "kendang ciblon",
+          "kendang indung",
+          "kendang jaipong",
+          "kendang kalih",
+          "kendang kempul"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39769",
+      "nama": "ken.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemasan kertas berisi antara 480–500 helai; rim1",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kěṇḍaṅ 'kendang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "sekendang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

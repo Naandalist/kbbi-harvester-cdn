@@ -1,1 +1,111 @@
-{"word":"kuliah","authenticated":true,"entries":[{"id":"44755","nama":"ku.li.ah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sekolah tinggi","contoh":[{"nomor":2,"teks":"-- guru"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pelajaran yang diberikan di perguruan tinggi","contoh":[{"nomor":2,"teks":"ia memberikan -- di Fakultas Ekonomi"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikuti pelajaran di perguruan tinggi","contoh":[{"nomor":2,"teks":"ia sedang --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ceramah: ceramah agama yang disampaikan setelah salat subuh","contoh":[{"nomor":2,"teks":"-- subuh"}]}],"etimologi":{"text":"[Arab كُلِّيَّةٌ kulliyyah n sg f 'keseluruhan; fakultas']","languages":["Arab"]},"terkait":{"kataTurunan":["berkuliah","kuliahan","menguliahi","perkuliahan"],"gabunganKata":["kuliah daring","kuliah kerja","kuliah kerja lapangan","kuliah kerja nyata","kuliah lapangan","kuliah luring","kuliah pakar","kuliah Ramadan","kuliah Subuh","kuliah tamu","kuliah terbuka","kuliah umum"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kuliah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44755",
+      "nama": "ku.li.ah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sekolah tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- guru"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pelajaran yang diberikan di perguruan tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memberikan -- di Fakultas Ekonomi"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikuti pelajaran di perguruan tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sedang --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ceramah: ceramah agama yang disampaikan setelah salat subuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- subuh"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab كُلِّيَّةٌ kulliyyah n sg f 'keseluruhan; fakultas']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkuliah",
+          "kuliahan",
+          "menguliahi",
+          "perkuliahan"
+        ],
+        "gabunganKata": [
+          "kuliah daring",
+          "kuliah kerja",
+          "kuliah kerja lapangan",
+          "kuliah kerja nyata",
+          "kuliah lapangan",
+          "kuliah luring",
+          "kuliah pakar",
+          "kuliah Ramadan",
+          "kuliah Subuh",
+          "kuliah tamu",
+          "kuliah terbuka",
+          "kuliah umum"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

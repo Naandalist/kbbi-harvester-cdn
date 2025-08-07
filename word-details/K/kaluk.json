@@ -1,1 +1,48 @@
-{"word":"kaluk","authenticated":true,"entries":[{"id":"36283","nama":"ka.luk","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ keluk","contoh":[]}]},{"id":"144606","nama":"ka.luk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tidur melingkar (meringkuk)","contoh":[{"nomor":2,"teks":"karena kedinginan, lelaki itu -- di geladak"}]}]}]}
+{
+  "word": "kaluk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36283",
+      "nama": "ka.luk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ keluk",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "144606",
+      "nama": "ka.luk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tidur melingkar (meringkuk)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena kedinginan, lelaki itu -- di geladak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

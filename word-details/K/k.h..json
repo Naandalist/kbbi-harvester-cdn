@@ -1,1 +1,54 @@
-{"word":"k.h.","authenticated":true,"entries":[{"id":"92564","nama":"K.H.","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kiai haji","contoh":[]}]},{"id":"200478","nama":"K.H.","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kedokteran hewan","contoh":[]}]}]}
+{
+  "word": "k.h.",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92564",
+      "nama": "K.H.",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kiai haji",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "200478",
+      "nama": "K.H.",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedokteran hewan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

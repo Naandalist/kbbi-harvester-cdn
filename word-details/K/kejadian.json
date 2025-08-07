@@ -1,1 +1,126 @@
-{"word":"kejadian","authenticated":true,"entries":[{"id":"32790","nama":"ke.ja.di.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal jadinya; kelahiran","contoh":[{"nomor":2,"teks":"buku itu memuat cerita tentang ~ alam semesta"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"jadi; tidak urung (tidak batal); dilangsungkan (tentang jual beli)","contoh":[{"nomor":2,"teks":"sesudah tawar-menawar, ~ juga akhirnya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"peristiwa dalam suatu drama yang dinyatakan dalam gerak dan dialog","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terjadi; sudah berlaku","contoh":[{"nomor":2,"teks":"keributan telah ~ di sana-sini"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peristiwa; sesuatu yang terjadi","contoh":[{"nomor":2,"teks":"kita harus dapat mengambil hikmah dari setiap ~ itu"}]}],"rootWord":"jadi¹","terkait":{"kataTurunan":[],"gabunganKata":["kejadian luar biasa","kejadian sentinel"],"peribahasa":[],"idiom":[]}},{"id":"271877","nama":"Ke.ja.di.an","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat kitab Kejadian","contoh":[]}]}]}
+{
+  "word": "kejadian",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32790",
+      "nama": "ke.ja.di.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal jadinya; kelahiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku itu memuat cerita tentang ~ alam semesta"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jadi; tidak urung (tidak batal); dilangsungkan (tentang jual beli)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sesudah tawar-menawar, ~ juga akhirnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "peristiwa dalam suatu drama yang dinyatakan dalam gerak dan dialog",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terjadi; sudah berlaku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keributan telah ~ di sana-sini"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peristiwa; sesuatu yang terjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus dapat mengambil hikmah dari setiap ~ itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jadi¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kejadian luar biasa",
+          "kejadian sentinel"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "271877",
+      "nama": "Ke.ja.di.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat kitab Kejadian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

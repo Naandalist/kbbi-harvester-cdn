@@ -1,1 +1,53 @@
-{"word":"kicu","authenticated":true,"entries":[{"id":"41601","nama":"ki.cu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kecoh; tipu","contoh":[{"nomor":2,"teks":"kena --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penipu","contoh":[]}],"terkait":{"kataTurunan":["mengicu","pengicu","pengicuan","terkicu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kicu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41601",
+      "nama": "ki.cu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecoh; tipu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kena --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penipu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengicu",
+          "pengicu",
+          "pengicuan",
+          "terkicu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

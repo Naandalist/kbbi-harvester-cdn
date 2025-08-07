@@ -1,1 +1,68 @@
-{"word":"kebetulan","authenticated":true,"entries":[{"id":"11053","nama":"ke.be.tul.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tidak dengan sengaja terjadi (bertemu, tertangkap, dan sebagainya)","contoh":[{"nomor":2,"teks":"kemarin, secara ~ kami bertemu dengan dia"},{"nomor":4,"teks":"penjahat yang sudah lama dicari itu tertangkap dengan cara ~ saja"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"tepat atau kena benar (dengan tidak sengaja)","contoh":[{"nomor":2,"teks":"ketika kebakaran itu terjadi, ~ ia ada di rumahnya"},{"nomor":4,"teks":"tendangannya ~ mengenai dada musuhnya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan yang terjadi secara tidak terduga","contoh":[]}],"rootWord":"betul"}]}
+{
+  "word": "kebetulan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11053",
+      "nama": "ke.be.tul.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dengan sengaja terjadi (bertemu, tertangkap, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kemarin, secara ~ kami bertemu dengan dia"
+            },
+            {
+              "nomor": 4,
+              "teks": "penjahat yang sudah lama dicari itu tertangkap dengan cara ~ saja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepat atau kena benar (dengan tidak sengaja)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika kebakaran itu terjadi, ~ ia ada di rumahnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "tendangannya ~ mengenai dada musuhnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan yang terjadi secara tidak terduga",
+          "contoh": []
+        }
+      ],
+      "rootWord": "betul"
+    }
+  ]
+}

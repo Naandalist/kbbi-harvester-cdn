@@ -1,1 +1,77 @@
-{"word":"kilah","authenticated":true,"entries":[{"id":"41680","nama":"ki.lah","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tipu daya; tipu muslihat","contoh":[{"nomor":2,"teks":"segala -- yang dijalankannya tidak memberi hasil yang diharapkan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alasan (yang dibuat-buat); dalih","contoh":[{"nomor":2,"teks":"itu semua hanya --"}]}],"terkait":{"kataTurunan":["berkilah","berkilah-kilah","mengilah","mengilah-ngilahkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"41685","nama":"ki.lah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"siput laut yang bertanduk","contoh":[]}]}]}
+{
+  "word": "kilah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41680",
+      "nama": "ki.lah",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tipu daya; tipu muslihat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "segala -- yang dijalankannya tidak memberi hasil yang diharapkan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alasan (yang dibuat-buat); dalih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "itu semua hanya --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkilah",
+          "berkilah-kilah",
+          "mengilah",
+          "mengilah-ngilahkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41685",
+      "nama": "ki.lah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siput laut yang bertanduk",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"kaitan","authenticated":true,"entries":[{"id":"35890","nama":"ka.it.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kait; gancu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"hubungan (sangkutan)","contoh":[{"nomor":2,"teks":"mungkin hal itu ada ~nya dengan peristiwa kemarin"}]}],"rootWord":"kait","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tali jangan putus, kaitan jangan rekah"],"idiom":[]}}]}
+{
+  "word": "kaitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35890",
+      "nama": "ka.it.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kait; gancu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hubungan (sangkutan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mungkin hal itu ada ~nya dengan peristiwa kemarin"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kait",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tali jangan putus, kaitan jangan rekah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

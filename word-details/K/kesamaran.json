@@ -1,1 +1,53 @@
-{"word":"kesamaran","authenticated":true,"entries":[{"id":"71586","nama":"ke.sa.mar.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kegelapan","contoh":[{"nomor":2,"teks":"perahu itu muncul dari balik ~ senja"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"perihal samar; ketidakjelasan; ketidakterangan","contoh":[{"nomor":2,"teks":"kesusastraan lama banyak mengandung ~ maksud sehingga sering menimbulkan perbedaan tafsiran"}]}],"rootWord":"samar¹"}]}
+{
+  "word": "kesamaran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "71586",
+      "nama": "ke.sa.mar.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kegelapan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu itu muncul dari balik ~ senja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal samar; ketidakjelasan; ketidakterangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesusastraan lama banyak mengandung ~ maksud sehingga sering menimbulkan perbedaan tafsiran"
+            }
+          ]
+        }
+      ],
+      "rootWord": "samar¹"
+    }
+  ]
+}

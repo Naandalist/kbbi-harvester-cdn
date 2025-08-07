@@ -1,1 +1,51 @@
-{"word":"kompilator","authenticated":true,"entries":[{"id":"42940","nama":"kom.pi.la.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang membuat kompilasi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"pengompilasi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kompilator bahasa","kompilator Java"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kompilator",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42940",
+      "nama": "kom.pi.la.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang membuat kompilasi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengompilasi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kompilator bahasa",
+          "kompilator Java"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

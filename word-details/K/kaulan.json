@@ -1,1 +1,43 @@
-{"word":"kaulan","authenticated":true,"entries":[{"id":"37860","nama":"ka.ul.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"membayar (melepas) kaul","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"bergembira (berpesta dan sebagainya) karena maksud tercapai","contoh":[]}],"rootWord":"kaul¹"}]}
+{
+  "word": "kaulan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37860",
+      "nama": "ka.ul.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "membayar (melepas) kaul",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergembira (berpesta dan sebagainya) karena maksud tercapai",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kaul¹"
+    }
+  ]
+}

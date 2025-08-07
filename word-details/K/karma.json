@@ -1,1 +1,58 @@
-{"word":"karma","authenticated":true,"entries":[{"id":"37274","nama":"kar.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbuatan manusia ketika hidup di dunia","contoh":[{"nomor":2,"teks":"hidup sebagai umat Tuhan itu sekadar melakukan darma dan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hukum sebab-akibat","contoh":[{"nomor":2,"teks":"-- bukan hanya menguasai manusia, melainkan juga merupakan suatu hukum mutlak dalam alam"}]}],"terkait":{"kataTurunan":["berkarma"],"gabunganKata":["karma kolektif","karma wasana"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "karma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37274",
+      "nama": "kar.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbuatan manusia ketika hidup di dunia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hidup sebagai umat Tuhan itu sekadar melakukan darma dan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hukum sebab-akibat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bukan hanya menguasai manusia, melainkan juga merupakan suatu hukum mutlak dalam alam"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkarma"
+        ],
+        "gabunganKata": [
+          "karma kolektif",
+          "karma wasana"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

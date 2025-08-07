@@ -1,1 +1,69 @@
-{"word":"kersang","authenticated":true,"entries":[{"id":"40837","nama":"ker.sang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kering tidak subur (tentang tanah); gersang","contoh":[{"nomor":2,"teks":"tanahnya --, tumbuhan tidak dapat hidup di atasnya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tegak kaku dan tidak lembut (tentang rambut)","contoh":[]}],"terkait":{"kataTurunan":["kekersangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"164054","nama":"ker.sang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kancing hiasan yang diberi permata","contoh":[]}]}]}
+{
+  "word": "kersang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40837",
+      "nama": "ker.sang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kering tidak subur (tentang tanah); gersang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanahnya --, tumbuhan tidak dapat hidup di atasnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tegak kaku dan tidak lembut (tentang rambut)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kekersangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "164054",
+      "nama": "ker.sang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kancing hiasan yang diberi permata",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

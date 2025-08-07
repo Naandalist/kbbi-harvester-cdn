@@ -1,1 +1,76 @@
-{"word":"ku-","authenticated":true,"entries":[{"id":"44233","nama":"ku-","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"klitik","nama":"-","tipe":"lainnya"}],"definisi":"(dari aku) pelaku","contoh":[{"nomor":2,"teks":"--ambil"},{"nomor":4,"teks":"--tangkap"}]},{"nomor":"2","kelasKata":[{"kode":"klitik","nama":"-","tipe":"lainnya"}],"definisi":"(dari aku) pemilik","contoh":[{"nomor":2,"teks":"rumah--"},{"nomor":4,"teks":"sepeda--"}]},{"nomor":"3","kelasKata":[{"kode":"klitik","nama":"-","tipe":"lainnya"}],"definisi":"(dari aku) tujuan","contoh":[{"nomor":2,"teks":"memukul--"},{"nomor":4,"teks":"menghampiri--"}]}]}]}
+{
+  "word": "ku-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44233",
+      "nama": "ku-",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "klitik",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(dari aku) pelaku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--ambil"
+            },
+            {
+              "nomor": 4,
+              "teks": "--tangkap"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "klitik",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(dari aku) pemilik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah--"
+            },
+            {
+              "nomor": 4,
+              "teks": "sepeda--"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "klitik",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "(dari aku) tujuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "memukul--"
+            },
+            {
+              "nomor": 4,
+              "teks": "menghampiri--"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

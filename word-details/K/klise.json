@@ -1,1 +1,102 @@
-{"word":"klise","authenticated":true,"entries":[{"id":"42325","nama":"kli.se","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gambar negatif pada film potret","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"keping atau pelat berisi gambar yang agak menonjol untuk dicetakkan dengan cetak tinggi","contoh":[{"nomor":2,"teks":"penyerahan barang cetakan bergambar itu disertai juga dengan --nya"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tiruan; hasil meniru","contoh":[]}],"terkait":{"kataTurunan":["keklisean","mengklise","pengklisean"],"gabunganKata":["klise berbintik","klise foto","klise garis"],"peribahasa":[],"idiom":[]}},{"id":"116745","nama":"kli.se","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"gagasan (ungkapan) yang terlalu sering dipakai","contoh":[]}]}]}
+{
+  "word": "klise",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42325",
+      "nama": "kli.se",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gambar negatif pada film potret",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "keping atau pelat berisi gambar yang agak menonjol untuk dicetakkan dengan cetak tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyerahan barang cetakan bergambar itu disertai juga dengan --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan; hasil meniru",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keklisean",
+          "mengklise",
+          "pengklisean"
+        ],
+        "gabunganKata": [
+          "klise berbintik",
+          "klise foto",
+          "klise garis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "116745",
+      "nama": "kli.se",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gagasan (ungkapan) yang terlalu sering dipakai",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

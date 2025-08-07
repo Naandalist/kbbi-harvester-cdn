@@ -1,1 +1,90 @@
-{"word":"kuyu","authenticated":true,"entries":[{"id":"45529","nama":"ku.yu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berseri; muram (muka) dan lesu; kusam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sedih","contoh":[{"nomor":2,"teks":"hati --"}]}]},{"id":"45530","nama":"ku.yu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"penakut","contoh":[]}]},{"id":"274211","nama":"ku.yu","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ldy","nama":"Lundayeh","tipe":"lainnya"}],"definisi":"sekelompok orang atau binatang yang berdesakan atau bergerak satu arah","contoh":[]}]}]}
+{
+  "word": "kuyu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45529",
+      "nama": "ku.yu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berseri; muram (muka) dan lesu; kusam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hati --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45530",
+      "nama": "ku.yu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penakut",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "274211",
+      "nama": "ku.yu",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ldy",
+              "nama": "Lundayeh",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sekelompok orang atau binatang yang berdesakan atau bergerak satu arah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

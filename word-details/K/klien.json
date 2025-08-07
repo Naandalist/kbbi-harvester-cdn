@@ -1,1 +1,95 @@
-{"word":"klien","authenticated":true,"entries":[{"id":"42276","nama":"kli.en","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"orang yang memperoleh bantuan hukum dari seorang pengacara dalam pembelaan perkara di pengadilan","contoh":[{"nomor":2,"teks":"pengacara itu menuntut perusahaan yang telah memalsukan merek dagang --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang membeli sesuatu atau memperoleh layanan (seperti kesehatan, konsultasi jiwa) secara tetap; pelanggan","contoh":[{"nomor":2,"teks":"ia sudah lama menjadi -- dokter itu"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["klien anak","klien pemasyarakatan","klien rujukan","klien olah pesan"],"peribahasa":[],"idiom":[]}},{"id":"99491","nama":"kli.en","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"komputer desktop atau stasiun kerja yang melekat pada jaringan dan bergantung pada satu atau beberapa server untuk beberapa sumber daya, yaitu berkas, peranti, dan layanan lainnya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["klien olah pesan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "klien",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42276",
+      "nama": "kli.en",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang memperoleh bantuan hukum dari seorang pengacara dalam pembelaan perkara di pengadilan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pengacara itu menuntut perusahaan yang telah memalsukan merek dagang --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang membeli sesuatu atau memperoleh layanan (seperti kesehatan, konsultasi jiwa) secara tetap; pelanggan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah lama menjadi -- dokter itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "klien anak",
+          "klien pemasyarakatan",
+          "klien rujukan",
+          "klien olah pesan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99491",
+      "nama": "kli.en",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "komputer desktop atau stasiun kerja yang melekat pada jaringan dan bergantung pada satu atau beberapa server untuk beberapa sumber daya, yaitu berkas, peranti, dan layanan lainnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "klien olah pesan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

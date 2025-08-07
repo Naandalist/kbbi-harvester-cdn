@@ -1,1 +1,91 @@
-{"word":"konsul","authenticated":true,"entries":[{"id":"43342","nama":"kon.sul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang diangkat dan ditugasi sebagai wakil pemerintah suatu negara dalam mengurus kepentingan perdagangan atau perihal warga negaranya di negara lain","contoh":[]}],"terkait":{"kataTurunan":["mengonsulkan"],"gabunganKata":["konsul jenderal"],"peribahasa":[],"idiom":[]}},{"id":"203847","nama":"kon.sul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"konsultasi","contoh":[{"nomor":2,"teks":"ada -- gratisnya juga"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"berkonsultasi","contoh":[{"nomor":2,"teks":"kami mau -- ke dokter"}]}]}]}
+{
+  "word": "konsul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43342",
+      "nama": "kon.sul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang diangkat dan ditugasi sebagai wakil pemerintah suatu negara dalam mengurus kepentingan perdagangan atau perihal warga negaranya di negara lain",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengonsulkan"
+        ],
+        "gabunganKata": [
+          "konsul jenderal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "203847",
+      "nama": "kon.sul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "konsultasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada -- gratisnya juga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkonsultasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami mau -- ke dokter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

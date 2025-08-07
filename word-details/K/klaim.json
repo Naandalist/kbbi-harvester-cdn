@@ -1,1 +1,75 @@
-{"word":"klaim","authenticated":true,"entries":[{"id":"42185","nama":"klaim","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tuntutan pengakuan atas suatu fakta bahwa seseorang berhak (memiliki atau mempunyai) atas sesuatu","contoh":[{"nomor":2,"teks":"pemerintah Indonesia akan mengajukan -- ganti rugi kepada pemilik kapal asing itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pernyataan tentang suatu fakta atau kebenaran sesuatu","contoh":[{"nomor":2,"teks":"ia mengajukan -- bahwa barang-barang elektronik itu miliknya"}]}],"terkait":{"kataTurunan":["mengeklaim","mengklaim","mengklaimkan","pengeklaim","pengeklaiman","pengklaim","pengklaiman"],"gabunganKata":["klaim akhir kontrak","klaim asuransi","klaim awal","klaim belum dibayar","klaim bonus","klaim bruto","klaim garansi","klaim gizi","klaim kematian","klaim palsu","klaim reasuransi","klaim suaka","klaim tertunda"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "klaim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42185",
+      "nama": "klaim",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tuntutan pengakuan atas suatu fakta bahwa seseorang berhak (memiliki atau mempunyai) atas sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemerintah Indonesia akan mengajukan -- ganti rugi kepada pemilik kapal asing itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pernyataan tentang suatu fakta atau kebenaran sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mengajukan -- bahwa barang-barang elektronik itu miliknya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengeklaim",
+          "mengklaim",
+          "mengklaimkan",
+          "pengeklaim",
+          "pengeklaiman",
+          "pengklaim",
+          "pengklaiman"
+        ],
+        "gabunganKata": [
+          "klaim akhir kontrak",
+          "klaim asuransi",
+          "klaim awal",
+          "klaim belum dibayar",
+          "klaim bonus",
+          "klaim bruto",
+          "klaim garansi",
+          "klaim gizi",
+          "klaim kematian",
+          "klaim palsu",
+          "klaim reasuransi",
+          "klaim suaka",
+          "klaim tertunda"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

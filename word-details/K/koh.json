@@ -1,1 +1,41 @@
-{"word":"koh","authenticated":true,"entries":[{"id":"42556","nama":"koh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"engkoh","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 哥 ko 'abang']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "koh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42556",
+      "nama": "koh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "engkoh",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 哥 ko 'abang']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

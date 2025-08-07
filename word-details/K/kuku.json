@@ -1,1 +1,191 @@
-{"word":"kuku","authenticated":true,"entries":[{"id":"44668","nama":"ku.ku","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"zat tanduk tipis yang tumbuh melekat pada ujung jari tangan atau kaki","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian ujung tangan (kaki), panjang-panjang dan tajam (terbentuk dari zat tanduk), pada ayam, kucing, harimau, dan sebagainya; cakar","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian ujung kaki kuda, kerbau, dan sebagainya yang besar dan keras (terbentuk dari zat tanduk)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat atau bagian perkakas yang bentuknya seperti cakar untuk mencakar","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kekuasaan","contoh":[{"nomor":2,"teks":"Belanda tidak pernah berhasil menanamkan --nya di daerah ini"}]}],"etimologi":{"text":"[Jawa Kuno kuku 'kuku']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berkuku","sekuku"],"gabunganKata":["kuku bajang","kuku belah","kuku kambing","kuku macan","kuku macan (2)","kuku macan (3)","kuku macan (4)","kuku maut","kuku palsu","kuku pancanaka","kuku sambung","kuku sauh","kuku tiang","kuku tunggal"],"peribahasa":["bagai inai dengan kuku","bagai kuku dengan daging","bagai kuku dengan isi","belum punya kuku, hendak mencubit","bergantung di ujung kuku","dibalun sebalun kuku, dibuka selebar alam","diberi kuku, hendak mencekam","diberi kuku, hendak mencengkam","hangat-hangat (suam-suam) kuku","inai tertepung, kuku tanggal","memerah santan di kuku","meremas santan di kuku","nyawa bergantung di ujung kuku","pepat kuku seperti bulan tiga hari","potong di kuku, rasa di daging","seperti Belanda minta tanah, diberi kuku hendak menggarut","seperti harimau menyembunyikan kuku"],"idiom":["belum seujung kuku","hangat-hangat kuku"]}},{"id":"247950","nama":"ku.ku","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"rantai dari besi yang diikat pada ujung jala bagian bawah, berfungsi sebagai pemberat dan penahan agar ikan yang terperangkap dalam jala tidak keluar saat diangkat","contoh":[{"nomor":2,"teks":"ikatan -- di ujung jala itu terlepas"}]}],"etimologi":{"text":"[Jawa Kuno kuku 'kuku']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai inai dengan kuku","bagai kuku dengan daging","bagai kuku dengan isi","belum punya kuku, hendak mencubit","bergantung di ujung kuku","dibalun sebalun kuku, dibuka selebar alam","diberi kuku, hendak mencekam","diberi kuku, hendak mencengkam","hangat-hangat (suam-suam) kuku","inai tertepung, kuku tanggal","memerah santan di kuku","meremas santan di kuku","nyawa bergantung di ujung kuku","pepat kuku seperti bulan tiga hari","potong di kuku, rasa di daging","seperti Belanda minta tanah, diberi kuku hendak menggarut","seperti harimau menyembunyikan kuku"],"idiom":["belum seujung kuku","hangat-hangat kuku"]}}]}
+{
+  "word": "kuku",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44668",
+      "nama": "ku.ku",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "zat tanduk tipis yang tumbuh melekat pada ujung jari tangan atau kaki",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian ujung tangan (kaki), panjang-panjang dan tajam (terbentuk dari zat tanduk), pada ayam, kucing, harimau, dan sebagainya; cakar",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian ujung kaki kuda, kerbau, dan sebagainya yang besar dan keras (terbentuk dari zat tanduk)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat atau bagian perkakas yang bentuknya seperti cakar untuk mencakar",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekuasaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Belanda tidak pernah berhasil menanamkan --nya di daerah ini"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kuku 'kuku']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkuku",
+          "sekuku"
+        ],
+        "gabunganKata": [
+          "kuku bajang",
+          "kuku belah",
+          "kuku kambing",
+          "kuku macan",
+          "kuku macan (2)",
+          "kuku macan (3)",
+          "kuku macan (4)",
+          "kuku maut",
+          "kuku palsu",
+          "kuku pancanaka",
+          "kuku sambung",
+          "kuku sauh",
+          "kuku tiang",
+          "kuku tunggal"
+        ],
+        "peribahasa": [
+          "bagai inai dengan kuku",
+          "bagai kuku dengan daging",
+          "bagai kuku dengan isi",
+          "belum punya kuku, hendak mencubit",
+          "bergantung di ujung kuku",
+          "dibalun sebalun kuku, dibuka selebar alam",
+          "diberi kuku, hendak mencekam",
+          "diberi kuku, hendak mencengkam",
+          "hangat-hangat (suam-suam) kuku",
+          "inai tertepung, kuku tanggal",
+          "memerah santan di kuku",
+          "meremas santan di kuku",
+          "nyawa bergantung di ujung kuku",
+          "pepat kuku seperti bulan tiga hari",
+          "potong di kuku, rasa di daging",
+          "seperti Belanda minta tanah, diberi kuku hendak menggarut",
+          "seperti harimau menyembunyikan kuku"
+        ],
+        "idiom": [
+          "belum seujung kuku",
+          "hangat-hangat kuku"
+        ]
+      }
+    },
+    {
+      "id": "247950",
+      "nama": "ku.ku",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rantai dari besi yang diikat pada ujung jala bagian bawah, berfungsi sebagai pemberat dan penahan agar ikan yang terperangkap dalam jala tidak keluar saat diangkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ikatan -- di ujung jala itu terlepas"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kuku 'kuku']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai inai dengan kuku",
+          "bagai kuku dengan daging",
+          "bagai kuku dengan isi",
+          "belum punya kuku, hendak mencubit",
+          "bergantung di ujung kuku",
+          "dibalun sebalun kuku, dibuka selebar alam",
+          "diberi kuku, hendak mencekam",
+          "diberi kuku, hendak mencengkam",
+          "hangat-hangat (suam-suam) kuku",
+          "inai tertepung, kuku tanggal",
+          "memerah santan di kuku",
+          "meremas santan di kuku",
+          "nyawa bergantung di ujung kuku",
+          "pepat kuku seperti bulan tiga hari",
+          "potong di kuku, rasa di daging",
+          "seperti Belanda minta tanah, diberi kuku hendak menggarut",
+          "seperti harimau menyembunyikan kuku"
+        ],
+        "idiom": [
+          "belum seujung kuku",
+          "hangat-hangat kuku"
+        ]
+      }
+    }
+  ]
+}

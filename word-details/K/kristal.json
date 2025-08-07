@@ -1,1 +1,81 @@
-{"word":"kristal","authenticated":true,"entries":[{"id":"44111","nama":"kris.tal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hablur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"unsur pembentukan batuan yang atomnya tersusun dan terikat oleh kekuatan intermolekuler sehingga menjadi padat","contoh":[]}],"terkait":{"kataTurunan":["berkristal","kekristalan","mengkristal","mengkristalkan","pengkristal","pengkristalan","terkristal"],"gabunganKata":["kristal cair","kristal Charcot-Leyden","kristal ionik","kristal kuarsa","kristal monoklin"],"peribahasa":[],"idiom":[]}},{"id":"93734","nama":"kris.tal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat jelas dan jernih (tentang suara)","contoh":[]}]}]}
+{
+  "word": "kristal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44111",
+      "nama": "kris.tal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hablur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "unsur pembentukan batuan yang atomnya tersusun dan terikat oleh kekuatan intermolekuler sehingga menjadi padat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkristal",
+          "kekristalan",
+          "mengkristal",
+          "mengkristalkan",
+          "pengkristal",
+          "pengkristalan",
+          "terkristal"
+        ],
+        "gabunganKata": [
+          "kristal cair",
+          "kristal Charcot-Leyden",
+          "kristal ionik",
+          "kristal kuarsa",
+          "kristal monoklin"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "93734",
+      "nama": "kris.tal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat jelas dan jernih (tentang suara)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

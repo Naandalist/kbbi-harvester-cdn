@@ -1,1 +1,49 @@
-{"word":"kroisan","authenticated":true,"entries":[{"id":"178490","nama":"kro.i.san","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"roti dari adonan pastri berlapis, bentuknya seperti bulan sabit, rasanya gurih","contoh":[]}]},{"id":"309681","nama":"kroi.san","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tsg","nama":"Minahasa Tonsawang","tipe":"lainnya"}],"definisi":"pengobatan tradisional untuk mengobati bitang dengan cara membuat salib pada telapak kaki menggunakan kayu api","contoh":[]}]}]}
+{
+  "word": "kroisan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "178490",
+      "nama": "kro.i.san",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roti dari adonan pastri berlapis, bentuknya seperti bulan sabit, rasanya gurih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "309681",
+      "nama": "kroi.san",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tsg",
+              "nama": "Minahasa Tonsawang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengobatan tradisional untuk mengobati bitang dengan cara membuat salib pada telapak kaki menggunakan kayu api",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

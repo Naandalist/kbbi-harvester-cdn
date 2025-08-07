@@ -1,1 +1,52 @@
-{"word":"konter","authenticated":true,"entries":[{"id":"43393","nama":"kon.ter","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lawan","contoh":[]}],"terkait":{"kataTurunan":["mengonter"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"43395","nama":"kon.ter","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gerai","contoh":[]}]}]}
+{
+  "word": "konter",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43393",
+      "nama": "kon.ter",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lawan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengonter"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "43395",
+      "nama": "kon.ter",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerai",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

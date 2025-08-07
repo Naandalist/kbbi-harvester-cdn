@@ -1,1 +1,199 @@
-{"word":"keluar","authenticated":true,"entries":[{"id":"39265","nama":"ke.lu.ar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergerak dari sebelah dalam ke sebelah luar","contoh":[{"nomor":2,"teks":"murid-murid disuruh -- dari kelas untuk berolahraga di lapangan sekolah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersembul","contoh":[{"nomor":2,"teks":"bunga teratai itu -- dari permukaan air"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menampakkan diri; timbul; muncul","contoh":[{"nomor":2,"teks":"pencuri itu -- dari tempat persembunyiannya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbit","contoh":[{"nomor":2,"teks":"surat kabar tidak -- hari ini"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlahir","contoh":[{"nomor":2,"teks":"kata-kata yang -- dari hati nurani"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pergi ke luar (rumah dan sebagainya)","contoh":[{"nomor":2,"teks":"ia baru saja --"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diumumkan","contoh":[{"nomor":2,"teks":"hasil ujian sudah --"}]},{"nomor":"8","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhenti dari perkumpulan (pekerjaan, sekolah, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia sudah -- dari perusahaan itu"}]},{"nomor":"9","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"muncul sebagai pemenang pertandingan dan sebagainya","contoh":[{"nomor":2,"teks":"ia -- sebagai pemenang pertama dalam lomba cipta puisi untuk tahun ini"}]}],"terkait":{"kataTurunan":["berkeluaran","keluaran","mengeluari","mengeluarkan","pengeluaran"],"gabunganKata":["keluar batas","keluar flek","keluar masuk","keluar permainan","keluar ruangan","keluar sekolah"],"peribahasa":["angkat batang, keluar cacing gelang-gelang","bacang dibungkus, tentu baunya keluar juga","keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil)","masuk dari kuping kiri, keluar lewat kuping kanan","masuk ke telinga kanan, keluar ke telinga kiri","masuk lima, keluar sepuluh","masuk meliang penjahit, keluar meliang tabuh","masuk tak genap, keluar tak ganjil","masuk tidak manjadi laba, keluar tidak membawa rugi","masuk tiga, keluar empat"],"idiom":["keluar keringat kering","keluar tanduknya"]}}]}
+{
+  "word": "keluar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39265",
+      "nama": "ke.lu.ar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergerak dari sebelah dalam ke sebelah luar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "murid-murid disuruh -- dari kelas untuk berolahraga di lapangan sekolah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersembul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunga teratai itu -- dari permukaan air"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menampakkan diri; timbul; muncul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pencuri itu -- dari tempat persembunyiannya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "surat kabar tidak -- hari ini"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlahir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-kata yang -- dari hati nurani"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pergi ke luar (rumah dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia baru saja --"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diumumkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil ujian sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti dari perkumpulan (pekerjaan, sekolah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah -- dari perusahaan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "9",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "muncul sebagai pemenang pertandingan dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- sebagai pemenang pertama dalam lomba cipta puisi untuk tahun ini"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkeluaran",
+          "keluaran",
+          "mengeluari",
+          "mengeluarkan",
+          "pengeluaran"
+        ],
+        "gabunganKata": [
+          "keluar batas",
+          "keluar flek",
+          "keluar masuk",
+          "keluar permainan",
+          "keluar ruangan",
+          "keluar sekolah"
+        ],
+        "peribahasa": [
+          "angkat batang, keluar cacing gelang-gelang",
+          "bacang dibungkus, tentu baunya keluar juga",
+          "keluar tak mengganjilkan, masuk tak menggenapkan (masuk tidak genap, keluar tidak ganjil)",
+          "masuk dari kuping kiri, keluar lewat kuping kanan",
+          "masuk ke telinga kanan, keluar ke telinga kiri",
+          "masuk lima, keluar sepuluh",
+          "masuk meliang penjahit, keluar meliang tabuh",
+          "masuk tak genap, keluar tak ganjil",
+          "masuk tidak manjadi laba, keluar tidak membawa rugi",
+          "masuk tiga, keluar empat"
+        ],
+        "idiom": [
+          "keluar keringat kering",
+          "keluar tanduknya"
+        ]
+      }
+    }
+  ]
+}

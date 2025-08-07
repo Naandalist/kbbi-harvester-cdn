@@ -1,1 +1,61 @@
-{"word":"kutuan","authenticated":true,"entries":[{"id":"197905","nama":"ku.tu.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"berkutu","contoh":[{"nomor":2,"teks":"kucingnya ~"}]}],"rootWord":"kutu¹"},{"id":"240975","nama":"ku.tu.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"berkutu","contoh":[]}],"rootWord":"kutu¹"}]}
+{
+  "word": "kutuan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "197905",
+      "nama": "ku.tu.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkutu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kucingnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kutu¹"
+    },
+    {
+      "id": "240975",
+      "nama": "ku.tu.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkutu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kutu¹"
+    }
+  ]
+}

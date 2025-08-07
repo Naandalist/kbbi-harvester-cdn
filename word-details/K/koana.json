@@ -1,1 +1,83 @@
-{"word":"koana","authenticated":true,"entries":[{"id":"42411","nama":"ko.a.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Anat","nama":"Anatomi","tipe":"lainnya"}],"definisi":"lubang berbentuk corong pada rongga hidung belakang yang menuju ke pangkal kerongkongan","contoh":[]}]},{"id":"265098","nama":"ko.a.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"bubu berbentuk kerucut yang ditempatkan di sungai dan diapit dengan batu","contoh":[]}]},{"id":"157859","nama":"ko.a.na","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"menyangkal utang","contoh":[{"nomor":2,"teks":"dia sering -- ketika ditagih hutangnya"}]}]}]}
+{
+  "word": "koana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42411",
+      "nama": "ko.a.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Anat",
+              "nama": "Anatomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lubang berbentuk corong pada rongga hidung belakang yang menuju ke pangkal kerongkongan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265098",
+      "nama": "ko.a.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bubu berbentuk kerucut yang ditempatkan di sungai dan diapit dengan batu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "157859",
+      "nama": "ko.a.na",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyangkal utang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sering -- ketika ditagih hutangnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,95 @@
-{"word":"keset","authenticated":true,"entries":[{"id":"41046","nama":"ke.set","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengesat kaki, terbuat dari sabut kelapa dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["berkeset","mengeset"],"gabunganKata":["keset handuk"],"peribahasa":[],"idiom":[]}},{"id":"41050","nama":"ke.set","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"malas; tidak rajin","contoh":[]}],"terkait":{"kataTurunan":["mengeset"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"41048","nama":"ke.set","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"eset; kuliti","contoh":[]}],"terkait":{"kataTurunan":["mengeset"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "keset",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41046",
+      "nama": "ke.set",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengesat kaki, terbuat dari sabut kelapa dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkeset",
+          "mengeset"
+        ],
+        "gabunganKata": [
+          "keset handuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41050",
+      "nama": "ke.set",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "malas; tidak rajin",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengeset"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41048",
+      "nama": "ke.set",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "eset; kuliti",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengeset"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

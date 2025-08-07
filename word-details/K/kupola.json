@@ -1,1 +1,49 @@
-{"word":"kupola","authenticated":true,"entries":[{"id":"140372","nama":"ku.po.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tungku berbentuk silinder vertikal yang digunakan untuk meleburkan besi saat pengecoran","contoh":[]}]},{"id":"163220","nama":"ku.po.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ars","nama":"Arsitektur","tipe":"lainnya"}],"definisi":"kubah kecil","contoh":[]}]}]}
+{
+  "word": "kupola",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "140372",
+      "nama": "ku.po.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tungku berbentuk silinder vertikal yang digunakan untuk meleburkan besi saat pengecoran",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "163220",
+      "nama": "ku.po.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ars",
+              "nama": "Arsitektur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kubah kecil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

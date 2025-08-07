@@ -1,1 +1,36 @@
-{"word":"kepikiran","authenticated":true,"entries":[{"id":"164120","nama":"ke.pi.kir.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"dalam keadaan memikirkan","contoh":[{"nomor":2,"teks":"aku ~ tentang keadaan saudara-saudaraku"}]}],"rootWord":"pikir"}]}
+{
+  "word": "kepikiran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "164120",
+      "nama": "ke.pi.kir.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam keadaan memikirkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aku ~ tentang keadaan saudara-saudaraku"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pikir"
+    }
+  ]
+}

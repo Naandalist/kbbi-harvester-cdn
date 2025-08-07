@@ -1,1 +1,78 @@
-{"word":"kalero","authenticated":true,"entries":[{"id":"125879","nama":"ka.le.ro","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anyaman bambu atau rotan untuk menyaring pasir atau kerikil dari dalam air","contoh":[{"nomor":2,"teks":"pekerja tambang pasir itu bekerja menggunakan --"}]}]},{"id":"284441","nama":"ka.le.ro","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bm","nama":"Bima","tipe":"lainnya"}],"definisi":"nyanyian tradisional pada upacara adat Bima, dilakukan oleh 6—12 perempuan","contoh":[]}]},{"id":"298539","nama":"ka.le.ro","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"tempat untuk membakar batu karang yang akan dijadikan semen, terbuat dari empat potong kayu yang dirangkai membentuk persegi","contoh":[]}]}]}
+{
+  "word": "kalero",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "125879",
+      "nama": "ka.le.ro",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anyaman bambu atau rotan untuk menyaring pasir atau kerikil dari dalam air",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pekerja tambang pasir itu bekerja menggunakan --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "284441",
+      "nama": "ka.le.ro",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bm",
+              "nama": "Bima",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian tradisional pada upacara adat Bima, dilakukan oleh 6—12 perempuan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "298539",
+      "nama": "ka.le.ro",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat untuk membakar batu karang yang akan dijadikan semen, terbuat dari empat potong kayu yang dirangkai membentuk persegi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

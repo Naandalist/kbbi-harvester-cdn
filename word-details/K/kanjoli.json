@@ -1,1 +1,59 @@
-{"word":"kanjoli","authenticated":true,"entries":[{"id":"36726","nama":"kan.jo.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"peserta pertandingan yang menempati posisi paling akhir","contoh":[]}]},{"id":"181615","nama":"kan.jo.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MAb","nama":"Melayu Ambon","tipe":"lainnya"}],"definisi":"lampu tradisional yang dipergunakan pada zaman Jepang, dibuat dari kemiri yang digoreng kemudian ditumbuk dengan kulit gaba-gaba yang telah dibakar, sesudah itu dililitkan pada lidi","contoh":[{"nomor":2,"teks":"sekarang senang karena sudah ada listrik, waktu zaman Jepang semua rumah pakai --"}]}]}]}
+{
+  "word": "kanjoli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36726",
+      "nama": "kan.jo.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "peserta pertandingan yang menempati posisi paling akhir",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "181615",
+      "nama": "kan.jo.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MAb",
+              "nama": "Melayu Ambon",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lampu tradisional yang dipergunakan pada zaman Jepang, dibuat dari kemiri yang digoreng kemudian ditumbuk dengan kulit gaba-gaba yang telah dibakar, sesudah itu dililitkan pada lidi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekarang senang karena sudah ada listrik, waktu zaman Jepang semua rumah pakai --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

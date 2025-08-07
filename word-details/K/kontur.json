@@ -1,1 +1,72 @@
-{"word":"kontur","authenticated":true,"entries":[{"id":"43461","nama":"kon.tur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"garis bentuk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"pola ciri-ciri yang terjadi dari pola nada, gerak nada dengan atau tanpa tekanan yang meliputi sebagian atau seluruh ujaran tertentu","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hidm","nama":"Hidrometeorologi","tipe":"lainnya"}],"definisi":"garis ketinggian tetap permukaan isobar; garis kontur","contoh":[]}],"terkait":{"kataTurunan":["mengontur"],"gabunganKata":["kontur bebatuan","kontur elevasi","kontur intonasi","kontur tanah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kontur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43461",
+      "nama": "kon.tur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis bentuk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pola ciri-ciri yang terjadi dari pola nada, gerak nada dengan atau tanpa tekanan yang meliputi sebagian atau seluruh ujaran tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hidm",
+              "nama": "Hidrometeorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "garis ketinggian tetap permukaan isobar; garis kontur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengontur"
+        ],
+        "gabunganKata": [
+          "kontur bebatuan",
+          "kontur elevasi",
+          "kontur intonasi",
+          "kontur tanah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

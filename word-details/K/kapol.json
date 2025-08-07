@@ -1,1 +1,54 @@
-{"word":"kapol","authenticated":true,"entries":[{"id":"92592","nama":"ka.pol","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"kepala polisi","contoh":[]}]},{"id":"238779","nama":"ka.pol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"buah kelapa yang dagingnya berlendir, biasanya didapat dari pohon kelapa kopyor","contoh":[]}]}]}
+{
+  "word": "kapol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92592",
+      "nama": "ka.pol",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala polisi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "238779",
+      "nama": "ka.pol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "buah kelapa yang dagingnya berlendir, biasanya didapat dari pohon kelapa kopyor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

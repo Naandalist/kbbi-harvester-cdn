@@ -1,1 +1,48 @@
-{"word":"kuncit","authenticated":true,"entries":[{"id":"45012","nama":"kun.cit","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ kucir","contoh":[]}]},{"id":"45013","nama":"kun.cit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"paling terakhir; paling belakang","contoh":[{"nomor":2,"teks":"barisan yang nomor --"}]}]}]}
+{
+  "word": "kuncit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45012",
+      "nama": "kun.cit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ kucir",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "45013",
+      "nama": "kun.cit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "paling terakhir; paling belakang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barisan yang nomor --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

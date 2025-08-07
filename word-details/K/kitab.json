@@ -1,1 +1,109 @@
-{"word":"kitab","authenticated":true,"entries":[{"id":"42129","nama":"ki.tab","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku","contoh":[{"nomor":2,"teks":"-- bacaan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wahyu Tuhan yang dibukukan; kitab suci","contoh":[{"nomor":2,"teks":"Al-Qur'an adalah -- yang harus dijadikan pedoman oleh seluruh umat Islam"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buku yang mengandung perkara-perkara keagamaan (seperti hukum, ajaran, dan sebagainya)","contoh":[{"nomor":2,"teks":"setiap Jumat masjid itu mengadakan pengajian -- fikih"},{"nomor":4,"teks":"-- Sutasoma berisi tentang ajaran toleransi antarumat beragama"}]}],"etimologi":{"text":"[Arab كِتَابٌ kitāb n sg m 'tempat menulis']","languages":["Arab"]},"terkait":{"kataTurunan":["berkitab","pengitaban"],"gabunganKata":["kitab Bilangan","kitab fikih","kitab gundul","kitab Imamat","kitab Kejadian","kitab Keluaran","kitab kemitab","kitab kuning","kitab logat","kitab maulid","kitab nubuat","kitab Pengkhotbah","kitab Ratapan","kitab safinah","kitab sembahyangan","kitab simbur cahaya","kitab suci","kitab syarah","kitab tafsir","kitab tembaga","kitab tentulak","kitab terasul","kitab tib","kitab Ulangan","kitab Wahyu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kitab",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42129",
+      "nama": "ki.tab",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bacaan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wahyu Tuhan yang dibukukan; kitab suci",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Al-Qur'an adalah -- yang harus dijadikan pedoman oleh seluruh umat Islam"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buku yang mengandung perkara-perkara keagamaan (seperti hukum, ajaran, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setiap Jumat masjid itu mengadakan pengajian -- fikih"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- Sutasoma berisi tentang ajaran toleransi antarumat beragama"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab كِتَابٌ kitāb n sg m 'tempat menulis']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkitab",
+          "pengitaban"
+        ],
+        "gabunganKata": [
+          "kitab Bilangan",
+          "kitab fikih",
+          "kitab gundul",
+          "kitab Imamat",
+          "kitab Kejadian",
+          "kitab Keluaran",
+          "kitab kemitab",
+          "kitab kuning",
+          "kitab logat",
+          "kitab maulid",
+          "kitab nubuat",
+          "kitab Pengkhotbah",
+          "kitab Ratapan",
+          "kitab safinah",
+          "kitab sembahyangan",
+          "kitab simbur cahaya",
+          "kitab suci",
+          "kitab syarah",
+          "kitab tafsir",
+          "kitab tembaga",
+          "kitab tentulak",
+          "kitab terasul",
+          "kitab tib",
+          "kitab Ulangan",
+          "kitab Wahyu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

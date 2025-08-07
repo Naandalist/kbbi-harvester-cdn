@@ -1,1 +1,72 @@
-{"word":"kukut","authenticated":true,"entries":[{"id":"44715","nama":"ku.kut","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ kokot1","contoh":[]}]},{"id":"110226","nama":"ku.kut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"kulit kerbau yang direbus dan dikeringkan menjadi kikil atau kerecek","contoh":[]}]},{"id":"184806","nama":"ku.kut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"pergelangan tangan","contoh":[{"nomor":2,"teks":"ia memegang erat -- adiknya ketika berjalan"}]}]}]}
+{
+  "word": "kukut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44715",
+      "nama": "ku.kut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ kokot1",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "110226",
+      "nama": "ku.kut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kulit kerbau yang direbus dan dikeringkan menjadi kikil atau kerecek",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "184806",
+      "nama": "ku.kut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pergelangan tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memegang erat -- adiknya ketika berjalan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

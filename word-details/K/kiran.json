@@ -1,1 +1,48 @@
-{"word":"kiran","authenticated":true,"entries":[{"id":"42010","nama":"ki.ran","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat haji","contoh":[]}]},{"id":"299965","nama":"ki.ran","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sls","nama":"Salas","tipe":"lainnya"}],"definisi":"menggerakkan alis naik dan turun","contoh":[{"nomor":2,"teks":"dia -- untuk menakut-nakuti anak kecil"}]}]}]}
+{
+  "word": "kiran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42010",
+      "nama": "ki.ran",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat haji",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "299965",
+      "nama": "ki.ran",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sls",
+              "nama": "Salas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menggerakkan alis naik dan turun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- untuk menakut-nakuti anak kecil"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

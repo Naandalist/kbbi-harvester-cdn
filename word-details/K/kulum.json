@@ -1,1 +1,57 @@
-{"word":"kulum","authenticated":true,"entries":[{"id":"44846","nama":"ku.lum","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengulum","contoh":[]}],"terkait":{"kataTurunan":["kuluman","mengulum","mengulum-ngulum","kulum-kulum"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"44850","nama":"ku.lum","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial kulum-kulum","contoh":[]}],"terkait":{"kataTurunan":["kulum-kulum"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kulum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44846",
+      "nama": "ku.lum",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengulum",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kuluman",
+          "mengulum",
+          "mengulum-ngulum",
+          "kulum-kulum"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "44850",
+      "nama": "ku.lum",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial kulum-kulum",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kulum-kulum"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

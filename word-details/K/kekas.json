@@ -1,1 +1,57 @@
-{"word":"kekas","authenticated":true,"entries":[{"id":"38636","nama":"ke.kas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kais","contoh":[]}],"terkait":{"kataTurunan":["mengekas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"38638","nama":"ke.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Plb","nama":"Palembang","tipe":"lainnya"}],"definisi":"sebidang tanah di antara ladang baru dan ladang yang telah ditanami","contoh":[]}]}]}
+{
+  "word": "kekas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38636",
+      "nama": "ke.kas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kais",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengekas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "38638",
+      "nama": "ke.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Plb",
+              "nama": "Palembang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sebidang tanah di antara ladang baru dan ladang yang telah ditanami",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

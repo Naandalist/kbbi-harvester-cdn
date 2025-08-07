@@ -1,1 +1,74 @@
-{"word":"kucur","authenticated":true,"entries":[{"id":"44511","nama":"ku.cur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pancur","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kucur 'cucuran, aliran, tuang, semburan, pancaran (keluar, ke bawah)']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berkucur","kucuran","mengucur","mengucuri","mengucurkan","pengucuran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"235529","nama":"ku.cur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lmt","nama":"Lematang","tipe":"lainnya"}],"definisi":"umpan ikan besar yang dibuat dari pekasam","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kucur 'cucuran, aliran, tuang, semburan, pancaran (keluar, ke bawah)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "kucur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44511",
+      "nama": "ku.cur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pancur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kucur 'cucuran, aliran, tuang, semburan, pancaran (keluar, ke bawah)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkucur",
+          "kucuran",
+          "mengucur",
+          "mengucuri",
+          "mengucurkan",
+          "pengucuran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "235529",
+      "nama": "ku.cur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lmt",
+              "nama": "Lematang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "umpan ikan besar yang dibuat dari pekasam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kucur 'cucuran, aliran, tuang, semburan, pancaran (keluar, ke bawah)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

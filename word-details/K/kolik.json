@@ -1,1 +1,70 @@
-{"word":"kolik","authenticated":true,"entries":[{"id":"42717","nama":"ko.lik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"rasa nyeri yang amat sangat yang hilang dan timbul di daerah usus atau sekitarnya, seperti kolik batu empedu, kolik karena masuk angin, dan kolik bawasir","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"keadaan pada bayi sehat yang menangis lebih dari tiga jam dalam sehari, tiga hari dalam seminggu, selama lebih dari tiga minggu, diikuti dengan mengangkat atau menekuk kaki, mengepalkan tangan dan mengencangkan perut, serta diakhiri dengan buang air besar atau buang angin","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mulas yang tidak jelas dan berulang sebagai akibat dari penyakit cacingan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kolik abdomen","kolik bilier","kolik ginjal","kolik renal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kolik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42717",
+      "nama": "ko.lik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "rasa nyeri yang amat sangat yang hilang dan timbul di daerah usus atau sekitarnya, seperti kolik batu empedu, kolik karena masuk angin, dan kolik bawasir",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "keadaan pada bayi sehat yang menangis lebih dari tiga jam dalam sehari, tiga hari dalam seminggu, selama lebih dari tiga minggu, diikuti dengan mengangkat atau menekuk kaki, mengepalkan tangan dan mengencangkan perut, serta diakhiri dengan buang air besar atau buang angin",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulas yang tidak jelas dan berulang sebagai akibat dari penyakit cacingan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kolik abdomen",
+          "kolik bilier",
+          "kolik ginjal",
+          "kolik renal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"word":"kekeringan","authenticated":true,"entries":[{"id":"40554","nama":"ke.ke.ring.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal, keadaan (bersifat) kering","contoh":[{"nomor":2,"teks":"ratusan hektar tanaman padi mati ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sudah menjadi kering (tidak berair lagi, tidak basah lagi)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peristiwa alam berupa penyimpangan iklim yang sifatnya sewaktu-waktu, yang terjadi apabila curah hujan berada di bawah normal","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kehabisan uang dan sebagainya","contoh":[]}],"rootWord":"kering¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["seperti gerundang yang kekeringan"],"idiom":[]}}]}
+{
+  "word": "kekeringan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40554",
+      "nama": "ke.ke.ring.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal, keadaan (bersifat) kering",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ratusan hektar tanaman padi mati ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah menjadi kering (tidak berair lagi, tidak basah lagi)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peristiwa alam berupa penyimpangan iklim yang sifatnya sewaktu-waktu, yang terjadi apabila curah hujan berada di bawah normal",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kehabisan uang dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kering¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "seperti gerundang yang kekeringan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

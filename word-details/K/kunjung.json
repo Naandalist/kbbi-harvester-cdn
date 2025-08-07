@@ -1,1 +1,63 @@
-{"word":"kunjung","authenticated":true,"entries":[{"id":"45070","nama":"kun.jung","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"datang untuk menjumpai; bertandang; berziarah","contoh":[]}],"terkait":{"kataTurunan":["berkunjung","berkunjung-kunjungan","kunjung-mengunjungi","kunjungan","mengunjungi","pengunjung","pengunjungan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"45080","nama":"kun.jung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lekas; pernah","contoh":[{"nomor":2,"teks":"dian yang tidak -- padam"}]}]}]}
+{
+  "word": "kunjung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45070",
+      "nama": "kun.jung",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "datang untuk menjumpai; bertandang; berziarah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkunjung",
+          "berkunjung-kunjungan",
+          "kunjung-mengunjungi",
+          "kunjungan",
+          "mengunjungi",
+          "pengunjung",
+          "pengunjungan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "45080",
+      "nama": "kun.jung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lekas; pernah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dian yang tidak -- padam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

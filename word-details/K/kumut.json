@@ -1,1 +1,86 @@
-{"word":"kumut","authenticated":true,"entries":[{"id":"44966","nama":"ku.mut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"seringai","contoh":[]}],"terkait":{"kataTurunan":["berkumut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"44968","nama":"ku.mut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"My","nama":"Muyu","tipe":"lainnya"}],"definisi":"nyanyian pesta babi","contoh":[]}]},{"id":"156692","nama":"ku.mut","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ka","nama":"Kamang","tipe":"lainnya"}],"definisi":"suara burung merpati","contoh":[]}]}]}
+{
+  "word": "kumut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44966",
+      "nama": "ku.mut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seringai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkumut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "44968",
+      "nama": "ku.mut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "My",
+              "nama": "Muyu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nyanyian pesta babi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "156692",
+      "nama": "ku.mut",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ka",
+              "nama": "Kamang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "suara burung merpati",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

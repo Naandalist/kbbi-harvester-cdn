@@ -1,1 +1,81 @@
-{"word":"kapuk","authenticated":true,"entries":[{"id":"37035","nama":"ka.puk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"randu〔Ceiba pentandra〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"isi buah randu yang seperti serat berbulu berwarna putih, digunakan untuk mengisi bantal dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mulut kapuk dapat ditutup, mulut orang tidak"],"idiom":["berlayar ke pulau kapuk"]}},{"id":"37036","nama":"ka.puk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"lumbung (yang berdinding anyaman bambu, beratap, dan berbentuk bulat panjang)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["mulut kapuk dapat ditutup, mulut orang tidak"],"idiom":["berlayar ke pulau kapuk"]}}]}
+{
+  "word": "kapuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37035",
+      "nama": "ka.puk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "randu〔Ceiba pentandra〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "isi buah randu yang seperti serat berbulu berwarna putih, digunakan untuk mengisi bantal dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mulut kapuk dapat ditutup, mulut orang tidak"
+        ],
+        "idiom": [
+          "berlayar ke pulau kapuk"
+        ]
+      }
+    },
+    {
+      "id": "37036",
+      "nama": "ka.puk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lumbung (yang berdinding anyaman bambu, beratap, dan berbentuk bulat panjang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "mulut kapuk dapat ditutup, mulut orang tidak"
+        ],
+        "idiom": [
+          "berlayar ke pulau kapuk"
+        ]
+      }
+    }
+  ]
+}

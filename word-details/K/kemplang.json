@@ -1,1 +1,67 @@
-{"word":"kemplang","authenticated":true,"entries":[{"id":"39582","nama":"kem.plang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tempeleng","contoh":[]}],"terkait":{"kataTurunan":["kemplangan","mengemplang","pengemplang","pengemplangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"39586","nama":"kem.plang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kerupuk yang dibuat dari sagu dan ikan, bentuknya bulat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penganan terbuat dari sagu atau singkong diparut yang diberi garam, dikukus, dijemur, kemudian digoreng, biasanya dibentuk dengan kepalan tangan","contoh":[]}]}]}
+{
+  "word": "kemplang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39582",
+      "nama": "kem.plang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempeleng",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kemplangan",
+          "mengemplang",
+          "pengemplang",
+          "pengemplangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "39586",
+      "nama": "kem.plang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerupuk yang dibuat dari sagu dan ikan, bentuknya bulat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penganan terbuat dari sagu atau singkong diparut yang diberi garam, dikukus, dijemur, kemudian digoreng, biasanya dibentuk dengan kepalan tangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

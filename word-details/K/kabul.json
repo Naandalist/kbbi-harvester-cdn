@@ -1,1 +1,120 @@
-{"word":"kabul","authenticated":true,"entries":[{"id":"35460","nama":"ka.bul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ucapan tanda setuju (terima) dari pihak yang menerima dalam suatu akad perjanjian atau kontrak","contoh":[{"nomor":2,"teks":"wali mempelai perempuan mengucapkan ijab dan mempelai laki-laki mengucapkan --"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diluluskan (tentang permintaan dan sebagainya); diperkenankan","contoh":[{"nomor":2,"teks":"permintaannya --"}]}],"etimologi":{"text":"[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']","languages":["Arab"]},"terkait":{"kataTurunan":["keterkabulan","mengabulkan","pengabul","pengabulan","terkabul"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"227992","nama":"ka.bul","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"bibit ikan sebesar lidi","contoh":[]}],"etimologi":{"text":"[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']","languages":["Arab"]}},{"id":"197336","nama":"Ka.bul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ibu kota negara Afganistan","contoh":[]}],"etimologi":{"text":"[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']","languages":["Arab"]}}]}
+{
+  "word": "kabul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35460",
+      "nama": "ka.bul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ucapan tanda setuju (terima) dari pihak yang menerima dalam suatu akad perjanjian atau kontrak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wali mempelai perempuan mengucapkan ijab dan mempelai laki-laki mengucapkan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diluluskan (tentang permintaan dan sebagainya); diperkenankan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "permintaannya --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "keterkabulan",
+          "mengabulkan",
+          "pengabul",
+          "pengabulan",
+          "terkabul"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227992",
+      "nama": "ka.bul",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bibit ikan sebesar lidi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "197336",
+      "nama": "Ka.bul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ibu kota negara Afganistan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَبُوْلٌ qabūl n sg m 'penerimaan; persetujuan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

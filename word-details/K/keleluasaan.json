@@ -1,1 +1,48 @@
-{"word":"keleluasaan","authenticated":true,"entries":[{"id":"48065","nama":"ke.le.lu.a.sa.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kebebasan (bergerak, bertindak, dan sebagainya)","contoh":[{"nomor":2,"teks":"selama tinggal di Jakarta, mereka diberi ~ untuk mengunjungi tempat bersejarah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"peranan untuk menentukan (memutuskan sendiri berdasarkan hukum)","contoh":[]}],"rootWord":"leluasa"}]}
+{
+  "word": "keleluasaan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48065",
+      "nama": "ke.le.lu.a.sa.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kebebasan (bergerak, bertindak, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selama tinggal di Jakarta, mereka diberi ~ untuk mengunjungi tempat bersejarah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "peranan untuk menentukan (memutuskan sendiri berdasarkan hukum)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "leluasa"
+    }
+  ]
+}

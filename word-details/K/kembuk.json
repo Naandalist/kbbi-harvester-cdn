@@ -1,1 +1,54 @@
-{"word":"kembuk","authenticated":true,"entries":[{"id":"39476","nama":"kem.buk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mangkuk berkaki untuk membasuh jari-jari tangan","contoh":[]}]},{"id":"253933","nama":"kem.buk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"lembap karena terlalu cepat diangkat (tentang jemuran)","contoh":[{"nomor":2,"teks":"bajunya masih --"}]}]}]}
+{
+  "word": "kembuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39476",
+      "nama": "kem.buk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mangkuk berkaki untuk membasuh jari-jari tangan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "253933",
+      "nama": "kem.buk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lembap karena terlalu cepat diangkat (tentang jemuran)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bajunya masih --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

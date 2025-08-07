@@ -1,1 +1,74 @@
-{"word":"kakao","authenticated":true,"entries":[{"id":"35946","nama":"ka.kao","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon cokelat, bijinya dibuat bubuk untuk minuman dan sebagainya〔Theobroma cacao〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tepung (bubuk) biji cokelat","contoh":[]}],"terkait":{"kataTurunan":["perkakaoan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"252532","nama":"ka.kao","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Rt","nama":"Rote","tipe":"lainnya"}],"definisi":"merangkul dengan sepenuh hati","contoh":[{"nomor":2,"teks":"bapak -- calon menantunya saat pertama kali diperkenalkan"}]}]}]}
+{
+  "word": "kakao",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "35946",
+      "nama": "ka.kao",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon cokelat, bijinya dibuat bubuk untuk minuman dan sebagainya〔Theobroma cacao〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepung (bubuk) biji cokelat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "perkakaoan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "252532",
+      "nama": "ka.kao",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Rt",
+              "nama": "Rote",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "merangkul dengan sepenuh hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak -- calon menantunya saat pertama kali diperkenalkan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

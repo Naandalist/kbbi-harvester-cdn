@@ -1,1 +1,61 @@
-{"word":"kerikil","authenticated":true,"entries":[{"id":"40521","nama":"ke.ri.kil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"butiran batu lebih besar daripada pasir dan lebih kecil daripada kerakal (kira-kira sebesar biji kacang tanah atau biji nangka)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"endapan batuan yang komponennya bulat, biasanya bercampur dengan tanah liat dan pasir","contoh":[]}],"etimologi":{"text":"[Jawa Kuno karikil 'kerikil']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berkerikil","mengerikil","mengerikili","pengerikilan"],"gabunganKata":["kerikil vulkanik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kerikil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40521",
+      "nama": "ke.ri.kil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "butiran batu lebih besar daripada pasir dan lebih kecil daripada kerakal (kira-kira sebesar biji kacang tanah atau biji nangka)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "endapan batuan yang komponennya bulat, biasanya bercampur dengan tanah liat dan pasir",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno karikil 'kerikil']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkerikil",
+          "mengerikil",
+          "mengerikili",
+          "pengerikilan"
+        ],
+        "gabunganKata": [
+          "kerikil vulkanik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

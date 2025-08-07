@@ -1,1 +1,86 @@
-{"word":"kisi-kisi","authenticated":true,"entries":[{"id":"42098","nama":"ki.si-ki.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu atau besi yang dipasang berdiri dan berjarak sehingga terdapat celah-celah (pada tingkap dan sebagainya); terali; jeruji","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jari-jari (roda)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"celah; ganggang (pintu dan sebagainya)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"gantungan dari besi atau kayu di langit-langit panggung untuk menggantung perlengkapan lampu dan gambar latar","contoh":[]}],"rootWord":"kisi¹"},{"id":"250241","nama":"ki.si-ki.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"matriks yang memuat informasi tentang pedoman untuk menulis soal atau merakit soal dalam tes","contoh":[]}]}]}
+{
+  "word": "kisi-kisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42098",
+      "nama": "ki.si-ki.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu atau besi yang dipasang berdiri dan berjarak sehingga terdapat celah-celah (pada tingkap dan sebagainya); terali; jeruji",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jari-jari (roda)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "celah; ganggang (pintu dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gantungan dari besi atau kayu di langit-langit panggung untuk menggantung perlengkapan lampu dan gambar latar",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kisi¹"
+    },
+    {
+      "id": "250241",
+      "nama": "ki.si-ki.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "matriks yang memuat informasi tentang pedoman untuk menulis soal atau merakit soal dalam tes",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

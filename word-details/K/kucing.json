@@ -1,1 +1,134 @@
-{"word":"kucing","authenticated":true,"entries":[{"id":"44478","nama":"ku.cing","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mamalia karnivor yang berukuran kecil hingga sedang, memiliki cakar berbentuk arit yang dapat keluar masuk dari kantong jari-jarinya, termasuk hewan teritorial〔Felidae〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sebutan bagi pasangan sejenis yang sering digunakan di kalangan waria","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kucing domestik","contoh":[]}],"etimologi":{"text":"[Jawa Kuno kuciṅ 'kucing']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["kucing-kucing","kucing-kucingan","perkucingan"],"gabunganKata":["kucing abisinian","kucing air","kucing anggora","kucing angora","kucing bakau","kucing batu","kucing belanda","kucing belang","kucing bengal","kucing busok","kucing candramawat","kucing congkok","kucing domestik","kucing emas","kucing garong","kucing hoki","kucing hutan","kucing indo","kucing kampung","kucing karakal","kucing kutub","kucing kutub kanada","kucing kuwuk","kucing liar","kucing madura","kucing merah","kucing negeri","kucing pasir","kucing pekak","kucing persia","kucing piara","kucing piaraan","kucing ras","kucing rumah","kucing rumahan","kucing Schrödinger","kucing senggora","kucing siam","kucing tandang","kucing tapai","kucing tuli"],"peribahasa":["awak tikus hendak menampar kepala kucing","bagai kucing dibawakan lidi","bagai kucing kehilangan anak","bagai kucing lepas senja","bagai kucing menjemput api","biarpun kucing naik haji, pulangnya mengeong juga","duduk seperti kucing, melompat seperti harimau","ikan gantung, kucing tunggu","jangan dekatkan panggang dengan kucing","kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang","kucing pergi, tikus menari","kucing tidur di bantai","malu kalau anak harimau menjadi anak kucing (kambing)","malu-malu kucing, bujang dengan gadis","melakakkan kucing di dapur","membeli kucing dalam karung","menantikan kucing bertanduk","serta lalu kucing, tikus tiada berdecit lagi","seperti anjing dengan kucing","seperti kucing di atas tampuk","seperti kucing dibawakan lidi"],"idiom":[]}}]}
+{
+  "word": "kucing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44478",
+      "nama": "ku.cing",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mamalia karnivor yang berukuran kecil hingga sedang, memiliki cakar berbentuk arit yang dapat keluar masuk dari kantong jari-jarinya, termasuk hewan teritorial〔Felidae〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan bagi pasangan sejenis yang sering digunakan di kalangan waria",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kucing domestik",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno kuciṅ 'kucing']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kucing-kucing",
+          "kucing-kucingan",
+          "perkucingan"
+        ],
+        "gabunganKata": [
+          "kucing abisinian",
+          "kucing air",
+          "kucing anggora",
+          "kucing angora",
+          "kucing bakau",
+          "kucing batu",
+          "kucing belanda",
+          "kucing belang",
+          "kucing bengal",
+          "kucing busok",
+          "kucing candramawat",
+          "kucing congkok",
+          "kucing domestik",
+          "kucing emas",
+          "kucing garong",
+          "kucing hoki",
+          "kucing hutan",
+          "kucing indo",
+          "kucing kampung",
+          "kucing karakal",
+          "kucing kutub",
+          "kucing kutub kanada",
+          "kucing kuwuk",
+          "kucing liar",
+          "kucing madura",
+          "kucing merah",
+          "kucing negeri",
+          "kucing pasir",
+          "kucing pekak",
+          "kucing persia",
+          "kucing piara",
+          "kucing piaraan",
+          "kucing ras",
+          "kucing rumah",
+          "kucing rumahan",
+          "kucing Schrödinger",
+          "kucing senggora",
+          "kucing siam",
+          "kucing tandang",
+          "kucing tapai",
+          "kucing tuli"
+        ],
+        "peribahasa": [
+          "awak tikus hendak menampar kepala kucing",
+          "bagai kucing dibawakan lidi",
+          "bagai kucing kehilangan anak",
+          "bagai kucing lepas senja",
+          "bagai kucing menjemput api",
+          "biarpun kucing naik haji, pulangnya mengeong juga",
+          "duduk seperti kucing, melompat seperti harimau",
+          "ikan gantung, kucing tunggu",
+          "jangan dekatkan panggang dengan kucing",
+          "kucing melompat, orang terkejut dari tidurnya, ayam berkokok, hari pun siang",
+          "kucing pergi, tikus menari",
+          "kucing tidur di bantai",
+          "malu kalau anak harimau menjadi anak kucing (kambing)",
+          "malu-malu kucing, bujang dengan gadis",
+          "melakakkan kucing di dapur",
+          "membeli kucing dalam karung",
+          "menantikan kucing bertanduk",
+          "serta lalu kucing, tikus tiada berdecit lagi",
+          "seperti anjing dengan kucing",
+          "seperti kucing di atas tampuk",
+          "seperti kucing dibawakan lidi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

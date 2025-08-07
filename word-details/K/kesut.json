@@ -1,1 +1,56 @@
-{"word":"kesut","authenticated":true,"entries":[{"id":"41090","nama":"ke.sut","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial terkesut-kesut","contoh":[]}],"terkait":{"kataTurunan":["terkesut-kesut"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"146513","nama":"ke.sut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"bocor halus (tentang atap rumah)","contoh":[{"nomor":2,"teks":"meski atap rumahnya hanya --, hujan deras tadi malam membuat paman waswas"}]}]}]}
+{
+  "word": "kesut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41090",
+      "nama": "ke.sut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial terkesut-kesut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terkesut-kesut"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "146513",
+      "nama": "ke.sut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bocor halus (tentang atap rumah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meski atap rumahnya hanya --, hujan deras tadi malam membuat paman waswas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

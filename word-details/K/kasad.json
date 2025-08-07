@@ -1,1 +1,91 @@
-{"word":"kasad","authenticated":true,"entries":[{"id":"37425","nama":"ka.sad","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"maksud; tujuan","contoh":[{"nomor":2,"teks":"niat dan -- orang tua itu tidak lain hanya ingin menyenangkan anak-anaknya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"makna konotasi","contoh":[{"nomor":2,"teks":"fatwa --nya agamawi, petuah --nya sosial"}]}],"etimologi":{"text":"[Arab قَصْدٌ qaṣd n sg m 'tujuan; keadilan; pemecahan']","languages":["Arab"]},"terkait":{"kataTurunan":["mengasadkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"109946","nama":"Ka.sad","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Kepala Staf Angkatan Darat","contoh":[]}],"etimologi":{"text":"[Arab قَصْدٌ qaṣd n sg m 'tujuan; keadilan; pemecahan']","languages":["Arab"]}}]}
+{
+  "word": "kasad",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "37425",
+      "nama": "ka.sad",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maksud; tujuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "niat dan -- orang tua itu tidak lain hanya ingin menyenangkan anak-anaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makna konotasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "fatwa --nya agamawi, petuah --nya sosial"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَصْدٌ qaṣd n sg m 'tujuan; keadilan; pemecahan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengasadkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "109946",
+      "nama": "Ka.sad",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kepala Staf Angkatan Darat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قَصْدٌ qaṣd n sg m 'tujuan; keadilan; pemecahan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

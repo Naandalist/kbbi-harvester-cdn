@@ -1,1 +1,59 @@
-{"word":"karapas","authenticated":true,"entries":[{"id":"109927","nama":"ka.ra.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cangkang atau bagian atas kura-kura, penyu, dan krustasea","contoh":[{"nomor":2,"teks":"ukuran -- penyu hijau dapat mencapai 1 meter"}]}]},{"id":"172276","nama":"ka.ra.pas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"lemak babi yang disangrai untuk diambil minyaknya","contoh":[{"nomor":2,"teks":"ibu membuat --"}]}]}]}
+{
+  "word": "karapas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "109927",
+      "nama": "ka.ra.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cangkang atau bagian atas kura-kura, penyu, dan krustasea",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ukuran -- penyu hijau dapat mencapai 1 meter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "172276",
+      "nama": "ka.ra.pas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lemak babi yang disangrai untuk diambil minyaknya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu membuat --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

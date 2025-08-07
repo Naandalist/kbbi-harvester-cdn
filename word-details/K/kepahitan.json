@@ -1,1 +1,65 @@
-{"word":"kepahitan","authenticated":true,"entries":[{"id":"59083","nama":"ke.pa.hit.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal pahit; rasa pahit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kesukaran dan kesusahan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"terlalu pahit","contoh":[{"nomor":2,"teks":"dia marah-marah karena kopinya ~"}]}],"rootWord":"pahit¹"}]}
+{
+  "word": "kepahitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59083",
+      "nama": "ke.pa.hit.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal pahit; rasa pahit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kesukaran dan kesusahan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu pahit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia marah-marah karena kopinya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pahit¹"
+    }
+  ]
+}

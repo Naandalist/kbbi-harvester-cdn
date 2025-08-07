@@ -1,1 +1,79 @@
-{"word":"keraman","authenticated":true,"entries":[{"id":"40194","nama":"ke.ram.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hasil mengeram","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"benda yang dikerami","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"binatang ternak yang dikurung dalam kandang saja dengan maksud agar dapat berkembang biak dengan baik","contoh":[{"nomor":2,"teks":"dana untuk proyek sapi ~ sudah disediakan Pemerintah"}]}],"rootWord":"keram¹"},{"id":"40197","nama":"ke.ra.man","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pendurhakaan; pemberontakan","contoh":[]}]}]}
+{
+  "word": "keraman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40194",
+      "nama": "ke.ram.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil mengeram",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda yang dikerami",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "binatang ternak yang dikurung dalam kandang saja dengan maksud agar dapat berkembang biak dengan baik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dana untuk proyek sapi ~ sudah disediakan Pemerintah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "keram¹"
+    },
+    {
+      "id": "40197",
+      "nama": "ke.ra.man",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pendurhakaan; pemberontakan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

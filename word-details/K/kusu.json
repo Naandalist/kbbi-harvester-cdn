@@ -1,1 +1,89 @@
-{"word":"kusu","authenticated":true,"entries":[{"id":"45392","nama":"ku.su","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"berkusu-kusu","contoh":[]}],"terkait":{"kataTurunan":["berkusu-kusu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"45394","nama":"ku.su","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bisik","contoh":[]}],"terkait":{"kataTurunan":["berkusu-kusu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"115257","nama":"ku.su","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Als","nama":"Alas","tipe":"lainnya"}],"definisi":"bapak dari nenek","contoh":[]}]}]}
+{
+  "word": "kusu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45392",
+      "nama": "ku.su",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkusu-kusu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkusu-kusu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "45394",
+      "nama": "ku.su",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bisik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkusu-kusu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "115257",
+      "nama": "ku.su",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Als",
+              "nama": "Alas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bapak dari nenek",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

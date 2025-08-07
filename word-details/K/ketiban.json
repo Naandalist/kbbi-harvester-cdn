@@ -1,1 +1,64 @@
-{"word":"ketiban","authenticated":true,"entries":[{"id":"41231","nama":"ke.ti.ban","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kejatuhan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak disangka-sangka memperoleh (mendapat) sesuatu (rezeki dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["ketiban durian runtuh","ketiban pulung","ketiban rezeki nomplok","ketiban sampur","ketiban sial"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ketiban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41231",
+      "nama": "ke.ti.ban",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kejatuhan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak disangka-sangka memperoleh (mendapat) sesuatu (rezeki dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ketiban durian runtuh",
+          "ketiban pulung",
+          "ketiban rezeki nomplok",
+          "ketiban sampur",
+          "ketiban sial"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

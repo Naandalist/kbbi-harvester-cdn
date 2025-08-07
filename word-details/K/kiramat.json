@@ -1,1 +1,35 @@
-{"word":"kiramat","authenticated":true,"entries":[{"id":"42009","nama":"ki.ra.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"doa restu","contoh":[{"nomor":2,"teks":"berkat -- Dang Tuanku, mendapatlah ia pikiran yang baik"}]}]}]}
+{
+  "word": "kiramat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42009",
+      "nama": "ki.ra.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "doa restu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berkat -- Dang Tuanku, mendapatlah ia pikiran yang baik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"word":"kelaparan","authenticated":true,"entries":[{"id":"46941","nama":"ke.la.par.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal lapar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menderita lapar (karena tidak ada yang dimakan)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kekurangan makan","contoh":[{"nomor":2,"teks":"para pengungsi di perbatasan menderita ~ sehingga bantuan harus dipercepat"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sakit bengkak karena kekurangan makan","contoh":[]}],"rootWord":"lapar","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ayam bertelur di atas padi mati kelaparan","ayam bertelur di rangkiang mati kelaparan","bagai babi kelaparan","laki pulang kelaparan, dagang lalu ditanakkan"],"idiom":[]}}]}
+{
+  "word": "kelaparan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46941",
+      "nama": "ke.la.par.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal lapar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menderita lapar (karena tidak ada yang dimakan)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekurangan makan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para pengungsi di perbatasan menderita ~ sehingga bantuan harus dipercepat"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sakit bengkak karena kekurangan makan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "lapar",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ayam bertelur di atas padi mati kelaparan",
+          "ayam bertelur di rangkiang mati kelaparan",
+          "bagai babi kelaparan",
+          "laki pulang kelaparan, dagang lalu ditanakkan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

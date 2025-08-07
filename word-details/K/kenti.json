@@ -1,1 +1,59 @@
-{"word":"kenti","authenticated":true,"entries":[{"id":"124874","nama":"ken.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Tot","nama":"Totoli","tipe":"lainnya"}],"definisi":"mencubit dengan ujung kuku","contoh":[{"nomor":2,"teks":"dia -- adiknya hingga menangis"}]}]},{"id":"161937","nama":"ken.ti","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"anak kancil","contoh":[]}]}]}
+{
+  "word": "kenti",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "124874",
+      "nama": "ken.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tot",
+              "nama": "Totoli",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencubit dengan ujung kuku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- adiknya hingga menangis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "161937",
+      "nama": "ken.ti",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak kancil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

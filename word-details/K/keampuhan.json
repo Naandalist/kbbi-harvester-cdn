@@ -1,1 +1,70 @@
-{"word":"keampuhan","authenticated":true,"entries":[{"id":"3183","nama":"ke.am.puh.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kekuatan (yang luar biasa); kesaktian","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemanjuran (tentang obat dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daya pengaruh yang luar biasa","contoh":[]}],"rootWord":"ampuh¹"},{"id":"3187","nama":"ke.am.puh.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kebanjiran; tergenang air","contoh":[]}],"rootWord":"ampuh²"}]}
+{
+  "word": "keampuhan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3183",
+      "nama": "ke.am.puh.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekuatan (yang luar biasa); kesaktian",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemanjuran (tentang obat dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daya pengaruh yang luar biasa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ampuh¹"
+    },
+    {
+      "id": "3187",
+      "nama": "ke.am.puh.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kebanjiran; tergenang air",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ampuh²"
+    }
+  ]
+}

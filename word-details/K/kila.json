@@ -1,1 +1,50 @@
-{"word":"kila","authenticated":true,"entries":[{"id":"41678","nama":"ki.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ kilah1","contoh":[]}]},{"id":"41679","nama":"ki.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pancang; patokan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"panah","contoh":[]}]}]}
+{
+  "word": "kila",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41678",
+      "nama": "ki.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ kilah1",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "41679",
+      "nama": "ki.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pancang; patokan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

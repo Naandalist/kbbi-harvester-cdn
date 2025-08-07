@@ -1,1 +1,83 @@
-{"word":"kadin","authenticated":true,"entries":[{"id":"251773","nama":"ka.din","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"kepala dinas","contoh":[]}]},{"id":"298530","nama":"ka.din","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"kepala dinas (pejabat yang memimpin atau mengelola suatu dinas di pemerintahan)","contoh":[]}]},{"id":"111862","nama":"Ka.din","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dag","nama":"Perdagangan","tipe":"bidang_subjek"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Kamar Dagang dan Industri","contoh":[]}]}]}
+{
+  "word": "kadin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "251773",
+      "nama": "ka.din",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala dinas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "298530",
+      "nama": "ka.din",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepala dinas (pejabat yang memimpin atau mengelola suatu dinas di pemerintahan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "111862",
+      "nama": "Ka.din",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dag",
+              "nama": "Perdagangan",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Kamar Dagang dan Industri",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

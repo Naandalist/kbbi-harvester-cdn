@@ -1,1 +1,59 @@
-{"word":"kepruk","authenticated":true,"entries":[{"id":"40071","nama":"kep.ruk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pukul supaya pecah","contoh":[]}],"terkait":{"kataTurunan":["mengepruk"],"gabunganKata":["kepruk galeng"],"peribahasa":[],"idiom":[]}},{"id":"227321","nama":"ke.pruk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"prajurit dalam kesenian ketoprak yang biasanya muncul di adegan perang","contoh":[]}]}]}
+{
+  "word": "kepruk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40071",
+      "nama": "kep.ruk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukul supaya pecah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengepruk"
+        ],
+        "gabunganKata": [
+          "kepruk galeng"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227321",
+      "nama": "ke.pruk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "prajurit dalam kesenian ketoprak yang biasanya muncul di adegan perang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

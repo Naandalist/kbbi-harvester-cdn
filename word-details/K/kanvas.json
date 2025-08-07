@@ -1,1 +1,56 @@
-{"word":"kanvas","authenticated":true,"entries":[{"id":"36823","nama":"kan.vas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kain kasar yang kuat, dipakai untuk kemah, layar, kantong surat pos, lukisan, dan sebagainya; kain terpal","contoh":[{"nomor":2,"teks":"pelukis itu menggambar di atas --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lantai gelanggang tinju","contoh":[{"nomor":2,"teks":"petinju itu jatuh di atas --"}]}],"terkait":{"kataTurunan":["berkanvas","menganvaskan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kanvas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36823",
+      "nama": "kan.vas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kain kasar yang kuat, dipakai untuk kemah, layar, kantong surat pos, lukisan, dan sebagainya; kain terpal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pelukis itu menggambar di atas --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lantai gelanggang tinju",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "petinju itu jatuh di atas --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkanvas",
+          "menganvaskan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

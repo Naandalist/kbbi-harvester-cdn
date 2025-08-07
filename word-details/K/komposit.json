@@ -1,1 +1,75 @@
-{"word":"komposit","authenticated":true,"entries":[{"id":"42986","nama":"kom.po.sit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gabungan; campuran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"paduan serat gelas dan karbon","contoh":[{"nomor":2,"teks":"daun baling-baling motor itu terbuat dari bahan --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"penyatuan dua atau lebih sinyal atau data untuk keperluan yang berbeda","contoh":[]}],"terkait":{"kataTurunan":["mengompositkan","pengompositan"],"gabunganKata":["komposit aluminium","komposit bioaktif","komposit bioplastik","komposit hibrid","komposit polimer","komposit serat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "komposit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42986",
+      "nama": "kom.po.sit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gabungan; campuran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paduan serat gelas dan karbon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daun baling-baling motor itu terbuat dari bahan --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penyatuan dua atau lebih sinyal atau data untuk keperluan yang berbeda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengompositkan",
+          "pengompositan"
+        ],
+        "gabunganKata": [
+          "komposit aluminium",
+          "komposit bioaktif",
+          "komposit bioplastik",
+          "komposit hibrid",
+          "komposit polimer",
+          "komposit serat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

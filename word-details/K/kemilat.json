@@ -1,1 +1,61 @@
-{"word":"kemilat","authenticated":true,"entries":[{"id":"195006","nama":"ke.mi.lat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kilatan; kilauan","contoh":[{"nomor":2,"teks":"puluhan burung bangau meluncur senyap menyusuri ~ kaca sungai ke utara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berkilat; berkilau","contoh":[{"nomor":2,"teks":"sayap yang dahulu ~ dalam igauku, kini hanya angan dalam pikiranmu"}]}],"rootWord":"kilat¹"},{"id":"210610","nama":"ke.mi.lat","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat kilat1","contoh":[]}]}]}
+{
+  "word": "kemilat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "195006",
+      "nama": "ke.mi.lat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kilatan; kilauan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "puluhan burung bangau meluncur senyap menyusuri ~ kaca sungai ke utara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkilat; berkilau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayap yang dahulu ~ dalam igauku, kini hanya angan dalam pikiranmu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kilat¹"
+    },
+    {
+      "id": "210610",
+      "nama": "ke.mi.lat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat kilat1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

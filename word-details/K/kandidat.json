@@ -1,1 +1,51 @@
-{"word":"kandidat","authenticated":true,"entries":[{"id":"36634","nama":"kan.di.dat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"calon; bakal","contoh":[{"nomor":2,"teks":"kakaknya adalah -- perwira"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengikut (penempuh) ujian","contoh":[]}],"terkait":{"kataTurunan":["mengandidatkan","pengandidatan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kandidat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36634",
+      "nama": "kan.di.dat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "calon; bakal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakaknya adalah -- perwira"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengikut (penempuh) ujian",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengandidatkan",
+          "pengandidatan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

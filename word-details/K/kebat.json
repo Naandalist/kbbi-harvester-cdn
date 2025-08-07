@@ -1,1 +1,85 @@
-{"word":"kebat","authenticated":true,"entries":[{"id":"38181","nama":"ke.bat","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikat; balut","contoh":[]}],"terkait":{"kataTurunan":["mengebat","mengebatkan","pengebat","sekebat","terkebat","kebat-kebit"],"gabunganKata":["kebat pinggang"],"peribahasa":[],"idiom":[]}},{"id":"38190","nama":"ke.bat","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial kebat-kebit","contoh":[]}],"terkait":{"kataTurunan":["kebat-kebit"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"132395","nama":"ke.bat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kain panjang yang biasa dipakai perempuan","contoh":[]}]}]}
+{
+  "word": "kebat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38181",
+      "nama": "ke.bat",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikat; balut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengebat",
+          "mengebatkan",
+          "pengebat",
+          "sekebat",
+          "terkebat",
+          "kebat-kebit"
+        ],
+        "gabunganKata": [
+          "kebat pinggang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "38190",
+      "nama": "ke.bat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial kebat-kebit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kebat-kebit"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "132395",
+      "nama": "ke.bat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kain panjang yang biasa dipakai perempuan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

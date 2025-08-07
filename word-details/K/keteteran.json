@@ -1,1 +1,48 @@
-{"word":"keteteran","authenticated":true,"entries":[{"id":"41216","nama":"ke.te.ter.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak dapat bekerja dengan baik, tidak cepat selesai; keteter","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"keadaan terdesak oleh banyaknya pekerjaan, tenggat, serangan, dan sebagainya","contoh":[{"nomor":2,"teks":"toko kue itu sampai ~ melayani pesanan pembelinya"}]}],"rootWord":"keteter"}]}
+{
+  "word": "keteteran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41216",
+      "nama": "ke.te.ter.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dapat bekerja dengan baik, tidak cepat selesai; keteter",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan terdesak oleh banyaknya pekerjaan, tenggat, serangan, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "toko kue itu sampai ~ melayani pesanan pembelinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "keteter"
+    }
+  ]
+}

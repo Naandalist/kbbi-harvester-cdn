@@ -1,1 +1,56 @@
-{"word":"kebanjiran","authenticated":true,"entries":[{"id":"8068","nama":"ke.ban.jir.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diserang banjir; tergenang air karena banjir; keempohan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kedatangan banyak-banyak (melimpah)","contoh":[{"nomor":2,"teks":"setelah memenangkan pertandingan itu, dia ~ surat ucapan selamat dari para penggemarnya"}]}],"rootWord":"banjir","terkait":{"kataTurunan":[],"gabunganKata":["kebanjiran order"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kebanjiran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8068",
+      "nama": "ke.ban.jir.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diserang banjir; tergenang air karena banjir; keempohan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedatangan banyak-banyak (melimpah)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah memenangkan pertandingan itu, dia ~ surat ucapan selamat dari para penggemarnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "banjir",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kebanjiran order"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,64 @@
-{"word":"kecah","authenticated":true,"entries":[{"id":"157566","nama":"ke.cah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"tidak kemas atau tidak teratur; kacau-balau","contoh":[]}]},{"id":"144039","nama":"ke.cah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"banyak suara (tentang membicarakan orang lain)","contoh":[{"nomor":2,"teks":"jadi -- sejak kejadian itu"}]}]}]}
+{
+  "word": "kecah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "157566",
+      "nama": "ke.cah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak kemas atau tidak teratur; kacau-balau",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "144039",
+      "nama": "ke.cah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banyak suara (tentang membicarakan orang lain)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jadi -- sejak kejadian itu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

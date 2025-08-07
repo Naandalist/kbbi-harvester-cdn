@@ -1,1 +1,38 @@
-{"word":"kemari","authenticated":true,"entries":[{"id":"39377","nama":"ke.ma.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ke sini","contoh":[{"nomor":2,"teks":"coba, -- sebentar"}]}],"terkait":{"kataTurunan":["dikemarikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kemari",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "39377",
+      "nama": "ke.ma.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ke sini",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "coba, -- sebentar"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "dikemarikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

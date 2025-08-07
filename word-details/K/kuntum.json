@@ -1,1 +1,76 @@
-{"word":"kuntum","authenticated":true,"entries":[{"id":"45096","nama":"kun.tum","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kuncup bunga yang hampir mekar (berkembang)","contoh":[{"nomor":2,"teks":"-- mawar merah"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata penggolong untuk bunga","contoh":[{"nomor":2,"teks":"tiga -- bunga kemboja"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"gadis muda","contoh":[]}],"terkait":{"kataTurunan":["menguntum","sekuntum","terkuntum"],"gabunganKata":[],"peribahasa":["hidung laksana kuntum seroja, dada seperti mawar merekah"],"idiom":[]}}]}
+{
+  "word": "kuntum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45096",
+      "nama": "kun.tum",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kuncup bunga yang hampir mekar (berkembang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- mawar merah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penggolong untuk bunga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiga -- bunga kemboja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gadis muda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menguntum",
+          "sekuntum",
+          "terkuntum"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hidung laksana kuntum seroja, dada seperti mawar merekah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

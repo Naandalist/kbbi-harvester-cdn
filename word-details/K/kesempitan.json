@@ -1,1 +1,75 @@
-{"word":"kesempitan","authenticated":true,"entries":[{"id":"74649","nama":"ke.sem.pit.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terdesak sehingga tidak dapat bergerak lagi; tersudut; terpepet","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kepicikan; kekurangan (uang, waktu, dan sebagainya)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal (yang bersifat, berciri) sempit","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlalu sempit","contoh":[{"nomor":2,"teks":"baju-baju lamanya ~ sejak ia hamil tua"}]}],"rootWord":"sempit¹","terkait":{"kataTurunan":[],"gabunganKata":["kesempitan akal"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kesempitan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74649",
+      "nama": "ke.sem.pit.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terdesak sehingga tidak dapat bergerak lagi; tersudut; terpepet",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kepicikan; kekurangan (uang, waktu, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal (yang bersifat, berciri) sempit",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu sempit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baju-baju lamanya ~ sejak ia hamil tua"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sempit¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kesempitan akal"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

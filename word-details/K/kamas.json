@@ -1,1 +1,54 @@
-{"word":"kamas","authenticated":true,"entries":[{"id":"36342","nama":"ka.mas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kakak","contoh":[]}]},{"id":"245080","nama":"ka.mas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"bagus dan rapi (tentang pekerjaan tukang kayu)","contoh":[{"nomor":2,"teks":"pekerjaan paman --"}]}]}]}
+{
+  "word": "kamas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36342",
+      "nama": "ka.mas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kakak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "245080",
+      "nama": "ka.mas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagus dan rapi (tentang pekerjaan tukang kayu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pekerjaan paman --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

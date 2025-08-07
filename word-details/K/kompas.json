@@ -1,1 +1,79 @@
-{"word":"kompas","authenticated":true,"entries":[{"id":"42914","nama":"kom.pas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk mengetahui arah mata angin (biasanya berbentuk seperti jam yang berjarum besi berani yang menunjuk arah utara dan selatan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pedoman arah","contoh":[]}],"terkait":{"kataTurunan":["mengompas","pengompasan"],"gabunganKata":["kompas bidik","kompas geologi","kompas magnetik","kompas silva"],"peribahasa":[],"idiom":[]}},{"id":"42915","nama":"kom.pas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"minta uang dengan paksaan","contoh":[]}],"terkait":{"kataTurunan":["mengompas","pengompasan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kompas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42914",
+      "nama": "kom.pas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk mengetahui arah mata angin (biasanya berbentuk seperti jam yang berjarum besi berani yang menunjuk arah utara dan selatan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pedoman arah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengompas",
+          "pengompasan"
+        ],
+        "gabunganKata": [
+          "kompas bidik",
+          "kompas geologi",
+          "kompas magnetik",
+          "kompas silva"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "42915",
+      "nama": "kom.pas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "minta uang dengan paksaan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengompas",
+          "pengompasan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

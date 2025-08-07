@@ -1,1 +1,89 @@
-{"word":"kicau","authenticated":true,"entries":[{"id":"41594","nama":"ki.cau","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi burung (terutama burung murai)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"celoteh; perkataan yang sebarang saja","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pesan yang dikirim melalui layanan jejaring sosial twitter; twit; cuit","contoh":[{"nomor":2,"teks":"-- twitter dikhawatirkan dapat mengganggu konsentrasi para pemain selama digelarnya Piala Eropa"}]}],"terkait":{"kataTurunan":["berkicau","kicauan","pekicau","pengicau"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"41597","nama":"ki.cau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tipu; kecoh","contoh":[]}]}]}
+{
+  "word": "kicau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41594",
+      "nama": "ki.cau",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi burung (terutama burung murai)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "celoteh; perkataan yang sebarang saja",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pesan yang dikirim melalui layanan jejaring sosial twitter; twit; cuit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- twitter dikhawatirkan dapat mengganggu konsentrasi para pemain selama digelarnya Piala Eropa"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkicau",
+          "kicauan",
+          "pekicau",
+          "pengicau"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41597",
+      "nama": "ki.cau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tipu; kecoh",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

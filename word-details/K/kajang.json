@@ -1,1 +1,206 @@
-{"word":"kajang","authenticated":true,"entries":[{"id":"233175","nama":"ka.jang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"pandan duri〔Pandanus tectorius〕","contoh":[]}],"terkait":{"kataTurunan":["berkajang","dikajangi","mengajangi","pekajangan"],"gabunganKata":["kajang sesikat"],"peribahasa":["semir tak habis kajang pula"],"idiom":[]}},{"id":"35902","nama":"ka.jang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"anyaman dari bambu (daun nipah, mengkuang, dan sebagainya) untuk atap (penutup) pedati dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"daun nipah muda yang dikeringkan untuk melinting rokok","contoh":[]}],"terkait":{"kataTurunan":["berkajang","dikajangi","mengajangi","pekajangan"],"gabunganKata":["kajang sesikat"],"peribahasa":["semir tak habis kajang pula"],"idiom":[]}},{"id":"35908","nama":"ka.jang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gubuk kecil, tidak berdinding, berada di samping atau di belakang rumah (biasanya tempat menyimpan kayu bakar, atau tempat memasak pada saat penyelenggaraan pesta)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"gubuk kecil yang dapat dipasang di atas kapal","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["kajang sesikat"],"peribahasa":["semir tak habis kajang pula"],"idiom":[]}},{"id":"181853","nama":"ka.jang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"daun gebang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["semir tak habis kajang pula"],"idiom":[]}},{"id":"99338","nama":"Ka.jang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang hidup berpindah-pindah di daerah perbatasan Indonesia dengan Serawak, Malaysia","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["semir tak habis kajang pula"],"idiom":[]}}]}
+{
+  "word": "kajang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "233175",
+      "nama": "ka.jang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pandan duri〔Pandanus tectorius〕",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkajang",
+          "dikajangi",
+          "mengajangi",
+          "pekajangan"
+        ],
+        "gabunganKata": [
+          "kajang sesikat"
+        ],
+        "peribahasa": [
+          "semir tak habis kajang pula"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "35902",
+      "nama": "ka.jang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anyaman dari bambu (daun nipah, mengkuang, dan sebagainya) untuk atap (penutup) pedati dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun nipah muda yang dikeringkan untuk melinting rokok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkajang",
+          "dikajangi",
+          "mengajangi",
+          "pekajangan"
+        ],
+        "gabunganKata": [
+          "kajang sesikat"
+        ],
+        "peribahasa": [
+          "semir tak habis kajang pula"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "35908",
+      "nama": "ka.jang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gubuk kecil, tidak berdinding, berada di samping atau di belakang rumah (biasanya tempat menyimpan kayu bakar, atau tempat memasak pada saat penyelenggaraan pesta)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gubuk kecil yang dapat dipasang di atas kapal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kajang sesikat"
+        ],
+        "peribahasa": [
+          "semir tak habis kajang pula"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "181853",
+      "nama": "ka.jang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "daun gebang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "semir tak habis kajang pula"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99338",
+      "nama": "Ka.jang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang hidup berpindah-pindah di daerah perbatasan Indonesia dengan Serawak, Malaysia",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "semir tak habis kajang pula"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

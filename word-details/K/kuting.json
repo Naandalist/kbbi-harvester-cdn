@@ -1,1 +1,57 @@
-{"word":"kuting","authenticated":true,"entries":[{"id":"45459","nama":"ku.ting","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ikut tidak membantah","contoh":[]}],"terkait":{"kataTurunan":["berkuting-kuting"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"268735","nama":"ku.ting","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"terlepas dari gagangnya (tentang parang)","contoh":[]}]}]}
+{
+  "word": "kuting",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45459",
+      "nama": "ku.ting",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikut tidak membantah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkuting-kuting"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "268735",
+      "nama": "ku.ting",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terlepas dari gagangnya (tentang parang)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

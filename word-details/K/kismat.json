@@ -1,1 +1,48 @@
-{"word":"kismat","authenticated":true,"entries":[{"id":"42108","nama":"kis.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian; nasib","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"apa boleh buat","contoh":[]}],"etimologi":{"text":"[Arab قِسْمَةٌ qismah n sg f 'bagian']","languages":["Arab"]}}]}
+{
+  "word": "kismat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42108",
+      "nama": "kis.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian; nasib",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "apa boleh buat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab قِسْمَةٌ qismah n sg f 'bagian']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

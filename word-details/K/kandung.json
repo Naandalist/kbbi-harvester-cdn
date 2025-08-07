@@ -1,1 +1,100 @@
-{"word":"kandung","authenticated":true,"entries":[{"id":"36645","nama":"kan.dung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kantong; pundi-pundi","contoh":[{"nomor":2,"teks":"mengeluarkan emas dari --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kantong peranakan","contoh":[]}],"terkait":{"kataTurunan":["berkandung","berkandungan","dikandung","kandungan","keterkandungan","mengandung","mengandungi","pengandung","pengandungan","perkandungan","sekandung","terkandung"],"gabunganKata":["kandung air mata","kandung empedu","kandung kemih","kandung kencing"],"peribahasa":["jerat semata bunda kandung"],"idiom":[]}},{"id":"216244","nama":"kan.dung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"tidak dapat melanjutkan perjalanan karena hujan, banjir, dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["jerat semata bunda kandung"],"idiom":[]}}]}
+{
+  "word": "kandung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36645",
+      "nama": "kan.dung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kantong; pundi-pundi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mengeluarkan emas dari --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kantong peranakan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkandung",
+          "berkandungan",
+          "dikandung",
+          "kandungan",
+          "keterkandungan",
+          "mengandung",
+          "mengandungi",
+          "pengandung",
+          "pengandungan",
+          "perkandungan",
+          "sekandung",
+          "terkandung"
+        ],
+        "gabunganKata": [
+          "kandung air mata",
+          "kandung empedu",
+          "kandung kemih",
+          "kandung kencing"
+        ],
+        "peribahasa": [
+          "jerat semata bunda kandung"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216244",
+      "nama": "kan.dung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak dapat melanjutkan perjalanan karena hujan, banjir, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jerat semata bunda kandung"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

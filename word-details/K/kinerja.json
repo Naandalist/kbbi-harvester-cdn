@@ -1,1 +1,80 @@
-{"word":"kinerja","authenticated":true,"entries":[{"id":"41886","nama":"ki.ner.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dicapai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"prestasi yang diperlihatkan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemampuan kerja (tentang peralatan)","contoh":[]}],"rootWord":"kerja","terkait":{"kataTurunan":[],"gabunganKata":["kinerja anggaran","kinerja ekspor","kinerja guru","kinerja keuangan","kinerja manajerial","kinerja nuklir","kinerja operasional","kinerja optimal","kinerja organisasi","kinerja puncak"],"peribahasa":[],"idiom":[]}},{"id":"199656","nama":"ki.ner.ja","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat kerja","contoh":[]}]}]}
+{
+  "word": "kinerja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41886",
+      "nama": "ki.ner.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dicapai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "prestasi yang diperlihatkan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemampuan kerja (tentang peralatan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kerja",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "kinerja anggaran",
+          "kinerja ekspor",
+          "kinerja guru",
+          "kinerja keuangan",
+          "kinerja manajerial",
+          "kinerja nuklir",
+          "kinerja operasional",
+          "kinerja optimal",
+          "kinerja organisasi",
+          "kinerja puncak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "199656",
+      "nama": "ki.ner.ja",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat kerja",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

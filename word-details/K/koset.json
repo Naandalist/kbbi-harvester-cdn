@@ -1,1 +1,43 @@
-{"word":"koset","authenticated":true,"entries":[{"id":"43798","nama":"ko.set","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ keset","contoh":[]}]},{"id":"43799","nama":"ko.set","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mat","nama":"Matematika","tipe":"bidang_subjek"}],"definisi":"subhimpunan yang terdiri atas semua hasil kali yang diperoleh dengan mengalikan unsur tetap kelompok di bagian kanan dan kiri dengan setiap unsur subkelompok","contoh":[]}]}]}
+{
+  "word": "koset",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "43798",
+      "nama": "ko.set",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ keset",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "43799",
+      "nama": "ko.set",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mat",
+              "nama": "Matematika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "subhimpunan yang terdiri atas semua hasil kali yang diperoleh dengan mengalikan unsur tetap kelompok di bagian kanan dan kiri dengan setiap unsur subkelompok",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

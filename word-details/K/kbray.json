@@ -1,1 +1,96 @@
-{"word":"kbray","authenticated":true,"entries":[{"id":"1","nama":"k.bray","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sejenis tumbuhan","contoh":[]}],"rootWord":"kbraykbray"},{"id":"2","nama":"k.bray","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tumbuhan perdu","contoh":[]}],"rootWord":"kbraykbray"},{"id":"3","nama":"k.bray","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"salah satu jenis tanaman hias","contoh":[{"nomor":1,"teks":"di taman itu banyak ditanami --"}]}],"rootWord":"kbraykbray"},{"id":"4","nama":"k.bray","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tanaman yang sering digunakan sebagai tanaman pagar","contoh":[{"nomor":1,"teks":"rumahnya dikelilingi pagar hidup yang ditanami --"}]}],"rootWord":"kbraykbray"}]}
+{
+  "word": "kbray",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "k.bray",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sejenis tumbuhan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kbraykbray"
+    },
+    {
+      "id": "2",
+      "nama": "k.bray",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tumbuhan perdu",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kbraykbray"
+    },
+    {
+      "id": "3",
+      "nama": "k.bray",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "salah satu jenis tanaman hias",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "di taman itu banyak ditanami --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kbraykbray"
+    },
+    {
+      "id": "4",
+      "nama": "k.bray",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanaman yang sering digunakan sebagai tanaman pagar",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "rumahnya dikelilingi pagar hidup yang ditanami --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kbraykbray"
+    }
+  ]
+}

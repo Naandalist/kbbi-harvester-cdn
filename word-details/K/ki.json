@@ -1,1 +1,76 @@
-{"word":"ki","authenticated":true,"entries":[{"id":"41490","nama":"ki","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kata sapaan kepada orang tua-tua atau guru (yang menjadi anutan)","contoh":[{"nomor":2,"teks":"-- Hajar Dewantara"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["ki ageng","ki tumenggung adipati"],"peribahasa":[],"idiom":[]}},{"id":"41491","nama":"ki","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ air","contoh":[]}]},{"id":"41492","nama":"ki","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama huruf q","contoh":[]}]}]}
+{
+  "word": "ki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "41490",
+      "nama": "ki",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata sapaan kepada orang tua-tua atau guru (yang menjadi anutan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Hajar Dewantara"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ki ageng",
+          "ki tumenggung adipati"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "41491",
+      "nama": "ki",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ air",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "41492",
+      "nama": "ki",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama huruf q",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

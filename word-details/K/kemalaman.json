@@ -1,1 +1,43 @@
-{"word":"kemalaman","authenticated":true,"entries":[{"id":"51648","nama":"ke.ma.lam.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena malam (hingga waktu malam datang)","contoh":[{"nomor":2,"teks":"kami ~ di tengah jalan"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"terlalu malam","contoh":[]}],"rootWord":"malam¹"}]}
+{
+  "word": "kemalaman",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51648",
+      "nama": "ke.ma.lam.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena malam (hingga waktu malam datang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami ~ di tengah jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalu malam",
+          "contoh": []
+        }
+      ],
+      "rootWord": "malam¹"
+    }
+  ]
+}

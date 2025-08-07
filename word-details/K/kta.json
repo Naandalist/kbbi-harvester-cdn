@@ -1,1 +1,59 @@
-{"word":"kta","authenticated":true,"entries":[{"id":"92704","nama":"KTA","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kartu tanda anggota","contoh":[]}]},{"id":"299595","nama":"KTA","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kredit tanpa agunan","contoh":[]}]}]}
+{
+  "word": "kta",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92704",
+      "nama": "KTA",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kartu tanda anggota",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "299595",
+      "nama": "KTA",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kredit tanpa agunan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

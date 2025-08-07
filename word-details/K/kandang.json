@@ -1,1 +1,124 @@
-{"word":"kandang","authenticated":true,"entries":[{"id":"36601","nama":"kan.dang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bangunan tempat tinggal binatang; ruang berpagar tempat memelihara binatang","contoh":[{"nomor":2,"teks":"kucing tidak pernah dipelihara dalam --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang yang diberi pagar atau batas dan sebagainya; garis dan sebagainya pada tepi halaman buku; kalangan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"garasi","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tempat tinggal; kampung; negeri","contoh":[{"nomor":2,"teks":"dia menang bertanding di -- sendiri"}]}],"terkait":{"kataTurunan":["berkandang","mengandang","mengandangi","mengandangkan","pengandangan","perkandangan","sekandang"],"gabunganKata":["kandang baterai","kandang buaya","kandang bulan","kandang harimau","kandang isolasi","kandang jebak","kandang jepit","kandang kawin","kandang khalang","kandang koloni","kandang lawan","kandang mobil","kandang monyet","kandang plasma","kandang singa","kandang tandang","kandang terakhir","kandang unggas","kandang-kandang kirik"],"peribahasa":["biarlah menyeluduk kandang ayam, asal mendapat telur","masuk kandang kambing mengembik, masuk kandang kerbau menguak","memperlapang kandang musang, mempersempit kandang ayam"],"idiom":[]}}]}
+{
+  "word": "kandang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36601",
+      "nama": "kan.dang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bangunan tempat tinggal binatang; ruang berpagar tempat memelihara binatang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kucing tidak pernah dipelihara dalam --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang yang diberi pagar atau batas dan sebagainya; garis dan sebagainya pada tepi halaman buku; kalangan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garasi",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat tinggal; kampung; negeri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia menang bertanding di -- sendiri"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkandang",
+          "mengandang",
+          "mengandangi",
+          "mengandangkan",
+          "pengandangan",
+          "perkandangan",
+          "sekandang"
+        ],
+        "gabunganKata": [
+          "kandang baterai",
+          "kandang buaya",
+          "kandang bulan",
+          "kandang harimau",
+          "kandang isolasi",
+          "kandang jebak",
+          "kandang jepit",
+          "kandang kawin",
+          "kandang khalang",
+          "kandang koloni",
+          "kandang lawan",
+          "kandang mobil",
+          "kandang monyet",
+          "kandang plasma",
+          "kandang singa",
+          "kandang tandang",
+          "kandang terakhir",
+          "kandang unggas",
+          "kandang-kandang kirik"
+        ],
+        "peribahasa": [
+          "biarlah menyeluduk kandang ayam, asal mendapat telur",
+          "masuk kandang kambing mengembik, masuk kandang kerbau menguak",
+          "memperlapang kandang musang, mempersempit kandang ayam"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

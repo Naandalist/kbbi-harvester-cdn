@@ -1,1 +1,54 @@
-{"word":"kolator","authenticated":true,"entries":[{"id":"42675","nama":"ko.la.tor","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"orang (petugas) yang membanding-bandingkan naskah untuk menentukan naskah yang dianggap asli; orang (petugas) yang melakukan kolase","contoh":[]}]},{"id":"99526","nama":"ko.la.tor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"peranti yang membandingkan dan menggabungkan himpunan kartu tumbuk atau dokumen lainnya ke dalam susunan yang berurutan","contoh":[]}]}]}
+{
+  "word": "kolator",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42675",
+      "nama": "ko.la.tor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang (petugas) yang membanding-bandingkan naskah untuk menentukan naskah yang dianggap asli; orang (petugas) yang melakukan kolase",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "99526",
+      "nama": "ko.la.tor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "peranti yang membandingkan dan menggabungkan himpunan kartu tumbuk atau dokumen lainnya ke dalam susunan yang berurutan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

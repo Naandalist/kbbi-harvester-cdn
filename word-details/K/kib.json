@@ -1,1 +1,54 @@
-{"word":"kib","authenticated":true,"entries":[{"id":"92629","nama":"KIB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kawasan industri berat","contoh":[]}]},{"id":"239720","nama":"KIB","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kartu identitas barang","contoh":[]}]}]}
+{
+  "word": "kib",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92629",
+      "nama": "KIB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kawasan industri berat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "239720",
+      "nama": "KIB",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kartu identitas barang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

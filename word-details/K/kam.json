@@ -1,1 +1,59 @@
-{"word":"kam","authenticated":true,"entries":[{"id":"36299","nama":"kam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"sisir kuda-kuda","contoh":[]}]},{"id":"265122","nama":"KAM","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"If","nama":"Teknologi Informasi","tipe":"bidang_subjek"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"kendali akses media","contoh":[]}]}]}
+{
+  "word": "kam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "36299",
+      "nama": "kam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sisir kuda-kuda",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265122",
+      "nama": "KAM",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "If",
+              "nama": "Teknologi Informasi",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kendali akses media",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

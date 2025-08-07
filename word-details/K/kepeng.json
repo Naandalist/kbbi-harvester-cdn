@@ -1,1 +1,42 @@
-{"word":"kepeng","authenticated":true,"entries":[{"id":"40001","nama":"ke.peng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama mata uang zaman dahulu (½ duit)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"uang","contoh":[]}]}]}
+{
+  "word": "kepeng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "40001",
+      "nama": "ke.peng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama mata uang zaman dahulu (½ duit)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

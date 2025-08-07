@@ -1,1 +1,54 @@
-{"word":"kedam","authenticated":true,"entries":[{"id":"38417","nama":"ke.dam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berwarna timbel (timah hitam)","contoh":[]}]},{"id":"234114","nama":"ke.dam","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mtm","nama":"Melayu Tamiang","tipe":"lainnya"}],"definisi":"rapat tanpa ada lubang (tentang dinding)","contoh":[{"nomor":2,"teks":"-- sekali kamarmu, pengap aku"}]}]}]}
+{
+  "word": "kedam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38417",
+      "nama": "ke.dam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berwarna timbel (timah hitam)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "234114",
+      "nama": "ke.dam",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mtm",
+              "nama": "Melayu Tamiang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rapat tanpa ada lubang (tentang dinding)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- sekali kamarmu, pengap aku"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

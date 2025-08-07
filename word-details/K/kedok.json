@@ -1,1 +1,64 @@
-{"word":"kedok","authenticated":true,"entries":[{"id":"38485","nama":"ke.dok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan muka untuk menutup muka; topeng","contoh":[{"nomor":2,"teks":"kawanan perampok yang datang tengah malam itu semua memakai --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"barang atau perbuatan yang dipakai untuk menutupi maksud sebenarnya","contoh":[{"nomor":2,"teks":"sopan santunnya hanya dipakai sebagai -- belaka"}]}],"terkait":{"kataTurunan":["berkedok","memperkedok"],"gabunganKata":["kedok cahaya","kedok gas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kedok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "38485",
+      "nama": "ke.dok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan muka untuk menutup muka; topeng",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kawanan perampok yang datang tengah malam itu semua memakai --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang atau perbuatan yang dipakai untuk menutupi maksud sebenarnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sopan santunnya hanya dipakai sebagai -- belaka"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkedok",
+          "memperkedok"
+        ],
+        "gabunganKata": [
+          "kedok cahaya",
+          "kedok gas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

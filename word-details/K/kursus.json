@@ -1,1 +1,69 @@
-{"word":"kursus","authenticated":true,"entries":[{"id":"45313","nama":"kur.sus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pelajaran tentang suatu pengetahuan atau keterampilan yang diberikan dalam waktu singkat","contoh":[{"nomor":2,"teks":"-- bahasa Inggris"},{"nomor":4,"teks":"-- mengetik"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lembaga di luar sekolah yang memberikan pelajaran serta pengetahuan atau keterampilan dalam waktu singkat","contoh":[{"nomor":2,"teks":"ia -- bahasa Inggris di lembaga terkenal"}]}],"terkait":{"kataTurunan":["mengursus","mengursuskan"],"gabunganKata":["kursus daring","kursus intensif","kursus kilat","kursus mahir","kursus penyegaran","kursus privat","kursus singkat","kursus tani"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kursus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45313",
+      "nama": "kur.sus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pelajaran tentang suatu pengetahuan atau keterampilan yang diberikan dalam waktu singkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bahasa Inggris"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- mengetik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lembaga di luar sekolah yang memberikan pelajaran serta pengetahuan atau keterampilan dalam waktu singkat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- bahasa Inggris di lembaga terkenal"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengursus",
+          "mengursuskan"
+        ],
+        "gabunganKata": [
+          "kursus daring",
+          "kursus intensif",
+          "kursus kilat",
+          "kursus mahir",
+          "kursus penyegaran",
+          "kursus privat",
+          "kursus singkat",
+          "kursus tani"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"word":"kurungan","authenticated":true,"entries":[{"id":"45335","nama":"ku.rung.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat untuk mengurung; sangkar; kandang burung","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penjara","contoh":[{"nomor":2,"teks":"ia meringkuk dalam ~ selama 12 tahun"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang yang diberi dinding; bilik (di perahu)","contoh":[{"nomor":2,"teks":"~ di haluan kapal"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ikn","nama":"Perikanan","tipe":"bidang_subjek"}],"definisi":"wadah pemiaraan ikan yang biasanya diletakkan di sungai (danau dan sebagainya)","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kom","nama":"Ilmu Komunikasi","tipe":"bidang_subjek"}],"definisi":"kotak bergaris hitam berisi berita yang dibuat menonjol agar banyak dibaca","contoh":[]}],"rootWord":"kurung"}]}
+{
+  "word": "kurungan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45335",
+      "nama": "ku.rung.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat untuk mengurung; sangkar; kandang burung",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penjara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia meringkuk dalam ~ selama 12 tahun"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang yang diberi dinding; bilik (di perahu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ di haluan kapal"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ikn",
+              "nama": "Perikanan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "wadah pemiaraan ikan yang biasanya diletakkan di sungai (danau dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kom",
+              "nama": "Ilmu Komunikasi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kotak bergaris hitam berisi berita yang dibuat menonjol agar banyak dibaca",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kurung"
+    }
+  ]
+}

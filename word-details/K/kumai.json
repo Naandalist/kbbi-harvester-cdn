@@ -1,1 +1,58 @@
-{"word":"kumai","authenticated":true,"entries":[{"id":"44857","nama":"ku.mai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukiran yang beringgit-ringgit atau timbul (seperti pada bingkai gambar, kaki meja)","contoh":[{"nomor":2,"teks":"dibuatnya -- berkerawang"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bingkai (pada bakul, keranjang, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- bakul itu bahannya dari rotan"}]}],"terkait":{"kataTurunan":["berkumai","kumaian","mengumai","mengumaikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "kumai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44857",
+      "nama": "ku.mai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukiran yang beringgit-ringgit atau timbul (seperti pada bingkai gambar, kaki meja)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dibuatnya -- berkerawang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bingkai (pada bakul, keranjang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bakul itu bahannya dari rotan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berkumai",
+          "kumaian",
+          "mengumai",
+          "mengumaikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"word":"ko","authenticated":true,"entries":[{"id":"92644","nama":"ko","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"komando operasi","contoh":[]}]},{"id":"92645","nama":"ko","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"komando","contoh":[]}]},{"id":"248006","nama":"ko","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"koko","contoh":[]}]}]}
+{
+  "word": "ko",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92644",
+      "nama": "ko",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "komando operasi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "92645",
+      "nama": "ko",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "komando",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "248006",
+      "nama": "ko",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "koko",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

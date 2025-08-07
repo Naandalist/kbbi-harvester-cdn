@@ -1,1 +1,78 @@
-{"word":"kiris","authenticated":true,"entries":[{"id":"42052","nama":"ki.ris","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon kayu, akarnya dipakai untuk ramuan obat dan buahnya dapat dimakan〔Belamcanda chinensis〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"akar kiris","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buah kiris","contoh":[]}]},{"id":"269481","nama":"ki.ris","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"memisahkan daun (pisang, kelapa, pinang, dan sebagainya) dengan pelepahnya","contoh":[{"nomor":2,"teks":"tangan  adik bergetah  karena --"}]}]}]}
+{
+  "word": "kiris",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42052",
+      "nama": "ki.ris",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon kayu, akarnya dipakai untuk ramuan obat dan buahnya dapat dimakan〔Belamcanda chinensis〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "akar kiris",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buah kiris",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269481",
+      "nama": "ki.ris",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memisahkan daun (pisang, kelapa, pinang, dan sebagainya) dengan pelepahnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tangan  adik bergetah  karena --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
