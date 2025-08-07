@@ -1,1 +1,48 @@
-{"word":"yusuf","authenticated":true,"entries":[{"id":"145851","nama":"Yu.suf","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nabi dan rasul kesebelas yang diutus Allah Swt. untuk Bani Israil Mesir, putra Nabi Yakub, dikenal dengan ketampanannya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"surah ke-12 dalam Al-Qur'an","contoh":[]}],"etimologi":{"text":"[Arab يُوْسُفُ yūsuf n sg m 'Nabi Bani Israil Mesir, putra Nabi Yakub, dikenal dengan ketampanannya']","languages":["Arab"]}}]}
+{
+  "word": "yusuf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "145851",
+      "nama": "Yu.suf",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nabi dan rasul kesebelas yang diutus Allah Swt. untuk Bani Israil Mesir, putra Nabi Yakub, dikenal dengan ketampanannya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "surah ke-12 dalam Al-Qur'an",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab يُوْسُفُ yūsuf n sg m 'Nabi Bani Israil Mesir, putra Nabi Yakub, dikenal dengan ketampanannya']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}
