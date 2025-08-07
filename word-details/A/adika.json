@@ -1,1 +1,48 @@
-{"word":"adika","authenticated":true,"entries":[{"id":"543","nama":"a.di.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lebih; lebih baik; terbaik","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelar untuk orang besar","contoh":[{"nomor":2,"teks":"Datuk Seri -- Raja"}]}],"etimologi":{"text":"[Jawa Kuno adika 'lebih; lebih baik; terbaik; gelar untuk orang besar']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "adika",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "543",
+      "nama": "a.di.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lebih; lebih baik; terbaik",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelar untuk orang besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Datuk Seri -- Raja"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno adika 'lebih; lebih baik; terbaik; gelar untuk orang besar']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

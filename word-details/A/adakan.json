@@ -1,1 +1,59 @@
-{"word":"adakan","authenticated":true,"entries":[{"id":"408","nama":"a.da.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"mana ada; masakan","contoh":[{"nomor":2,"teks":"-- ayam berkaki empat"}]}]},{"id":"133935","nama":"a.dak.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mudah ditemukan jika dicari (tentang tempat)","contoh":[{"nomor":2,"teks":"letak toko itu --"}]}]}]}
+{
+  "word": "adakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "408",
+      "nama": "a.da.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mana ada; masakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ayam berkaki empat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "133935",
+      "nama": "a.dak.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mudah ditemukan jika dicari (tentang tempat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "letak toko itu --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

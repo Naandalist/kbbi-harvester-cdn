@@ -1,1 +1,41 @@
-{"word":"alf","authenticated":true,"entries":[{"id":"2295","nama":"alf","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"seribu: seribu satu malam","contoh":[{"nomor":2,"teks":"-- lailah wa lailah"}]}],"etimologi":{"text":"[Arab أَلْفٌ alf n sg m 'seribu']","languages":["Arab"]}}]}
+{
+  "word": "alf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2295",
+      "nama": "alf",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "seribu: seribu satu malam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- lailah wa lailah"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَلْفٌ alf n sg m 'seribu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

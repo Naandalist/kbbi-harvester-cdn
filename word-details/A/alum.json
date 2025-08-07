@@ -1,1 +1,127 @@
-{"word":"alum","authenticated":true,"entries":[{"id":"2639","nama":"a.lum","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"layu; merana (tentang daun)","contoh":[]}],"terkait":{"kataTurunan":["mengalum"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"2641","nama":"a.lum","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"tapas","contoh":[]}]},{"id":"112692","nama":"a.lum","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bisul bermata tujuh","contoh":[]}]},{"id":"179065","nama":"a.lum","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Og","nama":"Ogan","tipe":"lainnya"}],"definisi":"warna kulit yang biru kemerahan bekas pukulan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Og","nama":"Ogan","tipe":"lainnya"}],"definisi":"mengandung atau memperlihatkan warna alum","contoh":[{"nomor":2,"teks":"kakiku -- karena ditimpa kayu"}]}]}]}
+{
+  "word": "alum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2639",
+      "nama": "a.lum",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "layu; merana (tentang daun)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengalum"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "2641",
+      "nama": "a.lum",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tapas",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "112692",
+      "nama": "a.lum",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bisul bermata tujuh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "179065",
+      "nama": "a.lum",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Og",
+              "nama": "Ogan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "warna kulit yang biru kemerahan bekas pukulan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Og",
+              "nama": "Ogan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengandung atau memperlihatkan warna alum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakiku -- karena ditimpa kayu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

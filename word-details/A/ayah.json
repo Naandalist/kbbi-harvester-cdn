@@ -1,1 +1,85 @@
-{"word":"ayah","authenticated":true,"entries":[{"id":"6249","nama":"a.yah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang tua kandung laki-laki; bapak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada orang tua kandung laki-laki","contoh":[]}],"terkait":{"kataTurunan":["ayah-ayahan","berayah","keayahan","keayahbundaan","seayah"],"gabunganKata":["ayah angkat","ayah asi","ayah baptis","ayah biologis","ayah bunda","ayah kandung","ayah mertua","ayah permandian","ayah pungut","ayah sambung","ayah tiri"],"peribahasa":[],"idiom":[]}},{"id":"6259","nama":"a.yah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mal","nama":"Melayu Malaysia","tipe":"lainnya"}],"definisi":"orang perempuan (India) yang bekerja sebagai pembantu rumah tangga","contoh":[]}]}]}
+{
+  "word": "ayah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6249",
+      "nama": "a.yah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang tua kandung laki-laki; bapak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada orang tua kandung laki-laki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ayah-ayahan",
+          "berayah",
+          "keayahan",
+          "keayahbundaan",
+          "seayah"
+        ],
+        "gabunganKata": [
+          "ayah angkat",
+          "ayah asi",
+          "ayah baptis",
+          "ayah biologis",
+          "ayah bunda",
+          "ayah kandung",
+          "ayah mertua",
+          "ayah permandian",
+          "ayah pungut",
+          "ayah sambung",
+          "ayah tiri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "6259",
+      "nama": "a.yah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mal",
+              "nama": "Melayu Malaysia",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang perempuan (India) yang bekerja sebagai pembantu rumah tangga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"word":"asesi","authenticated":true,"entries":[{"id":"112109","nama":"a.se.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"orang atau pihak yang dinilai","contoh":[{"nomor":2,"teks":"tugas asesor adalah melaksanakan asesmen terhadap --"}]}]}]}
+{
+  "word": "asesi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112109",
+      "nama": "a.se.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang atau pihak yang dinilai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tugas asesor adalah melaksanakan asesmen terhadap --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

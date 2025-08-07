@@ -1,1 +1,57 @@
-{"word":"adiksi","authenticated":true,"entries":[{"id":"550","nama":"a.dik.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"kecanduan atau ketergantungan secara fisik dan mental terhadap suatu zat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"ketergantungan, baik secara fisik maupun psikologis, terhadap obat-obatan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["adiksi internet","adiksi pornografi","adiksi seksual"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "adiksi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "550",
+      "nama": "a.dik.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kecanduan atau ketergantungan secara fisik dan mental terhadap suatu zat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ketergantungan, baik secara fisik maupun psikologis, terhadap obat-obatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "adiksi internet",
+          "adiksi pornografi",
+          "adiksi seksual"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

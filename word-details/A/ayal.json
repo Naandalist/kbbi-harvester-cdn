@@ -1,1 +1,55 @@
-{"word":"ayal","authenticated":true,"entries":[{"id":"6269","nama":"a.yal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lambat; laun","contoh":[{"nomor":2,"teks":"datanglah segera jangan -- lagi"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bimbang; ragu-ragu","contoh":[{"nomor":2,"teks":"tak -- lagi, ia memang guruku"}]}],"terkait":{"kataTurunan":["berayal-ayalan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ayal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6269",
+      "nama": "a.yal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lambat; laun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "datanglah segera jangan -- lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bimbang; ragu-ragu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tak -- lagi, ia memang guruku"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berayal-ayalan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

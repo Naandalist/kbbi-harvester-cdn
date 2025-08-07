@@ -1,1 +1,95 @@
-{"word":"anang","authenticated":true,"entries":[{"id":"3522","nama":"a.nang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"anakku","contoh":[]}]},{"id":"3523","nama":"a.nang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"gelar kebangsawanan Banjar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"kata sapaan kepada anak atau orang tua laki-laki Banjar","contoh":[]}]},{"id":"209418","nama":"a.nang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kae","nama":"Kaera","tipe":"lainnya"}],"definisi":"kayu kecil yang digunakan untuk menggulung benang","contoh":[]}]}]}
+{
+  "word": "anang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3522",
+      "nama": "a.nang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anakku",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "3523",
+      "nama": "a.nang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gelar kebangsawanan Banjar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kata sapaan kepada anak atau orang tua laki-laki Banjar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "209418",
+      "nama": "a.nang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kae",
+              "nama": "Kaera",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu kecil yang digunakan untuk menggulung benang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

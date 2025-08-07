@@ -1,1 +1,49 @@
-{"word":"ati-ati","authenticated":true,"entries":[{"id":"5849","nama":"a.ti-a.ti","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"miana","contoh":[]}]},{"id":"222426","nama":"a.ti-a.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"anak rambut di depan telinga","contoh":[]}]}]}
+{
+  "word": "ati-ati",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5849",
+      "nama": "a.ti-a.ti",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "miana",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "222426",
+      "nama": "a.ti-a.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak rambut di depan telinga",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

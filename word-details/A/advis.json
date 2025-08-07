@@ -1,1 +1,51 @@
-{"word":"advis","authenticated":true,"entries":[{"id":"98330","nama":"ad.vis","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nasihat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"}],"definisi":"surat pemberitahuan tertulis dari bank kepada nasabah tentang penerimaan pembayaran, transfer dana, dan jasa atau pembayaran yang dilakukan, misalnya pemberitahuan pengkreditan, pendebitan rekening, penarikan, atau transfer dana","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["advis debit","advis kredit"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "advis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "98330",
+      "nama": "ad.vis",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nasihat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "surat pemberitahuan tertulis dari bank kepada nasabah tentang penerimaan pembayaran, transfer dana, dan jasa atau pembayaran yang dilakukan, misalnya pemberitahuan pengkreditan, pendebitan rekening, penarikan, atau transfer dana",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "advis debit",
+          "advis kredit"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

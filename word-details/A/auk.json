@@ -1,1 +1,73 @@
-{"word":"auk","authenticated":true,"entries":[{"id":"5958","nama":"a.uk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi anjing menyalak","contoh":[]}]},{"id":"214210","nama":"a.uk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kae","nama":"Kaera","tipe":"lainnya"}],"definisi":"piring kayu","contoh":[]}]},{"id":"215188","nama":"a.uk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tj","nama":"Tunjung","tipe":"lainnya"}],"definisi":"tangga yang terbuat dari kayu bulat yang ditakik untuk pijakan kaki","contoh":[]}]}]}
+{
+  "word": "auk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5958",
+      "nama": "a.uk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi anjing menyalak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "214210",
+      "nama": "a.uk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kae",
+              "nama": "Kaera",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "piring kayu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215188",
+      "nama": "a.uk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tj",
+              "nama": "Tunjung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tangga yang terbuat dari kayu bulat yang ditakik untuk pijakan kaki",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

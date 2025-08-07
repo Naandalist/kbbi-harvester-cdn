@@ -1,1 +1,66 @@
-{"word":"abih","authenticated":true,"entries":[{"id":"146174","nama":"a.bih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"mendampingi seseorang dalam suatu perkara sebagai saksi di pengadilan","contoh":[{"nomor":2,"teks":"Amir -- saudaranya di pengadilan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"mendampingi atau mengawal pengantin di sisi kiri dan kanan","contoh":[{"nomor":2,"teks":"-- pengantin itu ke rumah orang tua mempelai wanita"}]}],"terkait":{"kataTurunan":["ngabih","pengabih"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "abih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "146174",
+      "nama": "a.bih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendampingi seseorang dalam suatu perkara sebagai saksi di pengadilan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Amir -- saudaranya di pengadilan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendampingi atau mengawal pengantin di sisi kiri dan kanan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pengantin itu ke rumah orang tua mempelai wanita"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ngabih",
+          "pengabih"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

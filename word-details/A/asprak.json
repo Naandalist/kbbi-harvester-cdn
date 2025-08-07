@@ -1,1 +1,59 @@
-{"word":"asprak","authenticated":true,"entries":[{"id":"5672","nama":"as.prak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"janji lisan; persetujuan lisan","contoh":[]}]},{"id":"212689","nama":"as.prak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"asisten praktikum","contoh":[{"nomor":2,"teks":"laporan dikumpulkan kepada -- masing-masing"}]}]}]}
+{
+  "word": "asprak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5672",
+      "nama": "as.prak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "janji lisan; persetujuan lisan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "212689",
+      "nama": "as.prak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asisten praktikum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "laporan dikumpulkan kepada -- masing-masing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

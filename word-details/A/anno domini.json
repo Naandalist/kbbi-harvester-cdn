@@ -1,1 +1,35 @@
-{"word":"anno domini","authenticated":true,"entries":[{"id":"96784","nama":"Anno Domini","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"Lt","nama":"Latin","tipe":"bahasa"}],"definisi":"dalam tahun Tuhan (maksudnya, sesudah Masehi); disingkat A.D.","contoh":[{"nomor":2,"teks":"tahun 1 adalah tahun dimulainya --"}]}]}]}
+{
+  "word": "anno domini",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96784",
+      "nama": "Anno Domini",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lt",
+              "nama": "Latin",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dalam tahun Tuhan (maksudnya, sesudah Masehi); disingkat A.D.",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tahun 1 adalah tahun dimulainya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

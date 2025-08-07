@@ -1,1 +1,58 @@
-{"word":"arau","authenticated":true,"entries":[{"id":"5030","nama":"a.rau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berbintik-bintik; berbelang-belang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["arau batu","arau hujan panas"],"peribahasa":[],"idiom":[]}},{"id":"284031","nama":"a.rau","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ldy","nama":"Lundayeh","tipe":"lainnya"}],"definisi":"kepala sumpitan, biasanya terbuat dari tanaman palem, digunakan untuk menyeimbangkan damak","contoh":[]}]}]}
+{
+  "word": "arau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5030",
+      "nama": "a.rau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbintik-bintik; berbelang-belang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "arau batu",
+          "arau hujan panas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "284031",
+      "nama": "a.rau",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ldy",
+              "nama": "Lundayeh",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kepala sumpitan, biasanya terbuat dari tanaman palem, digunakan untuk menyeimbangkan damak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

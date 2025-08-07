@@ -1,1 +1,82 @@
-{"word":"aris","authenticated":true,"entries":[{"id":"5110","nama":"a.ris","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tepi atau kelim yang dibuat dari rotan, tali, dan sebagainya (pada kain, layar, jaring, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tali pukat (jaring besar) yang mengapung","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"tali jaring sebagai tumpuan menjalin benang jaring","contoh":[]}],"terkait":{"kataTurunan":["beraris","berariskan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"5113","nama":"a.ris","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"getah pohon yang sudah beku","contoh":[]}]}]}
+{
+  "word": "aris",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5110",
+      "nama": "a.ris",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepi atau kelim yang dibuat dari rotan, tali, dan sebagainya (pada kain, layar, jaring, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tali pukat (jaring besar) yang mengapung",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali jaring sebagai tumpuan menjalin benang jaring",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beraris",
+          "berariskan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "5113",
+      "nama": "a.ris",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "getah pohon yang sudah beku",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

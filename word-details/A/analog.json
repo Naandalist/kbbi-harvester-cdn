@@ -1,1 +1,71 @@
-{"word":"analog","authenticated":true,"entries":[{"id":"3513","nama":"a.na.log","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bersangkutan dengan analogi; sama; serupa","contoh":[{"nomor":2,"teks":"masalah suku terasing di Indonesia -- dengan masalah suku terasing di Filipina dan Hawaii"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"bersangkut paut atau berkaitan dengan sistem atau peranti komputer yang menyajikan data yang bermacam-macam berdasarkan kualitas fisik yang terukur","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahan kimia dengan struktur yang mirip dengan yang lain, tetapi berbeda sedikit dalam komposisi","contoh":[]}],"terkait":{"kataTurunan":["beranalog"],"gabunganKata":["analog elektrik","analog langsung","analog nukleosida"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "analog",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3513",
+      "nama": "a.na.log",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersangkutan dengan analogi; sama; serupa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "masalah suku terasing di Indonesia -- dengan masalah suku terasing di Filipina dan Hawaii"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bersangkut paut atau berkaitan dengan sistem atau peranti komputer yang menyajikan data yang bermacam-macam berdasarkan kualitas fisik yang terukur",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahan kimia dengan struktur yang mirip dengan yang lain, tetapi berbeda sedikit dalam komposisi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beranalog"
+        ],
+        "gabunganKata": [
+          "analog elektrik",
+          "analog langsung",
+          "analog nukleosida"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"ampil","authenticated":true,"entries":[{"id":"144313","nama":"am.pil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"gulungan daun sirih yang akan dikunyah","contoh":[]}]},{"id":"277237","nama":"am.pil","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"membawa banyak barang, terutama alat-alat upacara, sambil mengikuti pembesar","contoh":[]}]}]}
+{
+  "word": "ampil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "144313",
+      "nama": "am.pil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gulungan daun sirih yang akan dikunyah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "277237",
+      "nama": "am.pil",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membawa banyak barang, terutama alat-alat upacara, sambil mengikuti pembesar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

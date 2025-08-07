@@ -1,1 +1,54 @@
-{"word":"askot","authenticated":true,"entries":[{"id":"169319","nama":"as.kot","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"syal lebar yang dililitkan pada bagian leher di bawah dagu, dapat dibentuk menyerupai dasi, lilit penuh dan sebagainya","contoh":[]}]},{"id":"260224","nama":"as.kot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"asosiasi kota (asosiasi yang terdiri atas perwakilan dari berbagai kota)","contoh":[]}]}]}
+{
+  "word": "askot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "169319",
+      "nama": "as.kot",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "syal lebar yang dililitkan pada bagian leher di bawah dagu, dapat dibentuk menyerupai dasi, lilit penuh dan sebagainya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "260224",
+      "nama": "as.kot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asosiasi kota (asosiasi yang terdiri atas perwakilan dari berbagai kota)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

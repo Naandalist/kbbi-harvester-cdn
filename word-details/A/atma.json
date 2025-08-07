@@ -1,1 +1,61 @@
-{"word":"atma","authenticated":true,"entries":[{"id":"5859","nama":"at.ma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jiwa; nyawa; roh","contoh":[{"nomor":2,"teks":"akhirnya -- Lubdhaka, setelah hari kematiannya, bisa masuk surga"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hin","nama":"Agama Hindu","tipe":"lainnya"}],"definisi":"atman","contoh":[]}],"etimologi":{"text":"[Sanskerta आत्मन् ātman n m 'jiwa, nyawa, roh']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":["atma tatwa"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "atma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5859",
+      "nama": "at.ma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jiwa; nyawa; roh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akhirnya -- Lubdhaka, setelah hari kematiannya, bisa masuk surga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hin",
+              "nama": "Agama Hindu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "atman",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta आत्मन् ātman n m 'jiwa, nyawa, roh']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "atma tatwa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

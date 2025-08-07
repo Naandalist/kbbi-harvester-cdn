@@ -1,1 +1,85 @@
-{"word":"aspirasi","authenticated":true,"entries":[{"id":"5663","nama":"as.pi.ra.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"harapan dan tujuan untuk keberhasilan pada masa yang akan datang","contoh":[{"nomor":2,"teks":"Garis-Garis Besar Haluan Negara pada hakikatnya adalah -- bangsa"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ilham yang timbul dalam mencipta","contoh":[]}],"terkait":{"kataTurunan":["beraspirasi","seaspirasi"],"gabunganKata":["aspirasi politik"],"peribahasa":[],"idiom":[]}},{"id":"5665","nama":"as.pi.ra.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"artikulasi konsonan hambat yang disertai letupan napas yang cukup keras sehingga dapat didengar","contoh":[]}],"terkait":{"kataTurunan":["beraspirasi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "aspirasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5663",
+      "nama": "as.pi.ra.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "harapan dan tujuan untuk keberhasilan pada masa yang akan datang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Garis-Garis Besar Haluan Negara pada hakikatnya adalah -- bangsa"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ilham yang timbul dalam mencipta",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beraspirasi",
+          "seaspirasi"
+        ],
+        "gabunganKata": [
+          "aspirasi politik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "5665",
+      "nama": "as.pi.ra.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "artikulasi konsonan hambat yang disertai letupan napas yang cukup keras sehingga dapat didengar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beraspirasi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

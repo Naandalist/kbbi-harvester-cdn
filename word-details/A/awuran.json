@@ -1,1 +1,56 @@
-{"word":"awuran","authenticated":true,"entries":[{"id":"6244","nama":"a.wur.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang tidak teratur, terencana, dan sebagainya","contoh":[{"nomor":2,"teks":"orang itu menjawab pertanyaan secara ~, tidak dipikir lebih dahulu"}]}],"rootWord":"awur²"},{"id":"144808","nama":"a.wur.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbg","nama":"Tata Boga","tipe":"lainnya"}],"definisi":"bahan makanan berupa cokelat atau buah-buahan kering yang ditabur di atas roti atau kue; pugas","contoh":[]}],"rootWord":"awur¹"}]}
+{
+  "word": "awuran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6244",
+      "nama": "a.wur.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang tidak teratur, terencana, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang itu menjawab pertanyaan secara ~, tidak dipikir lebih dahulu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "awur²"
+    },
+    {
+      "id": "144808",
+      "nama": "a.wur.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbg",
+              "nama": "Tata Boga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bahan makanan berupa cokelat atau buah-buahan kering yang ditabur di atas roti atau kue; pugas",
+          "contoh": []
+        }
+      ],
+      "rootWord": "awur¹"
+    }
+  ]
+}

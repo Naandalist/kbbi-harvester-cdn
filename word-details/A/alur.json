@@ -1,1 +1,235 @@
-{"word":"alur","authenticated":true,"entries":[{"id":"2661","nama":"a.lur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lekuk memanjang (di tanah, kayu, sungai, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalan (aturan, adat) yang benar","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"rangkaian peristiwa yang direka dan dijalin dengan saksama dan menggerakkan jalan cerita melalui kerumitan ke arah klimaks dan penyelesaian","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"jalinan peristiwa dalam karya sastra untuk mencapai efek tertentu (pautannya dapat diwujudkan oleh hubungan temporal atau waktu dan oleh hubungan kausal atau sebab-akibat)","contoh":[]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"jalan sempit pada sungai saat musim kering yang harus dilalui","contoh":[]}],"terkait":{"kataTurunan":["alur-aluran","aluran","beralur","mengalur-alur","pengaluran","sealur"],"gabunganKata":["alur air","alur balik","alur ban","alur bawahan","alur bibir","alur birokrasi","alur cahaya","alur cerita","alur erat","alur hidung","alur kapal","alur kerja","alur kerongkongan","alur ketat","alur kuku","alur kulit","alur laut","alur leher","alur longgar","alur maju","alur menanjak","alur migrasi","alur minyak","alur mundur","alur pasak","alur pelayaran","alur pendaftaran","alur pikir","alur sungai","alur tengkuk","alur waktu"],"peribahasa":["alur bertempuh, jalan berturut","tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"],"idiom":[]}},{"id":"197132","nama":"a.lur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sumber air yang terletak di tengah lahan pertanian","contoh":[{"nomor":2,"teks":"sebuah ladang yang jauh dari sungai idealnya memiliki -- agar terjamin sistem pengairannya"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["alur bertempuh, jalan berturut","tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"],"idiom":[]}},{"id":"203244","nama":"a.lur","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tj","nama":"Tunjung","tipe":"lainnya"}],"definisi":"permainan perahu-perahuan yang dilombakan secara berkelompok, dilakukan dengan menaiki batang pohon yang diapungkan di air untuk kemudian didayung ke hulu atau ke hilir, pemenangnya adalah tim yang paling cepat sampai tujuan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["alur bertempuh, jalan berturut","tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"],"idiom":[]}},{"id":"227934","nama":"a.lur","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"rumput yang tumbuh di tambak, berasa asin dan dapat dimakan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["alur bertempuh, jalan berturut","tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"],"idiom":[]}}]}
+{
+  "word": "alur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2661",
+      "nama": "a.lur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lekuk memanjang (di tanah, kayu, sungai, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalan (aturan, adat) yang benar",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "rangkaian peristiwa yang direka dan dijalin dengan saksama dan menggerakkan jalan cerita melalui kerumitan ke arah klimaks dan penyelesaian",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "jalinan peristiwa dalam karya sastra untuk mencapai efek tertentu (pautannya dapat diwujudkan oleh hubungan temporal atau waktu dan oleh hubungan kausal atau sebab-akibat)",
+          "contoh": []
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jalan sempit pada sungai saat musim kering yang harus dilalui",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "alur-aluran",
+          "aluran",
+          "beralur",
+          "mengalur-alur",
+          "pengaluran",
+          "sealur"
+        ],
+        "gabunganKata": [
+          "alur air",
+          "alur balik",
+          "alur ban",
+          "alur bawahan",
+          "alur bibir",
+          "alur birokrasi",
+          "alur cahaya",
+          "alur cerita",
+          "alur erat",
+          "alur hidung",
+          "alur kapal",
+          "alur kerja",
+          "alur kerongkongan",
+          "alur ketat",
+          "alur kuku",
+          "alur kulit",
+          "alur laut",
+          "alur leher",
+          "alur longgar",
+          "alur maju",
+          "alur menanjak",
+          "alur migrasi",
+          "alur minyak",
+          "alur mundur",
+          "alur pasak",
+          "alur pelayaran",
+          "alur pendaftaran",
+          "alur pikir",
+          "alur sungai",
+          "alur tengkuk",
+          "alur waktu"
+        ],
+        "peribahasa": [
+          "alur bertempuh, jalan berturut",
+          "tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "197132",
+      "nama": "a.lur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sumber air yang terletak di tengah lahan pertanian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebuah ladang yang jauh dari sungai idealnya memiliki -- agar terjamin sistem pengairannya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "alur bertempuh, jalan berturut",
+          "tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "203244",
+      "nama": "a.lur",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tj",
+              "nama": "Tunjung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "permainan perahu-perahuan yang dilombakan secara berkelompok, dilakukan dengan menaiki batang pohon yang diapungkan di air untuk kemudian didayung ke hulu atau ke hilir, pemenangnya adalah tim yang paling cepat sampai tujuan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "alur bertempuh, jalan berturut",
+          "tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227934",
+      "nama": "a.lur",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rumput yang tumbuh di tambak, berasa asin dan dapat dimakan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "alur bertempuh, jalan berturut",
+          "tumbuh pada alur sudah diurut, tumbuh pada jalan sudah ditempuh"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

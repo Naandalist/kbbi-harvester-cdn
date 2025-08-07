@@ -1,1 +1,81 @@
-{"word":"agan","authenticated":true,"entries":[{"id":"875","nama":"a.gan","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial beragan","contoh":[]}],"terkait":{"kataTurunan":["beragan","mengagan","mengagani"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"877","nama":"a.gan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ganggu, goda","contoh":[]}],"terkait":{"kataTurunan":["mengagan","mengagani"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"880","nama":"a.gan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"juragan","contoh":[]}]}]}
+{
+  "word": "agan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "875",
+      "nama": "a.gan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial beragan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beragan",
+          "mengagan",
+          "mengagani"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "877",
+      "nama": "a.gan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ganggu, goda",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengagan",
+          "mengagani"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "880",
+      "nama": "a.gan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "juragan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

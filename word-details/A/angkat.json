@@ -1,1 +1,191 @@
-{"word":"angkat","authenticated":true,"entries":[{"id":"4064","nama":"ang.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"naikkan; tinggikan","contoh":[{"nomor":2,"teks":"-- tangan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"ambil; bawa","contoh":[{"nomor":2,"teks":"sudahlah jangan malu-malu, -- saja"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"yang diambil","contoh":[{"nomor":2,"teks":"anak --"}]}],"etimologi":{"text":"[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["angkatan","keangkat","keangkatan","mengangkat","mengangkat-angkat","mengangkati","mengangkatkan","pengangkat","pengangkatan","perangkatan","seangkatan","terangkat"],"gabunganKata":["angkat berat","angkat besi","angkat bicara","angkat ekor","angkat hati","angkat kaki","angkat kepala","angkat koper","angkat mata","angkat meja","angkat nilai","angkat tangan","angkat telepon","angkat telor","angkat topi"],"peribahasa":["angkat batang, keluar cacing gelang-gelang","dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"],"idiom":[]}},{"id":"215156","nama":"ang.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"memulai menabuh gamelan","contoh":[{"nomor":2,"teks":"nayaga segera -- ketika tamu kehormatan memasuki ruangan"}]}],"etimologi":{"text":"[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["angkat batang, keluar cacing gelang-gelang","dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"],"idiom":[]}},{"id":"285036","nama":"ang.kat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"bangunan yang beratap tanpa dinding, tempat menyimpan kayu bakar","contoh":[]}],"etimologi":{"text":"[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["angkat batang, keluar cacing gelang-gelang","dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"],"idiom":[]}}]}
+{
+  "word": "angkat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4064",
+      "nama": "ang.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naikkan; tinggikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tangan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ambil; bawa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudahlah jangan malu-malu, -- saja"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang diambil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "angkatan",
+          "keangkat",
+          "keangkatan",
+          "mengangkat",
+          "mengangkat-angkat",
+          "mengangkati",
+          "mengangkatkan",
+          "pengangkat",
+          "pengangkatan",
+          "perangkatan",
+          "seangkatan",
+          "terangkat"
+        ],
+        "gabunganKata": [
+          "angkat berat",
+          "angkat besi",
+          "angkat bicara",
+          "angkat ekor",
+          "angkat hati",
+          "angkat kaki",
+          "angkat kepala",
+          "angkat koper",
+          "angkat mata",
+          "angkat meja",
+          "angkat nilai",
+          "angkat tangan",
+          "angkat telepon",
+          "angkat telor",
+          "angkat topi"
+        ],
+        "peribahasa": [
+          "angkat batang, keluar cacing gelang-gelang",
+          "dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "215156",
+      "nama": "ang.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "memulai menabuh gamelan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nayaga segera -- ketika tamu kehormatan memasuki ruangan"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "angkat batang, keluar cacing gelang-gelang",
+          "dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "285036",
+      "nama": "ang.kat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bangunan yang beratap tanpa dinding, tempat menyimpan kayu bakar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno aṅkat 'keberangkatan, bangun; mengangkat, menaikkan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "angkat batang, keluar cacing gelang-gelang",
+          "dari jauh orang angkat telunjuk, kalau dekat dia angkat mata"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

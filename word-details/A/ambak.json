@@ -1,1 +1,134 @@
-{"word":"ambak","authenticated":true,"entries":[{"id":"2806","nama":"am.bak","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial diambak, mengambak","contoh":[]}],"terkait":{"kataTurunan":["diambak","mengambak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"197144","nama":"am.bak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mengganti jaring penangkap ikan yang koyak akibat terkena karang atau sebab lain","contoh":[{"nomor":2,"teks":"proses -- biasanya bergantung dari besar kecilnya robekan yang ada pada jaring"}]}]},{"id":"125556","nama":"am.bak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bg","nama":"Bugis","tipe":"bahasa"}],"definisi":"jatah bermain atau giliran (dalam sebuah permainan)","contoh":[{"nomor":2,"teks":"gunakan taktik untuk mencari kelemahan lawan sebelum --"}]}]},{"id":"298219","nama":"am.bak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"rakit yang kedua sisinya dipasangi perahu untuk tempat muatan","contoh":[]}]},{"id":"212507","nama":"am.bak","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"daun yang rimbun pada bagian bawah tanaman lada","contoh":[]}]}]}
+{
+  "word": "ambak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2806",
+      "nama": "am.bak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial diambak, mengambak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "diambak",
+          "mengambak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "197144",
+      "nama": "am.bak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengganti jaring penangkap ikan yang koyak akibat terkena karang atau sebab lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "proses -- biasanya bergantung dari besar kecilnya robekan yang ada pada jaring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "125556",
+      "nama": "am.bak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bg",
+              "nama": "Bugis",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "jatah bermain atau giliran (dalam sebuah permainan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gunakan taktik untuk mencari kelemahan lawan sebelum --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "298219",
+      "nama": "am.bak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rakit yang kedua sisinya dipasangi perahu untuk tempat muatan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "212507",
+      "nama": "am.bak",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun yang rimbun pada bagian bawah tanaman lada",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

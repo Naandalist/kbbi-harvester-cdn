@@ -1,1 +1,39 @@
-{"word":"abam","authenticated":true,"entries":[{"id":"198142","nama":"a.bam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"abu rokok","contoh":[{"nomor":2,"teks":"kotor bajuku kena --"},{"nomor":4,"teks":"jangan kau buangkan -- itu ke sana"}]}]}]}
+{
+  "word": "abam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198142",
+      "nama": "a.bam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "abu rokok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kotor bajuku kena --"
+            },
+            {
+              "nomor": 4,
+              "teks": "jangan kau buangkan -- itu ke sana"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

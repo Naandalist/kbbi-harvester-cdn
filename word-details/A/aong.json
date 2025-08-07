@@ -1,1 +1,35 @@
-{"word":"aong","authenticated":true,"entries":[{"id":"181607","nama":"a.ong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MAb","nama":"Melayu Ambon","tipe":"lainnya"}],"definisi":"bekas kebun yang sudah pernah ditanami","contoh":[{"nomor":2,"teks":"-- ini sudah lama belum digarap"}]}]}]}
+{
+  "word": "aong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "181607",
+      "nama": "a.ong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MAb",
+              "nama": "Melayu Ambon",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bekas kebun yang sudah pernah ditanami",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ini sudah lama belum digarap"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

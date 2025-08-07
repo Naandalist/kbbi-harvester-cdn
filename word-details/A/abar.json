@@ -1,1 +1,95 @@
-{"word":"abar","authenticated":true,"entries":[{"id":"57","nama":"a.bar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"abar-abar","contoh":[]}],"terkait":{"kataTurunan":["abar-abar","abaran","berabarkan","mengabar","terabar"],"gabunganKata":["abar dinamik","abar independen","abar pintu","abar udara"],"peribahasa":[],"idiom":[]}},{"id":"274027","nama":"a.bar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"mengambil segenggam benda kecil-kecil","contoh":[{"nomor":2,"teks":"ibu -- beras dari karungnya"}]}]},{"id":"298185","nama":"a.bar","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"penyebab tidak dapat dilaksanakannya maksud, rencana, tujuan, dan sebagainya","contoh":[]}]}]}
+{
+  "word": "abar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57",
+      "nama": "a.bar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "abar-abar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "abar-abar",
+          "abaran",
+          "berabarkan",
+          "mengabar",
+          "terabar"
+        ],
+        "gabunganKata": [
+          "abar dinamik",
+          "abar independen",
+          "abar pintu",
+          "abar udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "274027",
+      "nama": "a.bar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengambil segenggam benda kecil-kecil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- beras dari karungnya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "298185",
+      "nama": "a.bar",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penyebab tidak dapat dilaksanakannya maksud, rencana, tujuan, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

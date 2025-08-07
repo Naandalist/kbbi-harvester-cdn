@@ -1,1 +1,89 @@
-{"word":"akses","authenticated":true,"entries":[{"id":"1797","nama":"ak.ses","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jalan masuk","contoh":[{"nomor":2,"teks":"seluruh pembangunan -- ini dibiayai oleh dana obligasi"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"pencapaian berkas di disket untuk penulisan atau pembacaan data","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"tindakan untuk memperoleh informasi, seperti cakram keras atau suatu layanan informasi","contoh":[]}],"terkait":{"kataTurunan":["keteraksesan","mengakses","pengakses","pengaksesan","terakses"],"gabunganKata":["akses arsip","akses gratis","akses informasi","akses jauh","akses ke berkas","akses ke data","akses kursi roda","akses lokal","akses pasar","akses publik","akses televisi","akses terbatas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "akses",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1797",
+      "nama": "ak.ses",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jalan masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seluruh pembangunan -- ini dibiayai oleh dana obligasi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pencapaian berkas di disket untuk penulisan atau pembacaan data",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tindakan untuk memperoleh informasi, seperti cakram keras atau suatu layanan informasi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keteraksesan",
+          "mengakses",
+          "pengakses",
+          "pengaksesan",
+          "terakses"
+        ],
+        "gabunganKata": [
+          "akses arsip",
+          "akses gratis",
+          "akses informasi",
+          "akses jauh",
+          "akses ke berkas",
+          "akses ke data",
+          "akses kursi roda",
+          "akses lokal",
+          "akses pasar",
+          "akses publik",
+          "akses televisi",
+          "akses terbatas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

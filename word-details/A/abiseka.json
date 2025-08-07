@@ -1,1 +1,53 @@
-{"word":"abiseka","authenticated":true,"entries":[{"id":"114","nama":"a.bi.se.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hin","nama":"Agama Hindu","tipe":"lainnya"}],"definisi":"upacara yang dilakukan dengan cara mandi dengan air suci (tentang penobatan raja atau pejabat tinggi)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama yang digunakan oleh raja setelah upacara penobatan","contoh":[{"nomor":2,"teks":"Hayam Wuruk telah dinobatkan dengan nama -- Sri Rajasanagara"}]}],"etimologi":{"text":"[Jawa Kuno abhiṣeka 'penobatan (sebagai raja), pengangkatan (ke posisi baru)']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "abiseka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "114",
+      "nama": "a.bi.se.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hin",
+              "nama": "Agama Hindu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "upacara yang dilakukan dengan cara mandi dengan air suci (tentang penobatan raja atau pejabat tinggi)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama yang digunakan oleh raja setelah upacara penobatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Hayam Wuruk telah dinobatkan dengan nama -- Sri Rajasanagara"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno abhiṣeka 'penobatan (sebagai raja), pengangkatan (ke posisi baru)']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

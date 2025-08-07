@@ -1,1 +1,90 @@
-{"word":"amunisi","authenticated":true,"entries":[{"id":"3236","nama":"a.mu.ni.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahan pengisi senjata api (seperti mesiu, peluru)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahan (alat) peledak yang ditembakkan kepada musuh (seperti bom, granat, roket)","contoh":[]}],"terkait":{"kataTurunan":["beramunisi","mengamunisi"],"gabunganKata":["amunisi takledak","amunisi udara"],"peribahasa":[],"idiom":[]}},{"id":"3237","nama":"a.mu.ni.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kiat atau cara","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"teknik","contoh":[]}]}]}
+{
+  "word": "amunisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3236",
+      "nama": "a.mu.ni.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahan pengisi senjata api (seperti mesiu, peluru)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahan (alat) peledak yang ditembakkan kepada musuh (seperti bom, granat, roket)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beramunisi",
+          "mengamunisi"
+        ],
+        "gabunganKata": [
+          "amunisi takledak",
+          "amunisi udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "3237",
+      "nama": "a.mu.ni.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kiat atau cara",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teknik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

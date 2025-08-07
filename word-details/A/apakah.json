@@ -1,1 +1,64 @@
-{"word":"apakah","authenticated":true,"entries":[{"id":"4739","nama":"a.pa.kah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menanyakan benda bukan manusia","contoh":[{"nomor":2,"teks":"-- yang menyebabkan kebakaran?"}]},{"nomor":"2","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menanyakan nama (sifat, jenis, dan sebagainya)","contoh":[{"nomor":2,"teks":"ular -- ini?"}]},{"nomor":"3","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"}],"definisi":"kata tanya untuk menyatakan pilihan dan menegaskan informasi yang ingin diketahui","contoh":[{"nomor":2,"teks":"-- suratku sudah sampai?"}]}]}]}
+{
+  "word": "apakah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4739",
+      "nama": "a.pa.kah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menanyakan benda bukan manusia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- yang menyebabkan kebakaran?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menanyakan nama (sifat, jenis, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ular -- ini?"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata tanya untuk menyatakan pilihan dan menegaskan informasi yang ingin diketahui",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- suratku sudah sampai?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,124 @@
-{"word":"acung","authenticated":true,"entries":[{"id":"368","nama":"a.cung","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial acungan, mengacung, mengacung-acungkan, mengacungi, mengacungkan","contoh":[]}],"terkait":{"kataTurunan":["acungan","mengacung","mengacung-acungkan","mengacungi","mengacungkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"372","nama":"a.cung","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial mengacung","contoh":[]}],"terkait":{"kataTurunan":["mengacung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"374","nama":"a.cung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"badur","contoh":[]}]},{"id":"182216","nama":"a.cung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"warna ungu lembayung atau ungu kelabu","contoh":[]}]},{"id":"301917","nama":"a.cung","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"mencencang tetapi tidak putus (tentang tulang iga, daging)","contoh":[{"nomor":2,"teks":"sebelum digiling, saya harus -- daging ini terlebih dahulu"}]}]}]}
+{
+  "word": "acung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "368",
+      "nama": "a.cung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial acungan, mengacung, mengacung-acungkan, mengacungi, mengacungkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "acungan",
+          "mengacung",
+          "mengacung-acungkan",
+          "mengacungi",
+          "mengacungkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "372",
+      "nama": "a.cung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial mengacung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengacung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "374",
+      "nama": "a.cung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "badur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "182216",
+      "nama": "a.cung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "warna ungu lembayung atau ungu kelabu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "301917",
+      "nama": "a.cung",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencencang tetapi tidak putus (tentang tulang iga, daging)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum digiling, saya harus -- daging ini terlebih dahulu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

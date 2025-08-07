@@ -1,1 +1,81 @@
-{"word":"albedo","authenticated":true,"entries":[{"id":"2234","nama":"al.be.do","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"fraksi (bagian) pantulan cahaya yang datang ke suatu permukaan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"faktor pantulan (refleksi) sebuah permukaan, seperti parafin terhadap neutron","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hidm","nama":"Hidrometeorologi","tipe":"lainnya"}],"definisi":"ukuran besar daya pantul permukaan, yaitu bagian permukaan sinaran datang, seluruhnya atau monokromatik, yang dipantulkan oleh permukaan tersebut","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"perbandingan cahaya yang diterima suatu objek langit dan cahaya yang dipantulkan kembali ke angkasa oleh objek langit tersebut","contoh":[]}]}]}
+{
+  "word": "albedo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2234",
+      "nama": "al.be.do",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "fraksi (bagian) pantulan cahaya yang datang ke suatu permukaan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "faktor pantulan (refleksi) sebuah permukaan, seperti parafin terhadap neutron",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hidm",
+              "nama": "Hidrometeorologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ukuran besar daya pantul permukaan, yaitu bagian permukaan sinaran datang, seluruhnya atau monokromatik, yang dipantulkan oleh permukaan tersebut",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perbandingan cahaya yang diterima suatu objek langit dan cahaya yang dipantulkan kembali ke angkasa oleh objek langit tersebut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

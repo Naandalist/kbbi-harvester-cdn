@@ -1,1 +1,66 @@
-{"word":"alokton","authenticated":true,"entries":[{"id":"2559","nama":"a.lok.ton","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"berasal dari luar dan dibawa ke dalam suatu habitat, komunitas, atau sistem","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"makhluk luar atau eksogen yang bukan pribumi","contoh":[]}]},{"id":"238414","nama":"a.lok.ton","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"massa batuan yang ditemukan di suatu tempat pada jarak tertentu dari tempat asalnya akibat sesar anjak atau longsor","contoh":[]}]}]}
+{
+  "word": "alokton",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2559",
+      "nama": "a.lok.ton",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berasal dari luar dan dibawa ke dalam suatu habitat, komunitas, atau sistem",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "makhluk luar atau eksogen yang bukan pribumi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "238414",
+      "nama": "a.lok.ton",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "massa batuan yang ditemukan di suatu tempat pada jarak tertentu dari tempat asalnya akibat sesar anjak atau longsor",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

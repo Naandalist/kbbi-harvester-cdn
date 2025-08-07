@@ -1,1 +1,47 @@
-{"word":"auto","authenticated":true,"entries":[{"id":"6014","nama":"au.to-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"sendiri","contoh":[{"nomor":2,"teks":"autokrasi"},{"nomor":4,"teks":"autotrof"}]}]},{"id":"6013","nama":"au.to","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ oto1","contoh":[]}]}]}
+{
+  "word": "auto",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6014",
+      "nama": "au.to-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sendiri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "autokrasi"
+            },
+            {
+              "nomor": 4,
+              "teks": "autotrof"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6013",
+      "nama": "au.to",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ oto1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

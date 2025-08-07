@@ -1,1 +1,66 @@
-{"word":"arti","authenticated":true,"entries":[{"id":"5200","nama":"ar.ti","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"maksud yang terkandung (dalam perkataan, kalimat); makna","contoh":[{"nomor":2,"teks":"apa -- isyarat itu?"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"guna; faedah","contoh":[{"nomor":2,"teks":"apa --nya bagi kamu menyakiti binatang itu"}]}],"etimologi":{"text":"[Sanskerta अर्थ artha n m 'kekayaan, keinginan, makna, harapan, rasa']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["artian","berarti","keberartian","mengartikan","pengartian","searti"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "arti",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5200",
+      "nama": "ar.ti",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maksud yang terkandung (dalam perkataan, kalimat); makna",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apa -- isyarat itu?"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "guna; faedah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apa --nya bagi kamu menyakiti binatang itu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta अर्थ artha n m 'kekayaan, keinginan, makna, harapan, rasa']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "artian",
+          "berarti",
+          "keberartian",
+          "mengartikan",
+          "pengartian",
+          "searti"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

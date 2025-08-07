@@ -1,1 +1,63 @@
-{"word":"akumulasi","authenticated":true,"entries":[{"id":"1935","nama":"a.ku.mu.la.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengumpulan; penimbunan; penghimpunan","contoh":[{"nomor":2,"teks":"-- modal"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"}],"definisi":"tambahan periodik suatu dana dari bunga atau tambahan lain pada tambahan laba neto pada laba yang ditahan","contoh":[]}],"terkait":{"kataTurunan":["berakumulasi","mengakumulasi","mengakumulasikan","pengakumulasian","terakumulasi"],"gabunganKata":["akumulasi depresiasi","akumulasi kapital","akumulasi kartu kuning"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "akumulasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1935",
+      "nama": "a.ku.mu.la.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengumpulan; penimbunan; penghimpunan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- modal"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tambahan periodik suatu dana dari bunga atau tambahan lain pada tambahan laba neto pada laba yang ditahan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berakumulasi",
+          "mengakumulasi",
+          "mengakumulasikan",
+          "pengakumulasian",
+          "terakumulasi"
+        ],
+        "gabunganKata": [
+          "akumulasi depresiasi",
+          "akumulasi kapital",
+          "akumulasi kartu kuning"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

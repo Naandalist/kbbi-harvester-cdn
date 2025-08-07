@@ -1,1 +1,408 @@
-{"word":"-an","authenticated":true,"entries":[{"id":"3239","nama":"-an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"hasil tindakan","contoh":[{"nomor":2,"teks":"buatan"},{"nomor":4,"teks":"catatan"},{"nomor":6,"teks":"didikan"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang biasa dikenai tindakan; yang di-","contoh":[{"nomor":2,"teks":"makanan"},{"nomor":4,"teks":"bacaan"}]},{"nomor":"3","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"tempat; lokasi","contoh":[{"nomor":2,"teks":"kubangan"},{"nomor":4,"teks":"pangkalan"},{"nomor":6,"teks":"tepian"},{"nomor":8,"teks":"awalan"}]},{"nomor":"4","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"alat untuk melakukan yang dinyatakan verba","contoh":[{"nomor":2,"teks":"sedotan"},{"nomor":4,"teks":"timbangan"}]},{"nomor":"5","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"kumpulan; gugusan","contoh":[{"nomor":2,"teks":"puluhan"},{"nomor":4,"teks":"ribuan"},{"nomor":6,"teks":"sayuran"},{"nomor":8,"teks":"daratan"},{"nomor":10,"teks":"lautan"}]},{"nomor":"6","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang mempunyai atau mengandung","contoh":[{"nomor":2,"teks":"durian"},{"nomor":4,"teks":"rambutan"}]},{"nomor":"7","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang menyerupai","contoh":[{"nomor":2,"teks":"gunungan"},{"nomor":4,"teks":"piringan"}]},{"nomor":"8","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"kegiatan yang berkaitan dengan pelaku atau tindakan yang banyak","contoh":[{"nomor":2,"teks":"lebaran"},{"nomor":4,"teks":"natalan"},{"nomor":6,"teks":"syukuran"}]}]},{"id":"3240","nama":"-an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"kumpulan; gugusan","contoh":[{"nomor":2,"teks":"puluhan"},{"nomor":4,"teks":"ribuan"},{"nomor":6,"teks":"sayuran"},{"nomor":8,"teks":"daratan"},{"nomor":10,"teks":"lautan"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang mempunyai atau mengandung","contoh":[{"nomor":2,"teks":"durian"},{"nomor":4,"teks":"rambutan"}]},{"nomor":"3","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang menyerupai","contoh":[{"nomor":2,"teks":"gunungan"},{"nomor":4,"teks":"piringan"}]}]},{"id":"3241","nama":"-an","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk adjektiva","nama":"-","tipe":"lainnya"}],"definisi":"hal yang mempunyai sifat","contoh":[{"nomor":2,"teks":"manisan"},{"nomor":4,"teks":"asinan"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk adjektiva","nama":"-","tipe":"lainnya"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"intensitas","contoh":[{"nomor":2,"teks":"tinggian"},{"nomor":4,"teks":"besaran"}]}]},{"id":"3242","nama":"-an","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"sufiks pembentuk verba","nama":"-","tipe":"lainnya"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"melakukan sesuatu yang pelaku atau tindakannya banyak (saling)","contoh":[{"nomor":2,"teks":"jualan"},{"nomor":4,"teks":"pacaran"}]},{"nomor":"2","kelasKata":[{"kode":"sufiks pembentuk nomina","nama":"-","tipe":"lainnya"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kegiatan yang berkaitan dengan pelaku atau tindakan yang banyak","contoh":[{"nomor":2,"teks":"lebaran"},{"nomor":4,"teks":"natalan"},{"nomor":6,"teks":"syukuran"}]}]}]}
+{
+  "word": "-an",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3239",
+      "nama": "-an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hasil tindakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buatan"
+            },
+            {
+              "nomor": 4,
+              "teks": "catatan"
+            },
+            {
+              "nomor": 6,
+              "teks": "didikan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang biasa dikenai tindakan; yang di-",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "makanan"
+            },
+            {
+              "nomor": 4,
+              "teks": "bacaan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat; lokasi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kubangan"
+            },
+            {
+              "nomor": 4,
+              "teks": "pangkalan"
+            },
+            {
+              "nomor": 6,
+              "teks": "tepian"
+            },
+            {
+              "nomor": 8,
+              "teks": "awalan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat untuk melakukan yang dinyatakan verba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sedotan"
+            },
+            {
+              "nomor": 4,
+              "teks": "timbangan"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kumpulan; gugusan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "puluhan"
+            },
+            {
+              "nomor": 4,
+              "teks": "ribuan"
+            },
+            {
+              "nomor": 6,
+              "teks": "sayuran"
+            },
+            {
+              "nomor": 8,
+              "teks": "daratan"
+            },
+            {
+              "nomor": 10,
+              "teks": "lautan"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang mempunyai atau mengandung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "durian"
+            },
+            {
+              "nomor": 4,
+              "teks": "rambutan"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang menyerupai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gunungan"
+            },
+            {
+              "nomor": 4,
+              "teks": "piringan"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kegiatan yang berkaitan dengan pelaku atau tindakan yang banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lebaran"
+            },
+            {
+              "nomor": 4,
+              "teks": "natalan"
+            },
+            {
+              "nomor": 6,
+              "teks": "syukuran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3240",
+      "nama": "-an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kumpulan; gugusan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "puluhan"
+            },
+            {
+              "nomor": 4,
+              "teks": "ribuan"
+            },
+            {
+              "nomor": 6,
+              "teks": "sayuran"
+            },
+            {
+              "nomor": 8,
+              "teks": "daratan"
+            },
+            {
+              "nomor": 10,
+              "teks": "lautan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang mempunyai atau mengandung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "durian"
+            },
+            {
+              "nomor": 4,
+              "teks": "rambutan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang menyerupai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gunungan"
+            },
+            {
+              "nomor": 4,
+              "teks": "piringan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3241",
+      "nama": "-an",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk adjektiva",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hal yang mempunyai sifat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "manisan"
+            },
+            {
+              "nomor": 4,
+              "teks": "asinan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk adjektiva",
+              "nama": "-",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "intensitas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tinggian"
+            },
+            {
+              "nomor": 4,
+              "teks": "besaran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3242",
+      "nama": "-an",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk verba",
+              "nama": "-",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melakukan sesuatu yang pelaku atau tindakannya banyak (saling)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jualan"
+            },
+            {
+              "nomor": 4,
+              "teks": "pacaran"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "sufiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kegiatan yang berkaitan dengan pelaku atau tindakan yang banyak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lebaran"
+            },
+            {
+              "nomor": 4,
+              "teks": "natalan"
+            },
+            {
+              "nomor": 6,
+              "teks": "syukuran"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

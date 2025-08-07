@@ -1,1 +1,38 @@
-{"word":"asam amino","authenticated":true,"entries":[{"id":"5369","nama":"asam amino","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"asam organik yang mengandung paling sedikit satu gugusan amino (NH₂) dan paling sedikit satu gugusan karboksil (COOH) atau turunannya, merupakan molekul dasar yang diikat satu sama lain melalui ikatan peptida dalam pembentukan molekul protein yang lebih besar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"komponen utama penyusun protein sebagai bahan dasar pembentuk sel, otot, dan sistem kekebalan tubuh","contoh":[]}],"rootWord":"asam¹"}]}
+{
+  "word": "asam amino",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5369",
+      "nama": "asam amino",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "asam organik yang mengandung paling sedikit satu gugusan amino (NH₂) dan paling sedikit satu gugusan karboksil (COOH) atau turunannya, merupakan molekul dasar yang diikat satu sama lain melalui ikatan peptida dalam pembentukan molekul protein yang lebih besar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "komponen utama penyusun protein sebagai bahan dasar pembentuk sel, otot, dan sistem kekebalan tubuh",
+          "contoh": []
+        }
+      ],
+      "rootWord": "asam¹"
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"akor","authenticated":true,"entries":[{"id":"1696","nama":"a.kor","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ akur","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["progresi akor"],"peribahasa":[],"idiom":[]}},{"id":"1697","nama":"a.kor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"kombinasi tiga nada atau lebih yang bersuara sama dalam satu oktaf","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["progresi akor"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "akor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1696",
+      "nama": "a.kor",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ akur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "progresi akor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "1697",
+      "nama": "a.kor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kombinasi tiga nada atau lebih yang bersuara sama dalam satu oktaf",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "progresi akor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

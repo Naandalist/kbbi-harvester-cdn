@@ -1,1 +1,41 @@
-{"word":"akronim","authenticated":true,"entries":[{"id":"1735","nama":"ak.ro.nim","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"singkatan yang berupa gabungan huruf atau suku kata atau bagian lain yang ditulis dan dilafalkan sebagai kata yang wajar (misalnya ponsel telepon seluler, sembako sembilan bahan pokok)","contoh":[]}],"terkait":{"kataTurunan":["mengakronimkan","pengakroniman"],"gabunganKata":["akronim rekursif"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "akronim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1735",
+      "nama": "ak.ro.nim",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "singkatan yang berupa gabungan huruf atau suku kata atau bagian lain yang ditulis dan dilafalkan sebagai kata yang wajar (misalnya ponsel telepon seluler, sembako sembilan bahan pokok)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengakronimkan",
+          "pengakroniman"
+        ],
+        "gabunganKata": [
+          "akronim rekursif"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

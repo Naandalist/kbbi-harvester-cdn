@@ -1,1 +1,66 @@
-{"word":"agar","authenticated":true,"entries":[{"id":"882","nama":"a.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata penghubung untuk menandai harapan; supaya","contoh":[{"nomor":2,"teks":"kita sebaiknya banyak makan sayuran -- selalu sehat"}]}],"etimologi":{"text":"[Persia اگر agar p 'jika, kalau']","languages":["Persia"]}},{"id":"287122","nama":"a.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Tbg","nama":"Tata Boga","tipe":"lainnya"}],"definisi":"agar-agar","contoh":[]}],"etimologi":{"text":"[Persia اگر agar p 'jika, kalau']","languages":["Persia"]}}]}
+{
+  "word": "agar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "882",
+      "nama": "a.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penghubung untuk menandai harapan; supaya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita sebaiknya banyak makan sayuran -- selalu sehat"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia اگر agar p 'jika, kalau']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    },
+    {
+      "id": "287122",
+      "nama": "a.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbg",
+              "nama": "Tata Boga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "agar-agar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia اگر agar p 'jika, kalau']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,161 @@
-{"word":"alim","authenticated":true,"entries":[{"id":"2400","nama":"a.lim","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berilmu (terutama dalam hal agama Islam)","contoh":[{"nomor":2,"teks":"ia seorang -- yang sangat disegani di kampung ini"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"saleh","contoh":[{"nomor":2,"teks":"kelihatannya ia sangat -- dan tidak pernah meninggalkan salat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang berilmu","contoh":[]}],"etimologi":{"text":"[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']","languages":["Arab"]},"terkait":{"kataTurunan":["kealiman","sealim"],"gabunganKata":["alim ulama"],"peribahasa":["sukar kaji pada orang alim, sukar uang pada orang kaya"],"idiom":[]}},{"id":"2403","nama":"a.lim","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pegawai urusan agama di Banten atau Madura","contoh":[]}],"etimologi":{"text":"[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sukar kaji pada orang alim, sukar uang pada orang kaya"],"idiom":[]}},{"id":"161985","nama":"a.lim","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"pohon keras yang tingginya mencapai 7 m, daun melanset atau elips, bunga kecil berwarna putih atau kuning, buah membulat atau membulat telur berwarna hijau hingga hitam, kayu digunakan sebagai bahan kosmetik, parfum, dan dupa; gaharu; halim2〔Aquilaria malaccensis〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon yang kulit kayunya digunakan untuk bahan pembuatan naskah tradisional berbentuk buku lipat","contoh":[]}],"etimologi":{"text":"[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["sukar kaji pada orang alim, sukar uang pada orang kaya"],"idiom":[]}}]}
+{
+  "word": "alim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2400",
+      "nama": "a.lim",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berilmu (terutama dalam hal agama Islam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia seorang -- yang sangat disegani di kampung ini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saleh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelihatannya ia sangat -- dan tidak pernah meninggalkan salat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang berilmu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "kealiman",
+          "sealim"
+        ],
+        "gabunganKata": [
+          "alim ulama"
+        ],
+        "peribahasa": [
+          "sukar kaji pada orang alim, sukar uang pada orang kaya"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "2403",
+      "nama": "a.lim",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pegawai urusan agama di Banten atau Madura",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sukar kaji pada orang alim, sukar uang pada orang kaya"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "161985",
+      "nama": "a.lim",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pohon keras yang tingginya mencapai 7 m, daun melanset atau elips, bunga kecil berwarna putih atau kuning, buah membulat atau membulat telur berwarna hijau hingga hitam, kayu digunakan sebagai bahan kosmetik, parfum, dan dupa; gaharu; halim2〔Aquilaria malaccensis〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon yang kulit kayunya digunakan untuk bahan pembuatan naskah tradisional berbentuk buku lipat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَالِمٌ ‘ālim n sg m 'orang pandai; orang yang mengamalkan ilmunya']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "sukar kaji pada orang alim, sukar uang pada orang kaya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

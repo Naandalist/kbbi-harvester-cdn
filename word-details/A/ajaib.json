@@ -1,1 +1,103 @@
-{"word":"ajaib","authenticated":true,"entries":[{"id":"1348","nama":"a.ja.ib","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"ganjil; aneh; jarang ada; tidak seperti biasa; mengherankan","contoh":[{"nomor":2,"teks":"pertunjukan yang --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"Sas","nama":"Sastra","tipe":"bidang_subjek"}],"definisi":"sesuatu yang aneh; keheranan; yang tidak dapat diterangkan dengan akal","contoh":[{"nomor":2,"teks":"itulah -- Allah"}]}],"etimologi":{"text":"[Arab عَجَائِبُ ‘ajāib n pl f 'sesuatu yang membuat ganjil']","languages":["Arab"]},"terkait":{"kataTurunan":["keajaiban","mengajaibkan","seajaib"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"1351","nama":"a.ja.ib","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"anyaman yang terjadi pada gumpalan ginjal yang arteri darahnya berubah menjadi kapiler, kemudian bersatu kembali menjadi arteri","contoh":[]}],"etimologi":{"text":"[Arab عَجَائِبُ ‘ajāib n pl f 'sesuatu yang membuat ganjil']","languages":["Arab"]}}]}
+{
+  "word": "ajaib",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1348",
+      "nama": "a.ja.ib",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ganjil; aneh; jarang ada; tidak seperti biasa; mengherankan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pertunjukan yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sas",
+              "nama": "Sastra",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sesuatu yang aneh; keheranan; yang tidak dapat diterangkan dengan akal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "itulah -- Allah"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَجَائِبُ ‘ajāib n pl f 'sesuatu yang membuat ganjil']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "keajaiban",
+          "mengajaibkan",
+          "seajaib"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "1351",
+      "nama": "a.ja.ib",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "anyaman yang terjadi pada gumpalan ginjal yang arteri darahnya berubah menjadi kapiler, kemudian bersatu kembali menjadi arteri",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَجَائِبُ ‘ajāib n pl f 'sesuatu yang membuat ganjil']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

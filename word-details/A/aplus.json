@@ -1,1 +1,52 @@
-{"word":"aplus","authenticated":true,"entries":[{"id":"4843","nama":"ap.lus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bergilir (tentang orang yang bertugas, berkawal, dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["aplusan","mengaplus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"4846","nama":"ap.lus","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ aplaus","contoh":[]}]}]}
+{
+  "word": "aplus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4843",
+      "nama": "ap.lus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergilir (tentang orang yang bertugas, berkawal, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "aplusan",
+          "mengaplus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "4846",
+      "nama": "ap.lus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ aplaus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

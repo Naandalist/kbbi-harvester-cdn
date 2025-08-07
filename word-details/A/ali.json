@@ -1,1 +1,75 @@
-{"word":"ali","authenticated":true,"entries":[{"id":"2326","nama":"a.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial mengali","contoh":[]}],"terkait":{"kataTurunan":["mengali"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"153022","nama":"a.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"hor","nama":"Hormat","tipe":"lainnya"}],"definisi":"sapaan untuk laki-laki","contoh":[]}]},{"id":"284483","nama":"a.li","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ram","nama":"Rampi","tipe":"lainnya"}],"definisi":"tikar pandan","contoh":[]}]}]}
+{
+  "word": "ali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2326",
+      "nama": "a.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial mengali",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengali"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "153022",
+      "nama": "a.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "hor",
+              "nama": "Hormat",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sapaan untuk laki-laki",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "284483",
+      "nama": "a.li",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ram",
+              "nama": "Rampi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tikar pandan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

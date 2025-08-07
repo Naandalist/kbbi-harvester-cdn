@@ -1,1 +1,57 @@
-{"word":"anco","authenticated":true,"entries":[{"id":"112250","nama":"an.co","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"Ikn","nama":"Perikanan","tipe":"bidang_subjek"}],"definisi":"jaring penangkap ikan yang berbentuk segi empat, rangkanya terbuat dari bambu, digunakan dengan cara dibenamkan ke dalam air dan diangkat ke permukaan setelah berisi ikan","contoh":[{"nomor":2,"teks":"Menteri Kelautan sudah mengeluarkan peraturan tentang larangan menggunakan --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wadah yang berupa keranjang sebagai tempat menampung ikan di perahu","contoh":[{"nomor":2,"teks":"ikan yang sudah dijaring kemudian ditampung di --"}]}]}]}
+{
+  "word": "anco",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112250",
+      "nama": "an.co",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "Ikn",
+              "nama": "Perikanan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "jaring penangkap ikan yang berbentuk segi empat, rangkanya terbuat dari bambu, digunakan dengan cara dibenamkan ke dalam air dan diangkat ke permukaan setelah berisi ikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Menteri Kelautan sudah mengeluarkan peraturan tentang larangan menggunakan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wadah yang berupa keranjang sebagai tempat menampung ikan di perahu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ikan yang sudah dijaring kemudian ditampung di --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

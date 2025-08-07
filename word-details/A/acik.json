@@ -1,1 +1,130 @@
-{"word":"acik","authenticated":true,"entries":[{"id":"343","nama":"a.cik","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada perempuan yang lebih tua, seperti kakak perempuan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"anak ketujuh dari suku Melayu di Rokan Hilir, Riau","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bibi","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']","languages":["Hokkien dialek Xiamen"]}},{"id":"230722","nama":"a.cik","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tomprang yang sasarannya tanah","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']","languages":["Hokkien dialek Xiamen"]}},{"id":"245784","nama":"a.cik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klm","nama":"Melayu Kalimantan","tipe":"lainnya"}],"definisi":"panggilan untuk anak yang berpostur tubuh kecil","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "acik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "343",
+      "nama": "a.cik",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada perempuan yang lebih tua, seperti kakak perempuan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "anak ketujuh dari suku Melayu di Rokan Hilir, Riau",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bibi",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "230722",
+      "nama": "a.cik",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tomprang yang sasarannya tanah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "245784",
+      "nama": "a.cik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klm",
+              "nama": "Melayu Kalimantan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "panggilan untuk anak yang berpostur tubuh kecil",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 阿姊 á chí 'kakak perempuan']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

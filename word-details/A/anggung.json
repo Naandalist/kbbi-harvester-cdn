@@ -1,1 +1,63 @@
-{"word":"anggung","authenticated":true,"entries":[{"id":"3843","nama":"ang.gung","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"angkat","contoh":[]}],"terkait":{"kataTurunan":["menganggung","menganggungkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"110168","nama":"ang.gung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"0","contoh":[]}]}]}
+{
+  "word": "anggung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3843",
+      "nama": "ang.gung",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angkat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menganggung",
+          "menganggungkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "110168",
+      "nama": "ang.gung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "0",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

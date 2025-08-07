@@ -1,1 +1,52 @@
-{"word":"abahan","authenticated":true,"entries":[{"id":"200361","nama":"a.ba.han","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bahan untuk membuat rumah atau jembatan (tentang kayu atau bambu)","contoh":[{"nomor":2,"teks":"-- berkualitas baik untuk membuat jembatan yang kuat biasanya direndam di sungai dahulu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"kayu yang digunakan sebagai tatakan memenggal leher","contoh":[]}]}]}
+{
+  "word": "abahan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200361",
+      "nama": "a.ba.han",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bahan untuk membuat rumah atau jembatan (tentang kayu atau bambu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- berkualitas baik untuk membuat jembatan yang kuat biasanya direndam di sungai dahulu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu yang digunakan sebagai tatakan memenggal leher",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

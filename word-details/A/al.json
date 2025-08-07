@@ -1,1 +1,96 @@
-{"word":"al","authenticated":true,"entries":[{"id":"92082","nama":"al","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"alat; peralatan","contoh":[]}],"etimologi":{"text":"[Arab أَلْ al p 'kata penentu']","languages":["Arab"]}},{"id":"1980","nama":"al","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"kata penentu, misalnya dalam kata Alkitab","contoh":[]}],"etimologi":{"text":"[Arab أَلْ al p 'kata penentu']","languages":["Arab"]}},{"id":"92081","nama":"AL","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Angkatan Laut","contoh":[]}],"etimologi":{"text":"[Arab أَلْ al p 'kata penentu']","languages":["Arab"]}}]}
+{
+  "word": "al",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92082",
+      "nama": "al",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat; peralatan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَلْ al p 'kata penentu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "1980",
+      "nama": "al",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kata penentu, misalnya dalam kata Alkitab",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَلْ al p 'kata penentu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "92081",
+      "nama": "AL",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Angkatan Laut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَلْ al p 'kata penentu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

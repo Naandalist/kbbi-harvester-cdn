@@ -1,1 +1,78 @@
-{"word":"andan","authenticated":true,"entries":[{"id":"3619","nama":"an.dan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bulai","contoh":[]}]},{"id":"3620","nama":"an.dan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berkerabat (bersanak) dekat karena perkawinan, bukan karena hubungan darah","contoh":[]}]},{"id":"196321","nama":"an.dan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"sengaja dihias dengan aneka ragam hiasan untuk keperluan suatu acara atau upacara (tentang tempat)","contoh":[{"nomor":2,"teks":"ruangan ini -- untuk perayaan hari jadi kota"}]}]}]}
+{
+  "word": "andan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3619",
+      "nama": "an.dan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bulai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "3620",
+      "nama": "an.dan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berkerabat (bersanak) dekat karena perkawinan, bukan karena hubungan darah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "196321",
+      "nama": "an.dan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sengaja dihias dengan aneka ragam hiasan untuk keperluan suatu acara atau upacara (tentang tempat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ruangan ini -- untuk perayaan hari jadi kota"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

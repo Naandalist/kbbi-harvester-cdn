@@ -1,1 +1,48 @@
-{"word":"agaknya","authenticated":true,"entries":[{"id":"827","nama":"a.gak.nya","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"kiranya; rupanya","contoh":[{"nomor":2,"teks":"~ hari akan hujan"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"gerangan","contoh":[{"nomor":2,"teks":"siapa ~ yang mengambil buku saya"}]}],"rootWord":"agak¹"}]}
+{
+  "word": "agaknya",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "827",
+      "nama": "a.gak.nya",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kiranya; rupanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ hari akan hujan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gerangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "siapa ~ yang mengambil buku saya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "agak¹"
+    }
+  ]
+}

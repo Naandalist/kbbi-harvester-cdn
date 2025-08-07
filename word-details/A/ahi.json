@@ -1,1 +1,83 @@
-{"word":"ahi","authenticated":true,"entries":[{"id":"182810","nama":"a.hi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kur","nama":"Kur","tipe":"lainnya"}],"definisi":"pencungkil daging kelapa yang terbuat dari besi, berbentuk sendok, dan ujungnya ditajamkan","contoh":[]}]},{"id":"116408","nama":"a.hi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ht","nama":"Hitu","tipe":"lainnya"}],"definisi":"memetik buah","contoh":[]}]},{"id":"137368","nama":"a.hi","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Btk","nama":"Bantik","tipe":"lainnya"}],"definisi":"sisa daun yang terbakar lalu diterbangkan angin","contoh":[{"nomor":2,"teks":"adik menderita sakit mata akibat --"}]}]}]}
+{
+  "word": "ahi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "182810",
+      "nama": "a.hi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kur",
+              "nama": "Kur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pencungkil daging kelapa yang terbuat dari besi, berbentuk sendok, dan ujungnya ditajamkan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "116408",
+      "nama": "a.hi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ht",
+              "nama": "Hitu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memetik buah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "137368",
+      "nama": "a.hi",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Btk",
+              "nama": "Bantik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sisa daun yang terbakar lalu diterbangkan angin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik menderita sakit mata akibat --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,268 @@
-{"word":"awan","authenticated":true,"entries":[{"id":"6128","nama":"a.wan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelompok butiran air, es, atau kedua-duanya yang tampak mengelompok di atmosfer; mega","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"titik-titik air yang halus dengan diameter 0,02–0,06 mm","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama berbagai-bagai corak ukiran (perhiasan, lukisan, pola) seperti -- biji mentimun dan -- bunga cengkih","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tempat yang tinggi sekali","contoh":[{"nomor":2,"teks":"anganku melayang jauh tinggi di --"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"kelompok materi yang terdiri atas debu dan gas di ruang antarbintang","contoh":[]}],"etimologi":{"text":"[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["awan-awanan","awan-berawan","berawan","keawanan","mengawan","pengawan","perawanan"],"gabunganKata":["awan air","awan air terjun","awan aksesoris","awan akustik","awan arkus","awan bakaran","awan bakat kuning","awan bakat merah","awan berarak","awan bersilap","awan bolong","awan campur","awan debu","awan depresi","awan elektron","awan es","awan fohn","awan gebos","awan gelombang","awan gemawan","awan golak-galik","awan gulung","awan guntur","awan hitam","awan hujan","awan induk","awan induk mutiara","awan industri","awan inversi","awan jamur","awan jejak","awan kavum","awan kelabu","awan kemawan","awan kerawang","awan konveksi","awan konvektif","awan kumulonimbus","awan kumulus","awan lapis","awan larat","awan ledakan","awan lentikular","awan luncur","awan malam","awan menangis","awan mengandung hujan","awan molekular raksasa","awan nakreus","awan nimbo stratus","awan Oort","awan orograf","awan orografik","awan panas","awan panji","awan pelangi","awan pengarak hujan","awan perak","awan pita","awan puncak","awan rak","awan rendah","awan rotor","awan siro kumulus","awan siro stratus","awan strato kumulus","awan tengah","awan tetes air","awan tinggi","awan topan","awan topi","awan tudung","awan vulkanis"],"peribahasa":["bagai awan berarak","bagai bulan disapun awan","malam berselimut embun, siang bertudung awan","putih mengandung awan, kelam baja mengandung hujan","siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"],"idiom":["serasa di balik awan"]}},{"id":"6176","nama":"a.wan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kera yang bertangan panjang; (kera) ungka; wawa; wak-wak〔Hylobates lar (agilis)〕","contoh":[]}],"etimologi":{"text":"[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai awan berarak","bagai bulan disapun awan","malam berselimut embun, siang bertudung awan","putih mengandung awan, kelam baja mengandung hujan","siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"],"idiom":["serasa di balik awan"]}},{"id":"244539","nama":"a.wan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sepupu laki-laki","contoh":[]}],"etimologi":{"text":"[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai awan berarak","bagai bulan disapun awan","malam berselimut embun, siang bertudung awan","putih mengandung awan, kelam baja mengandung hujan","siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"],"idiom":["serasa di balik awan"]}}]}
+{
+  "word": "awan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6128",
+      "nama": "a.wan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelompok butiran air, es, atau kedua-duanya yang tampak mengelompok di atmosfer; mega",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "titik-titik air yang halus dengan diameter 0,02–0,06 mm",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama berbagai-bagai corak ukiran (perhiasan, lukisan, pola) seperti -- biji mentimun dan -- bunga cengkih",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat yang tinggi sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anganku melayang jauh tinggi di --"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kelompok materi yang terdiri atas debu dan gas di ruang antarbintang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "awan-awanan",
+          "awan-berawan",
+          "berawan",
+          "keawanan",
+          "mengawan",
+          "pengawan",
+          "perawanan"
+        ],
+        "gabunganKata": [
+          "awan air",
+          "awan air terjun",
+          "awan aksesoris",
+          "awan akustik",
+          "awan arkus",
+          "awan bakaran",
+          "awan bakat kuning",
+          "awan bakat merah",
+          "awan berarak",
+          "awan bersilap",
+          "awan bolong",
+          "awan campur",
+          "awan debu",
+          "awan depresi",
+          "awan elektron",
+          "awan es",
+          "awan fohn",
+          "awan gebos",
+          "awan gelombang",
+          "awan gemawan",
+          "awan golak-galik",
+          "awan gulung",
+          "awan guntur",
+          "awan hitam",
+          "awan hujan",
+          "awan induk",
+          "awan induk mutiara",
+          "awan industri",
+          "awan inversi",
+          "awan jamur",
+          "awan jejak",
+          "awan kavum",
+          "awan kelabu",
+          "awan kemawan",
+          "awan kerawang",
+          "awan konveksi",
+          "awan konvektif",
+          "awan kumulonimbus",
+          "awan kumulus",
+          "awan lapis",
+          "awan larat",
+          "awan ledakan",
+          "awan lentikular",
+          "awan luncur",
+          "awan malam",
+          "awan menangis",
+          "awan mengandung hujan",
+          "awan molekular raksasa",
+          "awan nakreus",
+          "awan nimbo stratus",
+          "awan Oort",
+          "awan orograf",
+          "awan orografik",
+          "awan panas",
+          "awan panji",
+          "awan pelangi",
+          "awan pengarak hujan",
+          "awan perak",
+          "awan pita",
+          "awan puncak",
+          "awan rak",
+          "awan rendah",
+          "awan rotor",
+          "awan siro kumulus",
+          "awan siro stratus",
+          "awan strato kumulus",
+          "awan tengah",
+          "awan tetes air",
+          "awan tinggi",
+          "awan topan",
+          "awan topi",
+          "awan tudung",
+          "awan vulkanis"
+        ],
+        "peribahasa": [
+          "bagai awan berarak",
+          "bagai bulan disapun awan",
+          "malam berselimut embun, siang bertudung awan",
+          "putih mengandung awan, kelam baja mengandung hujan",
+          "siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"
+        ],
+        "idiom": [
+          "serasa di balik awan"
+        ]
+      }
+    },
+    {
+      "id": "6176",
+      "nama": "a.wan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kera yang bertangan panjang; (kera) ungka; wawa; wak-wak〔Hylobates lar (agilis)〕",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai awan berarak",
+          "bagai bulan disapun awan",
+          "malam berselimut embun, siang bertudung awan",
+          "putih mengandung awan, kelam baja mengandung hujan",
+          "siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"
+        ],
+        "idiom": [
+          "serasa di balik awan"
+        ]
+      }
+    },
+    {
+      "id": "244539",
+      "nama": "a.wan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepupu laki-laki",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta पवन pavana n m 'bersih, sepoi-sepoi']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai awan berarak",
+          "bagai bulan disapun awan",
+          "malam berselimut embun, siang bertudung awan",
+          "putih mengandung awan, kelam baja mengandung hujan",
+          "siang bernapas, malam berembun (malam berselimut embun, siang bertudung awan)"
+        ],
+        "idiom": [
+          "serasa di balik awan"
+        ]
+      }
+    }
+  ]
+}

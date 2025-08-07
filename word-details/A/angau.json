@@ -1,1 +1,88 @@
-{"word":"angau","authenticated":true,"entries":[{"id":"151681","nama":"a.ngau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"terbayang atau terkenang kepada seseorang, terutama apabila dilamun cinta","contoh":[]}]},{"id":"169016","nama":"a.ngau","nomor":"22","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"menyukai seseorang tetapi tidak berani mengungkapkan","contoh":[{"nomor":2,"teks":"jangan hanya -- saja, cobalah mendekatinya"}]}]},{"id":"271677","nama":"a.ngau","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"melangkahi hidangan (tentang makanan)","contoh":[{"nomor":2,"teks":"anak itu dimarahi ibunya karena -- makanan saat kumpul keluarga"}]}]}]}
+{
+  "word": "angau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "151681",
+      "nama": "a.ngau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terbayang atau terkenang kepada seseorang, terutama apabila dilamun cinta",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "169016",
+      "nama": "a.ngau",
+      "nomor": "22",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyukai seseorang tetapi tidak berani mengungkapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan hanya -- saja, cobalah mendekatinya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "271677",
+      "nama": "a.ngau",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melangkahi hidangan (tentang makanan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu dimarahi ibunya karena -- makanan saat kumpul keluarga"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

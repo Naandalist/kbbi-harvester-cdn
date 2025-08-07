@@ -1,1 +1,71 @@
-{"word":"arwah","authenticated":true,"entries":[{"id":"5299","nama":"ar.wah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jiwa orang yang meninggal; roh","contoh":[{"nomor":2,"teks":"semoga --nya diterima di sisi Tuhan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"semangat","contoh":[{"nomor":2,"teks":"hilang --"}]}],"etimologi":{"text":"[Arab أَرْوَاحٌ arwāḥ n pl f 'tiupan; sesuatu yang membuat manusia dapat hidup']","languages":["Arab"]},"terkait":{"kataTurunan":["berarwah","mengarwahkan"],"gabunganKata":["arwah gentayangan","arwah jahat","arwah penasaran"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "arwah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5299",
+      "nama": "ar.wah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jiwa orang yang meninggal; roh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semoga --nya diterima di sisi Tuhan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semangat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hilang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَرْوَاحٌ arwāḥ n pl f 'tiupan; sesuatu yang membuat manusia dapat hidup']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berarwah",
+          "mengarwahkan"
+        ],
+        "gabunganKata": [
+          "arwah gentayangan",
+          "arwah jahat",
+          "arwah penasaran"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

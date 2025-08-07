@@ -1,1 +1,83 @@
-{"word":"ais","authenticated":true,"entries":[{"id":"1342","nama":"a.is","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"bola menyentuh tangan (pemain bola kaki)","contoh":[]}]},{"id":"145018","nama":"a.is","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"puting susu babi","contoh":[]}]},{"id":"286884","nama":"AIS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kap","nama":"Perkapalan","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sistem pelacakan otomatis yang digunakan pada kapal; automatic identification system","contoh":[]}]}]}
+{
+  "word": "ais",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1342",
+      "nama": "a.is",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bola menyentuh tangan (pemain bola kaki)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "145018",
+      "nama": "a.is",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "puting susu babi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "286884",
+      "nama": "AIS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kap",
+              "nama": "Perkapalan",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sistem pelacakan otomatis yang digunakan pada kapal; automatic identification system",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

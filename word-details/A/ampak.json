@@ -1,1 +1,64 @@
-{"word":"ampak","authenticated":true,"entries":[{"id":"135741","nama":"am.pak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klm","nama":"Melayu Kalimantan","tipe":"lainnya"}],"definisi":"padi yang tidak ada isinya","contoh":[{"nomor":2,"teks":"hasil panen kali ini banyak --"}]}]},{"id":"276708","nama":"am.pak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"datang atau pergi beramai-ramai","contoh":[{"nomor":2,"teks":"mereka -- melakukan demo"}]}]}]}
+{
+  "word": "ampak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "135741",
+      "nama": "am.pak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klm",
+              "nama": "Melayu Kalimantan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "padi yang tidak ada isinya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil panen kali ini banyak --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "276708",
+      "nama": "am.pak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "datang atau pergi beramai-ramai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka -- melakukan demo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

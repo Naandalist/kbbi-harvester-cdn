@@ -1,1 +1,91 @@
-{"word":"abs","authenticated":true,"entries":[{"id":"98311","nama":"abs","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Anat","nama":"Anatomi","tipe":"lainnya"}],"definisi":"otot abdominal","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["abs bawah"],"peribahasa":[],"idiom":[]}},{"id":"92033","nama":"ABS","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"asal bapak senang (sebutan untuk kata-kata dan sikap manis yang dilakukan untuk menyenangkan hati atasan)","contoh":[]}]},{"id":"232890","nama":"ABS","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"sistem pengereman antikunci; anti-lock braking system","contoh":[]}]}]}
+{
+  "word": "abs",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "98311",
+      "nama": "abs",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Anat",
+              "nama": "Anatomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "otot abdominal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "abs bawah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "92033",
+      "nama": "ABS",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "asal bapak senang (sebutan untuk kata-kata dan sikap manis yang dilakukan untuk menyenangkan hati atasan)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "232890",
+      "nama": "ABS",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sistem pengereman antikunci; anti-lock braking system",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

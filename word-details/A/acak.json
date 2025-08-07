@@ -1,1 +1,120 @@
-{"word":"acak","authenticated":true,"entries":[{"id":"282","nama":"a.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tanpa pola; sebarang","contoh":[{"nomor":2,"teks":"responden kuis itu diambil secara --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Stat","nama":"Statistik","tipe":"lainnya"}],"definisi":"penggambaran suatu pemilihan yang tidak dibatasi atau kalau dibatasi harus diwujudkan dengan menggunakan pemilihan peluang","contoh":[]}],"terkait":{"kataTurunan":["acak-acakan","acakan","mengacak","pengacak","pengacakan","seacak","teracak","acak-acak"],"gabunganKata":["acak parohan"],"peribahasa":[],"idiom":[]}},{"id":"288","nama":"a.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"acap","contoh":[]}],"terkait":{"kataTurunan":["acak-acak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"275926","nama":"a.cak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ach","nama":"Aceh","tipe":"bahasa"}],"definisi":"gelombang-gelombang kecil yang beriringan di tengah laut, biasanya digunakan untuk menentukan kedalaman laut, lokasi terumbu karang, serta arah dan kondisi angin","contoh":[]}]}]}
+{
+  "word": "acak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "282",
+      "nama": "a.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanpa pola; sebarang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "responden kuis itu diambil secara --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Stat",
+              "nama": "Statistik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penggambaran suatu pemilihan yang tidak dibatasi atau kalau dibatasi harus diwujudkan dengan menggunakan pemilihan peluang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "acak-acakan",
+          "acakan",
+          "mengacak",
+          "pengacak",
+          "pengacakan",
+          "seacak",
+          "teracak",
+          "acak-acak"
+        ],
+        "gabunganKata": [
+          "acak parohan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "288",
+      "nama": "a.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "acap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "acak-acak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "275926",
+      "nama": "a.cak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ach",
+              "nama": "Aceh",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gelombang-gelombang kecil yang beriringan di tengah laut, biasanya digunakan untuk menentukan kedalaman laut, lokasi terumbu karang, serta arah dan kondisi angin",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

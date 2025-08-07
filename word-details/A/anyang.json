@@ -1,1 +1,108 @@
-{"word":"anyang","authenticated":true,"entries":[{"id":"4701","nama":"a.nyang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"makanan yang dibuat dari kerang mentah, daging, dan sebagainya dicampur rempah-rempah dan buah-buahan mentah dibumbui lada dan garam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"urap","contoh":[]}],"terkait":{"kataTurunan":["menganyang"],"gabunganKata":["anyang keluang","anyang pakis","anyang pangkek","anyang udang"],"peribahasa":[],"idiom":[]}},{"id":"181536","nama":"a.nyang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"buah bidara putih〔Ziziphus mauritiana〕","contoh":[]}]},{"id":"277014","nama":"a.nyang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"memakan biji-bijiaan mentah","contoh":[{"nomor":2,"teks":"burung itu --"}]}]}]}
+{
+  "word": "anyang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4701",
+      "nama": "a.nyang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makanan yang dibuat dari kerang mentah, daging, dan sebagainya dicampur rempah-rempah dan buah-buahan mentah dibumbui lada dan garam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "urap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menganyang"
+        ],
+        "gabunganKata": [
+          "anyang keluang",
+          "anyang pakis",
+          "anyang pangkek",
+          "anyang udang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "181536",
+      "nama": "a.nyang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "buah bidara putih〔Ziziphus mauritiana〕",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "277014",
+      "nama": "a.nyang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memakan biji-bijiaan mentah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "burung itu --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

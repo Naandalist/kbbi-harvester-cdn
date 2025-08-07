@@ -1,1 +1,96 @@
-{"word":"abstrak","authenticated":true,"entries":[{"id":"218","nama":"ab.strak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berwujud; tidak berbentuk; mujarad; niskala","contoh":[{"nomor":2,"teks":"kebaikan dan kebenaran adalah pengertian yang --"}]}],"terkait":{"kataTurunan":["keabstrakan","mengabstrakkan","pengabstrakan","seabstrak","pengabstraksian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"221","nama":"ab.strak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikhtisar (karangan, laporan, dan sebagainya); ringkasan; inti","contoh":[]}],"terkait":{"kataTurunan":["mengabstrakkan","pengabstrakan","pengabstraksian","seabstrak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"216538","nama":"ab.strak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"karya seni yang terdiri atas susunan baris, bentuk, dan warna yang bebas dari ilusi bentuk-bentuk objek di alam","contoh":[]}]}]}
+{
+  "word": "abstrak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "218",
+      "nama": "ab.strak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berwujud; tidak berbentuk; mujarad; niskala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kebaikan dan kebenaran adalah pengertian yang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keabstrakan",
+          "mengabstrakkan",
+          "pengabstrakan",
+          "seabstrak",
+          "pengabstraksian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "221",
+      "nama": "ab.strak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikhtisar (karangan, laporan, dan sebagainya); ringkasan; inti",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengabstrakkan",
+          "pengabstrakan",
+          "pengabstraksian",
+          "seabstrak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216538",
+      "nama": "ab.strak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "karya seni yang terdiri atas susunan baris, bentuk, dan warna yang bebas dari ilusi bentuk-bentuk objek di alam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

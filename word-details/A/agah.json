@@ -1,1 +1,89 @@
-{"word":"agah","authenticated":true,"entries":[{"id":"819","nama":"a.gah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pandangi; tatapi; hadapi","contoh":[]}],"terkait":{"kataTurunan":["beragah","beragah-agah","beragah-agahan","mengagah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"227877","nama":"a.gah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mt","nama":"Mentawai","tipe":"lainnya"}],"definisi":"rasa sakit akibat gatal yang muncul tiba-tiba tanpa diketahui penyebabnya","contoh":[]}]},{"id":"241468","nama":"a.gah","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bsm","nama":"Basemah","tipe":"lainnya"}],"definisi":"mengajak bayi bercanda supaya tertawa","contoh":[{"nomor":2,"teks":"ayah sedang -- adik sepulang kerja"}]}]}]}
+{
+  "word": "agah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "819",
+      "nama": "a.gah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pandangi; tatapi; hadapi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beragah",
+          "beragah-agah",
+          "beragah-agahan",
+          "mengagah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227877",
+      "nama": "a.gah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mt",
+              "nama": "Mentawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rasa sakit akibat gatal yang muncul tiba-tiba tanpa diketahui penyebabnya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "241468",
+      "nama": "a.gah",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bsm",
+              "nama": "Basemah",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengajak bayi bercanda supaya tertawa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayah sedang -- adik sepulang kerja"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

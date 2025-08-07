@@ -1,1 +1,40 @@
-{"word":"analgetik","authenticated":true,"entries":[{"id":"110559","nama":"a.nal.ge.tik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Far","nama":"Farmasi dan Farmakologi","tipe":"bidang_subjek"},{"kode":"Far","nama":"Farmasi dan Farmakologi","tipe":"bidang_subjek"}],"definisi":"analgesik","contoh":[{"nomor":2,"teks":"dokter itu memberikan obat-obatan -- kepada pasien"}]}]}]}
+{
+  "word": "analgetik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "110559",
+      "nama": "a.nal.ge.tik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Far",
+              "nama": "Farmasi dan Farmakologi",
+              "tipe": "bidang_subjek"
+            },
+            {
+              "kode": "Far",
+              "nama": "Farmasi dan Farmakologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "analgesik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dokter itu memberikan obat-obatan -- kepada pasien"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

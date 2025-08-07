@@ -1,1 +1,59 @@
-{"word":"aja","authenticated":true,"entries":[{"id":"1344","nama":"a.ja","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"sebutan untuk putri bangsawan (Deli)","contoh":[]}]},{"id":"161727","nama":"a.ja","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"saja","contoh":[]}]}]}
+{
+  "word": "aja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1344",
+      "nama": "a.ja",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sebutan untuk putri bangsawan (Deli)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "161727",
+      "nama": "a.ja",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saja",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

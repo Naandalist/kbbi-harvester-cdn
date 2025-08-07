@@ -1,1 +1,35 @@
-{"word":"akg","authenticated":true,"entries":[{"id":"143846","nama":"AKG","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gz","nama":"Ilmu Gizi","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"angka kecukupan gizi","contoh":[]}]}]}
+{
+  "word": "akg",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "143846",
+      "nama": "AKG",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gz",
+              "nama": "Ilmu Gizi",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "angka kecukupan gizi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

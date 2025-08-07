@@ -1,1 +1,64 @@
-{"word":"amrik","authenticated":true,"entries":[{"id":"200364","nama":"am.rik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"wangi menyengat (tentang bau)","contoh":[{"nomor":2,"teks":"ketika melintasi permakaman tua, tiba-tiba ada bau -- serupa kembang kantil keraton menguar"}]}]},{"id":"200081","nama":"Am.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"Amerika Serikat","contoh":[{"nomor":2,"teks":"dia sedang berlibur di --"}]}]}]}
+{
+  "word": "amrik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200364",
+      "nama": "am.rik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "wangi menyengat (tentang bau)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika melintasi permakaman tua, tiba-tiba ada bau -- serupa kembang kantil keraton menguar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "200081",
+      "nama": "Am.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Amerika Serikat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia sedang berlibur di --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

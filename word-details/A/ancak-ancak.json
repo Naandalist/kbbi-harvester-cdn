@@ -1,1 +1,79 @@
-{"word":"ancak-ancak","authenticated":true,"entries":[{"id":"3551","nama":"an.cak-an.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tidak memedulikan baik buruknya, untung ruginya, dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"gila-gilaan; main-main","contoh":[]}],"terkait":{"kataTurunan":["mengancak-ancak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"188875","nama":"an.cak-an.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"replika rumah sebagai tempat sajen yang dilarung ke laut, terbuat dari kayu dan daun nipah","contoh":[]}]}]}
+{
+  "word": "ancak-ancak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3551",
+      "nama": "an.cak-an.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak memedulikan baik buruknya, untung ruginya, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gila-gilaan; main-main",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengancak-ancak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "188875",
+      "nama": "an.cak-an.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "replika rumah sebagai tempat sajen yang dilarung ke laut, terbuat dari kayu dan daun nipah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

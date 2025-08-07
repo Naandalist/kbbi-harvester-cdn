@@ -1,1 +1,64 @@
-{"word":"angket","authenticated":true,"entries":[{"id":"4120","nama":"ang.ket","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Stat","nama":"Statistik","tipe":"lainnya"}],"definisi":"daftar pertanyaan tertulis mengenai masalah tertentu dengan ruang untuk jawaban bagi setiap pertanyaan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"pemeriksaan saksi dalam persidangan perkara perdata, baik yang diajukan oleh penggugat maupun oleh tergugat","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"penyelidikan oleh lembaga perwakilan rakyat terhadap kegiatan pemerintah","contoh":[]}]}]}
+{
+  "word": "angket",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4120",
+      "nama": "ang.ket",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Stat",
+              "nama": "Statistik",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daftar pertanyaan tertulis mengenai masalah tertentu dengan ruang untuk jawaban bagi setiap pertanyaan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pemeriksaan saksi dalam persidangan perkara perdata, baik yang diajukan oleh penggugat maupun oleh tergugat",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyelidikan oleh lembaga perwakilan rakyat terhadap kegiatan pemerintah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

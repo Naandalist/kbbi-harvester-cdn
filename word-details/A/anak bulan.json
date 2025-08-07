@@ -1,1 +1,43 @@
-{"word":"anak bulan","authenticated":true,"entries":[{"id":"3311","nama":"anak bulan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"orang yang tidak tentu tabiatnya (kadang-kadang baik, kadang-kadang buruk)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"bulan muda (tentang bulan pada hari pertama sampai dengan ketiga)","contoh":[{"nomor":2,"teks":"kalau sudah lihat -- bulan, nelayan pergi melaut"}]}],"rootWord":"anak"}]}
+{
+  "word": "anak bulan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3311",
+      "nama": "anak bulan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang tidak tentu tabiatnya (kadang-kadang baik, kadang-kadang buruk)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bulan muda (tentang bulan pada hari pertama sampai dengan ketiga)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau sudah lihat -- bulan, nelayan pergi melaut"
+            }
+          ]
+        }
+      ],
+      "rootWord": "anak"
+    }
+  ]
+}

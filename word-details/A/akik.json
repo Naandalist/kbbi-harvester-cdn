@@ -1,1 +1,64 @@
-{"word":"akik","authenticated":true,"entries":[{"id":"1661","nama":"a.kik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batu berwarna yang dijadikan permata cincin dan sebagainya","contoh":[{"nomor":2,"teks":"batu --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"batuan kalsedon yang tersusun berlapis-lapis dari berbagai warna","contoh":[]}],"etimologi":{"text":"[Arab عَقِيْقٌ ‘aqīq n pl m 'manik atau batu merah untuk dijadikan mata cincin']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["akik detroit","akik garnet"],"peribahasa":["akik disangka batu"],"idiom":[]}}]}
+{
+  "word": "akik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1661",
+      "nama": "a.kik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batu berwarna yang dijadikan permata cincin dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "batu --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "batuan kalsedon yang tersusun berlapis-lapis dari berbagai warna",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَقِيْقٌ ‘aqīq n pl m 'manik atau batu merah untuk dijadikan mata cincin']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "akik detroit",
+          "akik garnet"
+        ],
+        "peribahasa": [
+          "akik disangka batu"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

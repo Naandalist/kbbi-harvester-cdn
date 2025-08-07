@@ -1,1 +1,48 @@
-{"word":"ayuk","authenticated":true,"entries":[{"id":"6361","nama":"a.yuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ ayut","contoh":[]}]},{"id":"170112","nama":"a.yuk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"berhubungan badan","contoh":[{"nomor":2,"teks":"-- hanya boleh jika sudah resmi menikah"}]}]}]}
+{
+  "word": "ayuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6361",
+      "nama": "a.yuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ ayut",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "170112",
+      "nama": "a.yuk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berhubungan badan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- hanya boleh jika sudah resmi menikah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

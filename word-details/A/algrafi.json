@@ -1,1 +1,47 @@
-{"word":"algrafi","authenticated":true,"entries":[{"id":"112143","nama":"al.gra.fi","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Graf","nama":"Grafika","tipe":"lainnya"}],"definisi":"proses mencetak dengan menggunakan lempeng aluminium","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"aluminografi","contoh":[]}]}]}
+{
+  "word": "algrafi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112143",
+      "nama": "al.gra.fi",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Graf",
+              "nama": "Grafika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "proses mencetak dengan menggunakan lempeng aluminium",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "aluminografi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

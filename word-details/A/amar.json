@@ -1,1 +1,62 @@
-{"word":"amar","authenticated":true,"entries":[{"id":"2759","nama":"a.mar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perintah; suruhan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"bunyi putusan sesudah kata memutuskan, mengadili","contoh":[]}],"etimologi":{"text":"[Arab أَمْرٌ amr n sg m 'perintah; peristiwa']","languages":["Arab"]},"terkait":{"kataTurunan":["amaran","mengamarkan"],"gabunganKata":["amar dan nahi","amar makruf nahi mungkar","amar putusan","amar raja"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "amar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2759",
+      "nama": "a.mar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perintah; suruhan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bunyi putusan sesudah kata memutuskan, mengadili",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَمْرٌ amr n sg m 'perintah; peristiwa']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "amaran",
+          "mengamarkan"
+        ],
+        "gabunganKata": [
+          "amar dan nahi",
+          "amar makruf nahi mungkar",
+          "amar putusan",
+          "amar raja"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

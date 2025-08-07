@@ -1,1 +1,216 @@
-{"word":"atas","authenticated":true,"entries":[{"id":"5821","nama":"a.tas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian (tempat) yang lebih tinggi","contoh":[{"nomor":2,"teks":"dari -- bukit kita dapat menikmati pemandangan yang indah"},{"nomor":4,"teks":"bagian -- dan bagian bawah"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"sehubungan dengan; akan","contoh":[{"nomor":2,"teks":"kami ucapkan terima kasih -- kemurahan hati Saudara"}]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"berdasarkan; menurut; sesuai dengan","contoh":[{"nomor":2,"teks":"rencana itu harus disusun -- dasar bahan-bahan yang benar"}]},{"nomor":"4","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"dari","contoh":[{"nomor":2,"teks":"buku itu terdiri -- beberapa bab"}]},{"nomor":"5","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"dengan","contoh":[{"nomor":2,"teks":"-- kemauan sendiri"},{"nomor":4,"teks":"-- nama Tuhan"},{"nomor":6,"teks":"-- usahanya sendiri"}]},{"nomor":"6","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"karena; disebabkan oleh","contoh":[{"nomor":2,"teks":"-- pertolongan gurunya, ia mendapat pekerjaan"}]},{"nomor":"7","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"menjadi","contoh":[{"nomor":2,"teks":"barang-barang ini dibagi -- dua golongan"}]},{"nomor":"8","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"tentang; terhadap","contoh":[{"nomor":2,"teks":"ia berlagak tidak mengerti -- masalah itu"}]}],"terkait":{"kataTurunan":["atas-mengatasi","atasan","beratas-atasan","mengatas","mengatasi","mengataskan","pengatasan","teratasi"],"gabunganKata":["atas kepala","atas sungai"],"peribahasa":["(seperti) abu di atas tunggul","adat berunding di atas rumah","ayam bertelur di atas padi mati kelaparan","bagai aur di atas bukit","bagai baling-baling di atas bukit","bagai kerakap tumbuh di (di atas) batu, hidup enggan mati tak mau","belanak bermain di atas karang","berlayar atas angin","hati bagai baling-baling (baling-baling di atas bukit)","hitam di atas putih","ibarat menyurat di atas air","ingat-ingat yang di atas, yang di bawah akan menimpa","janganlah hanya melihat ke atas, lihatlah juga ke bawah","jatuh di atas tilam","kalau di bawah melompat, lalu di atas menyusup","ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang","menabur (menanam) biji di atas batu","mencari belalang atas akar","menjemur bangkai ke atas bukit","menyurat di atas air","orang bergayung sama pandai, bak kundi atas dulang","pelepah bawah luruh, pelepah atas jangan gelak","seperti biji saga rambat di atas talam","seperti embun di atas daun","seperti kucing di atas tampuk","seperti meniup api di atas air","suratan atas batu","tak (ber) pucuk di atas enau","tak berpucuk di atas enau","tidur di atas miang (enjelai)"],"idiom":["di atas angin","di atas kertas","menabur biji di atas batu","menari di atas genderang orang lain","serasa di atas awang-awang"]}}]}
+{
+  "word": "atas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5821",
+      "nama": "a.tas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian (tempat) yang lebih tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari -- bukit kita dapat menikmati pemandangan yang indah"
+            },
+            {
+              "nomor": 4,
+              "teks": "bagian -- dan bagian bawah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sehubungan dengan; akan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami ucapkan terima kasih -- kemurahan hati Saudara"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berdasarkan; menurut; sesuai dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rencana itu harus disusun -- dasar bahan-bahan yang benar"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku itu terdiri -- beberapa bab"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dengan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kemauan sendiri"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- nama Tuhan"
+            },
+            {
+              "nomor": 6,
+              "teks": "-- usahanya sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "karena; disebabkan oleh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pertolongan gurunya, ia mendapat pekerjaan"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang-barang ini dibagi -- dua golongan"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tentang; terhadap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia berlagak tidak mengerti -- masalah itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "atas-mengatasi",
+          "atasan",
+          "beratas-atasan",
+          "mengatas",
+          "mengatasi",
+          "mengataskan",
+          "pengatasan",
+          "teratasi"
+        ],
+        "gabunganKata": [
+          "atas kepala",
+          "atas sungai"
+        ],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul",
+          "adat berunding di atas rumah",
+          "ayam bertelur di atas padi mati kelaparan",
+          "bagai aur di atas bukit",
+          "bagai baling-baling di atas bukit",
+          "bagai kerakap tumbuh di (di atas) batu, hidup enggan mati tak mau",
+          "belanak bermain di atas karang",
+          "berlayar atas angin",
+          "hati bagai baling-baling (baling-baling di atas bukit)",
+          "hitam di atas putih",
+          "ibarat menyurat di atas air",
+          "ingat-ingat yang di atas, yang di bawah akan menimpa",
+          "janganlah hanya melihat ke atas, lihatlah juga ke bawah",
+          "jatuh di atas tilam",
+          "kalau di bawah melompat, lalu di atas menyusup",
+          "ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang",
+          "menabur (menanam) biji di atas batu",
+          "mencari belalang atas akar",
+          "menjemur bangkai ke atas bukit",
+          "menyurat di atas air",
+          "orang bergayung sama pandai, bak kundi atas dulang",
+          "pelepah bawah luruh, pelepah atas jangan gelak",
+          "seperti biji saga rambat di atas talam",
+          "seperti embun di atas daun",
+          "seperti kucing di atas tampuk",
+          "seperti meniup api di atas air",
+          "suratan atas batu",
+          "tak (ber) pucuk di atas enau",
+          "tak berpucuk di atas enau",
+          "tidur di atas miang (enjelai)"
+        ],
+        "idiom": [
+          "di atas angin",
+          "di atas kertas",
+          "menabur biji di atas batu",
+          "menari di atas genderang orang lain",
+          "serasa di atas awang-awang"
+        ]
+      }
+    }
+  ]
+}

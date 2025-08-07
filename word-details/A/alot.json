@@ -1,1 +1,95 @@
-{"word":"alot","authenticated":true,"entries":[{"id":"2586","nama":"a.lot","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tidak mudah putus; liat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak lancar; sukar menemukan pemecahan (tentang perundingan dan sebagainya)","contoh":[{"nomor":2,"teks":"perundingan masalah tersebut ternyata berjalan --"}]}],"terkait":{"kataTurunan":["kealotan","teralot"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"250040","nama":"a.lot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"memotong bagian pucuk pohon supaya tidak tumbuh terlalu tinggi","contoh":[{"nomor":2,"teks":"paman -- pohon di depan rumah agar tidak tinggi"}]}]}]}
+{
+  "word": "alot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2586",
+      "nama": "a.lot",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak mudah putus; liat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak lancar; sukar menemukan pemecahan (tentang perundingan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perundingan masalah tersebut ternyata berjalan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kealotan",
+          "teralot"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "250040",
+      "nama": "a.lot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memotong bagian pucuk pohon supaya tidak tumbuh terlalu tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman -- pohon di depan rumah agar tidak tinggi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

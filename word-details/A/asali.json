@@ -1,1 +1,75 @@
-{"word":"asali","authenticated":true,"entries":[{"id":"5361","nama":"a.sa.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"bersifat asal","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"berasal; berbangsa","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"preferensi sebelum diset yang digunakan oleh program untuk kembali ke posisi semula","contoh":[]}],"etimologi":{"text":"[Arab أَصْلِيٌّ aṣlī n sg m 'hal yang berkaitan dengan dasar sesuatu']","languages":["Arab"]}}]}
+{
+  "word": "asali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5361",
+      "nama": "a.sa.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bersifat asal",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berasal; berbangsa",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "preferensi sebelum diset yang digunakan oleh program untuk kembali ke posisi semula",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَصْلِيٌّ aṣlī n sg m 'hal yang berkaitan dengan dasar sesuatu']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

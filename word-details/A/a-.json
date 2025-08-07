@@ -1,1 +1,64 @@
-{"word":"a-","authenticated":true,"entries":[{"id":"4","nama":"a-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"kekurangan","contoh":[{"nomor":2,"teks":"anemia"}]},{"nomor":"2","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"tidak atau bukan","contoh":[{"nomor":2,"teks":"aseksual"}]},{"nomor":"3","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"tanpa","contoh":[{"nomor":2,"teks":"anonim"}]}]}]}
+{
+  "word": "a-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4",
+      "nama": "a-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kekurangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anemia"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak atau bukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aseksual"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanpa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anonim"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

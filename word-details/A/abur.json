@@ -1,1 +1,63 @@
-{"word":"abur","authenticated":true,"entries":[{"id":"271","nama":"a.bur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"boros","contoh":[]}],"terkait":{"kataTurunan":["mengabur","pengabur"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"253050","nama":"a.bur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"dibiarkan berkeliaran (tentang ternak)","contoh":[{"nomor":2,"teks":"bebek -- di sawah yang belum ditanami"}]}]}]}
+{
+  "word": "abur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "271",
+      "nama": "a.bur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "boros",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengabur",
+          "pengabur"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "253050",
+      "nama": "a.bur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "dibiarkan berkeliaran (tentang ternak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bebek -- di sawah yang belum ditanami"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,92 @@
-{"word":"aksesi","authenticated":true,"entries":[{"id":"1800","nama":"ak.se.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengaksesan","contoh":[]}]},{"id":"93745","nama":"ak.se.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tambahan yang dimasukkan dalam suatu kumpulan atau koleksi","contoh":[]}]},{"id":"213513","nama":"ak.se.si","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"pernyataan persetujuan untuk mengikatkan diri secara definitif terhadap suatu perjanjian","contoh":[]}]},{"id":"213515","nama":"ak.se.si","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"tanaman dengan karakteristik morfologis yang spesifik atau berasal dari wilayah tertentu","contoh":[]}]}]}
+{
+  "word": "aksesi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1800",
+      "nama": "ak.se.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengaksesan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93745",
+      "nama": "ak.se.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tambahan yang dimasukkan dalam suatu kumpulan atau koleksi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "213513",
+      "nama": "ak.se.si",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pernyataan persetujuan untuk mengikatkan diri secara definitif terhadap suatu perjanjian",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "213515",
+      "nama": "ak.se.si",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tanaman dengan karakteristik morfologis yang spesifik atau berasal dari wilayah tertentu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

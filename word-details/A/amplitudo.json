@@ -1,1 +1,78 @@
-{"word":"amplitudo","authenticated":true,"entries":[{"id":"3166","nama":"am.pli.tu.do","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"simpangan yang paling jauh dari titik keseimbangan pada getaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Geo","nama":"Geografi dan Geologi","tipe":"bidang_subjek"}],"definisi":"selisih suhu tahunan atau suhu harian","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"jarak antara puncak gelombang bunyi dan titik rata-rata","contoh":[]}],"terkait":{"kataTurunan":["beramplitudo"],"gabunganKata":["amplitudo getaran","amplitudo probabilitas","amplitudo sinyal","amplitudo tinggi ombak","amplitudo tremor"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "amplitudo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3166",
+      "nama": "am.pli.tu.do",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "simpangan yang paling jauh dari titik keseimbangan pada getaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Geo",
+              "nama": "Geografi dan Geologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "selisih suhu tahunan atau suhu harian",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "jarak antara puncak gelombang bunyi dan titik rata-rata",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beramplitudo"
+        ],
+        "gabunganKata": [
+          "amplitudo getaran",
+          "amplitudo probabilitas",
+          "amplitudo sinyal",
+          "amplitudo tinggi ombak",
+          "amplitudo tremor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

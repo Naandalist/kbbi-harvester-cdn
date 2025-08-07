@@ -1,1 +1,55 @@
-{"word":"allahumma","authenticated":true,"entries":[{"id":"2522","nama":"Allahumma","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"seruan dalam doa (maknanya ‘wahai Tuhanku’)","contoh":[]}],"etimologi":{"text":"[Arab اَللّهُمَّ allāhumma 'wahai Tuhanku']","languages":["Arab"]}},{"id":"96653","nama":"Allahumma","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ Allahuma","contoh":[]}],"etimologi":{"text":"[Arab اَللّهُمَّ allāhumma 'wahai Tuhanku']","languages":["Arab"]}}]}
+{
+  "word": "allahumma",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2522",
+      "nama": "Allahumma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "seruan dalam doa (maknanya ‘wahai Tuhanku’)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab اَللّهُمَّ allāhumma 'wahai Tuhanku']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "96653",
+      "nama": "Allahumma",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ Allahuma",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab اَللّهُمَّ allāhumma 'wahai Tuhanku']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

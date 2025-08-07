@@ -1,1 +1,86 @@
-{"word":"adil","authenticated":true,"entries":[{"id":"555","nama":"a.dil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sama berat; tidak berat sebelah; tidak memihak","contoh":[{"nomor":2,"teks":"keputusan hakim itu --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berpihak kepada yang benar; berpegang pada kebenaran","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sepatutnya; tidak sewenang-wenang","contoh":[{"nomor":2,"teks":"para buruh mengemukakan tuntutan yang --"}]}],"etimologi":{"text":"[Arab عَادِلٌ ‘ādil n sg m 'orang yang disukai keputusan dan perkataannya; orang yang memutuskan dengan setara; orang yang baik perangainya']","languages":["Arab"]},"terkait":{"kataTurunan":["berkeadilan","keadilan","ketidakadilan","mengadili","mengadilkan","pengadil","pengadilan","peradilan","seadil","teradil","teradili"],"gabunganKata":[],"peribahasa":["imam yang adil lebih baik daripada hujan yang lebat","raja adil raja disembah, raja lalim raja disanggah"],"idiom":[]}}]}
+{
+  "word": "adil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "555",
+      "nama": "a.dil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sama berat; tidak berat sebelah; tidak memihak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keputusan hakim itu --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpihak kepada yang benar; berpegang pada kebenaran",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepatutnya; tidak sewenang-wenang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para buruh mengemukakan tuntutan yang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَادِلٌ ‘ādil n sg m 'orang yang disukai keputusan dan perkataannya; orang yang memutuskan dengan setara; orang yang baik perangainya']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkeadilan",
+          "keadilan",
+          "ketidakadilan",
+          "mengadili",
+          "mengadilkan",
+          "pengadil",
+          "pengadilan",
+          "peradilan",
+          "seadil",
+          "teradil",
+          "teradili"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "imam yang adil lebih baik daripada hujan yang lebat",
+          "raja adil raja disembah, raja lalim raja disanggah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

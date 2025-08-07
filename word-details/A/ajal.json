@@ -1,1 +1,72 @@
-{"word":"ajal","authenticated":true,"entries":[{"id":"1360","nama":"a.jal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batas hidup yang telah ditentukan Tuhan; saat mati; janji akan mati","contoh":[{"nomor":2,"teks":"menemui --nya"},{"nomor":4,"teks":"menghadap (menanti) --nya"},{"nomor":6,"teks":"sampai --nya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"batas waktu tertentu berlakunya sesuatu","contoh":[]}],"etimologi":{"text":"[Arab أَجَلٌ ajal n sg m 'batas waktu kematian; jatuh tempo']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["ajal menjemput","ajal samar"],"peribahasa":["sebelum ajal, berpantang mati"],"idiom":[]}}]}
+{
+  "word": "ajal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1360",
+      "nama": "a.jal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batas hidup yang telah ditentukan Tuhan; saat mati; janji akan mati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menemui --nya"
+            },
+            {
+              "nomor": 4,
+              "teks": "menghadap (menanti) --nya"
+            },
+            {
+              "nomor": 6,
+              "teks": "sampai --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "batas waktu tertentu berlakunya sesuatu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَجَلٌ ajal n sg m 'batas waktu kematian; jatuh tempo']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ajal menjemput",
+          "ajal samar"
+        ],
+        "peribahasa": [
+          "sebelum ajal, berpantang mati"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

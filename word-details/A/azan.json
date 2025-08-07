@@ -1,1 +1,50 @@
-{"word":"azan","authenticated":true,"entries":[{"id":"6393","nama":"a.zan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"seruan untuk mengajak orang melakukan salat berjemaah; bang","contoh":[{"nomor":2,"teks":"kedengaran -- sayup-sayup sampai"},{"nomor":4,"teks":"muazin ialah orang yang mengumandangkan --"}]}],"etimologi":{"text":"[Arab أَذَانٌ ażān n sg m 'pemberitahuan masuknya waktu salat']","languages":["Arab"]},"terkait":{"kataTurunan":["berazan","mengazani","mengazankan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "azan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "6393",
+      "nama": "a.zan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "seruan untuk mengajak orang melakukan salat berjemaah; bang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedengaran -- sayup-sayup sampai"
+            },
+            {
+              "nomor": 4,
+              "teks": "muazin ialah orang yang mengumandangkan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَذَانٌ ażān n sg m 'pemberitahuan masuknya waktu salat']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berazan",
+          "mengazani",
+          "mengazankan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

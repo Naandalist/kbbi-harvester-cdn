@@ -1,1 +1,82 @@
-{"word":"abuh","authenticated":true,"entries":[{"id":"255","nama":"a.buh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bengkak","contoh":[]}],"terkait":{"kataTurunan":["abuh-abuhan","abuhan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"258","nama":"a.buh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"riuh; sibuk","contoh":[]}]},{"id":"174398","nama":"a.buh","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"roh halus yang membantu dukun untuk memiliki kekuatan gaib yang melebihi kekuatan manusia biasa","contoh":[]}]}]}
+{
+  "word": "abuh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "255",
+      "nama": "a.buh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bengkak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "abuh-abuhan",
+          "abuhan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "258",
+      "nama": "a.buh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "riuh; sibuk",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "174398",
+      "nama": "a.buh",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "roh halus yang membantu dukun untuk memiliki kekuatan gaib yang melebihi kekuatan manusia biasa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

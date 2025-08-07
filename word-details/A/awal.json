@@ -1,1 +1,92 @@
-{"word":"awal","authenticated":true,"entries":[{"id":"92012","nama":"a.wal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"mula-mula (sekali); mula","contoh":[{"nomor":2,"teks":"dari -- hingga akhir"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"permulaan; yang mula-mula","contoh":[{"nomor":2,"teks":"-- tahun ini"},{"nomor":4,"teks":"pada -- abad kesepuluh"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"jauh sebelum waktu yang ditentukan","contoh":[{"nomor":2,"teks":"-- amat engkau datang"}]}],"etimologi":{"text":"[Arab أَوَّلٌ awwal n sg m 'permulaan']","languages":["Arab"]},"terkait":{"kataTurunan":["awalan","berawal","berawalan","mengawali","terawal"],"gabunganKata":["awal gerak","awal larva","awal pekan"],"peribahasa":["awal diingat akhir tiada"],"idiom":[]}}]}
+{
+  "word": "awal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92012",
+      "nama": "a.wal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mula-mula (sekali); mula",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari -- hingga akhir"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "permulaan; yang mula-mula",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tahun ini"
+            },
+            {
+              "nomor": 4,
+              "teks": "pada -- abad kesepuluh"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jauh sebelum waktu yang ditentukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- amat engkau datang"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab أَوَّلٌ awwal n sg m 'permulaan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "awalan",
+          "berawal",
+          "berawalan",
+          "mengawali",
+          "terawal"
+        ],
+        "gabunganKata": [
+          "awal gerak",
+          "awal larva",
+          "awal pekan"
+        ],
+        "peribahasa": [
+          "awal diingat akhir tiada"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

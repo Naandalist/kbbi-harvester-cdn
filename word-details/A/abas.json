@@ -1,1 +1,54 @@
-{"word":"abas","authenticated":true,"entries":[{"id":"112186","nama":"a.bas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"penyumbat ujung tukil terbuat dari ijuk atau dedaunan, berfungsi sebagai penyaring agar serangga tidak masuk saat nira dituang","contoh":[]}]},{"id":"141822","nama":"a.bas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kat","nama":"Agama Katolik","tipe":"bidang_subjek"}],"definisi":"kata sapaan kepada kepala biara laki-laki","contoh":[]}]}]}
+{
+  "word": "abas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "112186",
+      "nama": "a.bas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penyumbat ujung tukil terbuat dari ijuk atau dedaunan, berfungsi sebagai penyaring agar serangga tidak masuk saat nira dituang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "141822",
+      "nama": "a.bas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kat",
+              "nama": "Agama Katolik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kata sapaan kepada kepala biara laki-laki",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

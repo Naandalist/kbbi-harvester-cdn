@@ -1,1 +1,54 @@
-{"word":"ahe","authenticated":true,"entries":[{"id":"121486","nama":"a.he","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengikat (biasanya dahan cengkih) menjadi satu, agar mudah memetik buahnya","contoh":[{"nomor":2,"teks":"sebelum memanen cengkih, dia -- dahan-dahan pada pohon cengkih"}]}]},{"id":"170804","nama":"a.he","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sb","nama":"Sabu","tipe":"lainnya"}],"definisi":"ikan laut berukuran kecil yang biasanya diolah dengan cuka dan rumput laut, lalu dimakan mentah oleh orang Sabu","contoh":[]}]}]}
+{
+  "word": "ahe",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "121486",
+      "nama": "a.he",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengikat (biasanya dahan cengkih) menjadi satu, agar mudah memetik buahnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum memanen cengkih, dia -- dahan-dahan pada pohon cengkih"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "170804",
+      "nama": "a.he",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sb",
+              "nama": "Sabu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ikan laut berukuran kecil yang biasanya diolah dengan cuka dan rumput laut, lalu dimakan mentah oleh orang Sabu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

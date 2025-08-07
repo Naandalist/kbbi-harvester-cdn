@@ -1,1 +1,58 @@
-{"word":"alhamdulillah","authenticated":true,"entries":[{"id":"2324","nama":"al.ham.du.lil.lah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"ungkapan untuk menyatakan rasa syukur karena menerima karunia Allah Swt. (maknanya ‘segala puji bagi Allah Swt.’)","contoh":[{"nomor":2,"teks":"--, kita telah terhindar dari bahaya"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"pengungkapan pujian kepada Allah Swt. yang dibaca sebagai rangkaian zikir (subhanallah, --, Allahu Akbar, dan seterusnya) setelah salat","contoh":[]}],"etimologi":{"text":"[Arab اَلْحَمْدُ لِلّهِ al-ḥamd lillāh 'segala puji bagi Allah']","languages":["Arab"]}}]}
+{
+  "word": "alhamdulillah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2324",
+      "nama": "al.ham.du.lil.lah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ungkapan untuk menyatakan rasa syukur karena menerima karunia Allah Swt. (maknanya ‘segala puji bagi Allah Swt.’)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--, kita telah terhindar dari bahaya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengungkapan pujian kepada Allah Swt. yang dibaca sebagai rangkaian zikir (subhanallah, --, Allahu Akbar, dan seterusnya) setelah salat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab اَلْحَمْدُ لِلّهِ al-ḥamd lillāh 'segala puji bagi Allah']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

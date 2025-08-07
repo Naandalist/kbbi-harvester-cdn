@@ -1,1 +1,80 @@
-{"word":"agung","authenticated":true,"entries":[{"id":"1036","nama":"a.gung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"besar; mulia; luhur","contoh":[{"nomor":2,"teks":"kita kedatangan tamu -- dari negara tetangga"}]}],"terkait":{"kataTurunan":["keagungan","mengagung-agungkan","mengagungkan","pengagung","pengagungan","seagung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"1040","nama":"a.gung","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ gung","contoh":[]}]},{"id":"226287","nama":"a.gung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"bejana dari kuningan, mirip talempong, tetapi ukurannya lebih besar, biasanya dibunyikan dengan cara dipukul sebagai bentuk pemberitahuan kejadian dalam nagari","contoh":[]}]}]}
+{
+  "word": "agung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1036",
+      "nama": "a.gung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "besar; mulia; luhur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita kedatangan tamu -- dari negara tetangga"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keagungan",
+          "mengagung-agungkan",
+          "mengagungkan",
+          "pengagung",
+          "pengagungan",
+          "seagung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "1040",
+      "nama": "a.gung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ gung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "226287",
+      "nama": "a.gung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bejana dari kuningan, mirip talempong, tetapi ukurannya lebih besar, biasanya dibunyikan dengan cara dipukul sebagai bentuk pemberitahuan kejadian dalam nagari",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

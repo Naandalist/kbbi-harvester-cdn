@@ -1,1 +1,75 @@
-{"word":"ambruk","authenticated":true,"entries":[{"id":"2957","nama":"am.bruk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"roboh; runtuh","contoh":[{"nomor":2,"teks":"jembatan yang belum lama ini diresmikan sudah --"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jatuh sakit","contoh":[{"nomor":2,"teks":"ia -- lagi karena tidak mengindahkan nasihat dokter"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"pailit (tentang usaha dagang); bangkrut","contoh":[{"nomor":2,"teks":"perusahaannya sekarang sudah -- dan modalnya habis"}]}],"terkait":{"kataTurunan":["ambrukan","keambrukan","mengambrukkan","pengambrukan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ambruk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2957",
+      "nama": "am.bruk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "roboh; runtuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jembatan yang belum lama ini diresmikan sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jatuh sakit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- lagi karena tidak mengindahkan nasihat dokter"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pailit (tentang usaha dagang); bangkrut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perusahaannya sekarang sudah -- dan modalnya habis"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ambrukan",
+          "keambrukan",
+          "mengambrukkan",
+          "pengambrukan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

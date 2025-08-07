@@ -1,1 +1,63 @@
-{"word":"almasih","authenticated":true,"entries":[{"id":"2536","nama":"Al.ma.sih","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"sebutan lain untuk Nabi Isa a.s.","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ib","nama":"Ibrani","tipe":"lainnya"},{"kode":"Kris","nama":"Agama Kristen","tipe":"lainnya"}],"definisi":"yang diurapi","contoh":[{"nomor":2,"teks":"Isa --"}]}],"etimologi":{"text":"[Arab اَلْمَسِيْحُ al-masīḥ n sg m 'pengembara; penyembuh; orang yang jujur']","languages":["Arab"]}}]}
+{
+  "word": "almasih",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2536",
+      "nama": "Al.ma.sih",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sebutan lain untuk Nabi Isa a.s.",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ib",
+              "nama": "Ibrani",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Kris",
+              "nama": "Agama Kristen",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang diurapi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Isa --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab اَلْمَسِيْحُ al-masīḥ n sg m 'pengembara; penyembuh; orang yang jujur']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

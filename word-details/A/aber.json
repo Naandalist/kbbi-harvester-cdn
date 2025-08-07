@@ -1,1 +1,59 @@
-{"word":"aber","authenticated":true,"entries":[{"id":"133434","nama":"a.ber","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"hilang atau habis kekuatan dan kedigdayaan","contoh":[{"nomor":2,"teks":"setelah pensiun, seseorang cenderung rendah diri karena merasa --."}]}]},{"id":"165904","nama":"a.ber","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit gatal karena dingin, ditandai dengan bentol yang luas di sekujur tubuh","contoh":[{"nomor":2,"teks":"ketika musim hujan datang, banyak orang terkena --"}]}]}]}
+{
+  "word": "aber",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "133434",
+      "nama": "a.ber",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "hilang atau habis kekuatan dan kedigdayaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah pensiun, seseorang cenderung rendah diri karena merasa --."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "165904",
+      "nama": "a.ber",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit gatal karena dingin, ditandai dengan bentol yang luas di sekujur tubuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika musim hujan datang, banyak orang terkena --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

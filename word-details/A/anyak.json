@@ -1,1 +1,48 @@
-{"word":"anyak","authenticated":true,"entries":[{"id":"4691","nama":"a.nyak","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ enyak1","contoh":[]}]},{"id":"244517","nama":"a.nyak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"sejelas-jelasnya","contoh":[{"nomor":2,"teks":"ia menanyakan masalah itu dengan --"}]}]}]}
+{
+  "word": "anyak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4691",
+      "nama": "a.nyak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ enyak1",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "244517",
+      "nama": "a.nyak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sejelas-jelasnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menanyakan masalah itu dengan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

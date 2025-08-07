@@ -1,1 +1,96 @@
-{"word":"ancai","authenticated":true,"entries":[{"id":"3543","nama":"an.cai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"rusak; hancur; binasa","contoh":[]}],"terkait":{"kataTurunan":["mengancaikan","mengancai-ancaikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"3545","nama":"an.cai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"abai","contoh":[]}],"terkait":{"kataTurunan":["mengancai-ancaikan","mengancaikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"130472","nama":"an.cai","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Md","nama":"Melayu Medan","tipe":"lainnya"}],"definisi":"beban pikiran","contoh":[{"nomor":2,"teks":"perbuatan anak sulungnya menjadi -- baginya"}]}]}]}
+{
+  "word": "ancai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "3543",
+      "nama": "an.cai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "rusak; hancur; binasa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengancaikan",
+          "mengancai-ancaikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "3545",
+      "nama": "an.cai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "abai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengancai-ancaikan",
+          "mengancaikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "130472",
+      "nama": "an.cai",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Md",
+              "nama": "Melayu Medan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "beban pikiran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perbuatan anak sulungnya menjadi -- baginya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

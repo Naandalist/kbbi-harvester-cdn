@@ -1,1 +1,76 @@
-{"word":"anomali","authenticated":true,"entries":[{"id":"4336","nama":"a.no.ma.li","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak seperti yang pernah ada; penyimpangan dari yang sudah ada","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"penyimpangan atau kelainan, dipandang dari sudut konvensi gramatikal atau semantis suatu bahasa","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tek","nama":"Teknik","tipe":"bidang_subjek"}],"definisi":"penyimpangan dari keseragaman sifat fisik, sering menjadi perhatian eksplorasi (misalnya anomali waktu-lintas, anomali magnetik)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["anomali air","anomali cuaca","anomali data","anomali Ebstein","anomali gravitasi","anomali iklim","anomali ketinggian dinamik","anomali magnetik","anomali residual","anomali satelit"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "anomali",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "4336",
+      "nama": "a.no.ma.li",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak seperti yang pernah ada; penyimpangan dari yang sudah ada",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyimpangan atau kelainan, dipandang dari sudut konvensi gramatikal atau semantis suatu bahasa",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tek",
+              "nama": "Teknik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penyimpangan dari keseragaman sifat fisik, sering menjadi perhatian eksplorasi (misalnya anomali waktu-lintas, anomali magnetik)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "anomali air",
+          "anomali cuaca",
+          "anomali data",
+          "anomali Ebstein",
+          "anomali gravitasi",
+          "anomali iklim",
+          "anomali ketinggian dinamik",
+          "anomali magnetik",
+          "anomali residual",
+          "anomali satelit"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

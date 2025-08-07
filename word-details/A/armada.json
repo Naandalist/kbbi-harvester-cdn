@@ -1,1 +1,60 @@
-{"word":"armada","authenticated":true,"entries":[{"id":"5146","nama":"ar.ma.da","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rombongan (pasukan) kapal perang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rombongan kapal dagang","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rombongan suatu kesatuan","contoh":[{"nomor":2,"teks":"kedatangan menteri disambut -- perahu nelayan"}]}],"etimologi":{"text":"[Portugis armada armada n sg f 'himpunan kapal dan angkatan laut suatu negara']","languages":["Portugis"]}}]}
+{
+  "word": "armada",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "5146",
+      "nama": "ar.ma.da",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rombongan (pasukan) kapal perang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rombongan kapal dagang",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rombongan suatu kesatuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedatangan menteri disambut -- perahu nelayan"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis armada armada n sg f 'himpunan kapal dan angkatan laut suatu negara']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    }
+  ]
+}

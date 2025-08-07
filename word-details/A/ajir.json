@@ -1,1 +1,92 @@
-{"word":"ajir","authenticated":true,"entries":[{"id":"1406","nama":"a.jir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sepotong kayu, tongkat, dan sebagainya yang ditancapkan di tanah untuk merambatkan tanaman","contoh":[]}]},{"id":"144982","nama":"a.jir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"pagar betis","contoh":[]}]},{"id":"203699","nama":"a.jir","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pekerja; buruh; upahan","contoh":[]}]},{"id":"222955","nama":"a.jir","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"tongkat kayu atau besi yang digunakan sebagai alat ukur untuk membuat lubang untuk menanam biji teh","contoh":[]}]}]}
+{
+  "word": "ajir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1406",
+      "nama": "a.jir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepotong kayu, tongkat, dan sebagainya yang ditancapkan di tanah untuk merambatkan tanaman",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "144982",
+      "nama": "a.jir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pagar betis",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203699",
+      "nama": "a.jir",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekerja; buruh; upahan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "222955",
+      "nama": "a.jir",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "tongkat kayu atau besi yang digunakan sebagai alat ukur untuk membuat lubang untuk menanam biji teh",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

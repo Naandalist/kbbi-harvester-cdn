@@ -1,1 +1,49 @@
-{"word":"argo","authenticated":true,"entries":[{"id":"115778","nama":"ar.go","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"argometer","contoh":[]}]},{"id":"200219","nama":"ar.go","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gunung","contoh":[]}]}]}
+{
+  "word": "argo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "115778",
+      "nama": "ar.go",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "argometer",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "200219",
+      "nama": "ar.go",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gunung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"word":"ambar","authenticated":true,"entries":[{"id":"2835","nama":"am.bar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"damar yang keras seperti batu yang terdapat di dasar laut dan berbau harum (ada yang berasal dari perut ikan laut)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"resin fosil yang digunakan dalam perhiasan, zat celup, dan pernis","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"batu ambar; kahrab","contoh":[]}],"etimologi":{"text":"[Arab عَنْبَرٌ ‘anbar n sg m 'benda laut yang terbawa ombak sampai ke tepi laut; ikan laut yang besar; benda keras yang tak ada rasa dan baunya yang dijadikan pewangi dengan cara dibakar']","languages":["Arab"]},"terkait":{"kataTurunan":[],"gabunganKata":["ambar bunga","ambar darah","ambar kesturi","ambar kuning"],"peribahasa":[],"idiom":[]}},{"id":"184320","nama":"am.bar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ky","nama":"Karey","tipe":"lainnya"}],"definisi":"racun untuk menangkap ikan, dibuat dari akar tumbuhan liar yang ditumbuk di atas batu, lalu dicelupkan ke dalam air pada saat air surut","contoh":[]}],"etimologi":{"text":"[Arab عَنْبَرٌ ‘anbar n sg m 'benda laut yang terbawa ombak sampai ke tepi laut; ikan laut yang besar; benda keras yang tak ada rasa dan baunya yang dijadikan pewangi dengan cara dibakar']","languages":["Arab"]}}]}
+{
+  "word": "ambar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2835",
+      "nama": "am.bar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "damar yang keras seperti batu yang terdapat di dasar laut dan berbau harum (ada yang berasal dari perut ikan laut)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "resin fosil yang digunakan dalam perhiasan, zat celup, dan pernis",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "batu ambar; kahrab",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَنْبَرٌ ‘anbar n sg m 'benda laut yang terbawa ombak sampai ke tepi laut; ikan laut yang besar; benda keras yang tak ada rasa dan baunya yang dijadikan pewangi dengan cara dibakar']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ambar bunga",
+          "ambar darah",
+          "ambar kesturi",
+          "ambar kuning"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "184320",
+      "nama": "am.bar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ky",
+              "nama": "Karey",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "racun untuk menangkap ikan, dibuat dari akar tumbuhan liar yang ditumbuk di atas batu, lalu dicelupkan ke dalam air pada saat air surut",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عَنْبَرٌ ‘anbar n sg m 'benda laut yang terbawa ombak sampai ke tepi laut; ikan laut yang besar; benda keras yang tak ada rasa dan baunya yang dijadikan pewangi dengan cara dibakar']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}
