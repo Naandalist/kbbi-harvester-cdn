@@ -1,1 +1,52 @@
-{"word":"ua","authenticated":true,"entries":[{"id":"88624","nama":"u.a","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"tua","contoh":[{"nomor":2,"teks":"pak -- atau mak --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"uak","contoh":[]}]}]}
+{
+  "word": "ua",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88624",
+      "nama": "u.a",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tua",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pak -- atau mak --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "uak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

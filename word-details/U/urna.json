@@ -1,1 +1,93 @@
-{"word":"urna","authenticated":true,"entries":[{"id":"90067","nama":"ur.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"warna","contoh":[{"nomor":2,"teks":"lukisan itu dicat dengan segala --, diseling-seling dengan air mas"}]}]},{"id":"90068","nama":"ur.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"lingkaran rambut di antara alis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"mahkota","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"serban","contoh":[]}]}]}
+{
+  "word": "urna",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90067",
+      "nama": "ur.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "warna",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lukisan itu dicat dengan segala --, diseling-seling dengan air mas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90068",
+      "nama": "ur.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lingkaran rambut di antara alis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mahkota",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serban",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

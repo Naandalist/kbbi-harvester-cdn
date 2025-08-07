@@ -1,1 +1,53 @@
-{"word":"ulung","authenticated":true,"entries":[{"id":"89387","nama":"u.lung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sulung","contoh":[]}]},{"id":"89388","nama":"u.lung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berpengalaman; mahir; terbaik","contoh":[{"nomor":2,"teks":"pemimpin --"},{"nomor":4,"teks":"pencuri --"}]}]}]}
+{
+  "word": "ulung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89387",
+      "nama": "u.lung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sulung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "89388",
+      "nama": "u.lung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berpengalaman; mahir; terbaik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemimpin --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pencuri --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

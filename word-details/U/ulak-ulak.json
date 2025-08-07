@@ -1,1 +1,61 @@
-{"word":"ulak-ulak","authenticated":true,"entries":[{"id":"89172","nama":"u.lak-u.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"lekuk (di atas pinggang)","contoh":[{"nomor":2,"teks":"~ pinggang"}]}],"rootWord":"ulak¹"},{"id":"89174","nama":"u.lak-u.lak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pusaran (air, angin) yang kuat sekali","contoh":[{"nomor":2,"teks":"~ air"}]}],"rootWord":"ulak²"}]}
+{
+  "word": "ulak-ulak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89172",
+      "nama": "u.lak-u.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lekuk (di atas pinggang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ pinggang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ulak¹"
+    },
+    {
+      "id": "89174",
+      "nama": "u.lak-u.lak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pusaran (air, angin) yang kuat sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ air"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ulak²"
+    }
+  ]
+}

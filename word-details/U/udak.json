@@ -1,1 +1,62 @@
-{"word":"udak","authenticated":true,"entries":[{"id":"88895","nama":"u.dak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"kejar","contoh":[]}],"terkait":{"kataTurunan":["mengudak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"88897","nama":"u.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mengudak-udak, mengaduk-aduk menjadi satu","contoh":[]}]}]}
+{
+  "word": "udak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88895",
+      "nama": "u.dak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kejar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengudak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "88897",
+      "nama": "u.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengudak-udak, mengaduk-aduk menjadi satu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

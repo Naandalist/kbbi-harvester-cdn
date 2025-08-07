@@ -1,1 +1,76 @@
-{"word":"undagi","authenticated":true,"entries":[{"id":"89576","nama":"un.da.gi","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"tenaga ahli","contoh":[]}],"etimologi":{"text":"[Jawa Kuno uṇḍagi 'terampil, seperti tukang']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["perundagian"],"gabunganKata":["undagi lancang"],"peribahasa":[],"idiom":[]}},{"id":"162016","nama":"un.da.gi","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"perajin perkakas yang terbuat dari kayu","contoh":[]}],"etimologi":{"text":"[Jawa Kuno uṇḍagi 'terampil, seperti tukang']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "undagi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89576",
+      "nama": "un.da.gi",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tenaga ahli",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno uṇḍagi 'terampil, seperti tukang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "perundagian"
+        ],
+        "gabunganKata": [
+          "undagi lancang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "162016",
+      "nama": "un.da.gi",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "perajin perkakas yang terbuat dari kayu",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno uṇḍagi 'terampil, seperti tukang']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

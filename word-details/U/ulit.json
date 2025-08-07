@@ -1,1 +1,65 @@
-{"word":"ulit","authenticated":true,"entries":[{"id":"89346","nama":"u.lit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengulit","contoh":[]}],"terkait":{"kataTurunan":["berulit","mengulit","mengulit-ulit","mengulitkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"89351","nama":"u.lit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tidak mudah atau tidak mau (membayar utang)","contoh":[{"nomor":2,"teks":"kalau kita -- dengan utang, kepercayaan orang akan hilang"}]}]}]}
+{
+  "word": "ulit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89346",
+      "nama": "u.lit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengulit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berulit",
+          "mengulit",
+          "mengulit-ulit",
+          "mengulitkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "89351",
+      "nama": "u.lit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak mudah atau tidak mau (membayar utang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau kita -- dengan utang, kepercayaan orang akan hilang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

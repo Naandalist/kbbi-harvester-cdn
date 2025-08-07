@@ -1,1 +1,54 @@
-{"word":"unp","authenticated":true,"entries":[{"id":"93288","nama":"UNP","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"ujian nasional perbaikan","contoh":[]}]},{"id":"205762","nama":"UNP","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Universitas Negeri Padang","contoh":[]}]}]}
+{
+  "word": "unp",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "93288",
+      "nama": "UNP",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ujian nasional perbaikan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "205762",
+      "nama": "UNP",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Universitas Negeri Padang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

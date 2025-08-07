@@ -1,1 +1,78 @@
-{"word":"upakara","authenticated":true,"entries":[{"id":"89926","nama":"u.pa.ka.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pemeliharaan; perawatan: jenis kredit untuk perawatan/perluasan rumah","contoh":[{"nomor":2,"teks":"kredit --"}]}]},{"id":"245800","nama":"u.pa.ka.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"perlengkapan atau sarana yang digunakan dalam upacara persembahan, biasanya terbuat dari barang hasil kreativitas tangan","contoh":[]}]},{"id":"271416","nama":"u.pa.ka.ra","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"sarana perlengkapan upacara yang merupakan hasil karya manusia; sajen","contoh":[]}]}]}
+{
+  "word": "upakara",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89926",
+      "nama": "u.pa.ka.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pemeliharaan; perawatan: jenis kredit untuk perawatan/perluasan rumah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kredit --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "245800",
+      "nama": "u.pa.ka.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "perlengkapan atau sarana yang digunakan dalam upacara persembahan, biasanya terbuat dari barang hasil kreativitas tangan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "271416",
+      "nama": "u.pa.ka.ra",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sarana perlengkapan upacara yang merupakan hasil karya manusia; sajen",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

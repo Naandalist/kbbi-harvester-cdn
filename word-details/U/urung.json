@@ -1,1 +1,114 @@
-{"word":"urung","authenticated":true,"entries":[{"id":"90082","nama":"u.rung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"batal; tidak jadi","contoh":[{"nomor":2,"teks":"ada kecemasan di kalangan calon haji kalau-kalau -- naik haji karena adanya penipuan"}]}],"terkait":{"kataTurunan":["mengurungkan","berurung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"90084","nama":"u.rung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kerumun","contoh":[]}],"terkait":{"kataTurunan":["berurung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"227822","nama":"u.rung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"bungkus lontong yang terbuat dari daun pisang berbentuk silinder","contoh":[]}]},{"id":"215317","nama":"u.rung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"badan kendang yang terbuat dari kayu (nangka atau jati)","contoh":[]}]}]}
+{
+  "word": "urung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90082",
+      "nama": "u.rung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batal; tidak jadi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada kecemasan di kalangan calon haji kalau-kalau -- naik haji karena adanya penipuan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengurungkan",
+          "berurung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "90084",
+      "nama": "u.rung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerumun",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berurung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227822",
+      "nama": "u.rung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bungkus lontong yang terbuat dari daun pisang berbentuk silinder",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215317",
+      "nama": "u.rung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "badan kendang yang terbuat dari kayu (nangka atau jati)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

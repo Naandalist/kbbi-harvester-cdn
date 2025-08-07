@@ -1,1 +1,97 @@
-{"word":"ucok","authenticated":true,"entries":[{"id":"88888","nama":"u.cok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berunding dengan damai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"berdamai","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["hendak ucok dilawan damai, hendak perang giling peluru"],"idiom":[]}},{"id":"88889","nama":"u.cok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"anak laki-laki","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["hendak ucok dilawan damai, hendak perang giling peluru"],"idiom":[]}}]}
+{
+  "word": "ucok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88888",
+      "nama": "u.cok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berunding dengan damai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "berdamai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hendak ucok dilawan damai, hendak perang giling peluru"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "88889",
+      "nama": "u.cok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "anak laki-laki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "hendak ucok dilawan damai, hendak perang giling peluru"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

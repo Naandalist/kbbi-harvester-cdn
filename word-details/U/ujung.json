@@ -1,1 +1,226 @@
-{"word":"ujung","authenticated":true,"entries":[{"id":"89090","nama":"u.jung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian penghabisan dari suatu benda (yang panjang)","contoh":[{"nomor":2,"teks":"serangga itu merusakkan -- akar anggrek"},{"nomor":4,"teks":"berbelok di -- jalan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian barang yang diruncingkan (lancip, tajam, dan sebagainya); puncak","contoh":[{"nomor":2,"teks":"-- hidung"},{"nomor":4,"teks":"-- jari"},{"nomor":6,"teks":"-- tombak"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian darat yang menjorok (jauh) ke laut","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(bagian) akhir (pembicaraan, percakapan, tahun, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- pembicaraan baginda masih terhadap hal itu jua"},{"nomor":4,"teks":"gajinya tidak cukup sampai ke -- bulan"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"maksud dan tujuan (perkataan dan sebagainya)","contoh":[{"nomor":2,"teks":"saya maklum akan -- perkataannya itu"}]}],"terkait":{"kataTurunan":["berujung","mengujung","pengujung","seujung","ujung-ujungnya"],"gabunganKata":["ujung akar","ujung atap","ujung bumi","ujung garis akhir","ujung hidung","ujung jari","ujung jarum","ujung kuku","ujung lidah","ujung mata","ujung panah","ujung pangkal","ujung pengabdian","ujung perkataan","ujung tanduk","ujung tombak"],"peribahasa":["bergantung di ujung kuku","berniaga di ujung lidah","embun di ujung rumput","hidup di ujung gurung orang","jiwa bergantung di ujung rambut","kapur di ujung tanduk","kita di pangkal merawal dia di ujung merawal","kusut di ujung tali, tiliklah di pangkalnya","kusut ujung dengan pangkalnya","lalu (lulus) ujung, lalu (lulus) kelindan","merantau di sudut dapur, merantau ke ujung bendul","nyawa bergantung di ujung kuku","sesat di ujung jalan, balik ke pangkal jalan","sesat di ujung jalan, surut ke pangkal jalan","seperti embun di ujung rumput","seperti gunting makan di ujung","telur di ujung tanduk","ujung jarum halus kelindan sutra"],"idiom":["di ujung lidah","mengadu ujung jarum","mengadu ujung penjahit","ujung jari sambungan lidah"]}},{"id":"225606","nama":"u.jung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tradisi berkunjung untuk bersilaturahmi ke rumah orang yang lebih tua pada Idulfitri","contoh":[{"nomor":2,"teks":"salah satu alasan mudik adalah agar bisa -- ke rumah sesepuh"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bergantung di ujung kuku","berniaga di ujung lidah","embun di ujung rumput","hidup di ujung gurung orang","jiwa bergantung di ujung rambut","kapur di ujung tanduk","kita di pangkal merawal dia di ujung merawal","kusut di ujung tali, tiliklah di pangkalnya","kusut ujung dengan pangkalnya","lalu (lulus) ujung, lalu (lulus) kelindan","merantau di sudut dapur, merantau ke ujung bendul","nyawa bergantung di ujung kuku","sesat di ujung jalan, balik ke pangkal jalan","sesat di ujung jalan, surut ke pangkal jalan","seperti embun di ujung rumput","seperti gunting makan di ujung","telur di ujung tanduk","ujung jarum halus kelindan sutra"],"idiom":["di ujung lidah","mengadu ujung jarum","mengadu ujung penjahit","ujung jari sambungan lidah"]}}]}
+{
+  "word": "ujung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89090",
+      "nama": "u.jung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian penghabisan dari suatu benda (yang panjang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "serangga itu merusakkan -- akar anggrek"
+            },
+            {
+              "nomor": 4,
+              "teks": "berbelok di -- jalan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian barang yang diruncingkan (lancip, tajam, dan sebagainya); puncak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- hidung"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- jari"
+            },
+            {
+              "nomor": 6,
+              "teks": "-- tombak"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian darat yang menjorok (jauh) ke laut",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(bagian) akhir (pembicaraan, percakapan, tahun, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pembicaraan baginda masih terhadap hal itu jua"
+            },
+            {
+              "nomor": 4,
+              "teks": "gajinya tidak cukup sampai ke -- bulan"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "maksud dan tujuan (perkataan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya maklum akan -- perkataannya itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berujung",
+          "mengujung",
+          "pengujung",
+          "seujung",
+          "ujung-ujungnya"
+        ],
+        "gabunganKata": [
+          "ujung akar",
+          "ujung atap",
+          "ujung bumi",
+          "ujung garis akhir",
+          "ujung hidung",
+          "ujung jari",
+          "ujung jarum",
+          "ujung kuku",
+          "ujung lidah",
+          "ujung mata",
+          "ujung panah",
+          "ujung pangkal",
+          "ujung pengabdian",
+          "ujung perkataan",
+          "ujung tanduk",
+          "ujung tombak"
+        ],
+        "peribahasa": [
+          "bergantung di ujung kuku",
+          "berniaga di ujung lidah",
+          "embun di ujung rumput",
+          "hidup di ujung gurung orang",
+          "jiwa bergantung di ujung rambut",
+          "kapur di ujung tanduk",
+          "kita di pangkal merawal dia di ujung merawal",
+          "kusut di ujung tali, tiliklah di pangkalnya",
+          "kusut ujung dengan pangkalnya",
+          "lalu (lulus) ujung, lalu (lulus) kelindan",
+          "merantau di sudut dapur, merantau ke ujung bendul",
+          "nyawa bergantung di ujung kuku",
+          "sesat di ujung jalan, balik ke pangkal jalan",
+          "sesat di ujung jalan, surut ke pangkal jalan",
+          "seperti embun di ujung rumput",
+          "seperti gunting makan di ujung",
+          "telur di ujung tanduk",
+          "ujung jarum halus kelindan sutra"
+        ],
+        "idiom": [
+          "di ujung lidah",
+          "mengadu ujung jarum",
+          "mengadu ujung penjahit",
+          "ujung jari sambungan lidah"
+        ]
+      }
+    },
+    {
+      "id": "225606",
+      "nama": "u.jung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tradisi berkunjung untuk bersilaturahmi ke rumah orang yang lebih tua pada Idulfitri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "salah satu alasan mudik adalah agar bisa -- ke rumah sesepuh"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bergantung di ujung kuku",
+          "berniaga di ujung lidah",
+          "embun di ujung rumput",
+          "hidup di ujung gurung orang",
+          "jiwa bergantung di ujung rambut",
+          "kapur di ujung tanduk",
+          "kita di pangkal merawal dia di ujung merawal",
+          "kusut di ujung tali, tiliklah di pangkalnya",
+          "kusut ujung dengan pangkalnya",
+          "lalu (lulus) ujung, lalu (lulus) kelindan",
+          "merantau di sudut dapur, merantau ke ujung bendul",
+          "nyawa bergantung di ujung kuku",
+          "sesat di ujung jalan, balik ke pangkal jalan",
+          "sesat di ujung jalan, surut ke pangkal jalan",
+          "seperti embun di ujung rumput",
+          "seperti gunting makan di ujung",
+          "telur di ujung tanduk",
+          "ujung jarum halus kelindan sutra"
+        ],
+        "idiom": [
+          "di ujung lidah",
+          "mengadu ujung jarum",
+          "mengadu ujung penjahit",
+          "ujung jari sambungan lidah"
+        ]
+      }
+    }
+  ]
+}

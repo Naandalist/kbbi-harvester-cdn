@@ -1,1 +1,77 @@
-{"word":"ungkapan","authenticated":true,"entries":[{"id":"89694","nama":"ung.kap.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"apa-apa yang diungkapkan","contoh":[{"nomor":2,"teks":"~ kedua saksi itu benar adanya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kelompok kata atau gabungan kata yang menyatakan makna khusus (makna unsur-unsurnya sering kali menjadi kabur)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"gerak mata (tangan dan sebagainya), perubahan air muka yang menyatakan perasaan hati","contoh":[]}],"rootWord":"ungkap¹","terkait":{"kataTurunan":[],"gabunganKata":["ungkapan analitis","ungkapan penghubung","ungkapan penghubung antarkalimat","ungkapan penghubung intrakalimat","ungkapan surat-menyurat"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ungkapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89694",
+      "nama": "ung.kap.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "apa-apa yang diungkapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kedua saksi itu benar adanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kelompok kata atau gabungan kata yang menyatakan makna khusus (makna unsur-unsurnya sering kali menjadi kabur)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "gerak mata (tangan dan sebagainya), perubahan air muka yang menyatakan perasaan hati",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ungkap¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ungkapan analitis",
+          "ungkapan penghubung",
+          "ungkapan penghubung antarkalimat",
+          "ungkapan penghubung intrakalimat",
+          "ungkapan surat-menyurat"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,73 @@
-{"word":"uda","authenticated":true,"entries":[{"id":"88893","nama":"u.da","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"muda","contoh":[{"nomor":2,"teks":"pak --"},{"nomor":4,"teks":"mak --"}]}]},{"id":"88894","nama":"u.da","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kakak (laki-laki); abang","contoh":[]}]}]}
+{
+  "word": "uda",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88893",
+      "nama": "u.da",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "muda",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pak --"
+            },
+            {
+              "nomor": 4,
+              "teks": "mak --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88894",
+      "nama": "u.da",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kakak (laki-laki); abang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

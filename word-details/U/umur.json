@@ -1,1 +1,102 @@
-{"word":"umur","authenticated":true,"entries":[{"id":"89543","nama":"u.mur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lama waktu hidup atau ada (sejak dilahirkan atau diadakan); usia: dalam masa ia sudah tua","contoh":[{"nomor":2,"teks":"--ku 22 tahun"},{"nomor":4,"teks":"dalam -- tuanya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"hidup; nyawa: selama masih hidup tentu mendapatkan rezeki kalau masih hidup","contoh":[{"nomor":2,"teks":"ada --, ada rezeki"},{"nomor":4,"teks":"kalau masih ada --"}]}],"etimologi":{"text":"[Arab عُمْرٌ ‘umr n sg m 'nyawa']","languages":["Arab"]},"terkait":{"kataTurunan":["berumur","seumur","seumuran"],"gabunganKata":["umur biologis","umur emosi","umur es","umur fisik","umur gelombang","umur kependidikan","umur kronologis","umur masuk","umur median","umur mental","umur moral","umur panen","umur paruh","umur penilaian","umur setara","umur simpan","umur sosial","umur subur","umur ulang tahun berikut","umur ulang tahun terdekat"],"peribahasa":["ada nyawa (umur), ada rezeki","umur setahun jagung (darah setampuk pinang)"],"idiom":["mencuri umur"]}}]}
+{
+  "word": "umur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89543",
+      "nama": "u.mur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lama waktu hidup atau ada (sejak dilahirkan atau diadakan); usia: dalam masa ia sudah tua",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--ku 22 tahun"
+            },
+            {
+              "nomor": 4,
+              "teks": "dalam -- tuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hidup; nyawa: selama masih hidup tentu mendapatkan rezeki kalau masih hidup",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada --, ada rezeki"
+            },
+            {
+              "nomor": 4,
+              "teks": "kalau masih ada --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab عُمْرٌ ‘umr n sg m 'nyawa']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berumur",
+          "seumur",
+          "seumuran"
+        ],
+        "gabunganKata": [
+          "umur biologis",
+          "umur emosi",
+          "umur es",
+          "umur fisik",
+          "umur gelombang",
+          "umur kependidikan",
+          "umur kronologis",
+          "umur masuk",
+          "umur median",
+          "umur mental",
+          "umur moral",
+          "umur panen",
+          "umur paruh",
+          "umur penilaian",
+          "umur setara",
+          "umur simpan",
+          "umur sosial",
+          "umur subur",
+          "umur ulang tahun berikut",
+          "umur ulang tahun terdekat"
+        ],
+        "peribahasa": [
+          "ada nyawa (umur), ada rezeki",
+          "umur setahun jagung (darah setampuk pinang)"
+        ],
+        "idiom": [
+          "mencuri umur"
+        ]
+      }
+    }
+  ]
+}

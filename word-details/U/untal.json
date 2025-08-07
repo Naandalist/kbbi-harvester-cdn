@@ -1,1 +1,67 @@
-{"word":"untal","authenticated":true,"entries":[{"id":"89827","nama":"un.tal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gentel (obat); pel; gelintir; butir (biji)","contoh":[]}],"terkait":{"kataTurunan":["menguntal","penguntal"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"89829","nama":"un.tal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menguntal","contoh":[]}],"terkait":{"kataTurunan":["menguntal","penguntal"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "untal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89827",
+      "nama": "un.tal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gentel (obat); pel; gelintir; butir (biji)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menguntal",
+          "penguntal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "89829",
+      "nama": "un.tal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menguntal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menguntal",
+          "penguntal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

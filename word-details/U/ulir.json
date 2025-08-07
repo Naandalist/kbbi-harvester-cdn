@@ -1,1 +1,89 @@
-{"word":"ulir","authenticated":true,"entries":[{"id":"89344","nama":"u.lir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alur-alur berputar seperti pada sekrup","contoh":[]}],"terkait":{"kataTurunan":["berulir","mengulir","menguliri","penguliran","terulir","uliran"],"gabunganKata":["ulir metris","ulir trapesium"],"peribahasa":[],"idiom":[]}},{"id":"182653","nama":"u.lir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kur","nama":"Kur","tipe":"lainnya"}],"definisi":"tali pancing yang terbuat dari serat batang pohon waru","contoh":[]}]},{"id":"171734","nama":"u.lir","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"alat yang digerakkan mesin diesel dengan penggulung hidrolik untuk menarik perahu ke daratan","contoh":[]}]}]}
+{
+  "word": "ulir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89344",
+      "nama": "u.lir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alur-alur berputar seperti pada sekrup",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berulir",
+          "mengulir",
+          "menguliri",
+          "penguliran",
+          "terulir",
+          "uliran"
+        ],
+        "gabunganKata": [
+          "ulir metris",
+          "ulir trapesium"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "182653",
+      "nama": "u.lir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kur",
+              "nama": "Kur",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali pancing yang terbuat dari serat batang pohon waru",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "171734",
+      "nama": "u.lir",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "alat yang digerakkan mesin diesel dengan penggulung hidrolik untuk menarik perahu ke daratan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

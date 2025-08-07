@@ -1,1 +1,120 @@
-{"word":"urutan","authenticated":true,"entries":[{"id":"90132","nama":"u.rut.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nomor urut","contoh":[{"nomor":2,"teks":"gilirannya jatuh pada ~ ketiga"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"deretan; rentetan; hal berurut","contoh":[{"nomor":2,"teks":"~ kata dalam kalimat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susunan","contoh":[{"nomor":2,"teks":"~ nama pasien itu tidak menurut abjad"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kumpulan unsur-unsur bahasa berstruktur yang secara teoretis terletak berderetan dalam suatu hubungan formal","contoh":[]}],"rootWord":"urut²","terkait":{"kataTurunan":[],"gabunganKata":["urutan kata","urutan kata bebas","urutan kata tetap","urutan pelolosan","urutan pelolosan balik","urutan pengumpanan","urutan pengumpanan balik"],"peribahasa":[],"idiom":[]}},{"id":"270651","nama":"u.ru.tan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"masakan yang terbuat dari campuran cincangan daging, lemak, dan bumbu, dimasukkan ke dalam usus, bisa dikukus atau digoreng, dimakan sebagai lauk","contoh":[]}]}]}
+{
+  "word": "urutan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90132",
+      "nama": "u.rut.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nomor urut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gilirannya jatuh pada ~ ketiga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "deretan; rentetan; hal berurut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ kata dalam kalimat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susunan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ nama pasien itu tidak menurut abjad"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kumpulan unsur-unsur bahasa berstruktur yang secara teoretis terletak berderetan dalam suatu hubungan formal",
+          "contoh": []
+        }
+      ],
+      "rootWord": "urut²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "urutan kata",
+          "urutan kata bebas",
+          "urutan kata tetap",
+          "urutan pelolosan",
+          "urutan pelolosan balik",
+          "urutan pengumpanan",
+          "urutan pengumpanan balik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "270651",
+      "nama": "u.ru.tan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "masakan yang terbuat dari campuran cincangan daging, lemak, dan bumbu, dimasukkan ke dalam usus, bisa dikukus atau digoreng, dimakan sebagai lauk",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

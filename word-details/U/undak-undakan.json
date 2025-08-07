@@ -1,1 +1,61 @@
-{"word":"undak-undakan","authenticated":true,"entries":[{"id":"89582","nama":"un.dak-un.dak.an","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tangga atau tempat yang bertingkat-tingkat (seperti yang ada di muka pintu)","contoh":[{"nomor":2,"teks":"untuk memasuki rumah itu orang harus berjalan melalui ~ sepuluh tingkat"}]}],"rootWord":"undak²"},{"id":"89586","nama":"un.dak-un.dak.an","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ko","nama":"Komering","tipe":"lainnya"}],"definisi":"nama pantun dalam marga Aji (Sumatra Selatan)","contoh":[]}],"rootWord":"undak³"}]}
+{
+  "word": "undak-undakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89582",
+      "nama": "un.dak-un.dak.an",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tangga atau tempat yang bertingkat-tingkat (seperti yang ada di muka pintu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk memasuki rumah itu orang harus berjalan melalui ~ sepuluh tingkat"
+            }
+          ]
+        }
+      ],
+      "rootWord": "undak²"
+    },
+    {
+      "id": "89586",
+      "nama": "un.dak-un.dak.an",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ko",
+              "nama": "Komering",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nama pantun dalam marga Aji (Sumatra Selatan)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "undak³"
+    }
+  ]
+}

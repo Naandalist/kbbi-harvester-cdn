@@ -1,1 +1,117 @@
-{"word":"uras","authenticated":true,"entries":[{"id":"90005","nama":"u.ras","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"param (bedak) yang mengandung obat; air obat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sembuh; waras","contoh":[]}],"terkait":{"kataTurunan":["beruras","menguras","mengurasi","menguraskan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"250175","nama":"u.ras","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menguras","contoh":[]}],"terkait":{"kataTurunan":["menguras"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"135122","nama":"u.ras","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"nasi putih yang dimasak untuk menyambut wanita yang baru saja melahirkan","contoh":[]}]},{"id":"260506","nama":"u.ras","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"lapisan kedua dari kulit batang sagu, biasanya lebih lunak daripada ruyung","contoh":[]}]}]}
+{
+  "word": "uras",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90005",
+      "nama": "u.ras",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "param (bedak) yang mengandung obat; air obat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sembuh; waras",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beruras",
+          "menguras",
+          "mengurasi",
+          "menguraskan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "250175",
+      "nama": "u.ras",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menguras",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menguras"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "135122",
+      "nama": "u.ras",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "nasi putih yang dimasak untuk menyambut wanita yang baru saja melahirkan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "260506",
+      "nama": "u.ras",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lapisan kedua dari kulit batang sagu, biasanya lebih lunak daripada ruyung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

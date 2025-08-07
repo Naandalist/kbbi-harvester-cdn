@@ -1,1 +1,61 @@
-{"word":"una","authenticated":true,"entries":[{"id":"255044","nama":"u.na","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bgi","nama":"Banggai","tipe":"lainnya"}],"definisi":"sampah dapur","contoh":[]}]},{"id":"101384","nama":"U.na","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami wilayah Pegunungan Jayawijaya sebelah timur, Provinsi Papua","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Una","contoh":[]}]}]}
+{
+  "word": "una",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "255044",
+      "nama": "u.na",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bgi",
+              "nama": "Banggai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sampah dapur",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "101384",
+      "nama": "U.na",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami wilayah Pegunungan Jayawijaya sebelah timur, Provinsi Papua",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Una",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

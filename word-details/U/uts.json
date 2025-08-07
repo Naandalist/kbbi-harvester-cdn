@@ -1,1 +1,38 @@
-{"word":"uts","authenticated":true,"entries":[{"id":"152656","nama":"UTS","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"ujian tengah semester","contoh":[]}],"terkait":{"kataTurunan":["ber-UTS"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "uts",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "152656",
+      "nama": "UTS",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ujian tengah semester",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ber-UTS"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

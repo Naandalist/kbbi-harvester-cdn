@@ -1,1 +1,55 @@
-{"word":"ujar","authenticated":true,"entries":[{"id":"89022","nama":"u.jar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perkataan yang diucapkan","contoh":[{"nomor":2,"teks":"begitu -- anak itu kepada teman-temannya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kalimat atau bagian kalimat yang dilisankan","contoh":[]}],"terkait":{"kataTurunan":["berujar","mengujarkan","pengujar","pengujaran","ujar-ujar","ujaran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ujar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89022",
+      "nama": "u.jar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perkataan yang diucapkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "begitu -- anak itu kepada teman-temannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kalimat atau bagian kalimat yang dilisankan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berujar",
+          "mengujarkan",
+          "pengujar",
+          "pengujaran",
+          "ujar-ujar",
+          "ujaran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

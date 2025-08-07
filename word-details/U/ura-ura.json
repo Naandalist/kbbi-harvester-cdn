@@ -1,1 +1,108 @@
-{"word":"ura-ura","authenticated":true,"entries":[{"id":"90030","nama":"u.ra-u.ra","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"perundingan; pembicaraan; permusyawaratan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"cadangan; rancangan","contoh":[]}],"terkait":{"kataTurunan":["berura-ura"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"144928","nama":"ura-u.ra","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"penganan yang terbuat dari mangga muda diberi cabai dan garam","contoh":[]}]},{"id":"136093","nama":"u.ra-u.ra","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mendendangkan lagu dengan santai sambil beristirahat atau sambil mengerjakan sesuatu untuk menghibur diri","contoh":[{"nomor":2,"teks":"sayup-sayup terdengar juragan -- di halaman belakang"}]}]}]}
+{
+  "word": "ura-ura",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90030",
+      "nama": "u.ra-u.ra",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perundingan; pembicaraan; permusyawaratan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cadangan; rancangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berura-ura"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "144928",
+      "nama": "ura-u.ra",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penganan yang terbuat dari mangga muda diberi cabai dan garam",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "136093",
+      "nama": "u.ra-u.ra",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mendendangkan lagu dengan santai sambil beristirahat atau sambil mengerjakan sesuatu untuk menghibur diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sayup-sayup terdengar juragan -- di halaman belakang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

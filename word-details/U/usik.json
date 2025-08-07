@@ -1,1 +1,61 @@
-{"word":"usik","authenticated":true,"entries":[{"id":"90216","nama":"u.sik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbuatan mengganggu orang lain; gangguan","contoh":[{"nomor":2,"teks":"jangan mempedulikan -- orang itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergerak-gerak saja; tidak tenang","contoh":[{"nomor":2,"teks":"anak kecil biasa --, ia tidak dapat duduk tenang"}]}],"terkait":{"kataTurunan":["keterusikan","mengusik","mengusik-usik","pengusik","pengusikan","terusik","usikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "usik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "90216",
+      "nama": "u.sik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbuatan mengganggu orang lain; gangguan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan mempedulikan -- orang itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergerak-gerak saja; tidak tenang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak kecil biasa --, ia tidak dapat duduk tenang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keterusikan",
+          "mengusik",
+          "mengusik-usik",
+          "pengusik",
+          "pengusikan",
+          "terusik",
+          "usikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

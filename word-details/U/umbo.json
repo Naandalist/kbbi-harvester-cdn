@@ -1,1 +1,49 @@
-{"word":"umbo","authenticated":true,"entries":[{"id":"89452","nama":"um.bo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian pusar yang menonjol","contoh":[]}]},{"id":"174517","nama":"um.bo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"telur ikan yang masih dalam perut","contoh":[]}]}]}
+{
+  "word": "umbo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89452",
+      "nama": "um.bo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian pusar yang menonjol",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "174517",
+      "nama": "um.bo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "telur ikan yang masih dalam perut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

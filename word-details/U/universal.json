@@ -1,1 +1,60 @@
-{"word":"universal","authenticated":true,"entries":[{"id":"89755","nama":"u.ni.ver.sal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"umum (berlaku untuk semua orang atau untuk seluruh dunia); bersifat (melingkupi) seluruh dunia","contoh":[{"nomor":2,"teks":"ruang lingkup tanggung jawab mahasiswa adalah personal, nasional, dan --"},{"nomor":4,"teks":"kebudayaan itu bersifat --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kategori keilmubahasaan yang berlaku untuk semua bahasa","contoh":[]}],"terkait":{"kataTurunan":["keuniversalan","menguniversalkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "universal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89755",
+      "nama": "u.ni.ver.sal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "umum (berlaku untuk semua orang atau untuk seluruh dunia); bersifat (melingkupi) seluruh dunia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ruang lingkup tanggung jawab mahasiswa adalah personal, nasional, dan --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kebudayaan itu bersifat --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kategori keilmubahasaan yang berlaku untuk semua bahasa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "keuniversalan",
+          "menguniversalkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}
