@@ -1,1 +1,75 @@
-{"word":"zuriah","authenticated":true,"entries":[{"id":"92009","nama":"zu.ri.ah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"keturunan; anak cucu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"benih; bibit","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"ahli waris raja-raja","contoh":[{"nomor":2,"teks":"wan, said, raja merupakan gelar -- di Riau"}]}],"etimologi":{"text":"[Arab ذُرِّيَّةٌ żurriyyah n sg f 'makhluk hidup; keturunan']","languages":["Arab"]}}]}
+{
+  "word": "zuriah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92009",
+      "nama": "zu.ri.ah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "keturunan; anak cucu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "benih; bibit",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "ahli waris raja-raja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "wan, said, raja merupakan gelar -- di Riau"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab ذُرِّيَّةٌ żurriyyah n sg f 'makhluk hidup; keturunan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

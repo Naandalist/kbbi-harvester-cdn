@@ -1,1 +1,48 @@
-{"word":"zikiran","authenticated":true,"entries":[{"id":"198150","nama":"zi.kir.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang diucapkan untuk berzikir","contoh":[{"nomor":2,"teks":"ada beberapa ~ yang baik dibaca setiap pagi dan sore"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kegiatan berzikir secara bersama-sama","contoh":[{"nomor":2,"teks":"acara ~ akan dilaksanakan bakda Isya"}]}],"rootWord":"zikir"}]}
+{
+  "word": "zikiran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198150",
+      "nama": "zi.kir.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang diucapkan untuk berzikir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ada beberapa ~ yang baik dibaca setiap pagi dan sore"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kegiatan berzikir secara bersama-sama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara ~ akan dilaksanakan bakda Isya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "zikir"
+    }
+  ]
+}
