@@ -1,1 +1,62 @@
-{"word":"teran","authenticated":true,"entries":[{"id":"85190","nama":"te.ran","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meneran","contoh":[]}],"terkait":{"kataTurunan":["meneran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"129160","nama":"te.ran","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"sakit karena menginginkan sesuatu","contoh":[{"nomor":2,"teks":"dia -- tetapi selalu diam ketika ditanya"}]}]}]}
+{
+  "word": "teran",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85190",
+      "nama": "te.ran",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meneran",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meneran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "129160",
+      "nama": "te.ran",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sakit karena menginginkan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- tetapi selalu diam ketika ditanya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

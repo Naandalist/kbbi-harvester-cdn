@@ -1,1 +1,56 @@
-{"word":"terulur","authenticated":true,"entries":[{"id":"89400","nama":"ter.u.lur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(sudah) diulur(kan); dapat diulur(kan)","contoh":[{"nomor":2,"teks":"ia memejamkan matanya setiap kali melihat tangan orang itu ~ ke arah dirinya"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"dalam keadaan menjulur (memanjang)","contoh":[{"nomor":2,"teks":"lubang buluh itu ~ ke atas rumahnya"}]}],"rootWord":"ulur¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":[],"idiom":["terulur lidah"]}}]}
+{
+  "word": "terulur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "89400",
+      "nama": "ter.u.lur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(sudah) diulur(kan); dapat diulur(kan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia memejamkan matanya setiap kali melihat tangan orang itu ~ ke arah dirinya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam keadaan menjulur (memanjang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lubang buluh itu ~ ke atas rumahnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ulur¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "terulur lidah"
+        ]
+      }
+    }
+  ]
+}

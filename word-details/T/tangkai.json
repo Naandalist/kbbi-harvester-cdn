@@ -1,1 +1,117 @@
-{"word":"tangkai","authenticated":true,"entries":[{"id":"82388","nama":"tang.kai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gagang pada buah (daun, bunga)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batang tumbuhan yang kecil-kecil (seperti kecambah, padi)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata penggolong untuk bunga","contoh":[{"nomor":2,"teks":"tiga -- bunga mawar"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gagang atau pegangan suatu alat; batang (tombak, dayung, dan sebagainya); hulu (pisau dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["bertangkai","setangkai","tangkaian"],"gabunganKata":["tangkai anak","tangkai bedil","tangkai cerek","tangkai dayung","tangkai hati","tangkai kering","tangkai not","tangkai pena","tangkai putik","tangkai sari","tangkai sendok","tangkai sibur","tangkai tombak"],"peribahasa":[],"idiom":[]}},{"id":"82401","nama":"tang.kai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat menyimpan padi; rangkiang; lumbung","contoh":[]}],"terkait":{"kataTurunan":["tangkaian"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tangkai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82388",
+      "nama": "tang.kai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gagang pada buah (daun, bunga)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batang tumbuhan yang kecil-kecil (seperti kecambah, padi)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penggolong untuk bunga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiga -- bunga mawar"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gagang atau pegangan suatu alat; batang (tombak, dayung, dan sebagainya); hulu (pisau dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertangkai",
+          "setangkai",
+          "tangkaian"
+        ],
+        "gabunganKata": [
+          "tangkai anak",
+          "tangkai bedil",
+          "tangkai cerek",
+          "tangkai dayung",
+          "tangkai hati",
+          "tangkai kering",
+          "tangkai not",
+          "tangkai pena",
+          "tangkai putik",
+          "tangkai sari",
+          "tangkai sendok",
+          "tangkai sibur",
+          "tangkai tombak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82401",
+      "nama": "tang.kai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat menyimpan padi; rangkiang; lumbung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tangkaian"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"word":"tobong","authenticated":true,"entries":[{"id":"86622","nama":"to.bong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat (pertunjukan) yang sifatnya darurat, biasanya dibuat dari bambu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["tobong gamping"],"peribahasa":[],"idiom":[]}},{"id":"218070","nama":"to.bong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tungku pembakaran gerabah, gamping, batu bata, arang kayu, dan sebagainya","contoh":[]}]}]}
+{
+  "word": "tobong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86622",
+      "nama": "to.bong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat (pertunjukan) yang sifatnya darurat, biasanya dibuat dari bambu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tobong gamping"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "218070",
+      "nama": "to.bong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tungku pembakaran gerabah, gamping, batu bata, arang kayu, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"word":"tekek","authenticated":true,"entries":[{"id":"83761","nama":"te.kek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menekek","contoh":[]}],"terkait":{"kataTurunan":["menekek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83763","nama":"te.kek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"pekak; tuli","contoh":[]}]},{"id":"83760","nama":"te.kek","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ tokek1","contoh":[]}]}]}
+{
+  "word": "tekek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83761",
+      "nama": "te.kek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menekek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menekek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83763",
+      "nama": "te.kek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pekak; tuli",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "83760",
+      "nama": "te.kek",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ tokek1",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

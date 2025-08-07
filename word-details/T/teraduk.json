@@ -1,1 +1,43 @@
-{"word":"teraduk","authenticated":true,"entries":[{"id":"687","nama":"ter.a.duk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tercampur","contoh":[{"nomor":2,"teks":"setelah semua bahan ~ betul, adonan itu dituangkan ke loyang"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diaduk","contoh":[]}],"rootWord":"aduk¹"}]}
+{
+  "word": "teraduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "687",
+      "nama": "ter.a.duk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tercampur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "setelah semua bahan ~ betul, adonan itu dituangkan ke loyang"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diaduk",
+          "contoh": []
+        }
+      ],
+      "rootWord": "aduk¹"
+    }
+  ]
+}

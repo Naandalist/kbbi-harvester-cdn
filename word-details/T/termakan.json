@@ -1,1 +1,175 @@
-{"word":"termakan","authenticated":true,"entries":[{"id":"51405","nama":"ter.ma.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah dimakan","contoh":[{"nomor":2,"teks":"padinya habis ~ tikus"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dimakan","contoh":[{"nomor":2,"teks":"nasi sebanyak itu tidak mungkin ~ habis olehnya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dimakan","contoh":[{"nomor":2,"teks":"kue bagiannya ~ temannya"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dirusakkan; dihabiskan","contoh":[{"nomor":2,"teks":"rumahnya juga ~ api"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dipengaruhi","contoh":[{"nomor":2,"teks":"kita jangan sampai ~ oleh berita-berita bohong"}]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terserap; masuk","contoh":[{"nomor":2,"teks":"nasihat itu ~ di akalnya"},{"nomor":4,"teks":"pelajaran itu tidak ~ olehnya"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dikenai, dilukai, dan sebagainya","contoh":[{"nomor":2,"teks":"dia tidak ~ senjata"}]}],"rootWord":"makan¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai ayam termakan rambut","dilihat galas berlaba, dihitung pokok termakan","nasi tersendok tidak termakan","termakan (di) cirit berendang","termakan di rambut","termakan di sadah","tertangkup sama termakan tanah, telentang sama terminum air","tertelentang sama terminum air, tertelungkup sama termakan tanah"],"idiom":["termakan akal","termakan perbuatan orang"]}}]}
+{
+  "word": "termakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "51405",
+      "nama": "ter.ma.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah dimakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "padinya habis ~ tikus"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dimakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasi sebanyak itu tidak mungkin ~ habis olehnya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dimakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kue bagiannya ~ temannya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dirusakkan; dihabiskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahnya juga ~ api"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dipengaruhi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita jangan sampai ~ oleh berita-berita bohong"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terserap; masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasihat itu ~ di akalnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "pelajaran itu tidak ~ olehnya"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dikenai, dilukai, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia tidak ~ senjata"
+            }
+          ]
+        }
+      ],
+      "rootWord": "makan¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai ayam termakan rambut",
+          "dilihat galas berlaba, dihitung pokok termakan",
+          "nasi tersendok tidak termakan",
+          "termakan (di) cirit berendang",
+          "termakan di rambut",
+          "termakan di sadah",
+          "tertangkup sama termakan tanah, telentang sama terminum air",
+          "tertelentang sama terminum air, tertelungkup sama termakan tanah"
+        ],
+        "idiom": [
+          "termakan akal",
+          "termakan perbuatan orang"
+        ]
+      }
+    }
+  ]
+}

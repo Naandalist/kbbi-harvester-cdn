@@ -1,1 +1,82 @@
-{"word":"tual","authenticated":true,"entries":[{"id":"87436","nama":"tu.al","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"potongan kayu (balok) pendek-pendek","contoh":[{"nomor":2,"teks":"kayu ini akan dikerat menjadi beberapa --"}]}],"terkait":{"kataTurunan":["bertual-tual","menual"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"87439","nama":"tu.al","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tiang bendera","contoh":[]}]},{"id":"101335","nama":"Tu.al","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kota di Provinsi Maluku","contoh":[]}]}]}
+{
+  "word": "tual",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87436",
+      "nama": "tu.al",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "potongan kayu (balok) pendek-pendek",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kayu ini akan dikerat menjadi beberapa --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertual-tual",
+          "menual"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "87439",
+      "nama": "tu.al",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tiang bendera",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "101335",
+      "nama": "Tu.al",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kota di Provinsi Maluku",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"terbelit","authenticated":true,"entries":[{"id":"9852","nama":"ter.be.lit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkena belitan","contoh":[{"nomor":2,"teks":"kakinya ~ tali"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terlibat; tersangkut (dalam perkara dan sebagainya)","contoh":[{"nomor":2,"teks":"dia ~ utang"}]}],"rootWord":"belit¹"}]}
+{
+  "word": "terbelit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "9852",
+      "nama": "ter.be.lit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkena belitan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakinya ~ tali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlibat; tersangkut (dalam perkara dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ utang"
+            }
+          ]
+        }
+      ],
+      "rootWord": "belit¹"
+    }
+  ]
+}

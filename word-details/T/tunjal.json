@@ -1,1 +1,57 @@
-{"word":"tunjal","authenticated":true,"entries":[{"id":"88291","nama":"tun.jal","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menunjal","contoh":[]}],"terkait":{"kataTurunan":["menunjal"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"283125","nama":"tun.jal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"tiang rambat tanaman menjalar (seperti kacang panjang atau mentimun)","contoh":[]}]}]}
+{
+  "word": "tunjal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88291",
+      "nama": "tun.jal",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menunjal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menunjal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "283125",
+      "nama": "tun.jal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tiang rambat tanaman menjalar (seperti kacang panjang atau mentimun)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

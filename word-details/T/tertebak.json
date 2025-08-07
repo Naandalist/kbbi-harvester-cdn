@@ -1,1 +1,51 @@
-{"word":"tertebak","authenticated":true,"entries":[{"id":"102588","nama":"ter.te.bak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat ditebak","contoh":[]}],"rootWord":"tebak"},{"id":"200441","nama":"ter.te.bak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat ditebak","contoh":[{"nomor":2,"teks":"akhir cerita drama tersebut ~ dengan mudah"}]}],"rootWord":"tebak¹"}]}
+{
+  "word": "tertebak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102588",
+      "nama": "ter.te.bak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat ditebak",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tebak"
+    },
+    {
+      "id": "200441",
+      "nama": "ter.te.bak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat ditebak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akhir cerita drama tersebut ~ dengan mudah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tebak¹"
+    }
+  ]
+}

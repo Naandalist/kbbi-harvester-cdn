@@ -1,1 +1,90 @@
-{"word":"takah","authenticated":true,"entries":[{"id":"81190","nama":"ta.kah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"tampan; gagah; cakap","contoh":[{"nomor":2,"teks":"-- juga kakak memakai dasi"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"sikap; tingkah","contoh":[{"nomor":2,"teks":"perempuan itu --nya masih seperti gadis remaja"}]}],"terkait":{"kataTurunan":["menakah","takah-takahnya"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"200818","nama":"ta.kah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"tata naskah","contoh":[]}]}]}
+{
+  "word": "takah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81190",
+      "nama": "ta.kah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tampan; gagah; cakap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- juga kakak memakai dasi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sikap; tingkah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perempuan itu --nya masih seperti gadis remaja"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menakah",
+          "takah-takahnya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "200818",
+      "nama": "ta.kah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tata naskah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

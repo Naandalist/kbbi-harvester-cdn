@@ -1,1 +1,101 @@
-{"word":"terhunikan","authenticated":true,"entries":[{"id":"1","nama":"ter.hu.ni.kan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dihuni oleh orang; telah didiami","contoh":[]}],"rootWord":"terhunikterhunikan"},{"id":"2","nama":"ter.hu.ni.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dihuni","contoh":[{"nomor":1,"teks":"hutan yang lebat itu sukar --"}]}],"rootWord":"terhunikterhunikan"},{"id":"3","nama":"ter.hu.ni.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhuni oleh penghuni","contoh":[{"nomor":1,"teks":"rumah itu -- oleh keluarga besar"}]}],"rootWord":"terhunikterhunikan"},{"id":"4","nama":"ter.hu.ni.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjadi tempat tinggal","contoh":[{"nomor":1,"teks":"daerah itu -- oleh penduduk lokal"}]}],"rootWord":"terhunikterhunikan"}]}
+{
+  "word": "terhunikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ter.hu.ni.kan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dihuni oleh orang; telah didiami",
+          "contoh": []
+        }
+      ],
+      "rootWord": "terhunikterhunikan"
+    },
+    {
+      "id": "2",
+      "nama": "ter.hu.ni.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dihuni",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "hutan yang lebat itu sukar --"
+            }
+          ]
+        }
+      ],
+      "rootWord": "terhunikterhunikan"
+    },
+    {
+      "id": "3",
+      "nama": "ter.hu.ni.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhuni oleh penghuni",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "rumah itu -- oleh keluarga besar"
+            }
+          ]
+        }
+      ],
+      "rootWord": "terhunikterhunikan"
+    },
+    {
+      "id": "4",
+      "nama": "ter.hu.ni.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi tempat tinggal",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "daerah itu -- oleh penduduk lokal"
+            }
+          ]
+        }
+      ],
+      "rootWord": "terhunikterhunikan"
+    }
+  ]
+}

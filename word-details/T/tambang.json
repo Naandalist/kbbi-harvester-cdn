@@ -1,1 +1,260 @@
-{"word":"tambang","authenticated":true,"entries":[{"id":"81664","nama":"tam.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lombong (cebakan, parit, lubang di dalam tanah) tempat menggali (mengambil) hasil dari dalam bumi berupa bijih logam batu bara, dan sebagainya","contoh":[]}],"etimologi":{"text":"[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bertambang","menambang","penambang","penambangan","pertambangan","petambang","menambangkan","tambangan","bertambangan"],"gabunganKata":["tambang basah","tambang batu bara","tambang bawah tanah","tambang emas","tambang ilegal","tambang mentah","tambang pasir","tambang terbuka","tambang timah","penambangan liar"],"peribahasa":[],"idiom":[]}},{"id":"81678","nama":"tam.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sampan (perahu dan sebagainya) untuk menyeberangkan orang; tambangan","contoh":[{"nomor":2,"teks":"banyak orang menantikan sampan (perahu dan sebagainya) -- di tepi sungai itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang menumpang atau barang muatan (opelet, mobil, dan sebagainya); tambangan","contoh":[{"nomor":2,"teks":"di tengah jalan ia beroleh -- pula"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ongkos menumpang bendi (perahu dan sebagainya) sewaan; tambangan","contoh":[{"nomor":2,"teks":"di sini --nya Rp500,00"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kendaraan yang disewakan (bemo, taksi, dan sebagainya)","contoh":[{"nomor":2,"teks":"naik mobil --"}]}],"etimologi":{"text":"[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menambang","menambangkan","penambang","tambangan","penambangan","bertambangan"],"gabunganKata":["penambangan liar"],"peribahasa":[],"idiom":[]}},{"id":"81683","nama":"tam.bang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tali yang besar","contoh":[]}],"etimologi":{"text":"[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menambang","menambangkan","penambang","penambangan","bertambangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"81687","nama":"tam.bang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pancang (tambatan binatang)","contoh":[{"nomor":2,"teks":"-- kuda"},{"nomor":4,"teks":"-- lembu"}]}],"etimologi":{"text":"[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bertambangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"81688","nama":"tam.bang","nomor":"5","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial bertambangan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bertambangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tambang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81664",
+      "nama": "tam.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lombong (cebakan, parit, lubang di dalam tanah) tempat menggali (mengambil) hasil dari dalam bumi berupa bijih logam batu bara, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertambang",
+          "menambang",
+          "penambang",
+          "penambangan",
+          "pertambangan",
+          "petambang",
+          "menambangkan",
+          "tambangan",
+          "bertambangan"
+        ],
+        "gabunganKata": [
+          "tambang basah",
+          "tambang batu bara",
+          "tambang bawah tanah",
+          "tambang emas",
+          "tambang ilegal",
+          "tambang mentah",
+          "tambang pasir",
+          "tambang terbuka",
+          "tambang timah",
+          "penambangan liar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81678",
+      "nama": "tam.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampan (perahu dan sebagainya) untuk menyeberangkan orang; tambangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak orang menantikan sampan (perahu dan sebagainya) -- di tepi sungai itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang menumpang atau barang muatan (opelet, mobil, dan sebagainya); tambangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di tengah jalan ia beroleh -- pula"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ongkos menumpang bendi (perahu dan sebagainya) sewaan; tambangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di sini --nya Rp500,00"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kendaraan yang disewakan (bemo, taksi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "naik mobil --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menambang",
+          "menambangkan",
+          "penambang",
+          "tambangan",
+          "penambangan",
+          "bertambangan"
+        ],
+        "gabunganKata": [
+          "penambangan liar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81683",
+      "nama": "tam.bang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tali yang besar",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menambang",
+          "menambangkan",
+          "penambang",
+          "penambangan",
+          "bertambangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81687",
+      "nama": "tam.bang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pancang (tambatan binatang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kuda"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- lembu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertambangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81688",
+      "nama": "tam.bang",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial bertambangan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tambaṅ 'perahu tambang, tambangan; ongkos tambangan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertambangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

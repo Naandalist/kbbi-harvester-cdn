@@ -1,1 +1,48 @@
-{"word":"tertegun","authenticated":true,"entries":[{"id":"83639","nama":"ter.te.gun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(tiba-tiba) berdiri tegak (tidak bergerak, tercengang, dan sebagainya)","contoh":[{"nomor":2,"teks":"orang desa itu ~ melihat mobil bersimpang siur di jalan raya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhenti; (sekonyong-konyong) berhenti atau terdiam","contoh":[{"nomor":2,"teks":"tiba-tiba ia berhenti dan ~ melihat orang datang menghampirinya"}]}],"rootWord":"tegun¹"}]}
+{
+  "word": "tertegun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83639",
+      "nama": "ter.te.gun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(tiba-tiba) berdiri tegak (tidak bergerak, tercengang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang desa itu ~ melihat mobil bersimpang siur di jalan raya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhenti; (sekonyong-konyong) berhenti atau terdiam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiba-tiba ia berhenti dan ~ melihat orang datang menghampirinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tegun¹"
+    }
+  ]
+}

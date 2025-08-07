@@ -1,1 +1,48 @@
-{"word":"terceritakan","authenticated":true,"entries":[{"id":"186900","nama":"ter.ce.ri.ta.kan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diceritakan","contoh":[{"nomor":2,"teks":"kabar itu ~ dengan sempurna"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diceritakan","contoh":[{"nomor":2,"teks":"mereka ingin menyebarkan kabar tak ~ ini"}]}],"rootWord":"cerita"}]}
+{
+  "word": "terceritakan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "186900",
+      "nama": "ter.ce.ri.ta.kan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diceritakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kabar itu ~ dengan sempurna"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diceritakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ingin menyebarkan kabar tak ~ ini"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cerita"
+    }
+  ]
+}

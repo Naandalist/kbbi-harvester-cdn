@@ -1,1 +1,219 @@
-{"word":"tampang","authenticated":true,"entries":[{"id":"81770","nama":"tam.pang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keratan rata (seperti keratan ubi, mangga)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"irisan pipih rata (tentang roti dan sebagainya); bongkah yang bentuknya seperti bata (tentang timah)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"nama uang timah (1/16 ringgit)","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"garis tengah (bulatan)","contoh":[]}],"terkait":{"kataTurunan":["berpenampang","menampang","penampang","bertampang"],"gabunganKata":["tampang besi","tampang tembakau","tampang masam","tampang muka","tampang samping"],"peribahasa":[],"idiom":[]}},{"id":"81776","nama":"tam.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rupa muka; bentuk muka","contoh":[{"nomor":2,"teks":"--nya mirip benar dengan adiknya"}]}],"terkait":{"kataTurunan":["bertampang","menampang"],"gabunganKata":["tampang masam","tampang muka","tampang samping"],"peribahasa":[],"idiom":[]}},{"id":"81780","nama":"tam.pang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"benih; bibit; biji; lembaga; janin","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"pokok pangkal; asal mula","contoh":[{"nomor":2,"teks":"inilah -- sengketa antara kedua keluarga itu"}]}],"terkait":{"kataTurunan":["menampang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"258039","nama":"tam.pang","nomor":"4","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menampang","contoh":[]}],"terkait":{"kataTurunan":["menampang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"193479","nama":"tam.pang","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lembaran tembakau yang akan digulung","contoh":[]}]}]}
+{
+  "word": "tampang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81770",
+      "nama": "tam.pang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keratan rata (seperti keratan ubi, mangga)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "irisan pipih rata (tentang roti dan sebagainya); bongkah yang bentuknya seperti bata (tentang timah)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nama uang timah (1/16 ringgit)",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis tengah (bulatan)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berpenampang",
+          "menampang",
+          "penampang",
+          "bertampang"
+        ],
+        "gabunganKata": [
+          "tampang besi",
+          "tampang tembakau",
+          "tampang masam",
+          "tampang muka",
+          "tampang samping"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81776",
+      "nama": "tam.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rupa muka; bentuk muka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya mirip benar dengan adiknya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertampang",
+          "menampang"
+        ],
+        "gabunganKata": [
+          "tampang masam",
+          "tampang muka",
+          "tampang samping"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81780",
+      "nama": "tam.pang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "benih; bibit; biji; lembaga; janin",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pokok pangkal; asal mula",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "inilah -- sengketa antara kedua keluarga itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menampang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "258039",
+      "nama": "tam.pang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menampang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menampang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "193479",
+      "nama": "tam.pang",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lembaran tembakau yang akan digulung",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

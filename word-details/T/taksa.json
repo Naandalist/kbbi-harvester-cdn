@@ -1,1 +1,57 @@
-{"word":"taksa","authenticated":true,"entries":[{"id":"81313","nama":"tak.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mempunyai makna lebih dari satu; kabur atau meragukan (tentang makna); ambigu","contoh":[]}],"terkait":{"kataTurunan":["ketaksaan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"93935","nama":"tak.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"takson-takson","contoh":[]}]}]}
+{
+  "word": "taksa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81313",
+      "nama": "tak.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mempunyai makna lebih dari satu; kabur atau meragukan (tentang makna); ambigu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketaksaan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "93935",
+      "nama": "tak.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "takson-takson",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

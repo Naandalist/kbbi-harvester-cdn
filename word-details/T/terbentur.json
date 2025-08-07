@@ -1,1 +1,48 @@
-{"word":"terbentur","authenticated":true,"entries":[{"id":"10415","nama":"ter.ben.tur","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlanggar; tertumbuk","contoh":[{"nomor":2,"teks":"ia pingsan karena kepalanya ~ tembok"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terjumpa sesuatu yang menghalangi atau menghambat","contoh":[{"nomor":2,"teks":"semua rencana usahanya gagal karena ~ biaya produksi yang sangat tinggi"}]}],"rootWord":"bentur²"}]}
+{
+  "word": "terbentur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10415",
+      "nama": "ter.ben.tur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlanggar; tertumbuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia pingsan karena kepalanya ~ tembok"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terjumpa sesuatu yang menghalangi atau menghambat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua rencana usahanya gagal karena ~ biaya produksi yang sangat tinggi"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bentur²"
+    }
+  ]
+}

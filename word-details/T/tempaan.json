@@ -1,1 +1,53 @@
-{"word":"tempaan","authenticated":true,"entries":[{"id":"84451","nama":"tem.pa.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang sudah ditempa; gemblengan; buatan (tentang parang, keris, dan sebagainya)","contoh":[{"nomor":2,"teks":"keris ~ Malaka"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"model1; potongan; sifat asli","contoh":[{"nomor":2,"teks":"dia seorang gadis juita, tetapi ~ dusun"}]}],"rootWord":"tempa"}]}
+{
+  "word": "tempaan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84451",
+      "nama": "tem.pa.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang sudah ditempa; gemblengan; buatan (tentang parang, keris, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keris ~ Malaka"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "model1; potongan; sifat asli",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia seorang gadis juita, tetapi ~ dusun"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tempa"
+    }
+  ]
+}

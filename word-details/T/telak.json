@@ -1,1 +1,71 @@
-{"word":"telak","authenticated":true,"entries":[{"id":"83925","nama":"te.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kena benar; tepat","contoh":[{"nomor":2,"teks":"ia melakukan sundulan dengan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mutlak; penuh","contoh":[{"nomor":2,"teks":"kesebelasan kami menang -- atas kesebelasan lawan"}]}]},{"id":"242530","nama":"te.lak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"mencungkil jerawat atau bisul dengan telunjuk sampai pecah","contoh":[]}]}]}
+{
+  "word": "telak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83925",
+      "nama": "te.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena benar; tepat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia melakukan sundulan dengan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mutlak; penuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesebelasan kami menang -- atas kesebelasan lawan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "242530",
+      "nama": "te.lak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencungkil jerawat atau bisul dengan telunjuk sampai pecah",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

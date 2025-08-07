@@ -1,1 +1,141 @@
-{"word":"togok","authenticated":true,"entries":[{"id":"86639","nama":"to.gok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"batang kayu yang sudah ditebang dahan-dahannya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tubuh yang tidak bertangan dan berkaki","contoh":[]}],"terkait":{"kataTurunan":["bertogok"],"gabunganKata":["togok jalak","togok kancing","togok sanggan"],"peribahasa":[],"idiom":[]}},{"id":"120824","nama":"to.gok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"jermal atau tempat menangkap ikan di tepi pantai atau sungai","contoh":[{"nomor":2,"teks":"sudah lama -- di sana tidak didatangi  nelayan"}]}]},{"id":"245573","nama":"to.gok","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tiang pada pagar bagian dalam","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tugu kecil di bagian pintu masuk sebuah pekarangan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"penyangga yang dipasang dengan posisi miring di bagian pojok tembok dan sebagainya agar tidak mudah roboh","contoh":[]}]}]}
+{
+  "word": "togok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86639",
+      "nama": "to.gok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "batang kayu yang sudah ditebang dahan-dahannya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tubuh yang tidak bertangan dan berkaki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertogok"
+        ],
+        "gabunganKata": [
+          "togok jalak",
+          "togok kancing",
+          "togok sanggan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "120824",
+      "nama": "to.gok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jermal atau tempat menangkap ikan di tepi pantai atau sungai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah lama -- di sana tidak didatangi  nelayan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "245573",
+      "nama": "to.gok",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tiang pada pagar bagian dalam",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tugu kecil di bagian pintu masuk sebuah pekarangan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "penyangga yang dipasang dengan posisi miring di bagian pojok tembok dan sebagainya agar tidak mudah roboh",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

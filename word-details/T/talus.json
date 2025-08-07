@@ -1,1 +1,49 @@
-{"word":"talus","authenticated":true,"entries":[{"id":"81579","nama":"ta.lus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tubuh vegetatif tumbuhan rendah yang tidak terbagi atas akar, batang, dan daun","contoh":[]}]},{"id":"264364","nama":"ta.lus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Anat","nama":"Anatomi","tipe":"lainnya"}],"definisi":"tulang yang membentuk sendi pergelangan kaki bersama dengan tibia dan fibula","contoh":[]}]}]}
+{
+  "word": "talus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81579",
+      "nama": "ta.lus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tubuh vegetatif tumbuhan rendah yang tidak terbagi atas akar, batang, dan daun",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "264364",
+      "nama": "ta.lus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Anat",
+              "nama": "Anatomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tulang yang membentuk sendi pergelangan kaki bersama dengan tibia dan fibula",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

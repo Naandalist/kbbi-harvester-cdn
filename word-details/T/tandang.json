@@ -1,1 +1,93 @@
-{"word":"tandang","authenticated":true,"entries":[{"id":"82106","nama":"tan.dang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertandang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"nyak haga tandang-tandang sayur jak tepui (saya mau mengambil hasil panen sayuran di kebun di pagi hari )","contoh":[]}],"etimologi":{"text":"[Jawa Kuno tandaṅ 'berkunjung']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bertandang","menandangi","petandang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"82115","nama":"tan.dang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"mengambil sayur-sayuran atau lalap-lalapan di kebun untuk memenuhi kebutuhan pangan sehari-hari dan bukan untuk diperdagangkan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno tandaṅ 'berkunjung']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "tandang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82106",
+      "nama": "tan.dang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertandang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nyak haga tandang-tandang sayur jak tepui (saya mau mengambil hasil panen sayuran di kebun di pagi hari )",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tandaṅ 'berkunjung']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertandang",
+          "menandangi",
+          "petandang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82115",
+      "nama": "tan.dang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengambil sayur-sayuran atau lalap-lalapan di kebun untuk memenuhi kebutuhan pangan sehari-hari dan bukan untuk diperdagangkan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno tandaṅ 'berkunjung']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

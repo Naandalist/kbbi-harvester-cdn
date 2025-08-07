@@ -1,1 +1,48 @@
-{"word":"terangkut","authenticated":true,"entries":[{"id":"101617","nama":"ter.ang.kut","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diangkut","contoh":[{"nomor":2,"teks":"peti itu tidak ~ karena truk sudah kelebihan muatan"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diangkut","contoh":[{"nomor":2,"teks":"puluhan calon penumpang kereta di Tegal tak ~"}]}],"rootWord":"angkut"}]}
+{
+  "word": "terangkut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101617",
+      "nama": "ter.ang.kut",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diangkut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peti itu tidak ~ karena truk sudah kelebihan muatan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diangkut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "puluhan calon penumpang kereta di Tegal tak ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "angkut"
+    }
+  ]
+}

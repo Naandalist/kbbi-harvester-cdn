@@ -1,1 +1,36 @@
-{"word":"terabsen","authenticated":true,"entries":[{"id":"101546","nama":"ter.ab.sen","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"sudah diabsen","contoh":[{"nomor":2,"teks":"acara ini dihadiri 50 peserta belum termasuk peserta yang tidak sempat ~"}]}],"rootWord":"absen"}]}
+{
+  "word": "terabsen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101546",
+      "nama": "ter.ab.sen",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diabsen",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "acara ini dihadiri 50 peserta belum termasuk peserta yang tidak sempat ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "absen"
+    }
+  ]
+}

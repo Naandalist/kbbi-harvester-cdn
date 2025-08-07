@@ -1,1 +1,79 @@
-{"word":"tokak","authenticated":true,"entries":[{"id":"86665","nama":"to.kak","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ tukak","contoh":[]}],"terkait":{"kataTurunan":["menokak"],"gabunganKata":[],"peribahasa":["kudis menjadi tokak"],"idiom":[]}},{"id":"86666","nama":"to.kak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menokak","contoh":[]}],"terkait":{"kataTurunan":["menokak"],"gabunganKata":[],"peribahasa":["kudis menjadi tokak"],"idiom":[]}},{"id":"86668","nama":"to.kak","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ toka","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["kudis menjadi tokak"],"idiom":[]}}]}
+{
+  "word": "tokak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86665",
+      "nama": "to.kak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ tukak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menokak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kudis menjadi tokak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86666",
+      "nama": "to.kak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menokak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menokak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kudis menjadi tokak"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86668",
+      "nama": "to.kak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ toka",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "kudis menjadi tokak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

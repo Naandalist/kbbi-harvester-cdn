@@ -1,1 +1,64 @@
-{"word":"tali arus","authenticated":true,"entries":[{"id":"81473","nama":"tali arus","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"aliran arus (listrik, suara, dan sebagainya)","contoh":[]}],"rootWord":"tali¹"},{"id":"190156","nama":"tali arus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"formasi awan yang digunakan sebagai tanda pasang surut air laut, formasi melintang bertanda air sedang pasang, formasi membujur bertanda air sedang surut","contoh":[]}],"rootWord":"tali¹"},{"id":"251180","nama":"ta.li a.rus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"},{"kode":"Ikn","nama":"Perikanan","tipe":"bidang_subjek"}],"definisi":"buih yang berbentuk garis lurus, biasanya tempat ikan berkumpul","contoh":[]}]}]}
+{
+  "word": "tali arus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81473",
+      "nama": "tali arus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "aliran arus (listrik, suara, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tali¹"
+    },
+    {
+      "id": "190156",
+      "nama": "tali arus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "formasi awan yang digunakan sebagai tanda pasang surut air laut, formasi melintang bertanda air sedang pasang, formasi membujur bertanda air sedang surut",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tali¹"
+    },
+    {
+      "id": "251180",
+      "nama": "ta.li a.rus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "Ikn",
+              "nama": "Perikanan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "buih yang berbentuk garis lurus, biasanya tempat ikan berkumpul",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

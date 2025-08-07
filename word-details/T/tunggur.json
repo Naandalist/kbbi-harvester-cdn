@@ -1,1 +1,35 @@
-{"word":"tunggur","authenticated":true,"entries":[{"id":"128849","nama":"tung.gur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"bertindih (tentang kayu bakar) agar api terkumpul","contoh":[{"nomor":2,"teks":"kayu yang -- lebih mudah terbakar"}]}]}]}
+{
+  "word": "tunggur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "128849",
+      "nama": "tung.gur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bertindih (tentang kayu bakar) agar api terkumpul",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kayu yang -- lebih mudah terbakar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

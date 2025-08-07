@@ -1,1 +1,61 @@
-{"word":"tuntut","authenticated":true,"entries":[{"id":"88369","nama":"tun.tut","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menuntut","contoh":[]}],"terkait":{"kataTurunan":["menuntut","penuntut","penuntutan","tertuntut","tuntutan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"118514","nama":"tun.tut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bunga pisang","contoh":[]}]}]}
+{
+  "word": "tuntut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88369",
+      "nama": "tun.tut",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menuntut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menuntut",
+          "penuntut",
+          "penuntutan",
+          "tertuntut",
+          "tuntutan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "118514",
+      "nama": "tun.tut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bunga pisang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

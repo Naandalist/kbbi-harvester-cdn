@@ -1,1 +1,31 @@
-{"word":"terasuransi","authenticated":true,"entries":[{"id":"101659","nama":"ter.a.su.ran.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diasuransikan","contoh":[{"nomor":2,"teks":"penyuluhan ini menggambarkan penjaminan bahwa setiap warga negara harus ~"}]}],"rootWord":"asuransi"}]}
+{
+  "word": "terasuransi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101659",
+      "nama": "ter.a.su.ran.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diasuransikan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyuluhan ini menggambarkan penjaminan bahwa setiap warga negara harus ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "asuransi"
+    }
+  ]
+}

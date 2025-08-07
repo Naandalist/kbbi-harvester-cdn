@@ -1,1 +1,83 @@
-{"word":"tp","authenticated":true,"entries":[{"id":"96480","nama":"TP","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"titik pencar","contoh":[]}]},{"id":"239642","nama":"TP","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"tuntutan perbendaharaan (tata cara perhitungan penggantian kerugian oleh bendahara atau pengurus barang jika terdapat kekurangan perbendaharaan dalam pengurusannya)","contoh":[]}]},{"id":"265550","nama":"TP","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"tanpa perantara (tentang jual beli rumah, mobil, dan lain-lain)","contoh":[]}]}]}
+{
+  "word": "tp",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96480",
+      "nama": "TP",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "titik pencar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "239642",
+      "nama": "TP",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tuntutan perbendaharaan (tata cara perhitungan penggantian kerugian oleh bendahara atau pengurus barang jika terdapat kekurangan perbendaharaan dalam pengurusannya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265550",
+      "nama": "TP",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanpa perantara (tentang jual beli rumah, mobil, dan lain-lain)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

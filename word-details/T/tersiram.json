@@ -1,1 +1,43 @@
-{"word":"tersiram","authenticated":true,"entries":[{"id":"102380","nama":"ter.si.ram","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disiram","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkena siraman","contoh":[{"nomor":2,"teks":"kakinya ~ air panas"}]}],"rootWord":"siram"}]}
+{
+  "word": "tersiram",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102380",
+      "nama": "ter.si.ram",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disiram",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkena siraman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakinya ~ air panas"
+            }
+          ]
+        }
+      ],
+      "rootWord": "siram"
+    }
+  ]
+}

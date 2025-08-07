@@ -1,1 +1,43 @@
-{"word":"teradu","authenticated":true,"entries":[{"id":"101564","nama":"ter.a.du","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diadukan","contoh":[{"nomor":2,"teks":"pihak ~ sudah dikirimi surat panggilan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang diadukan (kepada polisi dan sebagainya) karena dianggap telah melakukan sesuatu yang melanggar hukum atau merugikan orang lain","contoh":[]}],"rootWord":"adu¹"}]}
+{
+  "word": "teradu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101564",
+      "nama": "ter.a.du",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diadukan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pihak ~ sudah dikirimi surat panggilan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang diadukan (kepada polisi dan sebagainya) karena dianggap telah melakukan sesuatu yang melanggar hukum atau merugikan orang lain",
+          "contoh": []
+        }
+      ],
+      "rootWord": "adu¹"
+    }
+  ]
+}

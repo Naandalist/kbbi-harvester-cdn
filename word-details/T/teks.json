@@ -1,1 +1,118 @@
-{"word":"teks","authenticated":true,"entries":[{"id":"83836","nama":"teks","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"naskah yang berupa kata-kata asli dari pengarang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kutipan dari kitab suci untuk pangkal ajaran atau alasan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahan tertulis untuk dasar memberikan pelajaran, berpidato, dan sebagainya","contoh":[{"nomor":2,"teks":"upacara itu didahului dengan pembacaan -- Pancasila"},{"nomor":4,"teks":"berulang kali ia melirik ke dalam -- terjemahan sajak-sajak yang sedang dibacanya"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"wacana tertulis","contoh":[]}],"terkait":{"kataTurunan":["berteks"],"gabunganKata":["teks berita","teks berjalan","teks buta","teks diskursif","teks ekspresif","teks evaluatif","teks film","teks foto","teks informatif","teks jenggotan","teks linguistik","teks magi","teks naratif","teks negosiasi","teks persuasif","teks profan","teks prosedur","teks ritual","teks sakral","teks samping"],"peribahasa":[],"idiom":[]}},{"id":"182375","nama":"teks","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"satuan berat untuk mengukur kepadatan benang, setara dengan 1 gram per 1.000 meter","contoh":[]}]}]}
+{
+  "word": "teks",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83836",
+      "nama": "teks",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naskah yang berupa kata-kata asli dari pengarang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kutipan dari kitab suci untuk pangkal ajaran atau alasan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahan tertulis untuk dasar memberikan pelajaran, berpidato, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "upacara itu didahului dengan pembacaan -- Pancasila"
+            },
+            {
+              "nomor": 4,
+              "teks": "berulang kali ia melirik ke dalam -- terjemahan sajak-sajak yang sedang dibacanya"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wacana tertulis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berteks"
+        ],
+        "gabunganKata": [
+          "teks berita",
+          "teks berjalan",
+          "teks buta",
+          "teks diskursif",
+          "teks ekspresif",
+          "teks evaluatif",
+          "teks film",
+          "teks foto",
+          "teks informatif",
+          "teks jenggotan",
+          "teks linguistik",
+          "teks magi",
+          "teks naratif",
+          "teks negosiasi",
+          "teks persuasif",
+          "teks profan",
+          "teks prosedur",
+          "teks ritual",
+          "teks sakral",
+          "teks samping"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "182375",
+      "nama": "teks",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "satuan berat untuk mengukur kepadatan benang, setara dengan 1 gram per 1.000 meter",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"tengkalang","authenticated":true,"entries":[{"id":"84858","nama":"teng.ka.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lumbung padi kecil bertiang tinggi","contoh":[{"nomor":2,"teks":"hasil panennya yang tidak seberapa itu dimasukkannya ke dalam --"}]}]},{"id":"190404","nama":"teng.ka.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"wadah yang terbuat dari jalinan rotan, berbentuk keranjang untuk membawa barang, buah, atau sayur dengan cara dijinjing","contoh":[]}]}]}
+{
+  "word": "tengkalang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84858",
+      "nama": "teng.ka.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lumbung padi kecil bertiang tinggi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hasil panennya yang tidak seberapa itu dimasukkannya ke dalam --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "190404",
+      "nama": "teng.ka.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "wadah yang terbuat dari jalinan rotan, berbentuk keranjang untuk membawa barang, buah, atau sayur dengan cara dijinjing",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

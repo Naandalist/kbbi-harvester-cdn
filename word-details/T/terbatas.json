@@ -1,1 +1,52 @@
-{"word":"terbatas","authenticated":true,"entries":[{"id":"8707","nama":"ter.ba.tas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"telah dibatasi (ditentukan batas-batasnya); tertentu (tidak boleh lebih)","contoh":[{"nomor":2,"teks":"kekuasaannya ~"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sedikit; tidak luas; tidak leluasa","contoh":[{"nomor":2,"teks":"pada zaman revolusi kita berperang dengan peralatan perang yang serba ~"},{"nomor":4,"teks":"biaya yang ~ seringkali mengganggu kelancaran kegiatan"}]}],"rootWord":"batas"}]}
+{
+  "word": "terbatas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "8707",
+      "nama": "ter.ba.tas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telah dibatasi (ditentukan batas-batasnya); tertentu (tidak boleh lebih)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kekuasaannya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedikit; tidak luas; tidak leluasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada zaman revolusi kita berperang dengan peralatan perang yang serba ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "biaya yang ~ seringkali mengganggu kelancaran kegiatan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "batas"
+    }
+  ]
+}

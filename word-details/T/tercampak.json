@@ -1,1 +1,70 @@
-{"word":"tercampak","authenticated":true,"entries":[{"id":"14389","nama":"ter.cam.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlempar (jauh); terbuang; terpelanting","contoh":[{"nomor":2,"teks":"ranting kecil itu patah dan ~ ke tanah oleh angin yang besar"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbanting; terempas","contoh":[{"nomor":2,"teks":"ia jatuh dan ~ ke atas batu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sampai (terdampar) ke tempat yang jauh dan terasing","contoh":[{"nomor":2,"teks":"mereka ~ di sebuah pulau yang kosong"}]}],"rootWord":"campak¹"}]}
+{
+  "word": "tercampak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14389",
+      "nama": "ter.cam.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlempar (jauh); terbuang; terpelanting",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ranting kecil itu patah dan ~ ke tanah oleh angin yang besar"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbanting; terempas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia jatuh dan ~ ke atas batu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampai (terdampar) ke tempat yang jauh dan terasing",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ di sebuah pulau yang kosong"
+            }
+          ]
+        }
+      ],
+      "rootWord": "campak¹"
+    }
+  ]
+}

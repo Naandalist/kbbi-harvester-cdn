@@ -1,1 +1,81 @@
-{"word":"titah","authenticated":true,"entries":[{"id":"86469","nama":"ti.tah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata; perintah (biasanya dari raja) yang harus dipatuhi","contoh":[{"nomor":2,"teks":"-- raja harus dipatuhi"}]}],"etimologi":{"text":"[Jawa Kuno titah 'rencana, susunan, perintah, acara, urutan, pembentukan, penyusunan, pengaturan, keadaan yang pasti, status yang ditakdirkan, takdir']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["bertitah","menitahkan","menitah","menitah-nitah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"101232","nama":"ti.tah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"belajar berjalan sambil memegang tangan orang tua, untuk melatih bayi berjalan; tatih; tatah","contoh":[]}],"etimologi":{"text":"[Jawa Kuno titah 'rencana, susunan, perintah, acara, urutan, pembentukan, penyusunan, pengaturan, keadaan yang pasti, status yang ditakdirkan, takdir']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menitah","menitah-nitah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "titah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86469",
+      "nama": "ti.tah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata; perintah (biasanya dari raja) yang harus dipatuhi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- raja harus dipatuhi"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titah 'rencana, susunan, perintah, acara, urutan, pembentukan, penyusunan, pengaturan, keadaan yang pasti, status yang ditakdirkan, takdir']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertitah",
+          "menitahkan",
+          "menitah",
+          "menitah-nitah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "101232",
+      "nama": "ti.tah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belajar berjalan sambil memegang tangan orang tua, untuk melatih bayi berjalan; tatih; tatah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titah 'rencana, susunan, perintah, acara, urutan, pembentukan, penyusunan, pengaturan, keadaan yang pasti, status yang ditakdirkan, takdir']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menitah",
+          "menitah-nitah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

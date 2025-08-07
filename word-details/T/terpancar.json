@@ -1,1 +1,65 @@
-{"word":"terpancar","authenticated":true,"entries":[{"id":"59665","nama":"ter.pan.car","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersembur ke luar","contoh":[{"nomor":2,"teks":"darahnya ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"memancar dengan tiba-tiba","contoh":[{"nomor":2,"teks":"~ cahaya lampu senter dari kegelapan malam"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlahir","contoh":[{"nomor":2,"teks":"rasa haru ~ dari lubuk hatinya"}]}],"rootWord":"pancar"}]}
+{
+  "word": "terpancar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "59665",
+      "nama": "ter.pan.car",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersembur ke luar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "darahnya ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "memancar dengan tiba-tiba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ cahaya lampu senter dari kegelapan malam"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlahir",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rasa haru ~ dari lubuk hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pancar"
+    }
+  ]
+}

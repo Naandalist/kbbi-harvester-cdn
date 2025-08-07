@@ -1,1 +1,52 @@
-{"word":"tepu","authenticated":true,"entries":[{"id":"85099","nama":"te.pu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berisi hingga ke pinggir permukaan (tentang tong, tempayan, dan sebagainya); penuh","contoh":[{"nomor":2,"teks":"piringnya -- nasi"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"telah terpasang semuanya (tentang layar perahu)","contoh":[{"nomor":2,"teks":"perahu itu -- layarnya"}]}]}]}
+{
+  "word": "tepu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85099",
+      "nama": "te.pu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berisi hingga ke pinggir permukaan (tentang tong, tempayan, dan sebagainya); penuh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "piringnya -- nasi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "telah terpasang semuanya (tentang layar perahu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu itu -- layarnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

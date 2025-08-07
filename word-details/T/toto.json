@@ -1,1 +1,83 @@
-{"word":"toto","authenticated":true,"entries":[{"id":"87057","nama":"to.to","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"totalisator","contoh":[]}]},{"id":"175435","nama":"to.to","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"potong (tidak sampai putus)","contoh":[{"nomor":2,"teks":"-- bagian kiri pohon pisang itu agar buahnya mudah diambil"}]}]},{"id":"206351","nama":"to.to","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gor","nama":"Gorontalo","tipe":"lainnya"}],"definisi":"batang kayu yang digunakan untuk melekatkan rangka perahu","contoh":[]}]}]}
+{
+  "word": "toto",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87057",
+      "nama": "to.to",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "totalisator",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "175435",
+      "nama": "to.to",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "potong (tidak sampai putus)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- bagian kiri pohon pisang itu agar buahnya mudah diambil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "206351",
+      "nama": "to.to",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gor",
+              "nama": "Gorontalo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "batang kayu yang digunakan untuk melekatkan rangka perahu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

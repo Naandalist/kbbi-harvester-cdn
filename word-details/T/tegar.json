@@ -1,1 +1,151 @@
-{"word":"tegar","authenticated":true,"entries":[{"id":"83590","nama":"te.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"keras dan kering","contoh":[{"nomor":2,"teks":"tanah --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"keras kaku; tidak dapat dilenturkan","contoh":[{"nomor":2,"teks":"rotan yang kasar itu --, tetapi yang halus melentur"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak dapat diubah (pendiriannya, pendapatnya); tidak mau menurut","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tabah","contoh":[{"nomor":2,"teks":"kedua orang tua itu masih mencoba -- kendati bencana itu merenggut ketiga putra-putri mereka"}]}],"terkait":{"kataTurunan":["ketegaran","menegarkan","penegar"],"gabunganKata":["tegar hati","tegar pelupuk mata","tegar tengkuk"],"peribahasa":[],"idiom":[]}},{"id":"83596","nama":"te.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menegarkan","contoh":[]}],"terkait":{"kataTurunan":["menegarkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83599","nama":"te.gar","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"penampilan tanaman yang sehat dan kuat, biasanya diperlihatkan oleh kemampuan berproduksi normal dalam keadaan suboptimum","contoh":[]}]}]}
+{
+  "word": "tegar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83590",
+      "nama": "te.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keras dan kering",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keras kaku; tidak dapat dilenturkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rotan yang kasar itu --, tetapi yang halus melentur"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dapat diubah (pendiriannya, pendapatnya); tidak mau menurut",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tabah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kedua orang tua itu masih mencoba -- kendati bencana itu merenggut ketiga putra-putri mereka"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketegaran",
+          "menegarkan",
+          "penegar"
+        ],
+        "gabunganKata": [
+          "tegar hati",
+          "tegar pelupuk mata",
+          "tegar tengkuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83596",
+      "nama": "te.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menegarkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menegarkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83599",
+      "nama": "te.gar",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penampilan tanaman yang sehat dan kuat, biasanya diperlihatkan oleh kemampuan berproduksi normal dalam keadaan suboptimum",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"word":"tesla","authenticated":true,"entries":[{"id":"85618","nama":"tes.la","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"satuan imbas-magnetik atau rapat fluks magnetik dalam sistem satuan internasional yang sama dengan satu weber","contoh":[]}]}]}
+{
+  "word": "tesla",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85618",
+      "nama": "tes.la",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "satuan imbas-magnetik atau rapat fluks magnetik dalam sistem satuan internasional yang sama dengan satu weber",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"word":"takrir","authenticated":true,"entries":[{"id":"81311","nama":"tak.rir","nomor":"12","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"peneguhan kebenaran dengan alasan","contoh":[{"nomor":2,"teks":"guru itu --nya banyak lagi dalam"}]}],"etimologi":{"text":"[Arab تَقْرِيْرٌ taqrīr n sg m 'pernyataan; peneguhan']","languages":["Arab"]}},{"id":"81312","nama":"tak.rir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengulangan hafalan atau pelajaran","contoh":[]}],"etimologi":{"text":"[Arab تَقْرِيْرٌ taqrīr n sg m 'pernyataan; peneguhan']","languages":["Arab"]}}]}
+{
+  "word": "takrir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81311",
+      "nama": "tak.rir",
+      "nomor": "12",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "peneguhan kebenaran dengan alasan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "guru itu --nya banyak lagi dalam"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَقْرِيْرٌ taqrīr n sg m 'pernyataan; peneguhan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    },
+    {
+      "id": "81312",
+      "nama": "tak.rir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengulangan hafalan atau pelajaran",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَقْرِيْرٌ taqrīr n sg m 'pernyataan; peneguhan']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

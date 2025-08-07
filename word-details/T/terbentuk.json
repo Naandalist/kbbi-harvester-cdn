@@ -1,1 +1,53 @@
-{"word":"terbentuk","authenticated":true,"entries":[{"id":"10404","nama":"ter.ben.tuk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah dibentuk","contoh":[{"nomor":2,"teks":"organisasi itu baru saja ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"dapat dibentuk (dididik)","contoh":[{"nomor":2,"teks":"anak itu sudah ~ sehingga perilakunya baik"}]}],"rootWord":"bentuk"}]}
+{
+  "word": "terbentuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "10404",
+      "nama": "ter.ben.tuk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah dibentuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "organisasi itu baru saja ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dibentuk (dididik)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu sudah ~ sehingga perilakunya baik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bentuk"
+    }
+  ]
+}

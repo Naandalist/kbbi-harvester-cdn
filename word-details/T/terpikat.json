@@ -1,1 +1,60 @@
-{"word":"terpikat","authenticated":true,"entries":[{"id":"63465","nama":"ter.pi.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertarik (hatinya)","contoh":[{"nomor":2,"teks":"hatiku ~ oleh suasana yang menyenangkan di rumah itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena pikat","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"jatuh cinta kepada","contoh":[{"nomor":2,"teks":"hatinya ~ kepada gadis cantik itu"}]}],"rootWord":"pikat²"}]}
+{
+  "word": "terpikat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63465",
+      "nama": "ter.pi.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertarik (hatinya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatiku ~ oleh suasana yang menyenangkan di rumah itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena pikat",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jatuh cinta kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya ~ kepada gadis cantik itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pikat²"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"word":"tandan","authenticated":true,"entries":[{"id":"82101","nama":"tan.dan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tangkai yang panjang pada buah-buahan yang bergugus (pisang, nyiur, enau, dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"perbungaan yang memanjang, tidak terbatas, tidak bercabang dengan bunga-bunga bergantian","contoh":[]}],"terkait":{"kataTurunan":["bertandan","setandan"],"gabunganKata":["tandan bunga","tandan ekor","tandan segar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tandan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82101",
+      "nama": "tan.dan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tangkai yang panjang pada buah-buahan yang bergugus (pisang, nyiur, enau, dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "perbungaan yang memanjang, tidak terbatas, tidak bercabang dengan bunga-bunga bergantian",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertandan",
+          "setandan"
+        ],
+        "gabunganKata": [
+          "tandan bunga",
+          "tandan ekor",
+          "tandan segar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

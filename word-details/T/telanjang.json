@@ -1,1 +1,81 @@
-{"word":"telanjang","authenticated":true,"entries":[{"id":"83950","nama":"te.lan.jang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak berpakaian","contoh":[{"nomor":2,"teks":"banyak anak kecil yang mandi -- di sungai"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terhunus (tidak bersarung tentang keris, pedang)","contoh":[{"nomor":2,"teks":"ia menggunakan pedang --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak mempunyai pakaian (perhiasan dan sebagainya)","contoh":[{"nomor":2,"teks":"semuanya habis dalam perjudian hingga pulang --"}]}],"terkait":{"kataTurunan":["bertelanjang","ketelanjangan","menelanjangi","menelanjangkan","penelanjangan"],"gabunganKata":["telanjang bulat","telanjang dada","telanjang kaki","telanjang loncos"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "telanjang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83950",
+      "nama": "te.lan.jang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berpakaian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak anak kecil yang mandi -- di sungai"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhunus (tidak bersarung tentang keris, pedang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menggunakan pedang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mempunyai pakaian (perhiasan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semuanya habis dalam perjudian hingga pulang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertelanjang",
+          "ketelanjangan",
+          "menelanjangi",
+          "menelanjangkan",
+          "penelanjangan"
+        ],
+        "gabunganKata": [
+          "telanjang bulat",
+          "telanjang dada",
+          "telanjang kaki",
+          "telanjang loncos"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

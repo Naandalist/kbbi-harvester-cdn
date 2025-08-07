@@ -1,1 +1,57 @@
-{"word":"terpegang","authenticated":true,"entries":[{"id":"108087","nama":"ter.pe.gang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dipegang","contoh":[{"nomor":2,"teks":"panci panas itu tidak sengaja ~ oleh adik"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dipegang","contoh":[{"nomor":2,"teks":"kambing yang terlepas itu sudah ~"}]}],"rootWord":"pegang","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["orang terpegang pada hulunya, awak terpegang pada matanya","terpegang di abu hangat"],"idiom":[]}}]}
+{
+  "word": "terpegang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "108087",
+      "nama": "ter.pe.gang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dipegang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "panci panas itu tidak sengaja ~ oleh adik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dipegang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kambing yang terlepas itu sudah ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pegang",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "orang terpegang pada hulunya, awak terpegang pada matanya",
+          "terpegang di abu hangat"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

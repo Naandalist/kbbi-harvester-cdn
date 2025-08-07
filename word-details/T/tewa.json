@@ -1,1 +1,61 @@
-{"word":"tewa","authenticated":true,"entries":[{"id":"175430","nama":"te.wa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"karung yang terbuat dari anyaman kulit kayu","contoh":[]}]},{"id":"101210","nama":"Te.wa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami wilayah Pulau Pantar, Provinsi Nusa Tenggara Timur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang dituturkan oleh suku Tewa","contoh":[]}]}]}
+{
+  "word": "tewa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "175430",
+      "nama": "te.wa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "karung yang terbuat dari anyaman kulit kayu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "101210",
+      "nama": "Te.wa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami wilayah Pulau Pantar, Provinsi Nusa Tenggara Timur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang dituturkan oleh suku Tewa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"word":"taf","authenticated":true,"entries":[{"id":"80839","nama":"taf","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"tafeta","contoh":[]}]},{"id":"147348","nama":"taf","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kol","nama":"Kola","tipe":"lainnya"}],"definisi":"genangan air laut setelah air surut","contoh":[]}]}]}
+{
+  "word": "taf",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80839",
+      "nama": "taf",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tafeta",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "147348",
+      "nama": "taf",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kol",
+              "nama": "Kola",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "genangan air laut setelah air surut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

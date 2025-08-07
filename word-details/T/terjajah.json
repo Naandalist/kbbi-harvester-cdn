@@ -1,1 +1,53 @@
-{"word":"terjajah","authenticated":true,"entries":[{"id":"32921","nama":"ter.ja.jah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dalam keadaan dijajah","contoh":[{"nomor":2,"teks":"negeri-negeri yang ~ berjuang untuk memperoleh kemerdekaannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tertindas; tersusahkan","contoh":[{"nomor":2,"teks":"dia merasa ~ dengan peraturan baru itu"}]}],"rootWord":"jajah"}]}
+{
+  "word": "terjajah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "32921",
+      "nama": "ter.ja.jah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dalam keadaan dijajah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "negeri-negeri yang ~ berjuang untuk memperoleh kemerdekaannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertindas; tersusahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia merasa ~ dengan peraturan baru itu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jajah"
+    }
+  ]
+}

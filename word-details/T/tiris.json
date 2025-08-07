@@ -1,1 +1,99 @@
-{"word":"tiris","authenticated":true,"entries":[{"id":"86436","nama":"ti.ris","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bocor (terutama tentang atap, genting, dan perahu)","contoh":[{"nomor":2,"teks":"atapnya -- karena gentingnya pecah"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"merembes dan bertitik-titik","contoh":[]}],"terkait":{"kataTurunan":["ketirisan","meniris","meniriskan","peniris","penirisan","tirisan"],"gabunganKata":["tiris miris"],"peribahasa":["air digenggam tiada tiris","biduk tiris menanti karam","menggenggam tiada tiris","umpama air digenggam tak tiris","umpama air, digenggam, tiada tiris"],"idiom":[]}},{"id":"243056","nama":"ti.ris","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"ritual memulai menanam padi khas Jember yang diawali dengan selamatan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["air digenggam tiada tiris","biduk tiris menanti karam","menggenggam tiada tiris","umpama air digenggam tak tiris","umpama air, digenggam, tiada tiris"],"idiom":[]}}]}
+{
+  "word": "tiris",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86436",
+      "nama": "ti.ris",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bocor (terutama tentang atap, genting, dan perahu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "atapnya -- karena gentingnya pecah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merembes dan bertitik-titik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketirisan",
+          "meniris",
+          "meniriskan",
+          "peniris",
+          "penirisan",
+          "tirisan"
+        ],
+        "gabunganKata": [
+          "tiris miris"
+        ],
+        "peribahasa": [
+          "air digenggam tiada tiris",
+          "biduk tiris menanti karam",
+          "menggenggam tiada tiris",
+          "umpama air digenggam tak tiris",
+          "umpama air, digenggam, tiada tiris"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "243056",
+      "nama": "ti.ris",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ritual memulai menanam padi khas Jember yang diawali dengan selamatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "air digenggam tiada tiris",
+          "biduk tiris menanti karam",
+          "menggenggam tiada tiris",
+          "umpama air digenggam tak tiris",
+          "umpama air, digenggam, tiada tiris"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

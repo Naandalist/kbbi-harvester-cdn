@@ -1,1 +1,70 @@
-{"word":"tuang","authenticated":true,"entries":[{"id":"87469","nama":"tu.ang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"curah; tumpah (tentang benda cair)","contoh":[]}],"terkait":{"kataTurunan":["bertuang","ketuangan","menuang","menuangi","menuangkan","penuang","penuangan","tertuang","tuangan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"87479","nama":"tu.ang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tidak datang belajar (tanpa seizin guru); bolos","contoh":[{"nomor":2,"teks":"hari ini hanya beberapa murid yang ikut kursus, yang lainnya --"}]}]}]}
+{
+  "word": "tuang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87469",
+      "nama": "tu.ang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "curah; tumpah (tentang benda cair)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertuang",
+          "ketuangan",
+          "menuang",
+          "menuangi",
+          "menuangkan",
+          "penuang",
+          "penuangan",
+          "tertuang",
+          "tuangan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "87479",
+      "nama": "tu.ang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak datang belajar (tanpa seizin guru); bolos",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari ini hanya beberapa murid yang ikut kursus, yang lainnya --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

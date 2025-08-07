@@ -1,1 +1,51 @@
-{"word":"terjaring","authenticated":true,"entries":[{"id":"33603","nama":"ter.ja.ring","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena jaring","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertangkap secara tiba-tiba","contoh":[{"nomor":2,"teks":"lima pemuda pengedar obat terlarang ~ petugas ketika operasi kamtibmas dilancarkan"}]}],"rootWord":"jaring","terkait":{"kataTurunan":[],"gabunganKata":["terjaring bahu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "terjaring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33603",
+      "nama": "ter.ja.ring",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena jaring",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertangkap secara tiba-tiba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lima pemuda pengedar obat terlarang ~ petugas ketika operasi kamtibmas dilancarkan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jaring",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "terjaring bahu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

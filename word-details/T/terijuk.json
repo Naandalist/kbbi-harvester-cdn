@@ -1,1 +1,43 @@
-{"word":"terijuk","authenticated":true,"entries":[{"id":"30805","nama":"ter.i.juk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena ijuk","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mendapat malu; kecewa","contoh":[]}],"rootWord":"ijuk"}]}
+{
+  "word": "terijuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "30805",
+      "nama": "ter.i.juk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena ijuk",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendapat malu; kecewa",
+          "contoh": []
+        }
+      ],
+      "rootWord": "ijuk"
+    }
+  ]
+}

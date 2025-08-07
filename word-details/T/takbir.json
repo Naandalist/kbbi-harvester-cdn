@@ -1,1 +1,97 @@
-{"word":"takbir","authenticated":true,"entries":[{"id":"81221","nama":"tak.bir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"seruan atau ucapan Allahu Akbar ‘Allah Maha Besar’","contoh":[{"nomor":2,"teks":"menjelang Idulfitri dan Idhuladha orang mengumandangkan --"}]}],"etimologi":{"text":"[Arab تَكْبِيْرٌ takbīr n sg m 'pengagungan; ucapan Allahu Akbar']","languages":["Arab"]},"terkait":{"kataTurunan":["bertakbir","bertakbiran","takbiran","menakbirkan"],"gabunganKata":["takbir keliling"],"peribahasa":[],"idiom":[]}},{"id":"81224","nama":"tak.bir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"penyingkapan; takwil (biasanya tentang mimpi)","contoh":[{"nomor":2,"teks":"ia mendapat petunjuk melalui -- mimpinya"}]}],"etimologi":{"text":"[Arab تَكْبِيْرٌ takbīr n sg m 'pengagungan; ucapan Allahu Akbar']","languages":["Arab"]},"terkait":{"kataTurunan":["menakbirkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "takbir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81221",
+      "nama": "tak.bir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "seruan atau ucapan Allahu Akbar ‘Allah Maha Besar’",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menjelang Idulfitri dan Idhuladha orang mengumandangkan --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَكْبِيْرٌ takbīr n sg m 'pengagungan; ucapan Allahu Akbar']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertakbir",
+          "bertakbiran",
+          "takbiran",
+          "menakbirkan"
+        ],
+        "gabunganKata": [
+          "takbir keliling"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81224",
+      "nama": "tak.bir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penyingkapan; takwil (biasanya tentang mimpi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia mendapat petunjuk melalui -- mimpinya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَكْبِيْرٌ takbīr n sg m 'pengagungan; ucapan Allahu Akbar']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menakbirkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

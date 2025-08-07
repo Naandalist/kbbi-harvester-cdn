@@ -1,1 +1,48 @@
-{"word":"termuat","authenticated":true,"entries":[{"id":"55269","nama":"ter.mu.at","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"telah dimuat (dimasukkan, diisikan, dipasang)","contoh":[{"nomor":2,"teks":"karangan itu ~ di majalah “Sastra”"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dimuat (dimasukkan dan sebagainya)","contoh":[{"nomor":2,"teks":"barang-barang itu tidak ~ dalam satu truk"}]}],"rootWord":"muat"}]}
+{
+  "word": "termuat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "55269",
+      "nama": "ter.mu.at",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telah dimuat (dimasukkan, diisikan, dipasang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karangan itu ~ di majalah “Sastra”"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dimuat (dimasukkan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "barang-barang itu tidak ~ dalam satu truk"
+            }
+          ]
+        }
+      ],
+      "rootWord": "muat"
+    }
+  ]
+}

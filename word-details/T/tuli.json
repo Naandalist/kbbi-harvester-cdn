@@ -1,1 +1,103 @@
-{"word":"tuli","authenticated":true,"entries":[{"id":"87866","nama":"tu.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak dapat mendengar (karena rusak pendengarannya); pekak; tunarungu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"(dengan huruf besar) tidak dapat mendengar dan menggunakan bahasa isyarat untuk berkomunikasi","contoh":[]}],"terkait":{"kataTurunan":["ketulian","menulikan"],"gabunganKata":["tuli beruang","tuli bisu","tuli kata","tuli konduktif","tuli kongenital","tuli nada","tuli saraf","tuli sensorineural"],"peribahasa":[],"idiom":[]}},{"id":"216818","nama":"tu.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"turunan hasil persilangan sapi dan zebu","contoh":[]}]},{"id":"298939","nama":"tu.li","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"bersandar di lanting atau pinggir sungai (tentang sampan)","contoh":[{"nomor":2,"teks":"sampan kakek -- di lanting kami"}]}]}]}
+{
+  "word": "tuli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87866",
+      "nama": "tu.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak dapat mendengar (karena rusak pendengarannya); pekak; tunarungu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(dengan huruf besar) tidak dapat mendengar dan menggunakan bahasa isyarat untuk berkomunikasi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketulian",
+          "menulikan"
+        ],
+        "gabunganKata": [
+          "tuli beruang",
+          "tuli bisu",
+          "tuli kata",
+          "tuli konduktif",
+          "tuli kongenital",
+          "tuli nada",
+          "tuli saraf",
+          "tuli sensorineural"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216818",
+      "nama": "tu.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "turunan hasil persilangan sapi dan zebu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "298939",
+      "nama": "tu.li",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bersandar di lanting atau pinggir sungai (tentang sampan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sampan kakek -- di lanting kami"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

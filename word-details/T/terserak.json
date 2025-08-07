@@ -1,1 +1,57 @@
-{"word":"terserak","authenticated":true,"entries":[{"id":"75665","nama":"ter.se.rak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersebar","contoh":[{"nomor":2,"teks":"buku-bukunya ~ di kolong tempat tidurnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terpencar","contoh":[{"nomor":2,"teks":"awan putih ~ di langit biru"}]}],"rootWord":"serak","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai bertemu alu dengan lesung, beras kita yang terserak, ayam orang yang kenyang","emping terserak hari hujan"],"idiom":[]}}]}
+{
+  "word": "terserak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "75665",
+      "nama": "ter.se.rak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersebar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku-bukunya ~ di kolong tempat tidurnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terpencar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "awan putih ~ di langit biru"
+            }
+          ]
+        }
+      ],
+      "rootWord": "serak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai bertemu alu dengan lesung, beras kita yang terserak, ayam orang yang kenyang",
+          "emping terserak hari hujan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

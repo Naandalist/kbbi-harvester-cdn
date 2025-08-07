@@ -1,1 +1,59 @@
-{"word":"trip","authenticated":true,"entries":[{"id":"87291","nama":"trip","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ing","nama":"Inggris","tipe":"bahasa"}],"definisi":"perjalanan jauh","contoh":[{"nomor":2,"teks":"menyelesaikan -- pertama mengelilingi Pulau Bali"}]}]},{"id":"201250","nama":"TRIP","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Tentara Republik Indonesia Pelajar","contoh":[]}]}]}
+{
+  "word": "trip",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87291",
+      "nama": "trip",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ing",
+              "nama": "Inggris",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "perjalanan jauh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menyelesaikan -- pertama mengelilingi Pulau Bali"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "201250",
+      "nama": "TRIP",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Tentara Republik Indonesia Pelajar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

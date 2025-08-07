@@ -1,1 +1,58 @@
-{"word":"tercekat","authenticated":true,"entries":[{"id":"15143","nama":"ter.ce.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"paling cekat","contoh":[]}],"rootWord":"cekat¹"},{"id":"134946","nama":"ter.ce.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersentak karena terkejut mendengar berita, melihat kejadian, membaca tulisan, dan sebagainya yang mendorong emosi tinggi dan sentimen yang kuat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertahan (tentang suara)","contoh":[]}],"rootWord":"cekat²"}]}
+{
+  "word": "tercekat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "15143",
+      "nama": "ter.ce.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paling cekat",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cekat¹"
+    },
+    {
+      "id": "134946",
+      "nama": "ter.ce.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersentak karena terkejut mendengar berita, melihat kejadian, membaca tulisan, dan sebagainya yang mendorong emosi tinggi dan sentimen yang kuat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertahan (tentang suara)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cekat²"
+    }
+  ]
+}

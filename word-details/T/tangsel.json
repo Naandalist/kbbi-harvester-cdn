@@ -1,1 +1,57 @@
-{"word":"tangsel","authenticated":true,"entries":[{"id":"82490","nama":"tang.sel","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ganjal; baji; sumbat","contoh":[]}],"terkait":{"kataTurunan":["menangsel"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"204138","nama":"Tang.sel","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"Tangerang Selatan (kota yang terletak di Provinsi Banten)","contoh":[]}]}]}
+{
+  "word": "tangsel",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82490",
+      "nama": "tang.sel",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ganjal; baji; sumbat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menangsel"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "204138",
+      "nama": "Tang.sel",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Tangerang Selatan (kota yang terletak di Provinsi Banten)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

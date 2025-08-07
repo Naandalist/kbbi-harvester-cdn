@@ -1,1 +1,73 @@
-{"word":"tulak","authenticated":true,"entries":[{"id":"87798","nama":"tu.lak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"motif kain berbentuk kotak-kotak, dengan warna hitam putih","contoh":[]}]},{"id":"199873","nama":"tu.lak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pergi pulang dalam satu hari tanpa menginap","contoh":[]}]},{"id":"250486","nama":"tu.lak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"bambu dengan panjang satu ruas untuk menyimpan campuran daging dan minyak babi","contoh":[]}]}]}
+{
+  "word": "tulak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87798",
+      "nama": "tu.lak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "motif kain berbentuk kotak-kotak, dengan warna hitam putih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "199873",
+      "nama": "tu.lak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pergi pulang dalam satu hari tanpa menginap",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "250486",
+      "nama": "tu.lak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bambu dengan panjang satu ruas untuk menyimpan campuran daging dan minyak babi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

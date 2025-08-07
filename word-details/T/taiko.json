@@ -1,1 +1,61 @@
-{"word":"taiko","authenticated":true,"entries":[{"id":"81112","nama":"tai.ko","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"orang (pengusaha) yang memiliki banyak uang; pengusaha kaya raya; tauke","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 癩哥 thái ko 'penyakit kusta']","languages":["Hokkien dialek Xiamen"]}},{"id":"81113","nama":"tai.ko","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kusta; lepra","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 癩哥 thái ko 'penyakit kusta']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "taiko",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81112",
+      "nama": "tai.ko",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang (pengusaha) yang memiliki banyak uang; pengusaha kaya raya; tauke",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 癩哥 thái ko 'penyakit kusta']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    },
+    {
+      "id": "81113",
+      "nama": "tai.ko",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kusta; lepra",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 癩哥 thái ko 'penyakit kusta']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

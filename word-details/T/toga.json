@@ -1,1 +1,61 @@
-{"word":"toga","authenticated":true,"entries":[{"id":"86632","nama":"to.ga","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baju panjang (jubah) hitam, lengannya lebar sebagai pakaian jabatan bagi guru besar, hakim, sarjana, dan sebagainya yang dipakainya pada saat tertentu","contoh":[]}]},{"id":"96478","nama":"to.ga","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"tanaman obat keluarga","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sebidang tanah di halaman rumah, untuk membudidayakan tanaman yang berkhasiat sebagai obat","contoh":[]}]}]}
+{
+  "word": "toga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86632",
+      "nama": "to.ga",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baju panjang (jubah) hitam, lengannya lebar sebagai pakaian jabatan bagi guru besar, hakim, sarjana, dan sebagainya yang dipakainya pada saat tertentu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "96478",
+      "nama": "to.ga",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanaman obat keluarga",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebidang tanah di halaman rumah, untuk membudidayakan tanaman yang berkhasiat sebagai obat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

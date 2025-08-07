@@ -1,1 +1,53 @@
-{"word":"terobat","authenticated":true,"entries":[{"id":"57604","nama":"ter.o.bat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diobati","contoh":[{"nomor":2,"teks":"penyakitnya sudah tidak ~ lagi"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terhibur","contoh":[{"nomor":2,"teks":"hatinya yang sedih agak ~ oleh kata-kata sahabatnya"}]}],"rootWord":"obat"}]}
+{
+  "word": "terobat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "57604",
+      "nama": "ter.o.bat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diobati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyakitnya sudah tidak ~ lagi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terhibur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya yang sedih agak ~ oleh kata-kata sahabatnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "obat"
+    }
+  ]
+}

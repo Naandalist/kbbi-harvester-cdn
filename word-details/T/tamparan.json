@@ -1,1 +1,57 @@
-{"word":"tamparan","authenticated":true,"entries":[{"id":"81789","nama":"tam.par.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pukulan dengan telapak tangan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sesuatu (kejadian, peristiwa) yang tidak mengenakkan hati; pukulan; hantaman","contoh":[{"nomor":2,"teks":"peristiwa skandal itu merupakan ~ berat bagi keluarganya"}]}],"rootWord":"tampar¹","terkait":{"kataTurunan":[],"gabunganKata":["tamparan keras","tamparan nyamuk"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tamparan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81789",
+      "nama": "tam.par.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pukulan dengan telapak tangan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu (kejadian, peristiwa) yang tidak mengenakkan hati; pukulan; hantaman",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "peristiwa skandal itu merupakan ~ berat bagi keluarganya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tampar¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tamparan keras",
+          "tamparan nyamuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

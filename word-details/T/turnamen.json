@@ -1,1 +1,51 @@
-{"word":"turnamen","authenticated":true,"entries":[{"id":"88450","nama":"tur.na.men","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"pertandingan (tenis dan sebagainya) yang diikuti oleh beberapa regu","contoh":[{"nomor":2,"teks":"gubernur menyerahkan piala bergilir kepada pemenang -- bridge tahun ini"}]}],"terkait":{"kataTurunan":["berturnamen"],"gabunganKata":["turnamen eksibisi","turnamen pramusim","turnamen prefektur","turnamen prestisius","turnamen takraw","turnamen terbuka","turnamen tertutup"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "turnamen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88450",
+      "nama": "tur.na.men",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pertandingan (tenis dan sebagainya) yang diikuti oleh beberapa regu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gubernur menyerahkan piala bergilir kepada pemenang -- bridge tahun ini"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berturnamen"
+        ],
+        "gabunganKata": [
+          "turnamen eksibisi",
+          "turnamen pramusim",
+          "turnamen prefektur",
+          "turnamen prestisius",
+          "turnamen takraw",
+          "turnamen terbuka",
+          "turnamen tertutup"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

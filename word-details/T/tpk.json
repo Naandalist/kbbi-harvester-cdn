@@ -1,1 +1,54 @@
-{"word":"tpk","authenticated":true,"entries":[{"id":"96482","nama":"TPK","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"tujuan pengajaran khusus","contoh":[]}]},{"id":"269693","nama":"TPK","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"tempat pemakaman khusus (tempat pemakaman bagi individu atau kelompok tertentu yang memiliki kriteria khusus, baik berdasarkan profesi, jasa, agama, etnis, atau alasan lain, misalnya taman makam pahlawan)","contoh":[]}]}]}
+{
+  "word": "tpk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96482",
+      "nama": "TPK",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tujuan pengajaran khusus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "269693",
+      "nama": "TPK",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat pemakaman khusus (tempat pemakaman bagi individu atau kelompok tertentu yang memiliki kriteria khusus, baik berdasarkan profesi, jasa, agama, etnis, atau alasan lain, misalnya taman makam pahlawan)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

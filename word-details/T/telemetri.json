@@ -1,1 +1,55 @@
-{"word":"telemetri","authenticated":true,"entries":[{"id":"84032","nama":"te.le.met.ri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"El","nama":"Elektronika","tipe":"lainnya"}],"definisi":"cara mengukur dari jauh, biasanya dengan bantuan peranti komunikasi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"teknik mengirim sinyal biomekanik ke perangkat perekam tanpa kabel menggunakan pemancar dan penerima radio FM","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["telemetri antariksa"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "telemetri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84032",
+      "nama": "te.le.met.ri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "El",
+              "nama": "Elektronika",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "cara mengukur dari jauh, biasanya dengan bantuan peranti komunikasi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "teknik mengirim sinyal biomekanik ke perangkat perekam tanpa kabel menggunakan pemancar dan penerima radio FM",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "telemetri antariksa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

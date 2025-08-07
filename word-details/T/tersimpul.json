@@ -1,1 +1,78 @@
-{"word":"tersimpul","authenticated":true,"entries":[{"id":"77324","nama":"ter.sim.pul","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disimpulkan (diikatkan)","contoh":[{"nomor":2,"teks":"tali yang (sudah) ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tercantum (termuat) di dalamnya","contoh":[{"nomor":2,"teks":"dalam pujian itu ~ nasihat kepada bangsanya sendiri"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tersungging","contoh":[{"nomor":2,"teks":"~ senyum manis di bibirnya"}]}],"rootWord":"simpul","terkait":{"kataTurunan":[],"gabunganKata":["tersimpul dalam hati"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tersimpul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77324",
+      "nama": "ter.sim.pul",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disimpulkan (diikatkan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tali yang (sudah) ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tercantum (termuat) di dalamnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam pujian itu ~ nasihat kepada bangsanya sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersungging",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ senyum manis di bibirnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "simpul",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tersimpul dalam hati"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-{"word":"tahajud","authenticated":true,"entries":[{"id":"80890","nama":"ta.ha.jud","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidur sambil berjaga agar siap melakukan salat tengah malam atau membaca Al-Qur'an","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Isl","nama":"Agama Islam","tipe":"bidang_subjek"}],"definisi":"(ditulis dengan huruf awal kapital) salat sunah pada tengah malam, seusai tidur","contoh":[]}],"etimologi":{"text":"[Arab تَهَجُّدٌ tahajjud n sg m 'aktivitas bangun kepada tidur untuk melakukan salat malam']","languages":["Arab"]},"terkait":{"kataTurunan":["bertahajud"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tahajud",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80890",
+      "nama": "ta.ha.jud",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidur sambil berjaga agar siap melakukan salat tengah malam atau membaca Al-Qur'an",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Isl",
+              "nama": "Agama Islam",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "(ditulis dengan huruf awal kapital) salat sunah pada tengah malam, seusai tidur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَهَجُّدٌ tahajjud n sg m 'aktivitas bangun kepada tidur untuk melakukan salat malam']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertahajud"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

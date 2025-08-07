@@ -1,1 +1,61 @@
-{"word":"tugur","authenticated":true,"entries":[{"id":"87597","nama":"tu.gur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tetap (menunggu) pada suatu tempat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"menjaga (rumah, ladang, dan sebagainya)","contoh":[{"nomor":2,"teks":"tentara telah -- di balik bukit untuk berjaga-jaga terhadap segala kemungkinan"}]}],"terkait":{"kataTurunan":["menuguri","tuguran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tugur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87597",
+      "nama": "tu.gur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tetap (menunggu) pada suatu tempat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "menjaga (rumah, ladang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tentara telah -- di balik bukit untuk berjaga-jaga terhadap segala kemungkinan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menuguri",
+          "tuguran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

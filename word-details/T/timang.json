@@ -1,1 +1,65 @@
-{"word":"timang","authenticated":true,"entries":[{"id":"85997","nama":"ti.mang","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menimang","contoh":[]}],"terkait":{"kataTurunan":["ditimang","menimang","menimang-nimang","menimangkan","penimang","timang-timangan","timangan"],"gabunganKata":["timang padi"],"peribahasa":[],"idiom":[]}},{"id":"86006","nama":"ti.mang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kepala tali (ikat) pinggang; gesper","contoh":[]}]}]}
+{
+  "word": "timang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85997",
+      "nama": "ti.mang",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menimang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ditimang",
+          "menimang",
+          "menimang-nimang",
+          "menimangkan",
+          "penimang",
+          "timang-timangan",
+          "timangan"
+        ],
+        "gabunganKata": [
+          "timang padi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86006",
+      "nama": "ti.mang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kepala tali (ikat) pinggang; gesper",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

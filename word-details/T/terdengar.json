@@ -1,1 +1,48 @@
-{"word":"terdengar","authenticated":true,"entries":[{"id":"18866","nama":"ter.de.ngar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat didengar (tentang suara, bunyi)","contoh":[{"nomor":2,"teks":"suaranya tidak ~ dari sini"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"diketahui atau tersiar (tentang kabar, berita)","contoh":[{"nomor":2,"teks":"sudah setahun lebih tidak ~ beritanya"}]}],"rootWord":"dengar"}]}
+{
+  "word": "terdengar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "18866",
+      "nama": "ter.de.ngar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat didengar (tentang suara, bunyi)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "suaranya tidak ~ dari sini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "diketahui atau tersiar (tentang kabar, berita)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah setahun lebih tidak ~ beritanya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "dengar"
+    }
+  ]
+}

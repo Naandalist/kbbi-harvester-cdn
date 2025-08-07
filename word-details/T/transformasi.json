@@ -1,1 +1,77 @@
-{"word":"transformasi","authenticated":true,"entries":[{"id":"87133","nama":"trans.for.ma.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perubahan rupa (bentuk, sifat, fungsi, dan sebagainya)","contoh":[{"nomor":2,"teks":"Asia Tenggara diliputi suasana transisi dan -- akibat kemenangan mereka"},{"nomor":4,"teks":"terjemahan puisi yang baik kerap kali menuntut -- secara besar-besaran"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"perubahan struktur gramatikal menjadi struktur gramatikal lain dengan menambah, mengurangi, atau menata kembali unsur-unsurnya","contoh":[]}],"terkait":{"kataTurunan":["bertransformasi","menransformasi","menransformasikan","mentransformasi","mentransformasikan","pentransformasi","pentransformasian"],"gabunganKata":["transformasi birokrasi","transformasi bisnis","transformasi digital","transformasi ekonomi","transformasi fourier kuantum","transformasi geometri","transformasi kelembagaan","transformasi linear","transformasi massa udara","transformasi perpustakaan","transformasi struktural"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "transformasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87133",
+      "nama": "trans.for.ma.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perubahan rupa (bentuk, sifat, fungsi, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Asia Tenggara diliputi suasana transisi dan -- akibat kemenangan mereka"
+            },
+            {
+              "nomor": 4,
+              "teks": "terjemahan puisi yang baik kerap kali menuntut -- secara besar-besaran"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "perubahan struktur gramatikal menjadi struktur gramatikal lain dengan menambah, mengurangi, atau menata kembali unsur-unsurnya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertransformasi",
+          "menransformasi",
+          "menransformasikan",
+          "mentransformasi",
+          "mentransformasikan",
+          "pentransformasi",
+          "pentransformasian"
+        ],
+        "gabunganKata": [
+          "transformasi birokrasi",
+          "transformasi bisnis",
+          "transformasi digital",
+          "transformasi ekonomi",
+          "transformasi fourier kuantum",
+          "transformasi geometri",
+          "transformasi kelembagaan",
+          "transformasi linear",
+          "transformasi massa udara",
+          "transformasi perpustakaan",
+          "transformasi struktural"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

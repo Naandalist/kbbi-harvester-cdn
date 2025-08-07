@@ -1,1 +1,48 @@
-{"word":"teragak","authenticated":true,"entries":[{"id":"832","nama":"ter.a.gak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"rindu; ingin benar (akan bertemu dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ benar ke kampungnya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkira; tersangka","contoh":[{"nomor":2,"teks":"tidak ~ perihnya"}]}],"rootWord":"agak¹"}]}
+{
+  "word": "teragak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "832",
+      "nama": "ter.a.gak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rindu; ingin benar (akan bertemu dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ benar ke kampungnya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkira; tersangka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ~ perihnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "agak¹"
+    }
+  ]
+}

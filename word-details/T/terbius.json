@@ -1,1 +1,60 @@
-{"word":"terbius","authenticated":true,"entries":[{"id":"11952","nama":"ter.bi.us","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkena bius sehingga tidak sadar (terlupa, tertidur)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kehilangan rasa (pada saraf perasa), baik secara keseluruhan maupun sebagian","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terlena oleh harta, janji muluk, dan sebagainya","contoh":[{"nomor":2,"teks":"gadis itu mau dinikahi penjahat itu karena ~ oleh janji muluknya"}]}],"rootWord":"bius¹"}]}
+{
+  "word": "terbius",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11952",
+      "nama": "ter.bi.us",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkena bius sehingga tidak sadar (terlupa, tertidur)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kehilangan rasa (pada saraf perasa), baik secara keseluruhan maupun sebagian",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlena oleh harta, janji muluk, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis itu mau dinikahi penjahat itu karena ~ oleh janji muluknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "bius¹"
+    }
+  ]
+}

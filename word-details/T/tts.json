@@ -1,1 +1,54 @@
-{"word":"tts","authenticated":true,"entries":[{"id":"96491","nama":"TTS","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"teka-teki silang","contoh":[]}]},{"id":"232994","nama":"TTS","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Timor Tengah Selatan, nama kabupaten di Nusa Tenggara Timur","contoh":[]}]}]}
+{
+  "word": "tts",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96491",
+      "nama": "TTS",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teka-teki silang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "232994",
+      "nama": "TTS",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Timor Tengah Selatan, nama kabupaten di Nusa Tenggara Timur",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

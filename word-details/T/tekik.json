@@ -1,1 +1,104 @@
-{"word":"tekik","authenticated":true,"entries":[{"id":"83783","nama":"te.kik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menekik","contoh":[]}],"terkait":{"kataTurunan":["menekik"],"gabunganKata":[],"peribahasa":["lunak disudu, keras tekik"],"idiom":[]}},{"id":"83787","nama":"te.kik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bengkarung; kadal","contoh":[{"nomor":2,"teks":"-- besar banyak terdapat di semak-semak"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["lunak disudu, keras tekik"],"idiom":[]}},{"id":"273952","nama":"te.kik","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"mencubit dengan kuku","contoh":[{"nomor":2,"teks":"pemain yang menang akan -- pemain yang kalah"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["lunak disudu, keras tekik"],"idiom":[]}}]}
+{
+  "word": "tekik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83783",
+      "nama": "te.kik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menekik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menekik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "lunak disudu, keras tekik"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83787",
+      "nama": "te.kik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bengkarung; kadal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- besar banyak terdapat di semak-semak"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "lunak disudu, keras tekik"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "273952",
+      "nama": "te.kik",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mencubit dengan kuku",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pemain yang menang akan -- pemain yang kalah"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "lunak disudu, keras tekik"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

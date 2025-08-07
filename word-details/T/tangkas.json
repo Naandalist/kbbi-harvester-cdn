@@ -1,1 +1,93 @@
-{"word":"tangkas","authenticated":true,"entries":[{"id":"82439","nama":"tang.kas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"cepat (tentang gerakan); cekatan","contoh":[{"nomor":2,"teks":"dengan -- ia berenang melawan arus"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sigap; gesit","contoh":[{"nomor":2,"teks":"pasukan yang -- sangat menentukan keberhasilan tugas di lapangan"}]}],"terkait":{"kataTurunan":["ketangkasan","menangkaskan","tertangkas"],"gabunganKata":[],"peribahasa":["ayam (yang) tangkas di gelanggang","ayam tangkas di gelanggang"],"idiom":[]}},{"id":"82442","nama":"tang.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"jaring yang sudah selesai dipakai menangkap ikan dan diletakkan di tempat semula","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ayam (yang) tangkas di gelanggang","ayam tangkas di gelanggang"],"idiom":[]}}]}
+{
+  "word": "tangkas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82439",
+      "nama": "tang.kas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cepat (tentang gerakan); cekatan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan -- ia berenang melawan arus"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sigap; gesit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pasukan yang -- sangat menentukan keberhasilan tugas di lapangan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketangkasan",
+          "menangkaskan",
+          "tertangkas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ayam (yang) tangkas di gelanggang",
+          "ayam tangkas di gelanggang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82442",
+      "nama": "tang.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "jaring yang sudah selesai dipakai menangkap ikan dan diletakkan di tempat semula",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ayam (yang) tangkas di gelanggang",
+          "ayam tangkas di gelanggang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"tetal","authenticated":true,"entries":[{"id":"85644","nama":"te.tal","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berongga; padat; pejal","contoh":[]}],"terkait":{"kataTurunan":["ketetalan","menetal","menetalkan","tertetal"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"125776","nama":"te.tal","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"BjPd","nama":"Bajau Pondong","tipe":"lainnya"}],"definisi":"memukul-mukul atau mencacah daging supaya menjadi lunak","contoh":[{"nomor":2,"teks":"ibu -- daging yang ia dapat dari panitia Iduladha"}]}]}]}
+{
+  "word": "tetal",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85644",
+      "nama": "te.tal",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berongga; padat; pejal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketetalan",
+          "menetal",
+          "menetalkan",
+          "tertetal"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "125776",
+      "nama": "te.tal",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "BjPd",
+              "nama": "Bajau Pondong",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memukul-mukul atau mencacah daging supaya menjadi lunak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- daging yang ia dapat dari panitia Iduladha"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

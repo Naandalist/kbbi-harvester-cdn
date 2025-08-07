@@ -1,1 +1,68 @@
-{"word":"terbilang","authenticated":true,"entries":[{"id":"11470","nama":"ter.bi.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dihitung","contoh":[{"nomor":2,"teks":"tamu yang datang tidak ~ banyaknya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"termasuk dalam hitungan (golongan, lingkungan, dan sebagainya)","contoh":[{"nomor":2,"teks":"Bapak ~ orang alim di kampung kami"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terpandang; terkemuka","contoh":[]}],"rootWord":"bilang¹","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["esa hilang, dua terbilang"],"idiom":[]}}]}
+{
+  "word": "terbilang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "11470",
+      "nama": "ter.bi.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dihitung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tamu yang datang tidak ~ banyaknya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "termasuk dalam hitungan (golongan, lingkungan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "Bapak ~ orang alim di kampung kami"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terpandang; terkemuka",
+          "contoh": []
+        }
+      ],
+      "rootWord": "bilang¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "esa hilang, dua terbilang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

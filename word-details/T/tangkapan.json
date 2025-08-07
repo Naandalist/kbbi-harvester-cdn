@@ -1,1 +1,77 @@
-{"word":"tangkapan","authenticated":true,"entries":[{"id":"82423","nama":"tang.kap.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang ditangkap; hasil menangkap; mangsa (yang ditangkap untuk dimakan)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang dalam keadaan tertangkap; tahanan (yang ditangkap oleh polisi dan sebagainya)","contoh":[]}],"rootWord":"tangkap","terkait":{"kataTurunan":[],"gabunganKata":["tangkapan kamera","tangkapan layar","tangkapan suara"],"peribahasa":[],"idiom":[]}},{"id":"229336","nama":"tang.ka.pan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Lmt","nama":"Lematang","tipe":"lainnya"}],"definisi":"meninggal mendadak","contoh":[{"nomor":2,"teks":"fenomena -- akibat wabah menjadi perhatian khusus"}]}]}]}
+{
+  "word": "tangkapan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82423",
+      "nama": "tang.kap.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang ditangkap; hasil menangkap; mangsa (yang ditangkap untuk dimakan)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang dalam keadaan tertangkap; tahanan (yang ditangkap oleh polisi dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "tangkap",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tangkapan kamera",
+          "tangkapan layar",
+          "tangkapan suara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "229336",
+      "nama": "tang.ka.pan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lmt",
+              "nama": "Lematang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meninggal mendadak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "fenomena -- akibat wabah menjadi perhatian khusus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,84 @@
-{"word":"tadi","authenticated":true,"entries":[{"id":"80830","nama":"ta.di","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"waktu yang belum lama berlalu; baru saja","contoh":[{"nomor":2,"teks":"-- ia duduk di sini"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"saat yang baru saja lalu","contoh":[{"nomor":2,"teks":"sejak -- ia sudah kuperingatkan"},{"nomor":4,"teks":"dari -- ia belum duduk"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"yang baru lalu","contoh":[{"nomor":2,"teks":"malam --"},{"nomor":4,"teks":"pagi --"},{"nomor":6,"teks":"siang --"}]}],"terkait":{"kataTurunan":["tadinya"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tadi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80830",
+      "nama": "ta.di",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu yang belum lama berlalu; baru saja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ia duduk di sini"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saat yang baru saja lalu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sejak -- ia sudah kuperingatkan"
+            },
+            {
+              "nomor": 4,
+              "teks": "dari -- ia belum duduk"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang baru lalu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "malam --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pagi --"
+            },
+            {
+              "nomor": 6,
+              "teks": "siang --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tadinya"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

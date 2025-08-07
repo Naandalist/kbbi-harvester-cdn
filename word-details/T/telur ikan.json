@@ -1,1 +1,35 @@
-{"word":"telur ikan","authenticated":true,"entries":[{"id":"2","nama":"te.lur i.kan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang dikerluarkan induk ikan yang dapat menjadi embrio lalu menetas menjadi larva kemudian menjadi seekor ikan utuh","contoh":[{"nomor":1,"teks":"Banyaknya telur ikan yang menetas menjadi anak ikan"},{"nomor":2,"teks":"Telur ikan cupang tidaklah perlu dijaga oleh induknya"}]}],"rootWord":"telurtelur"}]}
+{
+  "word": "telur ikan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "2",
+      "nama": "te.lur i.kan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang dikerluarkan induk ikan yang dapat menjadi embrio lalu menetas menjadi larva kemudian menjadi seekor ikan utuh",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Banyaknya telur ikan yang menetas menjadi anak ikan"
+            },
+            {
+              "nomor": 2,
+              "teks": "Telur ikan cupang tidaklah perlu dijaga oleh induknya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "telurtelur"
+    }
+  ]
+}

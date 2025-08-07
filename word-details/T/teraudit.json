@@ -1,1 +1,48 @@
-{"word":"teraudit","authenticated":true,"entries":[{"id":"101665","nama":"ter.au.dit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diaudit","contoh":[{"nomor":2,"teks":"akuntabilitas sering dipahami sebagai pelaporan keuangan yang ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"}],"definisi":"orang atau pihak yang diaudit","contoh":[]}],"rootWord":"audit"}]}
+{
+  "word": "teraudit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101665",
+      "nama": "ter.au.dit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diaudit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "akuntabilitas sering dipahami sebagai pelaporan keuangan yang ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "orang atau pihak yang diaudit",
+          "contoh": []
+        }
+      ],
+      "rootWord": "audit"
+    }
+  ]
+}

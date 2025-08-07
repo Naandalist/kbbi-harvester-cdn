@@ -1,1 +1,87 @@
-{"word":"tonase","authenticated":true,"entries":[{"id":"86838","nama":"to.na.se","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"kapasitas ruang muat dalam kapal, diukur dalam ton (1 ton = 1m³)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daya angkut muatan kapal dinyatakan dalam ton (1 ton = 1.000 kg)","contoh":[{"nomor":2,"teks":"-- kapal Kuala Deli 325 ton"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran besarnya kapal dinyatakan dalam ton (1 ton = 2,83 m³)","contoh":[{"nomor":2,"teks":"kapal tanker itu berukuran 200 ribu --"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bobot air laut dalam ukuran ton (35 kaki kubik) yang dipindahkan oleh bagian kapal yang berada di dalam air","contoh":[]}],"terkait":{"kataTurunan":["bertonase"],"gabunganKata":["tonase bersih","tonase kotor"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tonase",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86838",
+      "nama": "to.na.se",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kapasitas ruang muat dalam kapal, diukur dalam ton (1 ton = 1m³)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daya angkut muatan kapal dinyatakan dalam ton (1 ton = 1.000 kg)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kapal Kuala Deli 325 ton"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran besarnya kapal dinyatakan dalam ton (1 ton = 2,83 m³)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kapal tanker itu berukuran 200 ribu --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bobot air laut dalam ukuran ton (35 kaki kubik) yang dipindahkan oleh bagian kapal yang berada di dalam air",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertonase"
+        ],
+        "gabunganKata": [
+          "tonase bersih",
+          "tonase kotor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

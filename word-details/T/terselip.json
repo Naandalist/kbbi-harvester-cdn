@@ -1,1 +1,84 @@
-{"word":"terselip","authenticated":true,"entries":[{"id":"74027","nama":"ter.se.lip","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"termasuk di antara beberapa buah benda; tersisip","contoh":[{"nomor":2,"teks":"uang itu ~ dalam lipatan kain"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkandung (tercantum; tersembunyi) di dalam","contoh":[{"nomor":2,"teks":"dalam keterangannya itu ~ maksud lain"}]}],"rootWord":"selip¹","terkait":{"kataTurunan":[],"gabunganKata":["terselip ke luar"],"peribahasa":[],"idiom":[]}},{"id":"74029","nama":"ter.se.lip","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melecit ke luar (dari lubang, mulut, dan sebagainya)","contoh":[]}],"rootWord":"selip²","terkait":{"kataTurunan":[],"gabunganKata":["terselip ke luar"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "terselip",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74027",
+      "nama": "ter.se.lip",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "termasuk di antara beberapa buah benda; tersisip",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang itu ~ dalam lipatan kain"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkandung (tercantum; tersembunyi) di dalam",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam keterangannya itu ~ maksud lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selip¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "terselip ke luar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "74029",
+      "nama": "ter.se.lip",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melecit ke luar (dari lubang, mulut, dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "selip²",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "terselip ke luar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

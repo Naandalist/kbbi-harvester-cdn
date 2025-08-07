@@ -1,1 +1,154 @@
-{"word":"tele","authenticated":true,"entries":[{"id":"83990","nama":"te.le-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"jauh; jarak jauh","contoh":[{"nomor":2,"teks":"telewicara"}]}],"terkait":{"kataTurunan":["bertele-tele"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83985","nama":"te.le","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertele-tele","contoh":[]}],"terkait":{"kataTurunan":["bertele-tele"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83987","nama":"te.le","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bertele-tele","contoh":[]}],"terkait":{"kataTurunan":["bertele-tele"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83989","nama":"te.le","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kelambu","contoh":[]}]},{"id":"161155","nama":"te.le","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"pisang yang memiliki biji, kulitnya berwarna hijau; pisang batu〔Musa balbisiana〕","contoh":[]}]},{"id":"259592","nama":"te.le","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"panggilan kepada anak perempuan yang baru lahir dan belum bernama","contoh":[]}]}]}
+{
+  "word": "tele",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83990",
+      "nama": "te.le-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jauh; jarak jauh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "telewicara"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertele-tele"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83985",
+      "nama": "te.le",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertele-tele",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertele-tele"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83987",
+      "nama": "te.le",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertele-tele",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertele-tele"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83989",
+      "nama": "te.le",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kelambu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "161155",
+      "nama": "te.le",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pisang yang memiliki biji, kulitnya berwarna hijau; pisang batu〔Musa balbisiana〕",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "259592",
+      "nama": "te.le",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "panggilan kepada anak perempuan yang baru lahir dan belum bernama",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

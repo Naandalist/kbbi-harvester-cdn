@@ -1,1 +1,61 @@
-{"word":"tertarik","authenticated":true,"entries":[{"id":"82874","nama":"ter.ta.rik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena tarik; ditarik (dihela dan sebagainya) bersama dengan yang lain","contoh":[{"nomor":2,"teks":"tangannya yang patah itu ~ juga"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"merasa senang (suka, ingin, dan sebagainya) kepada; terpikat (hatinya oleh ...); menaruh minat (perhatian) kepada","contoh":[{"nomor":2,"teks":"orang itu ~ pada kesenian Jawa"}]}],"rootWord":"tarik","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["manusia tertarik oleh tanah airnya, anjing tertarik oleh piringnya"],"idiom":[]}}]}
+{
+  "word": "tertarik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82874",
+      "nama": "ter.ta.rik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena tarik; ditarik (dihela dan sebagainya) bersama dengan yang lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tangannya yang patah itu ~ juga"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "merasa senang (suka, ingin, dan sebagainya) kepada; terpikat (hatinya oleh ...); menaruh minat (perhatian) kepada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang itu ~ pada kesenian Jawa"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tarik",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "manusia tertarik oleh tanah airnya, anjing tertarik oleh piringnya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

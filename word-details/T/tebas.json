@@ -1,1 +1,94 @@
-{"word":"tebas","authenticated":true,"entries":[{"id":"83420","nama":"te.bas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menebas","contoh":[]}],"terkait":{"kataTurunan":["menebas","menebasi","menebaskan","penebasan","tebasan","penebas"],"gabunganKata":["tebas bayang"],"peribahasa":[],"idiom":[]}},{"id":"83429","nama":"te.bas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"borong (hasil tanam dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["menebas","menebaskan","penebas","tebasan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"132477","nama":"te.bas","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"uang pengganti penyediaan sajen dalam ruwatan","contoh":[]}]}]}
+{
+  "word": "tebas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83420",
+      "nama": "te.bas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menebas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menebas",
+          "menebasi",
+          "menebaskan",
+          "penebasan",
+          "tebasan",
+          "penebas"
+        ],
+        "gabunganKata": [
+          "tebas bayang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83429",
+      "nama": "te.bas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "borong (hasil tanam dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menebas",
+          "menebaskan",
+          "penebas",
+          "tebasan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "132477",
+      "nama": "te.bas",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "uang pengganti penyediaan sajen dalam ruwatan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

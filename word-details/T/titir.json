@@ -1,1 +1,127 @@
-{"word":"titir","authenticated":true,"entries":[{"id":"86563","nama":"ti.tir","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunyi lesung (beduk, canang, kentungan, dan sebagainya) yang dipukul dengan gencar sebagai tanda bahaya dan sebagainya","contoh":[]}],"etimologi":{"text":"[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["menitir","titiran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"86565","nama":"ti.tir","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"titiran","contoh":[]}],"etimologi":{"text":"[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["titiran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"86567","nama":"ti.tir","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ ketitir","contoh":[]}],"etimologi":{"text":"[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']","languages":["Jawa Kuno"]}},{"id":"266914","nama":"ti.tir","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"DyNg","nama":"Dayak Ngaju","tipe":"lainnya"}],"definisi":"melakukan suatu pekerjaan secara terus-menerus (seperti bergadang selama beberapa malam)","contoh":[{"nomor":2,"teks":"kami -- selama dua hari ini ikut menunggu jenazah"}]}],"etimologi":{"text":"[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "titir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86563",
+      "nama": "ti.tir",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunyi lesung (beduk, canang, kentungan, dan sebagainya) yang dipukul dengan gencar sebagai tanda bahaya dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "menitir",
+          "titiran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86565",
+      "nama": "ti.tir",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "titiran",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "titiran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86567",
+      "nama": "ti.tir",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ ketitir",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "266914",
+      "nama": "ti.tir",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "DyNg",
+              "nama": "Dayak Ngaju",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melakukan suatu pekerjaan secara terus-menerus (seperti bergadang selama beberapa malam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami -- selama dua hari ini ikut menunggu jenazah"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno titir 'tanda bahaya dengan pukulan kentongan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

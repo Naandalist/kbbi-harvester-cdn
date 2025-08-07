@@ -1,1 +1,60 @@
-{"word":"terduga","authenticated":true,"entries":[{"id":"20712","nama":"ter.du.ga","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diduga (sebelumnya); terkira","contoh":[{"nomor":2,"teks":"memang sudah ~ bahwa mereka akan menyerah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersangka; terkira","contoh":[{"nomor":2,"teks":"tidak ~ anak itu akan meninggal, kemarin dia masih sehat-sehat"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"orang yang diduga melakukan kejahatan","contoh":[]}],"rootWord":"duga"}]}
+{
+  "word": "terduga",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "20712",
+      "nama": "ter.du.ga",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diduga (sebelumnya); terkira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "memang sudah ~ bahwa mereka akan menyerah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersangka; terkira",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ~ anak itu akan meninggal, kemarin dia masih sehat-sehat"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang diduga melakukan kejahatan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "duga"
+    }
+  ]
+}

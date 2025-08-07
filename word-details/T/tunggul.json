@@ -1,1 +1,201 @@
-{"word":"tunggul","authenticated":true,"entries":[{"id":"88246","nama":"tung.gul","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pangkal pohon yang masih tinggal tertanam di dalam tanah sehabis ditebang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pokok batang yang masih tertinggal sehabis dituai, disabit, dan sebagainya","contoh":[{"nomor":2,"teks":"-- padi"},{"nomor":4,"teks":"-- jagung"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tonggak (untuk menambatkan perahu dan sebagainya)","contoh":[]}],"terkait":{"kataTurunan":["tetunggul","tunggul-tunggul","menunggul"],"gabunganKata":["tunggul buta","tunggul pungur","tunggul angin","tunggul pelangi"],"peribahasa":["(seperti) abu di atas tunggul"],"idiom":[]}},{"id":"88248","nama":"tung.gul","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bendera; panji-panji","contoh":[{"nomor":2,"teks":"dua orang pembawa -- berjalan kaki di belakang pasukan"}]}],"terkait":{"kataTurunan":["tetunggul","tunggul-tunggul","menunggul"],"gabunganKata":["tunggul angin","tunggul pelangi"],"peribahasa":["(seperti) abu di atas tunggul"],"idiom":[]}},{"id":"88253","nama":"tung.gul","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial menunggul","contoh":[]}],"terkait":{"kataTurunan":["menunggul"],"gabunganKata":[],"peribahasa":["(seperti) abu di atas tunggul"],"idiom":[]}},{"id":"227974","nama":"tung.gul","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"intan yang berada di posisi tengah pada giwang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["(seperti) abu di atas tunggul"],"idiom":[]}},{"id":"227976","nama":"tung.gul","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"cekungan pada gamelan, berfungsi menyeimbangkan bunyi ketika bagian pencu dipukul","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["(seperti) abu di atas tunggul"],"idiom":[]}}]}
+{
+  "word": "tunggul",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88246",
+      "nama": "tung.gul",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pangkal pohon yang masih tinggal tertanam di dalam tanah sehabis ditebang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pokok batang yang masih tertinggal sehabis dituai, disabit, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- padi"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- jagung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tonggak (untuk menambatkan perahu dan sebagainya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tetunggul",
+          "tunggul-tunggul",
+          "menunggul"
+        ],
+        "gabunganKata": [
+          "tunggul buta",
+          "tunggul pungur",
+          "tunggul angin",
+          "tunggul pelangi"
+        ],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "88248",
+      "nama": "tung.gul",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bendera; panji-panji",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua orang pembawa -- berjalan kaki di belakang pasukan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tetunggul",
+          "tunggul-tunggul",
+          "menunggul"
+        ],
+        "gabunganKata": [
+          "tunggul angin",
+          "tunggul pelangi"
+        ],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "88253",
+      "nama": "tung.gul",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial menunggul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menunggul"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227974",
+      "nama": "tung.gul",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "intan yang berada di posisi tengah pada giwang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "227976",
+      "nama": "tung.gul",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "cekungan pada gamelan, berfungsi menyeimbangkan bunyi ketika bagian pencu dipukul",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "(seperti) abu di atas tunggul"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

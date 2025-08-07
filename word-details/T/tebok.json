@@ -1,1 +1,52 @@
-{"word":"tebok","authenticated":true,"entries":[{"id":"83456","nama":"te.bok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menebok","contoh":[]}],"terkait":{"kataTurunan":["menebok"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83458","nama":"te.bok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menampi beras; tampah (nyiru) kecil","contoh":[]}]}]}
+{
+  "word": "tebok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83456",
+      "nama": "te.bok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menebok",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menebok"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83458",
+      "nama": "te.bok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menampi beras; tampah (nyiru) kecil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

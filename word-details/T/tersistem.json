@@ -1,1 +1,48 @@
-{"word":"tersistem","authenticated":true,"entries":[{"id":"200812","nama":"ter.sis.tem","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah ada sistemnya","contoh":[{"nomor":2,"teks":"cara kerja aplikasi tersebut ~ dengan baik"}]},{"nomor":"2","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"sesuai dengan sistem","contoh":[{"nomor":2,"teks":"dia menginstruksikan agar seluruh kegiatan dilaksanakan secara ~ dan transparan"}]}],"rootWord":"sistem"}]}
+{
+  "word": "tersistem",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200812",
+      "nama": "ter.sis.tem",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah ada sistemnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cara kerja aplikasi tersebut ~ dengan baik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuai dengan sistem",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia menginstruksikan agar seluruh kegiatan dilaksanakan secara ~ dan transparan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sistem"
+    }
+  ]
+}

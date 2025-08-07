@@ -1,1 +1,142 @@
-{"word":"titi","authenticated":true,"entries":[{"id":"86483","nama":"ti.ti","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"meniti","contoh":[]}],"terkait":{"kataTurunan":["meniti","titian"],"gabunganKata":["titi tali tinggi"],"peribahasa":[],"idiom":[]}},{"id":"86490","nama":"ti.ti","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"cermat; teliti","contoh":[]}]},{"id":"178373","nama":"ti.ti","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"papan untuk mencuci baju di sungai","contoh":[]}]},{"id":"278352","nama":"ti.ti","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Me","nama":"Moronene","tipe":"lainnya"}],"definisi":"menapis untuk memisahkan bulir yang kecil dengan yang besar","contoh":[{"nomor":2,"teks":"nenek masih suka -- beras yang akan dimasak"}]}]},{"id":"136970","nama":"ti.ti","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"MKp","nama":"Melayu Kupang","tipe":"lainnya"}],"definisi":"memipihkan; memukul sampai penyek (tentang jagung, dan lain-lain)","contoh":[{"nomor":2,"teks":"-- jagung itu supaya kita makan"}]}]}]}
+{
+  "word": "titi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86483",
+      "nama": "ti.ti",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "meniti",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meniti",
+          "titian"
+        ],
+        "gabunganKata": [
+          "titi tali tinggi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86490",
+      "nama": "ti.ti",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "cermat; teliti",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "178373",
+      "nama": "ti.ti",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "papan untuk mencuci baju di sungai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "278352",
+      "nama": "ti.ti",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Me",
+              "nama": "Moronene",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menapis untuk memisahkan bulir yang kecil dengan yang besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nenek masih suka -- beras yang akan dimasak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "136970",
+      "nama": "ti.ti",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MKp",
+              "nama": "Melayu Kupang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memipihkan; memukul sampai penyek (tentang jagung, dan lain-lain)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- jagung itu supaya kita makan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"word":"tercocok","authenticated":true,"entries":[{"id":"16377","nama":"ter.co.cok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertusuk","contoh":[{"nomor":2,"teks":"kain itu terlalu tebal, tidak ~ oleh jarum sehalus itu"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terkeluani (tentang kerbau atau lembu)","contoh":[]}],"rootWord":"cocok¹","terkait":{"kataTurunan":[],"gabunganKata":["tercocok hidung","tercocok mata"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tercocok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16377",
+      "nama": "ter.co.cok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertusuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kain itu terlalu tebal, tidak ~ oleh jarum sehalus itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkeluani (tentang kerbau atau lembu)",
+          "contoh": []
+        }
+      ],
+      "rootWord": "cocok¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tercocok hidung",
+          "tercocok mata"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

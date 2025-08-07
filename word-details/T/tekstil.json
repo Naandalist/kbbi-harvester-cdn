@@ -1,1 +1,44 @@
-{"word":"tekstil","authenticated":true,"entries":[{"id":"83845","nama":"teks.til","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barang tenun (seperti cita, kain putih); bahan pakaian: pabrik tenun","contoh":[{"nomor":2,"teks":"pabrik --"},{"nomor":4,"teks":"dari -- yang halus dapat dibuat pakaian yang halus pula"}]}],"terkait":{"kataTurunan":["pertekstilan"],"gabunganKata":["tekstil cerdas"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tekstil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83845",
+      "nama": "teks.til",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barang tenun (seperti cita, kain putih); bahan pakaian: pabrik tenun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pabrik --"
+            },
+            {
+              "nomor": 4,
+              "teks": "dari -- yang halus dapat dibuat pakaian yang halus pula"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pertekstilan"
+        ],
+        "gabunganKata": [
+          "tekstil cerdas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

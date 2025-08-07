@@ -1,1 +1,68 @@
-{"word":"tersembur","authenticated":true,"entries":[{"id":"74487","nama":"ter.sem.bur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena sembur","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disemburkan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"kena sembur; kena marah; digusari; dikata-katai","contoh":[{"nomor":2,"teks":"pada waktu yang bersamaan ia juga ~"}]}],"rootWord":"sembur¹","terkait":{"kataTurunan":[],"gabunganKata":["tersembur gelak"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tersembur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74487",
+      "nama": "ter.sem.bur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena sembur",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disemburkan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena sembur; kena marah; digusari; dikata-katai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada waktu yang bersamaan ia juga ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sembur¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tersembur gelak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

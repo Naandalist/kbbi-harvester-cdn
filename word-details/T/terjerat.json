@@ -1,1 +1,48 @@
-{"word":"terjerat","authenticated":true,"entries":[{"id":"34386","nama":"ter.je.rat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terperangkap","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"teperdaya; tertipu","contoh":[{"nomor":2,"teks":"mereka ~ oleh bujuk rayunya yang manis"}]}],"rootWord":"jerat"}]}
+{
+  "word": "terjerat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "34386",
+      "nama": "ter.je.rat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terperangkap",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teperdaya; tertipu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka ~ oleh bujuk rayunya yang manis"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jerat"
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"word":"turiang","authenticated":true,"entries":[{"id":"88438","nama":"tu.ri.ang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"anak tanaman padi yang tumbuh secara liar (biasanya setelah dipanen)","contoh":[{"nomor":2,"teks":"kalau tanaman padi yang terkena wereng dibiarkan, akan tumbuh -- dan menjadi sumber penularan"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"sistem penanaman yang tanaman generasi keduanya berasal (tumbuh) dari perakaran tanaman generasi sebelumnya","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"sisa-sisa padi atau buah setelah dipetik secara besar-besaran","contoh":[]}],"terkait":{"kataTurunan":["menuriang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"254873","nama":"tu.ri.ang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"sisa buah atau padi yang belum bisa dipanen","contoh":[]}]}]}
+{
+  "word": "turiang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88438",
+      "nama": "tu.ri.ang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "anak tanaman padi yang tumbuh secara liar (biasanya setelah dipanen)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau tanaman padi yang terkena wereng dibiarkan, akan tumbuh -- dan menjadi sumber penularan"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sistem penanaman yang tanaman generasi keduanya berasal (tumbuh) dari perakaran tanaman generasi sebelumnya",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sisa-sisa padi atau buah setelah dipetik secara besar-besaran",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menuriang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "254873",
+      "nama": "tu.ri.ang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "sisa buah atau padi yang belum bisa dipanen",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

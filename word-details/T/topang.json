@@ -1,1 +1,74 @@
-{"word":"topang","authenticated":true,"entries":[{"id":"86951","nama":"to.pang","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyokong atau penunjang (kayu dan sebagainya) yang bercagak","contoh":[{"nomor":2,"teks":"karena buahnya sarat, pokok pisang itu terpaksa ditunjang dengan --"}]}],"terkait":{"kataTurunan":["bertopang","bertopangkan","menopang","penopang","penopangan","tertopang","topangan"],"gabunganKata":["bertopang dagu"],"peribahasa":[],"idiom":[]}},{"id":"86957","nama":"to.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertopang","contoh":[]}],"terkait":{"kataTurunan":["bertopang","menopang"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "topang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86951",
+      "nama": "to.pang",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyokong atau penunjang (kayu dan sebagainya) yang bercagak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena buahnya sarat, pokok pisang itu terpaksa ditunjang dengan --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertopang",
+          "bertopangkan",
+          "menopang",
+          "penopang",
+          "penopangan",
+          "tertopang",
+          "topangan"
+        ],
+        "gabunganKata": [
+          "bertopang dagu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86957",
+      "nama": "to.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertopang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertopang",
+          "menopang"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

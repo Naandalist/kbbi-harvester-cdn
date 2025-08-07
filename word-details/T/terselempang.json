@@ -1,1 +1,51 @@
-{"word":"terselempang","authenticated":true,"entries":[{"id":"73872","nama":"ter.se.lem.pang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(jatuh) terkangkang; terjelepok","contoh":[]}],"rootWord":"selempang²"},{"id":"206324","nama":"ter.se.lem.pang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diselempangkan","contoh":[{"nomor":2,"teks":"di bahunya ~ selendang berwarna merah muda"}]}],"rootWord":"selempang"}]}
+{
+  "word": "terselempang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73872",
+      "nama": "ter.se.lem.pang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(jatuh) terkangkang; terjelepok",
+          "contoh": []
+        }
+      ],
+      "rootWord": "selempang²"
+    },
+    {
+      "id": "206324",
+      "nama": "ter.se.lem.pang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diselempangkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di bahunya ~ selendang berwarna merah muda"
+            }
+          ]
+        }
+      ],
+      "rootWord": "selempang"
+    }
+  ]
+}

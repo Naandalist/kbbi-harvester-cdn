@@ -1,1 +1,47 @@
-{"word":"takak","authenticated":true,"entries":[{"id":"81193","nama":"ta.kak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertakak","contoh":[]}],"terkait":{"kataTurunan":["bertakak","menakak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"81196","nama":"ta.kak","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ takik","contoh":[]}]}]}
+{
+  "word": "takak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81193",
+      "nama": "ta.kak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertakak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertakak",
+          "menakak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81196",
+      "nama": "ta.kak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ takik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

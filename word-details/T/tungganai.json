@@ -1,1 +1,85 @@
-{"word":"tungganai","authenticated":true,"entries":[{"id":"88197","nama":"tung.ga.nai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kepala suku yang dituakan dari suatu keluarga yang sepersukuan","contoh":[{"nomor":2,"teks":"mamak seperintah --"},{"nomor":4,"teks":"-- seperintah penghulu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"pawang","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"saudara laki-laki dari suami atau istri","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["tungganai bapak ayam","tungganai kalbu","tungganai musang jantan","tungganai rumah","tungganai tupai janjang"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tungganai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88197",
+      "nama": "tung.ga.nai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kepala suku yang dituakan dari suatu keluarga yang sepersukuan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mamak seperintah --"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- seperintah penghulu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pawang",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "saudara laki-laki dari suami atau istri",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tungganai bapak ayam",
+          "tungganai kalbu",
+          "tungganai musang jantan",
+          "tungganai rumah",
+          "tungganai tupai janjang"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

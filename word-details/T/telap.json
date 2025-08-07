@@ -1,1 +1,109 @@
-{"word":"telap","authenticated":true,"entries":[{"id":"83964","nama":"te.lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"makan (mempan tentang senjata tajam)","contoh":[{"nomor":2,"teks":"keris itu tiada -- pada tubuhnya"},{"nomor":4,"teks":"orang Aceh dikatakan tidak -- oleh senjata"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(dapat) kena luka; (dapat) dilukai: [1] tidak dapat luka (oleh senjata) [2] kebal tidak dapat kena luka oleh tembakan","contoh":[{"nomor":2,"teks":"tiada --"},{"nomor":4,"teks":"ia tidak -- ditembak"},{"nomor":6,"teks":"kulitnya tiada cacat, tiada -- kena peluru"}]}],"terkait":{"kataTurunan":["ketelapan","menelap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83967","nama":"te.lap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bekas (tempat sesuatu)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"bekas dari tembikar, kaca, dan sebagainya (tempat bau-bauan, gambir, tembakau, dan sebagainya)","contoh":[]}]}]}
+{
+  "word": "telap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83964",
+      "nama": "te.lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "makan (mempan tentang senjata tajam)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "keris itu tiada -- pada tubuhnya"
+            },
+            {
+              "nomor": 4,
+              "teks": "orang Aceh dikatakan tidak -- oleh senjata"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(dapat) kena luka; (dapat) dilukai: [1] tidak dapat luka (oleh senjata) [2] kebal tidak dapat kena luka oleh tembakan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tiada --"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia tidak -- ditembak"
+            },
+            {
+              "nomor": 6,
+              "teks": "kulitnya tiada cacat, tiada -- kena peluru"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketelapan",
+          "menelap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83967",
+      "nama": "te.lap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bekas (tempat sesuatu)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bekas dari tembikar, kaca, dan sebagainya (tempat bau-bauan, gambir, tembakau, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

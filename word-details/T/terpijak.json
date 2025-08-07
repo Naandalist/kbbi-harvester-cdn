@@ -1,1 +1,59 @@
-{"word":"terpijak","authenticated":true,"entries":[{"id":"63427","nama":"ter.pi.jak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dipijak","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah dipijak","contoh":[{"nomor":2,"teks":"belalang itu ~ oleh kuda"},{"nomor":4,"teks":"kakinya sakit ~ oleh temannya"}]}],"rootWord":"pijak","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["semut dipijak tidak mati, gajah diarung bergelimpangan (semut terpijak tidak mati, alu tertarung patah tiga)","terpijak bara hangat","terpijak bayang-bayang","terpijak benang, arang hitam tampak","terpijak di tanah kapur, putih tapak, terpijak di tanah arang, hitam tapak"],"idiom":[]}}]}
+{
+  "word": "terpijak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63427",
+      "nama": "ter.pi.jak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dipijak",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah dipijak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "belalang itu ~ oleh kuda"
+            },
+            {
+              "nomor": 4,
+              "teks": "kakinya sakit ~ oleh temannya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "pijak",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "semut dipijak tidak mati, gajah diarung bergelimpangan (semut terpijak tidak mati, alu tertarung patah tiga)",
+          "terpijak bara hangat",
+          "terpijak bayang-bayang",
+          "terpijak benang, arang hitam tampak",
+          "terpijak di tanah kapur, putih tapak, terpijak di tanah arang, hitam tapak"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

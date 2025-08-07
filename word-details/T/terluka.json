@@ -1,1 +1,53 @@
-{"word":"terluka","authenticated":true,"entries":[{"id":"50430","nama":"ter.lu.ka","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menderita luka; telah dilukai; tidak sengaja dilukai","contoh":[{"nomor":2,"teks":"kakinya ~ kena pecahan kaca"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berasa sakit karena diejek, diremehkan, dan sebagainya (tentang hati atau perasaan)","contoh":[{"nomor":2,"teks":"hatinya ~ karena diremehkan temannya sendiri"}]}],"rootWord":"luka"}]}
+{
+  "word": "terluka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50430",
+      "nama": "ter.lu.ka",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menderita luka; telah dilukai; tidak sengaja dilukai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kakinya ~ kena pecahan kaca"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasa sakit karena diejek, diremehkan, dan sebagainya (tentang hati atau perasaan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hatinya ~ karena diremehkan temannya sendiri"
+            }
+          ]
+        }
+      ],
+      "rootWord": "luka"
+    }
+  ]
+}

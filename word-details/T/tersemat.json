@@ -1,1 +1,70 @@
-{"word":"tersemat","authenticated":true,"entries":[{"id":"74340","nama":"ter.se.mat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disemat(kan); sudah dicocokkan (pada); telah tercantum","contoh":[{"nomor":2,"teks":"di leher bajunya ~ tanda pangkat yang baru"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terlekat; terpateri dalam (hati, ingatan)","contoh":[{"nomor":2,"teks":"tidak ada seorang pun yang mengetahui apa yang ~ dalam hatinya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sudah ditambatkan; terlampir","contoh":[]}],"rootWord":"semat"}]}
+{
+  "word": "tersemat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "74340",
+      "nama": "ter.se.mat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disemat(kan); sudah dicocokkan (pada); telah tercantum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di leher bajunya ~ tanda pangkat yang baru"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlekat; terpateri dalam (hati, ingatan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak ada seorang pun yang mengetahui apa yang ~ dalam hatinya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah ditambatkan; terlampir",
+          "contoh": []
+        }
+      ],
+      "rootWord": "semat"
+    }
+  ]
+}

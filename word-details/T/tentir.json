@@ -1,1 +1,47 @@
-{"word":"tentir","authenticated":true,"entries":[{"id":"84961","nama":"ten.tir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"belajar bersama untuk persiapan ujian","contoh":[{"nomor":2,"teks":"untuk mempersiapkan ujian, beberapa mahasiswa mengadakan -- seminggu sekali"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"materi yang disusun untuk belajar bersama","contoh":[{"nomor":2,"teks":"sebelum ujian tengah semester, para mahasiswa membuat --"}]}]}]}
+{
+  "word": "tentir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84961",
+      "nama": "ten.tir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "belajar bersama untuk persiapan ujian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk mempersiapkan ujian, beberapa mahasiswa mengadakan -- seminggu sekali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "materi yang disusun untuk belajar bersama",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sebelum ujian tengah semester, para mahasiswa membuat --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,99 @@
-{"word":"tap","authenticated":true,"entries":[{"id":"82592","nama":"tap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tuang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sadap","contoh":[]}],"terkait":{"kataTurunan":["mengetap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"82594","nama":"tap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sumbat untuk menutup lubang dalam tong","contoh":[]}],"terkait":{"kataTurunan":["mengetap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"101113","nama":"tap","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat yang berfungsi untuk membuat ulir dalam (ulir untuk mur)","contoh":[]}],"terkait":{"kataTurunan":["mengetap"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82592",
+      "nama": "tap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tuang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sadap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengetap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82594",
+      "nama": "tap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sumbat untuk menutup lubang dalam tong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengetap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "101113",
+      "nama": "tap",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat yang berfungsi untuk membuat ulir dalam (ulir untuk mur)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengetap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

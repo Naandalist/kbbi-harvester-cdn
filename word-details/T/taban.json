@@ -1,1 +1,59 @@
-{"word":"taban","authenticated":true,"entries":[{"id":"80636","nama":"ta.ban","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon yang menghasilkan getah perca〔Palaquium〕","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["taban merah","taban putih","taban sutra"],"peribahasa":[],"idiom":[]}},{"id":"135374","nama":"ta.ban","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"menyusun daun sirih dalam ikatan untuk dijual","contoh":[]}]}]}
+{
+  "word": "taban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "80636",
+      "nama": "ta.ban",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon yang menghasilkan getah perca〔Palaquium〕",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "taban merah",
+          "taban putih",
+          "taban sutra"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "135374",
+      "nama": "ta.ban",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyusun daun sirih dalam ikatan untuk dijual",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

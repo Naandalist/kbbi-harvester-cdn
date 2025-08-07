@@ -1,1 +1,85 @@
-{"word":"tepuk","authenticated":true,"entries":[{"id":"85100","nama":"te.puk","nomor":"32","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunyi yang dihasilkan oleh kedua tangan yang ditamparkan","contoh":[{"nomor":2,"teks":"-- dan tawa terdengar dari permainan itu"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tamparan tidak keras dari belakang dan dari samping","contoh":[]}],"terkait":{"kataTurunan":["bertepuk","menepuk","menepuk-nepuk","menepuk-nepukkan","menepukkan","penepuk","penepukan","tepukan"],"gabunganKata":["tepuk bulu","tepuk dada","tepuk jidat","tepuk kuduk","tepuk nyamuk","tepuk runcang","tepuk setan","tepuk sorak","tepuk tangan","tepuk tangan berdiri","tepuk tari"],"peribahasa":["alang berjawab, tepuk berbalas","tepuk berbalas, alang berjawat","tepuk perut, tanya selera"],"idiom":[]}}]}
+{
+  "word": "tepuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85100",
+      "nama": "te.puk",
+      "nomor": "32",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- dan tawa terdengar dari permainan itu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tamparan tidak keras dari belakang dan dari samping",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertepuk",
+          "menepuk",
+          "menepuk-nepuk",
+          "menepuk-nepukkan",
+          "menepukkan",
+          "penepuk",
+          "penepukan",
+          "tepukan"
+        ],
+        "gabunganKata": [
+          "tepuk bulu",
+          "tepuk dada",
+          "tepuk jidat",
+          "tepuk kuduk",
+          "tepuk nyamuk",
+          "tepuk runcang",
+          "tepuk setan",
+          "tepuk sorak",
+          "tepuk tangan",
+          "tepuk tangan berdiri",
+          "tepuk tari"
+        ],
+        "peribahasa": [
+          "alang berjawab, tepuk berbalas",
+          "tepuk berbalas, alang berjawat",
+          "tepuk perut, tanya selera"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

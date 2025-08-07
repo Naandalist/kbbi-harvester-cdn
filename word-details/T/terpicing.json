@@ -1,1 +1,43 @@
-{"word":"terpicing","authenticated":true,"entries":[{"id":"63340","nama":"ter.pi.cing","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terpejam (matanya)","contoh":[{"nomor":2,"teks":"karena lelahnya, mataku ~"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tertidur","contoh":[]}],"rootWord":"picing"}]}
+{
+  "word": "terpicing",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63340",
+      "nama": "ter.pi.cing",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terpejam (matanya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena lelahnya, mataku ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tertidur",
+          "contoh": []
+        }
+      ],
+      "rootWord": "picing"
+    }
+  ]
+}

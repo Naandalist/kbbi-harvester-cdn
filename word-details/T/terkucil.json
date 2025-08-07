@@ -1,1 +1,60 @@
-{"word":"terkucil","authenticated":true,"entries":[{"id":"44476","nama":"ter.ku.cil","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"keluar (dari lubang dan sebagainya); tergelincir (tidak pada tempatnya); terlepas (dari hubungan rel dan sebagainya)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"telah dibuang (dari golongan dan sebagainya)","contoh":[{"nomor":2,"teks":"ia ~ karena tidak disukai di mana-mana"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terpisah dari","contoh":[{"nomor":2,"teks":"dia ~ dalam keluarganya"}]}],"rootWord":"kucil"}]}
+{
+  "word": "terkucil",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "44476",
+      "nama": "ter.ku.cil",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keluar (dari lubang dan sebagainya); tergelincir (tidak pada tempatnya); terlepas (dari hubungan rel dan sebagainya)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telah dibuang (dari golongan dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ karena tidak disukai di mana-mana"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terpisah dari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ~ dalam keluarganya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kucil"
+    }
+  ]
+}

@@ -1,1 +1,30 @@
-{"word":"telkom","authenticated":true,"entries":[{"id":"96453","nama":"tel.kom","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"telekomunikasi","contoh":[]}]}]}
+{
+  "word": "telkom",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "96453",
+      "nama": "tel.kom",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telekomunikasi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

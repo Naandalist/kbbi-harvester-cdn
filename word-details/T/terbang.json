@@ -1,1 +1,293 @@
-{"word":"terbang","authenticated":true,"entries":[{"id":"85289","nama":"ter.bang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bergerak atau melayang di udara dengan tenaga sayap (tentang burung dan sebagainya) atau dengan tenaga mesin (tentang pesawat terbang dan sebagainya)","contoh":[{"nomor":2,"teks":"burung itu sanggup -- jauh sampai ke pantai"},{"nomor":4,"teks":"dengan lincahnya pesawat kecil itu -- berakrobat di udara"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhamburan atau melayang-layang di udara (tentang debu, daun-daunan, dan sebagainya)","contoh":[{"nomor":2,"teks":"seng dan atap rumah -- ditiup angin puyuh"},{"nomor":4,"teks":"pekerja itu mengenakan topeng muka untuk menghindarkan mata dari pasir yang --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"mudah menjadi uap (gas); mudah menguap","contoh":[{"nomor":2,"teks":"minyak --"},{"nomor":4,"teks":"zat --"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"hilang lenyap (dicuri orang)","contoh":[{"nomor":2,"teks":"sepuluh peti berisi suku cadang mobil -- dari gudang pelabuhan"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"berlari cepat","contoh":[]},{"nomor":"6","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"melarikan diri; kabur","contoh":[{"nomor":2,"teks":"mobil yang menabrak anak itu -- dan menghilang"}]},{"nomor":"7","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"naik pesawat terbang; bepergian dengan pesawat terbang","contoh":[{"nomor":2,"teks":"pagi ini rombongan perutusan -- ke Bali"}]}],"terkait":{"kataTurunan":["berterbangan","beterbangan","menerbangi","menerbangkan","penerbang","penerbangan","terbang-terbang"],"gabunganKata":["penerbangan antarmaskapai","terbang arwah","terbang darahnya","terbang layang","terbang lintas","terbang menerkam","terbang pengantin","terbang pikiran","terbang semangat","terbang solo","terbang madihin"],"peribahasa":["ayam hitam terbang malam","ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun","ayam putih terbang siang","burung terbang dipipiskan lada","digenggam takut mati, dilepaskan takut terbang","harapkan burung terbang tinggi punai di tangan dilepaskan","hendak terbang, tiada bersayap","kelekatu hendak terbang ke langit","kepak singkat, terbang hendak tinggi","mara hinggap mara terbang, enggang lalu ranting patah","sayap singkat, terbang hendak jauh","setinggi-tinggi bangau terbang, surutnya ke kubangan","terbang bertumpu hinggap mencekam","yang hampa biar terbang, yang bernas biar tinggal"],"idiom":["terbang tinggi"]}},{"id":"85305","nama":"ter.bang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rebana","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["terbang madihin"],"peribahasa":["ayam hitam terbang malam","ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun","ayam putih terbang siang","burung terbang dipipiskan lada","digenggam takut mati, dilepaskan takut terbang","harapkan burung terbang tinggi punai di tangan dilepaskan","hendak terbang, tiada bersayap","kelekatu hendak terbang ke langit","kepak singkat, terbang hendak tinggi","mara hinggap mara terbang, enggang lalu ranting patah","sayap singkat, terbang hendak jauh","setinggi-tinggi bangau terbang, surutnya ke kubangan","terbang bertumpu hinggap mencekam","yang hampa biar terbang, yang bernas biar tinggal"],"idiom":["terbang tinggi"]}},{"id":"85306","nama":"ter.bang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan terbang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ayam hitam terbang malam","ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun","ayam putih terbang siang","burung terbang dipipiskan lada","digenggam takut mati, dilepaskan takut terbang","harapkan burung terbang tinggi punai di tangan dilepaskan","hendak terbang, tiada bersayap","kelekatu hendak terbang ke langit","kepak singkat, terbang hendak tinggi","mara hinggap mara terbang, enggang lalu ranting patah","sayap singkat, terbang hendak jauh","setinggi-tinggi bangau terbang, surutnya ke kubangan","terbang bertumpu hinggap mencekam","yang hampa biar terbang, yang bernas biar tinggal"],"idiom":["terbang tinggi"]}}]}
+{
+  "word": "terbang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85289",
+      "nama": "ter.bang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bergerak atau melayang di udara dengan tenaga sayap (tentang burung dan sebagainya) atau dengan tenaga mesin (tentang pesawat terbang dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "burung itu sanggup -- jauh sampai ke pantai"
+            },
+            {
+              "nomor": 4,
+              "teks": "dengan lincahnya pesawat kecil itu -- berakrobat di udara"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhamburan atau melayang-layang di udara (tentang debu, daun-daunan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seng dan atap rumah -- ditiup angin puyuh"
+            },
+            {
+              "nomor": 4,
+              "teks": "pekerja itu mengenakan topeng muka untuk menghindarkan mata dari pasir yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "mudah menjadi uap (gas); mudah menguap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "minyak --"
+            },
+            {
+              "nomor": 4,
+              "teks": "zat --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hilang lenyap (dicuri orang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sepuluh peti berisi suku cadang mobil -- dari gudang pelabuhan"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berlari cepat",
+          "contoh": []
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melarikan diri; kabur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mobil yang menabrak anak itu -- dan menghilang"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "naik pesawat terbang; bepergian dengan pesawat terbang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pagi ini rombongan perutusan -- ke Bali"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berterbangan",
+          "beterbangan",
+          "menerbangi",
+          "menerbangkan",
+          "penerbang",
+          "penerbangan",
+          "terbang-terbang"
+        ],
+        "gabunganKata": [
+          "penerbangan antarmaskapai",
+          "terbang arwah",
+          "terbang darahnya",
+          "terbang layang",
+          "terbang lintas",
+          "terbang menerkam",
+          "terbang pengantin",
+          "terbang pikiran",
+          "terbang semangat",
+          "terbang solo",
+          "terbang madihin"
+        ],
+        "peribahasa": [
+          "ayam hitam terbang malam",
+          "ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun",
+          "ayam putih terbang siang",
+          "burung terbang dipipiskan lada",
+          "digenggam takut mati, dilepaskan takut terbang",
+          "harapkan burung terbang tinggi punai di tangan dilepaskan",
+          "hendak terbang, tiada bersayap",
+          "kelekatu hendak terbang ke langit",
+          "kepak singkat, terbang hendak tinggi",
+          "mara hinggap mara terbang, enggang lalu ranting patah",
+          "sayap singkat, terbang hendak jauh",
+          "setinggi-tinggi bangau terbang, surutnya ke kubangan",
+          "terbang bertumpu hinggap mencekam",
+          "yang hampa biar terbang, yang bernas biar tinggal"
+        ],
+        "idiom": [
+          "terbang tinggi"
+        ]
+      }
+    },
+    {
+      "id": "85305",
+      "nama": "ter.bang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rebana",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "terbang madihin"
+        ],
+        "peribahasa": [
+          "ayam hitam terbang malam",
+          "ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun",
+          "ayam putih terbang siang",
+          "burung terbang dipipiskan lada",
+          "digenggam takut mati, dilepaskan takut terbang",
+          "harapkan burung terbang tinggi punai di tangan dilepaskan",
+          "hendak terbang, tiada bersayap",
+          "kelekatu hendak terbang ke langit",
+          "kepak singkat, terbang hendak tinggi",
+          "mara hinggap mara terbang, enggang lalu ranting patah",
+          "sayap singkat, terbang hendak jauh",
+          "setinggi-tinggi bangau terbang, surutnya ke kubangan",
+          "terbang bertumpu hinggap mencekam",
+          "yang hampa biar terbang, yang bernas biar tinggal"
+        ],
+        "idiom": [
+          "terbang tinggi"
+        ]
+      }
+    },
+    {
+      "id": "85306",
+      "nama": "ter.bang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan terbang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ayam hitam terbang malam",
+          "ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun",
+          "ayam putih terbang siang",
+          "burung terbang dipipiskan lada",
+          "digenggam takut mati, dilepaskan takut terbang",
+          "harapkan burung terbang tinggi punai di tangan dilepaskan",
+          "hendak terbang, tiada bersayap",
+          "kelekatu hendak terbang ke langit",
+          "kepak singkat, terbang hendak tinggi",
+          "mara hinggap mara terbang, enggang lalu ranting patah",
+          "sayap singkat, terbang hendak jauh",
+          "setinggi-tinggi bangau terbang, surutnya ke kubangan",
+          "terbang bertumpu hinggap mencekam",
+          "yang hampa biar terbang, yang bernas biar tinggal"
+        ],
+        "idiom": [
+          "terbang tinggi"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"word":"terkunyah","authenticated":true,"entries":[{"id":"45107","nama":"ter.ku.nyah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah dikunyah","contoh":[{"nomor":2,"teks":"karena terburu-buru, makanannya tidak ~ dengan baik"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dikunyah","contoh":[{"nomor":2,"teks":"rasa jintan begitu terasa karena masih utuh dan ikut ~"}]}],"rootWord":"kunyah","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tidak tahu antah terkunyah"],"idiom":["terkunyah di batu","terkunyah di nasi"]}}]}
+{
+  "word": "terkunyah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45107",
+      "nama": "ter.ku.nyah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah dikunyah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena terburu-buru, makanannya tidak ~ dengan baik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dikunyah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rasa jintan begitu terasa karena masih utuh dan ikut ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kunyah",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tidak tahu antah terkunyah"
+        ],
+        "idiom": [
+          "terkunyah di batu",
+          "terkunyah di nasi"
+        ]
+      }
+    }
+  ]
+}

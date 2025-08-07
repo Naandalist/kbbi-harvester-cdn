@@ -1,1 +1,43 @@
-{"word":"terpidana","authenticated":true,"entries":[{"id":"63370","nama":"ter.pi.da.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dikenai hukuman","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"orang yang dikenai hukuman","contoh":[]}],"rootWord":"pidana"}]}
+{
+  "word": "terpidana",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "63370",
+      "nama": "ter.pi.da.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dikenai hukuman",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "orang yang dikenai hukuman",
+          "contoh": []
+        }
+      ],
+      "rootWord": "pidana"
+    }
+  ]
+}

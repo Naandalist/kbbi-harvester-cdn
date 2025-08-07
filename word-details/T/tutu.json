@@ -1,1 +1,110 @@
-{"word":"tutu","authenticated":true,"entries":[{"id":"88549","nama":"tu.tu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertutu","contoh":[]}],"terkait":{"kataTurunan":["bertutu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"149586","nama":"tu.tu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"memotong kayu besar","contoh":[{"nomor":2,"teks":"paman -- di tengah hutan"}]}]},{"id":"182497","nama":"tu.tu","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rok penari balet dari kain yang kaku, pendek bersusun-susun dengan kerutan penuh di pinggang","contoh":[]}]},{"id":"255865","nama":"tu.tu","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Rt","nama":"Rote","tipe":"lainnya"}],"definisi":"mendorong kayu ke tungku agar api tetap menyala","contoh":[{"nomor":2,"teks":"ibu -- kayu supaya api di tungku tidak padam"}]}]}]}
+{
+  "word": "tutu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88549",
+      "nama": "tu.tu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertutu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertutu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "149586",
+      "nama": "tu.tu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memotong kayu besar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "paman -- di tengah hutan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "182497",
+      "nama": "tu.tu",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rok penari balet dari kain yang kaku, pendek bersusun-susun dengan kerutan penuh di pinggang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "255865",
+      "nama": "tu.tu",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Rt",
+              "nama": "Rote",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendorong kayu ke tungku agar api tetap menyala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ibu -- kayu supaya api di tungku tidak padam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

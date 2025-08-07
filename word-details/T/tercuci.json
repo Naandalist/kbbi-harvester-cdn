@@ -1,1 +1,65 @@
-{"word":"tercuci","authenticated":true,"entries":[{"id":"16737","nama":"ter.cu.ci","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah bersih (dicuci) dari kotoran dan sebagainya","contoh":[{"nomor":2,"teks":"anak itu datang dengan baju yang ~ bersih"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat dicuci","contoh":[{"nomor":2,"teks":"pakaian kotor yang menumpuk itu belum ~ semuanya"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dicuci","contoh":[{"nomor":2,"teks":"uang kertas yang ada di saku celana saya ikut ~ dengan pakaian yang lain"}]}],"rootWord":"cuci"}]}
+{
+  "word": "tercuci",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16737",
+      "nama": "ter.cu.ci",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah bersih (dicuci) dari kotoran dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu datang dengan baju yang ~ bersih"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat dicuci",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pakaian kotor yang menumpuk itu belum ~ semuanya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dicuci",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "uang kertas yang ada di saku celana saya ikut ~ dengan pakaian yang lain"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cuci"
+    }
+  ]
+}

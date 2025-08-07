@@ -1,1 +1,48 @@
-{"word":"terciprat","authenticated":true,"entries":[{"id":"16250","nama":"ter.cip.rat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena percikan (air, lumpur)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"mendapat bagian (uang dan sebagainya)","contoh":[{"nomor":2,"teks":"dia ikut ~ rezeki"}]}],"rootWord":"ciprat"}]}
+{
+  "word": "terciprat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "16250",
+      "nama": "ter.cip.rat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena percikan (air, lumpur)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mendapat bagian (uang dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia ikut ~ rezeki"
+            }
+          ]
+        }
+      ],
+      "rootWord": "ciprat"
+    }
+  ]
+}

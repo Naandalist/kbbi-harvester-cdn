@@ -1,1 +1,75 @@
-{"word":"telepon","authenticated":true,"entries":[{"id":"84061","nama":"te.le.pon","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pesawat dengan listrik dan kawat, untuk bercakap-cakap antara dua orang yang berjauhan tempatnya; pesawat telepon: kantor pusat hubungan telepon tiang kawat telepon","contoh":[{"nomor":2,"teks":"kantor --"},{"nomor":4,"teks":"tiang --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"percakapan yang disampaikan dengan pesawat telepon","contoh":[{"nomor":2,"teks":"kelompok ini meneror lewat selebaran, --, atau dari mulut ke mulut"}]}],"terkait":{"kataTurunan":["bertelepon","menelepon","penelepon","peneleponan"],"gabunganKata":["telepon cerdas","telepon engkol","telepon genggam","telepon koin","telepon mobil","telepon nirkabel","telepon pintar","telepon radio","telepon satelit","telepon seluler","telepon tidur","telepon umum"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "telepon",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84061",
+      "nama": "te.le.pon",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pesawat dengan listrik dan kawat, untuk bercakap-cakap antara dua orang yang berjauhan tempatnya; pesawat telepon: kantor pusat hubungan telepon tiang kawat telepon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kantor --"
+            },
+            {
+              "nomor": 4,
+              "teks": "tiang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "percakapan yang disampaikan dengan pesawat telepon",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kelompok ini meneror lewat selebaran, --, atau dari mulut ke mulut"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertelepon",
+          "menelepon",
+          "penelepon",
+          "peneleponan"
+        ],
+        "gabunganKata": [
+          "telepon cerdas",
+          "telepon engkol",
+          "telepon genggam",
+          "telepon koin",
+          "telepon mobil",
+          "telepon nirkabel",
+          "telepon pintar",
+          "telepon radio",
+          "telepon satelit",
+          "telepon seluler",
+          "telepon tidur",
+          "telepon umum"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"word":"tekenan","authenticated":true,"entries":[{"id":"83773","nama":"te.ken.an","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tanda tangan","contoh":[{"nomor":2,"teks":"~ Bapak Lurah jelas sekali"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"hasil meneken","contoh":[]}],"rootWord":"teken"}]}
+{
+  "word": "tekenan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83773",
+      "nama": "te.ken.an",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanda tangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ Bapak Lurah jelas sekali"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hasil meneken",
+          "contoh": []
+        }
+      ],
+      "rootWord": "teken"
+    }
+  ]
+}

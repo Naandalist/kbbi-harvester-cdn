@@ -1,1 +1,65 @@
-{"word":"tiri","authenticated":true,"entries":[{"id":"86434","nama":"ti.ri","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"bukan darah daging sendiri (dipakai dalam gabungan kata, seperti ibu --, anak --)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anak sendiri disayangi, anak tiri dibengkengi"],"idiom":[]}},{"id":"278354","nama":"ti.ri","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Me","nama":"Moronene","tipe":"lainnya"}],"definisi":"lemak yang sudah mencair menjadi seperti minyak","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anak sendiri disayangi, anak tiri dibengkengi"],"idiom":[]}}]}
+{
+  "word": "tiri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86434",
+      "nama": "ti.ri",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bukan darah daging sendiri (dipakai dalam gabungan kata, seperti ibu --, anak --)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anak sendiri disayangi, anak tiri dibengkengi"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "278354",
+      "nama": "ti.ri",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Me",
+              "nama": "Moronene",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lemak yang sudah mencair menjadi seperti minyak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anak sendiri disayangi, anak tiri dibengkengi"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

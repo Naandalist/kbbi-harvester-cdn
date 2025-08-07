@@ -1,1 +1,78 @@
-{"word":"tongkah","authenticated":true,"entries":[{"id":"86867","nama":"tong.kah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"papan untuk tumpuan (titian), biasanya dipasang di tempat yang becek atau basah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jb","nama":"Melayu Jambi","tipe":"lainnya"}],"definisi":"papan selancar untuk mengambil kerang bambu di daerah beting berlumpur, dikayuh dengan satu kaki dan satu kaki lagi bertumpu pada papan selancar","contoh":[]}],"terkait":{"kataTurunan":["menongkah","tongkahan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"86871","nama":"tong.kah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menongkah","contoh":[]}],"terkait":{"kataTurunan":["menongkah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tongkah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86867",
+      "nama": "tong.kah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "papan untuk tumpuan (titian), biasanya dipasang di tempat yang becek atau basah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jb",
+              "nama": "Melayu Jambi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "papan selancar untuk mengambil kerang bambu di daerah beting berlumpur, dikayuh dengan satu kaki dan satu kaki lagi bertumpu pada papan selancar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menongkah",
+          "tongkahan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "86871",
+      "nama": "tong.kah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menongkah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menongkah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

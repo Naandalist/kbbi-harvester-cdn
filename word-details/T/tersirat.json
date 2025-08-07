@@ -1,1 +1,52 @@
-{"word":"tersirat","authenticated":true,"entries":[{"id":"77731","nama":"ter.si.rat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersimpul (tentang tali-tali jala)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"terkandung; tersembunyi (di dalamnya)","contoh":[{"nomor":2,"teks":"entah apa yang ~ di dalam hati sanubarinya"},{"nomor":4,"teks":"kita dapat memahami apa yang ~ dalam penjelasan Presiden"}]}],"rootWord":"sirat¹"}]}
+{
+  "word": "tersirat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "77731",
+      "nama": "ter.si.rat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersimpul (tentang tali-tali jala)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terkandung; tersembunyi (di dalamnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "entah apa yang ~ di dalam hati sanubarinya"
+            },
+            {
+              "nomor": 4,
+              "teks": "kita dapat memahami apa yang ~ dalam penjelasan Presiden"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sirat¹"
+    }
+  ]
+}

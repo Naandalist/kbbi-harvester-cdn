@@ -1,1 +1,103 @@
-{"word":"tang","authenticated":true,"entries":[{"id":"82179","nama":"tang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat untuk menjepit (mencabut, memotong) paku dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menjepit (mencabut, memotong) paku dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["tang cucut","tang kombinasi","tang pengupas kabel"],"peribahasa":[],"idiom":[]}},{"id":"82183","nama":"tang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tiruan bunyi kaleng dipukul","contoh":[]}]},{"id":"82184","nama":"tang","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ tank","contoh":[]}]},{"id":"82185","nama":"tang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tentang","contoh":[]}]}]}
+{
+  "word": "tang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82179",
+      "nama": "tang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat untuk menjepit (mencabut, memotong) paku dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjepit (mencabut, memotong) paku dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "tang cucut",
+          "tang kombinasi",
+          "tang pengupas kabel"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82183",
+      "nama": "tang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiruan bunyi kaleng dipukul",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "82184",
+      "nama": "tang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ tank",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "82185",
+      "nama": "tang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tentang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

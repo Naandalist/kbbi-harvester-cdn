@@ -1,1 +1,136 @@
-{"word":"tempoh","authenticated":true,"entries":[{"id":"84563","nama":"tem.poh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"berhenti (tidak bekerja lagi dan sebagainya): dengan segera","contoh":[{"nomor":2,"teks":"tidak -- (tidak --nya)"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak masuk kerja (bersekolah dan sebagainya)","contoh":[{"nomor":2,"teks":"ia acap kali minta -- kepada atasannya"},{"nomor":4,"teks":"anak itu ditegur wali kelasnya karena -- lima hari"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"mengaso; beristirahat","contoh":[{"nomor":2,"teks":"boleh -- sebentar kalau lelah"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"waktu -- (hari --) libur; vakansi","contoh":[{"nomor":2,"teks":"sekolah sedang --"},{"nomor":4,"teks":"waktu -- bulan puasa yang baru lalu ini mereka ke Bandung"}]},{"nomor":"5","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"bervakansi; berlibur","contoh":[{"nomor":2,"teks":"maksudnya hendak -- ke tempat dingin"}]}],"etimologi":{"text":"[Portugis tempo tempo n sg m 'waktu; masa; periode; kesempatan']","languages":["Portugis"]},"terkait":{"kataTurunan":["bertempoh","menempohkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tempoh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84563",
+      "nama": "tem.poh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berhenti (tidak bekerja lagi dan sebagainya): dengan segera",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tidak -- (tidak --nya)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak masuk kerja (bersekolah dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia acap kali minta -- kepada atasannya"
+            },
+            {
+              "nomor": 4,
+              "teks": "anak itu ditegur wali kelasnya karena -- lima hari"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengaso; beristirahat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "boleh -- sebentar kalau lelah"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "waktu -- (hari --) libur; vakansi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sekolah sedang --"
+            },
+            {
+              "nomor": 4,
+              "teks": "waktu -- bulan puasa yang baru lalu ini mereka ke Bandung"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bervakansi; berlibur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maksudnya hendak -- ke tempat dingin"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis tempo tempo n sg m 'waktu; masa; periode; kesempatan']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertempoh",
+          "menempohkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

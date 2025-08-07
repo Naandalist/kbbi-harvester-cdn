@@ -1,1 +1,88 @@
-{"word":"tepak","authenticated":true,"entries":[{"id":"85032","nama":"te.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kotak kecil bertutup dibuat dari pandan, kayu, dan sebagainya untuk tempat sirih, tembakau, rokok, dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["menepak","menepak-nepak","menepak-nepakkan","menepakkan"],"gabunganKata":["tepak jemputan","tepak bahu"],"peribahasa":[],"idiom":[]}},{"id":"85033","nama":"te.pak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tepuk; pukul","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tepukan (gendang); pukulan (gendang)","contoh":[{"nomor":2,"teks":"dalam gendang pencak kita kenal tepak-tepak gendang, seperti -- dua, -- tiga"}]}],"terkait":{"kataTurunan":["menepak","menepak-nepak","menepak-nepakkan","menepakkan"],"gabunganKata":["tepak bahu"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tepak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85032",
+      "nama": "te.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotak kecil bertutup dibuat dari pandan, kayu, dan sebagainya untuk tempat sirih, tembakau, rokok, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menepak",
+          "menepak-nepak",
+          "menepak-nepakkan",
+          "menepakkan"
+        ],
+        "gabunganKata": [
+          "tepak jemputan",
+          "tepak bahu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "85033",
+      "nama": "te.pak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepuk; pukul",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tepukan (gendang); pukulan (gendang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam gendang pencak kita kenal tepak-tepak gendang, seperti -- dua, -- tiga"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menepak",
+          "menepak-nepak",
+          "menepak-nepakkan",
+          "menepakkan"
+        ],
+        "gabunganKata": [
+          "tepak bahu"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

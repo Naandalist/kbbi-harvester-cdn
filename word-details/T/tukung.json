@@ -1,1 +1,54 @@
-{"word":"tukung","authenticated":true,"entries":[{"id":"87788","nama":"tu.kung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berekor atau tidak bertulang ekor; ponggok","contoh":[{"nomor":2,"teks":"ayam --"}]}]},{"id":"285162","nama":"tu.kung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ldy","nama":"Lundayeh","tipe":"lainnya"}],"definisi":"benjolan pada ranting atau batang pohon yang patah, kemudian tumbuh dan tertutup kulit di dalam kayu","contoh":[]}]}]}
+{
+  "word": "tukung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87788",
+      "nama": "tu.kung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berekor atau tidak bertulang ekor; ponggok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ayam --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "285162",
+      "nama": "tu.kung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ldy",
+              "nama": "Lundayeh",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "benjolan pada ranting atau batang pohon yang patah, kemudian tumbuh dan tertutup kulit di dalam kayu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

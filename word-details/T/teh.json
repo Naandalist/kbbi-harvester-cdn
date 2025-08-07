@@ -1,1 +1,131 @@
-{"word":"teh","authenticated":true,"entries":[{"id":"83654","nama":"teh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon kecil, tumbuh di alam bebas, daunnya berbentuk jorong atau bulat telur, pucuknya dilayukan dan dikeringkan untuk dibuat minuman (di pabrik dan sebagainya)〔Camellia sinensis〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"minuman yang dibuat dengan merendam daun teh dalam air panas, memiliki rasa yang agak pahit dan aromatik, kadang ditambahi gula, susu, dan lain-lain, dan dapat disajikan dingin","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 茶 tê 'teh']","languages":["Hokkien dialek Xiamen"]},"terkait":{"kataTurunan":["mengeteh","pengeteh","teh-tehan"],"gabunganKata":["teh  pepermin","teh barley","teh basi","teh botol","teh bunga telang","teh celup","teh gaharu","teh herbal","teh hijau","teh hitam","teh hutan","teh jahe","teh jahe merah","teh kampung","teh kelor","teh kocok","teh kombuca","teh kompos","teh kotak","teh krisan","teh kulit manggis","teh kuning","teh lemon","teh makau","teh mawar","teh melati","teh merah","teh obeng","teh oolong","teh pahit","teh paraguai","teh pelangsing","teh poci","teh putih","teh ragi","teh rosela","teh serai","teh susu","teh talua","teh tarik","teh tawar","teh tubruk"],"peribahasa":[],"idiom":[]}},{"id":"212478","nama":"teh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"teteh","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 茶 tê 'teh']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "teh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83654",
+      "nama": "teh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon kecil, tumbuh di alam bebas, daunnya berbentuk jorong atau bulat telur, pucuknya dilayukan dan dikeringkan untuk dibuat minuman (di pabrik dan sebagainya)〔Camellia sinensis〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "minuman yang dibuat dengan merendam daun teh dalam air panas, memiliki rasa yang agak pahit dan aromatik, kadang ditambahi gula, susu, dan lain-lain, dan dapat disajikan dingin",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 茶 tê 'teh']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "mengeteh",
+          "pengeteh",
+          "teh-tehan"
+        ],
+        "gabunganKata": [
+          "teh  pepermin",
+          "teh barley",
+          "teh basi",
+          "teh botol",
+          "teh bunga telang",
+          "teh celup",
+          "teh gaharu",
+          "teh herbal",
+          "teh hijau",
+          "teh hitam",
+          "teh hutan",
+          "teh jahe",
+          "teh jahe merah",
+          "teh kampung",
+          "teh kelor",
+          "teh kocok",
+          "teh kombuca",
+          "teh kompos",
+          "teh kotak",
+          "teh krisan",
+          "teh kulit manggis",
+          "teh kuning",
+          "teh lemon",
+          "teh makau",
+          "teh mawar",
+          "teh melati",
+          "teh merah",
+          "teh obeng",
+          "teh oolong",
+          "teh pahit",
+          "teh paraguai",
+          "teh pelangsing",
+          "teh poci",
+          "teh putih",
+          "teh ragi",
+          "teh rosela",
+          "teh serai",
+          "teh susu",
+          "teh talua",
+          "teh tarik",
+          "teh tawar",
+          "teh tubruk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212478",
+      "nama": "teh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "teteh",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 茶 tê 'teh']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,87 @@
-{"word":"tunduk","authenticated":true,"entries":[{"id":"88163","nama":"tun.duk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menghadapkan wajah ke bawah, condong ke depan dan ke bawah (tentang kepala); melengkung ke bawah (tentang malai padi)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"takluk; menyerah kalah","contoh":[{"nomor":2,"teks":"bendera putih sebagai tanda --"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"patuh; menurut (tentang perintah, aturan, dan sebagainya)","contoh":[{"nomor":2,"teks":"semua anggota harus -- kepada peraturan yang telah dibuat bersama"}]}],"terkait":{"kataTurunan":["ketertundukan","ketundukan","menunduk","menunduk-nunduk","menundukkan","penunduk","penundukan","petunduk","tertunduk"],"gabunganKata":[],"peribahasa":[],"idiom":["tunduk tengadah"]}}]}
+{
+  "word": "tunduk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88163",
+      "nama": "tun.duk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menghadapkan wajah ke bawah, condong ke depan dan ke bawah (tentang kepala); melengkung ke bawah (tentang malai padi)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "takluk; menyerah kalah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bendera putih sebagai tanda --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "patuh; menurut (tentang perintah, aturan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semua anggota harus -- kepada peraturan yang telah dibuat bersama"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketertundukan",
+          "ketundukan",
+          "menunduk",
+          "menunduk-nunduk",
+          "menundukkan",
+          "penunduk",
+          "penundukan",
+          "petunduk",
+          "tertunduk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": [
+          "tunduk tengadah"
+        ]
+      }
+    }
+  ]
+}

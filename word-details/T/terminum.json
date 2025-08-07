@@ -1,1 +1,74 @@
-{"word":"terminum","authenticated":true,"entries":[{"id":"54514","nama":"ter.mi.num","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diminum","contoh":[{"nomor":2,"teks":"dua botol bir ~ habis"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja diminum","contoh":[{"nomor":2,"teks":"minumanku ~ olehmu"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat diminum","contoh":[{"nomor":2,"teks":"jamu itu tidak ~ olehku karena pahitnya"}]}],"rootWord":"minum","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["tertangkup sama termakan tanah, telentang sama terminum air","tertelentang sama terminum air, tertelungkup sama termakan tanah"],"idiom":[]}}]}
+{
+  "word": "terminum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "54514",
+      "nama": "ter.mi.num",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diminum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua botol bir ~ habis"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja diminum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "minumanku ~ olehmu"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat diminum",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jamu itu tidak ~ olehku karena pahitnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "minum",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tertangkup sama termakan tanah, telentang sama terminum air",
+          "tertelentang sama terminum air, tertelungkup sama termakan tanah"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

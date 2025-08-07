@@ -1,1 +1,85 @@
-{"word":"torek","authenticated":true,"entries":[{"id":"87024","nama":"to.rek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit telinga bernanah yang menyebabkan tuli","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tuli","contoh":[]}]},{"id":"165828","nama":"to.rek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psr","nama":"Pasir (Paser)","tipe":"lainnya"}],"definisi":"pantun yang biasanya dinyanyikan pada saat memanen padi supaya bertambah semangat","contoh":[]}]},{"id":"165654","nama":"to.rek","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"BjPd","nama":"Bajau Pondong","tipe":"lainnya"}],"definisi":"sampah di pinggir laut","contoh":[]}]}]}
+{
+  "word": "torek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "87024",
+      "nama": "to.rek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit telinga bernanah yang menyebabkan tuli",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tuli",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "165828",
+      "nama": "to.rek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psr",
+              "nama": "Pasir (Paser)",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pantun yang biasanya dinyanyikan pada saat memanen padi supaya bertambah semangat",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "165654",
+      "nama": "to.rek",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "BjPd",
+              "nama": "Bajau Pondong",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sampah di pinggir laut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

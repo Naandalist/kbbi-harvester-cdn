@@ -1,1 +1,86 @@
-{"word":"tepis","authenticated":true,"entries":[{"id":"85086","nama":"te.pis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tangkis dengan belakang tangan","contoh":[]}],"terkait":{"kataTurunan":["menepis","menepiskan","tertepis"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"85088","nama":"te.pis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menepis","contoh":[]}],"terkait":{"kataTurunan":["menepis"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"240873","nama":"te.pis","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Us","nama":"Using","tipe":"lainnya"}],"definisi":"sapu lidi kecil utk membersihkan bagian dalam rumah yang juga diyakini memiliki fungsi mengusir makhluk halus dan penangkal sihir","contoh":[]}]}]}
+{
+  "word": "tepis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85086",
+      "nama": "te.pis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tangkis dengan belakang tangan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menepis",
+          "menepiskan",
+          "tertepis"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "85088",
+      "nama": "te.pis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menepis",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menepis"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "240873",
+      "nama": "te.pis",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Us",
+              "nama": "Using",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sapu lidi kecil utk membersihkan bagian dalam rumah yang juga diyakini memiliki fungsi mengusir makhluk halus dan penangkal sihir",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

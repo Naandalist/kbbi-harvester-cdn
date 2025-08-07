@@ -1,1 +1,91 @@
-{"word":"tengik","authenticated":true,"entries":[{"id":"84850","nama":"te.ngik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berbau atau berasa tidak sedap (seperti bau minyak kelapa yang sudah lama); berbau busuk","contoh":[{"nomor":2,"teks":"jangan menggoreng dengan minyak kelapa yang sudah --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"jahat, kejam, kasar (tentang perbuatan, perkataan, dan sebagainya)","contoh":[{"nomor":2,"teks":"sikap dan ucapannya yang -- menyebabkan dia dibenci kawan-kawannya"}]}],"terkait":{"kataTurunan":["ketengikan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"84852","nama":"te.ngik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon yang berkayu empuk dan getahnya beracun〔Antiaris toxicaria〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu tengik","contoh":[]}]}]}
+{
+  "word": "tengik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84850",
+      "nama": "te.ngik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berbau atau berasa tidak sedap (seperti bau minyak kelapa yang sudah lama); berbau busuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jangan menggoreng dengan minyak kelapa yang sudah --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jahat, kejam, kasar (tentang perbuatan, perkataan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sikap dan ucapannya yang -- menyebabkan dia dibenci kawan-kawannya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "ketengikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "84852",
+      "nama": "te.ngik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon yang berkayu empuk dan getahnya beracun〔Antiaris toxicaria〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu tengik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

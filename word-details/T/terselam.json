@@ -1,1 +1,55 @@
-{"word":"terselam","authenticated":true,"entries":[{"id":"73654","nama":"ter.se.lam","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah diselami; dapat diselami","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbenam; terhunjam; tersuruk","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bio","nama":"Biologi","tipe":"bidang_subjek"}],"definisi":"terbenam di bawah permukaan air","contoh":[]}],"rootWord":"selam¹"}]}
+{
+  "word": "terselam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "73654",
+      "nama": "ter.se.lam",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah diselami; dapat diselami",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbenam; terhunjam; tersuruk",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bio",
+              "nama": "Biologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "terbenam di bawah permukaan air",
+          "contoh": []
+        }
+      ],
+      "rootWord": "selam¹"
+    }
+  ]
+}

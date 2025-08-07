@@ -1,1 +1,48 @@
-{"word":"terjangkau","authenticated":true,"entries":[{"id":"33391","nama":"ter.jang.kau","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tercapai; terambil","contoh":[{"nomor":2,"teks":"apa-apa yang diletakkan di atas lemari itu takkan ~ oleh anak saya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terbeli; terbayar","contoh":[{"nomor":2,"teks":"harga rumah mewah belum ~ oleh pegawai kecil"}]}],"rootWord":"jangkau"}]}
+{
+  "word": "terjangkau",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "33391",
+      "nama": "ter.jang.kau",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tercapai; terambil",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "apa-apa yang diletakkan di atas lemari itu takkan ~ oleh anak saya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terbeli; terbayar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "harga rumah mewah belum ~ oleh pegawai kecil"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jangkau"
+    }
+  ]
+}

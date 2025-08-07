@@ -1,1 +1,47 @@
-{"word":"tambus","authenticated":true,"entries":[{"id":"81732","nama":"tam.bus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menambus","contoh":[]}],"terkait":{"kataTurunan":["menambus","tertambus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"81735","nama":"tam.bus","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ timbus","contoh":[]}]}]}
+{
+  "word": "tambus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81732",
+      "nama": "tam.bus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menambus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menambus",
+          "tertambus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "81735",
+      "nama": "tam.bus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ timbus",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

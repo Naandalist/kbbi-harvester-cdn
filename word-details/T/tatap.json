@@ -1,1 +1,68 @@
-{"word":"tatap","authenticated":true,"entries":[{"id":"83144","nama":"ta.tap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menatap","contoh":[]}],"terkait":{"kataTurunan":["bertatap-tatapan","bertatapan","menatap","menatapi","penatap","penatapan","tatapan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"261088","nama":"ta.tap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"kulit gendang atau rebab yang terbuat dari kulit sapi, kerbau, atau ikan buntal yang dikeringkan","contoh":[{"nomor":2,"teks":"kulit ikan buntal yang besar sengaja dijemur untuk dijadikan -- rebab"}]}]}]}
+{
+  "word": "tatap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83144",
+      "nama": "ta.tap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menatap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertatap-tatapan",
+          "bertatapan",
+          "menatap",
+          "menatapi",
+          "penatap",
+          "penatapan",
+          "tatapan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "261088",
+      "nama": "ta.tap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kulit gendang atau rebab yang terbuat dari kulit sapi, kerbau, atau ikan buntal yang dikeringkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kulit ikan buntal yang besar sengaja dijemur untuk dijadikan -- rebab"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

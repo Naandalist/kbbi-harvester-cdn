@@ -1,1 +1,50 @@
-{"word":"tengkuk","authenticated":true,"entries":[{"id":"84898","nama":"teng.kuk","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kuduk (leher bagian belakang)","contoh":[{"nomor":2,"teks":"karena sakit, ia tidak dapat menggerakkan --nya sehingga kaku bagaikan patung"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda (batang, tandan, tangkai) yang membengkok menyerupai kuduk","contoh":[]}],"terkait":{"kataTurunan":["setengkuk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tengkuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84898",
+      "nama": "teng.kuk",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kuduk (leher bagian belakang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena sakit, ia tidak dapat menggerakkan --nya sehingga kaku bagaikan patung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda (batang, tandan, tangkai) yang membengkok menyerupai kuduk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "setengkuk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

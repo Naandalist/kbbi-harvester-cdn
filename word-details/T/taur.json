@@ -1,1 +1,58 @@
-{"word":"taur","authenticated":true,"entries":[{"id":"83208","nama":"ta.ur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tebus","contoh":[]}],"terkait":{"kataTurunan":["menauri","tauran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"213159","nama":"ta.ur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"membayar utang atau mengembalikan barang yang dipinjam","contoh":[]}]}]}
+{
+  "word": "taur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83208",
+      "nama": "ta.ur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tebus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menauri",
+          "tauran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "213159",
+      "nama": "ta.ur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membayar utang atau mengembalikan barang yang dipinjam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

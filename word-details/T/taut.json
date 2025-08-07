@@ -1,1 +1,64 @@
-{"word":"taut","authenticated":true,"entries":[{"id":"83218","nama":"ta.ut","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bertaut","contoh":[]}],"terkait":{"kataTurunan":["bertaut","kebertautan","ketertautan","mempertautkan","menautkan","penautan","pertautan","tautan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83228","nama":"ta.ut","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tali yang diberi kail (untuk menangkap ikan)","contoh":[{"nomor":2,"teks":"anak-anak membuat -- untuk memancing ikan"}]}]}]}
+{
+  "word": "taut",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "83218",
+      "nama": "ta.ut",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertaut",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertaut",
+          "kebertautan",
+          "ketertautan",
+          "mempertautkan",
+          "menautkan",
+          "penautan",
+          "pertautan",
+          "tautan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83228",
+      "nama": "ta.ut",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tali yang diberi kail (untuk menangkap ikan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak-anak membuat -- untuk memancing ikan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,31 @@
-{"word":"terdaftar","authenticated":true,"entries":[{"id":"17245","nama":"ter.daf.tar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah tercatat (tercantum, dimasukkan) dalam daftar","contoh":[{"nomor":2,"teks":"para calon siswa yang telah ~ namanya boleh mengikuti ujian saringan"}]}],"rootWord":"daftar"}]}
+{
+  "word": "terdaftar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "17245",
+      "nama": "ter.daf.tar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah tercatat (tercantum, dimasukkan) dalam daftar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "para calon siswa yang telah ~ namanya boleh mengikuti ujian saringan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "daftar"
+    }
+  ]
+}

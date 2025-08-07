@@ -1,1 +1,31 @@
-{"word":"tersewa","authenticated":true,"entries":[{"id":"102367","nama":"ter.se.wa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disewa","contoh":[{"nomor":2,"teks":"rumah yang ditawarkan kepadaku sekarang ~"}]}],"rootWord":"sewa¹"}]}
+{
+  "word": "tersewa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102367",
+      "nama": "ter.se.wa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disewa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah yang ditawarkan kepadaku sekarang ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sewa¹"
+    }
+  ]
+}

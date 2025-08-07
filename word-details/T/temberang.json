@@ -1,1 +1,79 @@
-{"word":"temberang","authenticated":true,"entries":[{"id":"84351","nama":"tem.be.rang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"tali-temali di perahu (kapal) untuk memperteguh tiang","contoh":[{"nomor":2,"teks":"badai yang dahsyat semalam memutuskan -- kapal tua itu"}]}],"terkait":{"kataTurunan":["menemberang"],"gabunganKata":["temberang belakang","temberang buritan","temberang haluan","temberang lenggang","temberang turut","temberang keliling"],"peribahasa":[],"idiom":[]}},{"id":"84357","nama":"tem.be.rang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cakap yang muluk-muluk; bual","contoh":[]}],"terkait":{"kataTurunan":["menemberang"],"gabunganKata":["temberang keliling"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "temberang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84351",
+      "nama": "tem.be.rang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali-temali di perahu (kapal) untuk memperteguh tiang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "badai yang dahsyat semalam memutuskan -- kapal tua itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menemberang"
+        ],
+        "gabunganKata": [
+          "temberang belakang",
+          "temberang buritan",
+          "temberang haluan",
+          "temberang lenggang",
+          "temberang turut",
+          "temberang keliling"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "84357",
+      "nama": "tem.be.rang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cakap yang muluk-muluk; bual",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menemberang"
+        ],
+        "gabunganKata": [
+          "temberang keliling"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

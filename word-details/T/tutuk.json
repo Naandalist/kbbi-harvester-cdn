@@ -1,1 +1,62 @@
-{"word":"tutuk","authenticated":true,"entries":[{"id":"88553","nama":"tu.tuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutuk","contoh":[]}],"terkait":{"kataTurunan":["menutuk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"152696","nama":"tu.tuk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bn","nama":"Benuaq","tipe":"lainnya"}],"definisi":"menanam padi oleh dua orang saja","contoh":[{"nomor":2,"teks":"bapak dan ibu -- di sawah"}]}]}]}
+{
+  "word": "tutuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88553",
+      "nama": "tu.tuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutuk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menutuk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "152696",
+      "nama": "tu.tuk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bn",
+              "nama": "Benuaq",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menanam padi oleh dua orang saja",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak dan ibu -- di sawah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

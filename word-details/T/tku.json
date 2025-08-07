@@ -1,1 +1,35 @@
-{"word":"tku","authenticated":true,"entries":[{"id":"206265","nama":"TKU","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Prm","nama":"Pramuka","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"tanda kecakapan umum","contoh":[]}]}]}
+{
+  "word": "tku",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "206265",
+      "nama": "TKU",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Prm",
+              "nama": "Pramuka",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tanda kecakapan umum",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

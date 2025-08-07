@@ -1,1 +1,104 @@
-{"word":"tawak","authenticated":true,"entries":[{"id":"177263","nama":"ta.wak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"alat musik yang mirip dengan kempul, dimainkan untuk mengiringi tarian tradisional masyarakat Dayak","contoh":[]}],"terkait":{"kataTurunan":["menawaki","menawakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83254","nama":"ta.wak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"menawaki","contoh":[]}],"terkait":{"kataTurunan":["menawaki","menawakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"83256","nama":"ta.wak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"menawakkan","contoh":[]}],"terkait":{"kataTurunan":["menawakkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tawak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "177263",
+      "nama": "ta.wak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat musik yang mirip dengan kempul, dimainkan untuk mengiringi tarian tradisional masyarakat Dayak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menawaki",
+          "menawakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83254",
+      "nama": "ta.wak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menawaki",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menawaki",
+          "menawakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "83256",
+      "nama": "ta.wak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menawakkan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menawakkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,162 @@
-{"word":"tandak","authenticated":true,"entries":[{"id":"82097","nama":"tan.dak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tari ronggeng","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penari ronggeng","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"penari bayaran","contoh":[]}],"terkait":{"kataTurunan":["bertandak","menandak","penandak"],"gabunganKata":["tandak ogleng"],"peribahasa":[],"idiom":[]}},{"id":"245949","nama":"tan.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"julukan atau nama lain di dalam sastra kuno Dayak (tentang orang atau tempat)","contoh":[]}]},{"id":"245869","nama":"tan.dak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"gelar yang diberikan kepada suatu kampung atau benda-benda lain","contoh":[]}]},{"id":"229323","nama":"tan.dak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lmt","nama":"Lematang","tipe":"lainnya"}],"definisi":"bunga kelapa yang belum mekar","contoh":[]}]},{"id":"208811","nama":"tan.dak","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"lagu kawih yang terikat dalam mantra","contoh":[]}]}]}
+{
+  "word": "tandak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82097",
+      "nama": "tan.dak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tari ronggeng",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penari ronggeng",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penari bayaran",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertandak",
+          "menandak",
+          "penandak"
+        ],
+        "gabunganKata": [
+          "tandak ogleng"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "245949",
+      "nama": "tan.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "julukan atau nama lain di dalam sastra kuno Dayak (tentang orang atau tempat)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "245869",
+      "nama": "tan.dak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gelar yang diberikan kepada suatu kampung atau benda-benda lain",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "229323",
+      "nama": "tan.dak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lmt",
+              "nama": "Lematang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bunga kelapa yang belum mekar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "208811",
+      "nama": "tan.dak",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lagu kawih yang terikat dalam mantra",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

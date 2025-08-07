@@ -1,1 +1,85 @@
-{"word":"takdir","authenticated":true,"entries":[{"id":"81228","nama":"tak.dir","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ketetapan Tuhan; ketentuan Tuhan; nasib","contoh":[{"nomor":2,"teks":"dengan --, akhirnya kutemukan anak yang hilang itu"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"jika; seandainya","contoh":[{"nomor":2,"teks":"--nya terjadi apa-apa dengan diri abang kepada siapa kami akan beruntung"}]},{"nomor":"3","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kalau ... pun","contoh":[{"nomor":2,"teks":"-- pun harus menghadapi risiko yang berbahaya, akan diteruskan juga niatnya"}]}],"etimologi":{"text":"[Arab تَقْدِيْرٌ taqdīr n sg m 'ketentuan']","languages":["Arab"]},"terkait":{"kataTurunan":["bertakdir","menakdirkan","mentakdirkan","tertakdir"],"gabunganKata":["takdir Ilahi","takdir mualak","takdir mubram"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "takdir",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81228",
+      "nama": "tak.dir",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketetapan Tuhan; ketentuan Tuhan; nasib",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dengan --, akhirnya kutemukan anak yang hilang itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jika; seandainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "--nya terjadi apa-apa dengan diri abang kepada siapa kami akan beruntung"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kalau ... pun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pun harus menghadapi risiko yang berbahaya, akan diteruskan juga niatnya"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَقْدِيْرٌ taqdīr n sg m 'ketentuan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "bertakdir",
+          "menakdirkan",
+          "mentakdirkan",
+          "tertakdir"
+        ],
+        "gabunganKata": [
+          "takdir Ilahi",
+          "takdir mualak",
+          "takdir mubram"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

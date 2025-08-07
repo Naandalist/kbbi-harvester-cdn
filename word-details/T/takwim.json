@@ -1,1 +1,41 @@
-{"word":"takwim","authenticated":true,"entries":[{"id":"81381","nama":"tak.wim","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ar","nama":"Arab","tipe":"lainnya"}],"definisi":"penanggalan; kalender","contoh":[{"nomor":2,"teks":"tahun --"}]}],"etimologi":{"text":"[Arab تَقْوِيْمٌ taqwīm n sg m 'penanggalan; pemberian harga']","languages":["Arab"]}}]}
+{
+  "word": "takwim",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81381",
+      "nama": "tak.wim",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ar",
+              "nama": "Arab",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penanggalan; kalender",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tahun --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab تَقْوِيْمٌ taqwīm n sg m 'penanggalan; pemberian harga']",
+        "languages": [
+          "Arab"
+        ]
+      }
+    }
+  ]
+}

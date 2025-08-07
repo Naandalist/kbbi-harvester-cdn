@@ -1,1 +1,227 @@
-{"word":"tempat","authenticated":true,"entries":[{"id":"84464","nama":"tem.pat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dipakai untuk menaruh (menyimpan, meletakkan, dan sebagainya); wadah; bekas","contoh":[{"nomor":2,"teks":"-- obat"},{"nomor":4,"teks":"-- tinta"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang (bidang, rumah, dan sebagainya) yang tersedia untuk melakukan sesuatu","contoh":[{"nomor":2,"teks":"-- belajar"},{"nomor":4,"teks":"-- duduk"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang (bidang dan sebagainya) yang dipakai untuk menaruh (menyimpan, mengumpulkan, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- pembuangan sampah"},{"nomor":4,"teks":"-- sepeda"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ruang (bidang, rumah, daerah, dan sebagainya) yang didiami (ditinggali) atau ditempati","contoh":[{"nomor":2,"teks":"-- kediaman"},{"nomor":4,"teks":"-- tinggal"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang tertentu dari suatu ruang (bidang, daerah, dan sebagainya)","contoh":[{"nomor":2,"teks":"hal itu bergantung pada waktu dan --nya"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"negeri (kota, desa, daerah, dan sebagainya)","contoh":[{"nomor":2,"teks":"di beberapa -- dapat ditanam anggur"}]},{"nomor":"7","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang dapat (dipercaya) menampung (tentang isi hati, keluhan, pertanyaan, dan sebagainya)","contoh":[{"nomor":2,"teks":"sehari-harian sayalah -- ia mencurahkan isi hatinya"},{"nomor":4,"teks":"-- berkata"}]},{"nomor":"8","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kedudukan; keadaan; letak (sesuatu): [1] tidak sesuai dengan keadaannya [2] tidak pantas","contoh":[{"nomor":2,"teks":"di kantor itu ia sudah mendapat -- yang baik"},{"nomor":4,"teks":"tidak pada --nya"}]}],"terkait":{"kataTurunan":["bertempat","bertempat-tempat","bertempatan","ketempatan","menempati","menempatkan","penempat","penempatan","setempat","setempat-setempat","tempatan"],"gabunganKata":["tempat basah","tempat bertanya","tempat duduk penonton","tempat guring","tempat hati","tempat istirahat","tempat jin buang anak","tempat makanan otomatis","tempat minum kuda","tempat parkir","tempat pembuangan akhir","tempat semenda","tempat sirih","tempat tinggal","tempat tujuan","tempat tukang ladam"],"peribahasa":["akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun","anjing itu meski dirantai dengan rantai emas sekalipun, niscaya berulang-ulang juga ia ke tempat najis","anjing walau dirantai emas pergi juga ke tempat najis","beroleh lumpur di tempat yang kering","besar akar tempat bersila","elok lenggang di tempat datar","hujan tempat berteduh, panas tempat berlindung","lah sesak alam tempat diam, tak berbumi tempat tegak","mempertinggi tempat jatuh, memperdalam tempat kena","menahan jerat di tempat genting","orang kaya tempat meminta, orang pintar tempat bertanya","pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai)","perkawinan tempat mati","tempat makan jangan dibenahi","terban bumi tempat berpijak","tinggi banir tempat berlindung"],"idiom":["terban bumi tempat berpijak"]}}]}
+{
+  "word": "tempat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84464",
+      "nama": "tem.pat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dipakai untuk menaruh (menyimpan, meletakkan, dan sebagainya); wadah; bekas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- obat"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- tinta"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang (bidang, rumah, dan sebagainya) yang tersedia untuk melakukan sesuatu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- belajar"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- duduk"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang (bidang dan sebagainya) yang dipakai untuk menaruh (menyimpan, mengumpulkan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pembuangan sampah"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- sepeda"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ruang (bidang, rumah, daerah, dan sebagainya) yang didiami (ditinggali) atau ditempati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- kediaman"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- tinggal"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang tertentu dari suatu ruang (bidang, daerah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hal itu bergantung pada waktu dan --nya"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "negeri (kota, desa, daerah, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di beberapa -- dapat ditanam anggur"
+            }
+          ]
+        },
+        {
+          "nomor": "7",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang dapat (dipercaya) menampung (tentang isi hati, keluhan, pertanyaan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sehari-harian sayalah -- ia mencurahkan isi hatinya"
+            },
+            {
+              "nomor": 4,
+              "teks": "-- berkata"
+            }
+          ]
+        },
+        {
+          "nomor": "8",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kedudukan; keadaan; letak (sesuatu): [1] tidak sesuai dengan keadaannya [2] tidak pantas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "di kantor itu ia sudah mendapat -- yang baik"
+            },
+            {
+              "nomor": 4,
+              "teks": "tidak pada --nya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "bertempat",
+          "bertempat-tempat",
+          "bertempatan",
+          "ketempatan",
+          "menempati",
+          "menempatkan",
+          "penempat",
+          "penempatan",
+          "setempat",
+          "setempat-setempat",
+          "tempatan"
+        ],
+        "gabunganKata": [
+          "tempat basah",
+          "tempat bertanya",
+          "tempat duduk penonton",
+          "tempat guring",
+          "tempat hati",
+          "tempat istirahat",
+          "tempat jin buang anak",
+          "tempat makanan otomatis",
+          "tempat minum kuda",
+          "tempat parkir",
+          "tempat pembuangan akhir",
+          "tempat semenda",
+          "tempat sirih",
+          "tempat tinggal",
+          "tempat tujuan",
+          "tempat tukang ladam"
+        ],
+        "peribahasa": [
+          "akar terjumbai tempat siamang bergantung, dahan menganjur tempat tupai menegun",
+          "anjing itu meski dirantai dengan rantai emas sekalipun, niscaya berulang-ulang juga ia ke tempat najis",
+          "anjing walau dirantai emas pergi juga ke tempat najis",
+          "beroleh lumpur di tempat yang kering",
+          "besar akar tempat bersila",
+          "elok lenggang di tempat datar",
+          "hujan tempat berteduh, panas tempat berlindung",
+          "lah sesak alam tempat diam, tak berbumi tempat tegak",
+          "mempertinggi tempat jatuh, memperdalam tempat kena",
+          "menahan jerat di tempat genting",
+          "orang kaya tempat meminta, orang pintar tempat bertanya",
+          "pergi tempat bertanya, pulang tempat berberita (berkenaan dengan orang cerdik pandai)",
+          "perkawinan tempat mati",
+          "tempat makan jangan dibenahi",
+          "terban bumi tempat berpijak",
+          "tinggi banir tempat berlindung"
+        ],
+        "idiom": [
+          "terban bumi tempat berpijak"
+        ]
+      }
+    }
+  ]
+}

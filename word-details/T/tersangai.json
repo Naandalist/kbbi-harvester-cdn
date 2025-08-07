@@ -1,1 +1,53 @@
-{"word":"tersangai","authenticated":true,"entries":[{"id":"72004","nama":"ter.sa.ngai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"sudah disangai; sudah dipanaskan","contoh":[{"nomor":2,"teks":"nasi yang sudah ~ hendaknya disimpan di lemari supaya tidak dihinggapi lalat"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak laku (tentang gadis)","contoh":[{"nomor":2,"teks":"gadis tua itu dianggap ~ oleh penduduk sekampungnya karena terlalu bertingkah"}]}],"rootWord":"sangai²"}]}
+{
+  "word": "tersangai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "72004",
+      "nama": "ter.sa.ngai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sudah disangai; sudah dipanaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nasi yang sudah ~ hendaknya disimpan di lemari supaya tidak dihinggapi lalat"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak laku (tentang gadis)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gadis tua itu dianggap ~ oleh penduduk sekampungnya karena terlalu bertingkah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "sangai²"
+    }
+  ]
+}

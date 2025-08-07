@@ -1,1 +1,68 @@
-{"word":"tapin","authenticated":true,"entries":[{"id":"82674","nama":"ta.pin","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"taruhan (dalam sepak bola)","contoh":[]}]},{"id":"82675","nama":"ta.pin","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Asm","nama":"Asmat","tipe":"lainnya"}],"definisi":"tikar yang terbuat dari sematan daun sagu","contoh":[]}]},{"id":"101117","nama":"Ta.pin","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kabupaten di Provinsi Kalimantan Selatan","contoh":[]}]}]}
+{
+  "word": "tapin",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82674",
+      "nama": "ta.pin",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "taruhan (dalam sepak bola)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "82675",
+      "nama": "ta.pin",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Asm",
+              "nama": "Asmat",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tikar yang terbuat dari sematan daun sagu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "101117",
+      "nama": "Ta.pin",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kabupaten di Provinsi Kalimantan Selatan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

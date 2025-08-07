@@ -1,1 +1,65 @@
-{"word":"tapung","authenticated":true,"entries":[{"id":"82699","nama":"ta.pung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menapung","contoh":[]}],"terkait":{"kataTurunan":["menapung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"82701","nama":"ta.pung","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ tepung","contoh":[]}]},{"id":"82702","nama":"ta.pung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"baju khas (Bugis), panjang dan sempit","contoh":[]}]}]}
+{
+  "word": "tapung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "82699",
+      "nama": "ta.pung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menapung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menapung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "82701",
+      "nama": "ta.pung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ tepung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "82702",
+      "nama": "ta.pung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "baju khas (Bugis), panjang dan sempit",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"word":"terbuai","authenticated":true,"entries":[{"id":"12645","nama":"ter.bu.ai","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terayun","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"menjadi lupa akan hal lain (karena sesuatu); terlena (karena sesuatu)","contoh":[{"nomor":2,"teks":"kami berharap mudah-mudahan ia tidak ~ oleh asmara yang sedang membara di hatinya"}]}],"rootWord":"buai"}]}
+{
+  "word": "terbuai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "12645",
+      "nama": "ter.bu.ai",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terayun",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menjadi lupa akan hal lain (karena sesuatu); terlena (karena sesuatu)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kami berharap mudah-mudahan ia tidak ~ oleh asmara yang sedang membara di hatinya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "buai"
+    }
+  ]
+}

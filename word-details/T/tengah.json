@@ -1,1 +1,228 @@
-{"word":"tengah","authenticated":true,"entries":[{"id":"84757","nama":"te.ngah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat (arah, titik) di antara dua tepi (batas)","contoh":[{"nomor":2,"teks":"letakkan tempat bunga itu di -- meja"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daerah yang bukan pinggiran; pusat","contoh":[{"nomor":2,"teks":"rumahnya terletak di -- kota"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat atau wilayah yang jauh dari tepi","contoh":[{"nomor":2,"teks":"perahu itu meluncur ke -- laut"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sela-sela; antara (orang banyak, kumpulan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia menyelinap di -- penonton"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"paruh; perdua","contoh":[{"nomor":2,"teks":"-- pertama tahun ini hujan terus turun"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Olr","nama":"Olahraga","tipe":"lainnya"}],"definisi":"tempat (arah, titik) dekat garis tengah tubuh","contoh":[]}],"terkait":{"kataTurunan":["menengah","menengahi","mengetengahi","penengah","penengahan","pertengahan","setengah","setengah-setengah","tengahan"],"gabunganKata":["setengah lengan","tengah empat","tengah hari","tengah kanan","tengah kiri","tengah malam","tengah naik","tengah pekan","tengah pusat","tengah semester","tengah tahunan","tengah tapak bayang-bayang","tengah tiga ribu rupiah"],"peribahasa":["anggup-anggip bagai rumput di tengah jalan","bagai galah di tengah arus","bersuluh tengah hari (lagi terang lagi bersuluh)","disangka panas sampai petang, kiranya hujan tengah hari","gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah","gajah derum di tengah rumah","ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang","laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi","memasang pelita tengah hari","mencencang lauk tengah helat","menganggungkan bagai rumput tengah jalan","seperti bergalah di tengah arus","sudah ke tengah makan api","tengah tapak bayang-bayang"],"idiom":["bagai sambau di tengah jalan (yang rebah bangun karena terinjak)","mengacungkan jari tengah"]}},{"id":"84780","nama":"te.ngah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"sedang","contoh":[{"nomor":2,"teks":"seorang anak yang -- berdiri di tepi jalan, tiba-tiba terjatuh karena terserempet mobil"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"ketika; sementara","contoh":[{"nomor":2,"teks":"-- ia termenung, tiba-tiba tersentak hatinya karena teringat kakeknya yang telah meninggal dunia"}]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anggup-anggip bagai rumput di tengah jalan","bagai galah di tengah arus","bersuluh tengah hari (lagi terang lagi bersuluh)","disangka panas sampai petang, kiranya hujan tengah hari","gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah","gajah derum di tengah rumah","ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang","laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi","memasang pelita tengah hari","mencencang lauk tengah helat","menganggungkan bagai rumput tengah jalan","seperti bergalah di tengah arus","sudah ke tengah makan api","tengah tapak bayang-bayang"],"idiom":["bagai sambau di tengah jalan (yang rebah bangun karena terinjak)","mengacungkan jari tengah"]}}]}
+{
+  "word": "tengah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "84757",
+      "nama": "te.ngah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat (arah, titik) di antara dua tepi (batas)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "letakkan tempat bunga itu di -- meja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daerah yang bukan pinggiran; pusat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahnya terletak di -- kota"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat atau wilayah yang jauh dari tepi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perahu itu meluncur ke -- laut"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sela-sela; antara (orang banyak, kumpulan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia menyelinap di -- penonton"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paruh; perdua",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pertama tahun ini hujan terus turun"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Olr",
+              "nama": "Olahraga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tempat (arah, titik) dekat garis tengah tubuh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menengah",
+          "menengahi",
+          "mengetengahi",
+          "penengah",
+          "penengahan",
+          "pertengahan",
+          "setengah",
+          "setengah-setengah",
+          "tengahan"
+        ],
+        "gabunganKata": [
+          "setengah lengan",
+          "tengah empat",
+          "tengah hari",
+          "tengah kanan",
+          "tengah kiri",
+          "tengah malam",
+          "tengah naik",
+          "tengah pekan",
+          "tengah pusat",
+          "tengah semester",
+          "tengah tahunan",
+          "tengah tapak bayang-bayang",
+          "tengah tiga ribu rupiah"
+        ],
+        "peribahasa": [
+          "anggup-anggip bagai rumput di tengah jalan",
+          "bagai galah di tengah arus",
+          "bersuluh tengah hari (lagi terang lagi bersuluh)",
+          "disangka panas sampai petang, kiranya hujan tengah hari",
+          "gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah",
+          "gajah derum di tengah rumah",
+          "ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang",
+          "laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi",
+          "memasang pelita tengah hari",
+          "mencencang lauk tengah helat",
+          "menganggungkan bagai rumput tengah jalan",
+          "seperti bergalah di tengah arus",
+          "sudah ke tengah makan api",
+          "tengah tapak bayang-bayang"
+        ],
+        "idiom": [
+          "bagai sambau di tengah jalan (yang rebah bangun karena terinjak)",
+          "mengacungkan jari tengah"
+        ]
+      }
+    },
+    {
+      "id": "84780",
+      "nama": "te.ngah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sedang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seorang anak yang -- berdiri di tepi jalan, tiba-tiba terjatuh karena terserempet mobil"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ketika; sementara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ia termenung, tiba-tiba tersentak hatinya karena teringat kakeknya yang telah meninggal dunia"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anggup-anggip bagai rumput di tengah jalan",
+          "bagai galah di tengah arus",
+          "bersuluh tengah hari (lagi terang lagi bersuluh)",
+          "disangka panas sampai petang, kiranya hujan tengah hari",
+          "gajah berjuang sama gajah, pelanduk (kancil) mati di tengah-tengah",
+          "gajah derum di tengah rumah",
+          "ke atas tidak berpucuk, ke bawah tidak berurat, di tengah-tengah digirik kumbang",
+          "laksana mengaprit di tengah laut, dipukul ombak jatuh ke tepi",
+          "memasang pelita tengah hari",
+          "mencencang lauk tengah helat",
+          "menganggungkan bagai rumput tengah jalan",
+          "seperti bergalah di tengah arus",
+          "sudah ke tengah makan api",
+          "tengah tapak bayang-bayang"
+        ],
+        "idiom": [
+          "bagai sambau di tengah jalan (yang rebah bangun karena terinjak)",
+          "mengacungkan jari tengah"
+        ]
+      }
+    }
+  ]
+}

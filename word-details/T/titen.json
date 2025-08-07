@@ -1,1 +1,88 @@
-{"word":"titen","authenticated":true,"entries":[{"id":"86481","nama":"ti.ten","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"daun atau ranting-ranting kedelai yang luruh","contoh":[]}]},{"id":"112206","nama":"ti.ten","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"teliti sekali (tentang memeriksa)","contoh":[{"nomor":2,"teks":"nenek lebih -- daripada saya"}]}]},{"id":"231935","nama":"ti.ten","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"mudah ingat atau hapal","contoh":[{"nomor":2,"teks":"seseorang yang -- cocok dijadikan navigator"}]}]}]}
+{
+  "word": "titen",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86481",
+      "nama": "ti.ten",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "daun atau ranting-ranting kedelai yang luruh",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "112206",
+      "nama": "ti.ten",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "teliti sekali (tentang memeriksa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "nenek lebih -- daripada saya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "231935",
+      "nama": "ti.ten",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mudah ingat atau hapal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seseorang yang -- cocok dijadikan navigator"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

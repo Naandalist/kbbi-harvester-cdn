@@ -1,1 +1,65 @@
-{"word":"terlena","authenticated":true,"entries":[{"id":"48360","nama":"ter.le.na","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mengantuk lalu tidur; tertidur","contoh":[{"nomor":2,"teks":"malam tadi ia hanya dapat ~ empat jam saja"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlengah; terlalai","contoh":[{"nomor":2,"teks":"jagalah adikmu baik-baik jangan sampai ~"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat asyik; dengan asyiknya; bersenang-senang","contoh":[{"nomor":2,"teks":"ia ~ mendengar alunan musik"}]}],"rootWord":"lena"}]}
+{
+  "word": "terlena",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48360",
+      "nama": "ter.le.na",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengantuk lalu tidur; tertidur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "malam tadi ia hanya dapat ~ empat jam saja"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlengah; terlalai",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jagalah adikmu baik-baik jangan sampai ~"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat asyik; dengan asyiknya; bersenang-senang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia ~ mendengar alunan musik"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lena"
+    }
+  ]
+}

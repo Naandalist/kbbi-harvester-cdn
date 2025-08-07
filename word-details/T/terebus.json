@@ -1,1 +1,43 @@
-{"word":"terebus","authenticated":true,"entries":[{"id":"102191","nama":"te.re.bus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"dapat direbus","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"telah dalam keadaan direbus","contoh":[{"nomor":2,"teks":"seluruh daun dan batangnya ~"}]}],"rootWord":"rebus"}]}
+{
+  "word": "terebus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "102191",
+      "nama": "te.re.bus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dapat direbus",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telah dalam keadaan direbus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seluruh daun dan batangnya ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "rebus"
+    }
+  ]
+}

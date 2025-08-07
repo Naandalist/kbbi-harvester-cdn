@@ -1,1 +1,53 @@
-{"word":"terjepit","authenticated":true,"entries":[{"id":"98286","nama":"ter.je.pit","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"kena jepit","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak sengaja dijepit","contoh":[{"nomor":2,"teks":"tangannya ~ pintu"}]}],"rootWord":"jepit","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["bagai anjing terjepit di pagar","melepas anjing terjepit, setelah lepas ia menggigit","melepaskan anjing terjepit"],"idiom":[]}}]}
+{
+  "word": "terjepit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "98286",
+      "nama": "ter.je.pit",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kena jepit",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sengaja dijepit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tangannya ~ pintu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "jepit",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "bagai anjing terjepit di pagar",
+          "melepas anjing terjepit, setelah lepas ia menggigit",
+          "melepaskan anjing terjepit"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

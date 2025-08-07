@@ -1,1 +1,54 @@
-{"word":"triadik","authenticated":true,"entries":[{"id":"169885","nama":"tri.a.dik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tbs","nama":"Tata Busana","tipe":"lainnya"}],"definisi":"skema warna yang dibentuk dengan menarik garis segitiga pada roda warna","contoh":[]}]},{"id":"219846","nama":"tri.a.dik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"istilah dalam teori Peirce tentang tanda yang merujuk pada hubungan tiga elemen dari tanda","contoh":[]}]}]}
+{
+  "word": "triadik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "169885",
+      "nama": "tri.a.dik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tbs",
+              "nama": "Tata Busana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "skema warna yang dibentuk dengan menarik garis segitiga pada roda warna",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "219846",
+      "nama": "tri.a.dik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "istilah dalam teori Peirce tentang tanda yang merujuk pada hubungan tiga elemen dari tanda",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"word":"tilang","authenticated":true,"entries":[{"id":"85949","nama":"ti.lang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"bukti pelanggaran lalu lintas: dikenai bukti pelanggaran","contoh":[{"nomor":2,"teks":"hari ini telah diputuskan tiga belas perkara --"},{"nomor":4,"teks":"kena --"}]}],"terkait":{"kataTurunan":["menilang","penilang","penilangan","tertilang"],"gabunganKata":["tilang elektronik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tilang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "85949",
+      "nama": "ti.lang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bukti pelanggaran lalu lintas: dikenai bukti pelanggaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari ini telah diputuskan tiga belas perkara --"
+            },
+            {
+              "nomor": 4,
+              "teks": "kena --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menilang",
+          "penilang",
+          "penilangan",
+          "tertilang"
+        ],
+        "gabunganKata": [
+          "tilang elektronik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

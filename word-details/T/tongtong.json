@@ -1,1 +1,59 @@
-{"word":"tongtong","authenticated":true,"entries":[{"id":"86911","nama":"tong.tong","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kentungan","contoh":[{"nomor":2,"teks":"tanda waktu berbuka puasa di desa itu diberi tahu dengan membunyikan --"}]}]},{"id":"276386","nama":"tong.tong","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"mekar (pada bunga jagung)","contoh":[{"nomor":2,"teks":"bapak sedang mengecek bunga jagung yang belum --"}]}]}]}
+{
+  "word": "tongtong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "86911",
+      "nama": "tong.tong",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kentungan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tanda waktu berbuka puasa di desa itu diberi tahu dengan membunyikan --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "276386",
+      "nama": "tong.tong",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mekar (pada bunga jagung)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bapak sedang mengecek bunga jagung yang belum --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

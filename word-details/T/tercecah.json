@@ -1,1 +1,52 @@
-{"word":"tercecah","authenticated":true,"entries":[{"id":"14987","nama":"ter.ce.cah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tersentuh sedikit pada; kena sedikit pada","contoh":[{"nomor":2,"teks":"kepalanya hampir saja ~ ke tikar di hadapannya"},{"nomor":4,"teks":"buahnya jangan sampai ~ ke tanah"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tercelup sedikit","contoh":[{"nomor":2,"teks":"bunyi dayung ~ di air"}]}],"rootWord":"cecah"}]}
+{
+  "word": "tercecah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "14987",
+      "nama": "ter.ce.cah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersentuh sedikit pada; kena sedikit pada",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kepalanya hampir saja ~ ke tikar di hadapannya"
+            },
+            {
+              "nomor": 4,
+              "teks": "buahnya jangan sampai ~ ke tanah"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tercelup sedikit",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bunyi dayung ~ di air"
+            }
+          ]
+        }
+      ],
+      "rootWord": "cecah"
+    }
+  ]
+}

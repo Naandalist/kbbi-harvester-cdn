@@ -1,1 +1,66 @@
-{"word":"tumpat","authenticated":true,"entries":[{"id":"88042","nama":"tum.pat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"penuh padat (tentang ruang, rongga, dan sebagainya); penuh karena terjejal; mampat","contoh":[{"nomor":2,"teks":"kamar itu pun -- oleh buku"},{"nomor":4,"teks":"kota-kota sudah -- oleh pengungsi"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tersuntuk akal (hilang akal, tidak tahu apa yang harus dikerjakan)","contoh":[{"nomor":2,"teks":"pikirannya -- karena kehilangan anaknya"}]}],"terkait":{"kataTurunan":["menumpat","menumpatkan","tertumpat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "tumpat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88042",
+      "nama": "tum.pat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penuh padat (tentang ruang, rongga, dan sebagainya); penuh karena terjejal; mampat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kamar itu pun -- oleh buku"
+            },
+            {
+              "nomor": 4,
+              "teks": "kota-kota sudah -- oleh pengungsi"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tersuntuk akal (hilang akal, tidak tahu apa yang harus dikerjakan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pikirannya -- karena kehilangan anaknya"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menumpat",
+          "menumpatkan",
+          "tertumpat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,51 @@
-{"word":"terkocak","authenticated":true,"entries":[{"id":"42449","nama":"ter.ko.cak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terguncang; tergerak; terkacau","contoh":[]}],"rootWord":"kocak¹"},{"id":"214778","nama":"ter.ko.cak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"paling lucu; paling jenaka","contoh":[{"nomor":2,"teks":"film itu termasuk drama komedi ~ yang wajib ditonton"}]}],"rootWord":"kocak²"}]}
+{
+  "word": "terkocak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "42449",
+      "nama": "ter.ko.cak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terguncang; tergerak; terkacau",
+          "contoh": []
+        }
+      ],
+      "rootWord": "kocak¹"
+    },
+    {
+      "id": "214778",
+      "nama": "ter.ko.cak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "paling lucu; paling jenaka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "film itu termasuk drama komedi ~ yang wajib ditonton"
+            }
+          ]
+        }
+      ],
+      "rootWord": "kocak²"
+    }
+  ]
+}

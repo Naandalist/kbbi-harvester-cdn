@@ -1,1 +1,86 @@
-{"word":"tutus","authenticated":true,"entries":[{"id":"88614","nama":"tu.tus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"tali kecil-kecil dan pendek terbuat dari belahan bambu","contoh":[]}],"terkait":{"kataTurunan":["menutus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"216261","nama":"tu.tus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"keturunan dari ahli pengobatan yang disegani (memiliki kesamaan nasab)","contoh":[]}]},{"id":"290690","nama":"tu.tus","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"besi panjang sebagai pemadat mesiu dalam laras senapan lontak","contoh":[]}]}]}
+{
+  "word": "tutus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "88614",
+      "nama": "tu.tus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tali kecil-kecil dan pendek terbuat dari belahan bambu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "menutus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "216261",
+      "nama": "tu.tus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keturunan dari ahli pengobatan yang disegani (memiliki kesamaan nasab)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "290690",
+      "nama": "tu.tus",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "besi panjang sebagai pemadat mesiu dalam laras senapan lontak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

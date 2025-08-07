@@ -1,1 +1,61 @@
-{"word":"terlompat","authenticated":true,"entries":[{"id":"50080","nama":"ter.lom.pat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tiba-tiba atau tidak sengaja melompat; meloncat","contoh":[{"nomor":2,"teks":"mendengar berita tentang kelahiran anaknya yang pertama, ~lah ia dari tempat duduknya karena gembira"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"telanjur terucapkan (dengan tidak sengaja atau di luar kesadarannya)","contoh":[{"nomor":2,"teks":"kata-kata itu ~ begitu saja dari mulutnya"}]}],"rootWord":"lompat","terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["gajah terdorong karena gadingnya, harimau terlompat karena belangnya"],"idiom":[]}}]}
+{
+  "word": "terlompat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50080",
+      "nama": "ter.lom.pat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tiba-tiba atau tidak sengaja melompat; meloncat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mendengar berita tentang kelahiran anaknya yang pertama, ~lah ia dari tempat duduknya karena gembira"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "telanjur terucapkan (dengan tidak sengaja atau di luar kesadarannya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-kata itu ~ begitu saja dari mulutnya"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lompat",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "gajah terdorong karena gadingnya, harimau terlompat karena belangnya"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

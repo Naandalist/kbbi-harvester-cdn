@@ -1,1 +1,42 @@
-{"word":"tetrapod","authenticated":true,"entries":[{"id":"101204","nama":"tet.ra.pod","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perangkat yang terdiri atas empat kaki berbentuk batang yang menjulur dari titik pusat pada 120°, dapat dibuat menjadi tripod dengan cara menjorokkan kaki keempat secara vertikal ke atas","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tek","nama":"Teknik","tipe":"bidang_subjek"}],"definisi":"struktur beton berkaki empat yang digunakan sebagai pemecah ombak","contoh":[]}]}]}
+{
+  "word": "tetrapod",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "101204",
+      "nama": "tet.ra.pod",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perangkat yang terdiri atas empat kaki berbentuk batang yang menjulur dari titik pusat pada 120°, dapat dibuat menjadi tripod dengan cara menjorokkan kaki keempat secara vertikal ke atas",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tek",
+              "nama": "Teknik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "struktur beton berkaki empat yang digunakan sebagai pemecah ombak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

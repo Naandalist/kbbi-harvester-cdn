@@ -1,1 +1,48 @@
-{"word":"terlengah","authenticated":true,"entries":[{"id":"48412","nama":"ter.le.ngah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlalai; terlupa; tidak mengindahkan","contoh":[{"nomor":2,"teks":"ketika ~ sebentar, tasnya disambar pencopet"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"sangat asyik melakukan sesuatu hingga terlupa segala-galanya; terleka; terlena","contoh":[{"nomor":2,"teks":"karena ~ bermain kartu, tidak dilihatnya pencuri masuk ke dalam rumah"}]}],"rootWord":"lengah¹"}]}
+{
+  "word": "terlengah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48412",
+      "nama": "ter.le.ngah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlalai; terlupa; tidak mengindahkan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ketika ~ sebentar, tasnya disambar pencopet"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat asyik melakukan sesuatu hingga terlupa segala-galanya; terleka; terlena",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena ~ bermain kartu, tidak dilihatnya pencuri masuk ke dalam rumah"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lengah¹"
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"word":"tahunan","authenticated":true,"entries":[{"id":"81099","nama":"ta.hun.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"(yang terjadi) tiap-tiap tahun atau setahun sekali","contoh":[{"nomor":2,"teks":"rapat ~"},{"nomor":4,"teks":"laporan ~"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bertahun-tahun; lama sekali","contoh":[{"nomor":2,"teks":"sudah ~ lamanya ia meninggalkan kampung halaman"}]}],"rootWord":"tahun¹"}]}
+{
+  "word": "tahunan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "81099",
+      "nama": "ta.hun.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(yang terjadi) tiap-tiap tahun atau setahun sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rapat ~"
+            },
+            {
+              "nomor": 4,
+              "teks": "laporan ~"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bertahun-tahun; lama sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sudah ~ lamanya ia meninggalkan kampung halaman"
+            }
+          ]
+        }
+      ],
+      "rootWord": "tahun¹"
+    }
+  ]
+}
