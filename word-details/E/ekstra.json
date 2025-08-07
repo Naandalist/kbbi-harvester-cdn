@@ -1,1 +1,91 @@
-{"word":"ekstra","authenticated":true,"entries":[{"id":"21502","nama":"eks.tra-","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"bentuk terikat","nama":"-","tipe":"kelas_kata"}],"definisi":"di luar","contoh":[{"nomor":2,"teks":"ekstrakurikuler"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["ekstra hati-hati","ekstra keras","ekstra parlementer"],"peribahasa":[],"idiom":[]}},{"id":"21503","nama":"eks.tra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tambahan di luar yang resmi","contoh":[{"nomor":2,"teks":"gaji --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sangat; luar biasa","contoh":[{"nomor":2,"teks":"rute tersebut tergolong -- berat karena melewati rimba belantara"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["ekstra hati-hati","ekstra keras","ekstra parlementer"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ekstra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21502",
+      "nama": "eks.tra-",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "bentuk terikat",
+              "nama": "-",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "di luar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ekstrakurikuler"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ekstra hati-hati",
+          "ekstra keras",
+          "ekstra parlementer"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "21503",
+      "nama": "eks.tra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tambahan di luar yang resmi",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gaji --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sangat; luar biasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rute tersebut tergolong -- berat karena melewati rimba belantara"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "ekstra hati-hati",
+          "ekstra keras",
+          "ekstra parlementer"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

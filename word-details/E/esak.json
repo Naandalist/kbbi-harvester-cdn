@@ -1,1 +1,83 @@
-{"word":"esak","authenticated":true,"entries":[{"id":"22626","nama":"e.sak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit sesak napas","contoh":[]}],"terkait":{"kataTurunan":["mengesak","teresak","teresak-esak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"212603","nama":"e.sak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"celana dalam terlihat karena robek pada bagian selangkangan","contoh":[{"nomor":2,"teks":"dia -- ketika akan duduk"}]}]},{"id":"231421","nama":"e.sak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ss","nama":"Sasak","tipe":"lainnya"}],"definisi":"kerang yang tumbuh di pinggir tebing","contoh":[]}]}]}
+{
+  "word": "esak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22626",
+      "nama": "e.sak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit sesak napas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengesak",
+          "teresak",
+          "teresak-esak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "212603",
+      "nama": "e.sak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "celana dalam terlihat karena robek pada bagian selangkangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- ketika akan duduk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "231421",
+      "nama": "e.sak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ss",
+              "nama": "Sasak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kerang yang tumbuh di pinggir tebing",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

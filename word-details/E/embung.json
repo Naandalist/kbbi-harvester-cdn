@@ -1,1 +1,97 @@
-{"word":"embung","authenticated":true,"entries":[{"id":"21889","nama":"em.bung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"tidak mau","contoh":[{"nomor":2,"teks":"kalau kau --, saya tidak memaksa"}]}]},{"id":"21890","nama":"em.bung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"anak laki-laki yang sulung","contoh":[]}]},{"id":"21891","nama":"em.bung","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penampungan air hujan yang digunakan pada saat musim kemarau untuk tujuan irigasi dan air bersih","contoh":[]}]},{"id":"165925","nama":"em.bung","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"mencincang batang pohon di ladang yang sudah ditebang sebelumnya","contoh":[]}]}]}
+{
+  "word": "embung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21889",
+      "nama": "em.bung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "tidak mau",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau kau --, saya tidak memaksa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21890",
+      "nama": "em.bung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "anak laki-laki yang sulung",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "21891",
+      "nama": "em.bung",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penampungan air hujan yang digunakan pada saat musim kemarau untuk tujuan irigasi dan air bersih",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "165925",
+      "nama": "em.bung",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mencincang batang pohon di ladang yang sudah ditebang sebelumnya",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

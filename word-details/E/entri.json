@@ -1,1 +1,121 @@
-{"word":"entri","authenticated":true,"entries":[{"id":"22379","nama":"en.tri","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kata atau frasa dalam kamus beserta penjelasan maknanya dengan tambahan penjelasan berupa kelas kata, lafal, etimologi, contoh pemakaian, dan sebagainya","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"kata kepala; lema","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"butir informasi atau data yang dimasukkan dalam daftar, buku, komputer, dan sebagainya","contoh":[{"nomor":2,"teks":"aplikasi analisis bisnis ini berisi ratusan ribu -- di beberapa pangkalan data"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"proses perekaman sesuatu secara tertulis atau pada komputer; pengentrian","contoh":[{"nomor":2,"teks":"kesalahan -- data"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pintu atau jalan masuk","contoh":[{"nomor":2,"teks":"kata-kata ini menjadi -- bagi pembaca untuk mencari tulisan lewat jaringan komputer"}]}],"terkait":{"kataTurunan":["mengentri","pengentri","pengentrian"],"gabunganKata":["entri anonim","entri data","entri ganda","entri korporasi","entri leksikal","entri nama","entri pilihan","entri pokok","entri sekunder","entri seri","entri tambahan judul","entri terbalik"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "entri",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22379",
+      "nama": "en.tri",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kata atau frasa dalam kamus beserta penjelasan maknanya dengan tambahan penjelasan berupa kelas kata, lafal, etimologi, contoh pemakaian, dan sebagainya",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "kata kepala; lema",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "butir informasi atau data yang dimasukkan dalam daftar, buku, komputer, dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "aplikasi analisis bisnis ini berisi ratusan ribu -- di beberapa pangkalan data"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "proses perekaman sesuatu secara tertulis atau pada komputer; pengentrian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesalahan -- data"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pintu atau jalan masuk",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata-kata ini menjadi -- bagi pembaca untuk mencari tulisan lewat jaringan komputer"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengentri",
+          "pengentri",
+          "pengentrian"
+        ],
+        "gabunganKata": [
+          "entri anonim",
+          "entri data",
+          "entri ganda",
+          "entri korporasi",
+          "entri leksikal",
+          "entri nama",
+          "entri pilihan",
+          "entri pokok",
+          "entri sekunder",
+          "entri seri",
+          "entri tambahan judul",
+          "entri terbalik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

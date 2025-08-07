@@ -1,1 +1,62 @@
-{"word":"empas","authenticated":true,"entries":[{"id":"21966","nama":"em.pas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"banting","contoh":[]}],"terkait":{"kataTurunan":["empasan","mengempas","mengempas-empaskan","mengempaskan","terempas","terempas-empas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"237032","nama":"em.pas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"kelapa yang sudah diparut","contoh":[]}]}]}
+{
+  "word": "empas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21966",
+      "nama": "em.pas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "banting",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "empasan",
+          "mengempas",
+          "mengempas-empaskan",
+          "mengempaskan",
+          "terempas",
+          "terempas-empas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "237032",
+      "nama": "em.pas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kelapa yang sudah diparut",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

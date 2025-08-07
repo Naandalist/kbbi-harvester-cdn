@@ -1,1 +1,59 @@
-{"word":"emb","authenticated":true,"entries":[{"id":"92384","nama":"emb","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"embargo","contoh":[]}]},{"id":"93321","nama":"EMB","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gz","nama":"Ilmu Gizi","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"energi metabolisme basal","contoh":[]}]}]}
+{
+  "word": "emb",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "92384",
+      "nama": "emb",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "embargo",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "93321",
+      "nama": "EMB",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gz",
+              "nama": "Ilmu Gizi",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "energi metabolisme basal",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

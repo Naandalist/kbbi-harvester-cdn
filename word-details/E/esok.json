@@ -1,1 +1,60 @@
-{"word":"esok","authenticated":true,"entries":[{"id":"22649","nama":"e.sok","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hari pertama sesudah hari ini; besok","contoh":[{"nomor":2,"teks":"-- ia berangkat ke Bandung"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kemudian hari; kelak; nanti","contoh":[{"nomor":2,"teks":"menabunglah untuk hari --"}]}],"terkait":{"kataTurunan":["beresok","keesokan","mengesokkan"],"gabunganKata":["esok hari","esok lusa"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "esok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22649",
+      "nama": "e.sok",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hari pertama sesudah hari ini; besok",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- ia berangkat ke Bandung"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kemudian hari; kelak; nanti",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menabunglah untuk hari --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beresok",
+          "keesokan",
+          "mengesokkan"
+        ],
+        "gabunganKata": [
+          "esok hari",
+          "esok lusa"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

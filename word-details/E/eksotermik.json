@@ -1,1 +1,52 @@
-{"word":"eksotermik","authenticated":true,"entries":[{"id":"21416","nama":"ek.so.ter.mik","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"berkaitan dengan pelepasan panas saat terjadinya reaksi kimia","contoh":[{"nomor":2,"teks":"reaksi --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"berkenaan dengan reaksi inti yang melepaskan energi","contoh":[]}]}]}
+{
+  "word": "eksotermik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21416",
+      "nama": "ek.so.ter.mik",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berkaitan dengan pelepasan panas saat terjadinya reaksi kimia",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "reaksi --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "berkenaan dengan reaksi inti yang melepaskan energi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

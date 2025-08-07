@@ -1,1 +1,30 @@
-{"word":"ekg","authenticated":true,"entries":[{"id":"205553","nama":"EKG","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"elektrokardiogram","contoh":[]}]}]}
+{
+  "word": "ekg",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "205553",
+      "nama": "EKG",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "elektrokardiogram",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

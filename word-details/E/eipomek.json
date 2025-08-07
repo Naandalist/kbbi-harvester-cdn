@@ -1,1 +1,64 @@
-{"word":"eipomek","authenticated":true,"entries":[{"id":"1","nama":"ei.po.mek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa di bagian tengah Pegunungan Jayawijaya, Papua","contoh":[{"nomor":1,"teks":"mereka mengadakan kontak dengan masyarakat luar pada tahun 1970-an"},{"nomor":2,"teks":"warga -- masih menggunakan peralatan dari batu"}]}],"rootWord":"eipomekeipomek"},{"id":"2","nama":"ei.po.mek","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yang digunakan oleh suku Eipomek","contoh":[{"nomor":1,"teks":"bahasa -- memiliki keunikan tersendiri"},{"nomor":2,"teks":"penelitian tentang bahasa -- masih terus dilakukan"}]}],"rootWord":"eipomekeipomek"}]}
+{
+  "word": "eipomek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "1",
+      "nama": "ei.po.mek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa di bagian tengah Pegunungan Jayawijaya, Papua",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "mereka mengadakan kontak dengan masyarakat luar pada tahun 1970-an"
+            },
+            {
+              "nomor": 2,
+              "teks": "warga -- masih menggunakan peralatan dari batu"
+            }
+          ]
+        }
+      ],
+      "rootWord": "eipomekeipomek"
+    },
+    {
+      "id": "2",
+      "nama": "ei.po.mek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yang digunakan oleh suku Eipomek",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "bahasa -- memiliki keunikan tersendiri"
+            },
+            {
+              "nomor": 2,
+              "teks": "penelitian tentang bahasa -- masih terus dilakukan"
+            }
+          ]
+        }
+      ],
+      "rootWord": "eipomekeipomek"
+    }
+  ]
+}

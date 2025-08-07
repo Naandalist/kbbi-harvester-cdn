@@ -1,1 +1,80 @@
-{"word":"egol","authenticated":true,"entries":[{"id":"21134","nama":"e.gol","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial mengegol","contoh":[]}],"terkait":{"kataTurunan":["mengegol"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"217494","nama":"e.gol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sen","nama":"Kesenian","tipe":"lainnya"}],"definisi":"gerak berjalan atau tetap di tempat dengan menggoyangkan pinggul ke kiri dan ke kanan pada tari Bali","contoh":[]}]},{"id":"237564","nama":"e.gol","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sw","nama":"Sawai","tipe":"lainnya"}],"definisi":"mengupas kulit buah dengan cara mengiris ujungnya kemudian ditarik","contoh":[{"nomor":2,"teks":"saya -- mangga"}]}]}]}
+{
+  "word": "egol",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21134",
+      "nama": "e.gol",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial mengegol",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengegol"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "217494",
+      "nama": "e.gol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sen",
+              "nama": "Kesenian",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gerak berjalan atau tetap di tempat dengan menggoyangkan pinggul ke kiri dan ke kanan pada tari Bali",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "237564",
+      "nama": "e.gol",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sw",
+              "nama": "Sawai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengupas kulit buah dengan cara mengiris ujungnya kemudian ditarik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "saya -- mangga"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

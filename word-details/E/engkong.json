@@ -1,1 +1,36 @@
-{"word":"engkong","authenticated":true,"entries":[{"id":"22273","nama":"eng.kong","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Cn","nama":"Cina","tipe":"lainnya"}],"definisi":"kakek","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Xiamen 阿公 án kong 'kakek (dari pihak ayah)']","languages":["Hokkien dialek Xiamen"]}}]}
+{
+  "word": "engkong",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22273",
+      "nama": "eng.kong",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Cn",
+              "nama": "Cina",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kakek",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Xiamen 阿公 án kong 'kakek (dari pihak ayah)']",
+        "languages": [
+          "Hokkien dialek Xiamen"
+        ]
+      }
+    }
+  ]
+}

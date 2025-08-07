@@ -1,1 +1,55 @@
-{"word":"enkripsi","authenticated":true,"entries":[{"id":"22300","nama":"en.krip.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tulisan dalam kode; sandi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"metode pengodean data agar komputer tidak dapat membaca atau menggunakan data","contoh":[]}],"terkait":{"kataTurunan":["mengenkripsi","pengenkripsi","pengenkripsian","terenkripsi"],"gabunganKata":["enkripsi asimetris","enkripsi data","enkripsi homomorfik","enkripsi kriptografi","enkripsi simetris","enkripsi ujung ke ujung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "enkripsi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22300",
+      "nama": "en.krip.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tulisan dalam kode; sandi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "metode pengodean data agar komputer tidak dapat membaca atau menggunakan data",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengenkripsi",
+          "pengenkripsi",
+          "pengenkripsian",
+          "terenkripsi"
+        ],
+        "gabunganKata": [
+          "enkripsi asimetris",
+          "enkripsi data",
+          "enkripsi homomorfik",
+          "enkripsi kriptografi",
+          "enkripsi simetris",
+          "enkripsi ujung ke ujung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

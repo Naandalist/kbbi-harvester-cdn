@@ -1,1 +1,64 @@
-{"word":"eksitasi","authenticated":true,"entries":[{"id":"21368","nama":"ek.si.ta.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perangsangan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"keadaan terangsang","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"penambahan tenaga pada suatu sistem yang mengalihkannya dari keadaan dasarnya ke suatu keadaan dengan tenaga yang lebih tinggi","contoh":[]}],"terkait":{"kataTurunan":["tereksitasi"],"gabunganKata":["eksitasi sendiri"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "eksitasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21368",
+      "nama": "ek.si.ta.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perangsangan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keadaan terangsang",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penambahan tenaga pada suatu sistem yang mengalihkannya dari keadaan dasarnya ke suatu keadaan dengan tenaga yang lebih tinggi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "tereksitasi"
+        ],
+        "gabunganKata": [
+          "eksitasi sendiri"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

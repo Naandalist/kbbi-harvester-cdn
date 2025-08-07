@@ -1,1 +1,42 @@
-{"word":"eksemplar","authenticated":true,"entries":[{"id":"21340","nama":"ek.sem.plar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lembar; helai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata penggolong benda untuk buku (barang cetakan)","contoh":[{"nomor":2,"teks":"buku ini dicetak sebanyak 5.000 --"}]}]}]}
+{
+  "word": "eksemplar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21340",
+      "nama": "ek.sem.plar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lembar; helai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penggolong benda untuk buku (barang cetakan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "buku ini dicetak sebanyak 5.000 --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

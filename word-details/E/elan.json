@@ -1,1 +1,102 @@
-{"word":"elan","authenticated":true,"entries":[{"id":"21586","nama":"e.lan","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"semangat perjuangan (hidup, daya cipta) yang menyala-nyala","contoh":[{"nomor":2,"teks":"kita harus memberikan penghargaan terhadap -- gerakan itu"}]}]},{"id":"198211","nama":"e.lan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"isi bagian dalam batang sagu yang sudah dikeruk, berbentuk serbuk, siap disaring untuk diambil patinya","contoh":[]}]},{"id":"250505","nama":"e.lan","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"rambut halus pada bayi","contoh":[]}]},{"id":"123186","nama":"e.lan","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ht","nama":"Hitu","tipe":"lainnya"}],"definisi":"tangga yang terbuat dari kayu atau gaba-gaba","contoh":[{"nomor":2,"teks":"untuk memanjat pohon aren, kakak menggunakan --"}]}]}]}
+{
+  "word": "elan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21586",
+      "nama": "e.lan",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "semangat perjuangan (hidup, daya cipta) yang menyala-nyala",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kita harus memberikan penghargaan terhadap -- gerakan itu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "198211",
+      "nama": "e.lan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "isi bagian dalam batang sagu yang sudah dikeruk, berbentuk serbuk, siap disaring untuk diambil patinya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "250505",
+      "nama": "e.lan",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rambut halus pada bayi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "123186",
+      "nama": "e.lan",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ht",
+              "nama": "Hitu",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tangga yang terbuat dari kayu atau gaba-gaba",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk memanjat pohon aren, kakak menggunakan --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

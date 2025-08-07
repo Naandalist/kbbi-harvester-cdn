@@ -1,1 +1,83 @@
-{"word":"enteng","authenticated":true,"entries":[{"id":"22345","nama":"en.teng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak berat timbangannya; ringan","contoh":[{"nomor":2,"teks":"meja ini --, dapat saya angkat sendiri"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tidak perlu diperhitungkan; remeh","contoh":[{"nomor":2,"teks":"kesalahannya ialah bahwa ia menganggap -- lawannya"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak sukar; mudah","contoh":[{"nomor":2,"teks":"tugas yang tidak -- ini harus kita selesaikan bersama"}]}],"terkait":{"kataTurunan":["entengan","mengentengkan","seenteng","terenteng"],"gabunganKata":["enteng jodoh","enteng rezeki"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "enteng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22345",
+      "nama": "en.teng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berat timbangannya; ringan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "meja ini --, dapat saya angkat sendiri"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak perlu diperhitungkan; remeh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kesalahannya ialah bahwa ia menganggap -- lawannya"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak sukar; mudah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tugas yang tidak -- ini harus kita selesaikan bersama"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "entengan",
+          "mengentengkan",
+          "seenteng",
+          "terenteng"
+        ],
+        "gabunganKata": [
+          "enteng jodoh",
+          "enteng rezeki"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

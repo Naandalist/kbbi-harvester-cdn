@@ -1,1 +1,105 @@
-{"word":"ekstrak","authenticated":true,"entries":[{"id":"21507","nama":"eks.trak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kentalan; pati; sari","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kim","nama":"Kimia","tipe":"bidang_subjek"}],"definisi":"sediaan yang diperoleh dari jaringan hewan atau tumbuhan dengan menarik sari aktifnya dengan pelarut yang sesuai, kemudian memekatkannya hingga tahap tertentu","contoh":[]}],"terkait":{"kataTurunan":["mengekstrak","pengekstrak","pengekstrakan","terekstrak"],"gabunganKata":["ekstrak akar asparagus","ekstrak aorta","ekstrak aprikot","ekstrak aster","ekstrak bengkuang","ekstrak hati","ekstrak jenuh","ekstrak polifenol","ekstrak alergen","ekstrak biji","ekstrak botani","ekstrak buah","ekstrak tumbuhan"],"peribahasa":[],"idiom":[]}},{"id":"21511","nama":"eks.trak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Huk","nama":"Hukum","tipe":"bidang_subjek"}],"definisi":"salinan; petikan","contoh":[]}],"terkait":{"kataTurunan":["mengekstrak"],"gabunganKata":["ekstrak alergen","ekstrak biji","ekstrak botani","ekstrak buah","ekstrak tumbuhan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "ekstrak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21507",
+      "nama": "eks.trak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kentalan; pati; sari",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kim",
+              "nama": "Kimia",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "sediaan yang diperoleh dari jaringan hewan atau tumbuhan dengan menarik sari aktifnya dengan pelarut yang sesuai, kemudian memekatkannya hingga tahap tertentu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengekstrak",
+          "pengekstrak",
+          "pengekstrakan",
+          "terekstrak"
+        ],
+        "gabunganKata": [
+          "ekstrak akar asparagus",
+          "ekstrak aorta",
+          "ekstrak aprikot",
+          "ekstrak aster",
+          "ekstrak bengkuang",
+          "ekstrak hati",
+          "ekstrak jenuh",
+          "ekstrak polifenol",
+          "ekstrak alergen",
+          "ekstrak biji",
+          "ekstrak botani",
+          "ekstrak buah",
+          "ekstrak tumbuhan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "21511",
+      "nama": "eks.trak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Huk",
+              "nama": "Hukum",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "salinan; petikan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengekstrak"
+        ],
+        "gabunganKata": [
+          "ekstrak alergen",
+          "ekstrak biji",
+          "ekstrak botani",
+          "ekstrak buah",
+          "ekstrak tumbuhan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

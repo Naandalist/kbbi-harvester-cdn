@@ -1,1 +1,60 @@
-{"word":"eksplosi","authenticated":true,"entries":[{"id":"21462","nama":"eks.plo.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bunyi keras disebabkan oleh desakan keluar yang keras dan secara tiba-tiba; ledakan; letusan","contoh":[{"nomor":2,"teks":"-- gunung berapi (bom, granat, dan sebagainya)"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"pertambahan (penduduk dan sebagainya) secara cepat dan besar-besaran","contoh":[{"nomor":2,"teks":"-- penduduk ibu kota menimbulkan berbagai masalah"}]}],"terkait":{"kataTurunan":[],"gabunganKata":["eksplosi penduduk"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "eksplosi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21462",
+      "nama": "eks.plo.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bunyi keras disebabkan oleh desakan keluar yang keras dan secara tiba-tiba; ledakan; letusan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- gunung berapi (bom, granat, dan sebagainya)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pertambahan (penduduk dan sebagainya) secara cepat dan besar-besaran",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- penduduk ibu kota menimbulkan berbagai masalah"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "eksplosi penduduk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

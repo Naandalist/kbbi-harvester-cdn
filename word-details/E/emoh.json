@@ -1,1 +1,43 @@
-{"word":"emoh","authenticated":true,"entries":[{"id":"21929","nama":"e.moh","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"tidak mau; tidak suka","contoh":[{"nomor":2,"teks":"ia -- diajak berpesta pora"}]}],"terkait":{"kataTurunan":["mengemohi"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "emoh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21929",
+      "nama": "e.moh",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mau; tidak suka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia -- diajak berpesta pora"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengemohi"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,90 @@
-{"word":"engkuk","authenticated":true,"entries":[{"id":"164017","nama":"eng.kuk","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"memilin leher lawan dan menekannya ke bawah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"menekan ke bawah agar menjadi lurus (tentang kayu, pipa besi, dan sebagainya)","contoh":[]}]},{"id":"22278","nama":"eng.kuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"hama tanaman yang mengakibatkan tanaman mati kering","contoh":[{"nomor":2,"teks":"seratus hektare tanaman tembakau diserang hama --"}]}]},{"id":"22279","nama":"eng.kuk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"burung kecil yang berbunyi “kuk, kuk”〔Xantholaema rosea〕","contoh":[]}]}]}
+{
+  "word": "engkuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "164017",
+      "nama": "eng.kuk",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memilin leher lawan dan menekannya ke bawah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menekan ke bawah agar menjadi lurus (tentang kayu, pipa besi, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "22278",
+      "nama": "eng.kuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hama tanaman yang mengakibatkan tanaman mati kering",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seratus hektare tanaman tembakau diserang hama --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22279",
+      "nama": "eng.kuk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "burung kecil yang berbunyi “kuk, kuk”〔Xantholaema rosea〕",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

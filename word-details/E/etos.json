@@ -1,1 +1,65 @@
-{"word":"etos","authenticated":true,"entries":[{"id":"22734","nama":"e.tos","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pandangan hidup yang khas dari suatu golongan sosial","contoh":[]}],"terkait":{"kataTurunan":["beretos"],"gabunganKata":["etos kebudayaan","etos kerja"],"peribahasa":[],"idiom":[]}},{"id":"258763","nama":"e.tos","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mn","nama":"Minahasa","tipe":"bahasa"}],"definisi":"meniriskan beras yang telah dicuci untuk dijadikan tepung","contoh":[{"nomor":2,"teks":"ia setiap hari -- untuk mendapatkan bahan dasar kue"}]}]}]}
+{
+  "word": "etos",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22734",
+      "nama": "e.tos",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pandangan hidup yang khas dari suatu golongan sosial",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "beretos"
+        ],
+        "gabunganKata": [
+          "etos kebudayaan",
+          "etos kerja"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "258763",
+      "nama": "e.tos",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mn",
+              "nama": "Minahasa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "meniriskan beras yang telah dicuci untuk dijadikan tepung",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia setiap hari -- untuk mendapatkan bahan dasar kue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

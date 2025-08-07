@@ -1,1 +1,57 @@
-{"word":"emat","authenticated":true,"entries":[{"id":"21804","nama":"e.mat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"kata seru untuk menyatakan bahwa raja atau perdana menteri dalam permainan catur terancam bahaya","contoh":[]}],"terkait":{"kataTurunan":["mengemat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"21806","nama":"e.mat","nomor":"21","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"ukuran (baju, celana, dan sebagainya)","contoh":[]}]}]}
+{
+  "word": "emat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21804",
+      "nama": "e.mat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru untuk menyatakan bahwa raja atau perdana menteri dalam permainan catur terancam bahaya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengemat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "21806",
+      "nama": "e.mat",
+      "nomor": "21",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran (baju, celana, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

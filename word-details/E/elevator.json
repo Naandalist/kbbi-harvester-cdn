@@ -1,1 +1,50 @@
-{"word":"elevator","authenticated":true,"entries":[{"id":"21688","nama":"e.le.va.tor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lift","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Terb","nama":"Penerbangan","tipe":"lainnya"}],"definisi":"sirip gerak penstabil mendatar, digunakan untuk mengubah ketinggian terbang dan mengoreksi kedudukan melintang pesawat udara; kemudi angkat","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["elevator timba"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "elevator",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21688",
+      "nama": "e.le.va.tor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lift",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Terb",
+              "nama": "Penerbangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sirip gerak penstabil mendatar, digunakan untuk mengubah ketinggian terbang dan mengoreksi kedudukan melintang pesawat udara; kemudi angkat",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "elevator timba"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

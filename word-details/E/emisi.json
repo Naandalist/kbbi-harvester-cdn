@@ -1,1 +1,133 @@
-{"word":"emisi","authenticated":true,"entries":[{"id":"21923","nama":"e.mi.si","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pancaran","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Fis","nama":"Fisika","tipe":"bidang_subjek"}],"definisi":"pemancaran cahaya, panas, atau elektron dari suatu permukaan benda padat atau cair; pemancaran","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ek","nama":"Ekonomi dan Keuangan","tipe":"bidang_subjek"}],"definisi":"pengeluaran (surat berharga seperti saham, obligasi) oleh perusahaan pada saat perusahaan yang bersangkutan memerlukan tambahan modal","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Keu","nama":"Keuangan","tipe":"lainnya"}],"definisi":"pengeluaran mata uang logam atau kertas oleh bank sentral","contoh":[]}],"terkait":{"kataTurunan":["pengemisi"],"gabunganKata":["emisi efek","emisi lebih","emisi nuklir","emisi obligasi","emisi buangan","emisi global","emisi karbon","emisi kendaraan","emisi metana","emisi mobil","emisi pencemar","emisi polutan"],"peribahasa":[],"idiom":[]}},{"id":"21924","nama":"e.mi.si","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kandungan gas mesin yang dibuang ke udara","contoh":[]}],"terkait":{"kataTurunan":["pengemisi"],"gabunganKata":["emisi buangan","emisi global","emisi karbon","emisi kendaraan","emisi metana","emisi mobil","emisi pencemar","emisi polutan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "emisi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21923",
+      "nama": "e.mi.si",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pancaran",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Fis",
+              "nama": "Fisika",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pemancaran cahaya, panas, atau elektron dari suatu permukaan benda padat atau cair; pemancaran",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ek",
+              "nama": "Ekonomi dan Keuangan",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "pengeluaran (surat berharga seperti saham, obligasi) oleh perusahaan pada saat perusahaan yang bersangkutan memerlukan tambahan modal",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Keu",
+              "nama": "Keuangan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengeluaran mata uang logam atau kertas oleh bank sentral",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pengemisi"
+        ],
+        "gabunganKata": [
+          "emisi efek",
+          "emisi lebih",
+          "emisi nuklir",
+          "emisi obligasi",
+          "emisi buangan",
+          "emisi global",
+          "emisi karbon",
+          "emisi kendaraan",
+          "emisi metana",
+          "emisi mobil",
+          "emisi pencemar",
+          "emisi polutan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "21924",
+      "nama": "e.mi.si",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kandungan gas mesin yang dibuang ke udara",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pengemisi"
+        ],
+        "gabunganKata": [
+          "emisi buangan",
+          "emisi global",
+          "emisi karbon",
+          "emisi kendaraan",
+          "emisi metana",
+          "emisi mobil",
+          "emisi pencemar",
+          "emisi polutan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

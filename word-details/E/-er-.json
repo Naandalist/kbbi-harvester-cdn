@@ -1,1 +1,71 @@
-{"word":"-er-","authenticated":true,"entries":[{"id":"22488","nama":"-er-","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"infiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"alat","contoh":[{"nomor":2,"teks":"seruling"}]},{"nomor":"2","kelasKata":[{"kode":"infiks pembentuk nomina","nama":"-","tipe":"lainnya"}],"definisi":"yang memiliki, mengandung, atau bersifat","contoh":[{"nomor":2,"teks":"gerigi"}]}]},{"id":"22489","nama":"-er-","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"infiks","nama":"-","tipe":"lainnya"}],"definisi":"berulang (terus-menerus)","contoh":[{"nomor":2,"teks":"geresek"}]}]}]}
+{
+  "word": "-er-",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "22488",
+      "nama": "-er-",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "infiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "alat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seruling"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "infiks pembentuk nomina",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "yang memiliki, mengandung, atau bersifat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gerigi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22489",
+      "nama": "-er-",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "infiks",
+              "nama": "-",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berulang (terus-menerus)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "geresek"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

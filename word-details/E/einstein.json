@@ -1,1 +1,64 @@
-{"word":"einstein","authenticated":true,"entries":[{"id":"200504","nama":"E.in.ste.in","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ahli fisika dan matematika terkenal kelahiran Jerman, bernama lengkap Albert Einstein, salah satu ilmuwan terbesar sepanjang masa, penerima hadiah Nobel, terkenal atas pengembangan teori relativitas dan mekanika kuantum","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"atribut atau penyebutan yang menunjukkan teori dan prinsip yang diucapkan atau muncul dari karya Einstein","contoh":[{"nomor":2,"teks":"persamaan -- yang paling terkenal adalah rumus kesetaraan massa--energi E = mc²"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sebutan untuk orang yang genius (biasanya dalam bidang matematika atau fisika) yang sebanding dengan Einstein","contoh":[{"nomor":2,"teks":"dari ajang olimpiade fisika tersebut, lahirlah para -- muda"}]}]}]}
+{
+  "word": "einstein",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "200504",
+      "nama": "E.in.ste.in",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ahli fisika dan matematika terkenal kelahiran Jerman, bernama lengkap Albert Einstein, salah satu ilmuwan terbesar sepanjang masa, penerima hadiah Nobel, terkenal atas pengembangan teori relativitas dan mekanika kuantum",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "atribut atau penyebutan yang menunjukkan teori dan prinsip yang diucapkan atau muncul dari karya Einstein",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "persamaan -- yang paling terkenal adalah rumus kesetaraan massa--energi E = mc²"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sebutan untuk orang yang genius (biasanya dalam bidang matematika atau fisika) yang sebanding dengan Einstein",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dari ajang olimpiade fisika tersebut, lahirlah para -- muda"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

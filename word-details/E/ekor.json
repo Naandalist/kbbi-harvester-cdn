@@ -1,1 +1,231 @@
-{"word":"ekor","authenticated":true,"entries":[{"id":"21284","nama":"e.kor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian tubuh binatang dan sebagainya yang paling belakang, baik berupa sambungan dari tulang punggung maupun sebagai lekatan","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata penggolong untuk binatang","contoh":[{"nomor":2,"teks":"dua -- harimau"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"sesuatu yang rupanya (keadaannya) seperti ekor","contoh":[{"nomor":2,"teks":"-- layang-layang"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bagian yang di belakang sekali (tentang pesawat, pasukan, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- pasukan itu baru saja lewat di sini"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"akibat dari kejadian atau keadaan sebelumnya","contoh":[{"nomor":2,"teks":"perkara itu merupakan -- dari peristiwa semalam"}]},{"nomor":"6","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"orang yang harus ditanggung (diurus, dibiayai, dan sebagainya); tanggungan","contoh":[{"nomor":2,"teks":"dia harus bekerja keras karena --nya banyak"}]}],"terkait":{"kataTurunan":["berekor","berekor-ekor","mengekor","pengekor","seekor"],"gabunganKata":["ekor anjing","ekor barisan","ekor belangkas","ekor berita","ekor cambuk","ekor gemuk","ekor hangus","ekor kemacetan","ekor kok","ekor komet","ekor kucing","ekor kuda","ekor kuning","ekor kuning pisang","ekor lagu","ekor lipas","ekor magnet","ekor naga","ekor panah","ekor pegas","ekor pesawat","ekor pipi","ekor pulau","ekor tikus","ekor tupai"],"peribahasa":["anjing ditepuk, menjungkit ekor","anjing menyalak di ekor (pantat) gajah","anjing menyalak di ekor gajah","asal selamat ke seberang, biar bergantung di ekor (buaya)","bagai belut digetil ekor","bagai langau di ekor gajah","bagai pinang tua merah ekor","berkelahi di ekor alahan","habis minyak sepasu, ekor anjing takkan lurus","hendak meluruskan ekor anjing","jauh menyalak kuat, dekat mencawat ekor","mati puyuh hendakkan ekor","muka licin, ekor berkedal","mulut bagai ekor ayam diembus","muncung seperti ekor ayam","sembunyi tuma (kepala tersuruk), ekor kelihatan","sembunyi tuma (kepala tersuruk, ekor kelihatan)","sepuluh kapal datang, anjing pun bercawat ekor","seperti anjing bercawat ekor","seperti anjing terpanggang ekor","seperti ular mengutik-ngutik ekor"],"idiom":["efek ekor jas"]}},{"id":"168639","nama":"e.kor","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bnd","nama":"Banda","tipe":"lainnya"}],"definisi":"malam kedua puluh satu di bulan puasa","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["anjing ditepuk, menjungkit ekor","anjing menyalak di ekor (pantat) gajah","anjing menyalak di ekor gajah","asal selamat ke seberang, biar bergantung di ekor (buaya)","bagai belut digetil ekor","bagai langau di ekor gajah","bagai pinang tua merah ekor","berkelahi di ekor alahan","habis minyak sepasu, ekor anjing takkan lurus","hendak meluruskan ekor anjing","jauh menyalak kuat, dekat mencawat ekor","mati puyuh hendakkan ekor","muka licin, ekor berkedal","mulut bagai ekor ayam diembus","muncung seperti ekor ayam","sembunyi tuma (kepala tersuruk), ekor kelihatan","sembunyi tuma (kepala tersuruk, ekor kelihatan)","sepuluh kapal datang, anjing pun bercawat ekor","seperti anjing bercawat ekor","seperti anjing terpanggang ekor","seperti ular mengutik-ngutik ekor"],"idiom":["efek ekor jas"]}}]}
+{
+  "word": "ekor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "21284",
+      "nama": "e.kor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian tubuh binatang dan sebagainya yang paling belakang, baik berupa sambungan dari tulang punggung maupun sebagai lekatan",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata penggolong untuk binatang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dua -- harimau"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sesuatu yang rupanya (keadaannya) seperti ekor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- layang-layang"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bagian yang di belakang sekali (tentang pesawat, pasukan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- pasukan itu baru saja lewat di sini"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "akibat dari kejadian atau keadaan sebelumnya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "perkara itu merupakan -- dari peristiwa semalam"
+            }
+          ]
+        },
+        {
+          "nomor": "6",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "orang yang harus ditanggung (diurus, dibiayai, dan sebagainya); tanggungan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia harus bekerja keras karena --nya banyak"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berekor",
+          "berekor-ekor",
+          "mengekor",
+          "pengekor",
+          "seekor"
+        ],
+        "gabunganKata": [
+          "ekor anjing",
+          "ekor barisan",
+          "ekor belangkas",
+          "ekor berita",
+          "ekor cambuk",
+          "ekor gemuk",
+          "ekor hangus",
+          "ekor kemacetan",
+          "ekor kok",
+          "ekor komet",
+          "ekor kucing",
+          "ekor kuda",
+          "ekor kuning",
+          "ekor kuning pisang",
+          "ekor lagu",
+          "ekor lipas",
+          "ekor magnet",
+          "ekor naga",
+          "ekor panah",
+          "ekor pegas",
+          "ekor pesawat",
+          "ekor pipi",
+          "ekor pulau",
+          "ekor tikus",
+          "ekor tupai"
+        ],
+        "peribahasa": [
+          "anjing ditepuk, menjungkit ekor",
+          "anjing menyalak di ekor (pantat) gajah",
+          "anjing menyalak di ekor gajah",
+          "asal selamat ke seberang, biar bergantung di ekor (buaya)",
+          "bagai belut digetil ekor",
+          "bagai langau di ekor gajah",
+          "bagai pinang tua merah ekor",
+          "berkelahi di ekor alahan",
+          "habis minyak sepasu, ekor anjing takkan lurus",
+          "hendak meluruskan ekor anjing",
+          "jauh menyalak kuat, dekat mencawat ekor",
+          "mati puyuh hendakkan ekor",
+          "muka licin, ekor berkedal",
+          "mulut bagai ekor ayam diembus",
+          "muncung seperti ekor ayam",
+          "sembunyi tuma (kepala tersuruk), ekor kelihatan",
+          "sembunyi tuma (kepala tersuruk, ekor kelihatan)",
+          "sepuluh kapal datang, anjing pun bercawat ekor",
+          "seperti anjing bercawat ekor",
+          "seperti anjing terpanggang ekor",
+          "seperti ular mengutik-ngutik ekor"
+        ],
+        "idiom": [
+          "efek ekor jas"
+        ]
+      }
+    },
+    {
+      "id": "168639",
+      "nama": "e.kor",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bnd",
+              "nama": "Banda",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "malam kedua puluh satu di bulan puasa",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "anjing ditepuk, menjungkit ekor",
+          "anjing menyalak di ekor (pantat) gajah",
+          "anjing menyalak di ekor gajah",
+          "asal selamat ke seberang, biar bergantung di ekor (buaya)",
+          "bagai belut digetil ekor",
+          "bagai langau di ekor gajah",
+          "bagai pinang tua merah ekor",
+          "berkelahi di ekor alahan",
+          "habis minyak sepasu, ekor anjing takkan lurus",
+          "hendak meluruskan ekor anjing",
+          "jauh menyalak kuat, dekat mencawat ekor",
+          "mati puyuh hendakkan ekor",
+          "muka licin, ekor berkedal",
+          "mulut bagai ekor ayam diembus",
+          "muncung seperti ekor ayam",
+          "sembunyi tuma (kepala tersuruk), ekor kelihatan",
+          "sembunyi tuma (kepala tersuruk, ekor kelihatan)",
+          "sepuluh kapal datang, anjing pun bercawat ekor",
+          "seperti anjing bercawat ekor",
+          "seperti anjing terpanggang ekor",
+          "seperti ular mengutik-ngutik ekor"
+        ],
+        "idiom": [
+          "efek ekor jas"
+        ]
+      }
+    }
+  ]
+}
