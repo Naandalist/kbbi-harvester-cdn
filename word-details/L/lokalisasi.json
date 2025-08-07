@@ -1,1 +1,73 @@
-{"word":"lokalisasi","authenticated":true,"entries":[{"id":"49977","nama":"lo.ka.li.sa.si","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pembatasan pada suatu tempat atau lingkungan","contoh":[{"nomor":2,"teks":"-- wabah kolera"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Psi","nama":"Psikologi","tipe":"bidang_subjek"}],"definisi":"penempatan sumber-sumber stimulus tertentu","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tempat prostitusi","contoh":[]}],"terkait":{"kataTurunan":["melokalisasi","terlokalisasi","terlokalisasikan"],"gabunganKata":["lokalisasi lesi","lokalisasi otak","lokalisasi terselubung"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lokalisasi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49977",
+      "nama": "lo.ka.li.sa.si",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pembatasan pada suatu tempat atau lingkungan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- wabah kolera"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psi",
+              "nama": "Psikologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "penempatan sumber-sumber stimulus tertentu",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tempat prostitusi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melokalisasi",
+          "terlokalisasi",
+          "terlokalisasikan"
+        ],
+        "gabunganKata": [
+          "lokalisasi lesi",
+          "lokalisasi otak",
+          "lokalisasi terselubung"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

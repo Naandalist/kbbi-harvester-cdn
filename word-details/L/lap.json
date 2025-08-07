@@ -1,1 +1,80 @@
-{"word":"lap","authenticated":true,"entries":[{"id":"46886","nama":"lap","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penggosok (biasanya dari kain); penyeka; penghapus","contoh":[]}],"terkait":{"kataTurunan":["mengelap"],"gabunganKata":["lap kering","lap majun","lap mikrofiber"],"peribahasa":[],"idiom":[]}},{"id":"46888","nama":"lap","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"putaran (dalam balap mobil atau motor)","contoh":[{"nomor":2,"teks":"pada beberapa -- pertama ia memimpin di posisi terdepan"}]}]},{"id":"46889","nama":"lap","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jarak sepanjang kolam renang","contoh":[]}]}]}
+{
+  "word": "lap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46886",
+      "nama": "lap",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penggosok (biasanya dari kain); penyeka; penghapus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "mengelap"
+        ],
+        "gabunganKata": [
+          "lap kering",
+          "lap majun",
+          "lap mikrofiber"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46888",
+      "nama": "lap",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "putaran (dalam balap mobil atau motor)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pada beberapa -- pertama ia memimpin di posisi terdepan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46889",
+      "nama": "lap",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jarak sepanjang kolam renang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

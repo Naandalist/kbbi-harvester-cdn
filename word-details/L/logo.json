@@ -1,1 +1,108 @@
-{"word":"logo","authenticated":true,"entries":[{"id":"49949","nama":"lo.go","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"huruf atau lambang yang mengandung makna, terdiri atas satu kata atau lebih sebagai lambang atau nama perusahaan dan sebagainya","contoh":[]}],"terkait":{"kataTurunan":["berlogo"],"gabunganKata":["logo halal","logo sponsor"],"peribahasa":[],"idiom":[]}},{"id":"49950","nama":"lo.go","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"mainan anak-anak terbuat dari tempurung dibentuk bundar atau seperti layang-layang, diletakkan di tanah dan dilentingkan dengan sebilah bambu ke milik lawan","contoh":[]}]},{"id":"214713","nama":"lo.go","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mr","nama":"Mandar","tipe":"lainnya"}],"definisi":"rumah miniatur yang atapnya terbuat dari pohon sagu, dinding papan, lantai papan, dan terbuat dari balok-balok kayu berukuran sekitar 8 x 8 cm, tiang-tiangnya dililit dengan potongan-potongan seng yang berfungsi sebagai tempat menyimpan padi agar terhindar dari gangguan tikus","contoh":[]}]},{"id":"108435","nama":"Lo.go","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"bahasa pemrograman yang digunakan dalam mengajar pemrograman kepada anak-anak","contoh":[]}]}]}
+{
+  "word": "logo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49949",
+      "nama": "lo.go",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "huruf atau lambang yang mengandung makna, terdiri atas satu kata atau lebih sebagai lambang atau nama perusahaan dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlogo"
+        ],
+        "gabunganKata": [
+          "logo halal",
+          "logo sponsor"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49950",
+      "nama": "lo.go",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mainan anak-anak terbuat dari tempurung dibentuk bundar atau seperti layang-layang, diletakkan di tanah dan dilentingkan dengan sebilah bambu ke milik lawan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "214713",
+      "nama": "lo.go",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mr",
+              "nama": "Mandar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rumah miniatur yang atapnya terbuat dari pohon sagu, dinding papan, lantai papan, dan terbuat dari balok-balok kayu berukuran sekitar 8 x 8 cm, tiang-tiangnya dililit dengan potongan-potongan seng yang berfungsi sebagai tempat menyimpan padi agar terhindar dari gangguan tikus",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "108435",
+      "nama": "Lo.go",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bahasa pemrograman yang digunakan dalam mengajar pemrograman kepada anak-anak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

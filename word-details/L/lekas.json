@@ -1,1 +1,90 @@
-{"word":"lekas","authenticated":true,"entries":[{"id":"47914","nama":"le.kas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"tidak berlama-lama; dalam waktu yang singkat; cepat; segera","contoh":[{"nomor":2,"teks":"kalau kita kerjakan beramai-ramai, pekerjaan ini -- selesai"},{"nomor":4,"teks":"ia -- marah"}]}],"terkait":{"kataTurunan":["berlekas-lekas","berlekas-lekasan","lekas-lekas","melekaskan","memperlekas","selekas","selekas-lekasnya","selekasnya","melekas"],"gabunganKata":["lekas hilang","lekas luruh","lekas mungkin"],"peribahasa":["manis jangan lekas ditelan, pahit jangan lekas dimuntahkan"],"idiom":[]}},{"id":"47923","nama":"le.kas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"melekas","contoh":[]}],"terkait":{"kataTurunan":["melekas"],"gabunganKata":[],"peribahasa":["manis jangan lekas ditelan, pahit jangan lekas dimuntahkan"],"idiom":[]}}]}
+{
+  "word": "lekas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47914",
+      "nama": "le.kas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berlama-lama; dalam waktu yang singkat; cepat; segera",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau kita kerjakan beramai-ramai, pekerjaan ini -- selesai"
+            },
+            {
+              "nomor": 4,
+              "teks": "ia -- marah"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlekas-lekas",
+          "berlekas-lekasan",
+          "lekas-lekas",
+          "melekaskan",
+          "memperlekas",
+          "selekas",
+          "selekas-lekasnya",
+          "selekasnya",
+          "melekas"
+        ],
+        "gabunganKata": [
+          "lekas hilang",
+          "lekas luruh",
+          "lekas mungkin"
+        ],
+        "peribahasa": [
+          "manis jangan lekas ditelan, pahit jangan lekas dimuntahkan"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47923",
+      "nama": "le.kas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "melekas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melekas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "manis jangan lekas ditelan, pahit jangan lekas dimuntahkan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

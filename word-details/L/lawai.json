@@ -1,1 +1,78 @@
-{"word":"lawai","authenticated":true,"entries":[{"id":"47381","nama":"la.wai","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benang (tenun)","contoh":[]}]},{"id":"230299","nama":"la.wai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"kayu yang dipasang mendatar di antara kayu cagak pada konstruksi kelong","contoh":[]}]},{"id":"265279","nama":"la.wai","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"kawin lari","contoh":[{"nomor":2,"teks":"mereka -- karena tidak direstui orang tua"}]}]}]}
+{
+  "word": "lawai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47381",
+      "nama": "la.wai",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benang (tenun)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "230299",
+      "nama": "la.wai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu yang dipasang mendatar di antara kayu cagak pada konstruksi kelong",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265279",
+      "nama": "la.wai",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kawin lari",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "mereka -- karena tidak direstui orang tua"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

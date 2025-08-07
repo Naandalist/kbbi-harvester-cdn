@@ -1,1 +1,52 @@
-{"word":"lombok","authenticated":true,"entries":[{"id":"50049","nama":"lom.bok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cabai","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lombok padi"],"peribahasa":[],"idiom":[]}},{"id":"99745","nama":"Lom.bok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pulau di Kepulauan Nusa Tenggara, berbatasan dengan Selat Lombok di sebelah barat dan Selat Alas di sebelah timur, merupakan bagian dari Provinsi Nusa Tenggara Barat","contoh":[]}]}]}
+{
+  "word": "lombok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50049",
+      "nama": "lom.bok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cabai",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lombok padi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99745",
+      "nama": "Lom.bok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pulau di Kepulauan Nusa Tenggara, berbatasan dengan Selat Lombok di sebelah barat dan Selat Alas di sebelah timur, merupakan bagian dari Provinsi Nusa Tenggara Barat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

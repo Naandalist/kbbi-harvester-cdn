@@ -1,1 +1,157 @@
-{"word":"lapis","authenticated":true,"entries":[{"id":"46963","nama":"la.pis","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"susun; bagian","contoh":[{"nomor":2,"teks":"-- tanah yang di bawah terdiri atas pasir"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"saf; deretan; banjar","contoh":[{"nomor":2,"teks":"untuk pertahanan, pasukan terdiri atas lima --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"benda tipis yang digunakan untuk menyadur atau menyalut benda lain","contoh":[{"nomor":2,"teks":"-- hulu pisau (cincin, gelang, dan sebagainya) itu dibuat dari emas"}]}],"terkait":{"kataTurunan":["berlapis","berlapis-lapis","lapisan","melapis","melapisi","melapiskan","pelapis","pelapisan","selapis","selapisan"],"gabunganKata":["lapis antara","lapis aus","lapis baja","lapis difusi","lapis kedua","lapis monomolekul","lapis mutiara","lapis palaro","lapis penutup","lapis daging","lapis hula-hula","lapis india","lapis jongkong","lapis kukus Surabaya","lapis legit","lapis Surabaya","lapis talas"],"peribahasa":[],"idiom":[]}},{"id":"46997","nama":"la.pis","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"bersayat (tentang daging dan sebagainya); beriris-iris","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lapis daging","lapis hula-hula","lapis india","lapis jongkong","lapis kukus Surabaya","lapis legit","lapis Surabaya","lapis talas"],"peribahasa":[],"idiom":[]}},{"id":"235882","nama":"la.pis","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lp","nama":"Lampung","tipe":"lainnya"}],"definisi":"kain yang terletak di belakang pelaminan","contoh":[]}]}]}
+{
+  "word": "lapis",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46963",
+      "nama": "la.pis",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "susun; bagian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- tanah yang di bawah terdiri atas pasir"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saf; deretan; banjar",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "untuk pertahanan, pasukan terdiri atas lima --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "benda tipis yang digunakan untuk menyadur atau menyalut benda lain",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- hulu pisau (cincin, gelang, dan sebagainya) itu dibuat dari emas"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlapis",
+          "berlapis-lapis",
+          "lapisan",
+          "melapis",
+          "melapisi",
+          "melapiskan",
+          "pelapis",
+          "pelapisan",
+          "selapis",
+          "selapisan"
+        ],
+        "gabunganKata": [
+          "lapis antara",
+          "lapis aus",
+          "lapis baja",
+          "lapis difusi",
+          "lapis kedua",
+          "lapis monomolekul",
+          "lapis mutiara",
+          "lapis palaro",
+          "lapis penutup",
+          "lapis daging",
+          "lapis hula-hula",
+          "lapis india",
+          "lapis jongkong",
+          "lapis kukus Surabaya",
+          "lapis legit",
+          "lapis Surabaya",
+          "lapis talas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46997",
+      "nama": "la.pis",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bersayat (tentang daging dan sebagainya); beriris-iris",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lapis daging",
+          "lapis hula-hula",
+          "lapis india",
+          "lapis jongkong",
+          "lapis kukus Surabaya",
+          "lapis legit",
+          "lapis Surabaya",
+          "lapis talas"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "235882",
+      "nama": "la.pis",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lp",
+              "nama": "Lampung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kain yang terletak di belakang pelaminan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

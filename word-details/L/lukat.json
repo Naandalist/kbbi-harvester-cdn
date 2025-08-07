@@ -1,1 +1,105 @@
-{"word":"lukat","authenticated":true,"entries":[{"id":"50438","nama":"lu.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melukat","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["melukat","pelukatan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"113746","nama":"lu.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"jatuh sebelum tua (tentang buah-buahan)","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']","languages":["Jawa Kuno"]}},{"id":"261324","nama":"lu.kat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"mengupas kulit buah dengan tangan (tentang buah yang dagingnya tidak melekat pada kulit seperti pisang dan salak)","contoh":[{"nomor":2,"teks":"dia -- salak itu satu per satu"}]}],"etimologi":{"text":"[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "lukat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50438",
+      "nama": "lu.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melukat",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "melukat",
+          "pelukatan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "113746",
+      "nama": "lu.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "jatuh sebelum tua (tentang buah-buahan)",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "261324",
+      "nama": "lu.kat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mengupas kulit buah dengan tangan (tentang buah yang dagingnya tidak melekat pada kulit seperti pisang dan salak)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- salak itu satu per satu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lukat 'menghapus, membatalkan, menyerapah (tentang dosa, kutukan, sumpah); melepaskan, membersihkan, menyucikan; membebaskan, melepaskan, memperoleh kebebasan']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

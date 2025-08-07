@@ -1,1 +1,95 @@
-{"word":"langgam","authenticated":true,"entries":[{"id":"46531","nama":"lang.gam","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gaya; model; cara","contoh":[{"nomor":2,"teks":"-- permainannya khas, sukar ditiru orang lain"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"adat atau kebiasaan","contoh":[{"nomor":2,"teks":"-- orang di daerah itu kalau berkata dengan suara keras, tetapi hatinya baik dan suka berterus terang"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bentuk irama lagu (nyanyian)","contoh":[{"nomor":2,"teks":"penyanyi lagu pop belum tentu dapat menyanyikan lagu --"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ling","nama":"Linguistik","tipe":"bidang_subjek"}],"definisi":"ragam bahasa menurut sikap penutur dan jenis pemakaiannya","contoh":[]}],"etimologi":{"text":"[Sanskerta राग rāga n m 'warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan']","languages":["Sanskerta"]},"terkait":{"kataTurunan":[],"gabunganKata":["langgam arsitektural"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "langgam",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46531",
+      "nama": "lang.gam",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gaya; model; cara",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- permainannya khas, sukar ditiru orang lain"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "adat atau kebiasaan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- orang di daerah itu kalau berkata dengan suara keras, tetapi hatinya baik dan suka berterus terang"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bentuk irama lagu (nyanyian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "penyanyi lagu pop belum tentu dapat menyanyikan lagu --"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ling",
+              "nama": "Linguistik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "ragam bahasa menurut sikap penutur dan jenis pemakaiannya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta राग rāga n m 'warna, nada, harmoni, lagu, corak, melodi; nafsu, gairah; badan']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "langgam arsitektural"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

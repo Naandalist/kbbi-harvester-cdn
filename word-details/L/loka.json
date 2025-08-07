@@ -1,1 +1,83 @@
-{"word":"loka","authenticated":true,"entries":[{"id":"49967","nama":"lo.ka","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"dunia; tempat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"unit pelaksana teknis yang dipimpin oleh pejabat pengawas","contoh":[]}],"etimologi":{"text":"[Sanskerta लोक loka n m 'wilayah, ruang, tempat, distrik, komunitas, negara, dunia, alam semesta']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["meloka"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"49968","nama":"lo.ka","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial meloka","contoh":[]}],"etimologi":{"text":"[Sanskerta लोक loka n m 'wilayah, ruang, tempat, distrik, komunitas, negara, dunia, alam semesta']","languages":["Sanskerta"]},"terkait":{"kataTurunan":["meloka"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "loka",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49967",
+      "nama": "lo.ka",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dunia; tempat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "unit pelaksana teknis yang dipimpin oleh pejabat pengawas",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta लोक loka n m 'wilayah, ruang, tempat, distrik, komunitas, negara, dunia, alam semesta']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "meloka"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49968",
+      "nama": "lo.ka",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial meloka",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Sanskerta लोक loka n m 'wilayah, ruang, tempat, distrik, komunitas, negara, dunia, alam semesta']",
+        "languages": [
+          "Sanskerta"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "meloka"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

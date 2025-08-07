@@ -1,1 +1,96 @@
-{"word":"lalai","authenticated":true,"entries":[{"id":"46079","nama":"la.lai","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dan sebagainya); lengah","contoh":[{"nomor":2,"teks":"karena -- dompetnya hilang disambar copet"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"tidak ingat karena asyik melakukan sesuatu; terlupa","contoh":[{"nomor":2,"teks":"semuanya -- bermain kartu"}]}],"terkait":{"kataTurunan":["berlalai-lalai","kelalaian","melalaikan","memperlalaikan","pelalai","pelalaian","terlalai","terlalaikan"],"gabunganKata":[],"peribahasa":["ilmu dan akal dihalai-balai, itulah tanda orang yang lalai"],"idiom":[]}},{"id":"46091","nama":"la.lai","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"tali di kapal (perahu) sebagai pemutar kayu palang tempat menggantungkan layar","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["ilmu dan akal dihalai-balai, itulah tanda orang yang lalai"],"idiom":[]}}]}
+{
+  "word": "lalai",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46079",
+      "nama": "la.lai",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dan sebagainya); lengah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena -- dompetnya hilang disambar copet"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak ingat karena asyik melakukan sesuatu; terlupa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semuanya -- bermain kartu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlalai-lalai",
+          "kelalaian",
+          "melalaikan",
+          "memperlalaikan",
+          "pelalai",
+          "pelalaian",
+          "terlalai",
+          "terlalaikan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ilmu dan akal dihalai-balai, itulah tanda orang yang lalai"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46091",
+      "nama": "la.lai",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tali di kapal (perahu) sebagai pemutar kayu palang tempat menggantungkan layar",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "ilmu dan akal dihalai-balai, itulah tanda orang yang lalai"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

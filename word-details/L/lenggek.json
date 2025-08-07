@@ -1,1 +1,61 @@
-{"word":"lenggek","authenticated":true,"entries":[{"id":"48477","nama":"leng.gek","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tingkat; susun","contoh":[{"nomor":2,"teks":"rumah itu dua --"}]}],"terkait":{"kataTurunan":["berlenggek","berlenggek-lenggek","memperlenggekkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48481","nama":"leng.gek","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial berlenggek-lenggek","contoh":[]}],"terkait":{"kataTurunan":["berlenggek-lenggek"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lenggek",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48477",
+      "nama": "leng.gek",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tingkat; susun",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumah itu dua --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlenggek",
+          "berlenggek-lenggek",
+          "memperlenggekkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48481",
+      "nama": "leng.gek",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial berlenggek-lenggek",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlenggek-lenggek"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

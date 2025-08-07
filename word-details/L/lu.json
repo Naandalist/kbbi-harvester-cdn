@@ -1,1 +1,66 @@
-{"word":"lu","authenticated":true,"entries":[{"id":"50274","nama":"lu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kamu; lo","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Tong'an 汝 lú 'kamu']","languages":["Hokkien dialek Tong'an"]}},{"id":"96073","nama":"LU","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"lintang utara","contoh":[]}],"etimologi":{"text":"[Hokkien dialek Tong'an 汝 lú 'kamu']","languages":["Hokkien dialek Tong'an"]}}]}
+{
+  "word": "lu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50274",
+      "nama": "lu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kamu; lo",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Tong'an 汝 lú 'kamu']",
+        "languages": [
+          "Hokkien dialek Tong'an"
+        ]
+      }
+    },
+    {
+      "id": "96073",
+      "nama": "LU",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lintang utara",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Hokkien dialek Tong'an 汝 lú 'kamu']",
+        "languages": [
+          "Hokkien dialek Tong'an"
+        ]
+      }
+    }
+  ]
+}

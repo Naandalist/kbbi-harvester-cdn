@@ -1,1 +1,77 @@
-{"word":"lanjung","authenticated":true,"entries":[{"id":"46720","nama":"lan.jung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kecil tinggi (tentang batang tebu, pohon pinang, dan sebagainya); kecil panjang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"tinggi","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lanjung baturus"],"peribahasa":[],"idiom":[]}},{"id":"46721","nama":"lan.jung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bjr","nama":"Banjar","tipe":"bahasa"}],"definisi":"bakul besar dari rotan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lanjung baturus"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lanjung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46720",
+      "nama": "lan.jung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kecil tinggi (tentang batang tebu, pohon pinang, dan sebagainya); kecil panjang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tinggi",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lanjung baturus"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46721",
+      "nama": "lan.jung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bjr",
+              "nama": "Banjar",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bakul besar dari rotan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lanjung baturus"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

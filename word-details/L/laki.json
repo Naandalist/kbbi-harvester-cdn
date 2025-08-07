@@ -1,1 +1,100 @@
-{"word":"laki","authenticated":true,"entries":[{"id":"45971","nama":"la.ki","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"suami (imbangan bini)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pria","contoh":[]}],"terkait":{"kataTurunan":["berlaki","kelaki-lakian","kelakian","laki-laki","lelaki","memperlaki","memperlakikan"],"gabunganKata":["laki bini","laki padi"],"peribahasa":["laki pulang kelaparan, dagang lalu ditanakkan","menanti laki pulang maling"],"idiom":[]}},{"id":"209753","nama":"LAKI","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pust","nama":"Ilmu Perpustakaan dan Dokumentasi","tipe":"lainnya"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"laporan audit kearsipan internal (laporan yang disusun oleh pimpinan pencipta arsip berdasarkan hasil audit sistem kearsipan internal dan atau laporan hasil audit pengelolaan arsip aktif yang dilaksanakan di lingkungannya)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["laki pulang kelaparan, dagang lalu ditanakkan","menanti laki pulang maling"],"idiom":[]}}]}
+{
+  "word": "laki",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45971",
+      "nama": "la.ki",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suami (imbangan bini)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pria",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlaki",
+          "kelaki-lakian",
+          "kelakian",
+          "laki-laki",
+          "lelaki",
+          "memperlaki",
+          "memperlakikan"
+        ],
+        "gabunganKata": [
+          "laki bini",
+          "laki padi"
+        ],
+        "peribahasa": [
+          "laki pulang kelaparan, dagang lalu ditanakkan",
+          "menanti laki pulang maling"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "209753",
+      "nama": "LAKI",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pust",
+              "nama": "Ilmu Perpustakaan dan Dokumentasi",
+              "tipe": "lainnya"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "laporan audit kearsipan internal (laporan yang disusun oleh pimpinan pencipta arsip berdasarkan hasil audit sistem kearsipan internal dan atau laporan hasil audit pengelolaan arsip aktif yang dilaksanakan di lingkungannya)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "laki pulang kelaparan, dagang lalu ditanakkan",
+          "menanti laki pulang maling"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

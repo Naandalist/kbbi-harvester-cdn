@@ -1,1 +1,76 @@
-{"word":"lenceng","authenticated":true,"entries":[{"id":"48370","nama":"len.ceng","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melenceng","contoh":[]}],"terkait":{"kataTurunan":["melenceng","pelencengan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"295247","nama":"len.ceng","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Psr","nama":"Pasir (Paser)","tipe":"lainnya"}],"definisi":"agak encer","contoh":[{"nomor":2,"teks":"santan ini -- sehingga kutambah dengan susu"}]}]},{"id":"48372","nama":"len.ceng","nomor":"","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ lencang","contoh":[]}]}]}
+{
+  "word": "lenceng",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48370",
+      "nama": "len.ceng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melenceng",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melenceng",
+          "pelencengan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "295247",
+      "nama": "len.ceng",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Psr",
+              "nama": "Pasir (Paser)",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "agak encer",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "santan ini -- sehingga kutambah dengan susu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48372",
+      "nama": "len.ceng",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ lencang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

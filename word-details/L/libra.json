@@ -1,1 +1,47 @@
-{"word":"libra","authenticated":true,"entries":[{"id":"49152","nama":"Lib.ra","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"rasi bintang di belahan langit selatan khatulistiwa","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astrol","nama":"Astrologi","tipe":"lainnya"}],"definisi":"zodiak ke-7 yang digambarkan dengan neraca sebagai lambang bagi orang yang dilahirkan antara 23 September dan 22 Oktober; Tula; Mizan","contoh":[]}]}]}
+{
+  "word": "libra",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49152",
+      "nama": "Lib.ra",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rasi bintang di belahan langit selatan khatulistiwa",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astrol",
+              "nama": "Astrologi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "zodiak ke-7 yang digambarkan dengan neraca sebagai lambang bagi orang yang dilahirkan antara 23 September dan 22 Oktober; Tula; Mizan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

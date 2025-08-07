@@ -1,1 +1,107 @@
-{"word":"lantas","authenticated":true,"entries":[{"id":"46808","nama":"lan.tas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"adv","nama":"Adverbia","tipe":"kelas_kata"}],"definisi":"langsung; terus","contoh":[{"nomor":2,"teks":"begitu datang, dia -- masuk"}]},{"nomor":"2","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"}],"definisi":"lalu; kemudian","contoh":[{"nomor":2,"teks":"sesudah berenang, -- mereka makan dengan lahap"}]}],"terkait":{"kataTurunan":["berlantas","berlantasan","melantas","melantaskan","terlantas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"46816","nama":"lan.tas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Als","nama":"Alas","tipe":"lainnya"}],"definisi":"menyeberangi air dengan berjalan kaki","contoh":[]}]},{"id":"203829","nama":"lan.tas","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"panjang dan lurus (tentang tongkat atau balok)","contoh":[]}]}]}
+{
+  "word": "lantas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46808",
+      "nama": "lan.tas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "adv",
+              "nama": "Adverbia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "langsung; terus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "begitu datang, dia -- masuk"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lalu; kemudian",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sesudah berenang, -- mereka makan dengan lahap"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlantas",
+          "berlantasan",
+          "melantas",
+          "melantaskan",
+          "terlantas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46816",
+      "nama": "lan.tas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Als",
+              "nama": "Alas",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyeberangi air dengan berjalan kaki",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203829",
+      "nama": "lan.tas",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "panjang dan lurus (tentang tongkat atau balok)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

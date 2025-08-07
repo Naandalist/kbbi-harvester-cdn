@@ -1,1 +1,86 @@
-{"word":"lengar","authenticated":true,"entries":[{"id":"48444","nama":"le.ngar","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berasa pening, pusing (ketika hendak tidur dan sebagainya)","contoh":[{"nomor":2,"teks":"seperti -- rasanya mendengar bunyi-bunyian yang tidak beraturan itu"}]}],"terkait":{"kataTurunan":["terlengar"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"214907","nama":"le.ngar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lebar (tentang dahi)","contoh":[]}]},{"id":"252954","nama":"le.ngar","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Hut","nama":"Kehutanan","tipe":"lainnya"}],"definisi":"lekukan pada batang kayu yang umumnya disebabkan oleh kebakaran dan lain-lain pada waktu pertumbuhan","contoh":[]}]}]}
+{
+  "word": "lengar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48444",
+      "nama": "le.ngar",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasa pening, pusing (ketika hendak tidur dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "seperti -- rasanya mendengar bunyi-bunyian yang tidak beraturan itu"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terlengar"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "214907",
+      "nama": "le.ngar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lebar (tentang dahi)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "252954",
+      "nama": "le.ngar",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Hut",
+              "nama": "Kehutanan",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lekukan pada batang kayu yang umumnya disebabkan oleh kebakaran dan lain-lain pada waktu pertumbuhan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

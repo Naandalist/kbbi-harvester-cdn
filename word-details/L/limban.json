@@ -1,1 +1,54 @@
-{"word":"limban","authenticated":true,"entries":[{"id":"49392","nama":"lim.ban","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"jembatan kecil untuk pejalan kaki; titian","contoh":[]}]},{"id":"113903","nama":"lim.ban","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"danur","contoh":[{"nomor":2,"teks":"-- jenazah itu dialirkan ke dalam tanah melalui sebatang bambu"}]}]}]}
+{
+  "word": "limban",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49392",
+      "nama": "lim.ban",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "jembatan kecil untuk pejalan kaki; titian",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "113903",
+      "nama": "lim.ban",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "danur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- jenazah itu dialirkan ke dalam tanah melalui sebatang bambu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

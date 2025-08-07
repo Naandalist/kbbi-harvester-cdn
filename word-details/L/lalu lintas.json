@@ -1,1 +1,78 @@
-{"word":"lalu lintas","authenticated":true,"entries":[{"id":"46132","nama":"la.lu lin.tas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"(berjalan) bolak-balik; hilir mudik","contoh":[{"nomor":2,"teks":"banyak kendaraan -- di jalan raya"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perihal perjalanan di jalan dan sebagainya","contoh":[{"nomor":2,"teks":"pedagang-pedagang di tepi jalan sangat mengganggu --"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perhubungan antara sebuah tempat dengan tempat yang lain (dengan jalan pelayaran, kereta api, dan sebagainya)","contoh":[{"nomor":2,"teks":"-- di Kalimantan banyak dilakukan melalui sungai"}]}],"terkait":{"kataTurunan":["berlalu lintas","kelalulintasan","melalulintaskan","perlalulintasan"],"gabunganKata":["lalu lintas devisa","lalu lintas giral"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lalu lintas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46132",
+      "nama": "la.lu lin.tas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "(berjalan) bolak-balik; hilir mudik",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "banyak kendaraan -- di jalan raya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perihal perjalanan di jalan dan sebagainya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pedagang-pedagang di tepi jalan sangat mengganggu --"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perhubungan antara sebuah tempat dengan tempat yang lain (dengan jalan pelayaran, kereta api, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- di Kalimantan banyak dilakukan melalui sungai"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlalu lintas",
+          "kelalulintasan",
+          "melalulintaskan",
+          "perlalulintasan"
+        ],
+        "gabunganKata": [
+          "lalu lintas devisa",
+          "lalu lintas giral"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

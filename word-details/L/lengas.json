@@ -1,1 +1,82 @@
-{"word":"lengas","authenticated":true,"entries":[{"id":"48446","nama":"le.ngas","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berair (seperti hidung anjing, tangan berpeluh)","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mengandung air (tentang hawa dan sebagainya); lembap","contoh":[]}],"terkait":{"kataTurunan":["kelengasan","melengas","melengaskan"],"gabunganKata":["lengas bawaan","lengas bebas","lengas tanah","lengas total","lengas udara"],"peribahasa":[],"idiom":[]}},{"id":"142571","nama":"le.ngas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"terlalu kotor (tentang tempat)","contoh":[{"nomor":2,"teks":"rumahnya -- sehingga tidak bisa segera ditempati"}]}]}]}
+{
+  "word": "lengas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48446",
+      "nama": "le.ngas",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berair (seperti hidung anjing, tangan berpeluh)",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mengandung air (tentang hawa dan sebagainya); lembap",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kelengasan",
+          "melengas",
+          "melengaskan"
+        ],
+        "gabunganKata": [
+          "lengas bawaan",
+          "lengas bebas",
+          "lengas tanah",
+          "lengas total",
+          "lengas udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "142571",
+      "nama": "le.ngas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "terlalu kotor (tentang tempat)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rumahnya -- sehingga tidak bisa segera ditempati"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

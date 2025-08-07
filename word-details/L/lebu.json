@@ -1,1 +1,52 @@
-{"word":"lebu","authenticated":true,"entries":[{"id":"164115","nama":"le.bu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"debu","contoh":[{"nomor":2,"teks":"maka -- duli pun berbangkit ke udara, siang cuaca menjadi kelam-kabut seperti gerhana matahari"}]},{"nomor":"2","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"},{"kode":"kl","nama":"Klasik","tipe":"kelas_kata"}],"definisi":"saya; hamba","contoh":[]}]}]}
+{
+  "word": "lebu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "164115",
+      "nama": "le.bu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "debu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "maka -- duli pun berbangkit ke udara, siang cuaca menjadi kelam-kabut seperti gerhana matahari"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kl",
+              "nama": "Klasik",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "saya; hamba",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

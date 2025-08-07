@@ -1,1 +1,55 @@
-{"word":"lumayan","authenticated":true,"entries":[{"id":"50526","nama":"lu.ma.yan","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"agak banyak; sedang; cukup juga","contoh":[{"nomor":2,"teks":"jumlahnya tidak banyak, tetapi --"},{"nomor":4,"teks":"pangkatnya tinggi dengan gaji --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"agak baik (cantik, pandai, dan sebagainya)","contoh":[{"nomor":2,"teks":"tubuhnya tinggi semampai, parasnya --"},{"nomor":4,"teks":"permainannya --, tidak terlalu jelek"}]}]}]}
+{
+  "word": "lumayan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50526",
+      "nama": "lu.ma.yan",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "agak banyak; sedang; cukup juga",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jumlahnya tidak banyak, tetapi --"
+            },
+            {
+              "nomor": 4,
+              "teks": "pangkatnya tinggi dengan gaji --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "agak baik (cantik, pandai, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tubuhnya tinggi semampai, parasnya --"
+            },
+            {
+              "nomor": 4,
+              "teks": "permainannya --, tidak terlalu jelek"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

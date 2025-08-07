@@ -1,1 +1,129 @@
-{"word":"liat","authenticated":true,"entries":[{"id":"49119","nama":"li.at","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lemah (tidak kaku), tetapi tidak mudah patah atau putus; kenyal","contoh":[{"nomor":2,"teks":"daging yang --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"pekat; lekat sekali","contoh":[{"nomor":2,"teks":"lempung (tanah) ini sangat --"},{"nomor":4,"teks":"adonan ini -- sekali"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak mudah kalah","contoh":[]},{"nomor":"4","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"sukar atau segan membayar utang","contoh":[]}],"terkait":{"kataTurunan":["meliat"],"gabunganKata":[],"peribahasa":["jangat liat kurang panggang"],"idiom":[]}},{"id":"49120","nama":"li.at","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"kering (sehingga tanaman tidak tumbuh)","contoh":[{"nomor":2,"teks":"sawah -- karena musim kemarau panjang"}]}],"terkait":{"kataTurunan":["meliat"],"gabunganKata":[],"peribahasa":["jangat liat kurang panggang"],"idiom":[]}}]}
+{
+  "word": "liat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49119",
+      "nama": "li.at",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lemah (tidak kaku), tetapi tidak mudah patah atau putus; kenyal",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "daging yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekat; lekat sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lempung (tanah) ini sangat --"
+            },
+            {
+              "nomor": 4,
+              "teks": "adonan ini -- sekali"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak mudah kalah",
+          "contoh": []
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sukar atau segan membayar utang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meliat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jangat liat kurang panggang"
+        ],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49120",
+      "nama": "li.at",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kering (sehingga tanaman tidak tumbuh)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sawah -- karena musim kemarau panjang"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meliat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "jangat liat kurang panggang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

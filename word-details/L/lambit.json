@@ -1,1 +1,73 @@
-{"word":"lambit","authenticated":true,"entries":[{"id":"46208","nama":"lam.bit","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tangguk besar untuk menyerok udang","contoh":[]}]},{"id":"157211","nama":"lam.bit","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tubin","contoh":[{"nomor":2,"teks":"besok, lusa, tulat, lalu --"}]}]},{"id":"190695","nama":"lam.bit","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Klb","nama":"Kalabra","tipe":"lainnya"}],"definisi":"tikar dari kulit kayu","contoh":[]}]}]}
+{
+  "word": "lambit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46208",
+      "nama": "lam.bit",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tangguk besar untuk menyerok udang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "157211",
+      "nama": "lam.bit",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tubin",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "besok, lusa, tulat, lalu --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "190695",
+      "nama": "lam.bit",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Klb",
+              "nama": "Kalabra",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tikar dari kulit kayu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

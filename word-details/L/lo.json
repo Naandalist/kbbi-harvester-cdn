@@ -1,1 +1,155 @@
-{"word":"lo","authenticated":true,"entries":[{"id":"49890","nama":"lo","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"p","nama":"Partikel","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kata seru menyatakan heran, terperanjat, dan sebagainya","contoh":[]}]},{"id":"49891","nama":"lo","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"pron","nama":"Pronomina","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"kamu; lu","contoh":[]}]},{"id":"99739","nama":"lo","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"buah majemuk semu yang unsur-unsurnya tersembunyi dalam rongga penyangga bunga-bunganya yang berfusi","contoh":[]}]},{"id":"119121","nama":"lo","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Aln","nama":"Alune","tipe":"lainnya"}],"definisi":"pangkal parang","contoh":[]}]},{"id":"261136","nama":"lo","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"melipat pakaian jemuran yang telah kering","contoh":[{"nomor":2,"teks":"adik -- sebelum baju-baju itu disetrika"}]}]},{"id":"261553","nama":"LO","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"laporan operasional","contoh":[]}]}]}
+{
+  "word": "lo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49890",
+      "nama": "lo",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "p",
+              "nama": "Partikel",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata seru menyatakan heran, terperanjat, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "49891",
+      "nama": "lo",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "pron",
+              "nama": "Pronomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kamu; lu",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "99739",
+      "nama": "lo",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buah majemuk semu yang unsur-unsurnya tersembunyi dalam rongga penyangga bunga-bunganya yang berfusi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "119121",
+      "nama": "lo",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Aln",
+              "nama": "Alune",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pangkal parang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "261136",
+      "nama": "lo",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "melipat pakaian jemuran yang telah kering",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "adik -- sebelum baju-baju itu disetrika"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "261553",
+      "nama": "LO",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "laporan operasional",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

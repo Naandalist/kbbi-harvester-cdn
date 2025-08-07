@@ -1,1 +1,76 @@
-{"word":"lautan","authenticated":true,"entries":[{"id":"47363","nama":"la.ut.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"laut yang luas sekali; osean; samudra","contoh":[{"nomor":2,"teks":"~ Hindia"},{"nomor":4,"teks":"~ Pasifik"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"yang besar (banyak) sekali","contoh":[{"nomor":2,"teks":"~ api"},{"nomor":4,"teks":"~ manusia"}]}],"rootWord":"laut¹","terkait":{"kataTurunan":[],"gabunganKata":["lautan manusia","lautan pasir","Lautan Teduh"],"peribahasa":["besar berudu di kubangan, besar buaya di lautan","kuman di seberang lautan tampak, gajah di pelupuk mata tidak tampak","lubuk akal lautan (tepian) ilmu (budi)","padang perahu di lautan, padang hati dipikirkan"],"idiom":[]}}]}
+{
+  "word": "lautan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47363",
+      "nama": "la.ut.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "laut yang luas sekali; osean; samudra",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ Hindia"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ Pasifik"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "yang besar (banyak) sekali",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "~ api"
+            },
+            {
+              "nomor": 4,
+              "teks": "~ manusia"
+            }
+          ]
+        }
+      ],
+      "rootWord": "laut¹",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lautan manusia",
+          "lautan pasir",
+          "Lautan Teduh"
+        ],
+        "peribahasa": [
+          "besar berudu di kubangan, besar buaya di lautan",
+          "kuman di seberang lautan tampak, gajah di pelupuk mata tidak tampak",
+          "lubuk akal lautan (tepian) ilmu (budi)",
+          "padang perahu di lautan, padang hati dipikirkan"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

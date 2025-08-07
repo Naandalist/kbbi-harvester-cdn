@@ -1,1 +1,71 @@
-{"word":"la","authenticated":true,"entries":[{"id":"45543","nama":"la","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-6 pada urutan tangga nada diatonik, dilambangkan dengan angka 6","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mus","nama":"Musik","tipe":"bidang_subjek"}],"definisi":"nada ke-5 pada urutan tangga nada pentatonik, dilambangkan dengan angka 5","contoh":[]}]},{"id":"212841","nama":"la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"nama huruf ke-10 abjad Jawa","contoh":[]}]}]}
+{
+  "word": "la",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45543",
+      "nama": "la",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-6 pada urutan tangga nada diatonik, dilambangkan dengan angka 6",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mus",
+              "nama": "Musik",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "nada ke-5 pada urutan tangga nada pentatonik, dilambangkan dengan angka 5",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "212841",
+      "nama": "la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "nama huruf ke-10 abjad Jawa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

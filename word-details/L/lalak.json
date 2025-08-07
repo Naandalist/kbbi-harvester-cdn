@@ -1,1 +1,62 @@
-{"word":"lalak","authenticated":true,"entries":[{"id":"46092","nama":"la.lak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"melalak","contoh":[]}],"terkait":{"kataTurunan":["melalak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"165429","nama":"la.lak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tj","nama":"Tunjung","tipe":"lainnya"}],"definisi":"putik buah durian","contoh":[]}]}]}
+{
+  "word": "lalak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46092",
+      "nama": "la.lak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melalak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melalak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "165429",
+      "nama": "la.lak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tj",
+              "nama": "Tunjung",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "putik buah durian",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

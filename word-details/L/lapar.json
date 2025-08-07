@@ -1,1 +1,87 @@
-{"word":"lapar","authenticated":true,"entries":[{"id":"46938","nama":"la.par","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berasa ingin makan (karena perut kosong)","contoh":[{"nomor":2,"teks":"gerak-geriknya seperti harimau --"}]}],"terkait":{"kataTurunan":["berlapar","kelaparan","melaparkan","pelapar"],"gabunganKata":["lapar mata"],"peribahasa":["laksana antah lemukut, lapar sangat baru berguna","malu makan, perut lapar","orang haus diberi air, orang lapar diberi nasi","seperti anjing lapar mendapat tulang, daging segumpal dan sekeping apam"],"idiom":["lapar kemenangan"]}},{"id":"214703","nama":"la.par","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mr","nama":"Mandar","tipe":"lainnya"}],"definisi":"dataran rendah","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":[],"peribahasa":["laksana antah lemukut, lapar sangat baru berguna","malu makan, perut lapar","orang haus diberi air, orang lapar diberi nasi","seperti anjing lapar mendapat tulang, daging segumpal dan sekeping apam"],"idiom":["lapar kemenangan"]}}]}
+{
+  "word": "lapar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46938",
+      "nama": "la.par",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berasa ingin makan (karena perut kosong)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "gerak-geriknya seperti harimau --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlapar",
+          "kelaparan",
+          "melaparkan",
+          "pelapar"
+        ],
+        "gabunganKata": [
+          "lapar mata"
+        ],
+        "peribahasa": [
+          "laksana antah lemukut, lapar sangat baru berguna",
+          "malu makan, perut lapar",
+          "orang haus diberi air, orang lapar diberi nasi",
+          "seperti anjing lapar mendapat tulang, daging segumpal dan sekeping apam"
+        ],
+        "idiom": [
+          "lapar kemenangan"
+        ]
+      }
+    },
+    {
+      "id": "214703",
+      "nama": "la.par",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mr",
+              "nama": "Mandar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "dataran rendah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [],
+        "peribahasa": [
+          "laksana antah lemukut, lapar sangat baru berguna",
+          "malu makan, perut lapar",
+          "orang haus diberi air, orang lapar diberi nasi",
+          "seperti anjing lapar mendapat tulang, daging segumpal dan sekeping apam"
+        ],
+        "idiom": [
+          "lapar kemenangan"
+        ]
+      }
+    }
+  ]
+}

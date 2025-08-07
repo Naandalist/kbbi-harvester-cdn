@@ -1,1 +1,102 @@
-{"word":"lagar","authenticated":true,"entries":[{"id":"202591","nama":"la.gar","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"mengendarai kuda tanpa pelana","contoh":[]}]},{"id":"215783","nama":"la.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"membuka lahan dengan cara membakar hutan","contoh":[{"nomor":2,"teks":"tindakan -- tidak dibenarkan karena dapat mengakibatkan polusi udara"}]}]},{"id":"217196","nama":"la.gar","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"golongan masyarakat yang kurang menyukai perubahan dan bersikap apatis terhadap hal-hal yang baru","contoh":[]}]},{"id":"138574","nama":"la.gar","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mn","nama":"Minahasa","tipe":"bahasa"}],"definisi":"babi hutan jantan dewasa","contoh":[]}]}]}
+{
+  "word": "lagar",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "202591",
+      "nama": "la.gar",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "mengendarai kuda tanpa pelana",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "215783",
+      "nama": "la.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membuka lahan dengan cara membakar hutan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tindakan -- tidak dibenarkan karena dapat mengakibatkan polusi udara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "217196",
+      "nama": "la.gar",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "golongan masyarakat yang kurang menyukai perubahan dan bersikap apatis terhadap hal-hal yang baru",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "138574",
+      "nama": "la.gar",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mn",
+              "nama": "Minahasa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "babi hutan jantan dewasa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"word":"lantik","authenticated":true,"entries":[{"id":"46819","nama":"lan.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melantik","contoh":[]}],"terkait":{"kataTurunan":["lantikan","melantik","pelantik","pelantikan","terlantik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"46824","nama":"lan.tik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"bengkok","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"lentik","contoh":[]}]}]}
+{
+  "word": "lantik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46819",
+      "nama": "lan.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melantik",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "lantikan",
+          "melantik",
+          "pelantik",
+          "pelantikan",
+          "terlantik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46824",
+      "nama": "lan.tik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bengkok",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lentik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

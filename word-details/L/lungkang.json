@@ -1,1 +1,86 @@
-{"word":"lungkang","authenticated":true,"entries":[{"id":"50647","nama":"lung.kang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"daerah aliran air tempat kecepatan arus berkurang yang memberikan suatu habitat menguntungkan untuk plankton; selokan; parit","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lungkang gen"],"peribahasa":[],"idiom":[]}},{"id":"236276","nama":"lung.kang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"daging durian","contoh":[]}]},{"id":"243336","nama":"lung.kang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"membelah durian mentah dengan parang","contoh":[{"nomor":2,"teks":"-- durian supaya isinya cepat terambil"}]}]}]}
+{
+  "word": "lungkang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50647",
+      "nama": "lung.kang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "daerah aliran air tempat kecepatan arus berkurang yang memberikan suatu habitat menguntungkan untuk plankton; selokan; parit",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lungkang gen"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "236276",
+      "nama": "lung.kang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daging durian",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "243336",
+      "nama": "lung.kang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "membelah durian mentah dengan parang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- durian supaya isinya cepat terambil"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

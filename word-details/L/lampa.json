@@ -1,1 +1,59 @@
-{"word":"lampa","authenticated":true,"entries":[{"id":"115936","nama":"lam.pa","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"berguling-guling di lantai dengan tangan dan kaki telentang","contoh":[{"nomor":2,"teks":"kalau sedang merengek adikku sering --"}]}]},{"id":"158013","nama":"lam.pa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mg","nama":"Manggarai","tipe":"lainnya"}],"definisi":"penyakit pada limpa","contoh":[]}]}]}
+{
+  "word": "lampa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "115936",
+      "nama": "lam.pa",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "berguling-guling di lantai dengan tangan dan kaki telentang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau sedang merengek adikku sering --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "158013",
+      "nama": "lam.pa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mg",
+              "nama": "Manggarai",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "penyakit pada limpa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

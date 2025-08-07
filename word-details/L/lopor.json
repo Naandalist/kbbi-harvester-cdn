@@ -1,1 +1,54 @@
-{"word":"lopor","authenticated":true,"entries":[{"id":"50202","nama":"lo.por","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"bagian rantai antara jangkar dan segel pertama yang panjangnya kira-kira sama dengan panjang ulup jangkar","contoh":[]}]},{"id":"133467","nama":"lo.por","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"orang yang bekerja untuk mendampingi dan menghentikan kuda","contoh":[]}]}]}
+{
+  "word": "lopor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50202",
+      "nama": "lo.por",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "bagian rantai antara jangkar dan segel pertama yang panjangnya kira-kira sama dengan panjang ulup jangkar",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "133467",
+      "nama": "lo.por",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "orang yang bekerja untuk mendampingi dan menghentikan kuda",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

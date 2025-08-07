@@ -1,1 +1,56 @@
-{"word":"lanus","authenticated":true,"entries":[{"id":"46870","nama":"la.nus","nomor":"1","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial melanus","contoh":[]}],"terkait":{"kataTurunan":["melanus"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"46872","nama":"la.nus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"kurang tenaga (tentang anak kecil) karena belum waktunya sudah disapih","contoh":[{"nomor":2,"teks":"kalau sudah mengikuti program KB, tidak akan ada anak-anak yang --"}]}]}]}
+{
+  "word": "lanus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46870",
+      "nama": "la.nus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial melanus",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melanus"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46872",
+      "nama": "la.nus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kurang tenaga (tentang anak kecil) karena belum waktunya sudah disapih",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau sudah mengikuti program KB, tidak akan ada anak-anak yang --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"lengung","authenticated":true,"entries":[{"id":"48582","nama":"le.ngung","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melengung","contoh":[]}],"terkait":{"kataTurunan":["melengung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48584","nama":"le.ngung","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"melengung","contoh":[]}],"terkait":{"kataTurunan":["melengung"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lengung",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48582",
+      "nama": "le.ngung",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melengung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melengung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48584",
+      "nama": "le.ngung",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melengung",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melengung"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

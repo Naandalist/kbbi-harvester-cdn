@@ -1,1 +1,81 @@
-{"word":"laru","authenticated":true,"entries":[{"id":"47160","nama":"la.ru","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bibit atau biang kapang yang digunakan dalam fermentasi","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"benda (ragi) yang dicampurkan ke dalam nira (cuka dan sebagainya) supaya rasanya berubah","contoh":[]}],"terkait":{"kataTurunan":["melaru"],"gabunganKata":["laru tempe"],"peribahasa":[],"idiom":[]}},{"id":"211311","nama":"la.ru","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pintu geser","contoh":[]}]}]}
+{
+  "word": "laru",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47160",
+      "nama": "la.ru",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bibit atau biang kapang yang digunakan dalam fermentasi",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "benda (ragi) yang dicampurkan ke dalam nira (cuka dan sebagainya) supaya rasanya berubah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melaru"
+        ],
+        "gabunganKata": [
+          "laru tempe"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "211311",
+      "nama": "la.ru",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pintu geser",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

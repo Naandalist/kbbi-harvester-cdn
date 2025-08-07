@@ -1,1 +1,54 @@
-{"word":"lom","authenticated":true,"entries":[{"id":"186804","nama":"lom","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MBa","nama":"Melayu Bangka","tipe":"lainnya"}],"definisi":"kata penggolong untuk menyebut setiap satu biji (beserta daging buahnya) yang merupakan bagian dari satu buah utuh yang memiliki banyak biji, seperti durian, nangka, dan cempedak","contoh":[{"nomor":2,"teks":"karena mengidap darah tinggi, baru makan tujuh -- durian saja dia sudah merasa pusing"}]}]},{"id":"99743","nama":"Lom","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yang mendiami daerah Kabupaten Bangka Utara, Sumatra; Belom; Mapor; Mapur","contoh":[]}]}]}
+{
+  "word": "lom",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "186804",
+      "nama": "lom",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MBa",
+              "nama": "Melayu Bangka",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kata penggolong untuk menyebut setiap satu biji (beserta daging buahnya) yang merupakan bagian dari satu buah utuh yang memiliki banyak biji, seperti durian, nangka, dan cempedak",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena mengidap darah tinggi, baru makan tujuh -- durian saja dia sudah merasa pusing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99743",
+      "nama": "Lom",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yang mendiami daerah Kabupaten Bangka Utara, Sumatra; Belom; Mapor; Mapur",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,97 @@
-{"word":"lucu","authenticated":true,"entries":[{"id":"50368","nama":"lu.cu","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"menggelikan hati; menimbulkan tertawa; jenaka","contoh":[{"nomor":2,"teks":"cerita ini -- sekali"},{"nomor":4,"teks":"tukang lawaknya tidak --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"comel; imut; menggemaskan","contoh":[{"nomor":2,"teks":"bayi itu -- sekali"}]},{"nomor":"3","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"cak","nama":"Cakapan","tipe":"kelas_kata"}],"definisi":"elok dan menarik hati","contoh":[{"nomor":2,"teks":"tas ini -- banget!"}]}],"etimologi":{"text":"[Jawa Kuno lucu 'lucu']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["berlucu","kelucuan","lucu-lucuan","melucu","selucu","terlucu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lucu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50368",
+      "nama": "lu.cu",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menggelikan hati; menimbulkan tertawa; jenaka",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cerita ini -- sekali"
+            },
+            {
+              "nomor": 4,
+              "teks": "tukang lawaknya tidak --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "comel; imut; menggemaskan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bayi itu -- sekali"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "cak",
+              "nama": "Cakapan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "elok dan menarik hati",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tas ini -- banget!"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lucu 'lucu']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berlucu",
+          "kelucuan",
+          "lucu-lucuan",
+          "melucu",
+          "selucu",
+          "terlucu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

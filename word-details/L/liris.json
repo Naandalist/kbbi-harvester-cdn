@@ -1,1 +1,44 @@
-{"word":"liris","authenticated":true,"entries":[{"id":"49803","nama":"li.ris","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"emosional (tentang sajak, lagu, dan sebagainya); penuh perasaan","contoh":[]}]},{"id":"49804","nama":"li.ris","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"corak batik","contoh":[]}]}]}
+{
+  "word": "liris",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49803",
+      "nama": "li.ris",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "emosional (tentang sajak, lagu, dan sebagainya); penuh perasaan",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "49804",
+      "nama": "li.ris",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "corak batik",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

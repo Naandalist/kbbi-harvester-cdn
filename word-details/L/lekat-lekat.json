@@ -1,1 +1,57 @@
-{"word":"lekat-lekat","authenticated":true,"entries":[{"id":"47926","nama":"le.kat-le.kat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lekat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ki","nama":"kiasan","tipe":"kelas_kata"}],"definisi":"tidak berantara, terus-menerus, berlama-lama (tentang pandangan)","contoh":[{"nomor":2,"teks":"dia memandangku ~"}]}],"rootWord":"lekat","terkait":{"kataTurunan":[],"gabunganKata":["lekat-lekat air","lekat-lekat udara"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lekat-lekat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47926",
+      "nama": "le.kat-le.kat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lekat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ki",
+              "nama": "kiasan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tidak berantara, terus-menerus, berlama-lama (tentang pandangan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia memandangku ~"
+            }
+          ]
+        }
+      ],
+      "rootWord": "lekat",
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lekat-lekat air",
+          "lekat-lekat udara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

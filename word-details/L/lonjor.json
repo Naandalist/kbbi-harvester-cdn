@@ -1,1 +1,43 @@
-{"word":"lonjor","authenticated":true,"entries":[{"id":"50163","nama":"lon.jor","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"batang (kata penggolong untuk barang yang panjang)","contoh":[{"nomor":2,"teks":"bambu dua --"}]}],"terkait":{"kataTurunan":["lonjoran"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lonjor",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50163",
+      "nama": "lon.jor",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "batang (kata penggolong untuk barang yang panjang)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bambu dua --"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "lonjoran"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,154 @@
-{"word":"lembur","authenticated":true,"entries":[{"id":"241880","nama":"lem.bur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"minuman yang terbuat dari campuran air kelapa muda dan gula pasir atau gula merah","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lěmbur 'bekerja sampai larut malam']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["lemburan","melembur","melemburkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48254","nama":"lem.bur","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pekerjaan dinas yang dikerjakan di luar jam (waktu) dinas","contoh":[{"nomor":2,"teks":"hari ini tidak ada --, semua karyawan boleh pulang seperti biasa"}]}],"etimologi":{"text":"[Jawa Kuno lěmbur 'bekerja sampai larut malam']","languages":["Jawa Kuno"]},"terkait":{"kataTurunan":["lemburan","melembur","melemburkan"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48256","nama":"lem.bur","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ lambur","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lěmbur 'bekerja sampai larut malam']","languages":["Jawa Kuno"]}},{"id":"48257","nama":"lem.bur","nomor":"3","makna":[{"nomor":"1","kelasKata":[],"definisi":"→ limbur","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lěmbur 'bekerja sampai larut malam']","languages":["Jawa Kuno"]}},{"id":"48258","nama":"lem.bur","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"bagian kampung yang merupakan kesatuan","contoh":[]}],"etimologi":{"text":"[Jawa Kuno lěmbur 'bekerja sampai larut malam']","languages":["Jawa Kuno"]}}]}
+{
+  "word": "lembur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "241880",
+      "nama": "lem.bur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "minuman yang terbuat dari campuran air kelapa muda dan gula pasir atau gula merah",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lěmbur 'bekerja sampai larut malam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "lemburan",
+          "melembur",
+          "melemburkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48254",
+      "nama": "lem.bur",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pekerjaan dinas yang dikerjakan di luar jam (waktu) dinas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "hari ini tidak ada --, semua karyawan boleh pulang seperti biasa"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lěmbur 'bekerja sampai larut malam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "lemburan",
+          "melembur",
+          "melemburkan"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48256",
+      "nama": "lem.bur",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ lambur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lěmbur 'bekerja sampai larut malam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "48257",
+      "nama": "lem.bur",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "→ limbur",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lěmbur 'bekerja sampai larut malam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    },
+    {
+      "id": "48258",
+      "nama": "lem.bur",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bagian kampung yang merupakan kesatuan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Jawa Kuno lěmbur 'bekerja sampai larut malam']",
+        "languages": [
+          "Jawa Kuno"
+        ]
+      }
+    }
+  ]
+}

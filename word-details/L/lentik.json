@@ -1,1 +1,72 @@
-{"word":"lentik","authenticated":true,"entries":[{"id":"48641","nama":"len.tik","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"lengkung ke atas atau ke belakang (pangkal dan ujungnya mengarah ke atas atau ke belakang, sedangkan bagian tengahnya lendut seperti rumah Minangkabau)","contoh":[{"nomor":2,"teks":"bulu matanya panjang dan --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkeluk ke atas sedikit pada ujungnya (seperti haluan perahu)","contoh":[]}],"terkait":{"kataTurunan":["kelentikan","melentik","melentikkan","pelentik"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48645","nama":"len.tik","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"berkenaan dengan air yang diam (tidak mengalir) seperti danau, empang, dan rawa","contoh":[]}]}]}
+{
+  "word": "lentik",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48641",
+      "nama": "len.tik",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lengkung ke atas atau ke belakang (pangkal dan ujungnya mengarah ke atas atau ke belakang, sedangkan bagian tengahnya lendut seperti rumah Minangkabau)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "bulu matanya panjang dan --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkeluk ke atas sedikit pada ujungnya (seperti haluan perahu)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kelentikan",
+          "melentik",
+          "melentikkan",
+          "pelentik"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48645",
+      "nama": "len.tik",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "berkenaan dengan air yang diam (tidak mengalir) seperti danau, empang, dan rawa",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

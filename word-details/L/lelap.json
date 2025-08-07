@@ -1,1 +1,96 @@
-{"word":"lelap","authenticated":true,"entries":[{"id":"48022","nama":"le.lap","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"nyenyak (tidur); tidak sadarkan diri","contoh":[{"nomor":2,"teks":"ia baru saja --"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hilang; lenyap","contoh":[{"nomor":2,"teks":"semuanya -- dari pandangan"}]},{"nomor":"3","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"lalu tidak boleh ditebus (tentang gadaian)","contoh":[{"nomor":2,"teks":"cincinnya -- pada akhir bulan ini"}]},{"nomor":"4","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"beku (tentang minyak kelapa)","contoh":[{"nomor":2,"teks":"minyak kelapa -- kedinginan"}]}],"terkait":{"kataTurunan":["kelelapan","keterlelapan","melelapkan","terlelap"],"gabunganKata":[],"peribahasa":["tidur tak lelap, makan tak kenyang"],"idiom":["bagai minyak lelap"]}}]}
+{
+  "word": "lelap",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48022",
+      "nama": "le.lap",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "nyenyak (tidur); tidak sadarkan diri",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia baru saja --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hilang; lenyap",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "semuanya -- dari pandangan"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lalu tidak boleh ditebus (tentang gadaian)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "cincinnya -- pada akhir bulan ini"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "beku (tentang minyak kelapa)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "minyak kelapa -- kedinginan"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kelelapan",
+          "keterlelapan",
+          "melelapkan",
+          "terlelap"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [
+          "tidur tak lelap, makan tak kenyang"
+        ],
+        "idiom": [
+          "bagai minyak lelap"
+        ]
+      }
+    }
+  ]
+}

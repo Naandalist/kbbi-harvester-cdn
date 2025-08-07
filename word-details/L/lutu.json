@@ -1,1 +1,111 @@
-{"word":"lutu","authenticated":true,"entries":[{"id":"50778","nama":"lu.tu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"serang","contoh":[]}],"terkait":{"kataTurunan":["melutu","berlutu","bersilutu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"50780","nama":"lu.tu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kotoran","contoh":[]}],"terkait":{"kataTurunan":["berlutu","bersilutu"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"149580","nama":"lu.tu","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Oi","nama":"Oirata","tipe":"lainnya"}],"definisi":"lesung yang berlubang, tingginya sekitar 1 meter, digunakan untuk menumbuk makanan babi","contoh":[]}]},{"id":"242358","nama":"lu.tu","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"Gor","nama":"Gorontalo","tipe":"lainnya"}],"definisi":"pisang masak","contoh":[]}]}]}
+{
+  "word": "lutu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50778",
+      "nama": "lu.tu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "serang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melutu",
+          "berlutu",
+          "bersilutu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "50780",
+      "nama": "lu.tu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kotoran",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlutu",
+          "bersilutu"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "149580",
+      "nama": "lu.tu",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Oi",
+              "nama": "Oirata",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lesung yang berlubang, tingginya sekitar 1 meter, digunakan untuk menumbuk makanan babi",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "242358",
+      "nama": "lu.tu",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Gor",
+              "nama": "Gorontalo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pisang masak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

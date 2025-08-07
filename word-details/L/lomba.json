@@ -1,1 +1,116 @@
-{"word":"lomba","authenticated":true,"entries":[{"id":"50040","nama":"lom.ba","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"adu kecepatan (berlari, berenang, dan sebagainya)","contoh":[{"nomor":2,"teks":"dalam rangka memperingati Hari Proklamasi, desa kami mengadakan -- lari karung untuk anak-anak dan orang dewasa"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"adu keterampilan (ketangkasan, kekuatan, dan sebagainya)","contoh":[{"nomor":2,"teks":"ia telah keluar sebagai juara pertama dalam -- deklamasi tingkat Daerah Khusus Ibu Kota Jakarta"}]}],"terkait":{"kataTurunan":["berlomba","berlomba-lomba","melombakan","memperlombakan","pelomba","perlombaan"],"gabunganKata":["lomba makan kerupuk","lomba perahu layar"],"peribahasa":[],"idiom":[]}},{"id":"169307","nama":"lom.ba","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"memberi semangat (dengan maksud menjerumuskan)","contoh":[{"nomor":2,"teks":"dia -- temannya yang akan bertanding  dengan menyarankan memutus tali rem sepeda lawannya"}]}]},{"id":"245059","nama":"lom.ba","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"uang duka yang diberi kepada pihak laki-laki semarga yang meninggal dunia","contoh":[]}]}]}
+{
+  "word": "lomba",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50040",
+      "nama": "lom.ba",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "adu kecepatan (berlari, berenang, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dalam rangka memperingati Hari Proklamasi, desa kami mengadakan -- lari karung untuk anak-anak dan orang dewasa"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "adu keterampilan (ketangkasan, kekuatan, dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia telah keluar sebagai juara pertama dalam -- deklamasi tingkat Daerah Khusus Ibu Kota Jakarta"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlomba",
+          "berlomba-lomba",
+          "melombakan",
+          "memperlombakan",
+          "pelomba",
+          "perlombaan"
+        ],
+        "gabunganKata": [
+          "lomba makan kerupuk",
+          "lomba perahu layar"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "169307",
+      "nama": "lom.ba",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "memberi semangat (dengan maksud menjerumuskan)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "dia -- temannya yang akan bertanding  dengan menyarankan memutus tali rem sepeda lawannya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "245059",
+      "nama": "lom.ba",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "uang duka yang diberi kepada pihak laki-laki semarga yang meninggal dunia",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

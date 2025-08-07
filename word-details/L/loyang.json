@@ -1,1 +1,81 @@
-{"word":"loyang","authenticated":true,"entries":[{"id":"50263","nama":"lo.yang","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tembaga kuning (kuningan); gangsa","contoh":[{"nomor":2,"teks":"tempat sirih itu dibuat dari --"},{"nomor":4,"teks":"barang-barang --"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"talam besar (dari kuningan atau gangsa)","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"talam yang terbuat dari seng atau aluminium tempat adonan kue yang akan dimasak","contoh":[]}],"terkait":{"kataTurunan":["seloyang"],"gabunganKata":["loyang tulban"],"peribahasa":["ke mana kelok lilin, ke sana kelok loyang","padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"],"idiom":[]}}]}
+{
+  "word": "loyang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50263",
+      "nama": "lo.yang",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tembaga kuning (kuningan); gangsa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "tempat sirih itu dibuat dari --"
+            },
+            {
+              "nomor": 4,
+              "teks": "barang-barang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "talam besar (dari kuningan atau gangsa)",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "talam yang terbuat dari seng atau aluminium tempat adonan kue yang akan dimasak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "seloyang"
+        ],
+        "gabunganKata": [
+          "loyang tulban"
+        ],
+        "peribahasa": [
+          "ke mana kelok lilin, ke sana kelok loyang",
+          "padi sekepuk hampa, emas seperti loyang, kerbau sekandang jalang"
+        ],
+        "idiom": []
+      }
+    }
+  ]
+}

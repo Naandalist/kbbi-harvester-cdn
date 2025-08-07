@@ -1,1 +1,87 @@
-{"word":"lini","authenticated":true,"entries":[{"id":"49624","nama":"li.ni","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"garis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"garis tengah; garis pertengahan","contoh":[]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"garis komando","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lini belakang","lini depan","lini kredit","lini masa","lini produksi","lini serang","lini tengah"],"peribahasa":[],"idiom":[]}},{"id":"170582","nama":"li.ni","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"gempa berskala kecil","contoh":[]}]}]}
+{
+  "word": "lini",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49624",
+      "nama": "li.ni",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis tengah; garis pertengahan",
+          "contoh": []
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "garis komando",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lini belakang",
+          "lini depan",
+          "lini kredit",
+          "lini masa",
+          "lini produksi",
+          "lini serang",
+          "lini tengah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "170582",
+      "nama": "li.ni",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gempa berskala kecil",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

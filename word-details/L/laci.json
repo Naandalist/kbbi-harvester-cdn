@@ -1,1 +1,62 @@
-{"word":"laci","authenticated":true,"entries":[{"id":"45676","nama":"la.ci","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kotak kecil (pada meja dan sebagainya) yang dapat ditarik dan disorong, tempat menyimpan benda-benda kecil; anak meja","contoh":[]}],"terkait":{"kataTurunan":["berlaci"],"gabunganKata":["laci arsip","laci kasir","laci katalog","laci meja"],"peribahasa":[],"idiom":[]}},{"id":"179386","nama":"la.ci","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"membersihkan rumput dengan cara membuat saluran utk menyimpan rumput","contoh":[]}]}]}
+{
+  "word": "laci",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45676",
+      "nama": "la.ci",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kotak kecil (pada meja dan sebagainya) yang dapat ditarik dan disorong, tempat menyimpan benda-benda kecil; anak meja",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlaci"
+        ],
+        "gabunganKata": [
+          "laci arsip",
+          "laci kasir",
+          "laci katalog",
+          "laci meja"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "179386",
+      "nama": "la.ci",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "membersihkan rumput dengan cara membuat saluran utk menyimpan rumput",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

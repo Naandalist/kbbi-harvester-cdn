@@ -1,1 +1,55 @@
-{"word":"leretan","authenticated":true,"entries":[{"id":"48851","nama":"le.ret.an","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"barisan","contoh":[]}],"rootWord":"leret¹"},{"id":"192253","nama":"le.re.tan","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"kayu atau tali yang dibentangkan di sepanjang jembatan atau perahu sebagai sarana pegangan","contoh":[{"nomor":2,"teks":"jembatan tanpa -- jarang dilalui orang"}]}]}]}
+{
+  "word": "leretan",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48851",
+      "nama": "le.ret.an",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "barisan",
+          "contoh": []
+        }
+      ],
+      "rootWord": "leret¹"
+    },
+    {
+      "id": "192253",
+      "nama": "le.re.tan",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kayu atau tali yang dibentangkan di sepanjang jembatan atau perahu sebagai sarana pegangan",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "jembatan tanpa -- jarang dilalui orang"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

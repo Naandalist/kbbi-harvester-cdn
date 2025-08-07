@@ -1,1 +1,58 @@
-{"word":"legit","authenticated":true,"entries":[{"id":"47834","nama":"le.git","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"manis sekali","contoh":[]}],"terkait":{"kataTurunan":["kelegitan","selegit"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"47835","nama":"le.git","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"agak kenyal dan enak","contoh":[]}]}]}
+{
+  "word": "legit",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47834",
+      "nama": "le.git",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "manis sekali",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "kelegitan",
+          "selegit"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47835",
+      "nama": "le.git",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "agak kenyal dan enak",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

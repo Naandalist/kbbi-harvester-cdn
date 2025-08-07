@@ -1,1 +1,88 @@
-{"word":"lipur","authenticated":true,"entries":[{"id":"49775","nama":"li.pur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hilang; lenyap; hapus","contoh":[{"nomor":2,"teks":"lama-kelamaan nama itu -- dari ingatannya"}]},{"nomor":"2","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"hilang sedihnya; terhibur hatinya","contoh":[{"nomor":2,"teks":"sampai sekarang hatinya belum -- juga"}]}],"terkait":{"kataTurunan":["melipur","melipurkan","pelipur"],"gabunganKata":["lipur lara"],"peribahasa":[],"idiom":[]}},{"id":"196370","nama":"li.pur","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"menutup lubang yang berisi benih padi, kacang, jagung, dan sebagainya dengan pupuk kandang atau tanah gembur","contoh":[{"nomor":2,"teks":"agar bibitnya tidak dimakan ayam, kita harus -- sesegera mungkin"}]}]}]}
+{
+  "word": "lipur",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49775",
+      "nama": "li.pur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hilang; lenyap; hapus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lama-kelamaan nama itu -- dari ingatannya"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "hilang sedihnya; terhibur hatinya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "sampai sekarang hatinya belum -- juga"
+            }
+          ]
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melipur",
+          "melipurkan",
+          "pelipur"
+        ],
+        "gabunganKata": [
+          "lipur lara"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "196370",
+      "nama": "li.pur",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menutup lubang yang berisi benih padi, kacang, jagung, dan sebagainya dengan pupuk kandang atau tanah gembur",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "agar bibitnya tidak dimakan ayam, kita harus -- sesegera mungkin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

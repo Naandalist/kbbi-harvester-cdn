@@ -1,1 +1,57 @@
-{"word":"luat","authenticated":true,"entries":[{"id":"50322","nama":"lu.at","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"luah; luak; mual","contoh":[]}],"terkait":{"kataTurunan":["meluat"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"136395","nama":"lu.at","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"MKp","nama":"Melayu Kupang","tipe":"lainnya"}],"definisi":"sambal khas Timor, dibuat dari lombok yang dihaluskan, dicampur dengan bawang putih, kulit jeruk nipis, daun kemangi yang diiris tipis, dan direndam dalam perasan air jeruk nipis","contoh":[]}]}]}
+{
+  "word": "luat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50322",
+      "nama": "lu.at",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "luah; luak; mual",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meluat"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "136395",
+      "nama": "lu.at",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "MKp",
+              "nama": "Melayu Kupang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "sambal khas Timor, dibuat dari lombok yang dihaluskan, dicampur dengan bawang putih, kulit jeruk nipis, daun kemangi yang diiris tipis, dan direndam dalam perasan air jeruk nipis",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

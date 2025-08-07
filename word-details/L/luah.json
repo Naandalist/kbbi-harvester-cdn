@@ -1,1 +1,68 @@
-{"word":"luah","authenticated":true,"entries":[{"id":"50275","nama":"lu.ah","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"rasa hendak muntah","contoh":[]}],"terkait":{"kataTurunan":["meluah","meluahkan"],"gabunganKata":["luah tanah ke awan"],"peribahasa":[],"idiom":[]}},{"id":"50278","nama":"lu.ah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Tan","nama":"Pertanian","tipe":"bidang_subjek"}],"definisi":"volume zat cair yang mengalir melalui permukaan per satuan waktu","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["luah tanah ke awan"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "luah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50275",
+      "nama": "lu.ah",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rasa hendak muntah",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meluah",
+          "meluahkan"
+        ],
+        "gabunganKata": [
+          "luah tanah ke awan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "50278",
+      "nama": "lu.ah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Tan",
+              "nama": "Pertanian",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "volume zat cair yang mengalir melalui permukaan per satuan waktu",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "luah tanah ke awan"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

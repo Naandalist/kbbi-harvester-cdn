@@ -1,1 +1,80 @@
-{"word":"lola","authenticated":true,"entries":[{"id":"50021","nama":"lo.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kerang berbentuk kerucut dengan 10–12 ulir, berwarna dasar krem keputihan dengan corak bergaris merah lembayung, dasar cangkangnya berbintik merah muda; susu bundar〔Trochus niloticus〕","contoh":[]}]},{"id":"250680","nama":"lo.la","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bun","nama":"Bunak","tipe":"lainnya"}],"definisi":"meranting pohon","contoh":[]}]},{"id":"203915","nama":"Lo.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Kepulauan Aru, Pulau Aru, Provinsi Maluku","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"bahasa yg dituturkan oleh suku Lola","contoh":[]}]}]}
+{
+  "word": "lola",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50021",
+      "nama": "lo.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kerang berbentuk kerucut dengan 10–12 ulir, berwarna dasar krem keputihan dengan corak bergaris merah lembayung, dasar cangkangnya berbintik merah muda; susu bundar〔Trochus niloticus〕",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "250680",
+      "nama": "lo.la",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bun",
+              "nama": "Bunak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "meranting pohon",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "203915",
+      "nama": "Lo.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "suku bangsa yg berasal dr atau mendiami wilayah Kabupaten Kepulauan Aru, Pulau Aru, Provinsi Maluku",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "bahasa yg dituturkan oleh suku Lola",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

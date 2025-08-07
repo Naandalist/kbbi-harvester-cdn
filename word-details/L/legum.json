@@ -1,1 +1,57 @@
-{"word":"legum","authenticated":true,"entries":[{"id":"47852","nama":"le.gum","nomor":"11","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"degum","contoh":[]}],"terkait":{"kataTurunan":["legum-legum"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"47854","nama":"le.gum","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bot","nama":"Botani","tipe":"lainnya"}],"definisi":"kelompok tumbuhan kacang-kacangan","contoh":[]}]}]}
+{
+  "word": "legum",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47852",
+      "nama": "le.gum",
+      "nomor": "11",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "degum",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "legum-legum"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47854",
+      "nama": "le.gum",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bot",
+              "nama": "Botani",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kelompok tumbuhan kacang-kacangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

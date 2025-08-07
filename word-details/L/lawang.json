@@ -1,1 +1,146 @@
-{"word":"lawang","authenticated":true,"entries":[{"id":"47405","nama":"la.wang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pintu (gerbang)","contoh":[]}],"terkait":{"kataTurunan":["pelawang","pelawangan"],"gabunganKata":["lawang borotan","lawang pintasan","lawang sekepeng","lawang seketeng","lawang tembik"],"peribahasa":[],"idiom":[]}},{"id":"47410","nama":"la.wang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pohon yang kulit kayunya keputih-putihan dan rapuh, rasa dan baunya seperti cengkih, dapat dijadikan minyak untuk mengobati penyakit kolera〔Cinnamomum〕","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kulit kayu lawang","contoh":[]}]},{"id":"47411","nama":"la.wang","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan air tawar yang ukurannya dapat mencapai 100 cm, bentuk tubuh pipih bersegi, tidak bersisik, sungut rahang atas mencapai pinggiran belakang mata, mata sangat besar, moncong berbentuk persegi, warna bagian atas hitam, warna bagian bawah putih keperakan, tersebar di Sumatra, Jawa, Kalimantan, dan Thailand; jendil〔Pseudolais micronemus〕","contoh":[]}]},{"id":"47412","nama":"la.wang","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kulit buah pala (yang sudah dikeringkan) yang digunakan sebagai rempah-rempah","contoh":[]}]},{"id":"47413","nama":"la.wang","nomor":"5","makna":[{"nomor":"1","kelasKata":[],"definisi":"lihat tapak","contoh":[]}]},{"id":"156703","nama":"la.wang","nomor":"6","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ka","nama":"Kamang","tipe":"lainnya"}],"definisi":"angin topan","contoh":[]}]}]}
+{
+  "word": "lawang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47405",
+      "nama": "la.wang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pintu (gerbang)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "pelawang",
+          "pelawangan"
+        ],
+        "gabunganKata": [
+          "lawang borotan",
+          "lawang pintasan",
+          "lawang sekepeng",
+          "lawang seketeng",
+          "lawang tembik"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47410",
+      "nama": "la.wang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pohon yang kulit kayunya keputih-putihan dan rapuh, rasa dan baunya seperti cengkih, dapat dijadikan minyak untuk mengobati penyakit kolera〔Cinnamomum〕",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kulit kayu lawang",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "47411",
+      "nama": "la.wang",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan air tawar yang ukurannya dapat mencapai 100 cm, bentuk tubuh pipih bersegi, tidak bersisik, sungut rahang atas mencapai pinggiran belakang mata, mata sangat besar, moncong berbentuk persegi, warna bagian atas hitam, warna bagian bawah putih keperakan, tersebar di Sumatra, Jawa, Kalimantan, dan Thailand; jendil〔Pseudolais micronemus〕",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "47412",
+      "nama": "la.wang",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kulit buah pala (yang sudah dikeringkan) yang digunakan sebagai rempah-rempah",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "47413",
+      "nama": "la.wang",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "lihat tapak",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "156703",
+      "nama": "la.wang",
+      "nomor": "6",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ka",
+              "nama": "Kamang",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "angin topan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"word":"lobus","authenticated":true,"entries":[{"id":"94224","nama":"lo.bus","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"cuping telinga","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dok","nama":"Kedokteran dan Fisiologi","tipe":"bidang_subjek"}],"definisi":"bagian organ atau tubuh yang berbentuk bulat, misalnya paru-paru, otak, dan hati","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lobus anterior","lobus frontal","lobus inferior","lobus oksipital","lobus olfaktori","lobus parietal","lobus posterior","lobus superior","lobus temporal","lobus temporal medial","lobus tengah"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "lobus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "94224",
+      "nama": "lo.bus",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "cuping telinga",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dok",
+              "nama": "Kedokteran dan Fisiologi",
+              "tipe": "bidang_subjek"
+            }
+          ],
+          "definisi": "bagian organ atau tubuh yang berbentuk bulat, misalnya paru-paru, otak, dan hati",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lobus anterior",
+          "lobus frontal",
+          "lobus inferior",
+          "lobus oksipital",
+          "lobus olfaktori",
+          "lobus parietal",
+          "lobus posterior",
+          "lobus superior",
+          "lobus temporal",
+          "lobus temporal medial",
+          "lobus tengah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"word":"listring","authenticated":true,"entries":[{"id":"133477","nama":"lis.tring","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelang emas yang sisinya berhiaskan permata dan tengahnya berbentuk bunga","contoh":[]}]},{"id":"301791","nama":"lis.tring","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Trp","nama":"Transportasi","tipe":"lainnya"}],"definisi":"pengembalian posisi rel ke posisi geometri semula","contoh":[]}]}]}
+{
+  "word": "listring",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "133477",
+      "nama": "lis.tring",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelang emas yang sisinya berhiaskan permata dan tengahnya berbentuk bunga",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "301791",
+      "nama": "lis.tring",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Trp",
+              "nama": "Transportasi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengembalian posisi rel ke posisi geometri semula",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

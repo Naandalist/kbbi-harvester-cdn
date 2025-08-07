@@ -1,1 +1,62 @@
-{"word":"lebas","authenticated":true,"entries":[{"id":"47658","nama":"le.bas","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"melebas","contoh":[]}],"terkait":{"kataTurunan":["melebas"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"47660","nama":"le.bas","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"tingkat kematangan buah yang teramat masak, lunak, dan mendekati busuk","contoh":[]}]}]}
+{
+  "word": "lebas",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47658",
+      "nama": "le.bas",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melebas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melebas"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47660",
+      "nama": "le.bas",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "tingkat kematangan buah yang teramat masak, lunak, dan mendekati busuk",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

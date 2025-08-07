@@ -1,1 +1,54 @@
-{"word":"londo","authenticated":true,"entries":[{"id":"193007","nama":"lon.do","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"bulai","contoh":[]}]},{"id":"255109","nama":"lon.do","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"pewarna hitam makanan yang terbuat dari rendaman abu merang","contoh":[]}]}]}
+{
+  "word": "londo",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "193007",
+      "nama": "lon.do",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bulai",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "255109",
+      "nama": "lon.do",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "pewarna hitam makanan yang terbuat dari rendaman abu merang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

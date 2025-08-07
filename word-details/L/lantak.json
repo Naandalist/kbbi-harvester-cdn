@@ -1,1 +1,123 @@
-{"word":"lantak","authenticated":true,"entries":[{"id":"46779","nama":"lan.tak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melantak","contoh":[]}],"terkait":{"kataTurunan":["berlantak","lantakan","melantak","melantakkan","pelantak"],"gabunganKata":["lantak nagari"],"peribahasa":[],"idiom":[]}},{"id":"46785","nama":"lan.tak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu yang digunakan untuk menahan tanah longsor","contoh":[{"nomor":2,"teks":"pasanglah -- pada tebing itu"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kayu pijakan untuk memanjat pohon","contoh":[]}]},{"id":"187555","nama":"lan.tak","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Trj","nama":"Toraja","tipe":"lainnya"}],"definisi":"pemujaan khas Toraja kepada orang yang sudah lama dikuburkan, dilakukan di perkuburan dengan membantai kerbau","contoh":[]}]},{"id":"277708","nama":"lan.tak","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"kayu atau bilah bambu yang dijadikan paku pada tangga rotan yang digunakan untuk mengambil madu pada sialang","contoh":[]}]}]}
+{
+  "word": "lantak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46779",
+      "nama": "lan.tak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melantak",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "berlantak",
+          "lantakan",
+          "melantak",
+          "melantakkan",
+          "pelantak"
+        ],
+        "gabunganKata": [
+          "lantak nagari"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46785",
+      "nama": "lan.tak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu yang digunakan untuk menahan tanah longsor",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "pasanglah -- pada tebing itu"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kayu pijakan untuk memanjat pohon",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "187555",
+      "nama": "lan.tak",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Trj",
+              "nama": "Toraja",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pemujaan khas Toraja kepada orang yang sudah lama dikuburkan, dilakukan di perkuburan dengan membantai kerbau",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "277708",
+      "nama": "lan.tak",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "kayu atau bilah bambu yang dijadikan paku pada tangga rotan yang digunakan untuk mengambil madu pada sialang",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

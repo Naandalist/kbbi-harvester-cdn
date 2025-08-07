@@ -1,1 +1,98 @@
-{"word":"laksa","authenticated":true,"entries":[{"id":"46004","nama":"lak.sa","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"}],"definisi":"sepuluh ribu","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"num","nama":"Numeralia","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"ukuran tembakau, 10 lempeng","contoh":[]}],"etimologi":{"text":"[Persia لخشه laḵẖsha n 'jenis masakan berkuah']","languages":["Persia"]}},{"id":"46005","nama":"lak.sa","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"masakan berkuah mengandung rempah, biasanya berisi soun, daging, ikan, sayuran, dan sebagainya","contoh":[]}],"etimologi":{"text":"[Persia لخشه laḵẖsha n 'jenis masakan berkuah']","languages":["Persia"]}},{"id":"279657","nama":"lak.sa","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"masakan khas Banjar yang dibuat dari adonan tepung beras dan air, dibentuk seperti tumpukan mi lalu dikukus, disajikan bersama kuah santan berbumbu yang dicampur daging ikan gabus yang dihaluskan","contoh":[]}],"etimologi":{"text":"[Persia لخشه laḵẖsha n 'jenis masakan berkuah']","languages":["Persia"]}}]}
+{
+  "word": "laksa",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46004",
+      "nama": "lak.sa",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sepuluh ribu",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "num",
+              "nama": "Numeralia",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "ukuran tembakau, 10 lempeng",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia لخشه laḵẖsha n 'jenis masakan berkuah']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    },
+    {
+      "id": "46005",
+      "nama": "lak.sa",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masakan berkuah mengandung rempah, biasanya berisi soun, daging, ikan, sayuran, dan sebagainya",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia لخشه laḵẖsha n 'jenis masakan berkuah']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    },
+    {
+      "id": "279657",
+      "nama": "lak.sa",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "masakan khas Banjar yang dibuat dari adonan tepung beras dan air, dibentuk seperti tumpukan mi lalu dikukus, disajikan bersama kuah santan berbumbu yang dicampur daging ikan gabus yang dihaluskan",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Persia لخشه laḵẖsha n 'jenis masakan berkuah']",
+        "languages": [
+          "Persia"
+        ]
+      }
+    }
+  ]
+}

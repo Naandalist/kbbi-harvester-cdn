@@ -1,1 +1,114 @@
-{"word":"logat","authenticated":true,"entries":[{"id":"49938","nama":"lo.gat","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata (dalam arti yang sebenarnya)","contoh":[{"nomor":2,"teks":"terjemahan menurut -- (kata demi kata)"}]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"dialek","contoh":[{"nomor":2,"teks":"-- Jakarta"}]},{"nomor":"3","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"cara mengucapkan kata (aksen) atau lekuk lidah yang khas","contoh":[{"nomor":2,"teks":"menilik --nya, dapat dipastikan bahwa ia berasal dari Medan"}]},{"nomor":"4","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"perbendaharaan kata","contoh":[{"nomor":2,"teks":"kata ini tidak terdapat dalam -- Melayu"}]},{"nomor":"5","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kamus","contoh":[{"nomor":2,"teks":"kitab -- Melayu"}]}],"etimologi":{"text":"[Arab لُغَةٌ lugah n sg f 'bahasa']","languages":["Arab"]},"terkait":{"kataTurunan":["berlogat"],"gabunganKata":["logat ngapak"],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "logat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49938",
+      "nama": "lo.gat",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata (dalam arti yang sebenarnya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "terjemahan menurut -- (kata demi kata)"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "dialek",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "-- Jakarta"
+            }
+          ]
+        },
+        {
+          "nomor": "3",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "cara mengucapkan kata (aksen) atau lekuk lidah yang khas",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "menilik --nya, dapat dipastikan bahwa ia berasal dari Medan"
+            }
+          ]
+        },
+        {
+          "nomor": "4",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "perbendaharaan kata",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kata ini tidak terdapat dalam -- Melayu"
+            }
+          ]
+        },
+        {
+          "nomor": "5",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kamus",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kitab -- Melayu"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab لُغَةٌ lugah n sg f 'bahasa']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berlogat"
+        ],
+        "gabunganKata": [
+          "logat ngapak"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

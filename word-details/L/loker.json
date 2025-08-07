@@ -1,1 +1,73 @@
-{"word":"loker","authenticated":true,"entries":[{"id":"198091","nama":"lo.ker","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"akr","nama":"akronim","tipe":"kelas_kata"}],"definisi":"lowongan kerja","contoh":[]}]},{"id":"229743","nama":"lo.ker","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mdr","nama":"Madura","tipe":"lainnya"}],"definisi":"hiasan pada lenggi berupa pilin ganda, gigi walang, dan sebagainya","contoh":[]}]},{"id":"49999","nama":"lo.ker","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"lemari yang dilengkapi dengan kunci, biasanya untuk keperluan penyimpanan perseorangan","contoh":[]}]}]}
+{
+  "word": "loker",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "198091",
+      "nama": "lo.ker",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "akr",
+              "nama": "akronim",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lowongan kerja",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "229743",
+      "nama": "lo.ker",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mdr",
+              "nama": "Madura",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "hiasan pada lenggi berupa pilin ganda, gigi walang, dan sebagainya",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "49999",
+      "nama": "lo.ker",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lemari yang dilengkapi dengan kunci, biasanya untuk keperluan penyimpanan perseorangan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

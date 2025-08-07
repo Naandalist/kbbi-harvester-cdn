@@ -1,1 +1,95 @@
-{"word":"lelang","authenticated":true,"entries":[{"id":"48011","nama":"le.lang","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penjualan di hadapan orang banyak (dengan tawaran yang atas-mengatasi) dipimpin oleh pejabat lelang","contoh":[]}],"etimologi":{"text":"[Portugis leilão leilão n sg m 'penjualan publik kepada penawar tertinggi']","languages":["Portugis"]},"terkait":{"kataTurunan":["lelangan","melelang","melelangkan","memperlelangkan","pelelang","pelelangan","perlelangan","terlelang"],"gabunganKata":["lelang barang","lelang eksekusi","lelang frekuensi","lelang jabatan","lelang jasa","lelang noneksekusi sukarela","lelang noneksekusi wajib","lelang pajak","lelang proyek","lelang rampasan","lelang sukuk","lelang tender","lelang terbuka"],"peribahasa":[],"idiom":[]}},{"id":"157883","nama":"le.lang","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bla","nama":"Blagar","tipe":"lainnya"}],"definisi":"arena pertunjukan lego-lego","contoh":[{"nomor":2,"teks":"lego-lego batal diselenggarakan karena -- becek sehabis hujan"}]}],"etimologi":{"text":"[Portugis leilão leilão n sg m 'penjualan publik kepada penawar tertinggi']","languages":["Portugis"]}}]}
+{
+  "word": "lelang",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48011",
+      "nama": "le.lang",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penjualan di hadapan orang banyak (dengan tawaran yang atas-mengatasi) dipimpin oleh pejabat lelang",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis leilão leilão n sg m 'penjualan publik kepada penawar tertinggi']",
+        "languages": [
+          "Portugis"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "lelangan",
+          "melelang",
+          "melelangkan",
+          "memperlelangkan",
+          "pelelang",
+          "pelelangan",
+          "perlelangan",
+          "terlelang"
+        ],
+        "gabunganKata": [
+          "lelang barang",
+          "lelang eksekusi",
+          "lelang frekuensi",
+          "lelang jabatan",
+          "lelang jasa",
+          "lelang noneksekusi sukarela",
+          "lelang noneksekusi wajib",
+          "lelang pajak",
+          "lelang proyek",
+          "lelang rampasan",
+          "lelang sukuk",
+          "lelang tender",
+          "lelang terbuka"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "157883",
+      "nama": "le.lang",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bla",
+              "nama": "Blagar",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "arena pertunjukan lego-lego",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "lego-lego batal diselenggarakan karena -- becek sehabis hujan"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Portugis leilão leilão n sg m 'penjualan publik kepada penawar tertinggi']",
+        "languages": [
+          "Portugis"
+        ]
+      }
+    }
+  ]
+}

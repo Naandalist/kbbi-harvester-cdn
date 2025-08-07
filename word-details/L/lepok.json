@@ -1,1 +1,54 @@
-{"word":"lepok","authenticated":true,"entries":[{"id":"48793","nama":"le.pok","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"salah lipat (baju dan sebagainya)","contoh":[{"nomor":2,"teks":"baju itu --"}]}]},{"id":"119522","nama":"le.pok","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Gy","nama":"Gayo","tipe":"lainnya"}],"definisi":"luka bakar","contoh":[]}]}]}
+{
+  "word": "lepok",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48793",
+      "nama": "le.pok",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "salah lipat (baju dan sebagainya)",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "baju itu --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "119522",
+      "nama": "le.pok",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Gy",
+              "nama": "Gayo",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "luka bakar",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

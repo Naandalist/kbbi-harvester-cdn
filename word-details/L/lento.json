@@ -1,1 +1,59 @@
-{"word":"lento","authenticated":true,"entries":[{"id":"97515","nama":"lento","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"ukp","nama":"Ungkapan","tipe":"kelas_kata"},{"kode":"It","nama":"Italia","tipe":"bahasa"}],"definisi":"lambat (digunakan dalam tempo musik)","contoh":[]}]},{"id":"184948","nama":"len.to","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"Jw","nama":"Jawa","tipe":"bahasa"},{"kode":"Tbg","nama":"Tata Boga","tipe":"lainnya"}],"definisi":"camilan terbuat dari kacang tolo yang ditumbuk, dibumbui, dikepal dengan tangan, kemudian digoreng","contoh":[{"nomor":2,"teks":"selain sebagai jajanan, -- digunakan sebagai lauk nasi"}]}]}]}
+{
+  "word": "lento",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "97515",
+      "nama": "lento",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "ukp",
+              "nama": "Ungkapan",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "It",
+              "nama": "Italia",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lambat (digunakan dalam tempo musik)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "184948",
+      "nama": "len.to",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            },
+            {
+              "kode": "Tbg",
+              "nama": "Tata Boga",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "camilan terbuat dari kacang tolo yang ditumbuk, dibumbui, dikepal dengan tangan, kemudian digoreng",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "selain sebagai jajanan, -- digunakan sebagai lauk nasi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

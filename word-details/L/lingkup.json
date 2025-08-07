@@ -1,1 +1,69 @@
-{"word":"lingkup","authenticated":true,"entries":[{"id":"49598","nama":"ling.kup","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"menutup","contoh":[]}],"terkait":{"kataTurunan":["melingkup","melingkupi","pelingkup","pelingkupan","terlingkup"],"gabunganKata":["lingkup angin","lingkup ekologis"],"peribahasa":[],"idiom":[]}},{"id":"49605","nama":"ling.kup","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"habis pergi (datang dan sebagainya) semuanya","contoh":[{"nomor":2,"teks":"orang sedesa -- ke lapangan untuk melihat pesawat terbang mendarat"}]}]}]}
+{
+  "word": "lingkup",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49598",
+      "nama": "ling.kup",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "menutup",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melingkup",
+          "melingkupi",
+          "pelingkup",
+          "pelingkupan",
+          "terlingkup"
+        ],
+        "gabunganKata": [
+          "lingkup angin",
+          "lingkup ekologis"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49605",
+      "nama": "ling.kup",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "habis pergi (datang dan sebagainya) semuanya",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "orang sedesa -- ke lapangan untuk melihat pesawat terbang mendarat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

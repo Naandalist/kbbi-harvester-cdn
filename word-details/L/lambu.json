@@ -1,1 +1,54 @@
-{"word":"lambu","authenticated":true,"entries":[{"id":"46210","nama":"lam.bu","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"sampan (perahu)","contoh":[]}]},{"id":"249590","nama":"lam.bu","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ni","nama":"Nias","tipe":"lainnya"}],"definisi":"daun ubi jalar yang direbus untuk makanan babi","contoh":[]}]}]}
+{
+  "word": "lambu",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46210",
+      "nama": "lam.bu",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "sampan (perahu)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "249590",
+      "nama": "lam.bu",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ni",
+              "nama": "Nias",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daun ubi jalar yang direbus untuk makanan babi",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"word":"layuk","authenticated":true,"entries":[{"id":"47601","nama":"la.yuk","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melayuk","contoh":[]}],"terkait":{"kataTurunan":["melayuk"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"259391","nama":"la.yuk","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bt","nama":"Batak","tipe":"bahasa"}],"definisi":"bulu ekor yang panjang pada ayam jantan","contoh":[]}]}]}
+{
+  "word": "layuk",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47601",
+      "nama": "la.yuk",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melayuk",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melayuk"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "259391",
+      "nama": "la.yuk",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bt",
+              "nama": "Batak",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "bulu ekor yang panjang pada ayam jantan",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

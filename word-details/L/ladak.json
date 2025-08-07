@@ -1,1 +1,54 @@
-{"word":"ladak","authenticated":true,"entries":[{"id":"159212","nama":"la.dak","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Sd","nama":"Sunda","tipe":"bahasa"}],"definisi":"karakter dinamis dalam tari","contoh":[]}]},{"id":"124630","nama":"la.dak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"gaya bicara ceplas-ceplos","contoh":[]}]}]}
+{
+  "word": "ladak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "159212",
+      "nama": "la.dak",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Sd",
+              "nama": "Sunda",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "karakter dinamis dalam tari",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "124630",
+      "nama": "la.dak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "gaya bicara ceplas-ceplos",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

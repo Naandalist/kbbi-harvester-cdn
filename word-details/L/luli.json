@@ -1,1 +1,93 @@
-{"word":"luli","authenticated":true,"entries":[{"id":"50457","nama":"lu.li","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kapas yang dipegang ketika memintal benang","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"kayu penggulung kapas yang akan dipintal","contoh":[]}],"terkait":{"kataTurunan":["meluli"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"50459","nama":"lu.li","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan payau atau laut, panjang mencapai 40 cm, hidup di dasar dan perairan tropis, pada kedalaman mencapai 50 m, tersebar di daerah Indo-Pasifik〔Harpodon nehereus〕","contoh":[]}]},{"id":"265457","nama":"lu.li","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Pi","nama":"Piliana","tipe":"lainnya"}],"definisi":"satu renteng ikan hasil tangkapan yang dicocok dengan tali rotan atau kayu","contoh":[]}]}]}
+{
+  "word": "luli",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50457",
+      "nama": "lu.li",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kapas yang dipegang ketika memintal benang",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "kayu penggulung kapas yang akan dipintal",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "meluli"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "50459",
+      "nama": "lu.li",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan payau atau laut, panjang mencapai 40 cm, hidup di dasar dan perairan tropis, pada kedalaman mencapai 50 m, tersebar di daerah Indo-Pasifik〔Harpodon nehereus〕",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "265457",
+      "nama": "lu.li",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Pi",
+              "nama": "Piliana",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "satu renteng ikan hasil tangkapan yang dicocok dengan tali rotan atau kayu",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

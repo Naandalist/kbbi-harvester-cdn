@@ -1,1 +1,59 @@
-{"word":"lendot","authenticated":true,"entries":[{"id":"48392","nama":"len.dot","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"melendot","contoh":[]}],"terkait":{"kataTurunan":["lendotan","melendot","melendoti"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"202688","nama":"len.dot","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kpr","nama":"Melayu Kep. Riau","tipe":"lainnya"}],"definisi":"makanan tradisional berupa sup berkuah kental yang terbuat dari sagu, berisi sayuran dan boga bahari","contoh":[]}]}]}
+{
+  "word": "lendot",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48392",
+      "nama": "len.dot",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "melendot",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "lendotan",
+          "melendot",
+          "melendoti"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "202688",
+      "nama": "len.dot",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kpr",
+              "nama": "Melayu Kep. Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan tradisional berupa sup berkuah kental yang terbuat dari sagu, berisi sayuran dan boga bahari",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

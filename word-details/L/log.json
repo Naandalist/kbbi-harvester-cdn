@@ -1,1 +1,186 @@
-{"word":"log","authenticated":true,"entries":[{"id":"49922","nama":"log","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"gelondong","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["log keluar","log masuk"],"peribahasa":[],"idiom":[]}},{"id":"49923","nama":"log","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"kp","nama":"kependekan","tipe":"kelas_kata"}],"definisi":"logaritma","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["log keluar","log masuk"],"peribahasa":[],"idiom":[]}},{"id":"49924","nama":"log","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"buku harian kapal","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Lay","nama":"Pelayaran","tipe":"lainnya"}],"definisi":"pengukur kecepatan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["log keluar","log masuk"],"peribahasa":[],"idiom":[]}},{"id":"49925","nama":"log","nomor":"4","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"mendaftar","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Komp","nama":"Komputer","tipe":"lainnya"}],"definisi":"daftar; catatan","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["log keluar","log masuk"],"peribahasa":[],"idiom":[]}},{"id":"49928","nama":"log","nomor":"5","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ukuran isi sebesar 1/72 bat atau kurang lebih 1/2 liter","contoh":[]}]}]}
+{
+  "word": "log",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49922",
+      "nama": "log",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "gelondong",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "log keluar",
+          "log masuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49923",
+      "nama": "log",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "kp",
+              "nama": "kependekan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "logaritma",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "log keluar",
+          "log masuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49924",
+      "nama": "log",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "buku harian kapal",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Lay",
+              "nama": "Pelayaran",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "pengukur kecepatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "log keluar",
+          "log masuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49925",
+      "nama": "log",
+      "nomor": "4",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "mendaftar",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Komp",
+              "nama": "Komputer",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "daftar; catatan",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "log keluar",
+          "log masuk"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "49928",
+      "nama": "log",
+      "nomor": "5",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ukuran isi sebesar 1/72 bat atau kurang lebih 1/2 liter",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

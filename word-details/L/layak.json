@@ -1,1 +1,108 @@
-{"word":"layak","authenticated":true,"entries":[{"id":"47450","nama":"la.yak","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"wajar; pantas; patut","contoh":[{"nomor":2,"teks":"berikanlah mereka kehidupan yang --"}]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"mulia; terhormat","contoh":[{"nomor":2,"teks":"karena jasanya, dia mendapat kedudukan yang --"}]}],"etimologi":{"text":"[Arab لَيَاقٌ layāq n sg m 'kepantasan; keterikatan; kecocokan']","languages":["Arab"]},"terkait":{"kataTurunan":["berkelayakan","kelayakan","ketidaklayakan","layaknya","melayakkan","pelayakan","selayaknya","terlayak","melayak"],"gabunganKata":["layak bayar pramuat","layak kredit","layak kutip","layak pakai","layak saji"],"peribahasa":[],"idiom":[]}},{"id":"47460","nama":"la.yak","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"ikan yang dibelah memanjang dari ekor ke kepala, lalu dikeringkan tanpa diberi garam","contoh":[]}],"etimologi":{"text":"[Arab لَيَاقٌ layāq n sg m 'kepantasan; keterikatan; kecocokan']","languages":["Arab"]},"terkait":{"kataTurunan":["melayak"],"gabunganKata":[],"peribahasa":[],"idiom":[]}}]}
+{
+  "word": "layak",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "47450",
+      "nama": "la.yak",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "wajar; pantas; patut",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "berikanlah mereka kehidupan yang --"
+            }
+          ]
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "mulia; terhormat",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "karena jasanya, dia mendapat kedudukan yang --"
+            }
+          ]
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab لَيَاقٌ layāq n sg m 'kepantasan; keterikatan; kecocokan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "berkelayakan",
+          "kelayakan",
+          "ketidaklayakan",
+          "layaknya",
+          "melayakkan",
+          "pelayakan",
+          "selayaknya",
+          "terlayak",
+          "melayak"
+        ],
+        "gabunganKata": [
+          "layak bayar pramuat",
+          "layak kredit",
+          "layak kutip",
+          "layak pakai",
+          "layak saji"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "47460",
+      "nama": "la.yak",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "ikan yang dibelah memanjang dari ekor ke kepala, lalu dikeringkan tanpa diberi garam",
+          "contoh": []
+        }
+      ],
+      "etimologi": {
+        "text": "[Arab لَيَاقٌ layāq n sg m 'kepantasan; keterikatan; kecocokan']",
+        "languages": [
+          "Arab"
+        ]
+      },
+      "terkait": {
+        "kataTurunan": [
+          "melayak"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    }
+  ]
+}

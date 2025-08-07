@@ -1,1 +1,62 @@
-{"word":"lupus","authenticated":true,"entries":[{"id":"50712","nama":"lu.pus","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"penyakit kulit yang berupa borok (terutama pada kulit wajah)","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["lupus diskoid","lupus eritematosus","lupus imbasan obat","lupus nefritis","lupus neonatal","lupus vulgaris"],"peribahasa":[],"idiom":[]}},{"id":"99764","nama":"Lu.pus","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Astron","nama":"Astronomi","tipe":"lainnya"}],"definisi":"rasi bintang di belahan langit selatan, yang terletak di antara rasi bintang Sentaurus dan Skorpio, namanya berarti 'serigala' dalam bahasa Latin","contoh":[]}]}]}
+{
+  "word": "lupus",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "50712",
+      "nama": "lu.pus",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "penyakit kulit yang berupa borok (terutama pada kulit wajah)",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "lupus diskoid",
+          "lupus eritematosus",
+          "lupus imbasan obat",
+          "lupus nefritis",
+          "lupus neonatal",
+          "lupus vulgaris"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99764",
+      "nama": "Lu.pus",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Astron",
+              "nama": "Astronomi",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rasi bintang di belahan langit selatan, yang terletak di antara rasi bintang Sentaurus dan Skorpio, namanya berarti 'serigala' dalam bahasa Latin",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

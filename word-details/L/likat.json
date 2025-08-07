@@ -1,1 +1,95 @@
-{"word":"likat","authenticated":true,"entries":[{"id":"49289","nama":"li.kat","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"rekat; lengket; lekat","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"}],"definisi":"keruh","contoh":[{"nomor":2,"teks":"kali itu airnya --"}]}]},{"id":"49290","nama":"li.kat","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jk","nama":"Melayu Jakarta","tipe":"lainnya"}],"definisi":"agak malu (tidak mau melihat, selalu tunduk saja, dan sebagainya)","contoh":[]}]},{"id":"260328","nama":"li.kat","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Dy","nama":"Dayak","tipe":"lainnya"}],"definisi":"lanjung kecil beranyam rapat, bertali dua, berfungsi untuk membawa hasil ladang","contoh":[{"nomor":2,"teks":"anak itu pergi ke ladang sambil menggendong --"}]}]}]}
+{
+  "word": "likat",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "49289",
+      "nama": "li.kat",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "rekat; lengket; lekat",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "keruh",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kali itu airnya --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49290",
+      "nama": "li.kat",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jk",
+              "nama": "Melayu Jakarta",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "agak malu (tidak mau melihat, selalu tunduk saja, dan sebagainya)",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "260328",
+      "nama": "li.kat",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Dy",
+              "nama": "Dayak",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "lanjung kecil beranyam rapat, bertali dua, berfungsi untuk membawa hasil ladang",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "anak itu pergi ke ladang sambil menggendong --"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

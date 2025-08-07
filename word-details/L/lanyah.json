@@ -1,1 +1,67 @@
-{"word":"lanyah","authenticated":true,"entries":[{"id":"46873","nama":"la.nyah","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"becek; berlumpur","contoh":[]}],"terkait":{"kataTurunan":["melanyah"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"124612","nama":"lan.yah","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"a","nama":"Adjektiva","tipe":"kelas_kata"},{"kode":"Jw","nama":"Jawa","tipe":"bahasa"}],"definisi":"lancar karena sudah terbiasa","contoh":[{"nomor":2,"teks":"kalau sudah -- naik sepeda, pasti bisa naik motor"}]}]}]}
+{
+  "word": "lanyah",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46873",
+      "nama": "la.nyah",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "becek; berlumpur",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melanyah"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "124612",
+      "nama": "lan.yah",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "a",
+              "nama": "Adjektiva",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Jw",
+              "nama": "Jawa",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "lancar karena sudah terbiasa",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "kalau sudah -- naik sepeda, pasti bisa naik motor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

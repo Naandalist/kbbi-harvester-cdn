@@ -1,1 +1,59 @@
-{"word":"lad","authenticated":true,"entries":[{"id":"45687","nama":"lad","nomor":"","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Bl","nama":"Bali","tipe":"bahasa"}],"definisi":"keluar dari desa karena tidak mematuhi ketentuan adat yang berlaku di desa itu","contoh":[{"nomor":2,"teks":"ia sudah -- dari keanggotaan banjar"}]}]},{"id":"245914","nama":"lad","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Kei","nama":"Kei","tipe":"lainnya"}],"definisi":"makanan berupa tumis rumput laut yang dibumbui dengan bawang, jahe, kencur, kelapa parut, dan sebagainya, biasanya disajikan dengan ketupat","contoh":[]}]}]}
+{
+  "word": "lad",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45687",
+      "nama": "lad",
+      "nomor": "",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bl",
+              "nama": "Bali",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "keluar dari desa karena tidak mematuhi ketentuan adat yang berlaku di desa itu",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "ia sudah -- dari keanggotaan banjar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "245914",
+      "nama": "lad",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Kei",
+              "nama": "Kei",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "makanan berupa tumis rumput laut yang dibumbui dengan bawang, jahe, kencur, kelapa parut, dan sebagainya, biasanya disajikan dengan ketupat",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

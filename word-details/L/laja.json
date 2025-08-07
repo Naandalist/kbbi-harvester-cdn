@@ -1,1 +1,69 @@
-{"word":"laja","authenticated":true,"entries":[{"id":"45905","nama":"la.ja","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"ark","nama":"Arkais","tipe":"kelas_kata"}],"definisi":"lengkuas","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["laja gowah"],"peribahasa":[],"idiom":[]}},{"id":"93729","nama":"la.ja","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"tumbuhan memanjat, bersifat parasit, biasanya tumbuh di daerah hutan tropis","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"buah berwarna merah, bentuknya lonjong, berumpun seperti anggur, kulitnya tipis, bertekstur seperti kain beludru, isinya biji berlendir seperti markisa, rasanya agak masam","contoh":[]}]}]}
+{
+  "word": "laja",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45905",
+      "nama": "la.ja",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "ark",
+              "nama": "Arkais",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "lengkuas",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "laja gowah"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "93729",
+      "nama": "la.ja",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "tumbuhan memanjat, bersifat parasit, biasanya tumbuh di daerah hutan tropis",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "buah berwarna merah, bentuknya lonjong, berumpun seperti anggur, kulitnya tipis, bertekstur seperti kain beludru, isinya biji berlendir seperti markisa, rasanya agak masam",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

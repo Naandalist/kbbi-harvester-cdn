@@ -1,1 +1,85 @@
-{"word":"ladi","authenticated":true,"entries":[{"id":"45734","nama":"la.di","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kata sapaan kepada orang Sakai","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"pengiring","contoh":[]}]},{"id":"260725","nama":"la.di","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Eln","nama":"Elnama","tipe":"lainnya"}],"definisi":"rongga pada kumpulan akar pohon besar di hutan, digunakan untuk menyimpan barang seperti parang atau cangkul","contoh":[]}]},{"id":"263148","nama":"LADI","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"sing","nama":"singkatan","tipe":"kelas_kata"}],"definisi":"Lembaga Anti Doping Indonesia (satuan tugas di lingkungan Kementerian Pemuda dan Olahraga yang melaksanakan ketentuan antidoping di Indonesia)","contoh":[]}]}]}
+{
+  "word": "ladi",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "45734",
+      "nama": "la.di",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kata sapaan kepada orang Sakai",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "pengiring",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "260725",
+      "nama": "la.di",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Eln",
+              "nama": "Elnama",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "rongga pada kumpulan akar pohon besar di hutan, digunakan untuk menyimpan barang seperti parang atau cangkul",
+          "contoh": []
+        }
+      ]
+    },
+    {
+      "id": "263148",
+      "nama": "LADI",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "sing",
+              "nama": "singkatan",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Lembaga Anti Doping Indonesia (satuan tugas di lingkungan Kementerian Pemuda dan Olahraga yang melaksanakan ketentuan antidoping di Indonesia)",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

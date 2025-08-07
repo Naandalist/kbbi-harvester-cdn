@@ -1,1 +1,78 @@
-{"word":"lala","authenticated":true,"entries":[{"id":"46069","nama":"la.la","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"siput","contoh":[]}],"terkait":{"kataTurunan":["melala"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"46070","nama":"la.la","nomor":"2","makna":[{"nomor":"1","kelasKata":[],"definisi":"⇢ Tesaurus prakategorial melala","contoh":[]}],"terkait":{"kataTurunan":["melala"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"99664","nama":"La.la","nomor":"3","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Bm","nama":"Bima","tipe":"lainnya"}],"definisi":"gelar untuk bangsawan perempuan suku Bima yang masih gadis","contoh":[]}]}]}
+{
+  "word": "lala",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "46069",
+      "nama": "la.la",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "siput",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melala"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "46070",
+      "nama": "la.la",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [],
+          "definisi": "⇢ Tesaurus prakategorial melala",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melala"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "99664",
+      "nama": "La.la",
+      "nomor": "3",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Bm",
+              "nama": "Bima",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "gelar untuk bangsawan perempuan suku Bima yang masih gadis",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,119 @@
-{"word":"lepoh","authenticated":true,"entries":[{"id":"48789","nama":"le.poh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Mk","nama":"Minangkabau","tipe":"bahasa"}],"definisi":"melepoh","contoh":[]}],"terkait":{"kataTurunan":["melepoh","terlepoh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"48791","nama":"le.poh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"}],"definisi":"terlepoh","contoh":[]}],"terkait":{"kataTurunan":["terlepoh"],"gabunganKata":[],"peribahasa":[],"idiom":[]}},{"id":"284312","nama":"le.poh","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"v","nama":"Verba","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"menyentuh tanah","contoh":[{"nomor":2,"teks":"rambutnya sangat panjang hampir --"}]}]},{"id":"176549","nama":"le.poh","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"},{"kode":"Ri","nama":"Melayu Riau","tipe":"lainnya"}],"definisi":"genangan air di hutan bakau","contoh":[]}]}]}
+{
+  "word": "lepoh",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "48789",
+      "nama": "le.poh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Mk",
+              "nama": "Minangkabau",
+              "tipe": "bahasa"
+            }
+          ],
+          "definisi": "melepoh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "melepoh",
+          "terlepoh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "48791",
+      "nama": "le.poh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "terlepoh",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [
+          "terlepoh"
+        ],
+        "gabunganKata": [],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "284312",
+      "nama": "le.poh",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "v",
+              "nama": "Verba",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "menyentuh tanah",
+          "contoh": [
+            {
+              "nomor": 2,
+              "teks": "rambutnya sangat panjang hampir --"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "176549",
+      "nama": "le.poh",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            },
+            {
+              "kode": "Ri",
+              "nama": "Melayu Riau",
+              "tipe": "lainnya"
+            }
+          ],
+          "definisi": "genangan air di hutan bakau",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
