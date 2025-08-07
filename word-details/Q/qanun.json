@@ -1,1 +1,64 @@
-{"word":"qanun","authenticated":true,"entries":[{"id":"66431","nama":"qa.nun","nomor":"1","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"undang-undang; peraturan; hukum; kaidah","contoh":[]},{"nomor":"2","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"kitab undang-undang","contoh":[]}],"terkait":{"kataTurunan":[],"gabunganKata":["qanun asasi"],"peribahasa":[],"idiom":[]}},{"id":"100475","nama":"qa.nun","nomor":"2","makna":[{"nomor":"1","kelasKata":[{"kode":"n","nama":"Nomina","tipe":"kelas_kata"}],"definisi":"alat musik petik dari Arab, mirip kecapi, memiliki 81 dawai","contoh":[]}]}]}
+{
+  "word": "qanun",
+  "authenticated": true,
+  "entries": [
+    {
+      "id": "66431",
+      "nama": "qa.nun",
+      "nomor": "1",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "undang-undang; peraturan; hukum; kaidah",
+          "contoh": []
+        },
+        {
+          "nomor": "2",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "kitab undang-undang",
+          "contoh": []
+        }
+      ],
+      "terkait": {
+        "kataTurunan": [],
+        "gabunganKata": [
+          "qanun asasi"
+        ],
+        "peribahasa": [],
+        "idiom": []
+      }
+    },
+    {
+      "id": "100475",
+      "nama": "qa.nun",
+      "nomor": "2",
+      "makna": [
+        {
+          "nomor": "1",
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "alat musik petik dari Arab, mirip kecapi, memiliki 81 dawai",
+          "contoh": []
+        }
+      ]
+    }
+  ]
+}
