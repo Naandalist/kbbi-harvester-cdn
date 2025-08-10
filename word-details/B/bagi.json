@@ -16,12 +16,11 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata depan untuk menyatakan tujuan; untuk",
+          "definisi": "kata depan yang digunakan untuk menyatakan tujuan atau penerima suatu hal; sinonim dengan 'untuk'.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "disediakan hadiah -- pemenang pertama, kedua, dan ketiga"
-            }
+            { "nomor": 1, "teks": "Disediakan hadiah -- pemenang pertama, kedua, dan ketiga." },
+            { "nomor": 2, "teks": "Uang bantuan ini diberikan -- warga terdampak bencana." },
+            { "nomor": 3, "teks": "Pendidikan adalah hal penting -- masa depan anak-anak." }
           ]
         },
         {
@@ -33,20 +32,17 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata depan untuk menyatakan perihal; akan (hal); tentang (hal); menurut (pendapat)",
+          "definisi": "kata depan untuk menyatakan perihal, hal yang dibicarakan, atau sudut pandang seseorang; sinonim dengan 'tentang' atau 'menurut'.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "-- saya, hal itu tidak perlu diperdebatkan lagi"
-            }
+            { "nomor": 1, "teks": "-- saya, hal itu tidak perlu diperdebatkan lagi." },
+            { "nomor": 2, "teks": "-- guru, ujian ini cukup sulit bagi sebagian siswa." },
+            { "nomor": 3, "teks": "-- aturan, tindakan itu tidak dibenarkan." }
           ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [
@@ -65,11 +61,7 @@
           "terbagi",
           "terbagikan"
         ],
-        "gabunganKata": [
-          "bagi anak",
-          "bagi hasil",
-          "bagi kecil"
-        ],
+        "gabunganKata": ["bagi anak", "bagi hasil", "bagi kecil"],
         "peribahasa": [
           "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta"
         ],
@@ -77,7 +69,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta",
-            "makna": ""
+            "makna": "Orang yang tidak peka atau tidak peduli tidak akan terpengaruh oleh peringatan atau tanda bahaya."
           }
         ]
       }
@@ -90,60 +82,44 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "membagi",
+          "definisi": "tindakan membagi atau menyerahkan bagian dari sesuatu kepada orang lain.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "hasil panen kemarin sudah saya --"
-            }
+            { "nomor": 1, "teks": "Hasil panen kemarin sudah saya --." },
+            { "nomor": 2, "teks": "Kami akan -- makanan ini secara merata." },
+            { "nomor": 3, "teks": "Ayah -- warisan kepada semua anaknya." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "pecahan dari sesuatu yang utuh; penggal; pecah",
-          "contoh": []
+          "definisi": "bagian atau pecahan dari sesuatu yang utuh; penggalan dari keseluruhan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Setiap -- kue dibagikan kepada tamu." },
+            { "nomor": 2, "teks": "Dia mengambil -- dari hasil penjualan." },
+            { "nomor": 3, "teks": "Perusahaan mendapatkan -- laba yang besar." }
+          ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Mat",
-              "nama": "Matematika",
-              "tipe": "bidang_subjek"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Mat", "nama": "Matematika", "tipe": "bidang_subjek" }
           ],
-          "definisi": "suatu operasi aljabar yang biasa dinyatakan dengan simbol titik dua (:) atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b",
+          "definisi": "operasi matematika yang digunakan untuk membagi suatu bilangan dengan bilangan lainnya, biasanya dinyatakan dengan simbol titik dua (:), garis bagi (÷), atau garis miring (/).",
           "contoh": [
-            {
-              "nomor": 1,
-              "teks": ") atau garis bagi (-) atau garis miring (/) (a:b atau - atau a/b) misalnya a:b = c (a dibagi b sama dengan c), berarti a = c x b"
-            }
+            { "nomor": 1, "teks": "8 : 4 = 2 adalah contoh operasi --." },
+            { "nomor": 2, "teks": "Bilangan 20 -- 5 sama dengan 4." },
+            { "nomor": 3, "teks": "Dalam persamaan 12 / 3 = 4, tanda / menunjukkan operasi --." }
           ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [
@@ -162,11 +138,7 @@
           "terbagi",
           "terbagikan"
         ],
-        "gabunganKata": [
-          "bagi anak",
-          "bagi hasil",
-          "bagi kecil"
-        ],
+        "gabunganKata": ["bagi anak", "bagi hasil", "bagi kecil"],
         "peribahasa": [],
         "idiom": []
       }
@@ -179,26 +151,20 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Mt",
-              "nama": "Mentawai",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Mt", "nama": "Mentawai", "tipe": "lainnya" }
           ],
-          "definisi": "panggilan kepada adik bungsu",
-          "contoh": []
+          "definisi": "sapaan atau panggilan sayang yang digunakan untuk menyebut adik bungsu dalam keluarga atau komunitas tertentu.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bagi, tolong ambilkan air untuk Ibu." },
+            { "nomor": 2, "teks": "Mereka memanggil adik bungsu itu dengan sebutan 'Bagi'." },
+            { "nomor": 3, "teks": "Dalam adat Mentawai, 'Bagi' adalah panggilan khusus untuk si bungsu." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भाग bhāga n m 'porsi, bagian, kompartemen, divisi']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [],

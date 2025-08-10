@@ -9,77 +9,58 @@
       "makna": [
         {
           "nomor": "1",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "menimbun-nimbun tanah supaya tinggi; membumbun tanah (pada tanaman dan sebagainya)",
-          "contoh": []
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Menimbun atau menumpuk tanah sehingga menjadi lebih tinggi, biasanya untuk memperbaiki struktur lahan atau melindungi tanaman.",
+          "contoh": [
+            { "nomor": 1, "teks": "Petani menambak tanah di sekitar batang padi untuk memperkokoh tanaman." },
+            { "nomor": 2, "teks": "Mereka menambak tanah di tepi sungai agar tidak mudah longsor." },
+            { "nomor": 3, "teks": "Pekerja kebun menambak tanah di sekitar pohon muda untuk melindungi akarnya." }
+          ]
         },
         {
           "nomor": "2",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "menampali pematang dan sebagainya dengan tanah (untuk memperbaiki pematang itu)",
-          "contoh": []
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Menutup atau menambal pematang dengan tanah untuk memperbaikinya dan mencegah kebocoran air.",
+          "contoh": [
+            { "nomor": 1, "teks": "Petani menambak pematang sawah yang bocor agar air tidak keluar." },
+            { "nomor": 2, "teks": "Mereka menambak pematang tambak ikan yang rusak akibat banjir." },
+            { "nomor": 3, "teks": "Pekerja ladang menambak pematang yang terkikis hujan deras." }
+          ]
         },
         {
           "nomor": "3",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "membuat tambak",
-          "contoh": []
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Membangun atau membuat tambak, biasanya untuk budidaya ikan atau udang.",
+          "contoh": [
+            { "nomor": 1, "teks": "Mereka menambak lahan di dekat pantai untuk budidaya udang." },
+            { "nomor": 2, "teks": "Penduduk desa mulai menambak rawa untuk usaha perikanan." },
+            { "nomor": 3, "teks": "Investor menambak kawasan pesisir sebagai proyek budidaya perikanan modern." }
+          ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "Kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "melepakan, menempelkan (obat dan sebagainya) pada",
-          "contoh": []
+          "definisi": "Melekatkan atau menempelkan sesuatu, seperti obat atau bahan lain, pada permukaan tertentu.",
+          "contoh": [
+            { "nomor": 1, "teks": "Perawat menambak obat pada luka pasien." },
+            { "nomor": 2, "teks": "Ia menambak plester pada jari yang terluka." },
+            { "nomor": 3, "teks": "Dokter menambak salep pada kulit yang terkena infeksi." }
+          ]
         },
         {
           "nomor": "5",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "Kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "membendung; menahan",
+          "definisi": "Membendung atau menahan aliran sesuatu, baik secara fisik maupun dalam arti kiasan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "peraturan itu dimaksudkan untuk ~ mengalirnya benda-benda purbakala ke luar negeri"
-            }
+            { "nomor": 1, "teks": "Peraturan itu dimaksudkan untuk menambak aliran barang ilegal ke luar negeri." },
+            { "nomor": 2, "teks": "Mereka menambak penyebaran berita palsu melalui media sosial." },
+            { "nomor": 3, "teks": "Pemerintah berusaha menambak arus urbanisasi yang berlebihan." }
           ]
         }
       ],
@@ -96,15 +77,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "menambak gunung, menggarami air laut",
-            "makna": ""
+            "makna": "Melakukan pekerjaan yang tidak bermanfaat karena objek yang dikerjakan sudah sangat berlimpah atau tidak membutuhkan tambahan."
           },
           {
             "peribahasa": "menambak gunung, menggarami laut",
-            "makna": ""
+            "makna": "Melakukan pekerjaan yang sia-sia karena tidak memberikan perubahan berarti pada keadaan yang sudah ada."
           },
           {
             "peribahasa": "menambak ke laut",
-            "makna": "melakukan pekerjaan yang sia-sia atau tidak ada gunanya, karena tidak akan memberikan hasil yang berarti."
+            "makna": "Melakukan pekerjaan yang sia-sia atau tidak ada gunanya, karena tidak akan memberikan hasil yang berarti."
           }
         ]
       }

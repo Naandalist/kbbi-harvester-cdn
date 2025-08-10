@@ -10,8 +10,12 @@
         {
           "nomor": "1",
           "kelasKata": [],
-          "definisi": "lihat baru1",
-          "contoh": []
+          "definisi": "merujuk pada kata 'baru¹', yaitu sesuatu yang belum lama ada, dibuat, diperoleh, atau terjadi; bersifat masih segar atau belum pernah digunakan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Dia membeli baju baharu untuk acara pernikahan." },
+            { "nomor": 2, "teks": "Peraturan baharu mulai berlaku mulai bulan depan." },
+            { "nomor": 3, "teks": "Rumah itu tampak indah setelah dicat dengan warna baharu." }
+          ]
         }
       ],
       "terkait": {
@@ -31,11 +35,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "kalau kubuka tempayan budu, baharu tahu",
-            "makna": ""
+            "makna": "Segala sesuatu hanya akan diketahui atau disadari setelah dibuka atau dicoba."
           },
           {
             "peribahasa": "sudah tidak tersudu oleh angsa, baharu diberikan kepada itik",
-            "makna": ""
+            "makna": "Sesuatu yang sudah tidak diinginkan oleh orang yang lebih baik, barulah diberikan kepada orang yang dianggap lebih rendah."
           }
         ]
       }
@@ -48,20 +52,18 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "ketang-ketang",
-          "contoh": []
+          "definisi": "sejenis ketam atau kepiting kecil yang hidup di air tawar atau payau; dikenal juga sebagai ketang-ketang.",
+          "contoh": [
+            { "nomor": 1, "teks": "Anak-anak bermain di sungai sambil menangkap baharu." },
+            { "nomor": 2, "teks": "Baharu biasanya ditemukan bersembunyi di bawah batu di sungai." },
+            { "nomor": 3, "teks": "Penduduk setempat menjadikan baharu sebagai lauk tambahan." }
+          ]
         }
       ],
       "terkait": {
-        "kataTurunan": [
-          "baharu-baharu"
-        ],
+        "kataTurunan": ["baharu-baharu"],
         "gabunganKata": [],
         "peribahasa": [],
         "idiom": []

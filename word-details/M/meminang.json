@@ -10,40 +10,26 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "meminta seorang perempuan (untuk dijadikan istri); melamar",
+          "definisi": "Mengajukan permintaan resmi kepada pihak keluarga seorang perempuan untuk menjadikannya sebagai istri; melamar dalam konteks pernikahan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "tidak ada yang berani ~ anak jutawan itu"
-            }
+            { "nomor": 1, "teks": "Tidak ada yang berani meminang anak jutawan itu." },
+            { "nomor": 2, "teks": "Ia datang bersama keluarganya untuk meminang gadis pujaan hatinya." },
+            { "nomor": 3, "teks": "Keluarga pria mengirim utusan untuk meminang putri bangsawan tersebut." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "melamar (pekerjaan dan sebagainya)",
+          "definisi": "Mengajukan permohonan atau lamaran untuk memperoleh sesuatu, seperti pekerjaan, jabatan, atau kesempatan tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kabarnya lebih dari seratus orang yang ~ pekerjaan itu"
-            }
+            { "nomor": 1, "teks": "Kabarnya lebih dari seratus orang yang meminang pekerjaan itu." },
+            { "nomor": 2, "teks": "Ia meminang posisi manajer di perusahaan multinasional." },
+            { "nomor": 3, "teks": "Banyak pelamar meminang beasiswa bergengsi tersebut." }
           ]
         }
       ],
@@ -60,15 +46,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "adat meminang sama duduk",
-            "makna": ""
+            "makna": "Segala urusan, terutama dalam lamaran pernikahan, harus dibicarakan dan disepakati bersama antara kedua belah pihak secara musyawarah."
           },
           {
             "peribahasa": "pipit meminang anak enggang",
-            "makna": ""
+            "makna": "Orang yang berasal dari golongan rendah atau kurang berada mencoba melamar atau menjalin hubungan dengan orang dari kalangan yang jauh lebih tinggi kedudukannya."
           },
           {
             "peribahasa": "tabuhan meminang anak laba-laba",
-            "makna": ""
+            "makna": "Orang yang tidak sepadan dalam kedudukan atau kemampuan mencoba melamar atau menjalin hubungan dengan pihak yang jauh lebih tinggi statusnya."
           }
         ]
       }

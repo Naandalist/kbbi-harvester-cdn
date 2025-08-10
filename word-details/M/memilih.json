@@ -10,56 +10,37 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menentukan (mengambil dan sebagainya) sesuatu yang dianggap sesuai dengan kesukaan (selera dan sebagainya)",
+          "definisi": "Menentukan atau mengambil sesuatu yang dianggap paling sesuai dengan selera, kebutuhan, atau pertimbangan tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "hati-hati kalau Anda hendak ~ kawan hidup"
-            }
+            { "nomor": 1, "teks": "Hati-hati kalau Anda hendak memilih kawan hidup." },
+            { "nomor": 2, "teks": "Ia memilih pakaian yang paling nyaman untuk acara tersebut." },
+            { "nomor": 3, "teks": "Kami memilih restoran yang memiliki suasana tenang." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "mencari atau memisah-misahkan mana yang baik (besar, kecil, dan sebagainya)",
+          "definisi": "Memilah atau memisahkan sesuatu berdasarkan kriteria tertentu, seperti kualitas, ukuran, atau jenis.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pekerjaannya ~ daun teh yang sudah dikumpulkan di pabrik"
-            }
+            { "nomor": 1, "teks": "Pekerjaannya memilih daun teh yang sudah dikumpulkan di pabrik." },
+            { "nomor": 2, "teks": "Mereka memilih biji kopi berkualitas tinggi untuk diekspor." },
+            { "nomor": 3, "teks": "Petani itu memilih bibit padi yang terbaik sebelum musim tanam." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menunjuk (orang, calon, dan sebagainya) dengan memberikan suaranya",
+          "definisi": "Menunjuk atau menetapkan seseorang atau sesuatu melalui proses pemberian suara, penunjukan resmi, atau kesepakatan bersama.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "rakyat boleh ~ wakilnya dengan bebas"
-            },
-            {
-              "nomor": 4,
-              "teks": "mereka ~nya menjadi ketua rukun tetangga"
-            }
+            { "nomor": 1, "teks": "Rakyat boleh memilih wakilnya dengan bebas." },
+            { "nomor": 2, "teks": "Mereka memilihnya menjadi ketua rukun tetangga." },
+            { "nomor": 3, "teks": "Para anggota memilih direktur baru dalam rapat umum." }
           ]
         }
       ],
@@ -75,11 +56,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "bagai memilih buah kelapa",
-            "makna": ""
+            "makna": "Suatu proses pemilihan yang memerlukan ketelitian dan pertimbangan untuk mendapatkan hasil yang terbaik, karena kualitas tidak selalu terlihat dari luar."
           },
           {
             "peribahasa": "benih yang baik tak memilih tanah",
-            "makna": ""
+            "makna": "Orang yang memiliki bakat, kemampuan, atau kepribadian baik akan tetap berkembang dan berprestasi di lingkungan atau kondisi apa pun."
           }
         ]
       }

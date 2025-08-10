@@ -10,14 +10,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "getah (dari tumbuhan yang dipulaskan pada ranting kayu untuk menangkap burung)",
-          "contoh": []
+          "definisi": "Getah dari tumbuhan yang dioleskan pada ranting atau batang kayu untuk menangkap burung atau serangga.",
+          "contoh": [
+            { "nomor": 1, "teks": "Pemburu itu mengoleskan pulut pada ranting untuk menjebak burung pipit." },
+            { "nomor": 2, "teks": "Pulut dipasang di sekitar ladang untuk mencegah hama burung." },
+            { "nomor": 3, "teks": "Ia membuat pulut dari getah nangka untuk menangkap serangga." }
+          ]
         }
       ],
       "terkait": {
@@ -40,7 +40,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "dilihat pulut, ditanak berderai",
-            "makna": ""
+            "makna": "Sesuatu yang tampaknya baik atau menjanjikan, tetapi pada kenyataannya mengecewakan atau tidak seperti yang diharapkan."
           }
         ]
       }
@@ -53,26 +53,26 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "padi yang berasnya menjadi lengket dan kenyal jika dimasak; beras ketan",
-          "contoh": []
+          "definisi": "Padi atau beras yang akan menjadi lengket dan kenyal apabila dimasak; beras ketan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Pulut sering digunakan untuk membuat kue tradisional." },
+            { "nomor": 2, "teks": "Beras pulut dimasak dengan santan untuk menghasilkan rasa gurih." },
+            { "nomor": 3, "teks": "Pedagang itu menjual pulut putih dan pulut hitam di pasar." }
+          ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "penganan yang dibuat dari beras ketan seperti -- kinca, -- panggang, -- udang, -- urap",
-          "contoh": []
+          "definisi": "Penganan yang dibuat dari beras ketan, seperti pulut kinca, pulut panggang, pulut udang, atau pulut urap.",
+          "contoh": [
+            { "nomor": 1, "teks": "Pulut panggang dijajakan hangat-hangat di tepi jalan." },
+            { "nomor": 2, "teks": "Pulut udang menjadi hidangan khas saat perayaan adat." },
+            { "nomor": 3, "teks": "Ia membawa pulut kinca sebagai oleh-oleh untuk keluarganya." }
+          ]
         }
       ],
       "terkait": {

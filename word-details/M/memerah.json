@@ -10,18 +10,13 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menjadi merah",
+          "definisi": "Mengalami perubahan warna menjadi merah, baik pada benda maupun kulit, akibat pengaruh panas, emosi, atau reaksi fisiologis tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "besi yang dibakar itu mula-mula ~ kemudian lebur"
-            }
+            { "nomor": 1, "teks": "Besi yang dibakar itu mula-mula memerah kemudian lebur." },
+            { "nomor": 2, "teks": "Pipinya memerah karena malu setelah dipuji di depan kelas." },
+            { "nomor": 3, "teks": "Daun itu memerah saat musim gugur tiba." }
           ]
         }
       ],
@@ -41,11 +36,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "memerah santan di kuku",
-            "makna": ""
+            "makna": "Melakukan pekerjaan yang sangat sulit atau hampir mustahil, seperti memeras santan hanya dengan kuku."
           },
           {
             "peribahasa": "umpama memerah nyiur, santan diambil, ampas dibuang",
-            "makna": "mengambil keuntungan atau manfaat dari seseorang atau sesuatu, kemudian membuang atau meninggalkan yang sudah tidak berguna."
+            "makna": "Mengambil manfaat atau keuntungan dari seseorang atau sesuatu, kemudian menyingkirkannya setelah dianggap tidak berguna lagi."
           }
         ]
       }
@@ -58,22 +53,13 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memeras (memijit) supaya keluar airnya: memeras kelapa yang sudah dikukur supaya keluar santannya",
+          "definisi": "Memeras atau memijit suatu bahan agar cairan di dalamnya keluar, seperti memeras kelapa untuk mendapatkan santan atau memeras susu sapi.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "~ kelapa"
-            },
-            {
-              "nomor": 4,
-              "teks": "~ susu sapi"
-            }
+            { "nomor": 1, "teks": "Memerah kelapa parut untuk mendapatkan santan kental." },
+            { "nomor": 2, "teks": "Peternak itu memerah susu sapi setiap pagi." },
+            { "nomor": 3, "teks": "Ia memerah tebu untuk membuat minuman segar." }
           ]
         }
       ],

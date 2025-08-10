@@ -10,87 +10,51 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "sesuatu yang terdengar (didengar) atau ditangkap oleh telinga",
+          "definisi": "Sesuatu yang terdengar (didengar) atau ditangkap oleh telinga",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "-- meriam"
-            },
-            {
-              "nomor": 4,
-              "teks": "-- burung"
-            }
+            { "nomor": 1, "teks": "Bunyi meriam terdengar hingga ke desa sebelah." },
+            { "nomor": 2, "teks": "Bunyi burung pagi itu terdengar merdu." },
+            { "nomor": 3, "teks": "Bunyi pintu berderit membuatnya terbangun." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "nada; laras (pada alat musik atau nyanyian dan sebagainya)",
+          "definisi": "Nada; laras (pada alat musik atau nyanyian dan sebagainya)",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "-- piano"
-            },
-            {
-              "nomor": 4,
-              "teks": "-- gamelan"
-            }
+            { "nomor": 1, "teks": "Bunyi piano itu lembut dan menenangkan." },
+            { "nomor": 2, "teks": "Bunyi gamelan mengiringi upacara adat." },
+            { "nomor": 3, "teks": "Ia menyesuaikan bunyi gitar sebelum mulai bermain." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Ling",
-              "nama": "Linguistik",
-              "tipe": "bidang_subjek"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Ling", "nama": "Linguistik", "tipe": "bidang_subjek" }
           ],
-          "definisi": "kesan pada pusat saraf sebagai akibat getaran gendang telinga yang bereaksi karena perubahan-perubahan dalam tekanan udara",
+          "definisi": "Kesan pada pusat saraf sebagai akibat getaran gendang telinga yang bereaksi karena perubahan-perubahan dalam tekanan udara",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "dalam bahasa Jepang -- “n” dan “ng” pada akhir kata hampir tidak berbeda"
-            }
+            { "nomor": 1, "teks": "Dalam bahasa Jepang, bunyi 'n' dan 'ng' pada akhir kata hampir tidak berbeda." },
+            { "nomor": 2, "teks": "Bunyi konsonan ini berbeda dengan bunyi vokal." },
+            { "nomor": 3, "teks": "Anak-anak belajar membedakan bunyi huruf di sekolah." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Ling",
-              "nama": "Linguistik",
-              "tipe": "bidang_subjek"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Ling", "nama": "Linguistik", "tipe": "bidang_subjek" }
           ],
-          "definisi": "ucapan apa yang tertulis (surat, huruf, dan sebagainya)",
+          "definisi": "Ucapan apa yang tertulis (surat, huruf, dan sebagainya)",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "bagaimana -- surat itu"
-            }
+            { "nomor": 1, "teks": "Bagaimana bunyi surat itu?" },
+            { "nomor": 2, "teks": "Bunyi peraturan ini jelas dan tegas." },
+            { "nomor": 3, "teks": "Guru menjelaskan bunyi pasal dalam undang-undang." }
           ]
         }
       ],
@@ -135,35 +99,35 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "bagai bunyi cempedak jatuh",
-            "makna": "Bunyi jatuh yang kuat; bunyi yang sangat kuat/keras."
+            "makna": "Bunyi jatuh yang kuat; bunyi yang sangat keras."
           },
           {
             "peribahasa": "bagai bunyi siamang kenyang",
-            "makna": "Banyak bercakap atau berbunyi karena mendapat kesenangan atau kegembiraan."
+            "makna": "Banyak bercakap atau berbunyi karena gembira."
           },
           {
             "peribahasa": "bagaimana bunyi gendang, begitulah tarinya",
-            "makna": ""
+            "makna": "Perilaku atau tindakan seseorang menyesuaikan dengan situasi atau arahan yang berlaku."
           },
           {
             "peribahasa": "baik rupa sepemandangan, baik bunyi sependengaran",
-            "makna": ""
+            "makna": "Seseorang yang memiliki penampilan menarik dan ucapan yang menyenangkan."
           },
           {
             "peribahasa": "bunyi perempuan di air",
-            "makna": ""
+            "makna": "Kabar atau gosip yang cepat tersebar, terutama di kalangan wanita."
           },
           {
             "peribahasa": "bunyi seperti kumbang dijolok",
-            "makna": ""
+            "makna": "Bunyi yang nyaring dan berisik akibat terusik."
           },
           {
             "peribahasa": "mati kuang karena bunyi",
-            "makna": ""
+            "makna": "Celaka atau binasa karena membocorkan rahasia atau banyak bicara."
           },
           {
             "peribahasa": "yang dimakan rasa, yang dilihat rupa, yang didengar bunyi",
-            "makna": ""
+            "makna": "Segala sesuatu dinikmati sesuai dengan indera yang menanggapinya."
           }
         ]
       }
@@ -176,19 +140,15 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ark",
-              "nama": "Arkais",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ark", "nama": "Arkais", "tipe": "kelas_kata" }
           ],
-          "definisi": "sembunyi",
-          "contoh": []
+          "definisi": "Sembunyi",
+          "contoh": [
+            { "nomor": 1, "teks": "Anak itu bunyi di balik pintu agar tidak terlihat." },
+            { "nomor": 2, "teks": "Ia bunyi di bawah meja ketika bermain petak umpet." },
+            { "nomor": 3, "teks": "Mereka bunyi di semak-semak saat hujan." }
+          ]
         }
       ],
       "terkait": {

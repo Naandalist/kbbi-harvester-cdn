@@ -10,14 +10,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "aliran air yang deras di sungai (hampir seperti air terjun, tetapi rendah sekali)",
-          "contoh": []
+          "definisi": "Aliran air deras di sungai yang menyerupai air terjun namun dengan ketinggian rendah.",
+          "contoh": [
+            { "nomor": 1, "teks": "Perahu mereka hampir terbalik saat melewati riam yang deras." },
+            { "nomor": 2, "teks": "Suara gemuruh riam terdengar hingga ke pemukiman warga." },
+            { "nomor": 3, "teks": "Kami berhenti sejenak di tepi sungai untuk menikmati pemandangan riam." }
+          ]
         }
       ],
       "terkait": {
@@ -30,7 +30,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "lebih baik menyesal di hulu riam, daripada menyesal di hilir riam",
-            "makna": ""
+            "makna": "Lebih baik menyesal atau memperbaiki kesalahan sejak awal sebelum akibatnya semakin parah di kemudian hari."
           }
         ]
       }
@@ -43,19 +43,15 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Man",
-              "nama": "Manajemen",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Man", "nama": "Manajemen", "tipe": "lainnya" }
           ],
-          "definisi": "hubungan berantai antarberbagai kelompok dalam proses produksi, yaitu kelompok yang satu menjadi masukan bagi kelompok yang lain",
-          "contoh": []
+          "definisi": "Hubungan berantai antarberbagai kelompok dalam proses produksi, di mana keluaran dari satu kelompok menjadi masukan bagi kelompok berikutnya.",
+          "contoh": [
+            { "nomor": 1, "teks": "Dalam sistem riam produksi, bagian pemotongan bahan menjadi pemasok langsung bagi bagian perakitan." },
+            { "nomor": 2, "teks": "Efisiensi riam dalam proses manufaktur memengaruhi kelancaran produksi secara keseluruhan." },
+            { "nomor": 3, "teks": "Manajer pabrik memastikan setiap tahap riam berjalan sesuai jadwal agar tidak terjadi hambatan." }
+          ]
         }
       ],
       "terkait": {

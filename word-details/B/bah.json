@@ -10,22 +10,19 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dan sebagainya); banjir",
-          "contoh": []
+          "definisi": "air yang meluap dan mengalir deras akibat hujan lebat atau luapan sungai, yang menggenangi sawah, perkampungan, atau wilayah lain; banjir.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bah melanda desa itu setelah hujan turun tiga hari berturut-turut." },
+            { "nomor": 2, "teks": "Sawahnya terendam bah sehingga gagal panen." },
+            { "nomor": 3, "teks": "Penduduk bergegas menyelamatkan barang-barang dari bah yang datang tiba-tiba." }
+          ]
         }
       ],
       "terkait": {
         "kataTurunan": [],
-        "gabunganKata": [
-          "bah betina",
-          "bah jantan"
-        ],
+        "gabunganKata": ["bah betina", "bah jantan"],
         "peribahasa": [
           "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
           "sedangkan bah kapar tak hanyut, ini pula kemarau panjang"
@@ -34,11 +31,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "sedangkan bah kapal tak hanyut, ini pula kemarau panjang",
-            "makna": ""
+            "makna": "Jika dalam keadaan sulit saja tidak mengalami kerugian, apalagi dalam keadaan yang lebih mudah."
           },
           {
             "peribahasa": "sedangkan bah kapar tak hanyut, ini pula kemarau panjang",
-            "makna": ""
+            "makna": "Dalam situasi berat saja tidak celaka, apalagi dalam keadaan ringan atau aman."
           }
         ]
       }
@@ -51,50 +48,28 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "p",
-              "nama": "Partikel",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "cak",
-              "nama": "Cakapan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "p", "nama": "Partikel", "tipe": "kelas_kata" },
+            { "kode": "cak", "nama": "Cakapan", "tipe": "kelas_kata" }
           ],
-          "definisi": "kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dan sebagainya) biasa dipakai pada permulaan kalimat",
+          "definisi": "kata seru yang digunakan untuk menyatakan penolakan, rasa muak, jijik, atau jemu, biasanya diucapkan pada awal kalimat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "--, lagi-lagi dia yang muncul"
-            }
+            { "nomor": 1, "teks": "Bah, lagi-lagi dia yang membuat masalah." },
+            { "nomor": 2, "teks": "Bah, makanan ini rasanya aneh sekali." },
+            { "nomor": 3, "teks": "Bah, aku sudah tidak mau mendengar ceritanya lagi." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "p",
-              "nama": "Partikel",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "cak",
-              "nama": "Cakapan",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Bt",
-              "nama": "Batak",
-              "tipe": "bahasa"
-            }
+            { "kode": "p", "nama": "Partikel", "tipe": "kelas_kata" },
+            { "kode": "cak", "nama": "Cakapan", "tipe": "kelas_kata" },
+            { "kode": "Bt", "nama": "Batak", "tipe": "bahasa" }
           ],
-          "definisi": "kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat",
+          "definisi": "kata seru dalam bahasa Batak yang digunakan untuk menyatakan keakraban atau keintiman, biasanya diletakkan di akhir kalimat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "silakan duduk --"
-            }
+            { "nomor": 1, "teks": "Silakan masuk, bah." },
+            { "nomor": 2, "teks": "Kita berangkat sekarang saja, bah." },
+            { "nomor": 3, "teks": "Bagus sekali pekerjaanmu itu, bah." }
           ]
         }
       ],
@@ -113,19 +88,15 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Ri",
-              "nama": "Melayu Riau",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Ri", "nama": "Melayu Riau", "tipe": "lainnya" }
           ],
-          "definisi": "panggilan kepada orang yang lebih tua daripada orang tua kandung",
-          "contoh": []
+          "definisi": "sapaan atau panggilan hormat kepada orang yang usianya lebih tua daripada orang tua kandung, sering digunakan dalam budaya Melayu Riau.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bah, silakan duduk di kursi ini." },
+            { "nomor": 2, "teks": "Saya menemui Bah di rumahnya sore tadi." },
+            { "nomor": 3, "teks": "Bah selalu memberi nasihat yang bijak kepada kami." }
+          ]
         }
       ],
       "terkait": {

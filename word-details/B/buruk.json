@@ -10,52 +10,37 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "rusak atau busuk karena sudah lama",
+          "definisi": "Rusak atau busuk karena sudah lama.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "memakai kain --"
-            }
+            { "nomor": 1, "teks": "Ia masih memakai kain buruk yang robek di beberapa bagian." },
+            { "nomor": 2, "teks": "Sayur itu sudah buruk karena disimpan terlalu lama." },
+            { "nomor": 3, "teks": "Buku tua itu buruk sampulnya akibat dimakan rayap." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "(tentang kelakuan dan sebagainya) jahat; tidak menyenangkan",
+          "definisi": "(Tentang kelakuan dan sebagainya) jahat; tidak menyenangkan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kelakuannya sangat --"
-            }
+            { "nomor": 1, "teks": "Ia memiliki kebiasaan buruk suka menunda pekerjaan." },
+            { "nomor": 2, "teks": "Kelakuannya sangat buruk hingga membuat tetangga resah." },
+            { "nomor": 3, "teks": "Kabar buruk tentang perilakunya cepat menyebar di kampung." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "tidak cantik, tidak elok, jelek (tentang muka, rupa, dan sebagainya)",
+          "definisi": "Tidak cantik, tidak elok, jelek (tentang muka, rupa, dan sebagainya).",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "-- rupa"
-            }
+            { "nomor": 1, "teks": "Buruk rupa tidak menghalangi orang untuk berbuat baik." },
+            { "nomor": 2, "teks": "Meski buruk penampilannya, hatinya sangat dermawan." },
+            { "nomor": 3, "teks": "Pakaian yang tidak rapi membuat penampilannya tampak buruk." }
           ]
         }
       ],
@@ -100,31 +85,31 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "akal laba-laba di gua, buruk suka merakut",
-            "makna": ""
+            "makna": "Orang yang tidak mampu berbuat banyak namun tetap berusaha mengumpulkan keuntungan sedikit demi sedikit."
           },
           {
             "peribahasa": "buruk muka, cermin dibelah",
-            "makna": "Seseorang menyalahkan orang lain atau hal lain atas kesalahan atau kekurangannya sendiri."
+            "makna": "Seseorang menyalahkan pihak lain atas kekurangannya sendiri."
           },
           {
             "peribahasa": "buruk perahu, buruk pangkalan",
-            "makna": "Tidak sudi lagi menginjak rumah bekas istrinya atau tempat bekerja yang telah ditinggalkan."
+            "makna": "Tidak mau lagi kembali ke tempat atau orang yang pernah ditinggalkan."
           },
           {
             "peribahasa": "busuk-busuk embacang (embacang buruk kulit)",
-            "makna": "Seseorang atau sesuatu yang terlihat tidak menarik, tidak bagus, atau bahkan bodoh dari luar, sebenarnya memiliki kualitas yang sangat baik, pandai, atau berhati mulia di dalamnya."
+            "makna": "Orang atau hal yang tampak buruk di luar namun memiliki kebaikan atau kelebihan di dalam."
           },
           {
             "peribahasa": "doa sekapuk buruk",
-            "makna": ""
+            "makna": "Ucapan atau doa yang diulang-ulang, biasanya dengan maksud yang tidak baik atau sindiran."
           },
           {
             "peribahasa": "elok kata dalam mufakat, buruk kata di luar mufakat",
-            "makna": "Segala sesuatu yang hendak dikerjakan atau dilakukan sebaiknya dibicarakan dan dirundingkan terlebih dahulu dengan keluarga atau orang lain yang terkait, agar pekerjaan tersebut berjalan dengan selamat dan baik."
+            "makna": "Sebaiknya segala urusan dibicarakan terlebih dahulu agar hasilnya baik, bukan dibicarakan di luar kesepakatan."
           },
           {
             "peribahasa": "kalau laba bercikun-cikun, buruk diberi tahu orang",
-            "makna": "Seseorang yang mendapatkan kesenangan atau keuntungan akan diam saja, tetapi apabila menderita kesusahan atau kerugian, ia akan berkeluh kesah atau meminta pertolongan orang lain."
+            "makna": "Jika mendapat keuntungan akan diam, tetapi jika mendapat kesusahan akan segera meminta bantuan."
           }
         ]
       }

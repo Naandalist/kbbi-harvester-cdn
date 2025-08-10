@@ -10,14 +10,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "minta",
-          "contoh": []
+          "definisi": "Mengajukan permohonan atau mengungkapkan keinginan untuk memperoleh sesuatu, baik berupa benda, jasa, maupun bantuan, dari orang lain.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia datang untuk meminta bantuan kepada tetangganya." },
+            { "nomor": 2, "teks": "Anak itu meminta izin kepada gurunya untuk pergi ke toilet." },
+            { "nomor": 3, "teks": "Kami meminta tambahan waktu untuk menyelesaikan laporan." }
+          ]
         }
       ],
       "rootWord": "minta",
@@ -32,11 +32,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "meminta tanduk kepada kuda",
-            "makna": ""
+            "makna": "Meminta atau mengharapkan sesuatu yang mustahil diperoleh."
           },
           {
             "peribahasa": "orang kaya tempat meminta, orang pintar tempat bertanya",
-            "makna": "orang kaya menjadi tempat memohon bantuan materi, sedangkan orang pandai menjadi tempat meminta nasihat atau ilmu."
+            "makna": "Orang kaya menjadi tempat memohon bantuan materi, sedangkan orang pandai menjadi tempat meminta nasihat atau ilmu."
           }
         ]
       }

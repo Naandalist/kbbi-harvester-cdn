@@ -9,9 +9,24 @@
       "makna": [
         {
           "nomor": "1",
-          "kelasKata": [],
-          "definisi": "→ rangkiang",
-          "contoh": []
+          "kelasKata": [
+            {
+              "kode": "n",
+              "nama": "Nomina",
+              "tipe": "kelas_kata"
+            }
+          ],
+          "definisi": "Lumbung padi tradisional khas Minangkabau yang biasanya berdiri di halaman rumah gadang, berfungsi untuk menyimpan padi hasil panen.",
+          "contoh": [
+            {
+              "nomor": 1,
+              "teks": "Di halaman rumah gadang itu berdiri tiga buah rengkiang yang penuh berisi padi."
+            },
+            {
+              "nomor": 2,
+              "teks": "Masyarakat Minangkabau membangun rengkiang sebagai simbol kemakmuran keluarga."
+            }
+          ]
         }
       ],
       "terkait": {
@@ -25,11 +40,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "benci akan mencit rengkiang disunu",
-            "makna": ""
+            "makna": "Peribahasa Minangkabau yang menggambarkan tindakan keliru dalam mengatasi masalah, yaitu merusak sesuatu yang bernilai atau bermanfaat (rengkiang sebagai lumbung padi) hanya karena ingin menyingkirkan pihak yang merugikan (mencit/tikus)."
           },
           {
             "peribahasa": "marah akan tikus, rengkiang dibakar",
-            "makna": ""
+            "makna": "Ungkapan kiasan untuk perbuatan yang merugikan diri sendiri atau merusak sesuatu yang penting demi melampiaskan kemarahan kepada hal kecil atau masalah sepele, diibaratkan membakar lumbung padi hanya untuk membunuh tikus."
           }
         ]
       }

@@ -10,38 +10,38 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "tempat berhimpun atau tempat untuk mengumpulkan",
-          "contoh": []
+          "definisi": "Tempat berhimpun atau lokasi yang digunakan untuk mengumpulkan orang, barang, atau informasi.",
+          "contoh": [
+            { "nomor": 1, "teks": "Lapangan desa menjadi pumpunan warga saat acara festival budaya." },
+            { "nomor": 2, "teks": "Balai kota berfungsi sebagai pumpunan aspirasi masyarakat." },
+            { "nomor": 3, "teks": "Gudang ini dijadikan pumpunan hasil panen petani." }
+          ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "kumpulan; himpunan",
-          "contoh": []
+          "definisi": "Kumpulan atau himpunan yang terdiri dari banyak unsur atau bagian.",
+          "contoh": [
+            { "nomor": 1, "teks": "Pumpunan dokumen penelitian itu disimpan di perpustakaan universitas." },
+            { "nomor": 2, "teks": "Di meja kerjanya terdapat pumpunan berkas yang harus segera diproses." },
+            { "nomor": 3, "teks": "Pumpunan foto keluarga tersusun rapi di album lama." }
+          ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "titik atau pusat perhatian; fokus",
-          "contoh": []
+          "definisi": "Titik atau pusat perhatian; fokus suatu kegiatan atau pembahasan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Isu lingkungan menjadi pumpunan diskusi seminar tersebut." },
+            { "nomor": 2, "teks": "Keamanan publik adalah pumpunan kebijakan baru pemerintah." },
+            { "nomor": 3, "teks": "Pemain bintang itu menjadi pumpunan perhatian penonton." }
+          ]
         }
       ],
       "rootWord": "pumpun¹",
@@ -57,7 +57,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "pusat jala pumpunan ikan",
-            "makna": ""
+            "makna": "Tempat atau titik yang menjadi pusat berkumpulnya orang atau objek, khususnya yang menjadi sumber atau pusat perhatian."
           }
         ]
       }

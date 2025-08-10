@@ -10,40 +10,26 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "membawa barang dengan menggantungkannya di tongkat (pikulan) yang ditaruh di atas bahu; menggandar",
+          "definisi": "Membawa suatu barang dengan cara menggantungkannya pada tongkat (pikulan) yang diletakkan di atas bahu, biasanya untuk memindahkan beban berat secara manual.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "siapa yang akan ~ padi ini"
-            }
+            { "nomor": 1, "teks": "Siapa yang akan memikul padi ini ke lumbung?" },
+            { "nomor": 2, "teks": "Ia memikul dua keranjang sayur menuju pasar." },
+            { "nomor": 3, "teks": "Petani tua itu memikul hasil panennya di bawah terik matahari." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "Kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "menanggung",
+          "definisi": "Menanggung atau memikul beban tanggung jawab, kewajiban, atau penderitaan, baik secara fisik maupun moral.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kita sekalian yang akan ~ ongkosnya"
-            }
+            { "nomor": 1, "teks": "Kita sekalian yang akan memikul ongkosnya." },
+            { "nomor": 2, "teks": "Sebagai pemimpin, ia memikul beban berat rakyatnya." },
+            { "nomor": 3, "teks": "Anak sulung itu memikul tanggung jawab mengurus adik-adiknya." }
           ]
         }
       ],
@@ -63,27 +49,27 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "berapa berat mata memandang, berat juga bahu memikul",
-            "makna": ""
+            "makna": "Penderitaan atau kesulitan yang dialami orang lain mungkin tampak berat dari pandangan luar, tetapi yang benar-benar merasakannya adalah orang yang mengalaminya."
           },
           {
             "peribahasa": "mata memandang apa hendak sakit, bahu memikul timpa perasaan (seberapa berat mata menentang, berat jua bahu memikul)",
-            "makna": ""
+            "makna": "Orang luar tidak akan sepenuhnya memahami beban penderitaan yang dirasakan oleh orang yang menjalaninya."
           },
           {
             "peribahasa": "memikul di bahu, menjunjung di kepala",
-            "makna": ""
+            "makna": "Memikul beban tanggung jawab yang besar dan melaksanakannya dengan penuh kehormatan."
           },
           {
             "peribahasa": "tangan mencencang (memetik, menetak) bahu memikul",
-            "makna": ""
+            "makna": "Setiap perbuatan memiliki konsekuensinya, dan pelaku harus siap menanggung akibatnya."
           },
           {
             "peribahasa": "tangan mencencang, bahu memikul",
-            "makna": ""
+            "makna": "Orang yang melakukan suatu perbuatan harus siap menanggung risikonya."
           },
           {
             "peribahasa": "tangan menetak (mencencang), bahu memikul",
-            "makna": "siapa yang berbuat (melakukan kesalahan), dia yang harus menanggung akibatnya."
+            "makna": "Siapa yang berbuat kesalahan atau dosa, dialah yang harus menanggung akibatnya."
           }
         ]
       }

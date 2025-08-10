@@ -10,72 +10,49 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menghitung (dengan menyebut satu per satu untuk mengetahui berapa banyaknya)",
+          "definisi": "Menghitung sesuatu dengan menyebutkan satu per satu untuk mengetahui jumlah atau kuantitasnya secara pasti.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "~ uang tabungannya"
-            },
-            {
-              "nomor": 4,
-              "teks": "~ dari seratus sampai seribu"
-            }
+            { "nomor": 1, "teks": "Ia sedang membilang uang tabungannya." },
+            { "nomor": 2, "teks": "Guru meminta siswa membilang jumlah kursi di kelas." },
+            { "nomor": 3, "teks": "Petugas membilang jumlah kotak suara sebelum penghitungan dimulai." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "mengingat akan; mengindahkan; memedulikan",
+          "definisi": "Memperhatikan, mengindahkan, atau memberikan pertimbangan terhadap seseorang atau sesuatu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "dia hanya ~ orang terpandang saja"
-            },
-            {
-              "nomor": 4,
-              "teks": "tiada ~ kaya dan miskin"
-            }
+            { "nomor": 1, "teks": "Dia hanya membilang orang terpandang saja." },
+            { "nomor": 2, "teks": "Pimpinan itu tidak membilang kritik dari bawahannya." },
+            { "nomor": 3, "teks": "Mereka tidak membilang perasaan orang lain dalam mengambil keputusan." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memandang sebagai; memasukkan dalam golongan (lingkungan)",
-          "contoh": []
+          "definisi": "Menganggap atau memandang sebagai bagian dari kelompok atau golongan tertentu.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia membilangnya sebagai salah satu sahabat terdekat." },
+            { "nomor": 2, "teks": "Kami membilang proyek ini sebagai prioritas utama." },
+            { "nomor": 3, "teks": "Masyarakat setempat membilangnya bagian dari keluarga besar mereka." }
+          ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memperhitungkan nasib (untung malang, baik buruk hari, dan sebagainya)",
+          "definisi": "Memperhitungkan atau meramalkan nasib, keberuntungan, atau peristiwa yang akan datang.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "dicarinya seorang dukun yang pandai ~ nasib"
-            }
+            { "nomor": 1, "teks": "Dicarinya seorang dukun yang pandai membilang nasib." },
+            { "nomor": 2, "teks": "Ia gemar membilang hari baik untuk memulai usaha." },
+            { "nomor": 3, "teks": "Orang tua zaman dahulu sering membilang tanggal kelahiran untuk menentukan perjodohan." }
           ]
         }
       ],
@@ -91,11 +68,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "cerdik membilang kawan",
-            "makna": ""
+            "makna": "Orang yang bijak pandai dalam memilih dan menentukan teman yang tepat sehingga tidak mudah tertipu atau dirugikan."
           },
           {
             "peribahasa": "menengadah membilang layar, menangkup membilang lantai",
-            "makna": "selalu mencari keuntungan, baik secara terang-terangan maupun sembunyi-sembunyi; sangat perhitungan dalam segala hal."
+            "makna": "Sikap selalu mencari keuntungan dalam setiap situasi, baik secara terang-terangan maupun secara tersembunyi."
           }
         ]
       }
@@ -108,23 +85,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "cak",
-              "nama": "Cakapan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "cak", "nama": "Cakapan", "tipe": "kelas_kata" }
           ],
-          "definisi": "mengatakan",
+          "definisi": "Mengungkapkan atau menyampaikan sesuatu secara lisan; mengatakan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "banyak orang yang ~ bahwa ongkos transpor dalam kota akan naik"
-            }
+            { "nomor": 1, "teks": "Banyak orang yang membilang bahwa ongkos transportasi dalam kota akan naik." },
+            { "nomor": 2, "teks": "Ia membilang kepada saya bahwa rapat diundur." },
+            { "nomor": 3, "teks": "Mereka membilang bahwa acara akan dimulai lebih cepat dari jadwal." }
           ]
         }
       ],

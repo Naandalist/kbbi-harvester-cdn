@@ -10,31 +10,27 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menyimpul; mengikat (tali)",
-          "contoh": []
+          "definisi": "Menyimpul atau mengikat tali, benang, atau bahan lainnya hingga membentuk ikatan yang kuat.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia membuhul tali dengan simpul mati agar tidak terlepas." },
+            { "nomor": 2, "teks": "Nelayan itu membuhul jaring sebelum berangkat melaut." },
+            { "nomor": 3, "teks": "Pekerja gudang membuhul kardus dengan tali rafia." }
+          ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "Kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "mengikat (perjanjian)",
-          "contoh": []
+          "definisi": "Mengikat atau menetapkan suatu perjanjian, kesepakatan, atau komitmen dengan tekad yang kuat.",
+          "contoh": [
+            { "nomor": 1, "teks": "Kedua pihak membuhul perjanjian damai setelah bertahun-tahun berselisih." },
+            { "nomor": 2, "teks": "Mereka membuhul janji untuk saling membantu dalam keadaan apapun." },
+            { "nomor": 3, "teks": "Negara-negara itu membuhul kerja sama di bidang perdagangan." }
+          ]
         }
       ],
       "rootWord": "buhul",
@@ -49,11 +45,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "mengebat erat-erat, membuhul mati-mati",
-            "makna": ""
+            "makna": "Mengikat atau memegang sesuatu dengan sangat kuat dan mantap, baik secara harfiah maupun kiasan, sehingga tidak mudah lepas."
           },
           {
             "peribahasa": "menggenggam erat, membuhul mati",
-            "makna": "memegang teguh suatu prinsip, janji, atau rahasia; tidak akan melepaskan atau membocorkan sesuatu yang penting."
+            "makna": "Memegang teguh suatu prinsip, janji, atau rahasia; tidak akan melepaskan atau membocorkan sesuatu yang penting."
           }
         ]
       }

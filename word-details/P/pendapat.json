@@ -10,73 +10,49 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "pikiran; anggapan",
+          "definisi": "Pikiran, anggapan, atau pandangan yang dimiliki seseorang mengenai suatu hal.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "dalam negara demokrasi setiap orang bebas mengemukakan ~nya"
-            }
+            { "nomor": 1, "teks": "Dalam negara demokrasi, setiap orang bebas mengemukakan pendapatnya." },
+            { "nomor": 2, "teks": "Pendapat guru sangat mempengaruhi pemikiran murid." },
+            { "nomor": 3, "teks": "Pendapat itu menuai perdebatan di kalangan masyarakat." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "buah pemikiran atau perkiraan tentang suatu hal (seperti orang atau peristiwa)",
+          "definisi": "Buah pemikiran atau perkiraan tentang suatu hal, peristiwa, atau orang.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "apa ~mu tentang isi surat ini?"
-            },
-            {
-              "nomor": 4,
-              "teks": "menurut ~ saya, dialah yang benar"
-            }
+            { "nomor": 1, "teks": "Apa pendapatmu tentang isi surat ini?" },
+            { "nomor": 2, "teks": "Menurut pendapat saya, dialah yang benar." },
+            { "nomor": 3, "teks": "Pendapatnya mengenai kasus itu cukup logis." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "kesimpulan (sesudah mempertimbangkan, menyelidiki, dan sebagainya)",
+          "definisi": "Kesimpulan yang diambil setelah mempertimbangkan, menyelidiki, atau menilai suatu keadaan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "begitulah ~ hakim setelah mendengar keberatan-keberatan yang dikemukakan oleh pembela"
-            }
+            { "nomor": 1, "teks": "Begitulah pendapat hakim setelah mendengar keberatan-keberatan yang dikemukakan oleh pembela." },
+            { "nomor": 2, "teks": "Pendapat akhir tim juri dibacakan pada sidang terakhir." },
+            { "nomor": 3, "teks": "Pendapat komisi ini akan menjadi acuan dalam mengambil keputusan." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "orang yang mula-mula menemukan atau menghasilkan (sesuatu yang tadinya belum ada atau belum diketahui)",
+          "definisi": "Orang yang pertama kali menemukan, menciptakan, atau menghasilkan sesuatu yang sebelumnya belum ada atau belum diketahui.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "Nurtanio adalah ~ pesawat terbang jenis Gelatik"
-            }
+            { "nomor": 1, "teks": "Nurtanio adalah pendapat pesawat terbang jenis Gelatik." },
+            { "nomor": 2, "teks": "Beliau dikenal sebagai pendapat teori baru dalam bidang fisika." },
+            { "nomor": 3, "teks": "Para pendapat teknologi ini mendapat penghargaan internasional." }
           ]
         }
       ],
@@ -100,15 +76,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "asing orang, lain pendapat",
-            "makna": ""
+            "makna": "Setiap orang memiliki pandangan atau cara berpikir yang berbeda sesuai dengan latar belakang dan pengalamannya."
           },
           {
             "peribahasa": "kepala sama berbulu, pendapat berlain-lainan",
-            "makna": ""
+            "makna": "Meskipun orang sama-sama manusia atau serupa secara fisik, pandangan dan pemikirannya tetap bisa berbeda-beda."
           },
           {
             "peribahasa": "kepala sama hitam (berbulu), pendapat berlain-lain",
-            "makna": ""
+            "makna": "Walaupun berasal dari kelompok atau asal-usul yang sama, setiap orang memiliki pandangan dan pendapat masing-masing."
           }
         ]
       }

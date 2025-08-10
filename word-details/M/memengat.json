@@ -10,14 +10,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memasak pengat",
-          "contoh": []
+          "definisi": "Memasak makanan yang disebut 'pengat', yaitu hidangan tradisional berkuah santan kental, biasanya bercita rasa manis, yang dimasak hingga santan berminyak dan bahan matang sempurna.",
+          "contoh": [
+            { "nomor": 1, "teks": "Nenek sedang memengat pisang untuk hidangan sore." },
+            { "nomor": 2, "teks": "Ibu memengat ubi kayu dengan santan dan gula merah." },
+            { "nomor": 3, "teks": "Memengat durian memerlukan kesabaran agar kuah santannya tidak pecah." }
+          ]
         }
       ],
       "rootWord": "pengat",
@@ -32,11 +32,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "dialas bagai memengat",
-            "makna": ""
+            "makna": "Melakukan suatu pekerjaan dengan penuh kehati-hatian dan ketelitian, sebagaimana seseorang menyiapkan alas saat memasak pengat agar masakan tidak tumpah atau rusak."
           },
           {
             "peribahasa": "iba akan kacang sebuah, tak jadi memengat",
-            "makna": ""
+            "makna": "Terlalu memikirkan hal kecil hingga menggagalkan pekerjaan atau rencana besar yang sudah disiapkan."
           }
         ]
       }

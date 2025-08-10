@@ -10,48 +10,32 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "tidak dapat melihat karena rusak matanya; tunanetra; ablepsia",
+          "definisi": "Tidak dapat melihat sama sekali karena kerusakan atau gangguan pada mata; tunanetra; kondisi kehilangan fungsi penglihatan sepenuhnya.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "Braille telah berhasil menciptakan huruf untuk anak-anak --"
-            }
+            { "nomor": 1, "teks": "Braille telah berhasil menciptakan huruf untuk anak-anak buta." },
+            { "nomor": 2, "teks": "Sejak kecelakaan itu, ia menjadi buta total." },
+            { "nomor": 3, "teks": "Penderita buta dapat menggunakan tongkat untuk membantu berjalan." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "tidak tahu (mengerti) sedikit pun tentang sesuatu",
+          "definisi": "Tidak mengetahui atau tidak memahami sama sekali tentang suatu hal; tidak memiliki pengetahuan dasar.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "ia -- akan keadaan negeri itu"
-            }
+            { "nomor": 1, "teks": "Ia buta akan keadaan negeri itu." },
+            { "nomor": 2, "teks": "Saya buta tentang dunia komputer." },
+            { "nomor": 3, "teks": "Dia buta hukum sehingga mudah tertipu." }
           ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भूत bhūta n m 'hantu, setan, iblis, anak laki-laki, ruh, jiwa, elemen']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [
@@ -97,38 +81,14 @@
         ],
         "idiom": [],
         "peribahasa_dan_makna": [
-          {
-            "peribahasa": "bungkuk baru betul, (buta baru celik)",
-            "makna": "Orang yang kurang memperhitungkan apa yang terjadi pada dirinya sendiri, sehingga akhirnya menjadi susah sendiri; angkuh atau sombong karena baru memperoleh kekayaan atau pangkat."
-          },
-          {
-            "peribahasa": "buta baru celik (melihat)",
-            "makna": "Menjadi sombong atau angkuh karena baru memperoleh kekayaan, pangkat, atau kemuliaan."
-          },
-          {
-            "peribahasa": "buta kehilangan",
-            "makna": "Orang yang berada dalam kesusahan akan bertambah susah lagi jika ditimpa kesukaran; sudah kehilangan akal dan tidak tahu lagi harus berbuat apa; orang yang kehilangan akal atau kebingungan setelah ditinggal orang yang selama itu membantunya."
-          },
-          {
-            "peribahasa": "harapkan anak, buta mata sebelah, harapkan teman, buta mata kedua-duanya",
-            "makna": ""
-          },
-          {
-            "peribahasa": "ikut hati mati, ikut mata buta",
-            "makna": ""
-          },
-          {
-            "peribahasa": "karena mata buta, karena hati mati",
-            "makna": ""
-          },
-          {
-            "peribahasa": "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta",
-            "makna": ""
-          },
-          {
-            "peribahasa": "yang berkurap pembawa buluh, yang buta pengembus lesung",
-            "makna": ""
-          }
+          { "peribahasa": "bungkuk baru betul, (buta baru celik)", "makna": "Orang yang menjadi sombong atau angkuh karena baru memperoleh kekayaan atau kedudukan, tanpa menyadari keterbatasannya." },
+          { "peribahasa": "buta baru celik (melihat)", "makna": "Menjadi congkak karena baru saja mendapatkan sesuatu yang berharga atau kedudukan." },
+          { "peribahasa": "buta kehilangan", "makna": "Orang yang sudah kesulitan akan semakin terpuruk jika kehilangan satu-satunya penolong atau sumber bantuan." },
+          { "peribahasa": "harapkan anak, buta mata sebelah, harapkan teman, buta mata kedua-duanya", "makna": "Mengandalkan orang yang tidak dapat diandalkan hanya akan membawa kerugian lebih besar." },
+          { "peribahasa": "ikut hati mati, ikut mata buta", "makna": "Mengikuti hawa nafsu akan celaka, mengikuti pandangan tanpa berpikir akan tersesat." },
+          { "peribahasa": "karena mata buta, karena hati mati", "makna": "Orang yang tidak mau melihat kebenaran akan kehilangan arah hidupnya." },
+          { "peribahasa": "tak ada guruh bagi orang pekak, tak ada kilat bagi orang buta", "makna": "Orang yang tidak memiliki kemampuan atau pengetahuan tidak akan mengerti tanda-tanda atau peringatan." },
+          { "peribahasa": "yang berkurap pembawa buluh, yang buta pengembus lesung", "makna": "Orang yang memiliki kekurangan justru diberikan tugas yang tidak sesuai kemampuannya." }
         ]
       }
     },
@@ -140,34 +100,24 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Jw",
-              "nama": "Jawa",
-              "tipe": "bahasa"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Jw", "nama": "Jawa", "tipe": "bahasa" }
           ],
-          "definisi": "raksasa",
-          "contoh": []
+          "definisi": "Makhluk raksasa dalam cerita rakyat atau mitologi Jawa yang sering digambarkan memiliki kekuatan besar dan bentuk tubuh menakutkan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Buta cakil adalah tokoh antagonis dalam wayang." },
+            { "nomor": 2, "teks": "Penduduk desa takut akan serangan buta kala." },
+            { "nomor": 3, "teks": "Dalam cerita itu, buta raton menjaga harta karun kerajaan." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भूत bhūta n m 'hantu, setan, iblis, anak laki-laki, ruh, jiwa, elemen']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [],
-        "gabunganKata": [
-          "buta cakil",
-          "buta kala",
-          "buta raton"
-        ],
+        "gabunganKata": ["buta cakil", "buta kala", "buta raton"],
         "peribahasa": [],
         "idiom": []
       }
@@ -180,21 +130,19 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "motif bunga yang ada pada kain, bakul, atau ukiran rumah suku Woisika (Kamang)",
-          "contoh": []
+          "definisi": "Motif hias berbentuk bunga yang terdapat pada kain, bakul, atau ukiran rumah tradisional suku Woisika (Kamang).",
+          "contoh": [
+            { "nomor": 1, "teks": "Kain itu dihiasi dengan motif buta khas Woisika." },
+            { "nomor": 2, "teks": "Pengrajin membuat bakul dengan ukiran buta." },
+            { "nomor": 3, "teks": "Rumah adat itu memiliki tiang berukir motif buta." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भूत bhūta n m 'hantu, setan, iblis, anak laki-laki, ruh, jiwa, elemen']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [],

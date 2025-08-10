@@ -10,110 +10,70 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menadah sesuatu (yang jatuh bertitik, tercurah, dan sebagainya) dari atas",
+          "definisi": "Menadah atau menerima sesuatu yang jatuh, tercurah, atau mengalir dari atas, baik berupa cairan maupun benda lain.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "~ air hujan"
-            },
-            {
-              "nomor": 4,
-              "teks": "~ getah"
-            }
+            { "nomor": 1, "teks": "Penduduk desa menampung air hujan untuk kebutuhan sehari-hari." },
+            { "nomor": 2, "teks": "Ia menampung getah karet dalam ember." },
+            { "nomor": 3, "teks": "Anak-anak menampung kucuran air dari atap menggunakan ember plastik." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menerima dan mengumpulkan (barang-barang hasil dari suatu daerah, hasil-hasil yang berlebih, dan sebagainya)",
+          "definisi": "Menerima dan mengumpulkan barang atau hasil dari suatu daerah atau sumber tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pelabuhan ini tidak mampu lagi ~ barang-barang dari sekian banyak pulau"
-            }
+            { "nomor": 1, "teks": "Gudang itu menampung hasil panen padi dari seluruh kecamatan." },
+            { "nomor": 2, "teks": "Pelabuhan ini tidak mampu lagi menampung barang dari berbagai pulau." },
+            { "nomor": 3, "teks": "Pabrik tersebut menampung pasokan tebu dari petani lokal." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "mencegat (menyambut) dan melawan (pasukan, pesawat terbang, dan sebagainya yang sedang dalam perjalanan menyerang)",
+          "definisi": "Mencegat atau menyambut pihak yang datang menyerang, baik pasukan, kendaraan, atau pesawat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kapal-kapal terbang kita mampu ~ serangan angkatan udara musuh"
-            }
+            { "nomor": 1, "teks": "Kapal perang itu bersiap menampung serangan musuh." },
+            { "nomor": 2, "teks": "Pasukan udara kita mampu menampung serangan mendadak." },
+            { "nomor": 3, "teks": "Mereka menampung pasukan lawan di perbatasan." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "memuat; menerbitkan",
+          "definisi": "Memuat atau mempublikasikan suatu karya tulis atau informasi.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "majalah itu mau ~ cerpen remaja"
-            }
+            { "nomor": 1, "teks": "Majalah itu menampung cerpen-cerpen remaja." },
+            { "nomor": 2, "teks": "Portal berita tersebut menampung opini dari berbagai penulis." },
+            { "nomor": 3, "teks": "Buku antologi itu menampung puisi dari seluruh peserta lomba." }
           ]
         },
         {
           "nomor": "5",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "menerima dan mengurus (anak yatim piatu, anak putus sekolah, pengungsi, dan sebagainya)",
+          "definisi": "Menerima dan mengurus orang yang membutuhkan bantuan atau perlindungan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "perusahaan itu dapat ~ ratusan kaum penganggur"
-            }
+            { "nomor": 1, "teks": "Panti asuhan itu menampung anak-anak yatim piatu." },
+            { "nomor": 2, "teks": "Tempat penampungan menampung korban banjir." },
+            { "nomor": 3, "teks": "Perusahaan itu menampung puluhan penganggur untuk bekerja." }
           ]
         }
       ],
       "rootWord": "tampung¹",
       "terkait": {
         "kataTurunan": [],
-        "gabunganKata": [
-          "menampung doa",
-          "menampung lantai"
-        ],
+        "gabunganKata": ["menampung doa", "menampung lantai"],
         "peribahasa": [
           "bagai menampung air dengan limas pesuk",
           "memalit rembes menampung titik",
@@ -123,15 +83,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "bagai menampung air dengan limas pesuk",
-            "makna": ""
+            "makna": "Melakukan pekerjaan yang mustahil atau sia-sia karena sarana atau caranya tidak memadai."
           },
           {
             "peribahasa": "memalit rembes menampung titik",
-            "makna": ""
+            "makna": "Berusaha keras memperbaiki masalah kecil, namun mengabaikan masalah besar."
           },
           {
             "peribahasa": "mendabih menampung darah",
-            "makna": "melakukan sesuatu dengan sepenuh hati dan bertanggung jawab penuh atas segala konsekuensinya."
+            "makna": "Melakukan sesuatu dengan sepenuh hati dan bertanggung jawab penuh atas segala konsekuensinya."
           }
         ]
       }
@@ -144,27 +104,20 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menampal; memasang (menyambung dan sebagainya) perca dan sebagainya untuk mengganti yang koyak (sobek)",
+          "definisi": "Menambal atau memasang potongan kain atau bahan lain untuk menutup bagian yang sobek atau rusak.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "perca itu digunakan untuk ~ baju yang koyak-koyak"
-            }
+            { "nomor": 1, "teks": "Ibu menampung robekan pada baju anaknya." },
+            { "nomor": 2, "teks": "Penjahit itu menampung celana yang sobek di bagian lutut." },
+            { "nomor": 3, "teks": "Mereka menampung kain tua untuk dijadikan selimut." }
           ]
         }
       ],
       "rootWord": "tampung²",
       "terkait": {
         "kataTurunan": [],
-        "gabunganKata": [
-          "menampung lantai"
-        ],
+        "gabunganKata": ["menampung lantai"],
         "peribahasa": [],
         "idiom": []
       }
@@ -177,14 +130,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menampar (muka); menempeleng",
-          "contoh": []
+          "definisi": "Menampar atau menempeleng wajah seseorang sebagai bentuk hukuman atau reaksi emosional.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia menampung pipi lawannya dalam perkelahian." },
+            { "nomor": 2, "teks": "Penjahat itu menampung korban sebelum merampas barangnya." },
+            { "nomor": 3, "teks": "Tokoh dalam film itu menampung lawan debatnya karena tersinggung." }
+          ]
         }
       ],
       "rootWord": "tampung³",

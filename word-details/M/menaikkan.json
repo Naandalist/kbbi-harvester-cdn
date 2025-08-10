@@ -9,65 +9,42 @@
       "makna": [
         {
           "nomor": "1",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "menjadikan naik (meningkat, bertambah banyak, bertambah besar, dan sebagainya); meninggikan",
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Menjadikan sesuatu bergerak ke atas atau berada pada posisi yang lebih tinggi, baik secara fisik maupun kiasan, seperti meningkatkan jumlah, kualitas, atau derajat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pemerintah ~ kecerdasan masyarakat"
-            }
+            { "nomor": 1, "teks": "Pemerintah berupaya menaikkan kecerdasan masyarakat." },
+            { "nomor": 2, "teks": "Sekolah itu menaikkan standar kelulusan." },
+            { "nomor": 3, "teks": "Perusahaan menaikkan kapasitas produksi tahun ini." }
           ]
         },
         {
           "nomor": "2",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "mengibarkan (tentang bendera)",
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Mengibarkan atau membentangkan bendera sehingga berada di posisi yang lebih tinggi sebagai tanda penghormatan atau upacara.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "mereka ~ bendera"
-            }
+            { "nomor": 1, "teks": "Mereka menaikkan bendera pada upacara peringatan kemerdekaan." },
+            { "nomor": 2, "teks": "Petugas paskibra menaikkan bendera dengan penuh khidmat." },
+            { "nomor": 3, "teks": "Penduduk desa menaikkan bendera setengah tiang sebagai tanda berkabung." }
           ]
         },
         {
           "nomor": "3",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "menjadikan (harga, pajak, pangkat, gaji, dan sebagainya) bertambah tinggi",
-          "contoh": []
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Menjadikan harga, tarif, pajak, gaji, pangkat, atau nilai tertentu menjadi lebih tinggi dari sebelumnya.",
+          "contoh": [
+            { "nomor": 1, "teks": "Pemerintah memutuskan untuk menaikkan tarif listrik." },
+            { "nomor": 2, "teks": "Perusahaan menaikkan gaji karyawan sebagai bentuk apresiasi." },
+            { "nomor": 3, "teks": "Dewan direksi memutuskan menaikkan harga produk baru." }
+          ]
         },
         {
           "nomor": "4",
-          "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "menjadikan (penumpang, barang) naik (masuk ke) kendaraan",
+          "kelasKata": [{ "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }],
+          "definisi": "Memasukkan atau membantu penumpang atau barang untuk naik ke dalam kendaraan atau alat angkut.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "dia sedang ~ penumpang"
-            }
+            { "nomor": 1, "teks": "Dia sedang menaikkan penumpang ke dalam bus." },
+            { "nomor": 2, "teks": "Pekerja pelabuhan menaikkan kontainer ke kapal." },
+            { "nomor": 3, "teks": "Supir truk membantu menaikkan barang ke bak kendaraan." }
           ]
         }
       ],
@@ -83,11 +60,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "menaikkan air ke gurun",
-            "makna": ""
+            "makna": "Melakukan pekerjaan yang sia-sia atau mustahil karena lingkungan atau kondisi yang tidak mendukung."
           },
           {
             "peribahasa": "menaikkan bandar sondai",
-            "makna": "melakukan pekerjaan yang sangat sulit atau mustahil untuk dicapai."
+            "makna": "Melakukan pekerjaan yang sangat sulit atau mustahil untuk dicapai."
           }
         ]
       }

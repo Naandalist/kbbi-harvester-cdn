@@ -10,43 +10,35 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "segala sesuatu yang dipakai untuk memelihara kehidupan (yang diberikan oleh Tuhan); makanan (sehari-hari); nafkah",
-          "contoh": []
+          "definisi": "Segala sesuatu yang digunakan untuk memelihara kelangsungan hidup, yang diyakini sebagai pemberian Tuhan; dapat berupa makanan sehari-hari, kebutuhan pokok, maupun nafkah.",
+          "contoh": [
+            { "nomor": 1, "teks": "Setiap makhluk telah ditentukan rezekinya oleh Tuhan." },
+            { "nomor": 2, "teks": "Pekerjaan itu menjadi sumber rezeki bagi keluarganya." },
+            { "nomor": 3, "teks": "Ia selalu bersyukur atas rezeki yang diterima hari ini." }
+          ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "ki",
-              "nama": "kiasan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "ki", "nama": "kiasan", "tipe": "kelas_kata" }
           ],
-          "definisi": "penghidupan; pendapatan (uang dan sebagainya untuk memelihara kehidupan); keuntungan; kesempatan mendapat makan",
-          "contoh": []
+          "definisi": "Segala bentuk penghidupan, pendapatan, keuntungan, atau kesempatan yang memungkinkan seseorang memperoleh kebutuhan hidup, baik secara materi maupun nonmateri.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bekerja di luar negeri membuka pintu rezeki yang lebih luas baginya." },
+            { "nomor": 2, "teks": "Kesempatan menjadi pembicara di konferensi adalah rezeki yang tidak disangka-sangka." },
+            { "nomor": 3, "teks": "Keberhasilan usahanya membawa rezeki berlimpah bagi seluruh karyawan." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Arab رِزْقٌ rizq n sg m 'segala sesuatu yang dipakai untuk memelihara kehidupan (yang diberikan oleh Tuhan)']",
-        "languages": [
-          "Arab"
-        ]
+        "languages": ["Arab"]
       },
       "terkait": {
-        "kataTurunan": [
-          "berezeki"
-        ],
+        "kataTurunan": ["berezeki"],
         "gabunganKata": [
           "rezeki ayam",
           "rezeki batin",
@@ -73,19 +65,19 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "ada nyawa (umur), ada rezeki",
-            "makna": ""
+            "makna": "Selama seseorang masih hidup, ia masih memiliki kesempatan untuk memperoleh penghidupan."
           },
           {
             "peribahasa": "mara jangan dipukat, rezeki jangan ditolak",
-            "makna": ""
+            "makna": "Kesempatan yang baik hendaknya dimanfaatkan dan tidak disia-siakan."
           },
           {
             "peribahasa": "rezeki dipatuk ayam",
-            "makna": ""
+            "makna": "Kesempatan atau keuntungan yang sudah di depan mata hilang karena kelalaian."
           },
           {
             "peribahasa": "rezeki elang tak akan dapat (dimakan) oleh musang (burung pipit)",
-            "makna": ""
+            "makna": "Rezeki atau keuntungan yang sudah ditentukan untuk seseorang tidak akan berpindah kepada orang lain."
           }
         ]
       }

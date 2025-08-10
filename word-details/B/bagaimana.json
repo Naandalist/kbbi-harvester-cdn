@@ -16,11 +16,19 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata tanya untuk menanyakan cara, perbuatan (lazimnya diikuti kata cara)",
+          "definisi": "kata tanya untuk menanyakan cara atau perbuatan yang dilakukan, biasanya diikuti kata 'cara'.",
           "contoh": [
             {
-              "nomor": 2,
+              "nomor": 1,
               "teks": "-- caranya membeli buku dari luar negeri?"
+            },
+            {
+              "nomor": 2,
+              "teks": "Tolong jelaskan -- kamu membuat kue ini."
+            },
+            {
+              "nomor": 3,
+              "teks": "Saya ingin tahu -- proses pembuatan batik berlangsung."
             }
           ]
         },
@@ -33,11 +41,19 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata tanya untuk menanyakan akibat suatu tindakan",
+          "definisi": "kata tanya untuk menanyakan akibat atau hasil dari suatu tindakan.",
           "contoh": [
             {
-              "nomor": 2,
+              "nomor": 1,
               "teks": "-- kalau dia lari nanti?"
+            },
+            {
+              "nomor": 2,
+              "teks": "Apa yang akan terjadi -- kita tidak hadir dalam rapat itu?"
+            },
+            {
+              "nomor": 3,
+              "teks": "-- jika hujan deras turun sepanjang hari?"
             }
           ]
         },
@@ -50,11 +66,19 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata tanya untuk meminta pendapat dari kawan bicara (diikuti kata kalau)",
+          "definisi": "kata tanya untuk meminta pendapat dari lawan bicara, biasanya diikuti kata 'kalau'.",
           "contoh": [
             {
-              "nomor": 2,
+              "nomor": 1,
               "teks": "-- kalau kita pergi ke Puncak?"
+            },
+            {
+              "nomor": 2,
+              "teks": "-- kalau kita memulai rapat lebih awal?"
+            },
+            {
+              "nomor": 3,
+              "teks": "-- kalau kita mencoba menu baru di restoran itu?"
             }
           ]
         },
@@ -67,11 +91,19 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "kata tanya untuk menanyakan penilaian atas suatu gagasan",
+          "definisi": "kata tanya untuk menanyakan penilaian atau tanggapan terhadap suatu gagasan.",
           "contoh": [
             {
-              "nomor": 2,
+              "nomor": 1,
               "teks": "-- pendapatmu?"
+            },
+            {
+              "nomor": 2,
+              "teks": "-- kalau rencana ini kita jalankan bulan depan?"
+            },
+            {
+              "nomor": 3,
+              "teks": "-- tentang ide pembangunan taman kota ini?"
             }
           ]
         }
@@ -91,19 +123,19 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "bagaimana bunyi gendang, begitulah tarinya",
-            "makna": ""
+            "makna": "Perbuatan atau tindakan seseorang biasanya menyesuaikan dengan keadaan atau situasi yang dihadapinya."
           },
           {
             "peribahasa": "bagaimana ditanam, begitulah dituai",
-            "makna": ""
+            "makna": "Hasil yang diperoleh seseorang bergantung pada usaha atau tindakan yang telah dilakukannya."
           },
           {
             "peribahasa": "mulut tabuh dapat disumbat, mulut manusia bagaimana menyebutnya",
-            "makna": ""
+            "makna": "Gosip atau ucapan orang sulit dibendung, berbeda dengan benda yang dapat dihentikan bunyinya."
           },
           {
             "peribahasa": "semut gatal gonggong gunung, bagaimana dunia takkan sunyi",
-            "makna": ""
+            "makna": "Selama masih ada orang yang suka mencari-cari kesalahan orang lain, dunia tidak akan pernah tenang."
           }
         ]
       }

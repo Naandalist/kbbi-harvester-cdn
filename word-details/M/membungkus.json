@@ -10,31 +10,26 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "membalut seluruhnya sehingga tidak kelihatan",
+          "definisi": "Membalut atau menutup suatu benda secara keseluruhan sehingga bagian dalamnya tidak terlihat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "~ mayat dengan kain kafan"
-            }
+            { "nomor": 1, "teks": "Ia membungkus kado ulang tahun dengan kertas berwarna emas." },
+            { "nomor": 2, "teks": "Petugas membungkus mayat dengan kain kafan sesuai syariat." },
+            { "nomor": 3, "teks": "Pedagang membungkus nasi goreng pesanan pembeli dengan kertas minyak." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menyembunyikan; merahasiakan",
-          "contoh": []
+          "definisi": "Menyembunyikan atau menutupi suatu fakta, informasi, atau keadaan agar tidak diketahui orang lain.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia berusaha membungkus kesedihannya dengan senyuman." },
+            { "nomor": 2, "teks": "Pemerintah membungkus kebijakan baru itu dengan alasan demi kesejahteraan rakyat." },
+            { "nomor": 3, "teks": "Manajer membungkus kegagalan proyek dengan laporan yang terlihat positif." }
+          ]
         }
       ],
       "rootWord": "bungkus",
@@ -49,11 +44,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "membungkus tulang dengan daun talas",
-            "makna": ""
+            "makna": "Berusaha menutupi kekurangan atau keburukan dengan cara yang kurang tepat sehingga tidak benar-benar menyembunyikannya."
           },
           {
             "peribahasa": "sepandai-pandai membungkus, yang busuk berbau juga",
-            "makna": "serapat-rapatnya menyembunyikan kejahatan atau keburukan, pada akhirnya akan terbongkar juga."
+            "makna": "Serapat-rapatnya menyembunyikan kejahatan atau keburukan, pada akhirnya akan terbongkar juga."
           }
         ]
       }

@@ -10,86 +10,61 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "berbentuk sebagai bola",
+          "definisi": "Berbentuk seperti bola.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "bumi ini -- bentuknya"
-            }
+            { "nomor": 1, "teks": "Bumi ini bulat bentuknya." },
+            { "nomor": 2, "teks": "Matanya bulat sempurna." },
+            { "nomor": 3, "teks": "Kue itu dibentuk bulat seperti bola pingpong." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "berbentuk lingkaran; bundar (tanpa bersudut)",
+          "definisi": "Berbentuk lingkaran; bundar tanpa sudut.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "meja -- yang besar itu cocok untuk meja makan"
-            }
+            { "nomor": 1, "teks": "Meja bulat yang besar itu cocok untuk meja makan." },
+            { "nomor": 2, "teks": "Jam dinding itu berbentuk bulat." },
+            { "nomor": 3, "teks": "Lapangan bulat itu digunakan untuk lomba lari." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "tidak terpecah; utuh",
+          "definisi": "Tidak terpecah; utuh.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "bilangan --"
-            }
+            { "nomor": 1, "teks": "Bilangan bulat digunakan dalam perhitungan sederhana." },
+            { "nomor": 2, "teks": "Roti itu masih bulat, belum dipotong." },
+            { "nomor": 3, "teks": "Telur bulat ini belum dipecahkan." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "tanpa kecuali",
+          "definisi": "Tanpa kecuali.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "usul itu diterima rapat dengan suara --"
-            }
+            { "nomor": 1, "teks": "Usul itu diterima rapat dengan suara bulat." },
+            { "nomor": 2, "teks": "Keputusan bulat diambil demi kepentingan bersama." },
+            { "nomor": 3, "teks": "Rapat menyetujui rencana itu secara bulat." }
           ]
         },
         {
           "nomor": "5",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "seia sekata; sepenuhnya",
+          "definisi": "Seia sekata; sepenuhnya.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "rapat secara -- menolak usul itu"
-            }
+            { "nomor": 1, "teks": "Rapat secara bulat menolak usul itu." },
+            { "nomor": 2, "teks": "Seluruh anggota sepakat bulat untuk mendukung program." },
+            { "nomor": 3, "teks": "Keputusan bulat diambil setelah diskusi panjang." }
           ]
         }
       ],
@@ -134,23 +109,23 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "betung bulat tak persegi pipit jantan tak bersarang",
-            "makna": "Seseorang yang bebas dari kekangan apapun; orang yang bebas sekali hidupnya; sesuatu yang selalu pergi mengembara; dikiaskan kepada anak bujang atau anak dagang yang merdeka tak ada yang melarang atau menghiraukan cara hidupnya; orang bujang atau anak dagang yang bebas tanpa sebarang ikatan."
+            "makna": "Seseorang yang bebas dari ikatan atau aturan; dikiaskan kepada anak bujang atau perantau yang bebas menentukan hidupnya."
           },
           {
             "peribahasa": "bulat air oleh pembuluh, bulat kata oleh mufakat",
-            "makna": "Kesepakatan atau keputusan bersama dapat dicapai melalui musyawarah atau perundingan."
+            "makna": "Kesepakatan dapat dicapai melalui musyawarah bersama."
           },
           {
             "peribahasa": "bulat boleh digulingkan, pipih boleh dilayangkan",
-            "makna": "Sesuatu perkara yang sudah mencapai kata sepakat atau sudah diputuskan bersama dan tidak dapat diubah lagi."
+            "makna": "Keputusan yang sudah disepakati bersama tidak dapat diubah lagi."
           },
           {
             "peribahasa": "pecak boleh dilayangkan, bulat boleh digulingkan, batu segiling pecak setepik",
-            "makna": "Sudah mendapat kata sepakat untuk melaksanakan suatu pekerjaan; telah sepakat benar-benar, seia sekata."
+            "makna": "Kesepakatan yang sudah bulat dan tidak akan berubah."
           },
           {
             "peribahasa": "yang bulat datang bergolek, yang pipih datang melayang",
-            "makna": ""
+            "makna": "Rezeki atau keuntungan yang datang tanpa diduga atau diusahakan."
           }
         ]
       }
@@ -163,23 +138,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Jw",
-              "nama": "Jawa",
-              "tipe": "bahasa"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "Jw", "nama": "Jawa", "tipe": "bahasa" }
           ],
-          "definisi": "berkobar semakin besar dan tidak dapat dikendalikan (tentang api)",
+          "definisi": "Berkobar semakin besar dan tidak dapat dikendalikan (tentang api).",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "jika api sudah -- sangat susah dipadamkan"
-            }
+            { "nomor": 1, "teks": "Jika api sudah bulat sangat sulit dipadamkan." },
+            { "nomor": 2, "teks": "Kebakaran itu bulat hingga menghanguskan seluruh gudang." },
+            { "nomor": 3, "teks": "Api di dapur membulat setelah terkena hembusan angin kencang." }
           ]
         }
       ],

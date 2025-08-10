@@ -10,64 +10,49 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "berdaun dan bercabang banyak",
+          "definisi": "Memiliki daun dan cabang yang banyak sehingga membentuk kesan lebat dan rapat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pohon-pohonnya --"
-            }
+            { "nomor": 1, "teks": "Pohon mangga di halaman rumah tampak rimbun dan teduh." },
+            { "nomor": 2, "teks": "Pohon-pohonnya rimbun sehingga sinar matahari sulit menembus." },
+            { "nomor": 3, "teks": "Hutan tropis dikenal dengan pepohonannya yang rimbun sepanjang tahun." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "lebat atau tebal (tentang rambut kepala)",
-          "contoh": []
+          "definisi": "Lebat atau tebal, khususnya mengenai rambut kepala.",
+          "contoh": [
+            { "nomor": 1, "teks": "Rambutnya rimbun dan hitam pekat." },
+            { "nomor": 2, "teks": "Model itu memiliki rambut rimbun yang terurai indah." },
+            { "nomor": 3, "teks": "Perawatan rutin membuat rambutnya tetap rimbun meski sudah berusia lanjut." }
+          ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "banyak layarnya (tentang perahu)",
+          "definisi": "Memiliki banyak layar, khususnya tentang perahu atau kapal layar.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "perahu yang -- layarnya"
-            }
+            { "nomor": 1, "teks": "Perahu itu rimbun layarnya saat berlayar melawan angin." },
+            { "nomor": 2, "teks": "Perahu yang rimbun layarnya terlihat gagah di tengah laut." },
+            { "nomor": 3, "teks": "Layar rimbun membantu perahu bergerak lebih cepat saat angin kencang." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "a",
-              "nama": "Adjektiva",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "a", "nama": "Adjektiva", "tipe": "kelas_kata" }
           ],
-          "definisi": "banyak pakaian (dan perhiasan) yang dipakai",
+          "definisi": "Memakai banyak pakaian dan perhiasan, biasanya untuk menunjukkan kemegahan atau status sosial.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pakaian dan perhiasan pengantin itu --"
-            }
+            { "nomor": 1, "teks": "Pengantin itu tampil rimbun dengan pakaian adat dan perhiasan emas." },
+            { "nomor": 2, "teks": "Pakaian dan perhiasan pengantin itu rimbun sehingga tampak anggun." },
+            { "nomor": 3, "teks": "Para penari tampil rimbun dengan busana warna-warni dan hiasan kepala." }
           ]
         }
       ],
@@ -89,15 +74,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "ayam hitam terbang malam, bertali ijuk bertambang tanduk, hinggap di kebun rimbun",
-            "makna": ""
+            "makna": "Melukiskan suatu keadaan yang sangat sulit atau mustahil untuk diketahui atau dilihat karena tertutup oleh banyak halangan."
           },
           {
             "peribahasa": "ramai beragam, rimbun menyelara",
-            "makna": ""
+            "makna": "Menggambarkan keadaan yang penuh dengan variasi dan keindahan, baik dalam bentuk maupun susunannya."
           },
           {
             "peribahasa": "semak-semak disiangi, rimbun ditutuh",
-            "makna": ""
+            "makna": "Peribahasa yang bermakna memperbaiki atau merapikan sesuatu yang sudah berlebihan atau tidak teratur."
           }
         ]
       }

@@ -16,8 +16,12 @@
               "tipe": "kelas_kata"
             }
           ],
-          "definisi": "lembar kertas yang berjilid, berisi tulisan atau kosong; kitab",
-          "contoh": []
+          "definisi": "Lembaran-lembaran kertas yang dijilid dan biasanya dilengkapi dengan tulisan, gambar, atau ilustrasi, yang berfungsi sebagai sarana informasi, bacaan, atau catatan; dapat pula berbentuk kosong untuk diisi.",
+          "contoh": [
+            { "nomor": 1, "teks": "Perpustakaan itu memiliki ribuan buku dari berbagai bidang ilmu." },
+            { "nomor": 2, "teks": "Ia sedang membaca buku sejarah Indonesia." },
+            { "nomor": 3, "teks": "Buku tulis ini akan digunakan untuk mencatat pelajaran di sekolah." }
+          ]
         }
       ],
       "terkait": {
@@ -167,35 +171,35 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "bertemu ruas dengan buku",
-            "makna": "Sesuai benar; serasi; cocok (sesuai) karena memang sudah jodohnya; dua hal yang sudah sesuai benar; bertemu dengan lawan yang sepadan."
+            "makna": "Menggambarkan dua pihak atau hal yang sepadan dan sesuai, sehingga menjadi pasangan atau lawan yang seimbang."
           },
           {
             "peribahasa": "cari umbut kena buku",
-            "makna": "Mencari sesuatu yang baik, tetapi sebaliknya mendapat sesuatu yang buruk atau tidak berguna."
+            "makna": "Berusaha memperoleh sesuatu yang baik, tetapi justru mendapatkan hal yang buruk atau merugikan."
           },
           {
             "peribahasa": "mengadu buku jari (mengadu buku lima)",
-            "makna": "Berkelahi dengan menggunakan tinju atau bertinju."
+            "makna": "Bertarung atau berkelahi menggunakan kepalan tangan; adu tinju."
           },
           {
             "peribahasa": "mengadu buku lidah",
-            "makna": "Berbantahan atau bertengkar mulut; berdebat tidak berguna, ingin kelihatan lebih pintar dari yang lain; pertikaian yang terjadi hanya dengan perang mulut saja; mengadu kepandaian berdebat."
+            "makna": "Berdebat atau bertengkar mulut untuk menunjukkan kepandaian, sering kali tanpa hasil yang bermanfaat."
           },
           {
             "peribahasa": "pilih-pilih ruas, terpilih pada buku",
-            "makna": "Seseorang yang terlalu banyak memilih atau terlalu pemilih, pada akhirnya justru mendapatkan sesuatu yang buruk atau tidak sesuai dengan yang diharapkan."
+            "makna": "Orang yang terlalu banyak memilih akhirnya justru mendapatkan yang buruk."
           },
           {
             "peribahasa": "pilih-pilih ruas, terpilih pada buku (terkena buku buluh)",
-            "makna": "Seseorang yang terlalu banyak memilih atau terlalu mengharapkan yang terbaik, pada akhirnya justru mendapatkan sesuatu yang buruk atau tidak sesuai harapan."
+            "makna": "Akibat terlalu selektif atau mengharap terlalu tinggi, justru memperoleh yang tidak baik."
           },
           {
             "peribahasa": "seperti buku gaharu",
-            "makna": "Memperlihatkan kecekapan apabila tiba masanya."
+            "makna": "Menunjukkan kemampuan atau kecakapan pada saat yang tepat."
           },
           {
             "peribahasa": "terentak ruas ke buku",
-            "makna": ""
+            "makna": "Menghadapi keadaan yang sulit dihindari karena sudah menjadi bagian dari perjalanan hidup."
           }
         ]
       }
@@ -208,64 +212,54 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "tempat pertemuan dua ruas (jari, buluh, tebu)",
-          "contoh": []
+          "definisi": "Bagian persendian atau pertemuan antara dua ruas, seperti pada jari, buluh, atau tebu.",
+          "contoh": [
+            { "nomor": 1, "teks": "Buku jari tangannya memar akibat terbentur." },
+            { "nomor": 2, "teks": "Buku pada ruas bambu itu digunakan untuk membuat wadah." },
+            { "nomor": 3, "teks": "Ia menunjuk luka di buku jarinya." }
+          ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "bagian yang keras pada pertemuan dua ruas (buluh, tebu)",
-          "contoh": []
+          "definisi": "Bagian yang keras pada pertemuan dua ruas, seperti pada buluh atau tebu.",
+          "contoh": [
+            { "nomor": 1, "teks": "Buku pada batang tebu memengaruhi panjang potongan saat dipanen." },
+            { "nomor": 2, "teks": "Buluh itu memiliki buku yang rapat." },
+            { "nomor": 3, "teks": "Buku batang bambu digunakan sebagai batas pemotongan." }
+          ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "kata penggolong benda berupa bongkahan atau gumpalan kecil (seperti garam, gula, tanah, sabun)",
-          "contoh": []
+          "definisi": "Satuan hitung untuk gumpalan atau bongkahan kecil suatu bahan, seperti garam, gula, tanah, atau sabun.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia membeli gula satu buku." },
+            { "nomor": 2, "teks": "Sabun itu dipotong menjadi beberapa buku." },
+            { "nomor": 3, "teks": "Buku tanah liat dibentuk menjadi bata." }
+          ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "tampang (lempeng)",
+          "definisi": "Potongan atau lempeng dari bahan tertentu, biasanya untuk perdagangan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "tembakau tiga --"
-            }
+            { "nomor": 1, "teks": "Tembakau tiga buku dijual di pasar." },
+            { "nomor": 2, "teks": "Emas batangan dibentuk menjadi buku kecil." },
+            { "nomor": 3, "teks": "Kue tradisional itu dipotong menjadi buku." }
           ]
         }
       ],
       "terkait": {
-        "kataTurunan": [
-          "berbuku",
-          "membuku",
-          "perbukuan",
-          "terbuku"
-        ],
+        "kataTurunan": ["berbuku", "membuku", "perbukuan", "terbuku"],
         "gabunganKata": [
           "buku apan",
           "buku batang",
@@ -276,9 +270,7 @@
           "buku lali"
         ],
         "peribahasa": [],
-        "idiom": [
-          "tidak masuk buku"
-        ]
+        "idiom": ["tidak masuk buku"]
       }
     },
     {
@@ -289,29 +281,18 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Rt",
-              "nama": "Rote",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Rt", "nama": "Rote", "tipe": "lainnya" }
           ],
-          "definisi": "tulang yang menonjol di bagian kiri dan kanan pergelangan kaki dan tangan",
-          "contoh": []
+          "definisi": "Tulang yang menonjol di sisi kiri dan kanan pergelangan kaki atau tangan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Buku kaki kirinya terluka saat bermain bola." },
+            { "nomor": 2, "teks": "Ia memijat buku tangannya yang pegal." },
+            { "nomor": 3, "teks": "Cedera di buku kaki membuatnya sulit berjalan." }
+          ]
         }
       ],
-      "terkait": {
-        "kataTurunan": [],
-        "gabunganKata": [],
-        "peribahasa": [],
-        "idiom": [
-          "tidak masuk buku"
-        ]
-      }
+      "terkait": { "kataTurunan": [], "gabunganKata": [], "peribahasa": [], "idiom": ["tidak masuk buku"] }
     },
     {
       "id": "190425",
@@ -321,29 +302,18 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "sing",
-              "nama": "singkatan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "sing", "nama": "singkatan", "tipe": "kelas_kata" }
           ],
-          "definisi": "bank umum berdasarkan kegiatan usaha (sistem pengelompokan bank yang terdiri atas BUKU 1, BUKU 2, BUKU 3, dan BUKU 4, didasarkan pada kegiatan usaha yang disesuaikan dengan jumlah modal inti)",
-          "contoh": []
+          "definisi": "Singkatan dari 'Bank Umum berdasarkan Kegiatan Usaha', yaitu sistem pengelompokan bank menjadi BUKU 1, BUKU 2, BUKU 3, dan BUKU 4 berdasarkan modal inti dan lingkup kegiatan usaha yang diperbolehkan.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bank tersebut termasuk kategori BUKU 4 karena memiliki modal inti di atas 30 triliun rupiah." },
+            { "nomor": 2, "teks": "Peraturan OJK mengatur persyaratan setiap kategori BUKU bank." },
+            { "nomor": 3, "teks": "Bank BUKU 1 memiliki keterbatasan dalam melakukan transaksi internasional." }
+          ]
         }
       ],
-      "terkait": {
-        "kataTurunan": [],
-        "gabunganKata": [],
-        "peribahasa": [],
-        "idiom": [
-          "tidak masuk buku"
-        ]
-      }
+      "terkait": { "kataTurunan": [], "gabunganKata": [], "peribahasa": [], "idiom": ["tidak masuk buku"] }
     }
   ]
 }

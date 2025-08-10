@@ -10,70 +10,39 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Astron",
-              "nama": "Astronomi",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Astron", "nama": "Astronomi", "tipe": "lainnya" }
           ],
-          "definisi": "(ditulis dengan huruf awal kapital) satelit alami yang mengitari bumi, tampak bersinar pada malam hari karena pantulan sinar matahari",
+          "definisi": "(Ditulis dengan huruf awal kapital) Satelit alami yang mengitari Bumi dan tampak bersinar pada malam hari karena memantulkan cahaya Matahari.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "pesawat antariksa Apollo berhasil mendarat di --"
-            },
-            {
-              "nomor": 4,
-              "teks": "bumi bermandikan cahaya --"
-            }
+            { "nomor": 1, "teks": "Pesawat antariksa Apollo berhasil mendarat di Bulan." },
+            { "nomor": 2, "teks": "Bumi bermandikan cahaya Bulan." },
+            { "nomor": 3, "teks": "Gerhana Bulan terjadi ketika Bumi berada di antara Matahari dan Bulan." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari); masa yang lamanya 1/12 tahun",
+          "definisi": "Masa atau jangka waktu peredaran Bulan mengelilingi Bumi dari tampak penuh hingga kembali ke fase awal (29–30 hari); satuan waktu yang lamanya 1/12 tahun.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "penataran itu berlangsung selama dua --"
-            },
-            {
-              "nomor": 4,
-              "teks": "istrinya sedang hamil empat --"
-            }
+            { "nomor": 1, "teks": "Penataran itu berlangsung selama dua bulan." },
+            { "nomor": 2, "teks": "Istrinya sedang hamil empat bulan." },
+            { "nomor": 3, "teks": "Pembayaran dilakukan setiap awal bulan." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Astron",
-              "nama": "Astronomi",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Astron", "nama": "Astronomi", "tipe": "lainnya" }
           ],
-          "definisi": "satelit alami suatu planet",
+          "definisi": "Satelit alami yang mengorbit suatu planet.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "Fobos adalah salah satu -- Mars"
-            }
+            { "nomor": 1, "teks": "Fobos adalah salah satu bulan Mars." },
+            { "nomor": 2, "teks": "Saturnus memiliki banyak bulan alami." },
+            { "nomor": 3, "teks": "Bulan-bulan Jupiter memiliki keunikan masing-masing." }
           ]
         }
       ],
@@ -174,55 +143,55 @@
           },
           {
             "peribahasa": "bagai bulan dipagar bintang",
-            "makna": "Kecantikan seseorang perempuan yang tiada bandingannya; keindahan yang sangat menonjol, terutama ketika seseorang itu berada dalam suasana yang semakin menyerlahkan penampilannya."
+            "makna": "Kecantikan perempuan yang tiada bandingannya, seolah semakin indah karena lingkungan atau suasana di sekitarnya."
           },
           {
             "peribahasa": "bagai bulan disapun awan",
-            "makna": "Orang yang sedang bersedih, sehingga raut wajahnya tampak kusut."
+            "makna": "Orang yang sedang bersedih atau muram sehingga wajahnya tampak suram."
           },
           {
             "peribahasa": "bagai bulan dengan matahari",
-            "makna": "Sebanding atau sesuai; digunakan untuk membandingkan dua hal yang setara atau sepadan, seperti dua orang yang sama-sama cerdas atau dua situasi yang tidak jauh berbeda."
+            "makna": "Dua hal atau dua orang yang sepadan dan setara."
           },
           {
             "peribahasa": "bagai bulan kesiangan",
-            "makna": "Wajah yang pucat atau lesu, seringkali karena terkejut atau sakit."
+            "makna": "Wajah yang pucat atau lesu karena sakit, lelah, atau terkejut."
           },
           {
             "peribahasa": "bergalah hilir tertawa buaya, bersuluh di bulan terang tertawa harimau",
-            "makna": ""
+            "makna": "Melakukan sesuatu yang berbahaya di hadapan orang atau pihak yang mampu mencelakakan kita."
           },
           {
             "peribahasa": "bulan naik, matahari naik",
-            "makna": ""
+            "makna": "Segala sesuatu berjalan sebagaimana biasanya; kehidupan terus berlanjut tanpa hambatan berarti."
           },
           {
             "peribahasa": "janji sehabis bulan",
-            "makna": ""
+            "makna": "Janji yang hanya diucapkan sementara dan mudah dilupakan."
           },
           {
             "peribahasa": "pepat kuku seperti bulan tiga hari",
-            "makna": ""
+            "makna": "Sesuatu yang bentuknya sangat tipis atau melengkung kecil."
           },
           {
             "peribahasa": "si cebol hendak mencapai bulan (bintang)",
-            "makna": ""
+            "makna": "Menginginkan atau bercita-cita pada sesuatu yang mustahil dicapai."
           },
           {
             "peribahasa": "siang bagai hari, terang bagai bulan",
-            "makna": ""
+            "makna": "Suasana yang jelas, terang, dan mudah dilihat; keadaan yang gamblang."
           },
           {
             "peribahasa": "seperti bulan kesiangan",
-            "makna": ""
+            "makna": "Orang yang tidak berada pada tempat atau waktunya, sehingga tampak aneh."
           },
           {
             "peribahasa": "seperti pungguk merindukan bulan",
-            "makna": ""
+            "makna": "Mengharapkan sesuatu yang mustahil tercapai."
           },
           {
             "peribahasa": "terang bagai bulan",
-            "makna": ""
+            "makna": "Cahaya yang lembut dan indah seperti sinar bulan purnama."
           }
         ]
       }

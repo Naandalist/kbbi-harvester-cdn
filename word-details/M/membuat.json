@@ -10,82 +10,56 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menciptakan (menjadikan, menghasilkan); membikin",
+          "definisi": "Menciptakan, menjadikan, atau menghasilkan sesuatu, baik berupa benda nyata maupun karya abstrak.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "manusia ~ berita, tetapi berita pun membentuk manusia"
-            }
+            { "nomor": 1, "teks": "Manusia membuat berita, tetapi berita pun membentuk manusia." },
+            { "nomor": 2, "teks": "Ia membuat patung dari kayu jati." },
+            { "nomor": 3, "teks": "Mereka membuat film dokumenter tentang kehidupan desa." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "melakukan; mengerjakan",
+          "definisi": "Melakukan atau mengerjakan suatu kegiatan atau pekerjaan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "terserah kepada Anda bagaimana caranya ~ lukisan itu"
-            }
+            { "nomor": 1, "teks": "Terserah kepada Anda bagaimana caranya membuat lukisan itu." },
+            { "nomor": 2, "teks": "Dia membuat pekerjaan rumahnya dengan tekun." },
+            { "nomor": 3, "teks": "Kami membuat persiapan untuk acara besok." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menggunakan (untuk); memakai (untuk)",
+          "definisi": "Menggunakan atau memanfaatkan sesuatu untuk tujuan tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "sanggupkah engkau ~ uang sekian untuk belanja sebulan?"
-            }
+            { "nomor": 1, "teks": "Sanggupkah engkau membuat uang sekian untuk belanja sebulan?" },
+            { "nomor": 2, "teks": "Dia membuat sisa kayu untuk membuat rak buku kecil." },
+            { "nomor": 3, "teks": "Petani itu membuat lahan kosong untuk menanam sayuran." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menyebabkan; mendatangkan",
+          "definisi": "Menyebabkan atau mendatangkan suatu keadaan, perasaan, atau akibat tertentu.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "engkau ~ aku takut"
-            },
-            {
-              "nomor": 4,
-              "teks": "sikapnya yang kurang sopan itu ~ orang lain sakit hati"
-            }
+            { "nomor": 1, "teks": "Engkau membuat aku takut." },
+            { "nomor": 2, "teks": "Sikapnya yang kurang sopan itu membuat orang lain sakit hati." },
+            { "nomor": 3, "teks": "Keputusannya membuat seluruh keluarga bahagia." }
           ]
         }
       ],
       "rootWord": "buat¹",
       "terkait": {
         "kataTurunan": [],
-        "gabunganKata": [
-          "membuat muka"
-        ],
+        "gabunganKata": ["membuat muka"],
         "peribahasa": [
           "dalam rumah membuat rumah",
           "membuat titian berakuk",
@@ -95,15 +69,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "dalam rumah membuat rumah",
-            "makna": ""
+            "makna": "Membuat atau membentuk kelompok sendiri di dalam kelompok besar; memisahkan diri di lingkungan sendiri."
           },
           {
             "peribahasa": "membuat titian berakuk",
-            "makna": ""
+            "makna": "Melakukan sesuatu yang seolah-olah membantu, tetapi sebenarnya justru menyulitkan."
           },
           {
             "peribahasa": "tidak mudah membuat kanji, kurang haru cirit kambingan",
-            "makna": "suatu pekerjaan atau masalah tidak semudah yang dibayangkan, dan seringkali lebih rumit dari perkiraan awal."
+            "makna": "Suatu pekerjaan atau masalah tidak semudah yang dibayangkan, dan sering kali lebih rumit dari perkiraan awal."
           }
         ]
       }
@@ -116,23 +90,14 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Ss",
-              "nama": "Sasak",
-              "tipe": "lainnya"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" },
+            { "kode": "Ss", "nama": "Sasak", "tipe": "lainnya" }
           ],
-          "definisi": "membawa padi bulu dari sawah ke rumah dengan cara dipikul",
+          "definisi": "Membawa padi bulu dari sawah ke rumah dengan cara dipikul (dalam bahasa Sasak).",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "tolong bantu saya -- di sawah"
-            }
+            { "nomor": 1, "teks": "Tolong bantu saya membuat di sawah." },
+            { "nomor": 2, "teks": "Petani itu membuat padi bulu dari sawah ke rumah sebelum hujan turun." },
+            { "nomor": 3, "teks": "Kami membuat hasil panen secara bergotong royong." }
           ]
         }
       ],

@@ -10,27 +10,22 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "patil untuk menarah kayu (kadang-kadang untuk menyiangi tanaman)",
-          "contoh": []
+          "definisi": "Alat berbentuk patil atau kapak kecil yang digunakan untuk menarah kayu dan kadang-kadang untuk menyiangi tanaman.",
+          "contoh": [
+            { "nomor": 1, "teks": "Petani menggunakan rimbas untuk membersihkan batang pohon dari kulitnya." },
+            { "nomor": 2, "teks": "Rimbas digunakan untuk menyiangi rumput liar di sekitar tanaman." },
+            { "nomor": 3, "teks": "Pekerja hutan menarah kayu menggunakan rimbas agar permukaannya rata." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Jawa Kuno rimbas 'kapak (penebang kayu)']",
-        "languages": [
-          "Jawa Kuno"
-        ]
+        "languages": ["Jawa Kuno"]
       },
       "terkait": {
-        "kataTurunan": [
-          "merimbas",
-          "rimbasan"
-        ],
+        "kataTurunan": ["merimbas", "rimbasan"],
         "gabunganKata": [],
         "peribahasa": [
           "hilang jasa beliung, timbul jasa rimbas"
@@ -39,7 +34,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "hilang jasa beliung, timbul jasa rimbas",
-            "makna": ""
+            "makna": "Peribahasa yang menggambarkan situasi ketika pihak yang dahulu berjasa dilupakan atau diabaikan, lalu jasa orang yang datang belakangan justru diakui atau diagungkan."
           }
         ]
       }

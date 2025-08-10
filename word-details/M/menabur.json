@@ -10,22 +10,13 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menghamburkan sesuatu pada; menyebarkan (benih, bunga, dan sebagainya)",
+          "definisi": "Menghamburkan atau menyebarkan sesuatu ke suatu permukaan atau area, baik berupa benih, bunga, maupun benda lainnya, dengan tujuan tertentu seperti menanam, menghias, atau mempersembahkan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "~ benih padi"
-            },
-            {
-              "nomor": 4,
-              "teks": "~ bunga di pekuburan"
-            }
+            { "nomor": 1, "teks": "Petani menabur benih padi di sawah yang baru dibajak." },
+            { "nomor": 2, "teks": "Keluarga almarhum menabur bunga di pusara sebagai tanda penghormatan." },
+            { "nomor": 3, "teks": "Ia menabur pupuk di kebun sayur agar tanaman tumbuh subur." }
           ]
         }
       ],
@@ -46,11 +37,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "menabur (menanam) biji di atas batu",
-            "makna": ""
+            "makna": "Melakukan suatu usaha yang sia-sia karena dilakukan pada kondisi atau tempat yang tidak mendukung sehingga tidak membuahkan hasil."
           },
           {
             "peribahasa": "menabur bijan ke tasik",
-            "makna": "melakukan pekerjaan yang sia-sia atau tidak akan menghasilkan apa-apa."
+            "makna": "Melakukan pekerjaan yang sia-sia atau tidak akan menghasilkan apa-apa."
           }
         ]
       }

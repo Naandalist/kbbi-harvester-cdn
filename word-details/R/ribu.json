@@ -10,26 +10,19 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "satuan bilangan kelipatan seribu yang dilambangkan dengan tiga nol (000) di belakang angka 1—999",
+          "definisi": "Satuan bilangan yang merupakan kelipatan seribu, dilambangkan dengan tiga angka nol (000) setelah angka 1–999.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "tiga --"
-            }
+            { "nomor": 1, "teks": "Jumlah peserta seminar mencapai dua ribu orang." },
+            { "nomor": 2, "teks": "Panitia menyiapkan seribu lembar brosur untuk dibagikan." },
+            { "nomor": 3, "teks": "Penduduk desa itu sekitar lima ribu jiwa." }
           ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta अर्बुद arbuda n net 'jumlah sekitar sepuluh jutaan']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [
@@ -50,7 +43,7 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "ayam bertelur sebutir, ribut seluruh negeri, penyu bertelur beribu-ribu, tiada seorang pun (yang) tahu",
-            "makna": ""
+            "makna": "Peribahasa yang menggambarkan bahwa hal kecil yang dilakukan seseorang bisa menjadi pembicaraan luas, sementara hal besar yang dilakukan orang lain justru tidak diperhatikan atau tidak diketahui."
           }
         ]
       }

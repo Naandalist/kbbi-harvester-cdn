@@ -10,18 +10,13 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menjadikan lebih atau bertambah tinggi",
+          "definisi": "Menjadikan sesuatu lebih tinggi, baik secara fisik maupun kiasan, termasuk meningkatkan kualitas, kedudukan, martabat, atau intensitas suatu hal.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kekayaan dan kemurahan hatinya ~ derajatnya"
-            }
+            { "nomor": 1, "teks": "Pemerintah berupaya mempertinggi mutu pendidikan nasional melalui reformasi kurikulum." },
+            { "nomor": 2, "teks": "Kekayaan dan kemurahan hatinya mempertinggi derajatnya di mata masyarakat." },
+            { "nomor": 3, "teks": "Para pelatih berusaha mempertinggi kemampuan para atlet menjelang kompetisi internasional." }
           ]
         }
       ],
@@ -37,11 +32,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "mempertinggi semangat anjing",
-            "makna": ""
+            "makna": "Memicu atau mendorong orang yang sudah memiliki sifat buruk untuk bertindak lebih buruk lagi."
           },
           {
             "peribahasa": "mempertinggi tempat jatuh, memperdalam tempat kena",
-            "makna": "semakin tinggi kedudukan atau jabatan seseorang, semakin besar pula risiko dan konsekuensi yang harus ditanggung jika melakukan kesalahan."
+            "makna": "Semakin tinggi kedudukan atau jabatan seseorang, semakin besar pula risiko dan konsekuensi yang harus ditanggung jika melakukan kesalahan."
           }
         ]
       }

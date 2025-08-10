@@ -9,61 +9,41 @@
       "makna": [
         {
           "nomor": "1",
-          "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "tempat manusia hidup; dunia; jagat",
+          "kelasKata": [{ "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }],
+          "definisi": "Tempat manusia hidup; dunia; jagat.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "sampai sekarang orang berpendapat bahwa manusia hanya terdapat di --"
-            }
+            { "nomor": 1, "teks": "Sampai sekarang orang berpendapat bahwa manusia hanya terdapat di bumi." },
+            { "nomor": 2, "teks": "Bumi adalah rumah bagi seluruh makhluk hidup." },
+            { "nomor": 3, "teks": "Kerusakan bumi akan berdampak pada generasi mendatang." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Astron",
-              "nama": "Astronomi",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Astron", "nama": "Astronomi", "tipe": "lainnya" }
           ],
-          "definisi": "(ditulis dengan huruf awal kapital) planet ke-3 dari matahari",
-          "contoh": []
+          "definisi": "(Ditulis dengan huruf awal kapital) Planet ke-3 dari matahari.",
+          "contoh": [
+            { "nomor": 1, "teks": "Bumi berotasi pada porosnya setiap 24 jam." },
+            { "nomor": 2, "teks": "Bumi mengelilingi matahari dalam waktu 365 hari." },
+            { "nomor": 3, "teks": "Foto Bumi dari luar angkasa menunjukkan bentuknya yang bulat." }
+          ]
         },
         {
           "nomor": "3",
-          "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
-          ],
-          "definisi": "permukaan dunia; tanah",
+          "kelasKata": [{ "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }],
+          "definisi": "Permukaan dunia; tanah.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kakinya seolah-olah tidak berpijak di --"
-            }
+            { "nomor": 1, "teks": "Kakinya seolah-olah tidak berpijak di bumi." },
+            { "nomor": 2, "teks": "Petani bekerja mengolah bumi demi panen yang baik." },
+            { "nomor": 3, "teks": "Bumi yang subur akan menghasilkan tanaman yang melimpah." }
           ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भूमि bhūmi n f 'tanah, negara, distrik, tempat, bumi']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [
@@ -111,66 +91,21 @@
           "terban bumi tempat berpijak"
         ],
         "peribahasa_dan_makna": [
-          {
-            "peribahasa": "biar pecah perut, bumi merekah",
-            "makna": "Menyatakan tidak mau melakukan sesuatu; keputusan yang tegas."
-          },
-          {
-            "peribahasa": "bumi berputar zaman beredar",
-            "makna": "Keadaan zaman atau masa akan selalu berubah."
-          },
-          {
-            "peribahasa": "bumi mana yang tak kena hujan",
-            "makna": "Setiap manusia tidak luput dari kesalahan; setiap orang pasti pernah melakukan kesalahan atau kesilapan."
-          },
-          {
-            "peribahasa": "bumi tak selebar daun kelor",
-            "makna": "Dunia ini tidak sempit atau tidak terbatas; nasihat agar seseorang tidak mudah putus asa dalam menghadapi masalah atau kegagalan, karena masih banyak kesempatan lain yang bisa didapatkan."
-          },
-          {
-            "peribahasa": "bumi tidak selebar daun kelor",
-            "makna": "Dunia ini tidaklah sempit, melainkan luas; nasihat agar seseorang tidak mudah putus asa dalam menghadapi masalah atau kegagalan, karena selalu ada kesempatan dan jalan lain."
-          },
-          {
-            "peribahasa": "di mana bumi dipijak, di sana langit dijunjung",
-            "makna": ""
-          },
-          {
-            "peribahasa": "di mana bumi dipijak, di situ langit dijunjung",
-            "makna": ""
-          },
-          {
-            "peribahasa": "hidup dikandung adat, mati dikandung bumi",
-            "makna": ""
-          },
-          {
-            "peribahasa": "hujan menimpa bumi",
-            "makna": ""
-          },
-          {
-            "peribahasa": "jadi bumi langit",
-            "makna": ""
-          },
-          {
-            "peribahasa": "kalau langit hendak menimpa bumi, bolehkah ditahan dengan telunjuk",
-            "makna": ""
-          },
-          {
-            "peribahasa": "ke langit tak sampai, ke bumi tak nyata",
-            "makna": ""
-          },
-          {
-            "peribahasa": "laut mana yang tak berombak, bumi mana yang tak ditimpa hujan",
-            "makna": ""
-          },
-          {
-            "peribahasa": "sebesar-besarnya bumi, ditampar tak kena",
-            "makna": ""
-          },
-          {
-            "peribahasa": "terban bumi tempat berpijak",
-            "makna": ""
-          }
+          { "peribahasa": "biar pecah perut, bumi merekah", "makna": "Tekad yang teguh untuk tidak melakukan sesuatu meskipun dalam keadaan sulit atau terdesak." },
+          { "peribahasa": "bumi berputar zaman beredar", "makna": "Keadaan dan zaman selalu berubah seiring berjalannya waktu." },
+          { "peribahasa": "bumi mana yang tak kena hujan", "makna": "Setiap orang pasti pernah melakukan kesalahan; tiada manusia yang sempurna." },
+          { "peribahasa": "bumi tak selebar daun kelor", "makna": "Dunia ini luas, banyak peluang yang bisa didapatkan; jangan berputus asa." },
+          { "peribahasa": "bumi tidak selebar daun kelor", "makna": "Dunia ini tidak sempit, masih banyak kesempatan dan jalan keluar." },
+          { "peribahasa": "di mana bumi dipijak, di sana langit dijunjung", "makna": "Kita harus menyesuaikan diri dan menghormati adat istiadat di tempat kita berada." },
+          { "peribahasa": "di mana bumi dipijak, di situ langit dijunjung", "makna": "Seseorang hendaknya menyesuaikan diri dengan aturan dan kebiasaan di lingkungan tempat tinggalnya." },
+          { "peribahasa": "hidup dikandung adat, mati dikandung bumi", "makna": "Selama hidup terikat oleh adat istiadat, setelah meninggal kembali ke tanah." },
+          { "peribahasa": "hujan menimpa bumi", "makna": "Rezeki atau kebaikan yang datang melimpah." },
+          { "peribahasa": "jadi bumi langit", "makna": "Perbedaan yang sangat besar; berlawanan sekali." },
+          { "peribahasa": "kalau langit hendak menimpa bumi, bolehkah ditahan dengan telunjuk", "makna": "Jika musibah besar datang, tidak ada kekuatan manusia yang dapat mencegahnya." },
+          { "peribahasa": "ke langit tak sampai, ke bumi tak nyata", "makna": "Cita-cita yang terlalu tinggi tetapi tidak realistis, akhirnya tidak tercapai." },
+          { "peribahasa": "laut mana yang tak berombak, bumi mana yang tak ditimpa hujan", "makna": "Setiap orang atau tempat pasti pernah mengalami masalah atau cobaan." },
+          { "peribahasa": "sebesar-besarnya bumi, ditampar tak kena", "makna": "Sesuatu yang tampaknya besar atau luas, tetapi sulit atau mustahil digapai." },
+          { "peribahasa": "terban bumi tempat berpijak", "makna": "Hilangnya tempat bergantung atau sandaran hidup." }
         ]
       }
     },
@@ -182,26 +117,20 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "Bm",
-              "nama": "Bima",
-              "tipe": "lainnya"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "Bm", "nama": "Bima", "tipe": "lainnya" }
           ],
-          "definisi": "pangkat adat pada majelis peradilan Kesultanan Bima",
-          "contoh": []
+          "definisi": "Pangkat adat pada majelis peradilan Kesultanan Bima.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia diangkat menjadi bumi dalam struktur adat Kesultanan Bima." },
+            { "nomor": 2, "teks": "Bumi bertugas mengatur tata tertib peradilan adat." },
+            { "nomor": 3, "teks": "Sebagai bumi, ia memiliki kewenangan tertentu dalam persidangan adat." }
+          ]
         }
       ],
       "etimologi": {
         "text": "[Sanskerta भूमि bhūmi n f 'tanah, negara, distrik, tempat, bumi']",
-        "languages": [
-          "Sanskerta"
-        ]
+        "languages": ["Sanskerta"]
       },
       "terkait": {
         "kataTurunan": [],

@@ -10,57 +10,38 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "(bagian) yang di belakang sekali; ekor",
+          "definisi": "(Bagian) yang di belakang sekali; ekor",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "sup --"
-            }
+            { "nomor": 1, "teks": "Sup buntut menjadi hidangan khas di restoran itu." },
+            { "nomor": 2, "teks": "Kucing itu mengibaskan buntutnya." },
+            { "nomor": 3, "teks": "Bendera kecil di buntut pesawat berwarna merah putih." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" }
           ],
-          "definisi": "kesudahan; akibat",
+          "definisi": "Kesudahan; akibat",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kejadian ini masih ada --nya"
-            }
+            { "nomor": 1, "teks": "Keributan itu masih ada buntutnya sampai sekarang." },
+            { "nomor": 2, "teks": "Keputusan yang salah akan punya buntut panjang." },
+            { "nomor": 3, "teks": "Buntut dari skandal itu membuatnya kehilangan jabatan." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "n",
-              "nama": "Nomina",
-              "tipe": "kelas_kata"
-            },
-            {
-              "kode": "cak",
-              "nama": "Cakapan",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "n", "nama": "Nomina", "tipe": "kelas_kata" },
+            { "kode": "cak", "nama": "Cakapan", "tipe": "kelas_kata" }
           ],
-          "definisi": "permainan judi yang menebak angka-angka akhir dari suatu undian resmi; judi buntut",
+          "definisi": "Permainan judi yang menebak angka-angka akhir dari suatu undian resmi; judi buntut",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "permainan menebak --"
-            }
+            { "nomor": 1, "teks": "Ia tertangkap saat bermain judi buntut." },
+            { "nomor": 2, "teks": "Banyak warga desa ikut menebak buntut undian." },
+            { "nomor": 3, "teks": "Perjudian buntut dilarang oleh pemerintah." }
           ]
         }
       ],
@@ -91,11 +72,11 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "ada kepala tidak mematuk, ada buntut tidak melilit",
-            "makna": "Seseorang yang tidak berdaya atau tidak memiliki kekuatan untuk berbuat apa-apa, meskipun secara fisik ia memiliki anggota tubuh yang seharusnya bisa digunakan untuk bertindak; menggambarkan keadaan seseorang yang tidak mampu menggunakan kekuasaan atau kemampuannya."
+            "makna": "Ungkapan untuk seseorang yang tidak memanfaatkan potensi, kekuasaan, atau kemampuannya, padahal secara fisik atau jabatan ia mampu."
           },
           {
             "peribahasa": "siput memuji buntut",
-            "makna": ""
+            "makna": "Sindiran kepada orang yang membanggakan hal kecil atau tidak berarti, seolah-olah itu istimewa."
           }
         ]
       }

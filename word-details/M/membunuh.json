@@ -10,31 +10,26 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menghilangkan (menghabisi; mencabut) nyawa; mematikan",
+          "definisi": "Menghilangkan atau mencabut nyawa makhluk hidup dengan sengaja atau tidak sengaja; mematikan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "ia dihukum mati karena merampok dan ~ beberapa orang"
-            }
+            { "nomor": 1, "teks": "Ia dihukum mati karena merampok dan membunuh beberapa orang." },
+            { "nomor": 2, "teks": "Pemburu itu tertangkap karena membunuh satwa yang dilindungi." },
+            { "nomor": 3, "teks": "Bahan kimia beracun digunakan untuk membunuh serangga perusak tanaman." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menghapus (tulisan); memadamkan (api dan sebagainya); menutup (yang bocor, pancuran, dan sebagainya)",
-          "contoh": []
+          "definisi": "Menghentikan atau menghapus sesuatu seperti tulisan, api, atau aliran; memadamkan atau menutup.",
+          "contoh": [
+            { "nomor": 1, "teks": "Petugas pemadam kebakaran berhasil membunuh api dalam waktu singkat." },
+            { "nomor": 2, "teks": "Ia membunuh aliran air dari pipa bocor dengan menutup kerannya." },
+            { "nomor": 3, "teks": "Guru menyuruh murid membunuh tulisan di papan tulis sebelum memulai pelajaran baru." }
+          ]
         }
       ],
       "rootWord": "bunuh",
@@ -54,11 +49,21 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "misai bertaring bagai panglima, sebulan sekali tak membunuh orang",
-            "makna": ""
+            "makna": "Bersikap atau berpenampilan garang dan menakutkan, tetapi tidak pernah benar-benar melakukan tindakan yang sepadan."
           },
           {
             "peribahasa": "umpat tidak membunuh, puji tidak mengenyang",
-            "makna": "cacian tidak akan mencelakakan, dan pujian tidak akan mengenyangkan; perkataan tidak dapat mengubah kenyataan fisik atau kebutuhan dasar."
+            "makna": "Cacian tidak akan mencelakakan, dan pujian tidak akan mengenyangkan; perkataan tidak dapat mengubah kenyataan fisik atau kebutuhan dasar."
+          }
+        ],
+        "idiom_dan_makna": [
+          {
+            "idiom": "membunuh semangat",
+            "makna": "Menghilangkan motivasi atau antusiasme seseorang."
+          },
+          {
+            "idiom": "membunuh waktu",
+            "makna": "Melakukan kegiatan untuk mengisi waktu sambil menunggu sesuatu."
           }
         ]
       }

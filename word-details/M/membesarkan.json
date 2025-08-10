@@ -10,81 +10,62 @@
         {
           "nomor": "1",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "menjadikan (menyebabkan, menambah) besar; memperbanyak",
+          "definisi": "Menjadikan sesuatu berukuran lebih besar atau lebih banyak; meningkatkan kuantitas, kapasitas, atau volume.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "hal itu akan ~ biaya saja"
-            },
-            {
-              "nomor": 4,
-              "teks": "ia selalu berusaha ~ modal"
-            }
+            { "nomor": 1, "teks": "Hal itu akan membesarkan biaya saja." },
+            { "nomor": 2, "teks": "Ia selalu berusaha membesarkan modal." },
+            { "nomor": 3, "teks": "Perusahaan tersebut membesarkan kapasitas produksinya untuk memenuhi permintaan pasar." }
           ]
         },
         {
           "nomor": "2",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memuliakan",
+          "definisi": "Memberikan penghormatan atau pengakuan tinggi; memuliakan.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "kita ~ sejarah masa lampau"
-            }
+            { "nomor": 1, "teks": "Kita membesarkan sejarah masa lampau." },
+            { "nomor": 2, "teks": "Masyarakat membesarkan jasa para pahlawan." },
+            { "nomor": 3, "teks": "Upacara tersebut diadakan untuk membesarkan nama tokoh nasional." }
           ]
         },
         {
           "nomor": "3",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "mengasuh (hingga besar)",
+          "definisi": "Mengasuh dan merawat hingga menjadi besar, baik secara fisik maupun mental.",
           "contoh": [
-            {
-              "nomor": 2,
-              "teks": "ayah bundaku berusaha keras untuk ~ aku hingga menjadi dewasa dan dapat mencari nafkah sendiri"
-            }
+            { "nomor": 1, "teks": "Ayah bundaku berusaha keras untuk membesarkan aku hingga menjadi dewasa dan dapat mencari nafkah sendiri." },
+            { "nomor": 2, "teks": "Ia membesarkan adiknya setelah kedua orang tua mereka meninggal." },
+            { "nomor": 3, "teks": "Mereka membesarkan anak-anaknya dengan penuh kasih sayang." }
           ]
         },
         {
           "nomor": "4",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "memasang (menyalakan) lampu, api, dan sebagainya hingga besar",
-          "contoh": []
+          "definisi": "Memasang atau menyalakan lampu, api, dan sebagainya hingga berukuran atau berkekuatan lebih besar.",
+          "contoh": [
+            { "nomor": 1, "teks": "Petugas membesarkan api unggun saat suhu mulai menurun." },
+            { "nomor": 2, "teks": "Ia membesarkan lampu pelita untuk menerangi ruangan." },
+            { "nomor": 3, "teks": "Koki membesarkan api kompor untuk mempercepat proses memasak." }
+          ]
         },
         {
           "nomor": "5",
           "kelasKata": [
-            {
-              "kode": "v",
-              "nama": "Verba",
-              "tipe": "kelas_kata"
-            }
+            { "kode": "v", "nama": "Verba", "tipe": "kelas_kata" }
           ],
-          "definisi": "membuat lebih nyaring (tentang suara)",
-          "contoh": []
+          "definisi": "Meningkatkan intensitas atau kekuatan suara agar terdengar lebih nyaring.",
+          "contoh": [
+            { "nomor": 1, "teks": "Ia membesarkan volume musik agar terdengar di seluruh ruangan." },
+            { "nomor": 2, "teks": "Penyiar membesarkan suara saat menyampaikan berita penting." },
+            { "nomor": 3, "teks": "Guru membesarkan suaranya agar seluruh murid mendengar dengan jelas." }
+          ]
         }
       ],
       "rootWord": "besar",
@@ -103,15 +84,15 @@
         "peribahasa_dan_makna": [
           {
             "peribahasa": "akar yang membesarkan, buah yang disanjung orang",
-            "makna": ""
+            "makna": "Pihak yang berperan besar dalam mendukung atau memelihara sesuatu sering kali tidak mendapatkan penghargaan, sementara hasilnya dipuji dan dimanfaatkan orang lain."
           },
           {
             "peribahasa": "membesarkan kerak nasi",
-            "makna": ""
+            "makna": "Memperbesar masalah atau mengungkit sesuatu yang seharusnya tidak perlu dibesar-besarkan."
           },
           {
             "peribahasa": "tiada membesarkan air",
-            "makna": ""
+            "makna": "Tidak menyebabkan permasalahan atau keributan menjadi lebih besar dari yang sebenarnya."
           }
         ]
       }
