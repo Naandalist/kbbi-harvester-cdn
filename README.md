@@ -64,5 +64,5 @@ Open-source and free to use. Let your ideas fly! ✈️
 
 ---
 
-Made with ⏰ by [Naandalist](https://github.com/Naandalist)
+Made with ⏰ by [mlengse](https://github.com/mlengse)
 Forked by [mlengse](https://github.com/mlengse)

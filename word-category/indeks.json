@@ -58,10 +58,10 @@
   "api_endpoints": {
     "description": "Suggested CDN endpoints for category data:",
     "endpoints": [
-      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/categories.json",
-      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/word-classes.json",
-      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/languages.json",
-      "https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-category/subject-domains.json"
+      "https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester@main/word-category/categories.json",
+      "https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester@main/word-category/word-classes.json",
+      "https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester@main/word-category/languages.json",
+      "https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester@main/word-category/subject-domains.json"
     ]
   },
   "most_common_categories": [
