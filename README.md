@@ -12,7 +12,7 @@ Get KBBI word details as JSON files directly via CDN.
 Just plug the URL into your code:
 
 ```
-https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-details/P/pintar.json
+https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester-cdn@main/word-details/P/pintar.json
 ```
 
 Swap out `P/pintar.json` for any word you want to fetch!
@@ -36,7 +36,7 @@ Swap out `P/pintar.json` for any word you want to fetch!
    (Spaces in words? Use `%20`! For example, `a tempo` → `a%20tempo.json`)
 3. 🌐 Use the magic CDN URL:  
    ```
-   https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-details/{First Letter}/{word}.json
+   https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester-cdn@main/word-details/{First Letter}/{word}.json
    ```
 
 ---
@@ -47,7 +47,7 @@ Want the definition for “pintar”?
 Just hit:
 
 ```
-https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-details/P/pintar.json
+https://cdn.jsdelivr.net/gh/mlengse/kbbi-harvester-cdn@main/word-details/P/pintar.json
 ```
 
 ---
@@ -81,4 +81,4 @@ Open-source and free to use. Let your ideas fly! ✈️
 
 ---
 
-Made with ⏰ by [Naandalist](https://github.com/Naandalist)
+Made with ⏰ by [mlengse](https://github.com/mlengse)
