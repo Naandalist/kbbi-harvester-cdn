@@ -51,7 +51,24 @@ https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester@main/word-details/P/pintar
 ```
 
 ---
+## 🖥️ Windows Compatibility
 
+This repo contains **112K+ files**. If you're on Windows:
+
+1. **Enable long paths** in Windows (required for paths > 260 chars):
+   - Run in PowerShell (Admin): `New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force`
+   - Or enable via Group Policy: *Computer Configuration > Administrative Templates > System > Filesystem > Enable Win32 long paths*
+2. **Configure Git** to use long paths:
+   ```
+   git config --system core.longpaths true
+   ```
+3. **Exclude the clone folder from Windows Defender** real-time scanning to speed up checkout significantly.
+4. Use a **shallow clone** to reduce download size:
+   ```
+   git clone --depth 1 https://github.com/mlengse/kbbi-harvester-cdn.git
+   ```
+
+---
 ## 🤝 Contributing & Feedback
 
 Found a missing word or have a suggestion? PRs and issues are always welcome – let’s make KBBI even better together! 💬🙌
