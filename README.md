@@ -27,6 +27,12 @@ Swap out `P/pintar.json` for any word you want to fetch!
 - 📁 `wordlist/`  
   Quick lists of all available words – perfect for lookups and suggestions.
 
+- 📁 `orthos/`  
+  Referensi aturan dan teori pemenggalan kata (termasuk Liang Thesis dan Patgen2 Tutorial).
+
+- 📄 `pemenggalan_kata.md`  
+  Aturan pemenggalan kata bahasa Indonesia (Indonesian hyphenation rules).
+
 ---
 
 ## 🛠️ Quick Start Guide
