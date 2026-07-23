@@ -196,8 +196,6 @@ Repo ini berisi **112K+ files**. Jika di Windows:
 - **Source Code**: GNU General Public License v3.0 (GPLv3) — Copyright (c) 2026 [mLengse](mailto:[medtosys@gmail.com]).
 - **Original Dictionary Data**: ISC License — Copyright (c) 2025 Listiananda Apriliawan.
 
-*(Perusahaan yang ingin menggunakan server/kode ini untuk produk komersial tertutup tanpa membuka source code mereka, wajib menghubungi author untuk lisensi komersial).*
-
 ---
 
 Dikembangkan untuk keperluan training NLP/Stemmer.  
