@@ -3,3 +3,9 @@ extract_categories.py
 
 **.py
 **.sh
+
+# Node.js / TypeScript
+node_modules/
+build/
+*.js.map
+*.d.ts.map
