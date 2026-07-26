@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 const texPath = path.join(__dirname, '..', '..', 'bahasa_indonesia', 'pemenggalan', 'patgen-train-colab', 'hyph-id-eydv.tex');
-const outputPath = path.join(__dirname, '..', 'patterns', 'id.js');
+const outputPath = path.join(__dirname, '..', 'patterns', 'id.cjs');
 
 // Read TeX file
 const tex = fs.readFileSync(texPath, 'utf-8');
@@ -92,44 +92,9 @@ for (const len of sortedLengths) {
 }
 
 js += `  },
-  exceptions: {
-    // Common words that need manual hyphenation
-    // Format: "word": "hy-phen-at-ed"
-    "air": "a-ir",
-    "hari": "ha-ri",
-    "orang": "o-rang",
-    "guru": "gu-ru",
-    "lari": "la-ri",
-    "pintar": "pin-tar",
-    "besar": "be-sar",
-    "bulan": "bu-lan",
-    "tahun": "ta-hun",
-    "cantik": "can-tik",
-    "panjang": "pan-jang",
-    "hidung": "hi-dung",
-    "murid": "mu-rid",
-    "leher": "le-her",
-    "mengerti": "meng-er-ti",
-    "menyanyi": "me-nya-nyi",
-    "berenang": "be-re-nang",
-    "berhitung": "ber-hi-tung",
-    "menjumlahkan": "men-jum-lah-kan",
-    "mengalikan": "me-nga-li-kan",
-    "kemerdekaan": "ke-mer-de-ka-an",
-    "pemerintahan": "pe-me-rin-tah-an",
-    "kebersihan": "ke-ber-sih-an",
-    "kesehatan": "ke-se-hat-an",
-    "perhatian": "per-ha-ti-an",
-    "pembelajaran": "pem-bel-a-jar-an",
-    "Indonesia": "In-do-ne-si-a",
-    "makan": "ma-kan",
-    "jalan": "ja-lan",
-    "memakan": "me-ma-kan",
-    "pengajaran": "peng-a-jar-an",
-    "berjalan": "ber-ja-lan",
-    "membagikan": "mem-ba-gi-kan",
-    "penilaian": "pe-ni-la-i-an",
-  }
+  // Exceptions: comma-separated, use \u2027 (hyphenation point) as syllable break
+  // Format: "word1\\u2027syll1\\u2027syll2,word2\\u2027syll1\\u2027syll2"
+  exceptions: "a\\u2027ir,ha\\u2027ri,o\\u2027rang,gu\\u2027ru,la\\u2027ri,pin\\u2027tar,be\\u2027sar,bu\\u2027lan,ta\\u2027hun,can\\u2027tik,pan\\u2027jang,hi\\u2027dung,mu\\u2027rid,le\\u2027her,meng\\u2027er\\u2027ti,me\\u2027nya\\u2027nyi,be\\u2027re\\u2027nang,ber\\u2027hi\\u2027tung,men\\u2027jum\\u2027lah\\u2027kan,me\\u2027nga\\u2027li\\u2027kan,ke\\u2027mer\\u2027de\\u2027ka\\u2027an,pe\\u2027me\\u2027rin\\u2027tah\\u2027an,ke\\u2027ber\\u2027sih\\u2027an,ke\\u2027se\\u2027hat\\u2027an,per\\u2027ha\\u2027ti\\u2027an,pem\\u2027bel\\u2027a\\u2027jar\\u2027an,In\\u2027do\\u2027ne\\u2027si\\u2027a,ma\\u2027kan,ja\\u2027lan,me\\u2027ma\\u2027kan,peng\\u2027a\\u2027jar\\u2027an,ber\\u2027ja\\u2027lan,mem\\u2027ba\\u2027gi\\u2027kan,pe\\u2027ni\\u2027la\\u2027i\\u2027an"
 };
 `;
 

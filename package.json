@@ -9,6 +9,7 @@
   },
   "scripts": {
     "build": "tsc",
+    "build:browser": "node scripts/build-browser.cjs",
     "dev": "tsx src/index.ts",
     "start": "node build/index.js",
     "inspect": "npx @modelcontextprotocol/inspector build/index.js"
@@ -26,10 +27,12 @@
   "author": "mLengse <[medtosys@gmail.com]>",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1",
+    "hypher": "github:mlengse/hypher",
     "zod": "^3.25.67"
   },
   "devDependencies": {
     "@types/node": "^22.15.29",
+    "esbuild": "^0.28.1",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   }
