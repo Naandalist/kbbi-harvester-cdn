@@ -12,3 +12,7 @@ dist/
 *.d.ts.map
 
 .idea/
+
+# OS junk
+.DS_Store
+**/.DS_Store
