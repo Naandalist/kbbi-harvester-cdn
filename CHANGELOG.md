@@ -7,6 +7,9 @@ First stable release.
 ### Added
 - `dataset.json` with entry counts, schema version, and CDN base URL
 - `schema.json` with JSON Schema for word-details files
+- `index.json` — flat word index for offline lookup
+- `CONTRIBUTING.md` with contribution guidelines
+- Issue templates for data errors and documentation
 - CI workflow: JSON validation, junk-file check, smoke test
 - This changelog
 
