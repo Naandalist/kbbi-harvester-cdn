@@ -64,7 +64,6 @@ Each word file follows this structure:
 ```json
 {
   "word": "pintar",
-  "authenticated": true,
   "entries": [
     {
       "id": "63778",
@@ -86,7 +85,14 @@ Each word file follows this structure:
               "nomor": 2,
               "teks": "ia termasuk anak yang -- di kelasnya"
             }
-          ]
+          ],
+          "terkait": {
+            "kataTurunan": [],
+            "gabunganKata": [],
+            "peribahasa": [],
+            "idiom": [],
+            "peribahasa_dan_makna": []
+          }
         }
       ]
     }
@@ -101,6 +107,7 @@ Each word file follows this structure:
 | `entries[].makna` | Array of meanings with definitions, examples, and grammatical labels |
 | `kelasKata` | Grammatical categories (`kode` = code, `nama` = name, `tipe` = classification) |
 | `contoh` | Usage examples; `--` marks where the headword appears |
+| `terkait` | Related items: `kataTurunan`, `gabunganKata`, `peribahasa`, `idiom`, `peribahasa_dan_makna` |
 
 ## Related Projects
 
