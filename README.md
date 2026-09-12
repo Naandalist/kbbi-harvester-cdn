@@ -109,6 +109,66 @@ Each word file follows this structure:
 | `contoh` | Usage examples; `--` marks where the headword appears |
 | `terkait` | Related items: `kataTurunan`, `gabunganKata`, `peribahasa`, `idiom`, `peribahasa_dan_makna` |
 
+> **Note:** The structure above is the *maximum* shape. Actual data varies per word, so always code defensively against missing fields.
+
+## Data Variability
+
+Every word file follows the schema above, but fields are **not guaranteed to be populated**. The dataset reflects what KBBI actually contains: some words are simple cross-references, others have dozens of meanings and examples.
+
+### What varies
+
+| Aspect | Range | Notes |
+|--------|-------|-------|
+| Entries per file | 1–11 | Most files have 1 entry; some words have multiple numbered senses |
+| Meanings per entry | 1–21 | Most have 1 meaning; common words like "rambang" can have 10+ |
+| `contoh` (examples) | 0–8 per meaning | ~80% of meanings have no examples |
+| `kelasKata` (word class) | 0–multiple | Some cross-references have an empty array |
+| `terkait` (related) | Always present | Keys are always present but usually empty |
+
+### Concrete examples
+
+**Simple word** (`rangsum`) - 1 entry, 1 meaning, no examples, cross-reference definition:
+```json
+{
+  "word": "rangsum",
+  "entries": [{
+    "id": "67423",
+    "nama": "rang.sum",
+    "makna": [{
+      "nomor": "1",
+      "kelasKata": [],
+      "definisi": "→ ransum",
+      "contoh": []
+    }]
+  }]
+}
+```
+
+**Word with examples** (`rames`) - has `contoh` with `--` marking where the headword appears:
+```json
+{
+  "contoh": [{ "nomor": 2, "teks": "nasi --" }]
+}
+```
+
+**Multi-entry word** (`rembes`) - multiple numbered entries for distinct senses.
+
+### Handling in code
+
+Always check for field existence before accessing:
+
+```javascript
+const meanings = data.entries?.[0]?.makna ?? [];
+const examples = meanings.flatMap(m => m.contoh ?? []);
+const wordClass = meanings[0]?.kelasKata?.[0]?.nama ?? "unknown";
+```
+
+## Offline Use
+
+For apps that need the full dataset without CDN requests:
+
+- **`index.json`** - flat JSON array of all 112,596 word keys (fast lookup/filter)
+
 ## Related Projects
 
 - [kbbi-app](https://github.com/Naandalist/kbbi-app) - Web application for browsing KBBI entries
@@ -116,4 +176,4 @@ Each word file follows this structure:
 
 ## License
 
-ISC License -- covers repository packaging and tooling only. Dictionary content rights remain with the original source (Badan Bahasa).
+MIT License - [Listiananda Apriliawan](https://naandalist.com)
