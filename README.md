@@ -114,12 +114,6 @@ Each word file follows this structure:
 For apps that need the full dataset without CDN requests:
 
 - **`index.json`** — flat JSON array of all 112,596 word keys (fast lookup/filter)
-- **Per-letter zips** — download individual letters for partial offline access
-
-To generate zip archives locally:
-```bash
-bash scripts/build_releases.sh
-```
 
 ## Related Projects
 
