@@ -176,4 +176,4 @@ For apps that need the full dataset without CDN requests:
 
 ## License
 
-MIT License - covers repository packaging and tooling only. Dictionary content rights remain with the original source (Badan Bahasa).
+MIT License - [Listiananda Apriliawan](https://naandalist.com). Dictionary content rights remain with the original source (Badan Bahasa).
