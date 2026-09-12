@@ -9,13 +9,13 @@ Unofficial JSON dataset of *Kamus Besar Bahasa Indonesia* (KBBI) served via jsDe
 Fetch any word as JSON directly from the CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@main/word-details/P/pintar.json
+https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@v1.0.0/word-details/P/pintar.json
 ```
 
 ### JavaScript
 
 ```javascript
-const res = await fetch('https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@main/word-details/P/pintar.json');
+const res = await fetch('https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@v1.0.0/word-details/P/pintar.json');
 const data = await res.json();
 console.log(data);
 ```
@@ -23,8 +23,10 @@ console.log(data);
 ### cURL
 
 ```bash
-curl https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@main/word-details/P/pintar.json
+curl https://cdn.jsdelivr.net/gh/Naandalist/kbbi-harvester-cdn@v1.0.0/word-details/P/pintar.json
 ```
+
+> **Version pinning:** URLs above use `@v1.0.0` for stability. Replace with `@main` for latest, or pin to a specific tag. See [CHANGELOG.md](CHANGELOG.md) for available versions.
 
 ## Folder Structure
 
@@ -41,8 +43,19 @@ word-category/         Grammatical category, language, and subject domain data
 ## Path Rules
 
 - Folder names use the **uppercase first letter** of the word (e.g. `P/pintar.json`)
-- Spaces in multi-word entries are encoded as `%20` (e.g. `a tempo` -> `A/a%20tempo.json`)
+- Filenames match the `word` field verbatim with `.json` appended
+- Spaces in multi-word entries are encoded as `%20` in URLs
+- Unicode characters are left as-is; jsDelivr and browsers handle encoding
 - All paths are case-sensitive
+
+### Word-to-Path Conversion
+
+| Word | Path |
+|------|------|
+| `pintar` | `word-details/P/pintar.json` |
+| `a tempo` | `word-details/A/a%20tempo.json` |
+| `a.k.b.` | `word-details/A/a.k.b..json` |
+| `Amerika Serikat` | `word-details/A/Amerika%20Serikat.json` |
 
 ## JSON Schema
 
