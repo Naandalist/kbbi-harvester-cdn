@@ -1,5 +1,22 @@
-cleanup_semicolons.py
-extract_categories.py
+# OS
+.DS_Store
+Thumbs.db
 
-**.py
-**.sh
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
