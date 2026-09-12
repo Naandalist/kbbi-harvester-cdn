@@ -15,6 +15,7 @@ First stable release.
 
 ### Changed
 - License changed from ISC to MIT
+- Simplified license line in README
 - **Breaking:** Removed `authenticated` field from all word-details files
 - **Breaking:** Added `terkait` object to all `makna` entries with keys: `kataTurunan`, `gabunganKata`, `peribahasa`, `idiom`, `peribahasa_dan_makna`
 
