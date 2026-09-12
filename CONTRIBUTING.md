@@ -8,9 +8,9 @@ This is a **data repository**, not a code project. It holds JSON files harvested
 
 ## What to Contribute
 
-- **Data errors** — wrong definitions, typos, missing entries (open an issue)
-- **Documentation fixes** — corrections, clearer examples
-- **CI/validation improvements** — better checks to prevent bad data
+- **Data errors** - wrong definitions, typos, missing entries (open an issue)
+- **Documentation fixes** - corrections, clearer examples
+- **CI/validation improvements** - better checks to prevent bad data
 
 ## What NOT to Send
 
