@@ -6,8 +6,13 @@ First stable release.
 
 ### Added
 - `dataset.json` with entry counts, schema version, and CDN base URL
+- `schema.json` with JSON Schema for word-details files
 - CI workflow: JSON validation, junk-file check, smoke test
 - This changelog
+
+### Changed
+- **Breaking:** Removed `authenticated` field from all word-details files
+- **Breaking:** Added `terkait` object to all `makna` entries with keys: `kataTurunan`, `gabunganKata`, `peribahasa`, `idiom`, `peribahasa_dan_makna`
 
 ### Fixed
 - CDN URLs corrected to point at `kbbi-harvester-cdn` (was `kbbi-harvester`)
